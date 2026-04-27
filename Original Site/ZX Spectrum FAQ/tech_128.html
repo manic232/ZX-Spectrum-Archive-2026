@@ -1,0 +1,405 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+
+<head>
+<title>Spectrum FAQ - 128K Technical Information</title>
+</head>
+
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#660099" alink="#ff0000">
+
+<p align="center">
+<a href="index.html">[FAQ]</a><br>
+<a href="faqs.html">[Frequently&nbsp;Asked&nbsp;Questions]</a>
+<a href="resource.html">[Resources]</a>
+<a href="emulator.html">[Emulators]</a>
+<a href="where_is.html">[Where&nbsp;Is...?]</a>
+<a href="fileform.html">[File&nbsp;Formats]</a>
+<a href="technica.html">[Technical&nbsp;Information]</a>
+<a href="pinouts.html">[Pinouts]</a>
+<a href="acknowle.html">[Acknowledgements]</a>
+</p>
+
+<table width="100%" bgcolor="#eeeeaa">
+<tr><th><font size="+3">128K TECHNICAL INFORMATION</font></th>
+</table>
+<p align="center">This page last updated on 20 May 1999</p>
+
+<P ALIGN=CENTER>
+<a href="tech_z80.html">[Z80 Tech Info]</a>
+<a href="tech_48.html">[48K Tech Info]</a>
+[128K Tech Info]
+<a href="ports.html">[Peripheral Ports]</a>
+</P>
+<P ALIGN=CENTER>
+<a href="tech_z80.html#Z80CPU">[Z80&nbsp;CPU]</a>
+<a href="tech_z80.html#CB">[CB&nbsp;ops]</a>
+<a href="tech_z80.html#ED">[ED&nbsp;ops]</a>
+<a href="tech_z80.html#DDFD">[DD/FD&nbsp;ops]</a>
+<a href="tech_z80.html#RREG">[R&nbsp;reg]</a>
+<a href="tech_z80.html#UNDOC">[Undocumented&nbsp;flags]</a>
+<a href="tech_z80.html#INTERRUPTS">[Interrupts]</a>
+<BR>
+<a href="tech_48.html#STREAMS">[Channels&nbsp;&amp;&nbsp;Streams]</a>
+<BR>
+<a href="tech_48.html#HARDWARE">[Hardware]</a>
+<a href="tech_48.html#FE">[Port&nbsp;FE]</a>
+<a href="tech_48.html#48K">[The&nbsp;48K&nbsp;Spectrum]</a>
+<a href="tech_48.html#CONTENDED">[Contended Memory]</a>
+<BR>
+<a href="tech_48.html#IF1">[Interface&nbsp;1]</a>
+<a href="tech_48.html#E7">[Port&nbsp;E7]</a>
+<a href="tech_48.html#EF">[Port&nbsp;EF]</a>
+<a href="tech_48.html#F7">[Port&nbsp;F7]</a>
+<BR>
+<a href="tech_48.html#JOYSTICKS">[Joysticks]</a>
+<BR>
+<a href="#128K">[The&nbsp;128K/+2&nbsp;Spectrums]</a>
+<a href="#MEM">[Memory]</a>
+<a href="#KEYPAD">[Keypad]</a>
+<a href="#AY">[Sound&nbsp;chip]</a>
+<BR>
+<a href="#PLUS3">[The +2A/+3 Spectrums]</a>
+<a href="#PLUS3MEM">[Memory]</a>
+<a href="#DISK">[Disk&nbsp;drive]</a>
+</P>
+
+<A NAME="128K"></A>
+<table width="100%" bgcolor="#f0f0b0">
+<tr><th><font size="+1">THE 128K/+2 SPECTRUMS</font></th>
+</table>
+
+<P>The 128K machine is similar to the 48K machine, but with the extra
+memory, which is accessed by paging it into the top 16K of RAM, and some
+timing differences:</P>
+
+<UL>
+<LI>The main processor runs at 3.54690 MHz, as opposed to 3.50000 MHz.
+<LI>There are 228 T-states per scanline, as opposed to 224.
+<LI>There are 311 scanlines per frame, as opposed to 312.
+<LI>There are 63 scanlines before the television picture, as opposed to 64.
+</UL>
+
+<P>Note that this means that there are 70908 T states per frame, and
+the '50 Hz' interrupt occurs at 50.01 Hz, as compared with 50.08 Hz on
+the 48K machine. The ULA bug which causes snow when I is set to point
+to contended memory still occurs, and also appears to crash the machine
+shortly after I is set to point to contended memory.</P>
+
+<A NAME="MEM"></A>
+<table width="100%" bgcolor="#ffffbb">
+<tr><th>Memory</th>
+</table>
+
+<P>When memory is being paged, interrupts should be disabled and the
+stack should be in an area which is not going to change. If normal
+interrupt code is to run, then the system variable at 5B5Ch (23388)
+must be kept updated with the last value sent to port 7FFDh. It is not
+possible to read this port.</P>
+
+<P>On the 128 and +2, memory is entirely controlled by port 7FFDh. The byte to
+output will be interpreted thus:</P>
+
+<table>
+<tr><td>Bits 0-2</td><td>RAM page (0-7) to map into memory at
+0C000h</td></tr>
+
+<tr><td>Bit 3</td><td>Select normal (0) or shadow (1) screen to be
+displayed. The normal screen is in bank 5, whilst the shadow screen is
+in bank 7. Note that this does <em>not</em> affect the memory between
+0x4000 and 0x7fff, which is always bank 5.</td></tr>
+
+<tr><td>Bit 4</td><td>ROM select. ROM 0 is the 128k editor and menu
+system; ROM 1 contains 48k BASIC.</td></tr>
+
+<tr><td>Bit 5</td><td>If set, memory paging will be disabled and further output to this port will be ignored until the computer is reset.</td></tr>
+</table>
+
+<P>The memory map of these computers is:</P>
+
+<PRE>
+FFFFh +--------+--------+--------+--------+--------+--------+--------+--------+
+      | Bank 0 | Bank 1 | Bank 2 | Bank 3 | Bank 4 | Bank 5 | Bank 6 | Bank 7 |
+      |        |        |(also at|        |        |(also at|        |        |
+      |        |        | 8000h) |        |        | 4000h) |        |        |
+      |        |        |        |        |        | screen |        | screen |
+C000h +--------+--------+--------+--------+--------+--------+--------+--------+
+      | Bank 2 |        Any one of these pages may be switched in.
+      |        |
+      |        |
+      |        |
+8000h +--------+
+      | Bank 5 |
+      |        |
+      |        |
+      | screen |
+4000h +--------+--------+
+      | ROM 0  | ROM 1  | Either ROM may be switched in.
+      |        |        |
+      |        |        |
+      |        |        |
+0000h +--------+--------+
+</PRE>
+
+<P>RAM banks 1,3,4,6 and most of 7 are used for the silicon disc; the
+rest of 7 contains editor scratchpads.</P>
+
+<P>Memory banks 4-7 are contended, i.e. the processor shares them with
+the ULA.  This reduces the speed of memory access in these banks. Port
+#FE is still contended, and port #7FFD also causes contention, although
+the precise details of this are not known.</P>
+
+<P>An example of a typical bank switch on the 128 is:</P>
+<PRE>
+     LD      A,(5B5Ch)       ;Previous value of port
+     AND     0F8h
+     OR      4               ;Select bank 4
+     LD      BC,7FFDh
+     DI
+     LD      (5B5Ch),A
+     OUT     (C),A
+     EI
+</PRE>
+<P>The principle is the same for all bank switching: change only the bits you
+need to.</P>
+
+<P>The contended memory timings for these machines are similar to that
+for the 48K machine, except that the 6,5,4,3,2,1,0,0 pattern starts at
+14361 T-states after the interrupt, as opposed to 14335.</P>
+
+<A NAME="KEYPAD"></A>
+<table width="100%" bgcolor="#ffffbb">
+<tr><th>Keypad</th>
+</table>
+
+<P>The 128K machine's keypad extra editing facilities are also available via
+the normal keyboard:</P>
+<PRE>
+                 FUNCTION                        KEYS
+                 -----------------------------------------
+                 Beginning of next word          [E] [S] J
+                 Beginning of previous word      [E] I
+                 Up ten lines                    [E] P
+                 Down ten lines                  [S] I
+                 Start of line                   [E] [S] 2
+                 End of line                     [E] M
+                 First line                      [E] N
+                 Last line                       [E] T
+                 Screen                          [E] [S] 8
+                 Delete this character           [E] [S] K
+                 Delete word left                [E] E
+                 Delete word right               [E] W
+                 Delete to start of line         [E] K
+                 Delete to end of line           [E] J
+
+                 [E] = Extended Mode
+                 [S] = Symbol Shift
+</PRE>
+
+<A NAME="AY"></A>
+<table width="100%" bgcolor="#ffffbb">
+<tr><th>Sound Chip</th>
+</table>
+
+<P>The AY-3-8912 sound chip is a widely used one, to be found in the MSX,
+Vectrex, Amstrad CPC range, etc. It is controlled by two I/O ports:</P>
+<PRE>
+OUT (0FFFDh)   - Select a register 0-14
+IN  (0FFFDh)   - Read the value of the selected register
+OUT (0BFFDH)   - Write to the selected register
+</PRE>
+<P>There's a guide to how to use the registers at
+<A HREF="http://andercheran.aiind.upv.es/~amstrad/CPC_Guide/Hardware_Programming/Chips/psg.html">this site</A>
+ - this is for the CPC, so the I/O commands used will be different,
+and on the Spectrum register 14 is used for the serial ports rather
+than the keyboard as on the CPC. There is also an excellent load of
+info on the AY chip in the <TT>techinfo.doc</TT> file accompanying the
+<A HREF="emu_dos.html#Z80">Z80</A> emulator.</P>
+
+<P>The Fuller Box also used the AY-3-8912, with port #3F used to select
+registers and #5F for data. The Fuller Box joysticks were connected to
+port #7F.</P>
+
+<P>The Timex TS2068 is one of the Spectrum clones and also had an AY
+chip, using port #F5 to select registers and #F6 for data. For a more
+complete list of TS2068 ports, see the TS2068 ROMs file (to be found
+on <a href="ftp://ftp.nvg.ntnu.no/pub/sinclair/roms/ts2068roms.zip">NVG</a>).
+
+<P>Typically, the AY chip is written to inside 128K games using:</P>
+<PRE>
+LD BC,#FFFD      01 FD FF
+OUT (C),D        ED 51
+LD B,#BF         06 BF
+OUT (C),E        ED 59
+</PRE>
+<P>To convert to a TS2068 poke a few values as follows:</P>
+<PRE>
+LD BC,#FFF5      01 <U>F5</U> FF
+OUT (C),D        ED 51
+LD C,#F6         <U>0E</U> <U>F6</U>
+OUT (C),E        ED 59
+</PRE>
+<P>If you've got a Fuller box, you can do the same mod, replacing F5 with 3F
+and F6 with 5F.</P>
+
+<A NAME="PLUS3"></A>
+<table width="100%" bgcolor="#f0f0b0">
+<tr><th><font size="+1">THE +2A/+3 SPECTRUMS</font></th>
+</table>
+
+<P>The +2A/+3 share the same timing information, sound chip, etc as
+the 128K/+2 machines; see above for details.</P>
+
+<P>Bit 6 of port #FE of the +2A/+3 does not show the same dependence
+on what was written to port #FE as it does on the other machines, and
+always returns 0 if there is no signal. Finally, reading from a
+non-existing port (eg #FF) will always return 255, and not give any
+screen/attribute bytes as it does on the 48K/128K/+2.</P>
+
+<A NAME="PLUS3MEM"></A>
+<table width="100%" bgcolor="#ffffbb">
+<tr><th>Memory</th>
+</table>
+
+<P>The basic principle of paging on the +2A and +3 is the same as for
+the 128K/+2.  However, the +2A and +3 have four ROMs rather than two,
+and certain extra memory configurations.</P>
+
+<P>Port 7FFDh behaves in the same way as before, except that bit 4 is now the
+low bit of the ROM selection. The extra features are controlled by
+port 1FFDh. This port is also write-only, and its last value should be saved
+at 5B67h (23399).</P>
+
+<P>Port 1FFDh responds thus:</P>
+
+<PRE>
+  Bit 0: Paging mode. 0=normal, 1=special
+  Bit 1: In normal mode, ignored.
+  Bit 2: In normal mode, high bit of ROM selection. The four ROMs are:
+          ROM 0: 128k editor, menu system and self-test program
+          ROM 1: 128k syntax checker
+          ROM 2: +3DOS
+ 	  ROM 3: 48 BASIC
+  Bit 3: Disk motor; 1=on, 0=off
+  Bit 4: Printer port strobe.
+</PRE>
+
+<P>When special mode is selected, the memory map changes to one of
+four configurations specified in bits 1 and 2 of port 1FFDh:</P>
+
+<PRE>
+       Bit 2 =0    Bit 2 =0    Bit 2 =1    Bit 2 =1
+       Bit 1 =0    Bit 1 =1    Bit 1 =0    Bit 1 =1
+ FFFFh+--------+  +--------+  +--------+  +--------+
+      | Bank 3 |  | Bank 7 |  | Bank 3 |  | Bank 3 |
+      |        |  |        |  |        |  |        |
+      |        |  |        |  |        |  |        |
+      |        |  | screen |  |        |  |        |
+ C000h+--------+  +--------+  +--------+  +--------+
+      | Bank 2 |  | Bank 6 |  | Bank 6 |  | Bank 6 |
+      |        |  |        |  |        |  |        |
+      |        |  |        |  |        |  |        |
+      |        |  |        |  |        |  |        |
+ 8000h+--------+  +--------+  +--------+  +--------+
+      | Bank 1 |  | Bank 5 |  | Bank 5 |  | Bank 7 |
+      |        |  |        |  |        |  |        |
+      |        |  |        |  |        |  |        |
+      |        |  | screen |  | screen |  | screen |
+ 4000h+--------+  +--------+  +--------+  +--------+
+      | Bank 0 |  | Bank 4 |  | Bank 4 |  | Bank 4 |
+      |        |  |        |  |        |  |        |
+      |        |  |        |  |        |  |        |
+      |        |  |        |  |        |  |        |
+ 0000h+--------+  +--------+  +--------+  +--------+
+</PRE>
+
+<P>RAM banks 1,3,4 and 6 are used for the disc cache and RAMdisc,
+while Bank 7 contains editor scratchpads and +3DOS workspace.</P>
+
+<P>The contended memory timings differ on the +2A/+3 from the earlier 
+machines; firstly, the timing differences mean that the top-left pixel
+of the screen is displayed 14364 T-states after the 50 Hz interrupt
+occurs, as opposed to 14336. The T-states (relative to the interrupt)
+at which delays occur are given in the following table:</P>
+
+<PRE>      Cycle #    Delay
+      -------    -----
+       14361       1
+       14362   No delay
+       14363       7
+       14364       6
+       14365       5
+       14366       4
+       14367       3
+       14368       2
+       14369       1
+       14370   No delay
+       14371       7
+       14372       6
+</PRE>
+
+<P>and so on, until cycle 14490, when the display of the first
+scanline on the screen has been completed, and no more delays are
+inserted until 14589 (=14361+228) when the cycle repeats.
+The other difference
+occurs for instructions which have multiple '<TT>pc+1</TT>' or
+'<TT>hl</TT>' entries in the breakdown for the other machines: on the
++2A/+3, these entries are combined into just one. This means that, for
+example, <TT>JR</TT> becomes <TT>pc:4,pc+1:8</TT>.
+
+<P>Like the base 128K machine, RAM banks 4-7 are contended. However,
+port #FE is not; whether ports #7FFD and #1FFD are contended is
+currently unknown.</P>
+
+<A NAME="DISK"></A>
+<table width="100%" bgcolor="#ffffbb">
+<tr><th>Disk Drive</th>
+</table>
+
+<P>The disk drive on the +3 is controlled by three ports:
+
+<UL>
+<LI>1FFDh: Bit 3 high will turn the drive motor (or motors, if you
+have more than one drive attached) on. Bit 3 low will turn them off
+again. (1FFDh is also used for memory control - see <A HREF="#PLUS3MEM">above</A>).
+<LI>2FFDh: reading from this port will return the main status register
+of the uPD765A (the FDC used in the +3).
+<LI>3FFDh: bytes written to this port are sent to the FDC, whilst
+reading from this port will read bytes from the FDC.
+</UL>
+
+<P>For more information on the uPD765A, see the <A HREF="http://andercheran.aiind.upv.es/~amstrad/CPC_Guide/index.html">CPC Guide</A>
+section at the <A HREF="http://andercheran.aiind.upv.es/~amstrad/">Unofficial Amstrad WWW Resource</A>,
+as the Amstrad CPCs used the same FDC; the documents most relevant to
+the +3 are the first two in the 'Disks' section.
+
+<P>Another useful bit of information is that it is possible to add an
+Amiga 3.5" drive to a Spectrum +3 by simply wiring the pins by name
+and providing it with some external power source (which can be an
+Amiga PSU with increased amperage, used to power the entire +3 and
+external drive in one go).  There is a public domain formatter around
+to format it to 720k - this is quite useful as 3" disks are now a
+rarity and were never that reliable.</P>
+
+<P>The added advantage is that PC users equipped with a copy of <A HREF="http://www.sydex.com/">Sydex</A>'s 
+shareware package 22Disk can read these files into a PC too.</P>
+
+<!--web2text-ignore-from-here-->
+<P ALIGN=CENTER>
+<a href="tech_z80.html">[Z80 Tech Info]</a>
+<a href="tech_48.html">[48K Tech Info]</a>
+[128K Tech Info]
+<a href="ports.html">[Peripheral Ports]</a>
+</P>
+<!--web2text-ignore-until-here-->
+
+<p align="center"><img src="zxline.png" width="540" height="8" alt="-----"></p>
+
+<p align="center"><font size="-1">This FAQ is maintained by <a href="cabal.html">the Cabal</a>;
+distribution is permitted only under the conditions specified in the
+<a href="index.html#COPYRIGHT">copyright notice</a>.<br> Primary site
+for this FAQ: <a href="http://www.srcf.ucam.org/~pak21/cssfaq/index.html">http://www.srcf.ucam.org/~pak21/cssfaq/index.html</a>.</font>
+
+</body>
+
+</html>

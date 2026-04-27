@@ -1,0 +1,321 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+
+<head>
+<title>Spectrum FAQ - Emulators - UNIX/Linux</title>
+</head>
+
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#660099" alink="#ff0000">
+
+<A NAME="TOP"></A>
+<p align="center">
+<a href="index.html">[FAQ]</a><br>
+<a href="faqs.html">[Frequently&nbsp;Asked&nbsp;Questions]</a>
+<a href="resource.html">[Resources]</a>
+<a href="emulator.html">[Emulators]</a>
+<a href="where_is.html">[Where&nbsp;Is...?]</a>
+<a href="fileform.html">[File&nbsp;Formats]</a>
+<a href="technica.html">[Technical&nbsp;Information]</a>
+<a href="pinouts.html">[Pinouts]</a>
+<a href="acknowle.html">[Acknowledgements]</a>
+</p>
+
+<table width="100%" bgcolor="#eeeeaa">
+<tr><th><font size="+3">SPECCY EMULATORS FOR UNIX/LINUX</font></th>
+</table>
+<p align="center">This page last updated on 14 August 2001</p>
+
+<P ALIGN=CENTER>
+<a href="emu_dos.html">[DOS]</a>
+<a href="emu_win.html">[Windows]</a>
+[UNIX/Linux]
+<a href="emu_os2.html">[OS/2]</a>
+<a href="emu_mac.html">[Mac]</a>
+<a href="emu_arch.html">[Archie]</a>
+<a href="emu_amig.html">[Amiga]</a>
+<a href="emu_psio.html">[Psion&nbsp;5]</a>
+<a href="emu_ce.html">[Windows&nbsp;CE]</a>
+<a href="emu_atar.html">[ST/TT]</a>
+<a href="emu_java.html">[Java]</a>
+<a href="emu_play.html">[Playstation]</a>
+<a href="emu_drea.html">[Dreamcast]</a>
+<a href="emu_ql.html">[QL]</a>
+<a href="emu_misc.html">[Other&nbsp;Platforms]</a><BR>
+<a href="bench.html">[Benchmarks]</a>
+</P>
+
+<p align="center">
+9 emulators listed:<BR><BR>
+<A HREF="#FUSE">[Fuse]</A>
+<A HREF="#SIMCOUPE">[SimCoupe]</A>
+<A HREF="#SPECTEMU">[SpectEmu]</A>
+<A HREF="#SPECTRUM">[Spectrum]</A>
+<A HREF="#UNNAMED">[Unnamed&nbsp;Spectrum&nbsp;Emulator]</A>
+<A HREF="#X128">[x128]</A>
+<A HREF="#XZ80">[xz80]</A>
+<A HREF="#XZX">[xzx]</A>
+<A HREF="#XZX2">[XZX-Pro]</A>
+<A HREF="#ZXSP">[zxsp]</A>
+</center>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="FUSE"><img src="updated.png" width="39" height="12" alt="[Updated!]"> Fuse v0.3.0</A> (<a href="mailto:pak21-fuse@srcf.ucam.org.no.junk.mail">Philip Kendall</a>) </TH>
+</TABLE>
+<OL>
+<LI>Emulates the 48K, 128K, +2 and +2A Spectrums.
+<LI>Loads from 48K and 128K .SNA snapshots, and from .TAP tape files.
+<LI>Saves to .SNA snapshots.
+<LI>No real tape support.
+<LI>Requires glib and either X or <a href="http://www.svgalib.org/">svgalib</a>.
+The X version can optionally use <a href="http://www.gtk.org/">GTK+</a>
+for a nicer user interface.
+<LI>Runs at normal Speccy speed on this PII-233.
+<LI>GPL.
+<LI>Still not many good points, but significantly better than previous versions.
+<LI>No sound except under Linux. Generally lacking features and 'polish'.
+<LI>Disclaimer: written by the same person who maintains this FAQ.
+<LI>Available from the <A HREF="http://www.srcf.ucam.org/~pak21/spectrum/fuse.html">Fuse Home Page</A> or <a href="ftp://ftp.worldofspectrum.org/pub/sinclair/emulators/unix/fuse-0.3.0.tar.gz">World of Spectrum</a>.
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="SIMCOUPE">SimCoupe 0.78</A> (<a href="mailto:ajs@hep.ucl.ac.uk.no.junk.mail">Allan Skillman</a>) </TH>
+</TABLE>
+<OL>
+<LI>Emulates 48K Spectrum and the SAM Coup&eacute; (as you may have guessed
+from the name!).
+<LI>Spectrum emulation has no loading ability (Coup&eacute; can load from
+images of SAM disks, or the Linux version from real disks).
+<LI>Spectrum emulation has no saving ability (Coup&eacute; can save to either
+images of SAM disks, or the Linux version to real disks).
+<LI>No real tape support.
+<LI>Requires X or VGAlib.
+<LI>Speed?
+<LI>Freeware.
+<LI>Good points?
+<LI>Bad points?
+<LI>The above is a bit unfair, as this is a Coup&eacute; emulator first,
+and a Spectrum emulator second. Also available for <A HREF="emu_dos.html#SIMCOUPE">DOS</A>.
+<LI>Available from <A HREF="http://www.hep.ucl.ac.uk/~ajs/simcoupe/">the SimCoupe homepage</A> or <a href="ftp://ftp.worldofspectrum.org/pub/sinclair/emulators/unix/SimCoupe_0.72.tar.gz">World of Spectrum</a> (version 0.72).
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="SPECTEMU">SpectEmu v0.94</A> (<a href="mailto:mszeredi@inf.bme.hu.no.junk.mail">Szeredi Miklos</a>) </TH>
+</TABLE>
+<OL>
+<LI>Emulates 48K Spectrum.
+<LI>Loads .Z80 and .SNA snapshots, and from .TAP tapefiles.
+<LI>Saves .Z80 and .SNA snapshots.
+<LI>Real tape emulation either via emulated I/O ports or .TZX files.
+<LI>Requires X11 (also uses MIT-SHM if available) or SVGALIB 
+for Linux console support. Soundcard for sound emulation.
+<LI>Z80 emulation is very fast on intel machines, because it is
+written in assembly (on Linux console it uses on average 3%
+of a P90 CPU). It is also quite fast on non-Intel machines.
+<LI>Copyright under the GNU General Public Licence.
+<LI>Good sound emulation (Linux and Sun). Sound with tapefile
+loading. Good screen emulation. Border stripes are emulated
+correctly, and screen timing sensitive programs look better
+than on other emulators (e.g. BC's Quest for Tires). Good keyboard
+I/O port emulation (e.g. Gunfright)
+<LI>Poor user interface. Does not emulate either 128K or IF1
+<LI>Distribution includes a full size picture of the ZX Spectrum
+keyboard, and a utility to write .TAP or .TZX files to real tape.
+<LI>Available from <A HREF="http://www.inf.bme.hu/~mszeredi/spectemu/">SpectEmu homepage</A>,
+or World of Spectrum (as a
+<a href="ftp://ftp.worldofspectrum.org/pub/sinclair/emulators/unix/spectemu-0.94.tar.gz">source distribution</a>,
+<a href="ftp://ftp.worldofspectrum.org/pub/sinclair/emulators/unix/spectemu-0.94_linux.tar.gz">Linux binary</a> or
+<a href="ftp://ftp.worldofspectrum.org/pub/sinclair/emulators/unix/spectemu-0.94_solaris.tar.gz">Solaris binary</a>).
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="UNNAMED">Unnamed Spectrum Emulator v0.00.02</A> (<a href="mailto:T.Harte@btinternet.com.no.junk.mail">Thomas Harte</a>) </TH>
+</TABLE>
+<OL>
+<LI>Emulates 48K and 128K Spectrums.
+<LI>Loads from .SNA and .Z80 snapshots.
+<LI>No saving.
+<LI>No real tape support.
+<LI>Requires Linux and the <A HREF="http://www.talula.demon.co.uk/allegro/">Allegro WIP</A>.
+<LI>Runs at real Speccy speed on this PII-233.
+<LI>Freeware.
+<LI>Most programs work.
+<LI>Display sometimes corrupts briefly.
+<LI>Attempts to map PC keys to Speccy equivalents (eg Shift+8 on your PC goes to Symbol Shift+B). Also available for <A HREF="emu_dos.html#UNNAMED">DOS</A>.
+<LI>Available from the <A HREF="http://www.btinternet.com/~t.harte/SoftySoft/zxspec.htm">Unnamed Spectrum Emulator Home Page</A>.
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="SPECTRUM">Spectrum</A> (Jean-Francois Lozevis) </TH>
+</TABLE>
+<OL>
+<LI>Emulates 48K Spectrum.
+<LI>Loads .SNA and .Z80 snapshots.
+<LI>Saves .SNA snapshots.
+<LI>No real tape support.
+<LI>Requires X-Windows (X11) and Linux with an 80386 processor (or above)
+because the emulation code is written in assembler.
+<LI>Apparently runs at full speed on a 486DX2/66.
+<LI>Public domain. Author allows modification, just wants to retain his
+credit as the original author, and wouldn't say no to a postcard.
+<LI>Sound support for Linux via /dev/audio.
+<LI>Imperfect emulation; Rhino in Sabre Wulf problems (see the <A HREF="tech_z80.html#UNDOC">Technical Information</A>
+section) and some large BASIC programs don't work. Author doesn't know why.
+Poor user interface.
+<LI>All messages in French.
+<LI>Available from <a href="ftp://ftp.worldofspectrum.org/pub/sinclair/emulators/unix/french_spectrum.zip">World of Spectrum</a>.
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="X128">x128 v0.5</A> (<a href="mailto:jmckay@jmk1.freeserve.co.uk.no.junk.mail">James McKay</a>) </TH>
+</TABLE>
+<OL>
+<LI>Emulates 48K/128K Spectrum, Kempston/Sinclair/Cursor joysticks, Multiface 128.
+<LI>Loads .SNA, .Z80 and .SLT snapshots, and from Z80's .TAP tape files.
+<LI>Saves .Z80 and .SLT snapshots.
+<LI>Real tape support via .VOC files.
+<LI>Requires X-Windows (X11). MIT-SHM extension also a very good idea.
+<LI>Rather slow; about 25-35% of real Spectrum speed on a 486SX/25 Linux box.
+<LI>Freeware.
+<LI>Hi-res emulation of screen and left &amp; right border allowing colours
+in an 8x1 block (rainbowing). Has a nice file selector and Z80-like
+user interface.
+<LI>Some changeable options require re-compilation, and the Multiface 128 ROM
+is not included due to copyright problems.
+<LI>Also available for <a href="emu_amig.html#X128">Amiga</a>,
+<A HREF="emu_dos.html#X128">DOS</A>, <A HREF="emu_os2.html#X128">OS/2</A>
+and <A HREF="emu_os2.html#X128XFREE86">OS/2 XFree86</A>.
+<LI>Available from the <A HREF="http://www.worldofspectrum.org/x128/">x128 homepage</A> or <a href="ftp://ftp.worldofspectrum.org/pub/sinclair/emulators/unix/x128_05.tar.gz">World of Spectrum</a>.
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="XZ80">xz80 v0.1e</A> (<a href="mailto:Ian.Collier@comlab.ox.ac.uk.no.junk.mail">Ian Collier</a>) </TH>
+</TABLE>
+<OL>
+<LI>Emulates 48K Spectrum and ZX Printer (via .XBM image files!).
+<LI>Loads .SNA and .Z80 snapshots with level-loader support, tape files
+from disk or from Z80's .TAP files.
+<LI>Saves .SNA snapshots and tape files to disk or to Z80's .TAP files.
+<LI>Real tape support by direct tape input if your machine is fast enough
+(e.g. P150 running Linux works fine) or via an audio file.
+<LI>Requires X-Windows (X11) or SVGALib (for Linux console version). MIT-SHM
+extension also probably a good idea.
+<LI>The Linux console version runs at about 35% real Spectrum speed on
+a 486SX/25. True-speed emulation without hogging the CPU on fast
+machines.
+<LI>GPL.
+<LI>Realistic sound output via /dev/audio. Emulates 'stripey border' effect - very important <TT>;-)</TT>
+<LI>Poor user interface; e.g. no file selector - you have to move to your
+terminal window and type in name of snapshots to load/save.
+<LI>Version 0.1d is the most recent 'complete' version available; 0.1e only available as source code.
+<LI>Available from <A HREF="http://www.comlab.ox.ac.uk/oucl/users/ian.collier/Spectrum/index.html">author's homepage</A> or <a href="ftp://ftp.worldofspectrum.org/pub/sinclair/emulators/unix/zx80-0.1d.tar.gz">World of Spectrum</a> (version 0.1d).
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="XZX">xzx v1.0</A> (<a href="mailto:des@corp.netcom.net.uk.no.junk.mail">Des Herriott</a>) </TH>
+</TABLE>
+<OL>
+<LI>Emulates 48K/128K/+3 Spectrums, Kempston joystick (with keys).
+<LI>Loads .SNA and .Z80 snapshots with level-loader support, tape files from
+UNIX files.
+<LI>Saves .SNA and .Z80 snapshots, tape files to UNIX files.
+<LI>No real tape support.
+<LI>Requires X-Windows (X11). Makes heavy use of the MIT-SHM X11 extension,
+and works a good deal slower without it.
+<LI>Needs approx 486/33 to run at the correct speed (this is from general
+impressions, not exact timings). Sparc 10 or DEC Alpha will run it very
+fast.
+<LI>Freeware.
+<LI>Sound support for Sparc and NEC EWS workstations via /dev/audio.
+Sound support for Linux via direct speaker manipulation. X server bell
+audio for most X servers (traps ROM BEEP routine only).
+<LI>Poor user interface; e.g. no file selector - you have to move to your
+terminal window and type in name of snapshots to load/save.
+<LI>Author has resurfaced from the cold wastes of a job without internet access, but
+is no longer maintaining or updating xzx. See Erik's modified version, below.
+<LI>Available from <a href="ftp://ftp.nvg.ntnu.no/pub/sinclair/emulators/spectrum/unix/xzx-1.0.2.tar.gz">NVG</a>
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+      
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="XZX2"><img src="updated.png" width="39" height="12" alt="[Updated!]"> XZX-Pro v4.0</A> (<a href="mailto:Erik.Kunze@fantasy.muc.de.no.junk.mail">Erik Kunze</a> and <a href="mailto:des@corp.netcom.net.uk.no.junk.mail">Des Herriott</a>) </TH>
+</TABLE>
+<OL>
+<LI>Emulates 48/128/+2/+3, Pentagon and Scorpion (Russian Spectrum
+clones) and Didaktik-M (Czech clone) with Multiface 128, Multiface 3,
+Interface 1 and Microdrive, Kempston Joystick, Betadisk/TR-DOS, +D and
+Kempston Mouse (in Russian modes).
+<LI>Loads .SNA, .Z80, .SLT (LLT also) snapshots, from .TAP, .TZX and
+.VOC tape files, .MDR microdrive files, Hobeta, .DSK, .FDI, .IMG,
+.MGT, .SCL, and .TRD disk images and .POK poke files.
+<LI>Saves to .SNA, .Z80, .SLT, .TAP, .MDR, .DSK, .IMG, .MGT and .TRD files.
+<LI>No real tape support.
+<LI>Requires X11 and Motif; /dev/audio needed if you want AY emulation other
+than on SunOS/Solaris, AIX, HP-UX and NAS which have native support;
+uses the Open Sound System to give sound support on a large number
+of platforms (including Linux).
+<LI>Runs at full Speccy speed on a P100 with a 8bpp X server.
+<LI>Shareware: registered version has more features.
+<LI>By far and away the best emulator for Unix, and one of the best
+emulators available for any platform. Speccy joystick can take input
+from your joystick under Linux and FreeBSD.
+<LI>Some changeable options require re-compilation.
+<LI>More information from the official <A HREF="http://www.zx-spectrum.net/xzx/">XZX home page</a>.
+Pentagon, Scorpion, Multiface 3, Multiface 128 and TR-DOS ROMs are not
+included due to copyright problems. Shareware version has no support
+for +D or disks under TR-DOS, but the rest of TR-DOS does
+function. Version 2.1.3 also available for <A HREF="emu_win.html#WINXZX">Windows</A>,
+and version 2.0.4 for <A HREF="emu_misc.html#BEZX">BeOS</A>.
+<LI>Source code, pre-compiled binaries and RPM-packages are available
+from the <A HREF="http://www.zx-spectrum.net/xzx/">official XZX homepage</A>;
+<a href="ftp://ftp.worldofspectrum.org/pub/sinclair/emulators/unix/xzx.tar.gz">Source code</a> (including the rom images)
+and <a href="ftp://ftp.worldofspectrum.org/pub/sinclair/emulators/unix/xzx-contrib.tar.gz">contrib file</a> are also
+available from World of Spectrum.
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="ZXSP">zxsp-x v0.4.2/zxsp-qt v0.7.1</A> (<a href="mailto:kio@little-bat.de.no.junk.mail">G&uuml;nter Woigk aka kio</a>) </TH>
+</TABLE>
+<OL>
+<LI>Emulates the 16K, 48K and 128K Spectrums.
+<LI>Loads .SNA and .Z80 snapshots, and from .TAP tape images (Qt version only).
+<LI>Saves to .SNA and .Z80 snapshots, .TAP tape images (again, Qt only) and to .SCR screen shots.
+<LI>No real tape support.
+<LI>Correct Speccy speed on a 486/133 or better.
+<LI>Comes in two versions, both for Linux with X11; zxsp requires the Qt library and is available only for i386 machines, whereas zxsp-x is free from these restrictions. Both need OSS for sound.
+<LI>BSD-ish license.
+<LI>Good points?
+<LI>Bad points?
+<LI>No other comments.
+<LI>Available from the author's <A HREF="http://www.little-bat.de/zxsp.html">Spectrum pages</A>.
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<p align="center"><img src="zxline.png" width="540" height="8" alt="-----"></p>
+
+<p align="center"><font size="-1">This FAQ is maintained by <a href="cabal.html">the Cabal</a>;
+distribution is permitted only under the conditions specified in the
+<a href="index.html#COPYRIGHT">copyright notice</a>.<br> Primary site
+for this FAQ: <a href="http://www.srcf.ucam.org/~pak21/cssfaq/index.html">http://www.srcf.ucam.org/~pak21/cssfaq/index.html</a>.</font>
+
+</body>
+
+</html>

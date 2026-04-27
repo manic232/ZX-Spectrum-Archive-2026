@@ -1,0 +1,395 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+
+<head>
+<title>Spectrum FAQ - Emulators - Amiga</title>
+</head>
+
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#660099" alink="#ff0000">
+
+<A NAME="TOP"></a>
+<p align="center">
+<a href="index.html">[FAQ]</a><br>
+<a href="faqs.html">[Frequently&nbsp;Asked&nbsp;Questions]</a>
+<a href="resource.html">[Resources]</a>
+<a href="emulator.html">[Emulators]</a>
+<a href="where_is.html">[Where&nbsp;Is...?]</a>
+<a href="fileform.html">[File&nbsp;Formats]</a>
+<a href="technica.html">[Technical&nbsp;Information]</a>
+<a href="pinouts.html">[Pinouts]</a>
+<a href="acknowle.html">[Acknowledgements]</a>
+</p>
+
+<table width="100%" bgcolor="#eeeeaa">
+<tr><th><font size="+3">SPECCY EMULATORS FOR CBM AMIGA</font></th>
+</table>
+<p align="center">This page last updated on 14 August 2001</p>
+
+<P ALIGN=CENTER>
+<a href="emu_dos.html">[DOS]</a>
+<a href="emu_win.html">[Windows]</a>
+<a href="emu_unix.html">[UNIX/Linux]</a>
+<a href="emu_os2.html">[OS/2]</a>
+<a href="emu_mac.html">[Mac]</a>
+<a href="emu_arch.html">[Archie]</a>
+[Amiga]
+<a href="emu_psio.html">[Psion&nbsp;5]</a>
+<a href="emu_ce.html">[Windows&nbsp;CE]</a>
+<a href="emu_atar.html">[ST/TT]</a>
+<a href="emu_java.html">[Java]</a>
+<a href="emu_play.html">[Playstation]</a>
+<a href="emu_drea.html">[Dreamcast]</a>
+<a href="emu_ql.html">[QL]</a>
+<a href="emu_misc.html">[Other&nbsp;Platforms]</a><BR>
+<a href="bench.html">[Benchmarks]</a>
+</P>
+
+<p align="center">
+12 emulators listed:<BR><BR>
+<a href="#ASP">[ASp]</a>
+<a href="#CBSPECCY">[CBSpeccy]</a>
+<a href="#ICARUS">[Icarus]</a>
+<a href="#KGB">[KGB]</a>
+<a href="#SPECULATOR97">[Speculator&nbsp;'97]</a>
+<a href="#SPECCYLATOR">[Speccylator]</a>
+<a href="#SPECTRUM">[Spectrum]</a>
+<a href="#SPECTRUM128">[Spectrum128]</a>
+<a href="#X128">[x128]</a>
+<a href="#ZXAM">[ZXAM]</a>
+<a href="#ZXSPECTRUM">[ZX-Spectrum]</a>
+<a href="#ZXSPECTRUMEMULATOR">[ZX&nbsp;Spectrum&nbsp;Emulator]</a>
+</p>
+
+<P ALIGN=CENTER>Note: All the Aminet links are to the <a href="http://uk.aminet.net/~aminet/">UK site</a>.
+Choose a mirror closer to you for quicker access <TT>:-)</TT>.</P>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="ASP"><img src="updated.png" width="39" height="12" alt="[Updated!]"> ASp v0.79</A> (<a href="mailto:iang@ukonline.co.uk.no.junk.mail">Ian Greenway</a>) </TH>
+</TABLE>
+<OL>
+<li>Emulates the 48K Spectrum (with AY sound), 128K Spectrum and various joysticks.
+<li>Loads .SNA and .Z80 snapshots, and from .TAP tape files.
+<li>Saves .SNA and .Z80 snapshots.
+<li>No real tape support.
+<li>Requires a 68020 or above, native chipset, Workbench 3.0 or above  and approximately 800K of RAM.
+<li>Happily runs at real Speccy speed, but can go faster or slower.
+<li>Freeware.
+<li>Multitasks and system-friendly. Very comprehensive Z80 core emulation. Small codesize. Now has an Arexx port for communication with other programs.
+<li>Native chipset only. A bit slow on a 68030; needs an MMU and Thor's <TT>mmu.library</TT>.
+<li>Actively under development.
+<li>Available from the <a href="http://www.greew.freeserve.co.uk/ASp.html">ASp Home Page</a> or <a href="ftp://ftp.worldofspectrum.org/pub/sinclair/emulators/amiga/ASpV079b.lha">World of Spectrum</a>.
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="CBSPECCY">CBSpeccy v0.25b</A> (Rst7 and Max Iwamoto) </TH>
+</TABLE>
+<OL>
+<li>Emulates the Pentagon (Russian Spectrum clone) with TR-DOS and various joysticks and the Kempston mouse.
+<li>Loads .SNA, .Z80 and possibly other format of snapshots, .TAP and
+(partially) .TZX tape files and .TRD, .SCL and .DSK disk images. (The
+.DSK format is a different TR-DOS format, not a +3 disk).
+<li>Saves an unknown snapshot format and to .TRD, .SCL and .DSK disk images.
+<li>No real tape support.
+<li>Needs an A1200 with a 68030, 040 or 060 and 8Mb RAM.
+<li>Auto-adjusts to real Spectrum speed; speed can't be changed.
+<li>Freeware.
+<li>The best 128K emulator for the Amiga. Disk and tape images cached
+in memory, so you can play around with images and not affect the copy
+on the Amiga's disk. Two R register modes for compatibility. Has rainbow
+effects, but these are for Pentagon timings and so most 128K games will
+look a bit funny. Can now use non-standard ROMs as well.
+<li>Now works on 030s, 040s and 060s. No 48K sound or AY white noise.
+<li>Thanks to <a href="mailto:unsatisfactory@bigfoot.com.no.junk.mail">Chris Young</a> and
+<a href="mailto:joemackay@lineone.net.no.junk.mail">Joe Mackay</a> for many of the above
+comments.
+<li>Available from the <a href="http://www.neworder.spb.ru/cbspeccy/">CBSpeccy Home Page</a> or <a href="ftp://ftp.worldofspectrum.org/pub/sinclair/emulators/pc/amiga/cbsv025b.zip">World of Spectrum</a>.
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="ICARUS">Icarus Spectrum Emulator v1.0</A>  </TH>
+</TABLE>
+<OL>
+<li>Emulates 48K Spectrum (presumably), interface 1 &amp; Microdrives.
+<li>Loads its own format of snapshots (more info welcome).
+<li>Saves its own format of snapshots.
+<li>No real tape support.
+<li>Requirements? Old, so probably just a basic A500.
+<li>Slow.
+<li>Freeware?
+<li>Fully multitasking.
+<li>Microdrive emulation using standard Amiga disks.
+<li>More information on this one welcome; any Amiga owners fancy
+downloading it, trying it out and letting me know the results?
+<li>Was available from <B>http://www.cybercity.dk/users/ccc14241/icarus10.dms</B>,
+but this site has vanished. Anyone?
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="KGB">KGB v1.3</A>  </TH>
+</TABLE>
+<OL>
+<li>Emulates 48K Spectrum, cursor joystick (with cursor keys) and Kempston
+joystick (with Amiga joyport 2).
+<li>Loads .ZX snapshots.
+<li>Saves .ZX snapshots.
+<li>Loads/saves from/to real tapes via a sound-digitiser.
+<li>Requires monochrome or colour.
+<li>Speed not known.
+<li>Freeware?
+<li>Has a pitch-compensated mode, that transposes the sound two
+octaves up (handy on slow Amigas).
+<li>Doesn't multitask. Isn't completely compatible with ZX-Spectrum;
+several games don't work, e.g. Chronos, Starstrike II.
+<li>Version 2.0 is due soon, with more snapshot formats supported,
+better real tape support, better speed, multitasking, Microdrive
+emulation and some bugfixes.
+<li>Available from <a href="ftp://ftp.worldofspectrum.org/pub/sinclair/emulators/amiga/kgb-1.3.lha">World of Spectrum</a>.
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="SPECULATOR97">Speculator '97</A> (William James) </TH>
+</TABLE>
+<OL>
+<li>Emulates 48k Spectrum. Can load in 128k .Z80 files, so long as the
+extra memory is not used. Supports +D disks (via a supplied DOSDriver)
+and the Kempston Joystick.
+<li>Loadable formats: ZX82, KGB, Z80, ZX, SP, SNA.
+<li>Saves custom ZX82 snapshot.
+<li>Can load in normal files through serial port interface.
+<li>Kickstart 2.04 and 68020 or higher required.
+<li>On an A1200 with a 25Mhz MC68030 Viper card + 32Bit Fast
+RAM, Speculator will run at around the 100% mark; seems faster than ZXAM on some games.
+<li>Shareware - &pound;10.
+<li>Fastest of the Amiga emulators. Lots of support utilities.
+Multitasks.
+<li>Emulation is buggy and downright weird in places (Poking 23659,0
+in BASIC doesn't lock up Speccy like it would on real Speccy). No .TAP
+support. Only saves in custom format.
+<li>Not updated since early 1997.
+<li>Available from <a href="ftp://sunsite.org.uk/aminet/misc/emu/Speculator.lha">Aminet</a> or <a href="ftp://ftp.worldofspectrum.org/pub/sinclair/emulators/amiga/speculator.lha">World of Spectrum</a>.
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="SPECCYLATOR">Speccylator v1.0</A> (<a href="mailto:richardc@csd.uu.se.no.junk.mail">Richard Carlsson</a>) </TH>
+</TABLE>
+<OL>
+<li>Emulates 48K Spectrum, Kempston joystick.
+<li>Loads .SNA snapshots, no tape support.
+<li>Saves .SNA snapshots, no tape support.
+<li>No real tape support.
+<li>Requires just any Amiga with Kickstart 2.0 and around 435Kb of free memory.
+<li>'Faster than most' - except Peter McGavin's Spectrum on a 68000-based Amiga.
+<li>Freeware.
+<li>Fully multitasking, nice graphical interface, better sound than Peter
+McGavin's Spectrum. Can dump Spectrum screen to an IFF ILBM file.
+Preferences can be set globally and for individual snapshots. Better
+Z80 emulation than ZXAM. Full BCD flags emulation.
+<li>No particular bad points, unless you count lack of features - e.g.
+no file support.
+<li>The idea behind the project was to create a Z80 emulation kernel that
+could run on any 68000 machine, i.e. not using any Amiga specifics.
+The Z80 emulator kernel can therefore be used for an emulator on any
+other 68000-based machine, e.g. the Atari ST. Recently updated (September 1996),
+with Kempston joystick emulation the next thing on the author's to-do list.
+<li>Available from <a href="http://www.csd.uu.se/~richardc/">author's homepage</a>, <a href="ftp://sunsite.org.uk/aminet/misc/emu/Speccylator.lha">Aminet</a> or <a href="ftp://ftp.worldofspectrum.org/pub/sinclair/emulators/amiga/speccylator_1_0.lha">World of Spectrum</a>.
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="SPECTRUM">Spectrum v1.7</A> (<a href="mailto:p.mcgavin@irl.cri.nz.no.junk.mail">Peter McGavin</a>) </TH>
+</TABLE>
+<OL>
+<li>Emulates 48K Spectrum, cursor joystick (with cursor keys) and Kempston
+joystick (with Amiga joyport 2).
+<li>Loads .SNA snapshots and tape files from separate .header and .bytes
+files on Amiga disks.
+<li>Saves .SNA snapshots and tape files to separate .header and .bytes files
+on Amiga disks.
+<li>Loads Spectrum files via a parallel port sampler, saves via Amiga audio.
+<li>Works on any OCS, ECS or AGA Amiga from 68000 to 68060 with Kickstart 1.2
+and up.
+<li>Is reasonably fast on 68030/25MHz, but slow on 68000/7.14MHz machines.
+At least 68020/14MHz (A1200) and FAST RAM are recommended. Not as fast
+as ZXAM. Comes with different versions for the 68000/68010/68020, as
+well as a 'corner-cutting' version for the 68000.
+<li>Freeware?
+<li>Multitasks.
+<li>Colour palette is a bit strange.
+<li>Very old, and not supported any more. There is a version 2.0 around, but
+this is a fake: it's just v 1.7 with the version strings changed.
+<li>Available from <a href="ftp://sunsite.org.uk/aminet/misc/emu/spectrum-1.7.lha">Aminet</a> or <a href="ftp://ftp.worldofspectrum.org/pub/sinclair/emulators/amiga/spectrum-1.7.lha">World of Spectrum</a>.
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="SPECTRUM128">Spectrum128 v0.2 Beta</A> (Alberto Ord&oacute;&ntilde;ez) </TH>
+</TABLE>
+<OL>
+<li>Emulates 128K Spectrum.
+<li>Loads .SNA, version 1 .Z80 files, and 128K version 2 and 3 .Z80 files.
+<li>No saving.
+<li>No real tape support.
+<li>None mentioned.
+<li>Very slow on a 68030.
+<li>Freeware.
+<li>First and foremost, emulates the 128K on an Amiga! Can be made slightly faster by switching to a less compatible mode (interrupts not emulated so accurately), and also has a simple built-in debugger, mono mode and can multitask.
+<li>No sound or GUI; keys don't always respond. Monochrome screen is green on white (!), and the colour palette in general is a bit funny.
+<li>Thanks to <a href="mailto:unsatisfactory@bigfoot.com.no.junk.mail">Chris Young</a> for
+bringing this to my attention and reviewing it; all the above comments
+apply to v0.1 and so may be out of date.
+<li>Available from <a href="ftp://sunsite.org.uk/aminet/misc/emu/Spectrum128.lha">Aminet</a> or <a href="ftp://ftp.worldofspectrum.org/pub/sinclair/emulators/amiga/Spectrum128v02.lha">World of Spectrum</a>;
+see also the <a href="http://www.geocities.com/SiliconValley/Horizon/1241/">author's home page</a>.
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="X128"><img src="new.png" width="31" height="12" alt="[New!]"> x128 v0.9</A> (Paul Hill and <a href="mailto:jmckay1@jmk1.freeserve.co.uk.no.junk.mail">James McKay</a>) </TH>
+</TABLE>
+<OL>
+<li>Emulates 48K/128K Spectrum, +2A/+3, Kempston/Sinclair/Cursor
+joysticks, MGT interface, Multiface 128 and Multiface 3, Also has
+emulation of the Pentagon 128 and (partially) the Scorpion (Russian
+Spectrum variants).
+<li>Loads .SNA, .Z80 and .SLT snapshots, from .TAP and .TZX tape files
+(the latter complete with optional loading noise!), from .DSK (+3
+disk), .TRD (TR-DOS), .MGT and .IMG (images of MGT disks), and from
+.POK poke files.
+<li>Saves .SNA, .Z80 and .SLT snapshots, .TAP tapes, .TRD disks and .PCX screen dumps (including any rainbow effects).
+<li>No real tape support.
+<li>Requires?
+<li>Speed?
+<li>Freeware.
+<li>Hi-res emulation of screen and left &amp; right border allowing colours
+in an 8x1 block (rainbowing). Has a nice file selector and Z80-like
+user interface.
+<li>Bad points?
+<li>Also available for <a href="emu_dos.html#X128">DOS</a>; there are
+<a href="emu_unix.html#X128">Unix</a>,
+<a href="emu_os2.html#X128">OS/2</a> and
+<a href="emu_os2.html#X128XFREE86">OS/2 XFree86</a> versions, although
+these haven't been developed for years. Above comments basically copied
+from the DOS version, so any corrections welcomed.
+<li>Available from <a href="ftp://ftp.worldofspectrum.org/pub/sinclair/emulators/amiga/x128.lha">World of Spectrum</a>. You'll also need the
+<a href="ftp://ftp.worldofspectrum.org/pub/sinclair/emulators/amiga/x128_roms.zip">ROMs</a>.
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="ZXAM">ZXAM v2.0</A> (Toni Pomar) </TH>
+</TABLE>
+<OL>
+<li>Emulates 48K Spectrum, Kempston, Sinclair II and Cursor joysticks. Also
+emulates the 128K's AY-8910 sound chip, so 128K-enhanced games that use
+only the sound chip and not the extra RAM often work and give better
+sound.
+<li>Loads .SNA, .SP, KGB and .Z80 snapshots. Can theoretically load
+any format via ARexx scripts (a .TAP script is supplied). Loads tape
+files as .header and .bytes files from disk, the same as <a href="#SPECTRUM">Spectrum v1.7</a>.
+<li>Saves .SNA and .SP snapshots. Once again, can use ARexx scripts to do
+any other format (scripts for .Z80 and .TAP are supplied). Saves tape files
+to disk as .header and .bytes.
+<li>Real tape support via a custom tape interface (diagram and instructions
+to make this are supplied).
+<li>Kickstart 2.04 and 68020 or higher required.
+<li>Runs quite well on a 14MHz A1200.
+<li>Shareware.
+<li>Runs in a window on Workbench screen, on a separate draggable screen, or
+in exclusive mode. Automatic speed adjustment for fast machines. Can
+save snapshots to a real tape for loading on a real Spectrum. Can load
+PowerPacked snapshots if you have the powerpacker.library in the LIBS:
+drawer. Comes with an ARexx-based monitor/debugger.
+<li>At least 38 games (including Chronos, Starstrike II and Head over
+Heels) do not work; so emulation obviously isn't perfected.
+<li>Not being developed any more. There is a thing called the <B>ZX
+Poke Guide</B> which is not an emulator but instead it's an AmigaGuide
+by Richard Koerber full of POKEs (about 784 games). It uses the ARexx
+port of ZXAM to make the pokes and run/stop the emulator from the
+AmigaGuide itself. <a href="mailto:hackersanon@free4all.co.uk.no.junk.mail">Gerard Sweeney</a>
+has brought another such program to my attention; <B>Hack Attack III</B>
+which has around 400 more games than the ZX Poke Guide, 90% of which
+have been tested by the author ('Rastan'). It is also apparently
+easier to add more pokes to HA3 than to ZXPG.
+<li>Available from <a href="ftp://sunsite.org.uk/aminet/misc/emu/ZXAM20b.lha">Aminet</a> or <a href="ftp://ftp.worldofspectrum.org/pub/sinclair/emulators/amiga/zxam20.lha">World of Spectrum</a>.
+Aminet has the <a href="ftp://sunsite.org.uk/aminet/misc/emu/ZXAMPokeGuide.lha">ZX Poke Guide</a> and
+<a href="ftp://sunsite.org.uk/aminet/misc/emu/acs-ha3.lha">Hack Attack III</a>.
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="ZXSPECTRUM">ZX-Spectrum v5.0</A> (<a href="mailto:jeroenkw@gns.getronics.nl.no.junk.mail">Jeroen Kwast</a>) </TH>
+</TABLE>
+<OL>
+<li>Emulates 48K/80K/128K Spectrum, interface 1, Opus, Specdrum, Currah uSpeech.
+<li>Loads .SNA and .Z80 snapshots, .TZX tape files and a proprietary snapshot format also.
+<li>Saves .SNA and .Z80 snapshots, .TZX tape files and a proprietary snapshot format also.
+<li>Has real tape support.
+<li>Requires any Amiga.
+<li>25 MHZ 68030 = 48K 100%, 33 MHZ 68030 = 48K 132%, 7 MHZ 68000 = 48K 32%.
+<li>Freeware?
+<li>Good points?
+<li>Bad points?
+<li>No other comments.
+<li>Never going to be publicly released after the author got
+harrassment from the emulator scene; the previous version (4.71) is
+available from <a href="ftp://ftp.worldofspectrum.org/pub/sinclair/emulators/amiga/zx-spectrum4.71.lha">World of Spectrum</a>.
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="ZXSPECTRUMEMULATOR">ZX Spectrum Emulator v0.10</A> (A.Schifano) </TH>
+</TABLE>
+<OL>
+<li>Emulates 48K Spectrum, presumably, and Kempston joystick.
+<li>Loads snapshots (type unknown) and from tape (AmigaDOS files).
+<li>Presumably saves snapshots and to AmigaDOS files.
+<li>Real tape support via a tape interface.
+<li>Requires any Amiga.
+<li>Speed? Has three video modes; monochrome, where you choose the overall
+PAPER and INK colour for the screen; colour 1 with limited updates of
+the screen and colour 2 with full updates (slower).
+<li>Appears to be a commercial product. The demo does not include tape
+support or snapshot support, and resets after a certain amount of time.
+<li>Good points?
+<li>Spectrum ROM doesn't come with the emulator; apparently Amstrad denied
+permission (perhaps because this is a commercial product). A hacked
+version of the demo does include it, illegally.
+<li>Information here comes from a brief Readme file in a hacked demo version
+of the emulator. More information welcome.
+<li>Available from DigiMail in Italy:<BR>
+Digimail Srl<BR>
+Via Coronelli 10<BR>
+20146 Milano<BR>
+ITALY<BR>
+Phone: ++39-2-427621<BR>
+Fax: ++39-2-427768
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<p align="center"><img src="zxline.png" width="540" height="8" alt="-----"></p>
+
+<p align="center"><font size="-1">This FAQ is maintained by <a href="cabal.html">the Cabal</a>;
+distribution is permitted only under the conditions specified in the
+<a href="index.html#COPYRIGHT">copyright notice</a>.<br> Primary site
+for this FAQ: <a href="http://www.srcf.ucam.org/~pak21/cssfaq/index.html">http://www.srcf.ucam.org/~pak21/cssfaq/index.html</a>.</font>
+
+</body>
+
+</html>

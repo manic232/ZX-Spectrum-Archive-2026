@@ -1,0 +1,328 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Spectrum</title>
+</head>
+
+<body bgcolor="#000000" text="#FFFFFF" link="#FFFFFF" vlink="#FFFFFF" alink="#FFFFFF">
+
+<p align="left"><font face="Verdana" size="3"><b><span class="headline"><a href="ZX%20spectrum+3.htm">Spectrum
++3</a>: too little too late too dear?</span><br>
+</b><font class="subhead">Sinclair User, July
+1987</font></font></p>
+<div align="left">
+  <hr style="WIDTH: 375pt" align="center" width="500" color="gray" noShade SIZE="2">
+  <p class="bodytext"><span class="bodytext"><font face="Verdana" size="2">What
+  can you do with a Spectrum? Amstrad, who parted with some £5 million for the
+  rights to the beast, really had to come up with a good answer.</font></span></p>
+  <p class="bodytext"><font face="Verdana" size="2">The <a href="ZX%20Spectrum+2.htm"> Spectrum Plus 2</a> was
+  their first attempt, and it hasn't been without its problems. Still, it was a
+  rush job; only five months elapsed between the Easter buyout and the autumn
+  launch. And Amstrad claim to have sold about half a million. Now it's been
+  over a year since Amstrad got its corporate mitts on the machine, and England
+  expects great things from Big Al.</font></p>
+  <p class="bodytext"><font face="Verdana" size="2">The <a href="ZX%20Spectrum+2.htm"> Plus 2</a> is down to £150
+  with a free SJS1 joystick (form an orderly queue), and the <a href="ZX%20spectrum+3.htm"> Plus 3</a> is nearly
+  out. At £250, maybe more out than in. It's got a disk drive, it's back in
+  black, but has it got compatibility? Let's see...</font></p>
+  <hr>
+  <p class="subhead"><b><font face="Verdana" size="2">First Impressions</font></b></p>
+  <p class="bodytext"><font face="Verdana" size="2">The disk drive, sitting in
+  peacock livery on the right of the machine where that famous Amstrad cassette
+  deck once resided, just has to be the main talking point. There's double the
+  Rom space inside the machine: 64K's worth holds the Disk Operating System
+  (Dos), extensions to Basic and various other odds and ends as well as the
+  original <a href="ZX%20Spectrum%2016-48k.htm"> 48K Spectrum</a> Rom and the 128K's editor and menuing system. Also added
+  is a parallel printer port (8-bit, unlike older Amstrad designs), and extra
+  printer support in the software. Cassette software is still supported but
+  you'll need a Walkman or similar plugged player, to plug into what remains of
+  the old 128K +2's sound socket.</font></p>
+  <p class="bodytext"><font face="Verdana" size="2">The disk drive is (of
+  course) Amstrad's 3&quot; format. It claims compatibility with Amstrad's word
+  processor, the PCW8256, holding some 450K of data on double-sided flip-over
+  disks. That's about 178K per side, which isn't as much as modern drives and
+  disks are capable of. Not by a long way. However, the twin considerations of
+  price and compatibility make the choice of format seem quite sensible.
+  Considering what software superheroes can cram into 48K of gamespace, 350K
+  should keep them going for quite a while.</font></p>
+  <p class="bodytext"><font face="Verdana" size="2">There's a connector for a
+  second disk drive at the back of the machine. As well as Amstrad's own, there
+  is scope here to hook up a 3.5&quot; or 5.25&quot; drive, so people with
+  Discovery or other interfaces shouldn't panic unduly. It'll still need the
+  appropriate leads and some clever software, but it can't be long before the
+  third-party army rush in to fill the vacuum, if you'll pardon a mixed
+  metaphor. But, and it's a biggie, <a href="ZX%20Spectrum+2.htm"> Plus 2</a> owners will not be able to buy an
+  up-grade. They might be a little annoyed at that.</font></p>
+  <p class="bodytext"><font face="Verdana" size="2">The method chosen by the Rom
+  designers to interface the disk drives to Basic is interesting. All the tape
+  commands work without change on the disk drives. so that most Basic tape-based
+  programs will run without any modification from disk. At first glance. you
+  might think that this means that there would be no way to use tape at all. If
+  all the commands are the same, how can the computer know whether to use tape
+  or disk when you Load &quot;FROGSTAR&quot;? The answer lies with device names.</font></p>
+  <hr>
+  <p class="subhead"><b><font face="Verdana" size="2">Devices</font></b></p>
+  <p class="bodytext"><font face="Verdana" size="2">Device names are an ancient
+  trick, dating back to the dinosaur days of CP/M (of which more later). The <a href="ZX%20spectrum+3.htm">
+  Spectrum Plus 3</a> knows about four devices: tape, disk 1 (the one built-in),
+  disk 2 (that optional extra), and the Ramdisk. It calls them T:, A:, B: and
+  M:, and to use one particular device you include the name of the beginning of
+  the name bit of a command. So to load a program from tape, you'd do Load
+  &quot;T: BOOBALOO&quot; Similarly, to save a program to disk 1 (which is the
+  one built into the <a href="ZX%20spectrum+3.htm"> Plus 3</a>), you'd type Save &quot;A:GOODIES&quot;.</font></p>
+  <p class="bodytext"><font face="Verdana" size="2">The Ram disk is a way of
+  soaking up the extra Ram provided. Like the <a href="Spectrum%20128.htm"> Spectrum 128</a> and the
+  <a href="ZX%20Spectrum+2.htm"> Plus 2</a>, the
+  BASIC can only deal with about 40K directly (if it could manage more,
+  compatibility would suffer). If you want to write bigger programs, you need to
+  divide them up into sections and Merge in the bit you want. This is very quick
+  if you use the Ram disk, which is designed to use most of the same commands as
+  the real disks. The <a href="ZX%20Spectrum+2.htm"> Plus 2</a> had a silicon disk, which was the same idea but had
+  its own set of funny commands. The <a href="ZX%20spectrum+3.htm"> Plus 3</a>'s Ram disk is much more
+  standardised, and I expect to see some pretty clever Basic programs about
+  before long.</font></p>
+  <hr>
+  <p class="subhead"><b><font face="Verdana" size="2">Disk Commands</font></b></p>
+  <p class="bodytext"><font face="Verdana" size="2">There are special forms of
+  Load and Save to save time and make program conversions nice and easy. Load
+  &quot;A:&quot; means &quot;make all subsequent Load commands use disk 1&quot;.
+  Save &quot;T:&quot; makes all the Save commands which follow work on tape. So
+  a one line Basic program - Load &quot;T:FRED&quot;: Save &quot;A:FRED&quot; -
+  copies FRED from tape to disk.</font></p>
+  <p class="bodytext"><font face="Verdana" size="2">Inter-disk copying is done
+  by using, well, Copy. Move also gets a look, and acts as a rename command.
+  There aren't any brand new keywords - all of the new functions are Implemented
+  by novel (and sometimes bizarre) combinations of the existing commands. Format
+  is used to set up a disk when it's used for the first time. These commands
+  were used with the Interface 1 but - shock horror - the <a href="ZX%20spectrum+3.htm"> Plus 3</a> isn't Interface
+  1 or Microdrive compatible. You can plug in Interface 1, but it won't work.
+  The reason lies buried deep in the <a href="ZX%20spectrum+3.htm"> Plus 3</a> hardware, so it's not going to be
+  possible to produce a software fix.</font></p>
+  <p class="bodytext"><font face="Verdana" size="2">Amstrad were over a barrel
+  about Microdrives. The rights to the Microdrive technology stayed with
+  Sinclair after the takeover and this included the code which is in the
+  Interface 1 Rom. So even if Amstrad wanted to they couldn't have guaranteed
+  complete compatibility. And maybe they didn't want to. In any case,
+  Microdrives are now off the menu.</font></p>
+  <p class="bodytext"><font face="Verdana" size="2">Another ex-Microdrive
+  command pressed into service is Cat. Its most ingenious use is to help out
+  with transferring tape software to disk. Spectrum tape files can be Basic
+  programs, machine code or data, and they can automatically Run when they load,
+  as they can have memory addresses associated with them to tell the computer
+  where to load them. All this information is held on a &quot;header&quot;,
+  which is the short burst of data recorded just before the main file on tape.
+  There's also a Cat Exp command, which produces extended information about the
+  stuff on disk. It also gives a vital clue about the way the files are stored,
+  because some of that information is concerned with file attributes.</font></p>
+  <p class="bodytext"><font face="Verdana" size="2">File attributes contain
+  information which the computer uses to determine what can be done with a
+  particular file. They concern things like whether the file can be deleted,
+  whether the computer should display it when the user asks for a catalogue and
+  whether the file has ever had a copy made of it.</font></p>
+  <hr>
+  <p class="subhead"><b><font face="Verdana" size="2">Disc operating system</font></b></p>
+  <p class="bodytext"><font face="Verdana" size="2">The Disc Operating System
+  (+3 DOS) was written by Locomotive Software, who have a long and mostly
+  honourable association with Amstrad. It comes as no surprise that it bears a
+  distinct resemblance to Amsdos, the Dos for the CPC464 and 6128 which
+  Locomotive also wrote. <a href="ZX%20spectrum+3.htm"> Plus 3</a> Dos has lots more features available to machine
+  code than are hooked into Basic.</font></p>
+  <p class="bodytext"><font face="Verdana" size="2">For example, there's a
+  complete set of file handling routines hidden away. Basic users can't Open a
+  file to disk, or Print stuff to a file. All the code is there, but the Basic
+  hasn't been modified to use it.</font></p>
+  <hr>
+  <p class="subhead"><b><font face="Verdana" size="2">The guide book</font></b></p>
+  <p class="bodytext"><font face="Verdana" size="2">The boys from Brentwood
+  redeem themselves somewhat with the manual. This is a much extended and
+  mega-modified version of the <a href="ZX%20Spectrum+2.htm"> Plus 2</a> book, and it covers just about every
+  aspect of the machine that anyone could want to know about. The backbone of
+  the book is still the original Steve Vickers idiosyncratic learn yerself Basic
+  course, with all the old gems (on string-matching: Which of these is the
+  lesser, &quot;EVIL&quot; or &quot;evil&quot;?)</font></p>
+  <p class="bodytext"><font face="Verdana" size="2">There's a lot of extra stuff
+  about disks, the new memory maps, the extra printer stuff and a lot of very
+  detailed information on the Dos. There's a whole bunch of new demo programs,
+  including some which are genuinely useful and some which are mind-numbingly
+  naff. To be honest, there's not a great of scope for anyone who wants to
+  publish a book on what Amstrad left out; - there simply isn't much. However,
+  the book is pretty badly organised and the layout is unhelpful. 330 pages is a
+  lot of book, and it (like the <a href="ZX%20spectrum+3.htm"> Plus 3</a>) has obviously grown in fits and starts
+  from the days of the <a href="ZX81.htm">ZX81</a>. Coherent it isn't.</font></p>
+  <p class="bodytext"><font face="Verdana" size="2">Most questions that new
+  users, or an existing Spectrum user wanting to up-grade, might ask are
+  answered in the manual somewhere. The &quot;How do I convert software to
+  disk?&quot; problem is given special consideration. However, the simple tape
+  to disk tricks provided in the <a href="ZX%20spectrum+3.htm"> Plus 3</a> Rom only works on ordinary Basic
+  programs; games and other machine code stuff will need transfer programs.</font></p>
+  <p class="bodytext"><font face="Verdana" size="2">An all-important one this
+  for those wishing to upgrade. There are some serious problems. These relate
+  less to software - games from the 128K+2 should run without problems - but
+  more to do with hardware.</font></p>
+  <p class="bodytext"><font face="Verdana" size="2">These are two big
+  differences with the +3 compared to all previous Spectrums. The first is the
+  video output, this has been altered such that it will no longer drive
+  monochrome monitors - maybe important if your using a Spectrum for business or
+  educational purposes. The second problem is more significant - the edge
+  connector has been altered so that the 9V line no longer exists. This has been
+  used in the past to drive various peripherals like modems. These will no
+  longer work with the +3. So if you are upgrading check your add-ons'
+  specifications; do they use the 9V line? They won't work.</font></p>
+  <p class="bodytext"><font face="Verdana" size="2">Interface 1 considerations
+  aside, the <a href="ZX%20spectrum+3.htm"> Plus 3</a> looks at first sight to have a good chance of running lots
+  of old software. Like the <a href="ZX%20Spectrum+2.htm"> Plus 2</a>, it's got a 48K Basic mode, where it tries
+  very hard to look like an old-style Speccy. In this mode none of the new
+  hardware can be accessed, of course. It's a pretty good replica of an old
+  Spectrum. There were some Rom locations that were changed on the 128K
+  Spectrum, and this results in incompatibilities with badly designed joystick
+  adapters. These locations have been largely replaced in the new <a href="ZX%20spectrum+3.htm"> Plus
+  3</a>, but
+  there are still a few differences which could nobble a game or two.</font></p>
+  <p class="bodytext"><font face="Verdana" size="2">Game writers who use
+  existing Amstrad computers to generate code on should be pleased to know that
+  you can take a machine code file generated on a PCW8256 and turn it into a
+  proper Spectrum file with the quaintly named Copy &quot;filename&quot; To
+  Spectrum Format command. This takes a standard Amstrad file and puts a
+  Spectrum header on the front of it. The Speccy can then load it in with Load
+  &quot;filename&quot; Code command, and there is the program, transferred
+  without recourse to RS232 or special programs.</font></p>
+  <p class="bodytext"><font face="Verdana" size="2">The Spectrum can also load a
+  program from disk automatically. The idea is that the user unwraps the latest
+  games on disk, turns on his Spectrum, shoves the disk in the slot and presses
+  one button. From them on, everything progresses smoothly.</font></p>
+  <p class="bodytext"><font face="Verdana" size="2">First of all. the <a href="ZX%20spectrum+3.htm"> Plus 3</a>
+  looks for a special program on the disk called &quot;*&quot;. This program
+  can't be produced by BASIC, so if the computer finds it, it knows that it was
+  put there by a software house. If it finds &quot;*'', it loads and runs. If it
+  can't, it tries to find, load and run a Basic program called DISK. If that
+  falls, the computer gives up and goes back to the user. If the computer can't
+  find a disk at all, it goes into a routine which loads any program from tape.
+  Just like the Plus.</font></p>
+  <hr>
+  <p class="bodytext"><b class="subhead"><font face="Verdana" size="2">Printer
+  support</font></b></p>
+  <p class="bodytext"><font face="Verdana" size="2">The new printer support is
+  pretty comprehensive. As well as the existing <a href="ZX%20Spectrum+2.htm"> Plus 2</a> serial printer port,
+  there is a parallel interface. One of the areas most prone to problems with
+  computers in general and the Spectrum in particular is the interfacing and
+  usage of printers. With the <a href="ZX%20Spectrum+2.htm"> Plus 2</a> the problem was exacerbated by a peculiar
+  interface to Basic which made sending control codes (special commands to
+  switch in different styles of printing) to printers virtually impossible. With
+  the new <a href="ZX%20spectrum+3.htm"> Plus 3</a> Basic, any control code can be sent, or the old
+  <a href="ZX%20Spectrum+2.htm"> Plus 2</a> way of
+  doing things can be selected for program listings. Printing can be either the
+  old serial port or the new parallel one, which means virtually any printer
+  will plug into the <a href="ZX%20spectrum+3.htm"> Plus 3</a>. Any programs in existence which use either the
+  existing Basic Lprint or Print commands to drive printers should run
+  unchanged. The same is true of any program which uses the 'official' machine
+  code ways to drive a printer, which should cover most popular business
+  programs.</font></p>
+  <p class="bodytext"><font face="Verdana" size="2">In any case, very little
+  conversion work should be needed. Switching between the serial and parallel
+  interfaces is managed by the Format Lprint command: Format Lprint
+  &quot;C&quot; diverts output to the parallel interface, and &quot;R&quot;
+  switches it to the serial port. A useful command which has been much improved
+  is Copy By itself. this command prints a simple picture of the screen on any
+  Epson-like printer. On the 128 and <a href="ZX%20Spectrum+2.htm"> Plus 2</a>, this was just a dot-for-dot copy,
+  with no attempt to show colours. On the <a href="ZX%20spectrum+3.htm">Plus 3</a>, the command Copy Exp (for
+  Expanded) does a full greyscale dump of the screen, where each colour is
+  represented by a pattern of dots on the printer. The lighter the colour on the
+  screen, the fewer dots on the paper. There's also a Copy Exp Inverse which
+  produces a negative image: many screens look better that way on paper, and it
+  can save on ribbon wear.</font></p>
+  <p class="bodytext"><font face="Verdana" size="2">The legendary <a href="Spectrum%20128.htm"> Spectrum 128</a>
+  keypad, nominally supported on the <a href="ZX%20Spectrum+2.htm"> Plus 2</a>, has been consigned to the same fate
+  as the Interface 1. The socket into which it once plugged has been relabelled
+  Aux, and most of the supporting code in the Rom removed. The electrical
+  connections are still the same, so things like modems which drove the hardware
+  directly have a chance of working. The editor keypad commands like 'delete
+  line' and 'go to top of program' are still active by pressing odd keyboard
+  combinations, as they were on the <a href="ZX%20Spectrum+2.htm"> Plus 2</a>.</font></p>
+  <hr>
+  <p class="subhead"><b><font face="Verdana" size="2">Basic</font></b></p>
+  <p class="bodytext"><font face="Verdana" size="2">The <a href="ZX%20Spectrum+2.htm"> Plus
+  2</a>'s Basic editor
+  survives unchanged, bugs and all. To the untutored eye, 95% of the Basic has
+  survived unchanged from the <a href="ZX%20Spectrum+2.htm"> 128/Plus 2</a>. Deeper in, the organisation of the
+  Basic has mutated considerably. The original Spectrum had 16K of Rom, which
+  had all the Basic and editing code in it. The 128 and <a href="ZX%20Spectrum+2.htm"> Plus 2</a> added an extra
+  16K Rom, which had the editor, new printer support and other little extras in
+  it. The <a href="ZX%20spectrum+3.htm"> Plus 3</a> has two more 16K Roms in it, which hold the Disk Operating
+  System, still more new printer stuff, an extended syntax analyser for all the
+  new varieties of command, and some more stuff which Amstrad are keeping quiet
+  about.</font></p>
+  <hr>
+  <p class="bodytext"><b class="subhead"><font face="Verdana" size="2">Inside</font></b></p>
+  <p class="bodytext"><font face="Verdana" size="2">The hardware inside is
+  hugely different from any previous Spectrum. Even including the disk
+  interface, there are far fewer chips than the 128 or the <a href="ZX%20Spectrum+2.htm"> Plus
+  2</a>. Instead of 16
+  chips providing the 128K Ram, there are just four. There are two 32K Roms,
+  holding all the aforementioned software, the RS232 driver chips, the sound
+  chip, the TV picture chip and the TV sound chip. All the video circuitry and
+  &quot;glue&quot; (the chips that stick everything together, electronically
+  speaking) are contained in one postage stamp sized gate array chip.</font></p>
+  <p class="bodytext"><font face="Verdana" size="2">This tiny fleck of silicon
+  and plastic has the honour to be the first chip to have been designed at
+  Brentwood, as opposed to one of Amstrad's many subcontractors. As well as
+  actually producing the video signal, it also manages the new memory
+  configurations, the joystick ports and the printer port.</font></p>
+  <p class="bodytext"><font face="Verdana" size="2">This chip is a completely
+  new design. It's difficult to know at this stage whether it's introduced some
+  incompatibilities with the old hardware, but it seems to work with all the
+  games I tried that also worked with the <a href="ZX%20Spectrum+2.htm"> Plus 2</a>. It doesn't have any new video
+  modes: you're still stuck with the same screen format as the original
+  Spectrum. Colour clash, it seems, will be with us always. I tried a few bits
+  of hardware - joystick ports and the like - and it all seemed to work. Even as
+  complex an animal as Ram's Music Machine operated without a murmur (except
+  when I sample a mumble).</font></p>
+  <hr>
+  <p class="bodytext"><b class="subhead"><font face="Verdana" size="2">Verdict</font></b></p>
+  <p class="bodytext"><font face="Verdana" size="2">Amstrad has been criticised
+  about many aspects of the <a href="ZX%20Spectrum+2.htm"> Plus 2</a>, and it took quite a bit of it to heart. The
+  redesigned TV circuits gave a much better sound quality and a generally nice
+  picture all round. The socket the back of the computer that provided sound on
+  the Plus new doubles as a cassette connector. It's a Walkman-style socket,
+  with one connection for loading and one for saving. Using an external cassette
+  recorder should make loading a little easier for those poor souls with
+  slightly shaky hyperloaders. The <a href="ZX%20Spectrum+2.htm"> Plus 2</a> cassette recorder saga suggests that
+  there's a lot of that thing about.</font></p>
+  <p class="bodytext"><font face="Verdana" size="2">The joystick connectors are
+  once again Amstrad's own peculiar standard (boo hiss). Still, any joystick
+  interface that worked with the <a href="ZX%20Spectrum+2.htm"> 128/Plus 2</a> should work with the
+  <a href="ZX%20spectrum+3.htm"> Plus 3</a>, and all
+  the new stuff that's come out since the <a href="ZX%20Spectrum+2.htm"> Plus 2</a> hit the street with a dull thud
+  copes with Amstrad's eccentricities in any case. Grey or black.</font></p>
+  <p class="bodytext"><font face="Verdana" size="2">Amstrad's other main
+  eccentricity, that of pricing the <a href="ZX%20spectrum+3.htm"> Plus 3</a> at £250, is a little more difficult
+  to explain. It's competing pretty much head-on with the existing disk-based
+  games micro that Amstrad produce (the CPC 6128), which you can get for about
+  the same price with a monitor. Perhaps it's all an attempt to make the <a href="ZX%20Spectrum+2.htm"> Plus 2</a>
+  look more attractive before the Christmas wars set in but it's difficult to
+  escape the conclusion that Amstrad have gone a little bit gaa-gaa over the
+  pricing.</font></p>
+  <p><font face="Verdana" size="2"><span class="bodytext">At £200, it would be
+  an exciting product. At £175 or £150 it would be an Amstrad bestseller. At
+  £250 it's overpriced, and Amstrad must surely know it. Their other actions,
+  dropping the price of blank disks, and giving software houses machines to work
+  with, are at odds with the price. It can't cost much to produce. Let's face
+  it. It's a Spectrum with disk on the side, and in these days of ST's and Amiga
+  500s it just might not make it. Amstrad - it's too expensive.</span></font></p>
+</div>
+<div align="left">
+  <hr>
+</div>
+
+<p align="center"><font face="Verdana" size="2"><b><a href="Sinclair%20Lays%20a%20Golden%20Egg.htm">16/48K 
+  Spectrum</a>&nbsp;&nbsp;&nbsp; <a href="Unwrapping%20the%20Spectrum%20Plus.htm">Spectrum 
+  Plus</a>&nbsp;&nbsp;&nbsp; <a href="Spectrum%20128K%20Review.htm">Spectrum 128</a>&nbsp;&nbsp;&nbsp; 
+  <a href="Spectrum%2B%202%20Review.htm">Spectrum+ 2</a>&nbsp;&nbsp;&nbsp; Spectrum+ 
+  3</b><o:p></o:p><o:p> </o:p> </font></p>
+<p align="center"><span class="bodytext1"><b><a href="ZX%20Spectrum%20Archive_Main.htm"><font face="Verdana" size="2">Back</font></a></b></span></p>
+
+</body>
+
+</html>

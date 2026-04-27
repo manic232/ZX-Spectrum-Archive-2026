@@ -1,0 +1,106 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+
+<head>
+<title>Spectrum FAQ - Peripheral Ports</title>
+</head>
+
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#660099" alink="#ff0000">
+
+<p align="center">
+<a href="index.html">[FAQ]</a><br>
+<a href="faqs.html">[Frequently&nbsp;Asked&nbsp;Questions]</a>
+<a href="resource.html">[Resources]</a>
+<a href="emulator.html">[Emulators]</a>
+<a href="where_is.html">[Where&nbsp;Is...?]</a>
+<a href="fileform.html">[File&nbsp;Formats]</a>
+<a href="technica.html">[Technical&nbsp;Information]</a>
+<a href="pinouts.html">[Pinouts]</a>
+<a href="acknowle.html">[Acknowledgements]</a>
+</p>
+
+<table width="100%" bgcolor="#eeeeaa">
+<tr><th><font size="+3">PERIPHERAL PORTS</font></th>
+</table>
+<p align="center">This page last updated on 11 Aug 2000</p>
+
+<P ALIGN=CENTER>
+<a href="tech_z80.html">[Z80 Tech Info]</a>
+<a href="tech_48.html">[48K Tech Info]</a>
+<a href="tech_128.html">[128K Tech Info]</a>
+[Peripheral Ports]
+</P>
+
+<p>When an port is read from (with `<samp>IN</samp>') or written to
+(with `<samp>OUT</samp>'), it will activate a number of devices
+external to the Z80, depending on the port address. In general,
+devices respond if certain bits in the binary representation port
+number are set and/or reset, rather than to a specific port number;
+this is known as `partial decoding'. Whilst this makes the decoding
+hardware easier to make, it does mean that a considerable amount of
+congestion has occured in the space available for new peripherals to
+respond to if they do not wish to clash with any current devices.</p>
+
+<p>The next complication is to do with the Z80's I/O instructions: it
+is quicker and easier to select the low 8 bits of the port number than
+it is to select the high 8 bits; this means that, when outputting to
+peripherals for which the upper 8 bits make no difference, this will
+often be left unset, and may contain garbage. Thus, the 48K ULA, which
+responds to all even port addresses, is often referred to as port #FE,
+rather than the full 16-bit port #FFFE.</p>
+
+<p>Listed below are some of the available peripherals (including those
+like the ULA, which are in every machine), and the bit fields to which
+they respond. In the table, `<tt>-</tt>' means `don't care',
+`<tt>0</tt>' means the bit must be reset for the peripheral to
+respond, and `<tt>1</tt>' means it must be set.</p>
+
+<center><table>
+<tr><th>Peripheral</th><th>Port</th><th>Description</th></tr>
+
+<tr><td>TS2068 display mode</td><td><tt>---- ---- 1111 1111</tt></td></tr>
+<tr><td>48K ULA</td><td><tt>---- ---- ---- ---0</tt></td><td><a href="tech_48.html#FE">48K Tech Info | Port FE</a></tr>
+<tr><td>TS2068 ULA</td><td><tt>---- ---- 1111 1110</tt><td>As 48K ULA</td></tr>
+<tr><td>128K AY register</td><td><tt>11-- ---- ---- --0-</tt></td><td><a href="tech_128.html#AY">128K Tech Info | Sound Chip</a></td></tr>
+<tr><td>128K AY data</td><td><tt>10-- ---- ---- --0-</tt></td><td><a href="tech_128.html#AY">128K Tech Info | Sound Chip</a></td></tr>
+<tr><td>128K memory</td><td><tt>01-- ---- ---- --0-</tt></td><td><a href="tech_128.html#MEM">128K Tech Info | 128K Memory</a></td></tr>
+<tr><td>+3 FDC data</td><td><tt>0011 ---- ---- --0-</tt></td><td><a href="tech_128.html#DISK">128K Tech Info | Disk Drive</a></td></tr>
+<tr><td>+3 FDC status</td><td><tt>0010 ---- ---- --0-</tt></td><td><a href="tech_128.html#DISK">128K Tech Info | Disk Drive</a></td></tr>
+<tr><td>+3 memory</td><td><tt>0001 ---- ---- --0-</tt></td><td><a href="tech_128.html#PLUS3MEM">128K Tech Info | +2A/+3 Memory</a></td></tr>
+<tr><td>+3 Centronics</td><td><tt>0000 ---- ---- --0-</tt></td></tr>
+<tr><td>ZX Printer</td><td><tt>---- ---- ---- -0--</tt></td></tr>
+<tr><td>TS2040 / Alphacom 32 printer</td><td><tt>---- ---- 1111 1011</tt></td></tr>
+<tr><td>Interface 1 RS232/network</td><td><tt>---- ---- ---1 0---</tt></td><td><a href="tech_48.html#F7">48K Tech Info | Port F7</a></td></tr>
+<tr><td>Interface 1 control</td><td><tt>---- ---- ---0 1---</tt></td><td><a href="tech_48.html#EF">48K Tech Info | Port EF</a></td></tr>
+<tr><td>Interface 1 microdrive</td><td><tt>---- ---- ---0 0---</tt></td><td><a href="tech_48.html#E7">48K Tech Info | Port E7</a></td></tr>
+<tr><td>TS2068 AY data</td><td><tt>---- ---- 1111 0110</tt></td></tr>
+<tr><td>TS2068 AY register</td><td><tt>---- ---- 1111 0101</tt></td></tr>
+<tr><td>TS2068 horizontal select register</td><td><tt>---- ---- 1111 0100</tt></td></tr>
+<tr><td>Aerco Centronics Interface</td><td><tt>---- ---- 0111 1111</tt></td>
+<tr><td>Kempston joystick</td><td><tt>---- ---- 000- ----</tt></td><td><a href="tech_48.html#JOYSTICKS">48K Tech Info | Joysticks</a></td></tr>
+<tr><td>JLO status/command</td><td><tt>---- ---- 1000 1111</tt></td></tr>
+<tr><td>JLO track</td><td><tt>---- ---- 1001 1111</tt></td></tr>
+<tr><td>JLO sector</td><td><tt>---- ---- 1010 1111</tt></td></tr>
+<tr><td>JLO data</td><td><tt>---- ---- 1011 1111</tt></td></tr>
+<tr><td>JLO select</td><td><tt>---- ---- 1011 0111</tt></td></tr>
+
+</table></center>
+
+<P ALIGN=CENTER>
+<a href="tech_z80.html">[Z80 Tech Info]</a>
+<a href="tech_48.html">[48K Tech Info]</a>
+<a href="tech_128.html">[128K Tech Info]</a>
+[Peripheral Ports]
+</P>
+
+<p align="center"><img src="zxline.png" width="540" height="8" alt="-----"></p>
+
+<p align="center"><font size="-1">This FAQ is maintained by <a href="cabal.html">the Cabal</a>;
+distribution is permitted only under the conditions specified in the
+<a href="index.html#COPYRIGHT">copyright notice</a>.<br> Primary site
+for this FAQ: <a href="http://www.srcf.ucam.org/~pak21/cssfaq/index.html">http://www.srcf.ucam.org/~pak21/cssfaq/index.html</a>.</font>
+
+</body>
+
+</html>

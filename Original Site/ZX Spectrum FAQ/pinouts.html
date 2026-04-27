@@ -1,0 +1,312 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+
+<head>
+<title>Spectrum FAQ - Pinouts</title>
+</head>
+
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#660099" alink="#ff0000">
+
+<p align="center">
+<a href="index.html">[FAQ]</a><br>
+<a href="faqs.html">[Frequently&nbsp;Asked&nbsp;Questions]</a>
+<a href="resource.html">[Resources]</a>
+<a href="emulator.html">[Emulators]</a>
+<a href="where_is.html">[Where&nbsp;Is...?]</a>
+<a href="fileform.html">[File&nbsp;Formats]</a>
+<a href="technica.html">[Technical&nbsp;Information]</a>
+[Pinouts]
+<a href="acknowle.html">[Acknowledgements]</a>
+</p>
+
+<table width="100%" bgcolor="#eeeeaa">
+<tr><th><font size="+3">SPECCY PINOUTS</font></th>
+</table>
+<p align="center">This page last updated on 14 August 2001</p>
+
+<p align="center">
+<a href="#ULA">[ULA]</a>
+<a href="#AY">[AY&nbsp;Sound&nbsp;Chip]</a>
+<a href="#KEY">[Keyboard]</a>
+<a href="#KEYREP">[Keyboard&nbsp;Repair]</a>
+<a href="#COMP">[128K&nbsp;Composite&nbsp;Video]</a>
+<a href="#RGB">[128K&nbsp;RGB]</a>
+<a href="#POWER">[Power&nbsp;Supplies]</a>
+</p>
+
+<a name="ULA"></a>
+<table width="100%" bgcolor="#f0f0b0">
+<tr><th><font size="+1">ULA</font></th>
+</table>
+
+<p>He <i>multiplexed</i> address-lines.</p>
+<pre>
+/WR   2    39 Q          One of the +5V is decoupled through a RC-low-pass.
+/RD   3    38 /MREQ      U,V are the color-difference signals.
+/WE   4    37 A15        /Y is the inverted video including sync.
+A0    5    36 A14        D are the data-lines, decoupled from the CPU by
+A1    6    35 /RAS       resistors.
+A2    7    34 /ROM CS    T are the data-lines to the keyboard (address-lines
+A3    8    33 /IO-ULA    through diodes).
+A4    9    32 CLOCK      SOUND is the analog-I/O-line for beep, save and load.
+A5   10    31 D7         CLK is the clock-source to the CPU including the
+A6   11    30 D6         inhibited T-states.
+/INT 12    29 D5         IO-ULA is (A0(CPU) OR /IORQ) for the I/O-port FEh
++5V  13    28 SOUND      Q is the 14MHz-crystal, other side grounded through
++5V  14    27 D4         a capacitor
+U    15    26 T4
+V    16    25 D3
+/Y   17    24 T3
+D0   18    23 T2
+T0   19    22 D2
+T1   20    21 D1
+</pre>
+
+<a name="AY"></a>
+<table width="100%" bgcolor="#f0f0b0">
+<tr><th><font size="+1">AY-3-8912</font></th>
+</table>
+
+<pre>
+SOUND C   1    28  D0       Vcc is +5V.
+PORT      2    27  D1       SOUND A, B and C can be tied together.
+Vcc       3    26  D2       CLOCK can be some MHz.
+SOUND B   4    25  D3
+SOUND A   5    24  D4
+GND       6    23  D5
+PORT      7    22  D6
+PORT      8    21  D7
+PORT      9    20  BC1
+PORT     10    19  BC2
+PORT     11    18  BDIR
+PORT     12    17  A8
+PORT     13    16  RESET
+CLOCK    14    15  CLOCK
+</pre>
+
+<a name="KEY"></a>
+<table width="100%" bgcolor="#f0f0b0">
+<tr><th><font size="+1">KEYBOARD LAYOUT</font></th>
+</table>
+
+<pre>
+  OUTER SIDE   A 15 14 8  13 12 9  10 11  INNER SIDE
+             D
+             0   BR EN CS P  0  A  Q  1
+             1   SS L  Z  O  9  S  W  2
+             2   M  K  X  I  8  D  E  3
+             3   N  J  C  U  7  F  R  4
+             4   B  H  V  Y  6  G  T  5
+  INNER SIDE
+
+  [BR] BREAK   [EN] ENTER   [CS] CAPS SHIFT   [SS] SYMBOL SHIFT
+</pre>
+
+<p>In real the matrix connections are in one row on the top side of
+the membrane.</p>
+
+<a name="KEYREP"></a>
+<table width="100%" bgcolor="#f0f0b0">
+<tr><th><font size="+1">KEYBOARD REPAIR</font></th>
+</table>
+
+<p>Replacing keyboard membranes on the Spectrum, Spectrum + and Spectrum 128:
+
+<p>[Thanks to <a href="mailto:briang@bgserv.demon.co.uk.no.junk.mail">Brian Gaff</a> for most of this information]
+
+<p>First find your good membrane: this seems to be the impossible
+part! If you have a black 128K machine, this uses the same membrane as
+the Spectrum +.
+
+<p>It may be the case that the connectors on the keyboard PCB have
+scratched off the silver from the ribbon, in which case it is possible
+to buy some so-called "conductive paint" which is a suspension of fine
+silver particles. If you let it dry, it conducts. Use a fine brush to
+replace what is scratched off from the ribbons. This paint is
+available from most electronics hobbyist stores (for example, from
+RadioShack in US).</p>
+
+<p>If not, you'll need a new membrane: see the <a href="spares.html">Spare Parts</a>
+section for some possible sources.</p>
+
+<p>Firstly, remove all the screws in the bottom of the case. On the
+rubber keyed model, two of these may be under the front feet. Also
+note that the screw at the rear in the centre is different to the
+others in some cases. Turn the computer the right way up and gently
+lift the top of the case. You should see two flat cables linking the
+keyboard to the PCB.</p>
+
+<p>Carefully pull these upward without twisting them. They usually
+pull out easily.  Grasp them as near the PCB sockets end as you
+can. They also tear easily, so try not to leave any bits behind in the
+sockets. On the Spectrum + and 128, remove the keyboard and take note
+of how the rear sprung feet are assembled. Murphy's law dictates that
+these are bound to fall out as you re-assemble the case later!</p>
+
+<p>Back to the rubber keyboard now, and there were two versions of
+these. Look beneath the keyboard. If there are any small metal lugs at
+the outside edges, gently prize them upwards. This may allow the top
+metal plate to be removed.  However, the majority of Spectrums relied
+on good old glue to secure the top plate, and getting these apart can
+be a slow job if you wish to avoid bending the plate.</p>
+
+<p>The best way is to slowly pull it off. Try not to kink it
+though. Once this is free, there is a rubber mat and then the
+membrane. This part is easy. Just replace the membrane, making sure it
+is the correct way round with the flat cables poking through the slots
+as before. If there is not enough sticky left to hold the metal plate,
+then contact adhesive or double sided tape work well. Try not to get
+any of the adhesive on the membrane or rubber mat though.</p>
+
+<p>The Spectrum + calls for slightly more labour to do the job. Turn
+the keyboard upside down and remove all the screws in the backing
+plate. Also remove the two clamps at the rear where the flat cables
+run. Once this is done, the backing plate can be removed, leaving the
+membrane exposed. This is a more complex beast than the rubber keyed
+one.
+
+<p>Now, replace the old membrane with your new one, making sure it is
+located on the spigots correctly, and replace the backing plate and
+screws. These do not need to be too tight.</p>
+
+<p>Care must be taken to get the flat cables laying straight through
+the clamps.  Try to do the screws up a little at a time evenly. Do not
+over tighten them though. As a matter of interest, these clamps are
+used to make connections between various layers of the membrane, so
+any mis alignment could cause strange keyboard faults! [<i>I'd go
+along with that alright - I threw away a perfectly good membrane when
+all that was wrong was that one of the clamps hadn't been tightened
+enough. - Damien</i>]</p>
+
+<p>All that remains is to carefully replace the ends of the flat
+cables into their sockets. Again, try not to buckle them, as they are
+fragile. Once this is done, lay the keyboard on the machine and test
+it. Test ALL the keys and combinations.  If all is well, then the
+screws can be replaced. If it isn't, check that the cables are in the
+connectors properly, and that there is no debris in there from the old
+cables. On the + and 128, suspect the clamps first! Simply loosen them
+and realign the cables. Remember when replacing any screws, that they
+are only screwing into plastic, and you only have to over tighten them
+once, and the pillar they screw into could either crack or just end up
+with a large hole in it!</p>
+
+<p><i>[If the ends of the membrane cables where they attach to the PCB
+have been cracked, you can get away with cutting them off past the
+cracked point and inserting the cable back in the slots. There is not
+much slack in the cables though, so you may find this tricky if the
+split is any more than around a centimeter away from the socket -
+Damien].</i></p>
+
+<a name="COMP"></a>
+<table width="100%" bgcolor="#f0f0b0">
+<tr><th><font size="+1">128K COMPOSITE VIDEO</font></th>
+</table>
+
+<p>[Thanks to Henning Bog for this information]
+
+<p>Pin 1 is composite PAL, 2 is GND. There's no audio on any pin of
+the RGB connector.
+
+<p>The picture is a bit dull unless your TV's video input is High Z
+(high impedance) However, that's quite unlikely. Normally the
+impedance of the video input is around 75 Ohms. To alleviate this
+problem, short the 68 Ohms resistor inside the Speccy that's in series
+with pin 1 (follow the track on the PCB). Or you can hook it directly
+to the input of the RF modulator.
+
+<p>The audio can be taken from the Mic socket but a better balance between
+48K and 128K sound is obtained directly from pin 5 of IC38.</p>
+
+<a name="RGB"></a>
+<table width="100%" bgcolor="#f0f0b0">
+<tr><th><font size="+1">128K RGB</font></th>
+</table>
+
+<p>For the 128K machine:</p>
+
+<pre>
+        RGB              Pin  Signal              Level
+                         -------------------------------------------------
+   --7--   --6--         1    Composite PAL       75 Ohms, 1.2 Volts pk-pk
+         |               2    0 Volts DC
+    3--  8  --1          3    Bright output       TTL
+  --     |     --        4    Composite sync      TTL
+      /     \            5    Vertical sync       TTL
+     5   |   4           6    Green               TTL
+    /    2    \          7    Red                 TTL
+         |               8    Blue                TTL
+</pre>
+
+<p>And for the +2A/+3 (thanks to Mike Wynne):</p>
+
+<pre>
+        RGB              Pin  Signal              Level
+                         -------------------------------------------------
+   --7--   --6--         1                        +12V
+         |               2    GND                 0V
+    3--  8  --1          3    Audio Out
+  --     |     --        4    /Composite Sync     TTL
+      /     \            5                        +12V 
+     5   |   4           6    Green               Analogue 1.67V p-p
+    /    2    \          7    Red                 Analogue 1.67V p-p
+         |               8    Blue                Analogue 1.67V p-p
+</pre>
+
+<a name="POWER"></a>
+<table width="100%" bgcolor="#f0f0b0">
+<tr><th><font size="+1">Power Supplies</font></th>
+</table>
+
+<p>The power supplies for the various machines are rated as
+follows:</p>
+
+<pre>
+Machine             Voltage   Amperage  Centre Polarity
+-------------------------------------------------------
+ZX-81                 9V DC     500 mA        +ve
+Spectrum 16K/48K/+    9V DC     1.4  A        -ve
+Spectrum 128          9V DC     1.85 A	      -ve
+Spectrum +2           9V DC     2.1  A        -ve
+
+Timex 1000/1500       9V DC     500 mA        +ve
+Timex 2040           24V AC     1.2  A        n/a
+Timex 2068           15V DC     1.0  A        -ve
+
+TC 2048		      9V DC     800 mA        -ve
+TC 2068               9V DC     1.0  A        -ve
+
+Z88                 6.5V DC     500 mA        +ve
+
+Alphacom 32 Printer  24V AC     1.2  A        n/a
+Timex Modem           9V DC     500 mA        +ve
+
+Flat-screen TV      5.9V DC     100 mA        -ve
+</pre>
+
+
+<p>From <a href="mailto:imc@comlab.ox.ac.uk.no.junk.mail">Ian Collier</a>:<BR>
+This is what the end of the +2A/+3 PSU lead looks like (which is obviously a
+mirror image to what the power socket looks like):</p>
+
+<pre>
+    ---u---
+  /         \
+ / +5    -12 \
+|      0      |
+ \ +5    +12 /
+  \   +12   /
+    -------
+</pre>
+
+<p>The 5V line is rated at 2A, the +12V at 700mA (200mA for the +2A) and the -12V at 50mA.
+
+<p align="center"><img src="zxline.png" width="540" height="8" alt="-----"></p>
+
+<p align="center"><font size="-1">This FAQ is maintained by <a href="cabal.html">the Cabal</a>;
+distribution is permitted only under the conditions specified in the
+<a href="index.html#COPYRIGHT">copyright notice</a>.<br> Primary site
+for this FAQ: <a href="http://www.srcf.ucam.org/~pak21/cssfaq/index.html">http://www.srcf.ucam.org/~pak21/cssfaq/index.html</a>.</font>
+
+</body>
+
+</html>

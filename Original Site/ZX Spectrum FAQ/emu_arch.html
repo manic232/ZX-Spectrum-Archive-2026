@@ -1,0 +1,200 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+
+<head>
+<title>Spectrum FAQ - Emulators - RISC OS</title>
+</head>
+
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#660099" alink="#ff0000">
+
+<A NAME="TOP"></A>
+<p align="center">
+<a href="index.html">[FAQ]</a><br>
+<a href="faqs.html">[Frequently&nbsp;Asked&nbsp;Questions]</a>
+<a href="resource.html">[Resources]</a>
+<a href="emulator.html">[Emulators]</a>
+<a href="where_is.html">[Where&nbsp;Is...?]</a>
+<a href="fileform.html">[File&nbsp;Formats]</a>
+<a href="technica.html">[Technical&nbsp;Information]</a>
+<a href="pinouts.html">[Pinouts]</a>
+<a href="acknowle.html">[Acknowledgements]</a>
+</p>
+
+<table width="100%" bgcolor="#eeeeaa">
+<tr><th><font size="+3">SPECCY EMULATORS FOR ACORN RISCOS</font></th>
+</table>
+<p align="center">This page last updated on 2 May 2000</p>
+
+<P ALIGN=CENTER>
+<a href="emu_dos.html">[DOS]</a>
+<a href="emu_win.html">[Windows]</a>
+<a href="emu_unix.html">[UNIX/Linux]</a>
+<a href="emu_os2.html">[OS/2]</a>
+<a href="emu_mac.html">[Mac]</a>
+[Archie]
+<a href="emu_amig.html">[Amiga]</a>
+<a href="emu_psio.html">[Psion&nbsp;5]</a>
+<a href="emu_ce.html">[Windows&nbsp;CE]</a>
+<a href="emu_atar.html">[ST/TT]</a>
+<a href="emu_java.html">[Java]</a>
+<a href="emu_play.html">[Playstation]</a>
+<a href="emu_drea.html">[Dreamcast]</a>
+<a href="emu_ql.html">[QL]</a>
+<a href="emu_misc.html">[Other&nbsp;Platforms]</a><BR>
+<a href="bench.html">[Benchmarks]</a>
+</P>
+
+<CENTER><P ALIGN=CENTER>
+5 emulators listed:<BR><BR>
+<A HREF="#MZX">[!MZX]</A>
+<A HREF="#SPECCY">[!Speccy]</A>
+<A HREF="#SPEC128">[Spec128]</A>
+<A HREF="#SPECULATOR">[Speculator]</A>
+<A HREF="#Z80EM">[Z80Em]</A>
+</P></CENTER>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="MZX">!MZX v1.0</A> (Graham Willmott) </TH>
+</TABLE>
+<OL>
+<LI>Emulates 48K Spectrum.
+<LI>Loads .SNA snapshots.
+<LI>Saves .SNA snapshots.
+<LI>No real tape support?
+<LI>Requirements?
+<LI>Runs at approximately 60% normal spectrum speed on an ARM2
+machine, and considerably faster on other machines - currently there
+is no speed control available.
+<LI>Freeware?
+<LI>Multitasks (can also single task if required).
+<LI>Doesn't emulate R register correctly, or certain undocumented
+instructions.
+<LI>No other comments.
+<LI>Available from <a href="ftp://ftp.worldofspectrum.org/pub/sinclair/emulators/arm/mzx110.spark">World of Spectrum</a>.
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="SPECCY">!Speccy</A> (Carsten Witt) </TH>
+</TABLE>
+<OL>
+<LI>Emulates 48K/128K Spectrum and Interface 1.
+<LI>Doesn't load snapshots. Loads tape files from disk in its own file
+format.
+<LI>Doesn't save snapshots. Saves tape files from disk in its own file
+format.
+<LI>Comes with application instructions for transferring tape files to/from
+real tapes through the serial port.
+<LI>Works best on a mulstiscan monitor if you want to multitask, as the
+display is inherently a hires display, and you get extended pixels, (i.e.
+twice the height). Does not run on StrongARM / RiscOS3.7, Runs on RO2-3.6.
+<LI>Runs at normal Spectrum speed on an ARM2 machine and very fast on
+an ARM3 machine. The speed is adjustable. For games such as Jet Set
+Willy &amp; Manic Miner exact LDIR implementation can be switched, to
+run the games at the correct speed.
+<LI>Not freeware as previously suspected; cost &pound;25 several years ago;
+may have changed now. Updates are free.
+<LI>Has an enhanced keyboard layout - there are keyboard short cuts to Caps
+Lock, Extended Mode, and also the cursor keys, the keypad, and other
+symbols (commas, colons etc.) can be entered easily.
+<LI>Doesn't fully implement the R register - however this doesn't affect
+most programs.
+<LI>Still doesn't load .SNA's. Carsten's format is a compressed type.
+!Speccy runs in the desktop very satisfactorily, providing you take
+into account the above comment about multiscan monitors. Considered
+the best of all Acorn emulators by at least one person.
+<LI>Available from the author:<BR>
+Carsten Witt<BR>
+Rostocker Str. 5<BR>
+45739 Oer-Erkenschwick<BR>
+Germany
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+      
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="SPEC128">Spec128 v0.15</A> (<a href="mailto:jfk@bitsmart.com.no.junk.mail">Joe Kelleher</a>) </TH>
+</TABLE>
+<OL>
+<LI>Emulates 48K/128K Spectrum.
+<LI>Loads .SNA, .SLT and .Z80 snapshots.
+<LI>Saves .SNA and .Z80 snapshots.
+<LI>No real tape support.
+<LI>Requirements?
+<LI>Faster than a real Speccy, but can be slowed down?
+<LI>Freeware.
+<LI>Good points?
+<LI>Bad points?
+<LI>The only freeware 128K emulator for the Acorn; above comments apply to v0.13, so any updates welcome. Version 0.15 has AY sound support.
+<LI>Available from the <A HREF="http://members.tripod.com/~JoeKelleher/Spec128/">Spec128 Home Page</A> or <a href="ftp://ftp.worldofspectrum.org/pub/sinclair/emulators/arm/Spec128v15b.zip">World of Spectrum</a>.
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="SPECULATOR">Speculator</A> (Dave Lawrence) </TH>
+</TABLE>
+<OL>
+<LI>Emulates 48K Spectrum.
+<LI>Loads in its own file format.
+<LI>Saves in its own file format.
+<LI>No real tape support.
+<LI>Requirements?
+<LI>Is extremely fast on an ARM3 machine. To get normal Spectrum speed an
+ARM2 machine or an ARM3 machine with the cache turned off is required.
+<LI>Status not known - not officially released yet.
+<LI>It is possible to return to the desktop from the emulator, and then
+re-enter the emulator at the point you left off.
+<LI>Bad points?
+<LI>Is not officially available at the moment - any copies circulating are
+pirate copies. As a result, documentation of the file format is not
+complete, and the conversion programs supplied with it do not work
+correctly.
+<LI>Not yet available?
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="Z80EM">Z80Em v1.2</A> (<a href="mailto:mrb@borcherds.co.uk.no.junk.mail">Michael Borcherds</a> and Anne Borcherds) </TH>
+</TABLE>
+<OL>
+<LI>Emulates 48K and 128K Spectrums with Cursor and Kempston joysticks.
+<LI>Loads .RAW, .SNA and .Z80 snapshots with level-loader support. Loads
+tape files from Z80's .TAP files.
+<LI>Saves .Z80 snapshots and to .TAP tape files.
+<LI>Can load/save? from/to? sample tapes (.VOC).
+<LI>Requirements?
+<LI>Runs a little slowly on an A3010. On a fast enough machine will run at exact Spectrum speed.
+<LI>Commercial - can be bought along with a CD full of games, the CD
+coming cheaper this way than if bought separately. However, see <A HREF="faqs.html#Q4">Question 4</A>.
+On its own it costs &pound;15 + VAT.
+<LI>Apparently has superb sound emulation, redefinable keymap, POKE feature.
+<LI>Level-loader support expects different filenames from the standard -
+instead of "GAME1.DAT" it wants just "1", etc.
+<LI>A demo version is available, though it runs 'for a few seconds' only.
+<LI>Available from <A HREF="http://www.wss.co.uk/products.html">Warm Silence Software</A>;
+the downloadable demo version available from <A HREF="http://www.borcherds.co.uk/">here</A>.
+Warm Silence's postal address is:<BR>
+Warm Silence Software<BR>
+PO Box 28<BR>
+Woodstock<BR>
+Oxfordshire<BR>
+OX20 1XX<BR>
+Telephone: 01608 737172
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<p align="center"><img src="zxline.png" width="540" height="8" alt="-----"></p>
+
+<p align="center"><font size="-1">This FAQ is maintained by <a href="cabal.html">the Cabal</a>;
+distribution is permitted only under the conditions specified in the
+<a href="index.html#COPYRIGHT">copyright notice</a>.<br> Primary site
+for this FAQ: <a href="http://www.srcf.ucam.org/~pak21/cssfaq/index.html">http://www.srcf.ucam.org/~pak21/cssfaq/index.html</a>.</font>
+
+</body>
+
+</html>

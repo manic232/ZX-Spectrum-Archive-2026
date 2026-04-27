@@ -1,0 +1,198 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+
+<head>
+<title>Spectrum FAQ - Emulators - QL</title>
+</head>
+
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#660099" alink="#ff0000">
+
+<A NAME="TOP"></A>
+<p align="center">
+<a href="index.html">[FAQ]</a><br>
+<a href="faqs.html">[Frequently&nbsp;Asked&nbsp;Questions]</a>
+<a href="resource.html">[Resources]</a>
+<a href="emulator.html">[Emulators]</a>
+<a href="where_is.html">[Where&nbsp;Is...?]</a>
+<a href="fileform.html">[File&nbsp;Formats]</a>
+<a href="technica.html">[Technical&nbsp;Information]</a>
+<a href="pinouts.html">[Pinouts]</a>
+<a href="acknowle.html">[Acknowledgements]</a>
+</p>
+
+<table width="100%" bgcolor="#eeeeaa">
+<tr><th><font size="+3">SPECCY EMULATORS FOR SINCLAIR QL</font></th>
+</table>
+<p align="center">This page last updated on 31 October 1998</p>
+
+<P ALIGN=CENTER>
+<a href="emu_dos.html">[DOS]</a>
+<a href="emu_win.html">[Windows]</a>
+<a href="emu_unix.html">[UNIX/Linux]</a>
+<a href="emu_os2.html">[OS/2]</a>
+<a href="emu_mac.html">[Mac]</a>
+<a href="emu_arch.html">[Archie]</a>
+<a href="emu_amig.html">[Amiga]</a>
+<a href="emu_psio.html">[Psion&nbsp;5]</a>
+<a href="emu_ce.html">[Windows&nbsp;CE]</a>
+<a href="emu_atar.html">[ST/TT]</a>
+<a href="emu_java.html">[Java]</a>
+<a href="emu_play.html">[Playstation]</a>
+<a href="emu_drea.html">[Dreamcast]</a>
+[QL]
+<a href="emu_misc.html">[Other&nbsp;Platforms]</a><BR>
+<a href="bench.html">[Benchmarks]</a>
+</P>
+
+<CENTER><P ALIGN=CENTER>
+4 emulators listed:<BR><BR>
+<A HREF="#SPECTATOR">[Spectator]</A>
+<A HREF="#SPECULATOR">[Speculator]</A>
+<A HREF="#ZEXCEL">[ZeXceL]</A>
+<A HREF="#ZM">[ZM]</A>
+</P></CENTER>
+
+<P>My thanks to <a href="mailto:simon@studio.woden.com.no.junk.mail">Simon Goodwin</a> for most of the information below.
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="SPECTATOR">Spectator v1.18</A> (Carlo Delhez) </TH>
+</TABLE>
+<OL>
+<li>Emulates 48K Spectrum, Kempston, Protek and Interface 2 joysticks, Interface 1 and Microdrives.
+<li>Loads .Z80 snapshots.
+<li>Saves .Z80 snapshots.
+<li>No real tape support.
+<li>Requires 256Kb of RAM, needs QRAM or QPAC to multitask.
+<li>Slower than the <A HREF="#ZM1">ZM</A> emulators.
+<li>Shareware - cost 50 Dutch Guilders to register (in 1993, so it may
+cost more now). Registration gets you a 720Kb disk full of Speccy
+software (mostly games), a printed manual and various utilities to
+read from +D, Disciple, Discovery and Beta/Hobbit disks.
+<li>Emulates undocumented Z80 opcodes; runs more Speccy software than the other QL-based emulators.
+<li>Screen update not immediate; uses a separate task to update the
+screen every second or so. FLASH a bit slow as a result. Keyboard
+handling a bit weird - QL Caps Lock does not correspond to Spectrum
+Caps Lock, press F5 for Extended Mode, etc.
+<li>Sound via the QL NET port or the QL's beeper, which sounds rather better.
+<li>Shareware version available from QL Public Domain suppliers such
+as S.J.P.D. and Qubbesoft; Registered version available from
+<a href="http://www.delhez.demon.nl/">the author</a>.
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="SPECULATOR">Speculator</A> (William James) </TH>
+</TABLE>
+<OL>
+<li>Emulates 48K Spectrum, Kempston and Protek joysticks.
+<li>Loads .Z80 snapshots and files from QL devices.
+<li>Saves snapshot in its own format, saves files to QL devices.
+<li>Comes with Dave Barker's QSPEC, a comprehensive set of QL commands
+to load and convert ZX tape files via the QL NET port, but loading is
+hit-and-miss as it depends on QL memory and tape speed. Speculator's
+LOAD command can use QL drives or a tape player connected to SER2,
+which can in theory accept stronger signals than NET. These tape
+routines assume Mark 1 Trump Card memory.
+<li>Requires 256Kb of RAM.
+<li>Faster for BASIC than the other QL-based emulators (due to
+replacement of some of the slow original ROM routines) but slower for
+machine code programs.
+<li>Public domain; comes with complete source (in assembler).
+<li>Comes with a utilty to enable keyword entry letter-by-letter,
+useful seeing as Speccy keywords aren't printed on the QL
+keyboard. Filenames not limited to the Speccy's 10 character standard
+so full 36 letter QL filenames can be used.
+<li>Doesn't multitask; takes over from SuperBasic. Doesn't emulate undocumented Z80 opcodes.
+<li>FLASH emulation can be turned off to speed things up. Sound via
+the QL NET port; a bit rough and ready, and locks out SER and MDV
+devices when in use.
+<li>Available from QL Public Domain suppliers such as Qubbesoft or S.J.P.D.:<BR>
+Qubbesoft PD,<BR>
+Brunwin Road,<BR>
+Rayne,<BR>
+Braintree,<BR>
+Essex<BR>
+CM7 5BU<BR>
+UK.<BR>
+<BR>
+SJPD,<BR>
+36 Eldwick Street,<BR>
+Burnley,<BR>
+Lancashire<BR>
+BB10 3DZ<BR>
+UK.
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="ZEXCEL">ZeXceL</A> (Davide Sanchiara) </TH>
+</TABLE>
+<OL>
+<li>Emulates the 128K Spectrum.
+<li>Loads?
+<li>Saves?
+<li>Real tape support?
+<li>Requires?
+<li>Faster than <A HREF="#ZM">ZM/128</A>.
+<li>Shareware?
+<li>Good points?
+<li>Bad points?
+<li>Runs under the QL's extended pointer environment; anyone with more
+info on this emulator is most welcome to <a href="mailto:cssfaq@worldofspectrum.org">mail us</a>.
+<li>Available from <a href="ftp://ftp.worldofspectrum.org/pub/sinclair/emulators/ql/zexcel.zip">World of Spectrum</a>.
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<P>
+<TABLE WIDTH="100%" BGCOLOR="#FFFFBB">
+<TR><TH><A NAME="ZM">ZM/1, 2, 3, hT and 128</A> (Ergon Development) </TH>
+</TABLE>
+<OL>
+<li>Emulates 48K Spectrum, 128K Spectrum (ZM/128 only!), Kempston
+(ZM/2+), Protek (ZM/2+) and Interface 2 joysticks, Interface 1 and
+Microdrives (ZM/1 and ZM/2 only).
+<li>Loads .Z80 snapshots (ZM/2+).
+<li>Saves .Z80 snapshots (registered ZM/2+).
+<li>Real tape support with ZM/AC that comes with registered versions of ZM/2+.
+<li>Requires 512Kb of RAM (640Kb for ZM/hT).
+<li>ZM/hT can out-perform a real Spectrum on a 16MHZ Gold card; other
+ZM versions are faster than the other QL-based emulators at least.
+<li>Shareware - cost 60,000 Italian Lire to register (in 1993, so it
+may cost more now). Registration gets you full versions of ZM/2 and
+ZM/3 and a printed manual plus utilities to read tapes and MGT or Opus
+disks. Send 90,000 Lire and you get ZM/HT, a compiling emulator which
+actually compiles Z80 code into native 68000 for a big speed increase
+(though variable speed until it has compiled all the Z80 code it
+encounters). Extra cash required for postage.
+<li>ZM/2 includes a Z80 monitor. Definable key layouts. Keyword entry
+eased by a menu of keywords you can select from as well as using the
+keys. Screen update can be in delayed or immediate modes. Emulates
+undocumented Z80 opcodes.
+<li>Only ZM/HT can save configuration or save compressed Z80 snapshots.
+<li>Sound via the QL NET port; a bit rough and ready, and locks out
+SER and MDV devices when in use. Response to INs from non-existent
+ports can be set, which helps with some games.
+<li>Shareware version available from <a href="ftp://ftp.worldofspectrum.org/pub/sinclair/emulators/ql/zmx.zip">World of Spectrum</a>;
+registered version available from the authors:<BR>
+Ergon Development,<BR>
+via Emilio De Marchi,<BR>
+2,<BR>
+42100 Reggio Emilia,<BR>
+Italy.
+</OL>
+<P ALIGN=RIGHT><A HREF="#TOP">Back to top</A>
+
+<p align="center"><img src="zxline.png" width="540" height="8" alt="-----"></p>
+
+<p align="center"><font size="-1">This FAQ is maintained by <a href="cabal.html">the Cabal</a>;
+distribution is permitted only under the conditions specified in the
+<a href="index.html#COPYRIGHT">copyright notice</a>.<br> Primary site
+for this FAQ: <a href="http://www.srcf.ucam.org/~pak21/cssfaq/index.html">http://www.srcf.ucam.org/~pak21/cssfaq/index.html</a>.</font>
+
+</body>
+
+</html>

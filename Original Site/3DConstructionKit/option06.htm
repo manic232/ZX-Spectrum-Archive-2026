@@ -1,0 +1,151 @@
+<html><head><title>
+3DCK - THE USER INTERFACE
+</title></head><body bgcolor=#000000 text="#FFFFFF" link="#FFFFFF" vlink="#FFFFFF" alink="#FFFFFF">
+<h3><font size=2 color=#FFFFFF face="Verdana">
+3D CONSTRUCTION KIT</font></h3>
+<font size=2 color=midnightblue>
+<hr></font>
+<h4><font size=2 color=#FFFFFF face="Verdana">
+6. THE USER INTERFACE</font></h4>
+<h5><font size=2 color=#FFFFFF face="Verdana">
+DIALOGUE BOXES</font></h5>
+<p><font size=2 color=#FFFFFF face="Verdana">
+There are various parts of the environment creation which will require input from
+you to set the parameters relating to the current function. These parameters will usually
+be set within a DIALOGUE BOX. (See figure 2).</font></p>
+<p><font size=2 color=#FFFFFF face="Verdana">
+The setting of parameters is achieved either by selection or by typing values (with
+the exception of entering/editing MESSAGES, which allow for alphanumeric characters).</font></p>
+<font size=2 color=#FFFFFF face="Verdana">
+<br></font><div align=center><font size=2 color=#FFFFFF face="Verdana">
+<img src="figure2.gif" height=198 width=420><br clear=all>
+<b>Dialogue Box</b><br><i>Figure 2</i><br></font></div>
+<p><font size=2 color=#FFFFFF face="Verdana">
+To enter or edit a numerical parameter, you must highlight the value then select it.
+The value will be cleared and a cursor appears, allowing you to enter a numeric value.
+To end editing of a particular text item, simply press the RETURN or ENTER key
+whereupon the cursor will be removed and any restrictions on numerical values will be
+applied i.e. if you were to type in the number 900 for the activate range and as the
+maximum value is 255 it will automatically be restricted to 255 on pressing RETURN.
+Note that while editing a parameter it is impossible to exit the DIALOGUE BOX or edit
+any other items until you have finished editing the current parameter by pressing
+RETURN or ENTER.</font></p>
+<h5><font size=2 color=#FFFFFF face="Verdana">
+EDITING FCL CONDITIONS - THE LINE EDITOR</font></h5>
+<p><font size=2 color=#FFFFFF face="Verdana">
+The Condition editing screen will appear after selecting a condition from a list for
+editing. Upon entering the condition editor, if the condition is empty, you will see a
+blank screen with a bar, of half the screen width, at the top. The word END is written on
+the left hand side. This word is in fact an FCL (Freescape Command Language)
+instruction. This instruction will always appear at the end of the command list (But you
+place more END instructions anywhere in a list to end the processing of a command list
+prematurely).</font></p>
+<p><font size=2 color=#FFFFFF face="Verdana">
+The bar serves to highlight the line selected for editing, or the line at which new
+instruction lines will be inserted.</font></p>
+<p><font size=2 color=#FFFFFF face="Verdana">
+Pressing a letter key starts the command entry. A cursor appears at the bottom of
+the screen, allowing you to edit what is being typed. The editor will only allow you to
+type up to eight characters before the cursor jumps ahead to new position in the line.
+This is because Freescape instructions are no longer than eight characters in length.
+The position that the cursor jumps to signifies the start of a parameter field. Pressing
+SPACE will also take you to the next field if the command has less than 8 characters.
+An FCL instruction can have from zero to three parameter fields (depending on the
+instruction). Each parameter field consists of a number between 0 and 255. Pressing
+the space bar moves the cursor to the next field. Only Alphabetic characters may be
+typed in the first field (instruction field), and only Numeric characters in the three fields
+following (parameter fields).</font></p>
+<p><font size=2 color=#FFFFFF face="Verdana">
+Pressing Return (Enter) will place the line into the instruction list at the line
+highlighted by the bar. However, if there is an error in the typing or format of the line,
+then it will not be placed in the instruction. The screen will flash red and the cursor will
+appear in the field where the error occured.</font></p>
+<p><font size=2 color=#FFFFFF face="Verdana">
+To correct errors, use the left and right cursor keys to move the cursor along the
+line. The delete (shift + 0 Spectrum 48K) key will move the cursor left one character
+deleting the character it moved onto. It is also possible to type over characters that
+already exist on the line.</font></p>
+<p><font size=2 color=#FFFFFF face="Verdana">
+When not editing a line:</font></p><ul>
+<li><font size=2 color=#FFFFFF face="Verdana">
+The up and down cursor keys will move the highlight bar through the instruction
+list (if there is more than one line).</font>
+<li><font size=2 color=#FFFFFF face="Verdana">
+Pressing shift + D will delete the line highlighted by the bar (it will not delete the
+last END instruction).</font>
+<li><font size=2 color=#FFFFFF face="Verdana">
+Pressing shift + E will allow you to edit the line highlighted by the bar (it will not
+edit the last END instruction).</font>
+<li><font size=2 color=#FFFFFF face="Verdana">
+Pressing shift + C will clear the whole condition list.</font>
+<li><font size=2 color=#FFFFFF face="Verdana">
+Pressing ESC(CPC), RUN-STOP(C64), BREAK/shift + SPACE (Spectrum) or
+shift + X (on all formats) will leave the condition editor.</font></ul>
+<p><font size=2 color=#FFFFFF face="Verdana">
+(Spectrum users note: all references to shift means the use of the
+Caps Shift key)</font></p>
+<p><font size=2 color=#FFFFFF face="Verdana">
+Note: if the instruction list reaches the bottom of the screen it continues in
+another column on the right hand side of the screen. The maximum number of lines that
+can be edited is two columns worth.</font></p>
+<h5><font size=2 color=#FFFFFF face="Verdana">
+MOVING AROUND THE 3D WORLD</font></h5>
+<p><font size=2 color=#FFFFFF face="Verdana">
+The movement icons in the centre of the screen can be used to move up, down,
+forwards, backwards, left or right. The turn icons allow you to turn or tilt your head to
+look in a different direction. Select the eye level icon to look forwards if you get
+confused.</font></p>
+<div align=center><font size=2 color=#FFFFFF face="Verdana">
+<br><img src="figure3.gif" height=80 width=522><br clear=all>
+<b>Mode and Freescape Icons Panel</b><br><i>Figure 3</i></font></div><font size=2 color=#FFFFFF face="Verdana">
+<br>
+</font>
+<p><font size=2 color=#FFFFFF face="Verdana">
+The U-turn icon is used to turn around 180 degrees so that you can look directly
+behind you. The cross hair icon turns the movement cross in the centre of the view
+window on or off.</font></p>
+<p><font size=2 color=#FFFFFF face="Verdana">
+Selecting the MODE icon changes your current mode of movement. The possible
+modes are:</font></p><ul>
+<li><font size=2 color=#FFFFFF face="Verdana">
+WALK: This mode allows you to walk around various objects and to climb them if
+they are not too high. However, you are limited by gravity so that you cannot leave the
+ground. Pressing down and up in Walk mode allows you to crouch down or stand up
+again. When crouched you may be able to move under an object which you would not fit
+through when standing. However, when crouched you cannot move forwards as fast so
+it is a good idea to be standing most of the time.</font>
+<li><font size=2 color=#FFFFFF face="Verdana">
+FLY 1 and FLY 2: These two modes are very similar. They allow you to fly through
+the 3D world as if you are wearing a jet pack!! The difference between Fly 1 and Fly 2 is
+that when moving forwards in Fly 1 you move parallel to the ground (at a constant
+height) whereas in Fly 2, if you are looking down and you move forwards your height
+will decrease. Fly 2 flies in the direction you are looking.</font>
+</ul><p><font size=2 color=#FFFFFF face="Verdana">
+The VIEW icon is useful for looking at the whole of the current area. Normally this
+icon shows arrows pointing to the Mode icon which means that the View mode is not
+operational. Selecting the View icon cycles between NORTH, SOUTH, EAST, WEST or
+PLAN which shows you the whole area from that direction. (PLAN shows you the area
+from directly above).</font></p>
+<p><font size=2 color=#FFFFFF face="Verdana">
+If you find using the FREESCAPE movement icons confusing, then you can also
+use the keys listed in the back of this manual to do most of the useful things.</font></p>
+<p><font size=2 color=#FFFFFF face="Verdana">
+Note that the EDIT and FREESCAPE icons remain on the screen and can be
+used at most times during editing.</font></p>
+<p><font size=2 color=#FFFFFF face="Verdana">
+After loading you will be able to see some more icons below the movement icons.
+These allow you to change your 3D world. These icons are marked GLOBAL, COPY,
+CREATE, EDIT, LOAD, RESET, SHADE, DELETE, ATTRIBUTES and SAVE. A
+description of what each of these icons consist of will be found later in the manual (see
+section on SHORTCUT ICONS).</font></p><font color=black>
+<hl>
+</font>
+<div align=center>
+<font face="Verdana">
+<a href="option05.htm"><font size=2 color=#FFFFFF>
+Prev</font></a> <font size=2 color=#FFFFFF>
+ - 
+<a href="contents.htm">Contents</a> -
+<a href="option07.htm">Next</a>
+</font></font>
+</div></body></html>

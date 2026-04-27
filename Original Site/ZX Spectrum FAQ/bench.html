@@ -1,0 +1,1971 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+
+<head>
+<title>Spectrum FAQ - Emulator Benchmarks</title>
+</head>
+
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#660099" alink="#ff0000">
+
+<p align="center">
+<a href="index.html">[FAQ]</a><br>
+<a href="faqs.html">[Frequently&nbsp;Asked&nbsp;Questions]</a>
+<a href="resource.html">[Resources]</a>
+<a href="emulator.html">[Emulators]</a>
+<a href="where_is.html">[Where&nbsp;Is...?]</a>
+<a href="fileform.html">[File&nbsp;Formats]</a>
+<a href="technica.html">[Technical&nbsp;Information]</a>
+<a href="pinouts.html">[Pinouts]</a>
+<a href="acknowle.html">[Acknowledgements]</a>
+</p>
+
+<table width="100%" bgcolor="#eeeeaa">
+<tr><th><font size="+3">SPECCY EMULATOR BENCHMARKS</font></th>
+</table>
+<p align="center">This page last updated on 14 August 2001</p>
+
+<P ALIGN=CENTER>
+<a href="emu_dos.html">[DOS]</a>
+<a href="emu_win.html">[Windows]</a>
+<a href="emu_unix.html">[UNIX/Linux]</a>
+<a href="emu_os2.html">[OS/2]</a>
+<a href="emu_mac.html">[Mac]</a>
+<a href="emu_arch.html">[Archie]</a>
+<a href="emu_amig.html">[Amiga]</a>
+<a href="emu_psio.html">[Psion&nbsp;5]</a>
+<a href="emu_ce.html">[Windows&nbsp;CE]</a>
+<a href="emu_atar.html">[ST/TT]</a>
+<a href="emu_java.html">[Java]</a>
+<a href="emu_play.html">[Playstation]</a>
+<a href="emu_drea.html">[Dreamcast]</a>
+<a href="emu_ql.html">[QL]</a>
+<a href="emu_misc.html">[Other&nbsp;Platforms]</a><BR>
+[Benchmarks]
+</P>
+
+<P>In order to gauge the speed of various emulators, the following
+tests have been carried out:
+
+<OL>
+
+<LI><PRE>10 FOR I=16384 TO 23295
+20 POKE I,255
+30 NEXT I</PRE>
+
+<P>This is test of video access and the BASIC interpreter: note the remarkable influence of page swapping in 128K modes, especially
+if there is no EMS (eg <A HREF="emu_dos.html#Z80">Z80</A> and <A HREF="emu_dos.html#SP_UKV">UKV</A>).
+
+<P><A HREF="emu_dos.html#SIMCOUPE">SimCoupe</A> failed the test due to
+different video memory, and <A HREF="emu_dos.html#SINBAS">Sinbas</A>
+gave 'B Integer out of range' because <SAMP>POKE</SAMP> is not
+implemented.</P>
+
+<LI><PRE>10 FOR I=16384 TO 23295
+30 NEXT I</PRE>
+
+<P>Removing the writes to video memory from the first test will give
+the speed of BASIC interpretation. As expected, Sinbas is the fastest
+here.
+
+<P><A HREF="emu_dos.html#SPECTREMDR">SpectrEm-Dr</A> failed due to a
+bug (it does not finish the <SAMP>FOR</SAMP> loop), whilst <A HREF="emu_win.html#ZXSPECTRUMSIMULATOR">ZX Spectrum Simulator</A>
+does not respond to the keyboard in BASIC.</P>
+
+<LI><PRE>BEEP 10,0</PRE>
+
+<P>This is test of the intensive I/O operations required by
+<SAMP>BEEP</SAMP>. <A HREF="emu_dos.html#NUCLEARZX">Nuclear ZX</A> has
+an option to remap <SAMP>BEEP</SAMP> to PC timing. The sound is clean
+if the emulator is fast enough and nothing disturbs the tone. The
+emulators which produced a clean sound were <A HREF="emu_amig.html#ASP">ASp</A>,
+<A HREF="emu_dos.html#NUCLEARZX">Nuclear ZX</A>,
+<A HREF="emu_dos.html#ROMAN">Roman ZX</A>, <A HREF="emu_dos.html#SP">SP</A>,
+<A HREF="emu_dos.html#SPEC32">Spec32</A>, <A HREF="emu_dos.html#SPECTRUM">Spectrum</A>,
+<A HREF="emu_dos.html#WARAJEVO">Warajevo</A>, <A HREF="emu_win.html#WINZ80">WinZ80</A>,
+<A HREF="emu_win.html#ZX">ZX (Orro)</A>, <A HREF="emu_dos.html#ZX2">ZX (Rindt &amp; Brukner)</A>
+and <A HREF="emu_win.html#ZX32">ZX32</A>. ZX32 and ZX (Orro) have a
+significant delay before the start of the sound.
+
+<P>Once again, <A HREF="emu_win.html#ZXSPECTRUMSIMULATOR">ZX Spectrum Simulator</A>
+does not respond to the keyboard in BASIC.</P>
+
+<LI><PRE>PAUSE 500</PRE>
+
+<P>This is test of interrupt system. If the result is close to 10
+seconds, even if other results are not correct, then emulator is using
+hardware interrupts.
+
+<P><A HREF="emu_win.html#ZXSPECTRUMSIMULATOR">ZX Spectrum Simulator</A>
+agains fails because of a lack of keyboard input.  <A HREF="emu_dos.html#SPECTRUM">Spectrum</A>
+fails when in 'no screen' mode because it is impossible to determine
+when the test is over. <A HREF="emu_dos.html#SPECTREMDR">SpectrEm-Dr</A>
+quits too fast in overclock mode to be measured.</P>
+
+<LI>Start the first level of Manic Miner and time how long it takes
+for Willy to lose all his air.
+
+<P>This is the only non-BASIC test. Note the influence of fast
+<SAMP>LDIR</SAMP> on <A HREF="emu_dos.html#Z80">Z80</A> and <A HREF="emu_dos.html#SINCLAIR">Sinclair</A>.
+There is no difference between 128 and 128/48 modes here.
+
+<P>Various emulators failed this test as they do not provide
+sufficient facilities for loading games, whilst <A HREF="emu_dos.html#SINBAS">Sinbas</A>
+and <a href="emu_misc.html#SPECTRUM48">Spectrum 48</a> do not do Z80
+emulation, and <A HREF="emu_dos.html#SPECTRUM">Spectrum</A> in 'no
+screen' mode again provides no clue that the test is over.
+
+</OL>
+
+<P>The various modes used are:
+<UL>
+<LI>48: Spectrum 48K emulation.
+<LI>128: Spectrum 128K emulation, 128K BASIC.
+<LI>128/48: Spectrum 128K emulation, 48K BASIC.
+<LI>+3: Spectrum +3 emulation.
+<LI>2068: Timex 2068 emulation.
+<LI>Coup&eacute;: Sam Coup&eacute; emulation.
+</UL>
+
+<P>Many emulators have options that may impact on perfomance, of which
+some combinations have been tested.</P>
+
+<table width="100%" bgcolor="#f0f0b0">
+<tr><th><font size="+1">RESULTS</font></th>
+</table>
+
+<P ALIGN=CENTER>Note: All tests are done with a hand watch, so the
+results could be shorter by up to 0.3s.</P>
+
+<CENTER><TABLE BORDER=1>
+
+<TR>
+<TH>Emulator
+<TH>Test machine
+<TD><TABLE WIDTH="100%">
+<TR>
+<TH WIDTH="10%">Mode</TH>
+<TH>Options</TH>
+<TH WIDTH="10%" ALIGN=LEFT>Video</TH>
+<TH WIDTH="10%" ALIGN=LEFT>FOR</TH>
+<TH WIDTH="10%" ALIGN=LEFT>BEEP</TH>
+<TH WIDTH="10%" ALIGN=LEFT>PAUSE</TH>
+<TH WIDTH="10%" ALIGN=LEFT>Manic Miner</TH>
+</TABLE>
+
+<tr>
+<td>&nbsp
+<td>ZX Spectrum</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">128/48</td>
+    <td>&nbsp</td>
+    <td width="10%">00:51.0</td>
+    <td width="10%">00:30.2</td>
+    <td width="10%">00:10.0</td>
+    <td width="10%">00:10.0</td>
+    <td width="10%">N/A</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_amig.html#ASP">ASp v0.69</a></td>
+<td>68060 64MHz <B>not&nbsp;scaled</B></td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>&nbsp;</td>
+    <td width="10%">00:49.5</td>
+    <td width="10%">00:29.0</td>
+    <td width="10%">00:10.0</td>
+    <td width="10%">N/A</td>
+    <td width="10%">N/A</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#EPP">E++ v1.03</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>&nbsp;</td>
+    <td width="10%">04:59.8</td>
+    <td width="10%">02:56.1</td>
+    <td width="10%">00:58.2</td>
+    <td width="10%">00:40.5</td>
+    <td width="10%">10:17.0</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#FINSPE">Finspe 1.10</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>&nbsp;</td>
+    <td width="10%">02:50.1</td>
+    <td width="10%">01:39.5</td>
+    <td width="10%">00:34.3</td>
+    <td width="10%">00:32.0</td>
+    <td width="10%">07:13.0</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#JASPE">JASPE 990918</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>&nbsp;</td>
+    <td width="10%">01:30.0</td>
+    <td width="10%">00:52.3</td>
+    <td width="10%">00:19.9</td>
+    <td width="10%">00:29.5</td>
+    <td width="10%">02:53.1</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#JPP">JPP</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>Default JPP</td>
+    <td width="10%">00:13.1</td>
+    <td width="10%">00:07.5</td>
+    <td width="10%">00:03.1</td>
+    <td width="10%">00:10.4</td>
+    <td width="10%">00:16.6</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>PJPP 100%</td>
+    <td width="10%">00:49.9</td>
+    <td width="10%">00:29.5</td>
+    <td width="10%">00:10.3</td>
+    <td width="10%">00:10.3</td>
+    <td width="10%">02:07.7</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td>MAZE 0.23
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>&nbsp;</td>
+    <td width="10%">02:02.3</td>
+    <td width="10%">01:20.0</td>
+    <td width="10%">00:27.8</td>
+    <td width="10%">00:21.7</td>
+    <td width="10%">N/A</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_win.html#MTMW">MultiMachine v1.3b</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>1x1 screen, low rendering</td>
+    <td width="10%">05:04.0</td>
+    <td width="10%">03:00.2</td>
+    <td width="10%">00:50.0</td>
+    <td width="10%">00:56.0</td>
+    <td width="10%">12:12.3</td>
+  </tr>
+  <tr>
+    <td width="10%">128</td>
+    <td>1x1 screen, low rendering</td>
+    <td width="10%">07:41.5</td>
+    <td width="10%">04:26.0</td>
+    <td width="10%">00:51.0</td>
+    <td width="10%">00:57.0</td>
+    <td width="10%">12:06.3</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>1x1 screen, high rendering</td>
+    <td width="10%">10:42.8</td>
+    <td width="10%">06:15.0</td>
+    <td width="10%">01:55.3</td>
+    <td width="10%">02:01.5</td>
+    <td width="10%">27:52.5</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#NUCLEARZX">Nuclear ZX v3.69</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>Standard mode</td>
+    <td width="10%">00:13.0</td>
+    <td width="10%">00:07.8</td>
+    <td width="10%">00:03.0</td>
+    <td width="10%">00:10.3</td>
+    <td width="10%">00:32.4</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>R Register emulation</td>
+    <td width="10%">00:17.8</td>
+    <td width="10%">00:10.5</td>
+    <td width="10%">00:03.9</td>
+    <td width="10%">00:10.2</td>
+    <td width="10%">00:34.9</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>Slow factor 21</td>
+    <td width="10%">00:50.4</td>
+    <td width="10%">00:29.4</td>
+    <td width="10%">00:11.5</td>
+    <td width="10%">00:10.3</td>
+    <td width="10%">00:58.1</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>Hercules graphic mode 8</td>
+    <td width="10%">00:48.7</td>
+    <td width="10%">00:28.3</td>
+    <td width="10%">00:11.5</td>
+    <td width="10%">00:10.3</td>
+    <td width="10%">00:56.2</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>BEEP PC Mode</td>
+    <td width="10%">00:13.0</td>
+    <td width="10%">00:07.8</td>
+    <td width="10%">00:10.3</td>
+    <td width="10%">00:10.3</td>
+    <td width="10%">00:32.4</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_win.html#PASMULATOR">PASMulator 0.22</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>&nbsp;</td>
+    <td width="10%">06:21.0</td>
+    <td width="10%">03:47.7</td>
+    <td width="10%">01:02.1</td>
+    <td width="10%">01:29.8</td>
+    <td width="10%">N/A</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#R80">R80 v0.21</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>9 frames</td>
+    <td width="10%">04:13.8</td>
+    <td width="10%">02:33.2</td>
+    <td width="10%">00:37.8</td>
+    <td width="10%">00:36.9</td>
+    <td width="10%">10:06.8</td>
+  </tr>
+  <tr>
+    <td width="10%">128</td>
+    <td>9 frames</td>
+    <td width="10%">06:47.9</td>
+    <td width="10%">03:57.4</td>
+    <td width="10%">00:39.7</td>
+    <td width="10%">00:39.8</td>
+    <td width="10%">11:36.2</td>
+  </tr>
+  <tr>
+    <td width="10%">128/48</td>
+    <td>9 frames</td>
+    <td width="10%">04:30.2</td>
+    <td width="10%">02:40.7</td>
+    <td width="10%">00:39.1</td>
+    <td width="10%">00:39.5</td>
+    <td width="10%">11:36.2</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#ROMANZX">Roman ZX</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>&nbsp;</td>
+    <td width="10%">00:21.0</td>
+    <td width="10%">00:12.3</td>
+    <td width="10%">00:04.0</td>
+    <td width="10%">00:10.3</td>
+    <td width="10%">01:50.4</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#SIMCOUPE">SimCoupe 0.78</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">Coup&eacute;</td>
+    <td>&nbsp;</td>
+    <td width="10%">N/A</td>
+    <td width="10%">00:54.9</td>
+    <td width="10%">01:56.0</td>
+    <td width="10%">03:15.0</td>
+    <td width="10%">N/A</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#SINBAS">Sinbas 1.1</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">BASIC</td>
+    <td>&nbsp;</td>
+    <td width="10%">N/A</td>
+    <td width="10%">00:02.1</td>
+    <td width="10%">00:10.3</td>
+    <td width="10%">00:10.2</td>
+    <td width="10%">N/A</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#SINCLAIR">Sinclair v3.00</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>Retardo 45</td>
+    <td width="10%">00:50.8</td>
+    <td width="10%">00:29.0</td>
+    <td width="10%">00:10.6</td>
+    <td width="10%">00:10.6</td>
+    <td width="10%">01:32.4</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>Retardo 0</td>
+    <td width="10%">00:22.7</td>
+    <td width="10%">00:13.2</td>
+    <td width="10%">00:04.5</td>
+    <td width="10%">00:10.4</td>
+    <td width="10%">00:49.3</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>Fast LDIR, retardo 0</td>
+    <td width="10%">00:22.2</td>
+    <td width="10%">00:13.0</td>
+    <td width="10%">00:04.5</td>
+    <td width="10%">00:10.4</td>
+    <td width="10%">00:12.0</td>
+  </tr>
+  <tr>
+    <td width="10%">128</td>
+    <td>Retardo 0</td>
+    <td width="10%">01:35.0</td>
+    <td width="10%">00:53.4</td>
+    <td width="10%">00:04.5</td>
+    <td width="10%">00:10.4</td>
+    <td width="10%">00:56.0</td>
+  </tr>
+  <tr>
+    <td width="10%">128/48</td>
+    <td>Retardo 0</td>
+    <td width="10%">00:22.7</td>
+    <td width="10%">00:13.3</td>
+    <td width="10%">00:04.5</td>
+    <td width="10%">00:10.5</td>
+    <td width="10%">00:55.6</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#SP">SP</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>CGA Screen</td>
+    <td width="10%">00:13.1</td>
+    <td width="10%">00:07.8</td>
+    <td width="10%">00:03.0</td>
+    <td width="10%">00:10.3</td>
+    <td width="10%">00:46.2</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#SP48">SP48</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>&nbsp;</td>
+    <td width="10%">00:30.1</td>
+    <td width="10%">00:17.8</td>
+    <td width="10%">00:05.8</td>
+    <td width="10%">00:02.8</td>
+    <td width="10%">01:10.3</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#SPEC">SPEC v1.4</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>100%</td>
+    <td width="10%">03:46.6</td>
+    <td width="10%">02:13.0</td>
+    <td width="10%">00:48.7</td>
+    <td width="10%">00:41.2</td>
+    <td width="10%">09:16.3</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#SPEC256">Spec256 v1.2</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>100% original color</td>
+    <td width="10%">03:24.2</td>
+    <td width="10%">02:04.0</td>
+    <td width="10%">00:33.2</td>
+    <td width="10%">00:12.0</td>
+    <td width="10%">04:16.7</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#SPEC32">Spec32</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>&nbsp;</td>
+    <td width="10%">01:11.8</td>
+    <td width="10%">00:37.7</td>
+    <td width="10%">00:14.0</td>
+    <td width="10%">00:18.7</td>
+    <td width="10%">02:33.3</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#SPECCY">Speccy v0.21</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>Delay 7</td>
+    <td width="10%">01:11.7</td>
+    <td width="10%">00:41.5</td>
+    <td width="10%">00:15.4</td>
+    <td width="10%">00:15.3</td>
+    <td width="10%">02:18.9</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>Delay 0</td>
+    <td width="10%">00:46.0</td>
+    <td width="10%">00:26.8</td>
+    <td width="10%">00:09.8</td>
+    <td width="10%">00:09.4</td>
+    <td width="10%">01:42.3</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_win.html#SPECCYAL">Speccyal v0.67</a></td>
+<td>Scaled from Pentium 100</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>&nbsp;</td>
+    <td width="10%">09:52.0</td>
+    <td width="10%">05:35.0</td>
+    <td width="10%">01:41.0</td>
+    <td width="10%">02:12.0</td>
+    <td width="10%">14:28.0</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#SPECTRE">Spectre v0.4</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>Max speed SoundBlaster</td>
+    <td width="10%">07:57.3</td>
+    <td width="10%">04:19.0</td>
+    <td width="10%">01:31.5</td>
+    <td width="10%">01:44.3</td>
+    <td width="10%">15:07.0</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_win.html#SPECX">SpecX v1.12</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>Max speed with sound</td>
+    <td width="10%">03:44.7</td>
+    <td width="10%">02:11.2</td>
+    <td width="10%">00:47.8</td>
+    <td width="10%">00:40.7</td>
+    <td width="10%">09:20.3</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>Max speed without sound</td>
+    <td width="10%">03:18.0</td>
+    <td width="10%">01:55.7</td>
+    <td width="10%">00:41.9</td>
+    <td width="10%">00:35.9</td>
+    <td width="10%">08:04.0</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#SPECTREM">SpectrEm v0.9</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>Default speed</td>
+    <td width="10%">05:51.7</td>
+    <td width="10%">03:23.9</td>
+    <td width="10%">01:10.2</td>
+    <td width="10%">00:29.0</td>
+    <td width="10%">13:21.3</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#SPECTREMDR">SpectrEm Dr-v0.7</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>Overclock 3.5x20</td>
+    <td width="10%">00:55.3</td>
+    <td width="10%">N/A</td>
+    <td width="10%">00:13.5</td>
+    <td width="10%">N/A</td>
+    <td width="10%">01:30.0</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>Overclock 3.5x1</td>
+    <td width="10%">03:04.0</td>
+    <td width="10%">N/A</td>
+    <td width="10%">00:30.5</td>
+    <td width="10%">00:28.5</td>
+    <td width="10%">06:36.0</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#SPECTRUM">SPECTRUM</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>Spectrum</td>
+    <td width="10%">00:28.1</td>
+    <td width="10%">00:16.5</td>
+    <td width="10%">00:06.0</td>
+    <td width="10%">00:10.2</td>
+    <td width="10%">01:11.6</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>Spec386</td>
+    <td width="10%">00:27.0</td>
+    <td width="10%">00:15.8</td>
+    <td width="10%">00:05.7</td>
+    <td width="10%">00:10.2</td>
+    <td width="10%">01:09.0</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>VGASPEC</td>
+    <td width="10%">00:23.7</td>
+    <td width="10%">00:14.0</td>
+    <td width="10%">00:04.8</td>
+    <td width="10%">00:07.6</td>
+    <td width="10%">01:02.0</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_misc.html#SPECTRUM48">Spectrum 48</a></td>
+<td>C64</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>&nbsp;</td>
+    <td width="10%">01:23.0</td>
+    <td width="10%">00:51.0</td>
+    <td width="10%">00:10.0</td>
+    <td width="10%">00:10.0</td>
+    <td width="10%">N/A</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_amig.html#SPECTRUM">Spectrum v1.7</a></td>
+<td>68030 50MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>&nbsp;</td>
+    <td width="10%">00:40.0</td>
+    <td width="10%">00:20.0</td>
+    <td width="10%">00:10.0</td>
+    <td width="10%">N/A</td>
+    <td width="10%">N/A</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_amig.html#SPECTRUM128">Spectrum128</a></td>
+<td>Scaled from 68030 40MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">128</td>
+    <td>&nbsp;</td>
+    <td width="10%">08:32.0</td>
+    <td width="10%">04:17.0</td>
+    <td width="10%">N/A</td>
+    <td width="10%">N/A</td>
+    <td width="10%">N/A</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#SPECTRUMEMULATOR">The Spectrum Emulator</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>Default</td>
+    <td width="10%">00:43.1</td>
+    <td width="10%">00:24.5</td>
+    <td width="10%">00:10.4</td>
+    <td width="10%">00:05.3</td>
+    <td width="10%">00:34.9</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>No attributes, no registers</td>
+    <td width="10%">00:33.6</td>
+    <td width="10%">00:19.4</td>
+    <td width="10%">00:08.0</td>
+    <td width="10%">00:03.1</td>
+    <td width="10%">00:29.3</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>No screen, no attr, no regs</td>
+    <td width="10%">00:22.0</td>
+    <td width="10%">00:13.6</td>
+    <td width="10%">00:05.6</td>
+    <td width="10%">N/A</td>
+    <td width="10%">N/A</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_amig.html#SPECULATOR97">Speculator</a></td>
+<td>68030 50MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>&nbsp;</td>
+    <td width="10%">00:35.2</td>
+    <td width="10%">00:20.0</td>
+    <td width="10%">00:10.0</td>
+    <td width="10%">N/A</td>
+    <td width="10%">N/A</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#SPM">SPM v1.03</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">128/48</td>
+    <td>&nbsp;</td>
+    <td width="10%">00:28.0</td>
+    <td width="10%">00:16.8</td>
+    <td width="10%">00:05.5</td>
+    <td width="10%">00:10.7</td>
+    <td width="10%">N/A</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#SUZANNE">Suzanne's Emulator v0.01</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>&nbsp;</td>
+    <td width="10%">19:32.4</td>
+    <td width="10%">11:27.2</td>
+    <td width="10%">03:25.5</td>
+    <td width="10%">00:43.9</td>
+    <td width="10%">33:15.0</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#SP_UKV">UKV v1.2 fix 2</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">128/48</td>
+    <td>No matter for real delay</td>
+    <td width="10%">00:18.5</td>
+    <td width="10%">00:10.5</td>
+    <td width="10%">00:02.9</td>
+    <td width="10%">00:10.2</td>
+    <td width="10%">02:49.0</td>
+  </tr>
+  <tr>
+    <td width="10%">128</td>
+    <td>Without EMS</td>
+    <td width="10%">14:13.8</td>
+    <td width="10%">07:50.0</td>
+    <td width="10%">00:03.0</td>
+    <td width="10%">00:10.6</td>
+    <td width="10%">02:49.0</td>
+  </tr>
+  <tr>
+    <td width="10%">128</td>
+    <td>With EMS (DOS prompt)</td>
+    <td width="10%">01:26.9</td>
+    <td width="10%">00:48.7</td>
+    <td width="10%">00:03.0</td>
+    <td width="10%">00:10.3</td>
+    <td width="10%">02:58</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#WARAJEVO">Warajevo v2.51</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>Max speed mode</td>
+    <td width="10%">00:22.7</td>
+    <td width="10%">00:11.2</td>
+    <td width="10%">00:04.2</td>
+    <td width="10%">00:05.0</td>
+    <td width="10%">00:56.0</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>800% speed</td>
+    <td width="10%">00:26.3</td>
+    <td width="10%">00:13.5</td>
+    <td width="10%">00:04.8</td>
+    <td width="10%">00:05.8</td>
+    <td width="10%">01:04.7</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>100% with high color resolution</td>
+    <td width="10%">00:50.2</td>
+    <td width="10%">00:29.6</td>
+    <td width="10%">00:10.3</td>
+    <td width="10%">00:10.1</td>
+    <td width="10%">02:14.7</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>100% without HCR</td>
+    <td width="10%">00:50.4</td>
+    <td width="10%">00:29.4</td>
+    <td width="10%">00:10.3</td>
+    <td width="10%">00:10.2</td>
+    <td width="10%">02:09.1</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>800% using Hercules card</td>
+    <td width="10%">00:26.5</td>
+    <td width="10%">00:13.5</td>
+    <td width="10%">00:04.9</td>
+    <td width="10%">00:05.9</td>
+    <td width="10%">01:06.2</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>Max speed fast BASIC</td>
+    <td width="10%">00:21.0</td>
+    <td width="10%">00:10.5</td>
+    <td width="10%">00:04.2</td>
+    <td width="10%">00:05.0</td>
+    <td width="10%">00:55.7</td>
+  </tr>
+  <tr>
+    <td width="10%">128</td>
+    <td>800%</td>
+    <td width="10%">00:30.2</td>
+    <td width="10%">00:16.2</td>
+    <td width="10%">00:05.0</td>
+    <td width="10%">00:06.1</td>
+    <td width="10%">01:09.2</td>
+  </tr>
+  <tr>
+    <td width="10%">128/48</td>
+    <td>800%</td>
+    <td width="10%">00:26.9</td>
+    <td width="10%">00:14.2</td>
+    <td width="10%">00:04.9</td>
+    <td width="10%">00:05.8</td>
+    <td width="10%">01:09.2</td>
+  </tr>
+  <tr>
+    <td width="10%">2068</td>
+    <td>800%</td>
+    <td width="10%">00:29.8</td>
+    <td width="10%">00:17.3</td>
+    <td width="10%">00:05.0</td>
+    <td width="10%">00:05.6</td>
+    <td width="10%">01:08.0</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>(Version 1.5)</td>
+    <td width="10%">00:14.7</td>
+    <td width="10%">00:08.1</td>
+    <td width="10%">00:03.0</td>
+    <td width="10%">00:10.2</td>
+    <td width="10%">00:21.5</td>
+  </tr>
+  <tr>
+    <td width="10%">128</td>
+    <td>100%, HCR, digital sound</td>
+    <td width="10%">01:13.5</td>
+    <td width="10%">00:42.5</td>
+    <td width="10%">00:10.3</td>
+    <td width="10%">00:11.0</td>
+    <td width="10%">02:12.1</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_win.html#WINXZX">WinXZX v2.1.3 beta</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>Spectrum speed</td>
+    <td width="10%">02:17.4</td>
+    <td width="10%">01:20.6</td>
+    <td width="10%">00:28.1</td>
+    <td width="10%">00:28.0</td>
+    <td width="10%">05:53.3</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>Fastest speed, refresh rate 2</td>
+    <td width="10%">01:51.2</td>
+    <td width="10%">01:02.2</td>
+    <td width="10%">00:17.7</td>
+    <td width="10%">00:26.1</td>
+    <td width="10%">03:47.2</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>Fastest speed, refresh rate 20</td>
+    <td width="10%">01:48.0</td>
+    <td width="10%">01:01.8</td>
+    <td width="10%">00:18.1</td>
+    <td width="10%">00:26.4</td>
+    <td width="10%">03:25.3</td>
+  </tr>
+  <tr>
+    <td width="10%">128</td>
+    <td>Fastest speed, refresh rate 2</td>
+    <td width="10%">02:37.4</td>
+    <td width="10%">01:26.8</td>
+    <td width="10%">00:17.9</td>
+    <td width="10%">00:26.4</td>
+    <td width="10%">03:44.4</td>
+  </tr>
+  <tr>
+    <td width="10%">+3</td>
+    <td>Fastest speed, refresh rate 2</td>
+    <td width="10%">02:39.2</td>
+    <td width="10%">01:27.7</td>
+    <td width="10%">00:17.4</td>
+    <td width="10%">00:26.0</td>
+    <td width="10%">N/A</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_win.html#WINZ80">WinZ80 v4.00</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>100% speed, normal video</td>
+    <td width="10%">00:50.1</td>
+    <td width="10%">00:29.4</td>
+    <td width="10%">00:10.5</td>
+    <td width="10%">00:10.1</td>
+    <td width="10%">02:09.0</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>Maximum speed, no coppering</td>
+    <td width="10%">00:21.0</td>
+    <td width="10%">00:11.0</td>
+    <td width="10%">00:07.3</td>
+    <td width="10%">00:02.4</td>
+    <td width="10%">01:31.1</td>
+  </tr>
+  <tr>
+    <td width="10%">128</td>
+    <td>100% speed, normal video</td>
+    <td width="10%">03:02.2</td>
+    <td width="10%">01:41.0</td>
+    <td width="10%">00:10.9</td>
+    <td width="10%">00:10.3</td>
+    <td width="10%">02:25.7</td>
+  </tr>
+  <tr>
+    <td width="10%">128/48</td>
+    <td>100% speed, normal video</td>
+    <td width="10%">00:50.9</td>
+    <td width="10%">00:29.5</td>
+    <td width="10%">00:10.4</td>
+    <td width="10%">00:10.3</td>
+    <td width="10%">02:25.7</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_win.html#WSPECEM">WSpecEm v1.31/v1.4b</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>1x1 screen size, frame rate 3</td>
+    <td width="10%">02:22.5</td>
+    <td width="10%">00:42.5</td>
+    <td width="10%">00:11.5</td>
+    <td width="10%">00:11.0</td>
+    <td width="10%">07:25.0</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>2x2 screen size, frame rate 3</td>
+    <td width="10%">02:11.0</td>
+    <td width="10%">00:42.5</td>
+    <td width="10%">00:11.3</td>
+    <td width="10%">00:11.0</td>
+    <td width="10%">06:57.0</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>1x1 screen size, frame rate 50</td>
+    <td width="10%">01:16.2</td>
+    <td width="10%">00:44.0</td>
+    <td width="10%">00:11.5</td>
+    <td width="10%">00:11.5</td>
+    <td width="10%">04:40.0</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>Size 1x1, rate 3, delay 200</td>
+    <td width="10%">03:06.2</td>
+    <td width="10%">01:07.6</td>
+    <td width="10%">00:20.7</td>
+    <td width="10%">00:11.7</td>
+    <td width="10%">09:20.0</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#X128">x128 v0.92</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>Adlib, 100% speed</td>
+    <td width="10%">01:11.0</td>
+    <td width="10%">00:42.0</td>
+    <td width="10%">00:11.7</td>
+    <td width="10%">00:09.5</td>
+    <td width="10%">02:43.1</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>Adlib, 180%, skip 7, slow 0, delay 0</td>
+    <td width="10%">00:47.8</td>
+    <td width="10%">00:28.3</td>
+    <td width="10%">00:07.5</td>
+    <td width="10%">00:05.0</td>
+    <td width="10%">01:42.7</td>
+  </tr>
+  <tr>
+    <td width="10%">128</td>
+    <td>Adlib, 100%</td>
+    <td width="10%">01:48.0</td>
+    <td width="10%">01:02.4</td>
+    <td width="10%">00:11.7</td>
+    <td width="10%">00:09.7</td>
+    <td width="10%">02:41.7</td>
+  </tr>
+  <tr>
+    <td width="10%">128/48</td>
+    <td>Adlib, 100%</td>
+    <td width="10%">01:11.6</td>
+    <td width="10%">00:42.1</td>
+    <td width="10%">00:11.7</td>
+    <td width="10%">00:09.7</td>
+    <td width="10%">02:41.7</td>
+  </tr>
+  <tr>
+    <td width="10%">+3</td>
+    <td>Adlib, 100%</td>
+    <td width="10%">01:51.9</td>
+    <td width="10%">01:04.2</td>
+    <td width="10%">00:11.7</td>
+    <td width="10%">00:09.8</td>
+    <td width="10%">N/A</td>
+  </tr>
+  <tr>
+    <td width="10%">128</td>
+    <td>SAOM, 100%</td>
+    <td width="10%">03:04.3</td>
+    <td width="10%">01:46.7</td>
+    <td width="10%">00:21.3</td>
+    <td width="10%">00:18.6</td>
+    <td width="10%">04:49.0</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>Adlib, overclock 10, 6 MHz</td>
+    <td width="10%">00:48.9</td>
+    <td width="10%">00:29.0</td>
+    <td width="10%">00:07.6</td>
+    <td width="10%">00:15.0</td>
+    <td width="10%">01:46.3</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>Adlib, XMode</td>
+    <td width="10%">01:24.4</td>
+    <td width="10%">00:49.7</td>
+    <td width="10%">00:14.5</td>
+    <td width="10%">00:12.4</td>
+    <td width="10%">03:18.0</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_unix.html#XZ80">xz80</a></td>
+<td>Sparc 2</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>Full speed</td>
+    <td width="10%">00:40.4</td>
+    <td width="10%">00:22.3</td>
+    <td width="10%">00:07.9</td>
+    <td width="10%">N/A</td>
+    <td width="10%">N/A</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>Normal speed</td>
+    <td width="10%">00:49.7</td>
+    <td width="10%">00:29.6</td>
+    <td width="10%">00:10.6</td>
+    <td width="10%">N/A</td>
+    <td width="10%">N/A</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#YASE">YaSE v0.6</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">128/48</td>
+    <td>&nbsp;</td>
+    <td width="10%">05:44.0</td>
+    <td width="10%">03:30.2</td>
+    <td width="10%">00:45.4</td>
+    <td width="10%">01:04.3</td>
+    <td width="10%">N/A</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#Z80">Z80 v4.00</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">128</td>
+    <td>EMS, max speed, fast VGA</td>
+    <td width="10%">01:52.0</td>
+    <td width="10%">01:02.5</td>
+    <td width="10%">00:04.7</td>
+    <td width="10%">00:08.6</td>
+    <td width="10%">00:21.8</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>Max speed, VGA mode 0x13</td>
+    <td width="10%">00:20.0</td>
+    <td width="10%">00:11.7</td>
+    <td width="10%">00:03.3</td>
+    <td width="10%">00:02.7</td>
+    <td width="10%">00:50.9</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>Max speed, fast VGA</td>
+    <td width="10%">00:18.6</td>
+    <td width="10%">00:11.2</td>
+    <td width="10%">00:03.0</td>
+    <td width="10%">00:02.7</td>
+    <td width="10%">00:47.6</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>Max speed, Hercules</td>
+    <td width="10%">00:19.6</td>
+    <td width="10%">00:11.7</td>
+    <td width="10%">00:03.5</td>
+    <td width="10%">00:03.1</td>
+    <td width="10%">00:50.4</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>Max speed, R register on</td>
+    <td width="10%">00:21.8</td>
+    <td width="10%">00:13.0</td>
+    <td width="10%">00:03.5</td>
+    <td width="10%">00:03.4</td>
+    <td width="10%">00:49.4</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>Max speed, Fast LDIR</td>
+    <td width="10%">00:18.1</td>
+    <td width="10%">00:10.7</td>
+    <td width="10%">00:03.1</td>
+    <td width="10%">00:02.8</td>
+    <td width="10%">00:17.3</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>Max speed, R register, high colour</td>
+    <td width="10%">00:30.3</td>
+    <td width="10%">00:17.9</td>
+    <td width="10%">00:05.7</td>
+    <td width="10%">00:10.4</td>
+    <td width="10%">01:09.2</td>
+  </tr>
+  <tr>
+    <td width="10%">128</td>
+    <td>Max speed, no EMS</td>
+    <td width="10%">07:40.9</td>
+    <td width="10%">04:36.0</td>
+    <td width="10%">00:03.3</td>
+    <td width="10%">00:02.8</td>
+    <td width="10%">00:47.8</td>
+  </tr>
+  <tr>
+    <td width="10%">128/48</td>
+    <td>Max speed, no EMS</td>
+    <td width="10%">00:18.7</td>
+    <td width="10%">00:11.1</td>
+    <td width="10%">00:03.0</td>
+    <td width="10%">00:02.8</td>
+    <td width="10%">00:47.8</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>100%, R register, high colour</td>
+    <td width="10%">00:49.3</td>
+    <td width="10%">00:28.9</td>
+    <td width="10%">00:09.8</td>
+    <td width="10%">00:14.3</td>
+    <td width="10%">02:02.3</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>100%, no R, no high colour res</td>
+    <td width="10%">00:49.6</td>
+    <td width="10%">00:29.2</td>
+    <td width="10%">00:09.8</td>
+    <td width="10%">00:10.2</td>
+    <td width="10%">02:15.7</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#Z80STEALTH">Z80Stealth v0.079</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">128/48</td>
+    <td>Z80Adlib</td>
+    <td width="10%">06:32.0</td>
+    <td width="10%">03:47.1</td>
+    <td width="10%">01:15.1</td>
+    <td width="10%">01:58.0</td>
+    <td width="10%">10:40.0</td>
+  </tr>
+  <tr>
+    <td width="10%">128/48</td>
+    <td>Z80SB</td>
+    <td width="10%">05:46.0</td>
+    <td width="10%">03:22.5</td>
+    <td width="10%">00:54.5</td>
+    <td width="10%">01:04.6</td>
+    <td width="10%">10:09.0</td>
+  </tr>
+  <tr>
+    <td width="10%">128</td>
+    <td>Z80SB</td>
+    <td width="10%">08:08.0</td>
+    <td width="10%">04:40.0</td>
+    <td width="10%">00:55.0</td>
+    <td width="10%">01:05.0</td>
+    <td width="10%">10:09.0</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#Z80TRDOS">Z80 TR DOS 2.02</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">128</td>
+    <td>Max speed EMS</td>
+    <td width="10%">02:02.0</td>
+    <td width="10%">01:08.6</td>
+    <td width="10%">00:06.7</td>
+    <td width="10%">00:13.1</td>
+    <td width="10%">00:24.2</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_win.html#ZX">ZX v0.51 Beta</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>25 Hz 1x1 Std Sound 100%</td>
+    <td width="10%">03:50.6</td>
+    <td width="10%">02:17.7</td>
+    <td width="10%">00:43.5</td>
+    <td width="10%">00:56.5</td>
+    <td width="10%">07:43.3</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>25 Hz 1x1 No Sound 100%</td>
+    <td width="10%">03:34.9</td>
+    <td width="10%">02:05.8</td>
+    <td width="10%">00:39.8</td>
+    <td width="10%">00:53.3</td>
+    <td width="10%">07:33.0</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>25 Hz 1x1 StdSnd 100% HiSync</td>
+    <td width="10%">03:48.3</td>
+    <td width="10%">02:13.4</td>
+    <td width="10%">00:42.2</td>
+    <td width="10%">00:56.4</td>
+    <td width="10%">08:04.6</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>25 Hz 1x1 Std Sound MaxSpeed</td>
+    <td width="10%">02:04.9</td>
+    <td width="10%">01:13.2</td>
+    <td width="10%">00:38.6</td>
+    <td width="10%">00:41.2</td>
+    <td width="10%">04:08.0</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#ZX2">ZX</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>&nbsp;</td>
+    <td width="10%">00:16.8</td>
+    <td width="10%">00:10.2</td>
+    <td width="10%">00:02.3</td>
+    <td width="10%">00:10.3</td>
+    <td width="10%">00:22.2</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_amig.html#ZXAM">ZXAM</a></td>
+<td>68030 50MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>Full speed</td>
+    <td width="10%">00:37.8</td>
+    <td width="10%">00:22.0</td>
+    <td width="10%">00:00.4</td>
+    <td width="10%">N/A</td>
+    <td width="10%">N/A</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>Normal speed</td>
+    <td width="10%">00:48.5</td>
+    <td width="10%">00:28.0</td>
+    <td width="10%">00:10.0</td>
+    <td width="10%">N/A</td>
+    <td width="10%">N/A</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_win.html#ZX32">ZX32 v1.03.98.0622</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>Normal size, fast, no sound</td>
+    <td width="10%">01:16.6</td>
+    <td width="10%">00:45.6</td>
+    <td width="10%">00:11.2</td>
+    <td width="10%">00:10.2</td>
+    <td width="10%">02:09.0</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>Normal size, fast, sound</td>
+    <td width="10%">01:30.2</td>
+    <td width="10%">00:53.8</td>
+    <td width="10%">00:14.6</td>
+    <td width="10%">00:12.3</td>
+    <td width="10%">02:35.2</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>Full screen, fast, no sound</td>
+    <td width="10%">02:23.1</td>
+    <td width="10%">01:24.4</td>
+    <td width="10%">00:25.7</td>
+    <td width="10%">00:32.3</td>
+    <td width="10%">06:02.5</td>
+  </tr>
+  <tr>
+    <td width="10%">128</td>
+    <td>Normal size, fast, no sound</td>
+    <td width="10%">02:06.2</td>
+    <td width="10%">01:16.4</td>
+    <td width="10%">00:16.5</td>
+    <td width="10%">00:11.1</td>
+    <td width="10%">02:40.6</td>
+  </tr>
+  <tr>
+    <td width="10%">128/48</td>
+    <td>Normal size, fast, no sound</td>
+    <td width="10%">01:33.2</td>
+    <td width="10%">00:58.1</td>
+    <td width="10%">00:13.5</td>
+    <td width="10%">00:11.4</td>
+    <td width="10%">02:40.6</td>
+  </tr>
+  <tr>
+    <td width="10%">+3</td>
+    <td>Normal size, fast, no sound</td>
+    <td width="10%">02:09.5</td>
+    <td width="10%">01:20.5</td>
+    <td width="10%">00:14.8</td>
+    <td width="10%">00:13.1</td>
+    <td width="10%">N/A</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#ZXEMULATOR">ZX Emulator v0.33</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">128/48</td>
+    <td>&nbsp;</td>
+    <td width="10%">05:45.0</td>
+    <td width="10%">03:16.5</td>
+    <td width="10%">01:02.5</td>
+    <td width="10%">01:16.5</td>
+    <td width="10%">11:24.6</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#ZXJAM">ZX Jam v1.12</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>51Hz smooth</td>
+    <td width="10%">12:21.5</td>
+    <td width="10%">07:15.5</td>
+    <td width="10%">02:30.9</td>
+    <td width="10%">01:40.0</td>
+    <td width="10%">30:11.6</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#ZXSPECTR">ZXSpectr 2.0</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">128/48</td>
+    <td>100%</td>
+    <td width="10%">01:08.6</td>
+    <td width="10%">00:40.4</td>
+    <td width="10%">00:13.8</td>
+    <td width="10%">00:25.5</td>
+    <td width="10%">02:05.0</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>100%</td>
+    <td width="10%">01:06.6</td>
+    <td width="10%">00:39.1</td>
+    <td width="10%">00:13.9</td>
+    <td width="10%">00:25.2</td>
+    <td width="10%">02:05.0</td>
+  </tr>
+  <tr>
+    <td width="10%">+3</td>
+    <td>100%</td>
+    <td width="10%">08:53.2</td>
+    <td width="10%">04:67.7</td>
+    <td width="10%">00:14.5</td>
+    <td width="10%">00:29.2</td>
+    <td width="10%">N/A</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#ZXSPECTRUM128TRDOS">ZX Spectrum 128K v3.05</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">128/48</td>
+    <td>Normal speed</td>
+    <td width="10%">00:39.3</td>
+    <td width="10%">00:24.3</td>
+    <td width="10%">00:07.5</td>
+    <td width="10%">00:10.3</td>
+    <td width="10%">02:18.2</td>
+  </tr>
+  <tr>
+    <td width="10%">128/48</td>
+    <td>Max speed</td>
+    <td width="10%">00:33.4</td>
+    <td width="10%">00:19.8</td>
+    <td width="10%">00:06.6</td>
+    <td width="10%">00:10.3</td>
+    <td width="10%">02:18.5</td>
+  </tr>
+  <tr>
+    <td width="10%">128</td>
+    <td>Normal speed</td>
+    <td width="10%">00:59.6</td>
+    <td width="10%">00:34.3</td>
+    <td width="10%">00:07.8</td>
+    <td width="10%">00:10.4</td>
+    <td width="10%">02:18.2</td>
+  </tr>
+  <tr>
+    <td width="10%">128/48</td>
+    <td>Slow delay 35</td>
+    <td width="10%">00:50.1</td>
+    <td width="10%">00:29.0</td>
+    <td width="10%">00:10.0</td>
+    <td width="10%">00:10.3</td>
+    <td width="10%">02:41.2</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_dos.html#ZXSPECTRUMEMULATOR">ZX Spectrum Emulator v1.0s</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>&nbsp;</td>
+    <td width="10%">01:14.8</td>
+    <td width="10%">00:43.0</td>
+    <td width="10%">00:18.7</td>
+    <td width="10%">00:07.5</td>
+    <td width="10%">03:20.5</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+<tr>
+<td><a href="emu_win.html#ZXSPECTRUMSIMULATOR">ZX Spectrum Simulator v1.02</a></td>
+<td>486SX 33MHz</td>
+<td>
+  <table width="100%" cellpadding="0">
+  <tr>
+    <td width="10%">48</td>
+    <td>Max speed, small screen</td>
+    <td width="10%">00:54.4</td>
+    <td width="10%">N/A</td>
+    <td width="10%">N/A</td>
+    <td width="10%">N/A</td>
+    <td width="10%">00:45.1</td>
+  </tr>
+  <tr>
+    <td width="10%">48</td>
+    <td>Max speed, large screen</td>
+    <td width="10%">03:04.1</td>
+    <td width="10%">N/A</td>
+    <td width="10%">N/A</td>
+    <td width="10%">N/A</td>
+    <td width="10%">02:34.1</td>
+  </tr>
+  </table>
+</td>
+</tr>
+
+</TABLE></CENTER><BR><BR>
+
+<table width="100%" bgcolor="#f0f0b0">
+<tr><th><font size="+1">HARDWARE USED</font></th>
+</table>
+
+<P>All DOS/Windows emulators were tested on a 33MHz U5 486SX with 16Mb
+RAM and a Trident TVGA 8900 video card running Windows 95 OSR 2 with
+Direct X 6.1 and WinG. All DOS and DOS/32 emulators were tested by
+rebooting into DOS mode without drivers (except if they required EMS)
+and then started from the command prompt. The only exception to this
+is <A HREF="emu_win.html#SPECCYAL">Speccyal</A>, which required a more
+powerful video card. This was tested on a Pentium 100, and the results
+scaled to the 486 speed. <A HREF="emu_dos.html#R80">R80</A> and <A HREF="emu_dos.html#SPECTRE">Spectre</A>
+both required a coprocessor emulator.
+
+<P>Most of the Amiga emulators were tested on an A1200 with a 50MHz
+68030 and 10Mb of RAM. The exceptions are <A HREF="emu_amig.html#SPECTRUM128">Spectrum128</A>
+which was tested on a 40MHz 68030 with 10Mb of RAM, and then scaled
+(simply by a factor of 0.8), and <A HREF="emu_amig.html#ASP">ASp</A>
+which was run on a 64MHz 68060 and <B>has not been scaled</B>.
+
+<P><A HREF="emu_unix.html#XZ80">xz80</A> was tested on a Sparc 2.
+
+<p>No attempt has been made to scale results between different
+machines tested.</p>
+
+<P>The 486 is obsolete, but was chosen for the following reasons:
+
+<UL>
+<LI>It is hard to make benchmarks on too fast a machine. It is easier
+to tell the difference between 20 and 22 seconds than between 2.0 and
+2.2!
+<LI>If all emulators can reach Spectrum speed, the testing is
+pointless. The goal of testing is to investigate the usefuleness of
+emulators, even on slow platforms.
+<LI>The whole emulator scene is a protest against too fast obsolence
+of hardware and software: any computer older than two years is
+obsolete. Compare this with your television which can last up to 15
+years!
+<LI>Hercules graphic card modes can also be tested.
+</UL>
+
+<table width="100%" bgcolor="#f0f0b0">
+<tr><th><font size="+1">MACHINE SPEEDS</font></th>
+</table>
+
+<P>To see influence of the target machine on speed, <A HREF="emu_dos.html#Z80">Z80 v4.00</A>
+and <A HREF="emu_dos.html#WARAJEVO">Warajevo 2.51</A> were tested on a
+variety of machines. These emulators were chosen as they are two of
+the best emulators for clean DOS and executable on all machines. The
+results for other emulators can be extrapolated, and you can see if
+your computer can reach true Spectrum speed. Z80 is tested using the
+<TT>-xt -z8000</TT> options (make it as fast as possible and reduce
+RAM requirement); Warajevo is tested with <TT>SPEC48 /%MAX</TT>
+option. The estimated speed reported by Z80 is given in brackets.</P>
+
+<CENTER><TABLE BORDER=1 CELLPADDING=2>
+<TR>
+<TH>Test machine
+<TH>Emulator
+<TH>Video
+<TH>FOR
+<TH>BEEP
+<TH>PAUSE
+<TH>Manic Miner
+
+<tr><td>286-16 TSENG VGA<td>Z80 (82%)<BR>Warajevo<td>01:07.4<BR>01:42.2<td>00:38.8<BR>00:54.3<td>00:16.4<BR>00:22.1<td>00:17.0<BR>00:29.1<td>03:28.8<BR>04:56.9
+<tr><td>386SX-25<BR>Chicony laptop NB 5625<td>Z80 (117%)<BR>Warajevo<td>00:47.1<BR>01:18.0<td>00:27.5<BR>00:40.6<td>00:11.4<BR>00:16.0<td>00:11.3<BR>00:20.7<td>02:30.0<BR>03:59.8
+<tr><td>486SX-33 Trident VGA 8900<td>Z80 (387%)<BR>Warajevo<td>00:18.6<BR>00:22.7<td>00:11.2<BR>00:11.2<td>00:03.0<BR>00:04.2<td>00:02.7<BR>00:05.0<td>00:47.6<BR>00:56.0
+<tr><td>486DX4-100<BR>&nbsp;<td>Z80 (1059%)<BR>Warajevo<td>00:06.0<BR>00:08.4<td>00:03.6<BR>00:04.2<td>00:01.4<BR>00:01.9<td>N/A<BR>N/A<td>00:22.1<BR>00:28.1
+<tr><td>Pentium-100 Cirrus VGA 5446<td>Z80 (1891%)<BR>Warajevo<td>00:05.8<BR>00:06.2<td>00:03.6<BR>00:03.3<td>00:00.8<BR>00:01.2<td>N/A<BR>N/A<td>00:11.1<BR>00:15.8
+<tr><td>PentiumPro-233 <BR>Compaq Deskpro 6000<td>Z80 (3301%)<BR>Warajevo<td>00:02.6<BR>00:02.9<td>00:01.6<BR>00:01.7<td>00:00.6<BR>00:00.7<td>N/A<BR>N/A<td>00:05.8<BR>00:06.6
+<tr><td>Pentium MMX 200<BR>Micron Millenia LXE<td>Z80 (3737%)<BR>Warajevo<td>00:02.8<BR>00:03.0<td>00:01.8<BR>00:01.6<td>00:00.4<BR>00:00.6<td>N/A<BR>N/A<td>00:05.6<BR>00:08.1
+<tr><td>Pentium II 266 <BR>Micron Netframe LV 2000<td>Z80 (3670%)<BR>Warajevo<td>00:02.5<BR>00:02.7<td>00:01.6<BR>00:01.4<td>00:00.5<BR>00:00.6<td>N/A<BR>N/A<td>00:05.7<BR>00:05.9
+<tr><td>Pentium Celeron 400<BR>Compaq Deskpro<td>Z80 (5825%)<BR>Warajevo<td>00:01.4<BR>00:01.8<td>00:01.0<BR>00:01.0<td>00:00.3<BR>00:00.4<td>N/A<BR>N/A<td>00:03.9<BR>00:04.4
+<tr><td>Pentium III 500<BR>Viper AGP 770<BR>Micron Millenia<td>Z80 (6914%)<BR>Warajevo<td>00:01.3<BR>00:01.5<td>00:00.8<BR>00:00.8<td>00:00.2<BR>00:00.3<td>N/A<BR>N/A<td>00:03.4<BR>00:03.5
+</TABLE></CENTER>
+
+<P>Results for an XT, a 386DX and a 486DX would be appreciated.</P>
+
+<table width="100%" bgcolor="#f0f0b0">
+<tr><th><font size="+1">INFLUENCES ON EMULATOR SPEED</font></th>
+</table>
+
+<UL>
+<LI>CPU: The slowest machine that can theoretically execute Spectrum
+machine code (not 100% compatible) is a 286/16.
+<LI>Memory: the speed of memory is a bottleneck for the CPU. For
+example, it is interesting that if you switch off the CPU internal
+cache then Z80 becomes faster than Warajevo 1.5, although normally the
+opposite is true: the reason is the longer, although more efficient,
+processor emulation engine on Z80 that generates cache misses.  The
+type of memory also has an influence: EMS memory can drastically
+accelerate 128K BASIC.
+<LI>Video: The fastest video mode is redefined text mode because it
+has only attributes. Standard EGA/VGA/CGA/Hercules modes are slower,
+simply because they require more calculations.  For some emulators (eg
+<A HREF="emu_dos.html#X128">X128 SAOM</A>) PCI cards can make the
+emulator much faster than it was with an ISA card.
+<LI>Programming language: Emulators written in assembly are generally
+faster than those written in C, C++, Pascal or Java.
+<LI>Level of compatibility: The more compatible emulators are
+slower. Emulation of R register, T-state counting, rainbow effects,
+contented RAM and the like all require time.
+<LI>Code optimization: The most critical routine is the decoding of
+Z80 instructions. JPP has the fastest such routine, whilst emulators
+written in C have a very long such routine. Also, it is important to
+decide what to keep in registers and what in RAM.
+<LI>Interrupt emulation: Z80 interrupts can be generated using either
+hardware or software; The hardware interrupt method uses the emulating
+machine's timer, and makes some games useful even on 286/8 or
+XT/12. However, flickering and interrupt congestion can occur. The
+software method, which generates the interrupt by counting T-states,
+has no such problems but it is slower.
+</UL>
+
+<P>Thanks for this page should be sent to <a href="mailto:samir.ribic@alemsistem.com.ba.no.junk.mail">Samir Ribic</a>,
+who tested all the DOS/Windows emulators, all the PCs and wrote most
+of the text. Credit is also due to <a href="mailto:imc@comlab.ox.ac.uk.no.junk.mail">Ian Collier</a>,
+<a href="mailto:robda@parallel.demon.co.uk.no.junk.mail">Rob Darke</a>, <a href="mailto:joemackay@lineone.net.no.junk.mail">Joe Mackay</a>
+and <a href="mailto:unsatisfactory@bigfoot.com.no.junk.mail">Chris Young</a>.
+
+<p align="center"><img src="zxline.png" width="540" height="8" alt="-----"></p>
+
+<p align="center"><font size="-1">This FAQ is maintained by <a href="cabal.html">the Cabal</a>;
+distribution is permitted only under the conditions specified in the
+<a href="index.html#COPYRIGHT">copyright notice</a>.<br> Primary site
+for this FAQ: <a href="http://www.srcf.ucam.org/~pak21/cssfaq/index.html">http://www.srcf.ucam.org/~pak21/cssfaq/index.html</a>.</font>
+
+</body>
+
+</html>

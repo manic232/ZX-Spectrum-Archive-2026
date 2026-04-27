@@ -1,0 +1,109 @@
+<html><head><title>
+3DCK - VARIABLES AND HOW TO USE THEM
+</title></head><body bgcolor=#000000 text="#FFFFFF" link="#FFFFFF" vlink="#FFFFFF" alink="#FFFFFF">
+<h3><font size=2 color=#FFFFFF face="Verdana">
+3D CONSTRUCTION KIT</font></h3>
+<font size=2 color=midnightblue>
+<hr></font>
+<h4><font size=2 color=#FFFFFF face="Verdana">
+17. VARIABLES AND HOW TO USE THEM</font></h4><h5><font size=2 color=#FFFFFF face="Verdana">
+HOW TO USE VARIABLES</font></h5>
+<p><font size=2 color=#FFFFFF face="Verdana">
+The format for using a VARIABLE can be handled in the same way through various
+types of conditions. We could for example, arrange for a variable to be increased to
+hold a higher value when an object is shot, as follows:</font></p>
+<table>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">IFSHOT 3</font></pre>
+  </td></tr>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">THEN</font></pre>
+  </td></tr>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">ADDV 25 21</font></pre>
+  </td></tr>
+</table>
+<p><font size=2 color=#FFFFFF face="Verdana">
+Thus adding 25 to the VARIABLE number 21. In a similar way a value can be
+deducted from a VARIABLE using the following example:</font></p>
+<table>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">IFSHOT 3</font></pre>
+  </td></tr>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">THEN</font></pre>
+  </td></tr>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">SUBV 15 21</font></pre>
+  </td></tr>
+</table>
+<p><font size=2 color=#FFFFFF face="Verdana">
+To set a VARIABLE to hold a specified number we could use the following
+GENERAL condition commands:</font></p>
+<table>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">SETV 30 21</font></pre>
+  </td></tr>
+</table>
+<P><font size=2 color=#FFFFFF face="Verdana">
+This same process can be incorporated into slightly more complicated conditions
+where we want to check the value of the variable and then if TRUE to set the variable to
+hold another value as follows:</font></p>
+<table>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">CMPV 0 21</font></pre>
+  </td></tr>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">IFLT</font></pre>
+  </td></tr>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">THEN</font></pre>
+  </td></tr>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">SETV 30 21</font></pre>
+  </td></tr>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">ENDIF</font></pre>
+  </td></tr>
+</table>
+<p><font size=2 color=#FFFFFF face="Verdana">
+Thus if Variable 21 holds a value greater than 0, 
+Variable 21 will be set to hold the
+value 30.</font></p><h5><font size=2 color=#FFFFFF face="Verdana">
+MORE ABOUT VARIABLES</font></h5>
+<p><font size=2 color=#FFFFFF face="Verdana">
+The use of variables enables you to create a wide range of conditions, from the
+very simple to the complicated. The system has 112 (0-111) variables available for use
+by the COMMAND LANGUAGE. These variables are 8 bit storage areas (that is they
+can hold numbers in the range 0-255, which can be used to store and manipulate
+various numerical values within the environment e.g. player score, fuel supply or a timer.
+16 of the available Variables (112 to 127) are used by the FREESCAPE II system. The
+contents of these variables are updated each frame by the system, and any changes to
+the variables are so noted by the system i.e. if a variable command were to change the
+value stored in variable 112 (the Viewpoint X position (low)) the next displayed frame
+would move the player to the new specified X position. A list of the contents of the
+system variables follows:</font></p>
+<font size=2 color=#FFFFFF face="Verdana">
+112 = Viewpoint X position Low<br>
+113 = Viewpoint X position High<br>
+114 = Viewpoint Y position Low<br>
+115 = Viewpoint Y position High<br>
+116 = Viewpoint Z position Low<br>
+117 = Viewpoint Z position High<br>
+118 = Viewpoint X Rotations (0-71 increments of 5 degrees)<br>
+119 = Viewpoint Y Rotations (0-71 increments of 5 degrees)<br>
+120 = Viewpoint Z Rotations (0-71 increments of 5 degrees)<br>
+121 = Current key presses (ASCII)<br>
+122 = Interrupt counter Low<br>
+123 = Interrupt counter High<br>
+124 = Current Area/Data set<br>
+125 = Ammo counter<br>
+126 = Font pointer starting at character 32 Low<br>
+127 = Font pointer starting at character 32 High</font>
+<p><font face="Verdana"><i><font size=2 color=#FFFFFF>
+Note 1:</font></i><font size=2 color=#FFFFFF>
+<br>Variable 125 (Ammo counter) - If set to 0 the player cannot
+fire. If set to 255 then player has infinite ammo else decremented per
+shot.</font></font></p>
+<p><font face="Verdana"><i><font size=2 color=#FFFFFF>
+Note 2:</font></i><font size=2 color=#FFFFFF>
+<br>Variables 126 and 127 (Font pointers) are for advanced
+users only.</font></font></p>
+<font size=2 color=midnightblue>
+<hr></font><div align=center>
+<font face="Verdana">
+<a href="option16.htm"><font size=2 color=#FFFFFF>
+Prev</font></a> <font size=2 color=#FFFFFF>
+ - 
+<a href="contents.htm">Contents</a> -
+<a href="option18.htm">Next</a>
+</font></font>
+</div></body></html>

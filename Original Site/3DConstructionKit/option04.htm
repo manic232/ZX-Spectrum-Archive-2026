@@ -1,0 +1,365 @@
+<html><head><title>
+3DCK - INTRODUCTION TO FREESCAPE
+</title></head><body bgcolor=#000000 text="#FFFFFF" link="#FFFFFF" vlink="#FFFFFF" alink="#FFFFFF">
+<h3><font size=2 color=#FFFFFF face="Verdana">
+3D CONSTRUCTION KIT</font></h3>
+<font size=2 color=midnightblue>
+<hr></font>
+<h4><font size=2 color=#FFFFFF face="Verdana">
+4. INTRODUCTION TO FREESCAPE</font></h4>
+<p><font size=2 color=#FFFFFF face="Verdana">
+The 3D CONSTRUCTION KIT uses an enhanced version of the FREESCAPE
+system. The system allows you to represent a virtual world that you can move around
+and interact with. This world is represented in three dimensions, known as X, Y and Z.</font></p>
+<ul><li><font size=2 color=#FFFFFF face="Verdana">
+X is equivalent to left and right.</font>
+<li><font size=2 color=#FFFFFF face="Verdana">
+Y is equivalent to up and down.</font>
+<li><font size=2 color=#FFFFFF face="Verdana">
+Z is equivalent to near and far.</font>
+</ul><p><font size=2 color=#FFFFFF face="Verdana">
+Movement around the world is achieved by using the icons in the editor (refer to
+later sections), or by using the keys listed in the appendix. Pressing the CONTROL key
+on Amstrad or Commodore, or SYMBOL SHIFT on Spectrum, whilst moving or turning
+speeds up the action.</font></p>
+<h5><font size=2 color=#FFFFFF face="Verdana">
+AREAS</font></h5>
+<p><font size=2 color=#FFFFFF face="Verdana">
+The world is divided into regions known as 'AREAS'. Each area is like a box and
+has a set size of 8192 (X) 4096 (Y) 8192 (Z) units. These units are an arbitrary form
+of measurement which could easily be thought of as being millimetres, centimetres or
+metres. One unit is the smallest distance that you can move through.</font></p>
+<h5><font size=2 color=#FFFFFF face="Verdana">
+X, Y & Z</font></h5>
+<p><font size=2 color=#FFFFFF face="Verdana">
+A co-ordinate of X=0 Y=0 Z=0 (View: 0000,0000,0000) represents the nearest
+bottom, left hand corner of an area.</font></p>
+<p><font size=2 color=#FFFFFF face="Verdana">
+The world is seen from a single viewpoint which occupies one unit, looking in
+different directions. The direction is represented by three angles:</font></p><ul>
+<li><font size=2 color=#FFFFFF face="Verdana">
+X rotation represents looking up or down (pitch)</font>
+<li><font size=2 color=#FFFFFF face="Verdana">
+Y rotation represents looking left or right (yaw)</font>
+<li><font size=2 color=#FFFFFF face="Verdana">
+Z rotation represents looking sideways (tilting your head) (roll)</font></ul>
+<p><font size=2 color=#FFFFFF face="Verdana">
+These rotations are measured in degrees and 360 degrees means that you have
+turned full circle. Rotations are limited to multiples of 5 degree steps. Rotations 
+of X=O Y=O Z=O (ROT: 000,000,000) means that you are looking
+straight ahead. Changing the Y rotation by 180 (ROT: 000,180,000) by doing a U-turn,
+means that you are looking directly behind you. Changing the X rotation to 90 
+(ROT: 090,000,000) means that you are looking
+straight down. An X rotation of 270 (ROT: 270,000,000) means that you are looking
+straight up.</font></p>
+<p><font size=2 color=#FFFFFF face="Verdana">
+There can be up to 254 different AREAS defined by the user. An AREA can be
+used to represent a room of a house or an "outdoor" region. You can not travel beyond
+the boundary of an area.</font></p>
+<p><font size=2 color=#FFFFFF face="Verdana">
+AREAS have no geographical relation to each other, but are tied together by
+ENTRANCES. An ENTRANCE has a position and view direction. The user can then be
+placed at an ENTRANCE position in a specific AREA by some form of trigger (ie. walking
+into a door. This could effectively "move" the viewer from a hall (one AREA) into a room
+(another AREA).</font></p>
+<h5><font size=2 color=#FFFFFF face="Verdana">
+OBJECTS</font></h5>
+<p><font size=2 color=#FFFFFF face="Verdana">
+Objects can be placed into an area to make the environment. These are solid
+and, as such, cannot be passed through when moving. Objects can have different sizes
+in X, Y and Z directions. Object position and size are measured in a different
+co-ordinate system to the 3D world. One unit in Object co-ordinates is equal 
+to 64 units in the 3D world system. ie. an
+Object with a size of 1 unit takes up 64 units in the 3D world. Objects must be placed at
+64 world unit boundaries, i.e. it is not possible to place an object at co-ordinate 32 in
+world units.</font></p>
+<p><font size=2 color=#FFFFFF face="Verdana">
+There are several basic object types ("PRIMITIVES") which can be re-sized and
+combined to make larger, more complicated objects such as buildings, trees etc.
+<br>The primitive objects consist of:</font></p><ul>
+<li><font face="Verdana"><b><font size=2 color=#FFFFFF>
+Cuboids</font></b><font size=2 color=#FFFFFF>
+<br>
+3 Dimensional boxes where the sides can be stretched and shrunk in 3 directions
+(X, Y and Z).</font></font>
+<li><font face="Verdana"><b><font size=2 color=#FFFFFF>
+Pyramids</font></b><font size=2 color=#FFFFFF>
+<br>
+FREESCAPE pyramids are similar to conventional pyramids but are truncated at
+the top. (They are initially flat on the top). A FREESCAPE pyramid, like the cube, can be
+stretched and shrunk in 3 directions, but can have its sides pushed in to form a true
+pyramid or pushed out to form a cuboid. The pyramid can be rotated so that its base is
+on any of its six sides.</font></font>
+<li><font face="Verdana"><b><font size=2 color=#FFFFFF>
+Rectangles</font></b><font size=2 color=#FFFFFF>
+<br>
+Flat (2 dimensional) boxes whose sides can be stretched and shrunk in three
+directions at any time.</font></font>
+<li><font face="Verdana"><b><font size=2 color=#FFFFFF>
+Lines</font></b><font size=2 color=#FFFFFF>
+<br>
+Two points in 3D space joined together form a line. These two points may be
+moved in three directions.</font></font>
+<li><font face="Verdana"><b><font size=2 color=#FFFFFF>
+Triangles</font></b><font size=2 color=#FFFFFF>
+<br>
+Three points in 3D space form a triangle. These points may be moved in three
+directions.</font></font>
+<li><font face="Verdana"><b><font size=2 color=#FFFFFF>
+Quadrilaterals</font></b><font size=2 color=#FFFFFF>
+<br>
+Four points in 3D space form a quadrilateral. This can be non-rectangular. These
+points may be moved in three directions.</font></font>
+<li><font face="Verdana"><b><font size=2 color=#FFFFFF>
+Pentagons</font></b><font size=2 color=#FFFFFF>
+<br>
+As triangles but with five points</font></font>
+<li><font face="Verdana"><b><font size=2 color=#FFFFFF>
+Hexagons</font></b><font size=2 color=#FFFFFF>
+<br>
+As triangles but with six points.</font></font>
+<li><font face="Verdana"><b><font size=2 color=#FFFFFF>
+Sensors</font></b><font size=2 color=#FFFFFF>
+<br>
+Single 3D points which can be moved in three directions. Sensors have the ability
+to detect your presence within a defined distance and even to fire at you! These are
+described in greater detail later on.</font></font></ul>
+<p><font size=2 color=#FFFFFF face="Verdana">
+Objects such as pyramids and triangles, which do not occupy a whole cube of
+space, act like solid cubes when moving around the 3D world. For example, it is not
+possible to stand on the slope of a pyramid. This cube is known as the object's
+BOUNDING CUBE.</font></p>
+<p><font size=2 color=#FFFFFF face="Verdana">
+When editing points within these objects, the points are stored as a fraction of the
+total object size. This fraction is represented as a number between 0 and 63, where 0
+means that the point is at one side (minimum) of the cube and 63 means it is at the
+opposite side (maximum). Each point has a different scale in each of the three directions
+(X,Y and Z) to show its position with the object's BOUNDING CUBE.</font><font color=black>
+<p>
+</font>
+<p><font size=2 color=#FFFFFF face="Verdana">
+For example: to make a pyramid with the apex (the pointed top) in the middle of
+the face of the BOUNDING CUBE, the apex would have X and Z values of 32 and a Y
+value of 63.</font></p>
+<h5><font size=2 color=#FFFFFF face="Verdana">
+OBJECT ATTRIBUTES</font></h5>
+<p><font size=2 color=#FFFFFF face="Verdana">
+Objects can exist in three states: VISIBLE, INVISIBLE or DESTROYED:</font></p>
+<ul><li><font face="Verdana"><b><font size=2 color=#FFFFFF>
+VISIBLE:</font></b><font size=2 color=#FFFFFF>
+<br>
+The object is present in the world as a solid form.</font></font>
+<li><font face="Verdana"><b><font size=2 color=#FFFFFF>
+INVISIBLE:</font></b><font size=2 color=#FFFFFF>
+<br>
+The object is not present in the world but can be brought into the world by being
+made visible.</font></font>
+<li><font face="Verdana"><b><font size=2 color=#FFFFFF>
+DESTROYED:</font></b><font size=2 color=#FFFFFF>
+<br>
+Once an object is destroyed it is invisible and cannot be made visible again (until
+the world is reset).</font></font></ul>
+<h5><font size=2 color=#FFFFFF face="Verdana">
+OBJECT COLOURS (SHADES)</font></h5>
+<p><font size=2 color=#FFFFFF face="Verdana">
+Each side of an object can have a different shade. A shade is made up of a mixture
+of the colours available on the computer used.</font></p>
+<p><font size=2 color=#FFFFFF face="Verdana">
+The first shade (number 0) has a special property in that it is not drawn. This can
+be used to improve the speed of drawing the 3D world when used on object sides which
+are never seen, such as the under side of a house or the back of a door which is placed
+against a wall.</font></p>
+<p><font size=2 color=#FFFFFF face="Verdana">
+By painting all of the sides of an object with shade 0 it is possible to have an object
+which cannot be seen but which is solid and cannot be moved through. Note: In this case
+the object's attribute will be set to VISIBLE even though it cannot be seen. This can be
+used to produce invisible barriers or invisible triggers on floors.</font></p>
+<h5><font size=2 color=#FFFFFF face="Verdana">
+GLOBALS</font></h5>
+<p><font size=2 color=#FFFFFF face="Verdana">
+In order to conserve memory, common objects may be stored in a reserved area
+known as the GLOBALS AREA (AREA 255). These objects can be placed in any area by
+using the GLOBAL option in the editor. For example, a floor that would be duplicated 
+in other areas could be defined once as an object
+in the GLOBALS AREA and displayed in each area that would have the same floor.
+However, an object that is used globally will only appear at the same co-ordinate
+position as it was defined in. So a tree defined in the corner of the GLOBALS AREA
+can only appear in the same corner of the AREAS it appears in.</font></p>
+<h5><font size=2 color=#FFFFFF face="Verdana">
+INTERACTION WITH OBJECTS</font></h5>
+<p><font size=2 color=#FFFFFF face="Verdana">
+Events or reactions can be caused by interacting with objects within the environment. 
+Objects may be triggered to respond to being shot, activated (touched/pressed/manipulated), 
+collided with or walked on.</font></p>
+<p><font size=2 color=#FFFFFF face="Verdana">
+In order to shoot or activate an object, a 'sight' mode is selected (by pressing the
+SPACE BAR) whereupon a cross-hair appears and is controlled using the normal
+movement keys or joystick. After targetting an object, the fire button or 0 key, when
+pressed, will then shoot at that object. To activate a targetted object the "A" key is
+pressed. However, an object will only be "activated" if the object is within a predefined
+distance known as the ACTIVE RANGE.</font></p>
+<h5><font size=2 color=#FFFFFF face="Verdana">
+SENSORS</font></h5>
+<p><font size=2 color=#FFFFFF face="Verdana">
+A SENSOR is a special type of object that will detect your presence if you are
+within a set distance from it. This allows reactions to occur when approaching an
+object. A Sensor can also be set to respond by firing back at you at a given rate.</font></p>
+<h5><font size=2 color=#FFFFFF face="Verdana">
+CONDITIONS - THE FREESCAPE COMMAND LANGUAGE (FCL)</font></h5>
+<p><font size=2 color=#FFFFFF face="Verdana">
+In order to interact with objects, checks and actions have to be defined in the
+form of short programs called CONDITIONS.</font></p>
+<p><font size=2 color=#FFFFFF face="Verdana">
+CONDITIONS are written using instructions which make up the FREESCAPE
+COMMAND LANGUAGE (FCL). FCL has a very simple but powerful set of commands
+which allow you to manipulate and respond to any occurances.</font></p>
+<p><font size=2 color=#FFFFFF face="Verdana">
+There is also a bank of memory which can be used by the user to store and view
+information relating to the environment and events. Each memory cell is called a
+VARIABLE. A VARIABLE can store a value between 0 and 255. There are 128 of these
+memory cells and are numbered 0 - 127. The first 112 (0-111) are free for the user to
+use for storage, whilst the last 16 (112-127) are defined and used by the system but can
+be viewed by the user and acted upon, if desired.</font></p>
+<font size=2 color=#FFFFFF face="Verdana">
+There are various categories of instructions in FCL and they are as follows:</font>
+<ul><li><font face="Verdana"><b><font size=2 color=#FFFFFF>
+VARIABLE MANIPULATION</font></b><font size=2 color=#FFFFFF>
+<br>
+This set of instructions act upon values stored in the VARIABLE memory cells.
+These include commands to add to and subtract values from VARIABLES, comparisons
+of values and setting a value.</font></font>
+<li><font face="Verdana"><b><font size=2 color=#FFFFFF>
+OBJECT MANIPULATION</font></b><font size=2 color=#FFFFFF>
+<br>
+This set of instructions can alter the attributes of a specified object. There are
+instructions to visiblise, invisiblise, destroy and swap the visibility of objects.</font></font>
+<li><font face="Verdana"><b><font size=2 color=#FFFFFF>
+VEHICLE COMMANDS</font></b><font size=2 color=#FFFFFF>
+<br>
+This set of instructions affect the type of movement you have within the environment. 
+They allow you to set movement to crawling, walking, running and flying. A
+command is also available to move the user to a specified ENTRANCE in a specified
+AREA.</font></font>
+<li><font face="Verdana"><b><font size=2 color=#FFFFFF>
+CONDITIONAL INSTRUCTIONS</font></b><font size=2 color=#FFFFFF>
+<br>
+This set of instructions allow the execution of segments of programs depending
+on the outcome of specific checks, such as: If a particular object is shot, if a particular
+object is collided with, if a SENSOR has sensed you etc.</font></font>
+<li><font face="Verdana"><b><font size=2 color=#FFFFFF>
+MISCELLANEOUS COMMANDS</font></b><font size=2 color=#FFFFFF>
+<br>
+This set of instructions deal with functions such as printing text messages, setting
+colours, playing sounds and setting the TIMER. The TIMER is a device that can be set
+to trigger a set of conditions at a defined regular interval of time.</font></font></ul>
+<h5><font size=2 color=#FFFFFF face="Verdana">
+CONDITION ROUTINES</font></h5>
+<p><font size=2 color=#FFFFFF face="Verdana">
+Condition Routines (the short programs written in FCL), are stored as lists.
+Each list is given a number for identification. There are three types of groups of
+conditional lists. They are:</font></p><ul>
+<li><font size=2 color=#FFFFFF face="Verdana">
+GENERAL CONDITIONS</font>
+<li><font size=2 color=#FFFFFF face="Verdana">
+LOCAL CONDITIONS</font>
+<li><font size=2 color=#FFFFFF face="Verdana">
+PROCEDURES</font>
+</ul><h5><font size=2 color=#FFFFFF face="Verdana">
+General Conditions</font></h5>
+<p><font size=2 color=#FFFFFF face="Verdana">
+These are a set of conditional lists (programs) which are executed all the time.
+Conditions used in this form are useful for checking for "End Game" situations,
+maintaining counters, and general overseeing of the whole environment. The first
+CONDITION in this set is only executed when the environment is reset. This allows you
+to initialise any variables or events at the start.</font></p>
+<h5><font size=2 color=#FFFFFF face="Verdana">
+Local Conditions</font></h5>
+<p><font size=2 color=#FFFFFF face="Verdana">
+These are a set of conditional lists which are also executed all the time. However,
+there is a set of local conditions for each AREA. Only the set of conditions associated
+with the current area will be executed. LOCAL CONDITIONS are useful for checking
+and acting upon collisions with objects in the current AREA, Sensor handling, or any
+other occurances that are AREA specific.</font></p>
+<h5><font size=2 color=#FFFFFF face="Verdana">
+Procedures</font></h5>
+<p><font size=2 color=#FFFFFF face="Verdana">
+These are a special set of conditional lists that are only executed at the request of
+another condition. Their main use is to replace frequently used functions by conditions,
+only being written once, thus preserving memory. They can also be used to extend the
+length of a condition list if a condition exceeds the maximum number of lines allowed.</font></p>
+<h5><font size=2 color=#FFFFFF face="Verdana">
+INSTRUMENTS</font></h5>
+<p><font size=2 color=#FFFFFF face="Verdana">
+An Instrument is a device which displays information to the user. Instruments are
+not visible whilst in the editor, but are visible on the TEST screen or in a Stand-Alone
+environment. There are two types of Instrument: BARS and NUMERICAL.</font></p><ul>
+<li><font face="Verdana"><b><font size=2 color=#FFFFFF>
+BAR</font></b> <font size=2 color=#FFFFFF>
+ Instruments are used to display the value held in a variable as a bar of a
+length in pixels (dots) equal to that value. They are always one character wide and can
+either be horizontal or vertical.</font></font>
+<li><font face="Verdana"><b><font size=2 color=#FFFFFF>
+NUMERICAL</font></b> <font size=2 color=#FFFFFF>
+ Instruments are used to display the value held in a variable as a
+decimal figure. They can be set to display to a length of 1 to 5 characters. To display
+four or five characters, two variables are used to hold the value (see section on "HOW
+TO USE VARIABLES" and "MORE ABOUT VARIABLES" in the manual).</font></font></ul>
+<h5><font size=2 color=#FFFFFF face="Verdana">
+MESSAGES</font></h5>
+<p><font size=2 color=#FFFFFF face="Verdana">
+Messages are a way of communicating to the user by way of printing text to the
+screen. They are only visible on the TEST screen or in a "Stand-Alone" environment -
+messages are stored in a list; each item in that list being a single line of text. Each
+message can be printed to the screen by referring to its message number and its
+position at which it should be placed. This allows frequently used messages to be
+stored once.</font></p>
+<h5><font size=2 color=#FFFFFF face="Verdana">
+LIMITATIONS TO FREESCAPE</font></h5>
+<p><font size=2 color=#FFFFFF face="Verdana">
+As FREESCAPE uses extremely complex mathematical algorithms to represent
+the 3D world on a 2D screen, there are a few basic limitations to what you can do:</font></p><ul>
+<li><font size=2 color=#FFFFFF face="Verdana">
+Objects should not overlap. The bounding cube of one object should not occupy
+the same 3D space as any other. This is especially true when you have GLOBAL
+OBJECTS or objects which are made visible which overlap with normal objects.</font>
+<li><font size=2 color=#FFFFFF face="Verdana">
+The number of visible objects in any one AREA is limited due to memory
+restrictions. Excess objects are not drawn. The maximum number of objects depends
+on the computer you are using.</font>
+</ul><h5><font size=2 color=#FFFFFF face="Verdana">
+THE 3D KIT PROGRAMS</font></h5>
+<p><font size=2 color=#FFFFFF face="Verdana">
+On 48K/64K machines such as the Spectrum 48K, CPC464, CPC664, CPC464+
+or Commodore 64, the Kit is split up into three programs:</font></p><ul>
+<li><font face="Verdana"><b><font size=2 color=#FFFFFF>
+The ENVIRONMENT Editor</font></b><font size=2 color=#FFFFFF>
+<br>
+This allows you to edit Objects, Areas, Entrances and Colours.</font></font>
+<li><font face="Verdana"><b><font size=2 color=#FFFFFF>
+The CONDITION Editor</font></b><font size=2 color=#FFFFFF>
+<br>
+This allows you to edit the Conditions, Instruments, Messages and to test the world
+without the Editor screen.</font></font>
+<li><font face="Verdana"><b><font size=2 color=#FFFFFF>
+The FREESCAPE COMPILER</font></b><font size=2 color=#FFFFFF>
+<br>
+This allows you to combine your 3D world together with your own border to create
+a Stand-Alone program which can run without the Kit.</font></font></ul>
+<p><font size=2 color=#FFFFFF face="Verdana">
+DATA can be loaded and saved to and from each program to create the complete
+world.</font></p>
+<p><font size=2 color=#FFFFFF face="Verdana">
+On 128K machines such as Spectrum 128K, +2, +2A, +3, CPC6128 or CPC6128+
+(excluding Commodore 128), the Environment Editor and the Condition Editor are
+combined and more memory is available to create larger worlds.</font></p>
+<font size=2 color=midnightblue>
+<hr></font><div align=center>
+<font face="Verdana">
+<a href="option03.htm"><font size=2 color=#FFFFFF>
+Prev</font></a> <font size=2 color=#FFFFFF>
+ - 
+<a href="contents.htm">Contents</a> -
+<a href="option05.htm">Next</a>
+</font></font>
+</div></body></html>
+

@@ -1,0 +1,69 @@
+<html><head><title>
+3DCK - HANDLING VALUES GREATER THAN 255
+</title></head><body bgcolor=#000000 text="#FFFFFF" link="#FFFFFF" vlink="#FFFFFF" alink="#FFFFFF">
+<h3><font size=2 color=#FFFFFF face="Verdana">
+3D CONSTRUCTION KIT</font></h3>
+<font size=2 color=midnightblue>
+<hr></font>
+<h4><font size=2 color="#FFFFFF" face="Verdana">
+18. HANDLING VALUES GREATER THAN 255</font></h4><font size=2>
+<h5><font size=2 color=#FFFFFF face="Verdana">
+Two Byte Values (0-65535)</font></h5>
+<p><font size=2 color=#FFFFFF face="Verdana">
+If, for example we set variable 10 to hold the game score, for display via an
+Instrument as a 5 character number. Two variables (bytes) are required to store this.
+Variable 10 stores the LOW byte (first) and variable 11 stores the HIGH byte (last).
+To add 100 to the score the following would be performed:</font></p>
+<table width=96%><tr>
+<td width=33% align=left><pre><font size=2 color=#FFFFFF face="Verdana">ADDV 100 10</font></pre>
+</td>
+<td align=left>
+  <pre><font size=2 color="#FFFFFF" face="Verdana">(Add 100 to variable 10)</font></pre>
+</td></tr><tr>
+<td align=left><pre><font size=2 color=#FFFFFF face="Verdana">ADCV   0 11</font></pre>
+</td>
+<td align=left>
+  <pre><font size=2 color="#FFFFFF" face="Verdana">(Add the carry, if there is one, to 
+variable 11)</font></pre>
+</td></tr></table>
+<p><font size=2 color=#FFFFFF face="Verdana">
+To add 300 to the score the 300 must be broken down to two bytes thus:</font></p>
+<p><font size=2 color=#FFFFFF face="Verdana">
+300 divided by 256 = 1 remainder 44</font></p>
+<p><font size=2 color=#FFFFFF face="Verdana">
+So to add 300 to our score:</font></p>
+<table width=96%><tr>
+<td width=33% align=left><pre><font size=2 color=#FFFFFF face="Verdana">ADDV  44 10</font></pre>
+</td>
+<td align=left><font size=2 color="#FFFFFF" face="Verdana"><br></font></td></tr><tr>
+<td align=left><pre><font size=2 color=#FFFFFF face="Verdana">ADCV   0 11</font></pre>
+</td>
+<td align=left><font size=2 color="#FFFFFF" face="Verdana"><br></font></td></tr></table>
+<p><font size=2 color=#FFFFFF face="Verdana">
+And to subtract 300 from our score:</font></p>
+<table width=96%><tr>
+<td width=33% align=left><pre><font size=2 color=#FFFFFF face="Verdana">SUBV  44 10</font></pre>
+</td>
+<td align=left>
+  <pre><font size=2 color="#FFFFFF" face="Verdana">(Take 44 from variable 10)</font></pre>
+</td></tr><tr>
+<td align=left><pre><font size=2 color=#FFFFFF face="Verdana">SBCV   0 11</font></pre>
+</td>
+<td align=left>
+  <pre><font size=2 color="#FFFFFF" face="Verdana">(and take one with borrow (if there is one)
+from variable 11)</font></pre>
+</td></tr></table>
+<font color=black>
+<hr></font><div align=center>
+<font face="Verdana">
+<a href="option17.htm"><font size=2 color=#FFFFFF>
+Prev</font></a> <font size=2 color=#FFFFFF>
+ - 
+<a href="contents.htm">Contents</a> -
+<a href="option19.htm">Next</a>
+</font></font>
+</div></body></html>
+
+
+
+

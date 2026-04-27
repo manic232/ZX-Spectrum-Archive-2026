@@ -1,0 +1,97 @@
+<html><head><title>
+3DCK - EXAMPLES
+</title></head><body bgcolor=#000000 text="#FFFFFF" link="#FFFFFF" vlink="#FFFFFF" alink="#FFFFFF">
+<h3><font size=2 color=#FFFFFF face="Verdana">
+3D CONSTRUCTION KIT</font></h3>
+<font size=2 color=midnightblue>
+<hr></font>
+<h4><font size=2 color=#FFFFFF face="Verdana">
+16. EXAMPLES</font></h4><h5><font size=2 color=#FFFFFF face="Verdana">
+To Go to another Area</font></h5>
+<p><font size=2 color=#FFFFFF face="Verdana">
+As an example we will use object 3 which is our DOOR and object 4 which is our
+DOORWAY. For simplicity the doorway is a black RECTANGLE which is placed close
+against a wall and the door is a red CUBE which has been "flattened' by the use of the
+EDIT tools and placed close up in front of the doorway. The DOORWAY (rectangle)
+should be set to INVISIBLE via the ATTRIBUTES function both on START STATUS and
+PRESENT STATUS. We will use the IFACTIVE command to "open" the door and reveal
+the doorway as follows. Enter the following condition as a LOCAL condition (create one
+if required first):</font> </p>
+<table>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">IFACTIVE 3</font></pre>
+  </td></tr>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">THEN</font></pre>
+  </td></tr>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">INVIS 3</font></pre>
+  </td></tr>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">VIS 4</font></pre>
+  </td></tr>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">ENDIF</font></pre>
+  </td></tr>
+</table>
+<p><font size=2 color=#FFFFFF face="Verdana">
+Now experiment by pressing the SPACE BAR and position the cursor on the door
+and press the "A" key. The door (object 3) should vanish and be replaced by the doorway
+(object 4).</font></p>
+<p><font size=2 color=#FFFFFF face="Verdana">
+Create a new AREA via the ADD AREA option and return to the Area 1 via the
+GOTO AREA option. Now add the following condition commands in the same way as
+above and enter the following: (they can be tapped onto the end of the previous set of
+intructions, or placed in a newly created local condition list in the same area.</font></p>
+<table>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">IFHIT 3</font></pre>
+  </td></tr>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">THEN</font></pre>
+  </td></tr>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">GOTO 1 2</font></pre>
+  </td></tr>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">ENDIF</font></pre>
+  </td></tr>
+</table>
+<p><font size=2 color=#FFFFFF face="Verdana">
+Now try walking towards the "doorway" until you collide with it. You will be
+transported instantly to ENTRANCE 1 in AREA 2.</font></p>
+<h5><font size=2 color=#FFFFFF face="Verdana">
+To Make an Object Visible or Invisible</font></h5>
+<p><font size=2 color=#FFFFFF face="Verdana">
+As can be seen by the previous example, making objects vanish and reappear is
+a very simple matter. If, for example, we wish an object (say object 3) to become
+invisible when it is shot we would enter the following condition as a LOCAL condition
+(create one if required).</font></p>
+<table>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">IFSHOT 3</font></pre>
+  </td></tr>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">THEN</font></pre>
+  </td></tr>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">INVIS 3</font></pre>
+  </td></tr>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">ENDIF</font></pre>
+  </td></tr>
+</table>
+<p><font size=2 color=#FFFFFF face="Verdana">
+Shoot object 3 and see the effect.</font></p>
+<h5><font size=2 color=#FFFFFF face="Verdana">
+To Make a Sound</font></h5>
+<p><font size=2 color=#FFFFFF face="Verdana">
+This example will make a ping when picking up an object (object 5).</font></p>
+<table>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">IFACTIVE 5</font></pre>
+  </td></tr>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">THEN</font></pre>
+  </td></tr>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">INVIS 5</font></pre>
+  </td></tr>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">SYNCSND 1</font></pre>
+  </td></tr>
+<tr><td><pre><font size=2 color=#FFFFFF face="Verdana">ENDIF</font></pre>
+  </td></tr>
+</table><font color=black>
+<hr></font><div align=center>
+<font face="Verdana">
+<a href="option15.htm"><font size=2 color=#FFFFFF>
+Prev</font></a> <font size=2 color=#FFFFFF>
+ - 
+<a href="contents.htm">Contents</a> -
+<a href="option17.htm">Next</a>
+</font></font>
+</div></body></html>

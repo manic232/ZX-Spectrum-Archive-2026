@@ -1,0 +1,113 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+
+<head>
+<title>Spectrum FAQ - Technical Info</title>
+</head>
+
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#660099" alink="#ff0000">
+
+<p align="center">
+<a href="index.html">[FAQ]</a><br>
+<a href="faqs.html">[Frequently&nbsp;Asked&nbsp;Questions]</a>
+<a href="resource.html">[Resources]</a>
+<a href="emulator.html">[Emulators]</a>
+<a href="where_is.html">[Where&nbsp;Is...?]</a>
+<a href="fileform.html">[File&nbsp;Formats]</a>
+[Technical&nbsp;Information]
+<a href="pinouts.html">[Pinouts]</a>
+<a href="acknowle.html">[Acknowledgements]</a>
+</p>
+
+<table width="100%" bgcolor="#eeeeaa">
+<tr><th><font size="+3">SPECCY TECHNICAL INFORMATION</font></th>
+</table>
+<p align="center">This section last updated on 11 Aug 2000</p>
+
+<P ALIGN=CENTER>
+<a href="tech_z80.html">[Z80 Tech Info]</a>
+<a href="tech_48.html">[48K Tech Info]</a>
+<a href="tech_128.html">[128K Tech Info]</a>
+<a href="ports.html">[Peripheral Ports]</a>
+</P>
+<P ALIGN=CENTER>
+<a href="tech_z80.html#Z80CPU">[Z80&nbsp;CPU]</a>
+<a href="tech_z80.html#CB">[CB&nbsp;ops]</a>
+<a href="tech_z80.html#ED">[ED&nbsp;ops]</a>
+<a href="tech_z80.html#DDFD">[DD/FD&nbsp;ops]</a>
+<a href="tech_z80.html#RREG">[R&nbsp;reg]</a>
+<a href="tech_z80.html#UNDOC">[Undocumented&nbsp;flags]</a>
+<a href="tech_z80.html#INTERRUPTS">[Interrupts]</a>
+<BR>
+<a href="tech_48.html#STREAMS">[Channels&nbsp;&amp;&nbsp;Streams]</a>
+<BR>
+<a href="tech_48.html#HARDWARE">[Hardware]</a>
+<a href="tech_48.html#FE">[Port&nbsp;FE]</a>
+<a href="tech_48.html#48K">[The&nbsp;48K&nbsp;Spectrum]</a>
+<a href="tech_48.html#CONTENDED">[Contended Memory]</a>
+<BR>
+<a href="tech_48.html#IF1">[Interface&nbsp;1]</a>
+<a href="tech_48.html#E7">[Port&nbsp;E7]</a>
+<a href="tech_48.html#EF">[Port&nbsp;EF]</a>
+<a href="tech_48.html#F7">[Port&nbsp;F7]</a>
+<BR>
+<a href="tech_48.html#JOYSTICKS">[Joysticks]</a>
+<BR>
+<a href="tech_128.html#128K">[The&nbsp;128K/+2&nbsp;Spectrums]</a>
+<a href="tech_128.html#MEM">[Memory]</a>
+<a href="tech_128.html#KEYPAD">[Keypad]</a>
+<a href="tech_128.html#AY">[Sound&nbsp;chip]</a>
+<BR>
+<a href="tech_128.html#PLUS3">[The +2A/+3 Spectrums]</a>
+<a href="tech_128.html#PLUS3MEM">[Memory]</a>
+<a href="tech_128.html#DISK">[Disk&nbsp;drive]</a>
+</P>
+
+<P>In addition to reading this, if you are interested in lots of
+technical information about various aspects of the Spectrum and how to
+emulate it, you are strongly advised to read the documentation
+accompanying Gerton Lunter's <A HREF="emu_dos.html#Z80">Z80</A>, in
+particular the <TT>techinfo.doc</TT> file. Many other emulators also
+include useful information in their documentation.</P>
+
+<P>This section is based on Gerton's <TT>techinfo.doc</TT>, with
+major contributions from Marat Fayzullin,
+<a href="mailto:Ian.Collier@comlab.ox.ac.uk.no.junk.mail">Ian Collier</a>,
+<a href="mailto:sean@intelligenesis.net.no.junk.mail">Sean A. Irvine</a>
+(<A HREF="tech_48.html#STREAMS">Channels and Streams</A>),
+<a href="mailto:pera@neobee.net.no.junk.mail">Pera Putnik</a>
+(<A HREF="tech_48.html#FE">Port #FE and the differences between Issue 2 and 3 Spectrums</A>),
+<a href="mailto:pgimeno@iname.com.no.junk.mail">Pedro Gimeno</a>
+(<A HREF="tech_48.html#CONTENDED">Contended memory timings</A> &amp; lots more), Jose
+Luis Sanchez (<A HREF="tech_128.html#PLUS3MEM">+2A/+3 contended memory timings</A>) and
+<a href="mailto:sean@scum.org.no.junk.mail">Sean Young</a> (<A HREF="tech_z80.html#UNDOC">Undocumented flags</A>)
+&amp; more). Others contributing information include <a href="mailto:aralbrec@interchange.ubc.ca.no.junk.mail">Alvin Albrecht</a>,
+<a href="mailto:Mac_Buster@mail.ru.no.junk.mail">Mac Buster</a>,
+<a href="mailto:damien@envytech.co.uk.no.junk.mail">Damien Guard</a>,
+<a href="mailto:Erik.Kunze@fantasy.muc.de.no.junk.mail">Erik Kunze</a>,
+<a href="mailto:joemackay@lineone.net.no.junk.mail">Joe Mackay</a>,
+Malyrules, <a href="mailto:jmckay@jmk1.freeserve.co.uk.no.junk.mail">James McKay</a>,
+<a href="mailto:jsm28@cam.ac.uk.no.junk.mail">Joseph S. Myers</a>
+and Rui Ribeiro.</P>
+
+<P>Due to its large size, this section has now been split into four
+pages:</P>
+
+<UL>
+<LI><A HREF="tech_z80.html">Information on the Z80 CPU</A>
+<LI><A HREF="tech_48.html">General Spectrum and 48K specific information</A>
+<LI><A HREF="tech_128.html">128/+2 and +2A/+3 specific information</A>
+<LI><A HREF="ports.html">Which peripherals use which ports</A>
+</UL>
+
+<p align="center"><img src="zxline.png" width="540" height="8" alt="-----"></p>
+
+<p align="center"><font size="-1">This FAQ is maintained by <a href="cabal.html">the Cabal</a>;
+distribution is permitted only under the conditions specified in the
+<a href="index.html#COPYRIGHT">copyright notice</a>.<br> Primary site
+for this FAQ: <a href="http://www.srcf.ucam.org/~pak21/cssfaq/index.html">http://www.srcf.ucam.org/~pak21/cssfaq/index.html</a>.</font>
+
+</body>
+
+</html>

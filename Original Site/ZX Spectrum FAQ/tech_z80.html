@@ -1,0 +1,539 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+
+<head>
+<title>Spectrum FAQ - Z80 Technical Information</title>
+</head>
+
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#660099" alink="#ff0000">
+
+<p align="center">
+<a href="index.html">[FAQ]</a><br>
+<a href="faqs.html">[Frequently&nbsp;Asked&nbsp;Questions]</a>
+<a href="resource.html">[Resources]</a>
+<a href="emulator.html">[Emulators]</a>
+<a href="where_is.html">[Where&nbsp;Is...?]</a>
+<a href="fileform.html">[File&nbsp;Formats]</a>
+<a href="technica.html">[Technical&nbsp;Information]</a>
+<a href="pinouts.html">[Pinouts]</a>
+<a href="acknowle.html">[Acknowledgements]</a>
+</p>
+
+<table width="100%" bgcolor="#eeeeaa">
+<tr><th><font size="+3">Z80 TECHNICAL INFORMATION</font></th>
+</table>
+<p align="center">This page last updated on 28 Aug 1999</p>
+
+<P ALIGN=CENTER>
+[Z80 Tech Info]
+<a href="tech_48.html">[48K Tech Info]</a>
+<a href="tech_128.html">[128K Tech Info]</a>
+<a href="ports.html">[Peripheral Ports]</a>
+</P>
+<P ALIGN=CENTER>
+<a href="#Z80CPU">[Z80&nbsp;CPU]</a>
+<a href="#CB">[CB&nbsp;ops]</a>
+<a href="#ED">[ED&nbsp;ops]</a>
+<a href="#DDFD">[DD/FD&nbsp;ops]</a>
+<a href="#RREG">[R&nbsp;reg]</a>
+<a href="#UNDOC">[Undocumented&nbsp;flags]</a>
+<a href="#INTERRUPTS">[Interrupts]</a>
+<BR>
+<a href="tech_48.html#STREAMS">[Channels&nbsp;&amp;&nbsp;Streams]</a>
+<BR>
+<a href="tech_48.html#HARDWARE">[Hardware]</a>
+<a href="tech_48.html#FE">[Port&nbsp;FE]</a>
+<a href="tech_48.html#48K">[The&nbsp;48K&nbsp;Spectrum]</a>
+<a href="tech_48.html#CONTENDED">[Contended Memory]</a>
+<BR>
+<a href="tech_48.html#IF1">[Interface&nbsp;1]</a>
+<a href="tech_48.html#E7">[Port&nbsp;E7]</a>
+<a href="tech_48.html#EF">[Port&nbsp;EF]</a>
+<a href="tech_48.html#F7">[Port&nbsp;F7]</a>
+<BR>
+<a href="tech_48.html#JOYSTICKS">[Joysticks]</a>
+<BR>
+<a href="tech_128.html#128K">[The&nbsp;128K/+2&nbsp;Spectrums]</a>
+<a href="tech_128.html#MEM">[Memory]</a>
+<a href="tech_128.html#KEYPAD">[Keypad]</a>
+<a href="tech_128.html#AY">[Sound&nbsp;chip]</a>
+<BR>
+<a href="tech_128.html#PLUS3">[The +2A/+3 Spectrums]</a>
+<a href="tech_128.html#PLUS3MEM">[Memory]</a>
+<a href="tech_128.html#DISK">[Disk&nbsp;drive]</a>
+</P>
+
+<A NAME="Z80CPU"></A>
+<table width="100%" bgcolor="#f0f0b0">
+<tr><th><font size="+1">ZILOG Z80 CPU</font></th>
+</table>
+
+<P>Most Z80 opcodes are one byte long, not counting a possible byte or 
+word operand. The four opcodes CB, DD, ED and FD are  opcodes: they 
+change the meaning of the opcode following them.</P>
+
+<A NAME="CB"></A>
+<table width="100%" bgcolor="#ffffbb">
+<tr><th>CB opcodes</th>
+</table>
+
+<P>There are 248 different CB opcodes.  The block <SAMP>CB 30</SAMP>
+to <SAMP>CB 37</SAMP> is missing from the official list. These
+instructions, usually denoted by the mnemonic <SAMP>SLL</SAMP>, Shift
+Left Logical,  left the operand and make bit 0 always one. These
+instructions are quite commonly used. For example, <B>Bounder</B> and
+<B>Enduro Racer</B> use them.</P>
+
+<A NAME="ED"></A>
+<table width="100%" bgcolor="#ffffbb">
+<tr><th>ED opcodes</th>
+</table>
+
+<P>There are a number of unofficial ED instructions, but none of them
+are very useful. The ED opcodes in the range 00-3F and 80-FF (except
+for the block instructions of course) do nothing at all but taking up
+8 T states and incrementing the R register by 2.  Most of the unlisted
+opcodes in the range 40-7F do have an effect, however. The complete
+list:<BR>
+(* = not official, i.e. not listed in Zilog documentation)<BR>
+
+<PRE>
+        ED40   IN B,(C)                 ED60   IN H,(C)
+        ED41   OUT (C),B                ED61   OUT (C),H
+        ED42   SBC HL,BC                ED62   SBC HL,HL
+        ED43   LD (nn),BC               ED63   LD (nn),HL
+        ED44   NEG                      ED64 * NEG
+        ED45   RETN                     ED65 * RETN
+        ED46   IM 0                     ED66 * IM 0
+        ED47   LD I,A                   ED67   RRD
+        ED48   IN C,(C)                 ED68   IN L,(C)
+        ED49   OUT (C),C                ED69   OUT (C),L
+        ED4A   ADC HL,BC                ED6A   ADC HL,HL
+        ED4B   LD BC,(nn)               ED6B   LD HL,(nn)
+        ED4C * NEG                      ED6C * NEG
+        ED4D   RETI                     ED6D * RETN
+        ED4E * IM 0/1                   ED6E * IM 0/1
+        ED4F   LD R,A                   ED6F   RLD
+        ED50   IN D,(C)                 ED70   IN (C)
+        ED51   OUT (C),D                ED71 * OUT (C),0
+        ED52   SBC HL,DE                ED72   SBC HL,SP
+        ED53   LD (nn),DE               ED73   LD (nn),SP
+        ED54 * NEG                      ED74 * NEG
+        ED55 * RETN                     ED75 * RETN
+        ED56   IM 1                     ED76 * IM 1
+        ED57   LD A,I                   ED77 * NOP
+        ED58   IN E,(C)                 ED78   IN A,(C)
+        ED59   OUT (C),E                ED79   OUT (C),A
+        ED5A   ADC HL,DE                ED7A   ADC HL,SP
+        ED5B   LD DE,(nn)               ED7B   LD SP,(nn)
+        ED5C * NEG                      ED7C * NEG
+        ED5D * RETN                     ED7D * RETN
+        ED5E   IM 2                     ED7E * IM 2
+        ED5F   LD A,R                   ED7F * NOP
+</PRE>
+
+<P>The ED70 instruction reads from port (C), just like the other
+instructions, but throws away the result. It does change the flags in
+the same way as the other <SAMP>IN</SAMP> instructions, however.  The
+ED71 instruction <SAMP>OUT</SAMP>s a zero byte to port (C). These
+instructions 'should', by regularity of the instruction set, use (HL)
+as operand, but since from the processor's point of view accessing
+memory or accessing I/O devices is the same thing except for
+activation of the /IORQ line instead of the /MREQ line, and since the
+Z80 cannot access memory twice in one instruction (disregarding
+instruction fetch of course), it can't fetch or store the data
+byte.</P>
+
+<P>The instructions ED 4E and ED 6E are <SAMP>IM 0</SAMP> equivalents:
+when FF was put on the bus (physically) at interrupt time, the
+Spectrum continued to execute normally, whereas when an EF
+(<SAMP>RST #28</SAMP>) was put on the bus it crashed, just as it does
+in that case when the Z80 is in the official interrupt mode 0. In
+<SAMP>IM 1</SAMP> the Z80 just executes a <SAMP>RST #38</SAMP> (opcode
+FF) no matter what is on the bus.</P>
+
+<P>All the EDxx <SAMP>RET</SAMP>? instructions copy IFF2 to IFF1, even
+<SAMP>RETI</SAMP> (ED4D), which the official documentation does not
+note.  The only difference between <SAMP>RETI</SAMP> and
+<SAMP>RETN</SAMP> is that peripheral devices which allow
+daisy-chaining of interrupts (eg the Z80 PIO) recognise the ED4D
+sequence as 'end of interrupt' and then know that they can allow a
+further interrupt to be passed to the processor.</P>
+
+<A NAME="DDFD"></A>
+<table width="100%" bgcolor="#ffffbb">
+<tr><th>DD and FD opcodes</th>
+</table>
+
+<P>The DD and FD opcodes precede instructions using the IX and IY 
+registers. If you look at the instructions carefully, you see how they 
+work:</P>
+<PRE>
+    2A nn      LD HL,(nn)
+    DD 2A nn   LD IX,(nn)
+    7E         LD A,(HL)
+    DD 7E d    LD A,(IX+d)
+</PRE>
+
+<P>A DD opcode simply changes the meaning of HL in the next
+instruction. If a memory byte is addressed indirectly via HL, as in
+the second example, a displacement byte is added. Otherwise the
+instruction simply acts on IX instead of HL (A notational awkwardness,
+that will only bother assembler and disassembler writers:
+<SAMP>JP (HL)</SAMP> is not indirect; it should have been denoted by
+<SAMP>JP HL</SAMP>).  Instructions which use H or L access the high
+and low halves of IX; those which reference both (HL) and either H or
+L replace HL by (IX+d), but still use H or L. For example,
+<SAMP>DD6601</SAMP> is <SAMP>LD H,(IX+01)</SAMP>. Very many programs
+use these 'undocumented' IX instructions. FD works in exactly the same
+way to DD, but with IY instead of IX. Many DD or FD opcodes after each
+other will effectively be <SAMP>NOP</SAMP>s, doing nothing except
+repeatedly setting the flag "treat HL as IX" (or IY) and taking up 4 T
+states (But try to let <B>MONS</B> disassemble such a block.).</P>
+
+<P>It is also possible to have doubly-shifted DDCB and FDCB opcodes
+(if DD or FD precedes an ED instruction, the DD or FD is ignored,
+meaning that the ED instructions never operate on IX or IY). With the
+CB instructions, the situation is more interesting. Every DDCB
+instruction operates on (IX+nn), but also copies the result to the
+register used in the original instruction, except when it is (HL). For
+example,
+
+<PRE>
+        CB CE           SET 0,(HL)
+        CB C0           SET 0,B
+        DD CB nn CE     SET 0,(IX+nn)
+        DD CB nn C0     SET 0,(IX+nn) ; copy result to B
+</PRE>
+
+<P>There is no standard way to denote these doubly shifted
+opcodes. Also, note that the offset byte is the third under all
+circumstances: for the singly shifted opcodes, the offset byte is
+after the opcode byte (eg DD 2A nn is <SAMP>LD HL,(nn)</SAMP>), whilst
+the doubly shifted opcodes have the offset byte before the opcode
+byte.</P>
+
+<A NAME="RREG"></A>
+<table width="100%" bgcolor="#ffffbb">
+<tr><th>The R Register</th>
+</table>
+
+<P>This is not really an undocumented feature, but a thorough
+description of it is not easy to find. The R register is a counter
+that is updated during every Z80 M1 cycle (approximately equivalent to
+every instruction), so long as DD, FD, ED and CB are to be regarded as
+separate instructions, so shifted instructions increase R by
+two. There's an interesting exception: doubly-shifted opcodes, the
+DDCB and FDCB ones, also increase R by two. <SAMP>LDI</SAMP> increases
+R by two, <SAMP>LDIR</SAMP> increases it by 2 times BC, as does
+<SAMP>LDDR</SAMP> etcetera. R is set to zero when the Z80 is reset.
+
+<P>Both <SAMP>LD A,R</SAMP> and <SAMP>LD R,A</SAMP> use the value of R
+after it has been increased (eg an <SAMP>XOR A</SAMP>/<SAMP>LD R,A</SAMP>
+sequence sets the value of R to zero, and
+[reset]/<SAMP>DI</SAMP>/<SAMP>LD A,R</SAMP> sets A to #03).</P>
+
+<P>The highest bit of the R register is never changed: this is because in
+the old days everyone used 16 Kbit chips. Inside the chip the bits
+where grouped in a 128x128 matrix, needing a 7 bit refresh cycle.
+Therefore ZiLOG decided to count only the lowest 7 bits. You can
+easily check that the R register is really crucial to memory
+refresh. Assemble this program:</P>
+
+<PRE>
+        ORG 32768
+        DI
+        LD B,0
+    L1: XOR A
+        LD R,A
+        DEC HL
+        LD A,H
+        OR L
+        JR NZ,L1
+        DJNZ L1
+        EI
+        RET
+</PRE>
+
+<P>It will take about three minutes to run.  Look at the upper 32K of
+memory, for instance the UDG graphics.  It will have faded.  Only the
+first few bytes of each 256 byte block will still contain zeros,
+because they were refreshed during the execution of the loop. The ULA
+took care of the refreshing of the lower 16K (This example won't work
+on the emulator, of course!).</P>
+
+<P>R is increased by 1 during interrupt or NMI acknowledge (ignore the
+complicated, incorrect info which was in previous versions of this
+FAQ).</P>
+
+<A NAME="UNDOC"></A>
+<table width="100%" bgcolor="#ffffbb">
+<tr><th>Undocumented Flags</th>
+</table>
+
+<P>This undocumented "feature" of Z80 has its effect on programs like
+<B>Sabre Wulf</B>, <B>Ghosts'n'Goblins</B> and the Speedlock
+loaders. Bits 3 and 5 of the F register are not used. They can contain
+information, as you can readily figure out by <SAMP>PUSH</SAMP>ing AF
+onto the stack and then <SAMP>POP</SAMP>ping some it into another pair
+of registers.  Furthermore, sometimes their values change. The
+following empirical rule (due to Gerton Lunter) gives their values
+after most instructions:</P>
+
+<P><I>The values of bits 5 and 3 follow the values of the
+corresponding bits of the last 8 bit result of an instruction that
+changed the usual flags.</I></P>
+
+<P>For instance, after an <SAMP>ADD A,B</SAMP> those bits will be
+identical to the bits of the A register.</P>
+
+<P>As well as the two completely undocumented flags, after some
+instructions, the official documentation lists the value of some flags
+as 'undefined'. However, these flags have predictable values: (In the list
+below, C is the register and c is the carry flag)
+
+<PRE>
+<B>     Instruction                        Non-standard flags</B>
+
+CP xx                     3 and 5 copied from the argument, not the result
+
+ADD HL,xx                 Consider the instruction being done in two steps:
+ADC HL,xx/SBC HL,xx       first the LSBs being added, then the MSBs. The
+                          3,H,5 and S flags are set as for the second step,
+                          and Z is set only if the entire 16-bit result is
+                          zero. (S and Z are not changed by ADD HL,xx).
+
+BIT n,r			  P/V is set to the same value as Z. S is reset
+                          unless the instruction is BIT 7,r and bit 7
+                          of r is set, in which case S is set.
+
+BIT n,(HL)                3 and 5 are apparently copied from an internal
+BIT n,(IX/IY+d)           storage in the Z80; this is set as follows:
+                          ADD HL,xx: H before the addition
+                          LD r,(IX/IY+d): high byte of IX/IY+d
+                          JR d: high byte of the jump target
+                          LD r,r': no effect
+                          Others have not been tested yet.
+
+SCF/CCF/CPL               3 and 5 copied from A. CCF sets H to the value of
+                          c before the instruction is executed.
+
+LDD/LDDR/LDI/LDIR         3 is bit 3 of (copied value+A), whilst 5 is bit 1 of
+                          this value.
+
+CPD/CPDR/CPI/CPIR	  3 is bit 3 of (A-(HL)-(half carry flag)); 5 is bit 1
+                          of this value. (HL) is the value of (HL) before the
+                          instruction, whilst H is the value of H after the
+                          instruction.
+
+IND/INDR/INI/INIR         S,5 and 3 are affected as DEC B; N is set to bit
+OUTD/OTDR/OUTI/OTIR       7 of the value written to/read from the IO port. c
+                          is found by taking C, adding one if the instruction
+                          increments HL or decrementing it otherwise, then
+                          adding the value written/read, and taking the carry
+                          of this final sum. H is set to the same value as c.
+</PRE>
+
+<P>P/V for the <SAMP>IN...</SAMP> and <SAMP>OUT...</SAMP> instructions
+can be calculated as follows: in the following, x.y refers to bit y of
+x and inp is the byte read from the port. Look at bits 0 and 1 of C
+and inp, and obtain a temporary result.  The first result column
+should be used for
+<SAMP>IND</SAMP>/<SAMP>INDR</SAMP>/<SAMP>OUTD</SAMP> &amp; <SAMP>OTDR</SAMP>
+and the second for
+<SAMP>INI</SAMP>/<SAMP>INIR</SAMP>/<SAMP>OUTI</SAMP> &amp; <SAMP>OTIR</SAMP>:</P>
+
+<PRE>
+<B>    C.1   C.0  inp.1 inp.0   Temp1</B>
+     0     0     0     0      0/0
+     0     0     0     1      1/0
+     0     0     1     0      0/1
+     0     0     1     1      0/0
+     0     1     0     0      1/0
+     0     1     0     1      0/1
+     0     1     1     0      0/0
+     0     1     1     1      1/1
+     1     0     0     0      0/1
+     1     0     0     1      0/0
+     1     0     1     0      1/1
+     1     0     1     1      0/1
+     1     1     0     0      0/0
+     1     1     0     1      1/1
+     1     1     1     0      0/1
+     1     1     1     1      1/0
+</PRE>
+
+<P>Now, calculate Temp2 according to the following pseudo-code:</P>
+
+<PRE>If B.3 == B.2 == B.1 == B.0 == 0 then
+  Temp2 = Parity(B) xor (B.4 or (B.6 and not B.5))
+else
+  Temp2 = Parity(B) xor (B.0 or (B.2 and not B.1))</PRE>
+
+(Parity(B) is the standard partity function). Finally,
+
+<PRE>P/V = Temp1 xor Temp2 xor C.2 xor inp.2
+</PRE>
+
+<P><B>Ghosts'n'Goblins</B> uses the undocumented flag due to a
+programming error. The rhino in <B>Sabre Wulf</B> walks backward or
+keeps running in little circles in a corner, if the (in this case
+undocumented) behaviour of the sign flag in the <SAMP>BIT</SAMP>
+instruction isn't right. From the code:</P>
+
+<PRE>
+        AD86    DD CB 06 7E        BIT 7,(IX+6)
+        AD8A    F2 8F AD           JP P,#AD8F
+</PRE>
+
+<P>An amazing piece of code!  Speedlock does so many weird things that
+all must be exactly right for it to run. Finally, the '128 ROM uses
+the AF register to hold the return address of a subroutine for a
+while.</P>
+
+<A NAME="INTERRUPTS"></A>
+<table width="100%" bgcolor="#ffffbb">
+<tr><th>Interrupts</th>
+</table>
+
+<P>The Z80 has three interrupt modes, selected by the instructions
+<SAMP>IM 0</SAMP>, <SAMP>IM 1</SAMP> and <SAMP>IM 2</SAMP>.</P>
+
+<P>When an interrupt is due, which is signalled by the ULA taking the
+level-triggered /INT pin on the Z80 low, nothing happens until the
+last M-cycle of the instruction currently being executed. At that
+point, if interrupts are enabled (IFF1 is set) then interrupt
+processing will begin. For this purpose, <SAMP>HALT</SAMP> is
+effectively an infinite series of <SAMP>NOP</SAMP>s, and the repeated
+instructions (<SAMP>LDIR</SAMP>, etc) can be interrupted after each
+execution. Interrupt processing begins by resetting IFF1 and IFF2;
+this has two non-obvious consequences:</P>
+
+<UL>
+<LI>If a <SAMP>LD A,I</SAMP> or <SAMP>LD A,R</SAMP> (which copy IFF2
+to the P/V flag) is interrupted, then the P/V flag is reset, even if
+interrupts were enabled beforehand.
+<LI>If interrupts are disabled when a <SAMP>EI</SAMP> instruction is
+interrupted, then the interrupt will not occur until after the
+instruction following the <SAMP>EI</SAMP>, as when IFF1 is sampled
+during the one and only M-cycle of the <SAMP>EI</SAMP>, it will be
+reset.
+</UL>
+
+<P>The flip flops IFF1 and IFF2 are simultaneously set or reset by the
+<SAMP>EI</SAMP> and <SAMP>DI</SAMP> instructions. IFF1 determines
+whether interrupts are allowed, but its value cannot be read; IFF2 can
+be copied to the P/V flag as mentioned above.</P>
+
+<P>On the 48K Spectrum, the ULA holds the /INT pin low for precisely
+32 T-states. This pin is sampled during the last M-cycle of every
+instruction apart from repeated IX and IY prefixes (DD and FD). If the
+pin goes high again before it is sampled, no interrupt will occur.
+The /INT pin must be held low for at least 23 T-states, as some IX and
+IY instructions take 23 T-states. If the interrupt routine starts
+<SAMP>EI</SAMP>/<SAMP>NOP</SAMP>, this can cause a double interrupt,
+as the /INT pin will be sampled 19 (for <SAMP>IM 2</SAMP>)+4+4=27
+T-states after being first sampled, when it may still be low.</P>
+
+<P>In <SAMP>IM 1</SAMP>, the processor simply executes an
+<SAMP>RST #38</SAMP> instruction if an interrupt is requested. This is
+the mode the Spectrum is initalised to. In this mode, the processor
+takes 13 T states to reach #0038: a 7 T state M1 cycle to acknowledge
+the interrupt and decrement SP, a 3 T state M2 cycle to write the high
+byte of PC onto the stack and decrement SP again, and finally a 3 T
+state M3 cycle to write the low byte onto the stack and to set PC to
+#0038.</P>
+
+<P>The other mode that is commonly used on the Spectrum is
+<SAMP>IM 2</SAMP>. If an interrupt is requested, the processor first
+builds a 16 bit address by combining the I register (as the high byte)
+with whatever the interrupting device places on the data bus.  The
+processor then fetches the 16-bit address at this interrupt table
+entry, and finally calls the subroutine at that address. Rodnay Zaks
+in his book '<I>Programming the Z80</I>' states that only even bytes
+are allowed as low index byte, but that isn't true. The normal
+Spectrum contains no hardware to place a byte on the bus, and the bus
+will therefore always read FF (because the ULA also doesn't read the
+screen if it generates an interrupt), so the resulting index address
+is 256*I+255. However, some not-so-neat hardware devices put things on
+the data bus when they shouldn't, so later programs didn't assume the
+low index byte was FF. These programs contain a 257 byte table of
+equal bytes starting at 256*I, and the interrupt routine is placed at
+an address that is a multiple of 257. A useful but not so much used
+trick on the Spectrum is to make the table contain FF's (or use the
+ROM for this) and put a byte 18 hex, the opcode for <SAMP>JR</SAMP>,
+at FFFF. The first byte of the ROM is a <SAMP>DI</SAMP>, F3 hex, so
+the <SAMP>JR</SAMP> will jump to FFF4, where a long <SAMP>JP</SAMP> to
+the actual interrupt routine is put. In <SAMP>IM 2</SAMP>, it takes 19
+cycles to get to the interrupt routine:</P>
+
+<UL>
+<LI>M1: 7 T states: acknowledge interrupt and decrement SP
+<LI>M2: 3 T states: write high byte and decrement SP
+<LI>M3: 3 T states: write low byte
+<LI>M4: 3 T states: read low byte from the interrupt vector
+<LI>M5: 3 T states: read high byte and jump to interrupt routine
+</UL>
+
+<P>In interrupt mode 0, the processor executes the instruction that
+the interrupting device places on the data bus. On a standard Spectrum
+this will be the byte FF, coincidentally (<TT>:-)</TT>) the opcode for
+<SAMP>RST #38</SAMP>. But for the same reasons as above, this is not
+really reliable. If there is a <SAMP>RST n</SAMP> on the data bus, it
+takes 12 cycles to get to 'n':
+
+<UL>
+<LI>M1: 6 T states: acknowledge interrupt and decrement SP
+<LI>M2: 3 T states: write high byte and decrement SP
+<LI>M3: 3 T states: write low byte and jump to 'n'
+</UL>
+
+<P>With a <SAMP>CALL nnnn</SAMP> on the data bus, it takes 19 cycles:
+
+<UL>
+<LI>M1: 6 T states: acknowledge interrupt
+<LI>M2: 3 T states: read low byte of 'nnnn' from data bus
+<LI>M3: 4 T states: read high byte of 'nnnn' and decrement SP
+<LI>M4: 3 T states: write high byte of PC to the stack and decrement SP
+<LI>M5: 3 T states: write low byte of PC and jump to 'nnnn'.
+</UL>
+
+<P>When the /NMI pin goes low, an internal flip-flop in the Z80 is set
+to note that an NMI is pending; This flip-flop is sampled at the end
+of every instruction, apart from DD/FD and possibly
+<SAMP>EI</SAMP>/<SAMP>DI</SAMP>.</P>
+
+<P>When an NMI occurs, IFF1 is reset, thereby disallowing further
+maskable interrupts, but IFF2 is left unchanged. This enables the NMI
+service routine to check whether the interrupted program had enabled
+or disabled maskable interrupts. The NMI routine should end with a
+<SAMP>RETN</SAMP> instruction, which in addition to the usual
+<SAMP>RET</SAMP> actions copies IFF2 to IFF1, thus restoring the
+interrupt state of the interrupted code.</P>
+
+<P>When an NMI occurs, it takes 11 T states to get to #0066: a 5 T
+state M1 cycle to do an opcode read and decrement SP, a 3 T state M2
+cycle to write the high byte of PC to the stack and decrement SP and
+finally a 3 T state M3 cycle to write the low byte of PC and jump to
+#0066.</P>
+
+<!--web2text-ignore-from-here-->
+<P ALIGN=CENTER>
+[Z80 Tech Info]
+<a href="tech_48.html">[48K Tech Info]</a>
+<a href="tech_128.html">[128K Tech Info]</a>
+<a href="ports.html">[Peripheral Ports]</a>
+</P>
+<!--web2text-ignore-until-here-->
+
+<p align="center"><img src="zxline.png" width="540" height="8" alt="-----"></p>
+
+<p align="center"><font size="-1">This FAQ is maintained by <a href="cabal.html">the Cabal</a>;
+distribution is permitted only under the conditions specified in the
+<a href="index.html#COPYRIGHT">copyright notice</a>.<br> Primary site
+for this FAQ: <a href="http://www.srcf.ucam.org/~pak21/cssfaq/index.html">http://www.srcf.ucam.org/~pak21/cssfaq/index.html</a>.</font>
+
+</body>
+
+</html>

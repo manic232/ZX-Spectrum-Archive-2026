@@ -1,0 +1,106 @@
+BODY {
+	FONT-FAMILY: Arial, Sans-Serif
+}
+H1 {
+	FONT-FAMILY: Arial, Sans-Serif
+}
+H2 {
+	FONT-FAMILY: Arial, Sans-Serif
+}
+H3 {
+	FONT-FAMILY: Arial, Sans-Serif
+}
+UL {
+	FONT-FAMILY: Arial, Sans-Serif
+}
+OL {
+	FONT-FAMILY: Arial, Sans-Serif
+}
+TD {
+	FONT-FAMILY: Arial, Sans-Serif
+}
+TH {
+	FONT-FAMILY: Arial, Sans-Serif
+}
+P {
+	FONT-FAMILY: Arial, Sans-Serif
+}
+.small {
+	FONT-SIZE: 10pt
+}
+P {
+	TEXT-INDENT: 1em
+}
+P.first {
+	TEXT-INDENT: 0em
+}
+P.caption {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; TEXT-INDENT: 0em
+}
+P.caption EM {
+	FONT-WEIGHT: normal; FONT-STYLE: italic
+}
+.reply {
+	FONT-STYLE: italic
+}
+.reply EM {
+	FONT-STYLE: normal
+}
+.reply B {
+	FONT-STYLE: normal
+}
+P.reviewer {
+	FONT-WEIGHT: bold; TEXT-INDENT: 0em
+}
+P.reviewer EM {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+P.reviewer1 {
+	FONT-WEIGHT: bold; TEXT-INDENT: 0em
+}
+P.reviewer1 EM {
+	FONT-WEIGHT: normal; TEXT-INDENT: 0em; FONT-STYLE: italic
+}
+P.reviewer2 {
+	TEXT-INDENT: 0em; FONT-STYLE: italic
+}
+P.reviewer2 EM {
+	TEXT-INDENT: 0em; FONT-STYLE: normal
+}
+P.reviewer3 {
+	TEXT-INDENT: 0em
+}
+TABLE.quote {
+	BORDER-TOP: black thin solid; BORDER-BOTTOM: black thin solid
+}
+TABLE.wquote {
+	BORDER-TOP: white thin solid; BORDER-BOTTOM: white thin solid
+}
+TABLE.linkbar {
+	BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; BORDER-LEFT: black 1px solid; WIDTH: 100%; BORDER-BOTTOM: black 1px solid; cellpadding: 5
+}
+TABLE.navbar {
+	BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; MARGIN-LEFT: auto; BORDER-LEFT: black 1px solid; WIDTH: 60%; MARGIN-RIGHT: auto; BORDER-BOTTOM: black 1px solid; cellpadding: 3
+}
+
+@media Print    
+{
+TABLE.linkbar {
+	DISPLAY: none
+}
+TABLE.navbar {
+	DISPLAY: none
+}
+    }
+DIV.floatrightquote {
+	PADDING-RIGHT: 0.2em; PADDING-LEFT: 0.2em; FLOAT: right; PADDING-BOTTOM: 0.6em; MARGIN: 0px; WIDTH: 30%; PADDING-TOP: 0.2em
+}
+DIV.floatleftquote {
+	PADDING-RIGHT: 0.2em; PADDING-LEFT: 0.2em; FLOAT: left; PADDING-BOTTOM: 0.6em; MARGIN: 0px; WIDTH: 30%; PADDING-TOP: 0.2em
+}
+DIV.floatrightcaption {
+	PADDING-RIGHT: 0.2em; PADDING-LEFT: 0.2em; FLOAT: right; PADDING-BOTTOM: 0.6em; MARGIN: 0px; WIDTH: 30%; PADDING-TOP: 0.2em
+}
+DIV.floatleftcaption {
+	PADDING-RIGHT: 0.2em; PADDING-LEFT: 0.2em; FLOAT: left; PADDING-BOTTOM: 0.6em; MARGIN: 0px; WIDTH: 30%; PADDING-TOP: 0.2em
+}
