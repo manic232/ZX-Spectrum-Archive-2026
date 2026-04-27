@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <title>Image Viewer</title>
+
+    <style type="text/css">
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 99%;
+            background-color: black;
+            text-align: center;
+        }
+        #viewerImage {
+            max-width: 100%;
+            max-height: 100%;
+            border: 0;
+            margin: 0;
+            padding: 0;
+            cursor: pointer; /* Hand cursor on hover */
+        }
+    </style>
+
+    <script type="text/javascript">
+    function loadImage() {
+        var hash = window.location.hash;
+
+        if (hash && hash.length > 1) {
+            var imgPath = hash.substring(1);
+
+            // Decode %20 etc. (works in old + new browsers)
+            try {
+                imgPath = decodeURIComponent(imgPath);
+            } catch (e) {}
+
+            var img = document.getElementById("viewerImage");
+            img.src = imgPath;
+        }
+    }
+
+    function keyHandler(e) {
+        e = e || window.event;
+        var key = e.keyCode || e.which;
+
+        // ESC closes the window/tab
+        if (key == 27) {
+            window.close();
+        }
+    }
+
+    window.onload = function() {
+        loadImage();
+
+        if (document.addEventListener) {
+            document.addEventListener("keydown", keyHandler, false);
+        } else if (document.attachEvent) {
+            document.attachEvent("onkeydown", keyHandler);
+        }
+    };
+    </script>
+</head>
+
+<body>
+    <img id="viewerImage" onclick="history.back();">
+</body>
+</html>

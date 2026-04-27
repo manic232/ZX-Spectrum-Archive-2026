@@ -1,0 +1,158 @@
+/* General styles used in CRASH Online */
+
+/* Set font on lots of elements (NN4 compatibility) */
+BODY, H1, H2, H3, UL, OL, TD, TH, P {font-family : Helvetica, Arial, Sans-Serif;}
+
+* { line-height: 1.3; }
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.small   {font-size: small;}
+.publisher { font-variant: small-caps; }
+
+/* Standard paragraph has an indent on the first line */
+p {text-indent : 1em}
+p.first {text-indent : 0em}
+
+p.caption {font-size: small; font-weight: bold; text-indent: 0em}
+p.caption EM {font-weight: normal; font-style: italic; }
+
+div.screenshot p.caption { padding: 5px; margin-right: 5px; margin-right: 5px; }
+
+.reply     {font-style: italic}
+.reply EM  {font-style: normal}
+.reply B   {font-style: normal}
+
+.category { font-weight: bold;  padding-right: 3em }
+.overall { font-weight: bold; }
+
+/* Reviews */
+section { padding-bottom: 1em} 
+
+#smashlogo { text-align: center; margin-left: auto; margin-right: auto; }
+
+#navbar { overflow: hidden ; padding: 4px; border-style: solid; border-width: 1px ; border-radius: 1em; }
+#navtitle { text-align: center; font-weight: bold; font-size: larger; padding: 4px }
+#navprev { width: 48%; float: left; text-align: left  ;  padding: 1% }
+#navnext { width: 48%; float: right; text-align: right ; padding: 1% }
+
+.screenshot { width: 266px; padding: 5px; }
+.screenshot img { padding: 5px 0px; }
+.screenshot { margin-left: auto; margin-right: auto; }
+.screenshot.sam { width: 522px; max-width: 98% }
+.screenshot.sam img { max-width: 96%; height: auto }
+
+.grid2 {clear: both}
+
+@media screen and (min-width:700px) {
+.grid {padding-left:286px;}
+.grid > section {float:right; width:100%;}
+.grid > aside {float:left; width:286px; margin-left:-286px;}
+
+.grid2 {padding-right:286px;}
+.grid2 > section {float:left; width:100%;}
+.grid2 > aside {float:right; width:286px; margin-right:-286px;}
+
+#navbar { margin-left: auto; margin-right: auto; width:50%; }
+ #smashlogo { float: right; margin-left: 1em }
+
+ .left { clear: left; float: left; margin-right: 1em }
+ .right { clear: right; float: right; margin-left: 1em }
+
+ .picture.large.left { clear: left; float: left; margin-right: 1em }
+ .picture.large.right { clear: right; float: right; margin-left: 1em }
+}
+
+@media screen and (min-width:900px) {
+.grid2.widesidebar {padding-right:500px;}
+.grid2.widesidebar > section {float:left; width:100%;}
+.grid2.widesidebar > aside {float:right; width:500px; margin-right:-500px;}
+}
+
+.picture { margin-left: auto; margin-right: auto; padding: 1em; }
+.picture.tiny { width: 210px; max-width: 100%; max-width: calc(100% - 2em) }
+.picture.small { width: 270px; max-width: 96%; max-width: calc(100% - 2em) }
+.picture.medium { width: 400px; max-width: 96%; max-width: calc(100% - 2em) }
+.picture.large { width: 520px; max-width: 96%; max-width: calc(100% - 2em) }
+.picture.xlarge { width: 620px; max-width: 96%; max-width: calc(100% - 2em) }
+.picture img { max-width: 96% ; height: auto; }
+
+@media screen and (min-width: 450px) {
+  .picture.small.left { float : left; margin-right: 1em }
+  .picture.small.right { float : right; margin-left: 1em }
+}
+@media screen and (min-width: 600px) {
+  .picture.medium.left { float : left; margin-right: 1em }
+  .picture.medium.right { float : right; margin-left: 1em }
+}
+
+main.news, main.news article { display: block; clear: both }
+main.news { padding-top: 1em }
+main.news h2 { margin-top: 0.2em }
+main.news article { break-inside: avoid-column;
+	-webkit-column-break-inside: avoid;
+	-moz-column-break-inside: avoid;
+	-o-column-break-inside: avoid;
+	page-break-inside: avoid; padding: 0.3em 0.5em; margin-bottom: 1em }
+@media screen and (min-width: 800px) {
+   main.news {-moz-column-count:2; -webkit-column-count:2; column-count:2; }
+}
+
+/* New plan: div class=reviewerX */
+div.reviewer    {font-weight : bold; }
+div.reviewer EM {font-weight : normal; font-style : normal}
+
+div.reviewerA    {font-weight : bold}
+div.reviewerA EM {font-weight : normal; font-style : italic}
+div.reviewerB    {font-style: italic}
+div.reviewerB EM {font-style: normal}
+/* reviewerC uses default styles */
+
+div.reviewer p.first::before { content:"\2022\00a0" }
+div.reviewerA p.first::before { content:"\2022\00a0" }
+div.reviewerB p.first::before { content:"\2022\00a0" }
+div.reviewerC p.first::before { content:"\2022\00a0" }
+
+/* Navigation bar (top of page) and link bar (bottom of reviews etc) */
+TABLE#navbar  {
+    border-style: solid;
+    border-width: 1px;
+    -webkit-border-radius: 1em;
+    -moz-border-radius: 1em;
+    border-radius: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 4px;
+    width: 60%;
+}
+#xrefs {
+    padding: 5px;
+    margin-top: 1em;
+    border-style: solid;
+    border-width: 1px;
+    -webkit-border-radius: 1em;
+    -moz-border-radius: 1em;
+    border-radius: 1em;
+    clear: both;
+}
+@media print {
+  #xrefs   {display: none}
+  #navbar  {display: none}
+}
+
+@media amzn-kf8, amzn-mobi {
+    #navbar  { display: none; }
+    #xrefs  { display: none; }
+}
+@media amzn-mobi {
+    .screenshot { text-align: center !important }
+    .reviewer { margin-bottom: 1em; }
+    .reviewerA { margin-bottom: 1em; }
+    .reviewerB { margin-bottom: 1em; }
+    .reviewerC { margin-bottom: 1em; }
+}
+
