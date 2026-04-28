@@ -9,3 +9,5 @@ The site has had a ton of updates since 2001, now every game page links to a CRA
 Much of the content has been nicked from other sources like CRASH Online, but the main section text is by my own hand.
 
 This web site will have no interest to anyone but me, It's just here for my own backup purposes and I don't expect anyone will look at it, but if you do, the URL is https://manic232.github.io/ZX-Spectrum-Archive-2026/
+
+Because of the age of this, it is best viewed with older browsers, I find RetroZilla displayes it the best. It will display on modern browsers, but there are formatting glitches.
