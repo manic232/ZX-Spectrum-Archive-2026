@@ -16,9 +16,9 @@ Much of the material on this site was written by me, with additional information
 
 For the most authentic and consistent experience, I recommend viewing the site with RetroZilla. It runs flawlessly on modern versions of Windows as well as Windows 98, and the site looks exactly as intended when using it. On Windows 98 you can still use IE5 (IE6 works too, though with a few minor issues), but RetroZilla remains the best choice for consistency across operating systems.
 
-This web site will have no interest to anyone but me, It's just here for my own backup purposes and I don't expect anyone will look at it, but if you do, the URL is https://manic232.github.io/ZX-Spectrum-Archive-2026/
+This web site will have no interest to anyone but me, It's just here for my own backup purposes and I don't expect anyone will look at it, but the URL is https://manic232.github.io/ZX-Spectrum-Archive-2026/
 
 
 Note:
 
-There are some character weirdness going on in many areas of the web site.  This is because these old pages are encoded as Windows-1252 (ANSI), but GitHub Pages serves everything as UTF-8, so there is a mis-match there. It's an easy fix though, In RetroZilla, all you do is click View/Character Encoding and change to Western (Windows 12-52).
+There is some character weirdness going on in many areas of the web site.  This is because these old pages are encoded as Windows-1252 (ANSI), but GitHub Pages serves everything as UTF-8, so there is a mis-match there. It's an easy fix though, In RetroZilla, all you do is click View/Character Encoding and change to Western (Windows-1252).
