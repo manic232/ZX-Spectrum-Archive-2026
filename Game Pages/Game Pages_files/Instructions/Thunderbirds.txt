@@ -1,0 +1,47 @@
+Thunderbirds (c) J.Cain & K. Moughtin 1985 Firebird software
+
+The game
+Transcription of confidential brief from Mr. Tracey to Scott and Virgil...
+Well boys, it looks as if you'll need both Thunderbird One and Two for this 
+mission. John tells me that the Egyptologists are trapped deep within an 
+ancient maze tomb. You'll have to work together to move huge stone blocks 
+that are barring the way. I expect you both to use your skills of logic and 
+navigation to get those trapped men out as quickly as possible - the oxygen 
+is getting thinner by the minute. Apparently the previous group left fuel 
+dumps within the tomb together with some priceless treasure. You'll need the 
+fuel and if you can get the treasure then so much the better. Before you 
+take off decide what equipment you need. John hasn't given me that 
+information so you'll have to gamble on taking the right stuff. I'm counting 
+on you boys....
+
+Loading
+1. Connect the EAR socket of your Spectrum to the EAR socket of your tape 
+recorder.
+2. Place the tape in your tape recorder and rewind to the beginning
+3. Type LOAD"" and press ENTER on your Spectrum
+4. Press PLAY on your tape recorder.
+
+Playing the game
+The program automatically selects either keyboard or Kempston joystick 
+inputs. Initially control keys are
+
+7=UP		6=DOWN
+5=LEFT		8=RIGHT
+A=CHANGE CONTROL OF CRAFT FROM ONE TO THE OTHER
+R=REDEFINE KEYS
+M=MUSIC ON/OFF
+P=PAUSE GAME
+S=SAVE GAME TO TAPE
+L=LOAD PREVIOUSLY SAVED GAME
+
+Thunderbird 2 has a maximum payload of 40 tonnes.
+You cannot occupy the same space with both craft. Blue blocks can only be 
+moved by Thunderbird 1. Red blocks can be moved by both Thunderbirds. Green 
+blocks can only be moved by Thunderbird 2. Each load of treasure collected 
+increases your score by 100 points.
+Fuel pickups give you an extra two minutes flying time each.
+
+Note 128k users must select 48k mode before loading this game otherwise it 
+won't work.
+
+Typed by Simon Rooney 2003

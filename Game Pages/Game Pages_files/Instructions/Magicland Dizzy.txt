@@ -1,0 +1,75 @@
+Magicland Dizzy instructions.
+1989 Code Masters Ltd.
+
+Converted to text by Gerard Sweeney (www.the-tipshop.co.uk) for World
+of Spectrum (www.worldofspectrum.org), 04/02/05.
+
+I do NOT give permission for this text reproduction to be used/stored
+on "commercial" or profit-making medium such as CD-ROMs. Frankly,
+we in the Speccy community are all sick of leechers making money out
+of our hard work.
+
+
+---------------------------------------------------------
+
+CONTROLS
+Press FIRE to start the game.
+
+KEYS	JOYSTICK	ACTION
+Z	LEFT		WALK LEFT
+X	RIGHT		WALK RIGHT
+SPACE	UP		JUMP
+ENTER	FIRE		PICK UP / DROP /
+			USE
+Q			QUIT
+
+Press SYMBOL SHIFT to PAUSE
+
+Use Z, X or JOYSTICK to select ITEM, in
+object menu to use or drop.
+
+STORY SO FAR ...
+
+The Evil Wizard ZAKS' is back! Like all Evil
+Wizards he had made certain arrangements
+against his premature demise... He has
+exacted a terrible revenge by transporting
+the YOLKFOLK to a strange Fairy-Tale
+World and casting evil spells on them to
+imprison them there forever.
+
+Dizzy must free the SIX Yolkfolk by breaking
+the spells and then destroy ZAKS once and
+for all before he can return home.
+
+
+THE YOLKFOLK
+
+*	DYLAN: Dylan has been tangled up in a
+	bush, rooted to the spot!
+
+* 	DENZIL: Denzil has been frozen inside a
+	block of ice - ZAKS latest ornament for
+	his ICE PALACE!
+
+*	DOZY: Dozy is lying on an Alter in Sleepy
+	Hollow - in a deep magical sleep from
+	which he may never awake ...
+
+*	DORA: Dora is in the Haunted Swamp -
+	turned into a Frog!
+
+*	DAISY: Daisy has been Super-Enlarged
+	and imprisoned in ZAKS' Oubliette which
+	she is now too big to escape from!
+
+*	GRAND-DIZZY: Grand-Dizzy is trapped
+	in a strange world on the other side of
+	ZAKS' Magic Mirror.
+
+
+
+
+
+LOADING: 128k users press ENTER
+48k users type LOAD "" press ENTER

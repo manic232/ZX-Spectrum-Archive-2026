@@ -1,0 +1,252 @@
+THE SPECTRUM GAME DATABASE
+
+REBELSTAR
+
+PUBLISHER
+Firebird
+
+AUTHOR
+Julian Gollop
+
+YEAR
+1986
+
+DESCRIPTION
+Rebelstar is a 1 or 2 player futuristic strategic wargame.
+
+CONTROLS
+
+Q W E
+A   D  These keys constitute the 8 directions, for example
+Z X C    Q is up-left.
+
+Only certain keys work at certain times depending on which menu
+you are in.  All of the following keys are also given on-screen.
+
+N - Next Unit
+S - Select
+K - Cancel
+O - Change object (then select a number)
+F - Fire (then select the type of shot)
+R - Reload
+I - Information
+M - Drop object
+0 - End Turn
+
+
+INSTRUCTIONS
+Depending on which snapshot you have, it will either be a one or
+two player game.  If it is a one player, the human player always
+controls the Raiders.
+
+The aim of the game for the Raiders is to break into Moonbase
+Delta and destroy the core, located at the middle top of the
+base.  The aim of the Operatives is to kill all the Raiders. 
+Once one of these conditions is fulfilled, the game will end as
+soon as the current turn finishes.
+
+Both sides take turns to move their pieces.  At the start of each
+turn, all the units on that side receive a certain number of
+Action Points, which they then spend during the turn to complete
+certain actions.  For example, moving horizontally costs 2 points
+(unless it is over difficult terrain in which case it will cost
+more).  Everything costs a certain number of points, and once all
+these are spent that unit can do no more for that turn.
+
+To move through the units under your control, you can either
+press N to go to the next unit, or simply move the cursor over
+the top of them.  Until you actually select a unit, you can move
+freely around the map.  Press S to select a unit.
+
+To move a unit, simply press the direction that you want them to
+walk in.  Other keys represent other actions.  To attack another
+unit, simply walk your own unit into them.
+
+When shooting, the map will change to only show scenery that will
+get in the way of the bullets.  You must move the cursor over the
+target, and then select the type of shot.  Each has it's own cost
+and chance of success.  You will then see the bullets shoot
+across the map, and if you are luck, hit the target.
+
+Each of the units has various stats which will determine how good
+they are at certain things.  The basic settings for a unit can
+be seen on the right hand side of the screen as soon as the unit
+is selected, but for a more detailed view, select info.
+
+
+TIP/CHEATS
+- The Raiders will receive re-inforcements during the game if
+they manage to destroy all of the laser defences.  
+- Don't forget that when a unit has died, his weapons can still
+be used.
+- There are many objects lying around the base that have various
+uses.  There are coffee tokens, which can be used in the coffee
+machines, and even a lawnmower.
+- Only the Rebel robots are able to destroy the airlocks to enter
+the base.  They are also required to destroy the core, although
+the Photon does also have a small chance of destroying it.
+
+
+SEQUELS/PREQUELS
+Rebelstar was the follow up to Rebelstar Raiders, a BASIC
+program.  In addition, it was followed by Rebelstar 2 and Laser
+Squad.  It could also be though of as the precursor to the
+PC/Amiga game UFO, due to the strong similarities.
+
+
+INLAY CARD TEXT
+
+                                  "REBELSTAR"
+                            By Julian Gollop (1986)
+
+
+Instructions taken from "The Rebelstar Collection" Players'
+Manual (1991) by Julian Gollop.
+
+COPYRIGHT
+
+Julian Gollop has kindly agreed to this game being made Public
+Domain. Anyone is freely allowed to duplicate and distribute this
+game for use in Spectrum emulators. It is requested that the
+identification of Julian Gollop as the author of this software
+is not removed and the code not altered.
+
+INTRODUCTION
+
+The Rebelstar Raiders have discovered the secret location of
+ISAAC, the imperial computer intelligence responsible for
+breaking the Rebels secret codes. The computer is concealed in
+a moonbase disguised as a mining colony.  Moonbase Delta is well
+defended, but the ISAAC computer must be destroyed at all costs.
+
+PLAYING THE GAME
+
+There are two sides in Rebelstar. The Raiders are attacking
+Moonbase Delta and the Operatives are defending. In the one
+player game you control the Raiders and the computer controls the
+Operatives. Each side consists of a certain number of soldiers
+and droids, collectively known as units. Each unit is allocated
+a number of 'action points' each turn, which are expended by
+performing all actions, such as movement or firing.  The Raiders
+have the first turn. They must break into the base and destroy
+ISAAC. The operatives must defend ISAAC.  There are three basic
+control modes in Rebelstar; Cursor mode, Select mode and
+Fire mode.
+
+DIRECTION KEYS
+
+Q   W   E       each key corresponds to the direction
+A       D       you want the unit to move in
+Z   X   C
+
+CURSOR MODE
+
+CURSOR MOVEMENT: Use the direction keys to move the cursor around
+the map. The map will scroll when you move the cursor to the edge
+of the map window.
+
+S - Select a unit under the cursor for movement and other
+actions. The computer will change to select mode, shown by a
+flashing unit.
+0(zero) - End turn. Control is passed to the other player, or the
+computer in the one player game.
+I - Display information on a unit under the cursor
+N - Go to next unit
+
+SELECT MODE
+
+In this mode the direction keys are used to move the selected
+unit. Other controls are as follows:
+
+F - Enter fire mode. This is only possible if the unit is
+carrying a ranged combat weapon
+M - Drop the object in use
+P - Pick up an object
+O - Change the object in use. Units can carry more than one
+object, but only one object can be 'in use' at any one time
+L - Load weapon. The unit must have a weapon in use and be
+carrying the correct ammunition
+
+FIRE MODE
+
+When you select fire mode the map will change to display only
+things which block the line of fire. Units will change to a round
+blob.  The aiming cursor is moved using the direction keys.  When
+you fire a weapon there are three different types of shot you can
+make:
+
+1 - Fire an aimed shot. Accurate, but consumes many action points
+2 - Fire a snap shot. Less accurate than an aimed shot but much
+quicker
+U - Set opportunity fire. This is a special form of fire which
+is not taken immediately, but is 'activated' during the opponents
+turn.  The shot will be fired if an enemy unit moves in the line
+of fire you have set between your unit and the aiming cursor.
+
+The following ammunition is required for each weapon:
+
+          Laser Gun                     Laser Pack-1
+          Laser Pistol                  Laser Pack-2
+          Photon                        Laser Pack-3
+          Pistol                        Pistol Clip
+          Auto-Rifle                    Rifle Clip
+
+DAMAGE, DESTRUCTION AND WOUNDING
+
+When a shot hits a unit it may cause damage, wounding or death.
+Each hit will inflict a random number of damage points depending
+on the power of the weapon being used and the distance the weapon
+is fired. Damaged units have their action point allowance
+reduced.
+
+USING OBJECTS
+
+Certain objects have special uses in the game. When you want to
+use an object on something you must have the object in use and
+then move into the unit or terrain. The yellow security doors can
+be open and shut with keys. Medi-probes can be used to heal
+wounded human, and droid-probes can be used to repair droids. The
+droid key is needed to activate droids.
+
+A GUIDE TO PLAYING THE GAME
+
+Only the combat droids with their blast torches can destroy the
+airlock doors and security doors. However a blast torch has a
+very short range and low ammunition capacity. There are three
+laser defense computers in the complex.  If these are destroyed
+by the Raiders then Raider reinforcements will arrive a few turns
+later.
+
+
+SCORES RECEIVED
+Sinclair User - 8/10
+
+URL
+There are two versions of Rebelstar; for 1 and 2 players.
+
+GENERAL FACTS
+Julian Gollop is famous for thinking up strange names for
+characters in his games.  With names like Stike Vomit, Leon
+Trotsky and Leeder Krenon, we have to ask ourselves; is this man
+sane?
+
+There is a also a missing droid in Rebelstar!  There isn't a name
+in there so it must be a Graphic Julian did but never put in the
+game. So I thought I would alter this, here are the pokes that
+changes the graphic of the Sentry Droid to the new droid.  You
+can enter these pokes via your Spectrum emulator,multiface or you
+can merge the basic loader and place the following program.
+
+10 For f=61519 to 61550:Read a:poke f,a:next f 
+20 Data 7,207,121,205,31,23,21,55 
+30 Data 224,243,158,179,248,248,248,252 
+40 Data 37,39,109,77,73,255,137,255 
+50 Data 252,124,254,126,222,255,223,255 
+60 Poke 44292,71:Poke 44293,85:Poke 44294,78:Poke 44295,129 
+70 Poke 44358,71:Poke 44359,85:Poke 44360,65:Poke 44361,82 
+80 Poke 44362,68:Poke 44363,129 
+
+
+NOTES
+Julian Gollop, as well as the sequels to Rebelstar, has also
+written Nebula.

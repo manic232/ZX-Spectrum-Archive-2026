@@ -1,0 +1,169 @@
+*********
+
+The Project 64 etext of the Navy Seals manual.  Converted to etext
+by "Frank" Jeno E. Kontros <jeno@kontr.uzhgorod.ua>, the Non Stop
+Cracker.
+
+NAVYSE10.TXT, September 1996, etext #80.
+
+Readapted for the Spectrum in 2001 AD by Alessandro Grussu
+http://www.ag-online.da.ru
+
+*********
+
+NAVY SEALS  (c) 1990 ORION PICTURES CORP. ALL RIGHTS RESERVED.
+
+AMERICA'S TOP SECRET WEAPON
+Super-charged  super-fighters  who  risk  all  defending  America
+against   the   world's   deadliest  forces.  A  combat  unit  of
+indomitable  strength and courage.  A rescue team of unparalleled
+skill and daring.
+
+
+SCENARIO
+
+The Gulf of Oman -- and a secret location welcomes the arrival of
+the  elite  SEAL team.  Their objective?  To rescue the crew of a
+recently shot down helicopter.
+
+Beirut  --  a  dangerous  stockpile of missiles must be destroyed
+before  terrorists have a chance to use them.  Only the SEAL team
+have the capability to complete the mission.
+
+You control the team.  You control the action.  You hold the fate
+of innocent lives in your hands.
+
+
+CONTROLS
+
+This  is  a  one  player  game  only  for  use  with the keyboard
+or Sinclair/Cursor/Kempston joysticks.
+The keyboard is redefinable.
+
+PRESET KEYS
+Q   -   UP
+A   -   DOWN
+O   -   LEFT
+P   -   RIGHT
+SPACE - FIRE
+H  -   PAUSE
+
+
+JOYSTICK
+
+  JUMP UP/GRAB PLATFORM/CLIMB LADDER
+
+    JUMP LEFT     ^     JUMP RIGHT
+               \  |  /
+                 \|/
+  MOVE LEFT  <----+---->  MOVE RIGHT
+                  |
+                  |
+                  |
+
+        CROUCH/DROP DOWN FROM
+      PLATFORM/CLIMB DOWN LADDER
+
+MOVING  LEFT/RIGHT/UP/DOWN  AFTER  GRABBING A PLATFORM SWINGS YOU
+IN THE APPROPRIATE DIRECTION.
+
+NOTE: After you have swung upwards you cannot swing down again.
+
+
+GAMEPLAY
+
+Level 1: The Harbour
+You  come ashore at the terrorist base.  Plant detonators at each
+Stinger   missile  avoiding  guards  or  eliminating  them  where
+necessary.
+In  some  levels,  crates can be shot to reveal extra weapons and
+gain bonus points.
+
+Level 2: The Communications Tower
+After  the  tower  has  been  secured all terrorist communication
+links  will  be  severed  and  enemy  reinforcements  will not be
+summoned.
+
+Level 3: The Barracks
+The SEALS must storm the barracks and remove any resistance.
+
+Level 4: Rescue the Hostage
+Plant  detonators  on all Stinger missiles and then make your way
+to the prison  where the pilot is being held,  and then make your
+escape.
+
+Level 5: Escape from Port Virginia
+Escape from Port Virginia complex  and destroy the final cache of
+Stinger missiles.
+
+Mission Two...
+
+THE STREETS OF BEIRUT
+
+Make  your  way  through the war-torn streets of Beirut where you
+will  encounter  extreme  resistance  from the murderous Militia.
+Your  ultimate  goal is to rendezvous with a submarine which will
+take you to safety.
+
+
+STATUS AND SCORING
+
+The status panel shows from left to right:
+
+Character  in  play,  energy,  current  weapon,  number  of shots
+remaining,  number  of  bombs  detonated,  stinger missiles to be
+detonated, score and time remaining.
+
+Points awarded are as follows:-
+
+Shooting Terrorist       75 points
+Detonating Bomb         250 points
+Extra Weapon             50 points
+
+A  bonus  will  be  awarded for time remaining and SEALS alive on
+each level.
+
+50,000 points are awarded on completion of the game.
+
+
+HINTS AND TIPS
+
+1. Practice  all  of  the available moves  until you can use them
+   instinctively.
+2. Learn the map layouts to reduce level completion time.
+3. Memorize where the terrorists appear.
+4. Try to find the most suitable routes for each level.
+5. Learn the various capabilities of each terrorist.
+
+
+NAVY SEALS
+
+Its program code and graphic  representation are the copyright of
+Ocean Software Limited and may not be reproduced,  stored,  hired
+or   broadcast   in  any  form  whatsoever  without  the  written
+permission   of  Ocean  Software  Limited.  All  rights  reserved
+worldwide.
+
+CREDITS
+
+(c) Orion Pictures Corp. All Rights Reserved.
+Programming by John Meegan
+Graphics by Stephen Thomson
+Music and Sound Effects by Matthew Cannon
+Produced by D.C. Ward
+(c) 1990 OCEAN SOFTWARE LTD.
+
+/-----------\
+| Childline |  Childline   is  the  free  national  helpline  for
+| /-------\ |  children and young people in trouble on danger. It
+| \ /+-+\ / |  provides a confidential  counselling  service  for
+|  / \_/ \  |  any  child with any problem, 24 hours a day, every
+|  \_____/  |  day of the year.  Childline listens,  comforts and
+| 0800 1111 |  protects.
+\-----------/
+
+*********
+
+End of the Project 64 etext of the Navy Seals manual.
+
+*********

@@ -1,0 +1,127 @@
+Bionic Commando 
+Copyright/Publisher: Capcom/Go!, Release Year: 1988,
+Categorie: Platform Multi Scroll, Number Of Players: 1 or 2
+
+SCENARIO
+It may have been ten years, but the oppression and devastation 
+continues. The alien forces that alid waste to our beautiful 
+world have all but decimated our civilization. Now, for the 
+first time in so many years comes our chance for glory again. 
+The Bionic Commandos. 
+This elite fighting force is each equipped with a bionic arm 
+with which they can climb and swing from platform to platform 
+by extending their arm and grabbing and suitable object above 
+them. The arm is also useful for catching provisions and extra 
+weapons parachuted into the combat zone. As a weapon the 
+bionic arm delivers an awesome blow to any enemy soldiers he 
+may come to grips with. After battling his way through the 
+alien base complex, the commando must destroy the launch 
+computer, thus preventing the aliens from using their doomsday 
+weapon. 
+
+JOYSTICK COMMANDS
+Use Kempston, Cursor or Sinclair joysticks.
+
+Without firebutton depressed:
+Joystick left - Walk left 
+Joystick right - Walk right 
+Joystick back - Crouch 
+Joystick forward - No effect 
+To attach your bionic arm press fire. 
+With firebutton depressed:
+Joystick left - Fire left 
+Joystick right - Fire right 
+Joystick back - Crouch and fire 
+Joystick forward - Extend bionic arm 
+With bionic arm attached:
+Joystick left - Swing left 
+Joystick right - Swing right 
+Joystick back - Detach arm 
+Joystick forward - Climp up arm 
+
+Keyboard Commands:
+5 - left
+8 - right
+7 - up
+6 - down
+0 - fire
+Keyboard controls are redefinable.
+
+CAPS + SPACE - Toggle pause mode on/off. 
+SPACE (When in pause mode) - Quit current game.
+
+GAME PLAY
+Your bionic commando is equipped not only with a bionic arm, 
+but also with a standard double shot gun. As the game 
+proceeds, extra weaponry will be parachuted to you. 
+These extras include:
+- A rapid fire gun 
+- A grenade launcher 
+- A plasma bolt blaster 
+- A bionic arm turbo charger for extra speed using your bionic 
+arm. 
+Once you lose a life, all extras are gone though. 
+
+STAGE 1: THE DYING FOREST
+This is the only accessible route to the alien base complex. 
+However, the aliens know that, too! As you approach the 
+complex, alien guards armed with rifles and grenades will bar 
+your way. 
+Use your bionic arm to climb the trees, but beware, the larger 
+soldiers are equipped with a rope and grappling hook with 
+which they can climb trees and chase you. 
+Also the trees are inhabited, on the lower branches by a 
+species of killer bees and on the higher branches by lurk 
+vicious flying creatures. These must either be destroyed or 
+avoided at all costs. 
+
+STAGE 2: THE CASTLE
+Once through the forest, your next task is to neutralise the 
+castle under which lies the enemy base complex. Battle you way 
+across the drawbridge doing your best to blast or avoid 
+cannons and gun turrets that spew out wave of deadly shells 
+and missiles. 
+Electric wires that stretch across your path must be 
+destroyed, as touching them is instant electrocution. If that 
+was not bad enough, once across the drawbridge, to reach the 
+top of the castle, you must destroy the explosive ladened 
+kamikaze soldiers. 
+Who will do their best to blow you up, while above you the 
+aliens have placed their toughest soldiers that will try to 
+squash you flat by hurling large objects from above as you 
+pass by. 
+
+STAGE 3: INFILTRATION
+Gaining access to the underground complex will be no easy 
+feat. With their first two lines of defence destroyed, the 
+aliens have sealed off the complex to all but the most 
+frenzied attack. 
+However, there is one slim chance of entry, the sewer system. 
+Infested by lethal creatures, little of which is known, fight 
+your way through blasting not only the creatures, but also 
+massive robots which are, though only partly operational, 
+still extremely dangerous. 
+To add to the battle, evil machines bounce towards you, which, 
+if hit, catapult its driver clear allowing him to fight on. 
+
+STAGE 4: THE CONTROL TOWER
+Now inside, you must reach the missile with all possible 
+haste. To reach it, you must pass through the control room. 
+However, your entry is blocked by a set of immovable doors. 
+These are easily dealt with by blasting the locking mechanism. 
+As you battle to reach the top of the room, blast the soldiers 
+that bar your way, destroy the helicopters that buzz around 
+above you dropping bombs, while avoiding the indestructable 
+stomp machines that will flatten you ifthey have the chance. 
+
+STAGE 5: THE SILO
+The final and most difficult level of Bionic Commando. Smash 
+through the remaining defences that have a few lethal 
+surprises in store. Once at the top of the silo, destroy the 
+alien launch computer, thus stopping the launch of the 
+doomsday missile and completing your mission...possibly! 
+
+==========================================================
+Taken from Project 64 http://project64.c64.org
+Readapted for the Spectrum in 2001 AD by Alessandro Grussu
+http://www.ag-online.da.ru

@@ -1,0 +1,184 @@
+Beach Head (c) 1984 US Gold Ltd 
+-------------------------------
+
+1. USING THE MENU
+
+The menu screen displays four status boxes: one for the present
+number of players; one for the sill level; one displaying
+whether keyboard or joystick is selected; and finally, the
+largest box which displays the current keyboard selection for
+movement, fire, ect. Further to this list is a list of keys to
+press which perform various functions:
+
+"S" to start;
+"I" to go to the instructions pages;
+"P" to change the number of players
+    (this is a toggle putting 1 to 2 or 2 to 1);
+"L" to change skill level 
+    (this loops through "easy" and "hard");
+"K" to define the game keys - you are asked to press your key
+    selects with the option to reselect should make an error;
+"J" to make a joystick selection
+    (keep pressing to loop through selections);
+
+If the machine is loaded and left unattended the game will go
+into self-demonstration.
+
+When you press "S" to start the game you are asked to input
+your name, which can be up to eight character. This input
+routine has an erase facility using the normal Spectrum
+"Delete" keys. When you are finished inputing your name press
+"Enter" to start the game itself. From now on the program will
+refer to each player by name - a unique feature of this game.
+
+
+2. THE MAP SCREEN
+
+Guide your fleet around the aerial reconnaissance screen by
+using left, right, up and down. The hidden Passage is shown by
+the flashing square in the top left. Kuhn-Lin base is shown by
+the flashing square in the bottom left and the enemy fleet by
+the four dots in square formation.
+
+
+3. THE HIDDEN PASSAGE
+
+Use left and right to rotate direction. To accelerate use up
+and to decelerate use down. There are five speeds from Full
+Ahead to Engines Stop. Avoid all rocks, torpedoes and mines.
+When a ship has passed through safely it is displayed in blue
+on the status lines.
+
+Skill level control the speed of the torpedoes - Skill level
+"easy" is slow, skill level "hard" is fast.
+
+
+4. GENERAL QUARTERS - FIGHTERS AT 12 O'CLOCK
+
+Planes will take off from either end of the aircraft carrier
+and will come towards you. When they are close enough they will
+launch bombs at you then swoop off. Use left and right to move
+your gun turrets left and right. Use up and down to alter the
+elevation of your gun up and down. Press fire to release a
+burst of anti-aircraft fire.
+
+For each hit you recieve the damage rating will increase by
+one. When damage rating reaches a certain level you will lose a
+ship - the figure at which this occurs id dependant on the
+skill level.
+
+Ten planes must be shot down to proceed to the next phase if
+you have gone through the hidden passage or thirty planes if
+you attacked the fleet head on.
+
+
+5. BATTLE STATIONS
+
+Move and fire as instructed in GENERAL QUARTERS. Use the Degree
+of Elevation to estimate the distance (a 1 degree change in
+elevation represents 200 metres distance).
+
+Enemy ships are more accurate if you have attacked the fleet
+head-on. For each hit taken you lose a ship.
+
+
+6. BEACH HEAD
+
+Use up and down to move up and down. Avoid all the obstacles.
+Completion of this phase promotes you to the Final Battle.
+
+
+7. FINAL BATTLE
+
+Move turret and fire as in BATTLE STATIONS. Shoot each white
+target one after another. Once all ten targets are shot the big
+gun will explode and the enemy will surrender.
+
+
+SCORING
+
+Even if you destroy the fortress. Beach-head allows you to
+compete for high scores. Game scoring is as follows:
+
+    Ships navigated safely
+    through passage             3,000/ea
+    Airplanes                     400/ea
+    Reconnaissance Plane        2,000/ea
+    Carrier                    10,000
+    Other Ships                 2,000/ea 
+    Enemy Tank                  1,000/ea
+    Machine Gun                   400/ea
+    Bunkers                       800/ea
+    Towers                        600/ea
+    Targets                     2,000/ea
+    Kuhn-Lin Destroyed         20,000
+    Extra Ships (over 4)        2,000/ea
+
+
+WINNING STRATEGY TIPS
+
+1.  Learn to navigate the secret passage. It is difficult to
+    get your ships through initially, but if you take the time
+    to learn to get your ships through it, you score will be
+    higher in the overall game.
+
+2.  When the enemy fighters are approaching aim for the body of
+    the airplane and do not use rapid fire until you zero in on
+    the plane.
+
+3.  In the  artillery sequence, make small changes in elevation
+    by gently tapping the joystick.
+
+4.  When your tanks start down the beach, the enemy defence
+    installations will usually lie in the only clear path to
+    the fortress. You must anticipate where they will be to get
+    a clear shot at them. When enemy tanks attack you they will
+    try to stay in front of you. In order for your shell to hit
+    them, you must stay in their line of fire until your shell
+    is about to hit their tank before moving out of the way.
+
+5.  Attacking the Fortress - If there are only a few targets
+    left on Kuhn-Lin and you have a number of tanks left, you
+    can increase your point total by using all your tanks
+    before destroying the fortress. Be careful, because each
+    time a tank succeeds in reaching the fortress the following
+    tanks have a much more difficult time.
+
+---------------------------------------------------------------
+
+                            U.S. GOLD
+                      All American Software
+
+
+                    Manufactured in the U.K.
+                      Under Licence from
+                Access Software by U.S.Gold Ltd.
+                 Programmed for the Spectrum by
+                        OCEAN Software.
+
+
+                    U.S. Gold Ltd., Unit 10
+                 The Parkway Industrial Centre
+               Heneage Street, Birmingham, B7 4LY
+
+---------------------------------------------------------------
+Complete Instructions typed in by Paul Thompson, April 2003
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,148 @@
+                       ===========Robocop(TM)===========
+
+Take on the role of avenging angel as you mete out rough justice to the
+perpetrators of evil and lawlessness. Some of the most exciting scenes ever 
+to fill a computer screen confront you. The future is here and now when you 
+take up this challenge - PART MAN - PART MACHINE - ALL COP 
+Robocop
+
+TM & © Orion Pictures Corp.
+
+
+Patrolman Murphy was the 32nd cop to be gunned down in Detroit since 
+Security Concepts Inc. took control of the police department. It was the
+opportunity OCP had been waiting for...They took what was left of Murphy
+and turned him into a deadly killing machine with a reinforced titanium 
+body, an erased memory and a programmed mind. However they could not
+completely wipe out the memory of his horrific ordeal and he sets out to
+track down the gang responsible. In this game you are Robocop! You are the 
+future of law enforcement.
+
+
+SPECTRUM LOADING
+
+1. Place the cassette in your recorder ensuring that it is fully rewound.
+
+2. Ensure that the MIC socket is disconnected and that the volume and tone
+   controls are set to the appropriate levels.
+3. If the computer is a Spectrum 48K or Spectrum + type LOAD"" (ENTER). (Note
+   there is no space between the two quotes). The " is obtained by pressing the
+   SYMBOL SHIFT and P keys simultaneously.
+4. Press PLAY on your recorder and the game will load automatically. If you have
+   any problems try adjusting the volume and tone control and consulting Chapter
+   6 of the Spectrum manual.
+5. If the computer is a Spectrum 128K then follow the instructions on-screen or
+   in the accompanying manual.
+
+
++3 DISK
+
+Set up system and switch on as described in your instruction manual. Insert 
+disk and press ENTER to choose 'LOADER' option. This program will then load
+automatically.
+
+NOTE: 128k     one load
+       48k     three loads - On the 48k Spectrum this game loads in 3 parts.
+               When each part has finished loading, stop the tape so the next
+               part can be loaded when you are ready.
+
+
+CONTROLS
+
+Keyboard fully redefinable
+
+Default keys are:
+
+Q         UP
+A         DOWN
+K         LEFT
+L         RIGHT
+SPACE     FIRE/PUNCH
+S         PAUSE
+
+FIRE will normally fire a bullet. However if there is a villain next to him,
+Robocop will punch him thereby conserving ammunition.
+
+Kempston
+Sinclair - Port 1
+
+                           Jump up/
+                Point up   Point up   Ascend stair/Point up
+                        \     |     /
+                          \   |   /
+                            \ | /
+                    Left -----+----- Right
+                            / | \
+                          /   |   \
+                        /     |     \
+Descend stairs/Move left   Crouch    Move right
+
+
+GAMEPLAY
+
+
+Armed with a standard police pistol you seek out the criminals responsible 
+for Murphy's death. You can collect capsules giving you more ammunition, 
+better fire power or three way bullets. You can also pick up baby food to 
+give you extra energy.
+
+L 1     First patrol in Detroit. Encounter criminals who try to stop you.
+L 2     A woman is being attacked - you must intervene. Attempt to shoot the
+        attacker and avoid hitting the poor helpless hostage.
+L 3     Second patrol with more offensive criminals.
+L 4     Try to match up photofit parts along with the photograph already
+        supplied to you. If a successful match is made, you will discover the
+        name of the man responsible for Murphy's killing.
+L 5     You receive information which enables you to locate the rest of the
+        gang. You stumble across a drug factory full of heavily armed thugs who
+        will stop at nothing to prevent you arresting them.
+L 6     After clearing up the drug factory you go on to arrest Dick Jones, the
+        mastermind behind the gang, at OCP headquarters. However directive 4 of
+        Robocop's program prevents you from acting against a senior officer of
+        OCP. You are disarmed and left to fight the robot ED209 with your bare
+        steel fists.
+L 7     Use lifts to escape from OCP.
+L 8     Try to outwit the desperate criminals as you become a fugitive from
+        them.
+L 9     If you make it this far you confront OCP's board of directors with the
+        evidence of Dick Jones' crimes. In a desperate effort to escape he takes
+        the President hostage. The president sacks him on the spot, directive 4
+        is overridden and you may shoot him. But be careful not to hit the
+        president himself!
+
+
+STATUS AND SCORING
+
+Score, time remaining and energy displayed at top of screen.
+20 points for hitting a bad guy.
+50 points for killing a bad guy.
+250 points for collecting a capsule.
+Special bonus for completing a level.
+
+
+HINTS AND TIPS
+
+1. Conserve ammunition.
+2. Criminals will always attack you at the same points. Remember these positions
+   to gain the initiative.
+3. On hostage screens, try to anticipate the movements of the villains for an
+   easier shot.
+
+
+Its program code, graphic representation and artwork are the copyright of 
+Ocean Software Limited. All rights reserved worldwide.
+
+
+THIS PRODUCT HAS BEEN CAREFULLY DEVELOPED AND MANUFACTURED TO THE HIGHEST
+QUALITY STANDARDS. PLEASE READ CAREFULLY THE INSTRUCTIONS FOR LOADING.
+
+
+CREDITS
+
+Programming by John Meegan                          SPECTRUM & AMSTRAD
+Graphics by Stephen Thomson & Dawn Drake            Programming by Mike Lamb
+Music by Jonathan Dunn                              Graphics by Dawn Drake
+Produced by D C Ward                                Music by Jonathan Dunn
+© 1988 Ocean Software Limited                       Produced by Jon Woods
+ROBOCOP TM & © Orion Pictures Corporation.          © 1988 Ocean Software Limited
+All rights reserved.

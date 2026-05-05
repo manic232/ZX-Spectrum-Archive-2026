@@ -1,0 +1,46 @@
+Wanted! Monty Mole
+from Gremlin Graphics
+
+  With a long cold winter and bone chilling Christmas ahead, Monty
+Mole makes a daring, coal snatching raid to his local South Yorkshire
+pit. Grabbing a miner's bucket he heads off into the darkness, soon to
+wish he'd caught a cold instead. Alas there's no turning back. Onward
+to do battle with flying pickets and mammal eating fish; filling his
+bucket as he dodges the trundling coal crushers and roaming coal
+drills; keeping an eye on the constantly disappearing floor.
+  With his bucket filled, Monty makes his escape, only to surface in
+Arthur's castle where his way is blocked by a fiery figure seated on
+a graphite throne. Seizing his only chance of toppling the great man
+Monty collects the secret ballot papers and vote casting scroll. But
+Arthur's no fool when it comes to the heavy stuff and his personal
+bodyguard of super fit pickets and deadly flying hairsprays, put up
+an almighty struggle with our valiant Mole.
+
+Instructions for Play
+"""""""""""""""""""""
+3 lives - 21 levels
+Features: Flying pickets, Carnivorous fish, Deadly hairsprays, Coal
+          drills, Coal crushers, Underground railway, Miners helmets,
+          Flying bricks, Candles, Excaliburs sword, Ghosts and many
+          more devious distractions.
+
+How to score
+""""""""""""
+Collect as much coal as possible.
+
+How to play
+"""""""""""
+Left  - O
+Right - P
+Up    - Q
+Down  - A
+Jump  - B to SPACE
+
+Peter Harrap
+""""""""""""
+A sparkling new approach from a fresh face to Spectrum programming.
+Monty Mole has created outstanding interest and quite a stir with
+games esperts, national press and television.
+
+       For amazing graphics and outstanding sound effects
+               run a Gremlin through your micro.

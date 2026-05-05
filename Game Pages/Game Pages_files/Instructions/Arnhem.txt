@@ -1,0 +1,258 @@
+ARNHEM
+R.T.Smith, CCS, 1985
+
+
+This document is based on translation of an article from ex-YU magazine 
+"Svet Kompjutera" (World of Computers) -Jan/'87, done by me, and an 
+Russian web page done by web-translator which gave many 'funny' results 
+such as "And.In. Stalin" for I.V.Stalin :) I've done my best to correct 
+it, don't be mad on me if you find some errors - Aleksandar Lukic in 
+December, AD2002. 
+
+The solid information stuffing, characteristic for Smith's  
+"Encyclopedia of War" is present in "Arnhem" too. Detailed scenario 
+of the game, the account of the lay of land, the limited time 
+favourably distinguish "Arnhem" from other games of this genre and 
+give to it special realism. 
+
+Game is based on air-landing operation which has been carried out by 
+allies at the end of September 1944 under funny(?) code name "Market 
+Garden". 
+
+After successful approach, allies arrived on border between Germany 
+and Netherlands. Further advance was stopped for two reasons. 
+
+First, there was a crisis with supply of armies. Very fast rates of 
+promotion of armies have exhausted resources (basically fuel), 
+communications were stretched (from the western coast up to borders of 
+Germany approx. 500 kilometers) and if to take into account, that at 
+the order of allies one working seaport Sherburg (others yet were not 
+in time to win) was and supply was carried out only by motor transport 
+(the railway network was destroyed by allied aircraft during operation 
+"Overlord") it becomes clear why allied command has entered strictly 
+normalized distribution of fuel and an ammunition between field armies.
+
+Second, in boundary areas of Germany in 1935-1939 was build "Line of 
+Zigfrid" stretched from borders of Switzerland up to borders of 
+Netherlands. That "Line" (the Western shaft) was system of long-term 
+strengthenings into which entered about 16 thousand military 
+constructions (long-term machine-gun and artillery constructions 
+(PILLBOXES), underground shelters for armies, antiaircraft - artillery 
+warehouses, antitank and antiinfantry obstacles). 
+
+In 1944 it was equiped additionaly with field constructions and 
+amplified with minno-explosive obstacles. And though its armies were 
+not numerous, are prepared insufficiently and had no reserves, allied 
+command not so would like to storm it with empty fuel tanks of tanks 
+and insufficient amount of ammunition. In these conditions the English 
+command (field marshal Montgomery) had idea of the following strategic 
+operation: to break through defense of the opponent on the Netherlands 
+border, to release Netherlands, and then to develop approach from 
+Netherlands in a direction of Ruhr (the main military-industrial area 
+of Germany) and Berlin and by that, probably, to finish war. A part of 
+this operation (the Dutch operation of 1944) was Arnhem's air-landing 
+operation "Market Garden". Its plan provided landing in rear of the 
+opponent on distance of 60-90 kilometers from a front line for 
+assistance to approach of 2-nd English army. 
+
+The task of a landing - capture of bridges through the rivers Maass, 
+Vaal and the bottom Rhein. A place of landing - a narrow corridor 
+between cities of Eindhovens and Arnhem. On the seized corridor the 
+English armies should promote for Arnhem. The basic purpose - capture 
+of the bridge in area of Arnhem, and an exit for allies for Rhein. In 
+operation were involved: 1-st Polish air-landing brigade, 82-nd and 
+101-st American, 1st English. The task to connect isolated jumping-off 
+places was assigned on British tank division and parts of 30-th army. 
+Because of shortage of air-vehicles landing should be carried out in 
+two stages. September, 17th the first echelon, and tommorow - the 
+second. In total in operation it was landed about 35.000 person and 
+568 instruments. 
+
+During operation allies managed to grasp bridges through Maas and Vaal 
+and to keep them. Bridge at Arnhem was 'too far' for allies. 
+
+The First echelon has promoted to area of the bridge, but was stopped 
+by strong counterattacks of infantry and tanks of the opponent, and 
+the second echelon has landed under fire of the opponent in the area 
+seized by parts of the German tank case and has had the big losses. 
+Even landing of 1-st Polish parachute brigade on September, 21st on a 
+southern coast of Rhein could not improve its position. During 8 days 
+of heavy defensive fights, in night of September, 26th the rests of 
+1-st echelon (about 2500 person) were forwarded through Rhein and have 
+incorporated with parts of 2-nd army. Losses by 1-st echelon have made 
+up to 7600 person (of them 600 person captured, including the 
+commander of a division). 
+
+Thus, as a result of operation allies have left to Rhein, had in the 
+big losses and not having reached ultimate goal of operation. Absence 
+at allies of the authentic data on presence of armies of the opponent 
+in area of landing of troops, loss of suddenness and slow promotion of 
+a land forces, and also dispersion of forces of a landing have 
+resulted in the first serious failure on the second front. 
+
+Actions of German command did not differ an ingenuity, basically it 
+threw all armies available in area on liquidation of a landing, and 
+there were: a part of 1-st parachute army, 2-nd tank corpus SS, 9-th 
+and 10-th tank divisions SS, 180-th, 85-th, 84-th divisions. 
+
+
+MANAGEMENT
+========== 
+After loading the following menu will appear: 
+
+1. To begin game. 
+2. To load the postponed game from a tape. 
+3. To save game on a tape;
+
+After a choice of [1], you set no. of players (in a case of "game in 
+four hands" the second player will operate German armies) and choice 
+colour or B-W TV. The submenu of game will appear: 
+
+1. Approach to Eindhoven 
+2. Operation "Garden" 
+3. Operation "Market" 
+4. Capture of the bridge 
+5. Operation " Market Garden "
+
+First four items are components of the fifth and serve as practice for 
+full game. Those who is self-assured can begin with the fifth item - 
+full operation. 
+
+GOALS in SCENARIOS:
+
+   1. Approach to Eindhoven - 7 turns only, Allies must clear the 
+central road. If not, Germans win. 
+
+   2. Operation "Garden" - 10 turns follows approach of British tank 
+corps to Grave, same goal as in 1st scenario. 
+
+   3. Operation "Market" - 26 turns!! To win Allies have to clear road 
+behind (!) Arnhem's bridge. German commander wins if block road before 
+or at Nijmegen's bridge. If both conditions are missed, it's draw. 
+
+   4. Capture of the bridge - 15 turns, Allies have to clear road to 
+and after Arnhem's bridge otherwise winner is determined by number of 
+survived units placed right(N) from Arnhem. 
+
+   5. Operation "Market Garden" - cover whole battle, 26 turns. Same 
+goals as in 3rd scenario. In 1 player mode, expect 5 hours 'action', 
+in 2 pl.mode 8-10 hours to complete battle. 
+
+Screen is splitted in 3 parts, the map of battlefield is up-left. On 
+the up-right you'll see the current date, time of day and phase of 
+battle. Border colour shows which forces are in action: yellow-British 
+blue-American and black-German. In the bottom of the screen there is a 
+line with the name of the division marked by blinking cursor. 
+
+3 turns are grouped in 1 day (morning, afternoon and night). After 
+every turn you can go to the main menu and save to tape. Every turn is 
+consisted of 3 phases: in 1st mechanical units moves, in 2nd non-mech. 
+and in 3rd mechanical units moves again. Symbols of units are neutral, 
+unless in contact with enemy or before move after contact. 
+
+Giving Orders: 
+--------------
+Units one by one, starts to blink, that's the moment when they can 
+receive orders. With "R" player gets report about blinking units (its 
+force, efficiency, a degree of skill and a moral condition, and also 
+the name of battalion/ brigade). "Enter" is for transition to the next 
+unit. 'Real' orders are: 
+   "C" - serves for curtailing in a marching column (usefull on hard 
+terrain) or on the contrary for expansion in the fighting order; 
+   "D" - dig in, fastening its position (decrease loss with no effect 
+on offensive strength- GOOD!); 
+   "T" - travel on roads. Speed of movement there is three times 
+faster, than movement on field. After its pressing choose the cursor's 
+place on road "where the division should arrive", and press Enter. 
+Curtailing and expansion (contact with enemy or when arrive on 
+destination) will occur automatically; 
+   cursor's keys (5,6,7,8 and Enter) - usual moving of cursor; 
+   "B" only artillery divisions has it! Player set cursor over unit or 
+terrain where want to bombard and fix it by 'Enter'. This increase 
+attack effects from other player's units. Different units - different 
+ranges... ;-) 
+   "O" - cancel previous order; 
+
+If "Unit already has orders", with 'Enter' it continues to follow 
+orders, while with "S" previous orders are confirmed for all units 
+with uncompleted orders. 
+
+Only TWO units can be placed on SAME 'place' (one over another). If an 
+unit encounter occupied place, its movement is STOPPED! If it's 
+occupied with enemy, battle starts. If win, it continues its orders, 
+if lose- it retreats and can't move one turn. 
+
+Unit can attack only once in one turn (see "Raport"). Attack is 
+automatical on all units in contact. Forces under attack blinks yellow-
+red. If 2 different units defend same place and is attacked by 2 also 
+different, opponents are splitted- infantry goes on infantry, tanks on 
+tanks etc. 
+
+When game ends, you'll be 'rewarded' with an historical phrase or be 
+criticized also you'll get data on quantity of the divisions which 
+were taking part in operation, amount of the divisions crushed, and 
+carried heavy loss from both sides. 
+
+TIPS 
+
+- Armies move in strict conformity with a lay of land, Landing 
+divisions overcome all obstacles of a relief. "Light" divisions (for 
+example, 231 infantry brigade) overcome roughnesses of a relief both 
+the small rivers and channels. "Heavy" divisions (2-nd battalion of 
+the Irish guards) overcome  some roughnesses of a relief, and all 
+water barrier overcome only on bridges. 
+
+- When moving armies on roads, don't give an order to armies to 
+follow towards each other (otherwise you will have jam on road). 
+
+- At landing of troops watch that the landed division did not come 
+into contact to divisions of the opponent, differently your commandoes 
+can disappear simply !!! 
+
+- Construction of game supposes a presence on one place no more than 
+two divisions. That gives to game special opportunities, but sometimes 
+limits your actions. 
+
+- The course of game can be miscellaneous, depending on your actions. 
+The success of operation develops on an exact choice of places for 
+landing and resistance of your landing divisions, and also speed of 
+approach of a land forces. 
+
+- To land a landing it is better on roads, and then quickly to move 
+in the necessary direction. 
+
+- Take the most of artillery. ("Artillery - the god of war" I.V. 
+Stalin). At approach attack by the tanks maintained by artillery, is 
+practically unstoppable. At defense of landing parts don't be kept 
+without support of artillery. 
+
+- "Heavy" divisions are better for using on open equal sites (to the 
+north of Eindhoven etc.). 
+
+- On flank roads, in order to prevent unpleasant unexpectedness, it 
+is better to leave barriers. 
+
+- If your landing, let say, in area of Arnhem reduces in the river or 
+be destroyed, study rules of speeding up of water barrier... 
+
+- Rules of speeding (force?) up of water barrier: 
+   a) In the first echelon landing parts are put forward. 
+   b) Behind the first echelon settles down maximal quantity of 
+artillery divisions. 
+   c) "Heavy" parts are established on road, and to them is given an 
+order to follow on road to any point on the other coast. 
+   d) After powerful atack with heavy landing divisions go to attack 
+in area of the bridge through the river and from its both sides!! 
+   e) After a gain of small jumping-off place in case you have not 
+executed the third point, quickly fill in its (jumping-off place) with 
+"heavy" parts. 
+
+- Meaning of items in report ("R"): 
+STR= shows how many dammage unit can stand (brigades= 2xbattalions); 
+EFF= shows remaining force (after movement) for attack, every turn it 
+     returns to 100%; 
+MOR= unit will retreat if MOR+EFF <100% ; 
+ATT= shows 'quality', ATT*STR= potential dammage to enemy. 
+
+- If you will not manage to carry out successfully operation, choose 
+a 'problematic' level and traine it. 

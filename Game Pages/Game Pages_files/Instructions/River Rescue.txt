@@ -1,0 +1,161 @@
+RIVER RESCUE
+------------
+
+RACING AGAINST TIME
+
+By Phil Snell
+
+Three intrepid scientists are lost in the jungle. As Captain of a powerful
+river boat, you hope to claim the reward offered for their rescue.
+
+Navigating one of the wildest and most hazardous rivers in the world is not
+easy, but speed is essential as there are others on the trail.
+
+As you avoid or shoot the obstacles in this winding river, listen for signals
+from the explorers weak radio transmitter, telling you that you are close
+to your goal.
+
+Rescue all three explorers and take them to the jungle hospital to get your
+bonus.
+
+This arcade style game features:
+* A superb scrolling screen
+* Keyboard or joystick control
+* Game variations: 1 or 2 player game.
+
+You are the owner of the fastest power boat in the region. Your knowledge of
+the treacherous river and the dense jungle which engulfs it on both sides is
+second to none, that is why you got the job of bringing out a group of
+scientists who have got themselves trapped in the upper reaches of the river.
+With supplies running desperately low it is essential that you don't waste
+time finding them and delivering them to the safety of the hospital.
+
+Relying entirely on your lightning reactions you will have to steer your
+boat at speed between floating logs, crocodiles and rocks as well as avoiding
+the river banks themselves. To help you clear a passage up the river your
+boat is fitted with a powerful fast action 30 mm cannon.
+
+Your reward for a successful job is based upon the number of scientists
+rescued and how fast you do it. Your rivals however are out to stop you at
+all costs. At any moment their aeroplanes could fly overhead, dropping
+deadly mines in your path. This will mean the end of you unless you can blast
+them out of the way.
+
+Sounds easy?? Try it!!
+
+POWER UP
+
+1. Before switchin on the Spectrum, connect the joystick (Sinclair or
+Kempston) if this is to be used.
+
+2. Connect the television to the computer and switch the television ON.
+
+3. Connect the cassette recorder to the computer and switch the cassette
+recorder ON.
+
+4. Place the RIVER RESCUE cassette in the recorder and rewind to the
+beginning.
+
+5. Check that the EAR lead is connected correctly and that the volume level
+of the cassette recorder is set correctly.
+
+6. Type LOAD "" (do not leave a space between the quotes), then press ENTER.
+
+7. Press PLAY on the tape recorder.
+
+8. When the program has finished loading, press STOP on the cassette
+recorder.
+
+9. If the program does not load sucessfully, try adjusting the volume setting
+of the tape recorder and repeat the above from step 3. If the problem
+persists, refer to chapter 6 of the Spectrum Introduction Manual.
+
+CONTROLS
+
+1. When the program has loaded, the title of the game will appear on the
+screen.
+
+2. Press the S key to select either a one player or a two player game.
+
+3. Press J to play with a Kempston joystick (the letters kj will appear on
+the screen).
+
+4. Press H to play with a Sinclair joystick (sj will appear on the screen).
+
+5. Press the fire button on the joystick to fire torpedoes.
+
+6. Press K to use the keyboard (k will appear on the screen).
+
+The controls are as follows:
+O and P = left and right
+Q and A = up and down
+Zero = fire
+
+7. When you have selected the method of play, press G to start the game.
+Pressing R at any time will take you to the title screen.
+
+DATA DISPLAY
+
+1. The high score is displayed at the top of the screen, together with the
+scores for player one and player two. The arrow by the highscores indicates
+which player has achieved that score.
+
+2. When player one is in control, the letters PLAYER 1 will be white. They
+will change to black when player 2 is playing.
+
+3. At the bottom of the screen are displayed the number of boats available
+to player 1 (on the left) and player 2 (on the right). Each player stats with
+five boats.
+
+RESCUE PLAN
+
+1. The object of the game is to navigate your way along the river, avoiding
+the islands and sandbanks and shooting the crocodiles (to score points).
+When you reach the jetties, pick up lost scientists from the north bank and
+take them to the south bank.
+
+2. When the jetties appear on the screen (one at the top and one at the
+bottom) you may dock by sliding the boat alongside. When it touches the
+jetty, your boat will stop and, at the top jetty, a scientist will run on
+board.
+
+3. If you dock alongside the bottom jetty, any scientists you may have on
+board will run ashore and you will score a bonus for each one. The more you
+have aboard, the higher the score for each one. You may carry up to nine at
+a time.
+
+4. To continue upstream after docking, press the fire button on the joystick
+or press zero on the keyboard.
+
+5. If you dock and let six or more scientits off in one go, you will see a
+pair of bonus piers in the river ahead of you. If you can navigate your boat
+between them - without crashing - you will recieve an extra boat. If you
+then survive long enough to pick up another scientist, you will recieve a
+bonus.
+
+6. If you dock and let off nine passengers, you will score an extra bonus.
+
+7. If your boat is destroyed all passengers aboard will be lost and you must
+begin picking them up again (if you have any boats left).
+
+8. Occasionally two planes, manned by your desperate rivals, will fly above
+you and drop mines into the river ahead of you. You must shoot these mines
+to avoid being blown up.
+
+9. You will obtain higher scores if you move the boat into the right-hand
+section of the screen - it will glow more brightly when in the bonus area.
+However, as the game progresses, you may find yourself unable to return
+to the left side of the screen.
+
+WARNING: ALL RIGHTS OF THE PRODUCES AND THE OWNER OF THE WORK REPRODUCED
+RESERVED. UNAUTHORISED COPYING, HIRING, LENDING, PUBLIC PERFORMANCE RADIO OR
+TV BROADCASTING OR DIFFUSION OF THIS CASSETTE PROHIBITED
+
+(C) 1985 CREATIVE SPARKS DISTRIBUTION CO. LTD.
+(R) 1985 CREATIVE SPARKS DISTRIBUTION CO. LTD.
+MANUFACTURED IN UK
+
+Sparklers, Unit B11, Armstrong Mall, The Summit Centre, Southwood,
+Farnborough, Hants, GU14 0NP
+
+(Transcribed by Robin Stuart)

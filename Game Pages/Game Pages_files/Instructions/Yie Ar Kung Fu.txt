@@ -1,0 +1,167 @@
+YIE AR KUNG FU
+
+Its program code, graphic representation,
+and artwork are the copyright of Imagine Software
+(1984) Limited and may not, be reproduced, stored,
+hired or broadcast in any form whatsoever without
+the written permission of Imagine Software (1984)
+Limited. All rights reserved worldwide. Yie Ar Kung Fu
+runs on the Spectrum 48K and Spectrum +.
+
+THE GAME
+
+Yie Ar Kung-Fu is a text of skill development in the
+traditional Martial Arts. It features Oolong in his
+attempt to become a Grandmaster in the ancient
+skills in honour of his father, a kung-fu master
+before him.
+Your ultimate goal is to become a grand-master but
+to achieve this you must defeat a variety of
+opponants each more deadly than the last. They are
+armed with differing skills and weapons and must be
+overcome with a combination of 16 different attack
+moves.
+The controls are by means of joystick or keyboard 
+which is user definable) and the game has a one or
+two player option.
+The fun and excitement of Kung-Fu is about to begin
+as you face your foe. Your honourable opponents
+are...
+BUCHU - A huge kung-fu fighter who can attack by
+flying through the air.
+STAR - A beautiful girl warrior who is expert at
+throwing deadly stars or SHURIKEN.
+NUNCHA - Master of the NUNCHAKU - beware his
+reach.
+POLE - Attacks with the ancient rod or BO.
+CLUB - ...This fighter is armed with a shield to deflect
+your blows and a club to strike back.
+FAN - Another female adversary, this time an
+exponent of the NINJAFAN.
+SWORD - Sword carrying apponant, a firesome and
+deadly foe.
+TONFUN - Skilled in the art of fighting with flailing
+sticks of TONFA.
+BLUES - The Kung-Fu master himself, has all the skills
+and moves of Oolong, but faster. If you can win this
+final battle you truly will become a Grand Master.
+
+LOADING
+
+Type LOAD "" <ENTER> [Note there is no space
+between the two quotes]. The " is obtained by
+pressing SYMBOL SHIFT and the P key simultaneously.
+For further instructions consult chapter 6 of your
+manual. Now press PLAY on the recorder. The screen
+message should appear and the game will load
+automatically. If this does not happen try adjusting
+the volume and tone controls up until loading takes
+place.
+
+CONTROLS
+
+Oolong is controlled as follows:
+Joystick control plus FIRE button creates the attack
+moves. SPACE bar switches between KICK and
+PUNCH.
+
+
+JOYSTICK
+
+ DIAGONAL JUMP    JUMP     DIAGONAL JUMP
+          LEFT \    |    / RIGHT
+                 \  |  /
+                   \|/
+          LEFT -----+----- RIGHT
+                   /|\
+                 /  |  \
+               /    |    \
+                  DUCK
+
+KEYBOARD
+Key controls with out the FIRE key
+pressed emulate the joystick controls.
+The keyboard control substitutes are
+indicated on each move as the KEY
+LETTER, but can be redefined if
+required. The S key represents FIRE.
+
+CAPS SHIFT - Pause
+BREAK - Return to Menu
+SPACE - Restart
+
+ATTACK MOVES
+
+W (UP)           FLYING PUNCH    FLYING KICK
+E (UP+RIGHT)     LEAPING PUNCH   HIGH KICK
+D (RIGHT)        LUNGE PUNCH     ROUND HOUSE KICK
+C (DOWN+RIGHT)   LUNGE PUNCH     ANKLE KICK
+
+KO METER                         When KO meter reaches 0
+                                 player is knocked out
+
+The attack moves are illustrated above and the KO
+meters for you and your opponent indicate the
+state of play at each level. You have 5 lives to begin
+your task...GOOD LUCK!
+
+ANKLE PUNCH    LEG SWEEP       X (DOWN)
+STRIDE PUNCH   GROUND KICK     Z (DOWN+LEFT)
+LACE PUNCH     RISING KICK     A (LEFT)
+HOOK PUNCH     SWOOPING KICK   Q (UP+LEFT)
+
+STATUS and
+SCORING
+
+On screen scoring indicates your current
+score the high score and number of lives
+you have remaining. Bonus life is
+awarded at 20,000 points and the score
+for each move is as follows.
+
+FLYING KICK                  2000
+FLYING PUNCH                 2000
+ROUND HOUSE KICK             500
+LUNGE PUNCH                  500
+LEG SWEEP                    500
+GROUND KICK                  1000
+RISING KICK                  1500
+HOOK PUNCH                   1500
+ANKLE PUNCH                  1500
+STRIDE PUNCH                 1500
+LEAPING PUNCH                1500
+LUNGE PUNCH                  1000
+FACE PUNCH                   500
+ANKLE PUNCH                  1000
+SWOOPING KICK                1000
+HIGH KICK                    1000
+
+HINTS and TIPS
+
+* Seek and attack opponent's weak point.
+
+* Remember Oolong can jump over his foes and put
+  them offguard.
+
+* Try hit and run tactics and keep your distance from
+  armed opponents.
+
+
+
+
+
+
+YIE AR KUNG FU
+
+Yie Ar Kung Fu is a trademark of Konami Limited.
+
+Produced by D.C. Ward
+
+Konami©
+©1985 Imagine Software (1984) Limited.
+
+-------------------------------------------------------------
+Document created by rstuart@ukonline.co.uk on 11th Dec 99 for
+World of Spectrum: http://www.void.demon.nl/spectrum.html
+Re-edited Robin Stuart's work to create the original Imagine
+instructions by Frode Tennebø, 20050821.

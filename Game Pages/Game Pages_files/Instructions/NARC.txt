@@ -1,0 +1,170 @@
+N.A.R.C.
+Ocean
+
+
+SCENARIO
+NARC - now you have a chance to infiltrate the MR BIG CORPORATION, the
+scourge of the underworld. Outwit the army of body guards, gangs of charisma-
+bypass patients in trench coats, the bullet-brain with the build of a
+rhinoceros and the breath of a dung beetle, packs of vicious canine yappies,
+the psychotic clown with the evil sense of humour - you'll die, but not
+laughing!
+But it's not all bad! You've got a mean shiny street machine, some heavy
+metal hardware and pretty neat moves. Hit the enemy - and, finally, come up
+against the baddest, the biggest - Mr Big!
+
+
+CONTROLS
+
+COMMODORE
+This is a one or two player game controlled by joystick only.
+Player 1 - Joystick Port 1
+Player 2 - Joystick Port 2
+Press FIRE to start game.
+To fire missiles hold down FIRE for a short time and then release it.
+Press FIRE with the joystick in the central position and quickly tap UP
+when standing to JUMP.
+To toggle between standing and crouching:
+Player 1 - Left-hand shift key
+Player 2 - Cursor UP/DOWN key
+RUN/STOP - Pause
+X        - Restart game
+M        - Toggle music/FX
+
+SPECTRUM/AMSTRAD
+This is a one or two player game controlled by joystick and keyboard
+(Sinclair and Kempston joysticks on Spectrum). One or both players may
+use joystick; only one player may use the keyboard, which is fully
+redefinable.
+KEYS
+Q - UP
+A - DOWN
+O - LEFT
+P - RIGHT
+M - FIRE
+H - PAUSE
+To fire missiles hold down FIRE for a short time and then release it.
+Each player has an additional key for crouching and jumping:
+Player 1 - SPACE
+Player 2 - CAPS SHIFT
+Press extra key and UP, when standing, to JUMP.
+Press extra key and UP, when crouching, to STAND.
+Press extra key and DOWN, when standing, to CROUCH.
+
+To arrest one of the enemy, stand by them for a short period.
+
+
+GAMEPLAY
+
+LEVEL 1
+Fight your way through the junkyard and arrest as many of the enemy as
+possible for bonus points. Collect bullets dropped by the enemy to obtain
+rapid fire. Then locate the door which will take your through the pipeline.
+
+LEVEL 2
+You are inside a subway station. Watch out for Coatmen coming out of the
+train doors and try to arrest them. Locate the red safe card to return to
+the junkyard.
+
+LEVEL 3
+Having successfully negotiated the subway you return to the junkyard where
+you must seize cash, drugs, bullets and missiles, arresting people where
+possible. A bonus will be awarded for all arrests achieved and for drugs and
+cash collected.
+
+LEVEL 4
+Krak Street - you are en-route to the evil drug cartel HQ. Here you will meet
+Spike Rush who throws hypodermic needles at you - if they hit you they will
+inject you with drugs and you will lose strength. You must find your way to
+the Krak Stop drugs lab.
+
+LEVEL 5
+You are inside the drugs lab where the Krak is made. The lab is full of vials
+and beakers which you can destroy with missiles for bonus points. Vicious
+dogs will block your path and attack you. Find the blue safe card to exit
+from the lab.
+
+LEVEL 6
+Outside the lab you will find yourself on a bridge where you will meet Joe
+Rockhead the drug addict. You cannot arrest him, so you must blast him
+before he gets near you. Make your way across the bridge - you can jump into
+passing cars and drive them to cross more quickly.
+
+LEVEL 7
+Once across the bridge you are back on the streets of Sunset Strip. Kinky
+Pinky the mad knifeman appears here. He will attempt to kidnap the female
+escorts. You need to blast Kinky in order to protect the escorts as you move
+though this level. There are five exit doors from this level. One is locked
+and will require a silver safe card and the other four lead to four sub-
+levels. These are called The Kennals, Kinky's Big Top, The Swamp and The
+Scrapheap. One of the sub-levels contains the silver safe card you need but
+you will have to find out which one.
+
+LEVEL 8
+You are outside the nursery where Skyhigh grows his drugs. Blast your way
+through the gunmen to get to the entrance of the nursery.
+
+LEVEL 9
+Fight your way through the gunmen and Joe Rockhead and you move through the
+greenhouse. Collect the illegal drug plants for an extra bonus but watch
+out - some of them are booby trapped. Make sure you blast the gunmen as one
+of them will be carrying the green safe card to exit the nursery.
+
+LEVEL 10
+Back on the streets you must make your way through downtown towards the
+headquarters of Mr Big's evil organisation KRAK. When you reach the building
+and enter you will have to fight through the headquarters to reach Mr Big.
+
+LEVEL 11
+Once inside Mr Big's office he will attack you in his wheelchair. When you
+finally manage to overcome him he will leave a gold safe card.
+
+LEVEL 12
+Mr Big, having recovered from your attack, is now really angry! You will need
+all of your skill and a good supply of missiles to finally defeat him. He
+will then drop another gold card. You can use this to enter a special bonus
+level.
+
+
+STATUS PANEL
+
+The Status Panel displays: drugs seized, cash seized, criminals busted,
+number of bullets and missiles, score, lives remaining (depicted by helmets),
+safe cards collected, score required for extra life and scanner showing
+sector and position of enemy.
+
+
+HINTS AND TIPS
+
+* At the start of the game bust as many people as possible as this will
+  bring you points.
+* Cash and drugs are worth collecting for points, but bullets and missiles
+  are more important as they will help you survive.
+  If your bullet counter drops to one you will only be able to fire one
+  bullet at a time. Collect more bullets and you can use rapid fire.
+* Keep moving at all times to stop the baddies getting you in their line of
+  sight.
+* Try to save your missiles for later in the game - you will need them.
+
+
+CREDITS
+
+(c) 1988 WILLIAMS ELECTRONIC GAMES INC.
+Produced by D.C. Ward
+(c) 1990 Ocean Software Ltd.
+
+COMMODORE
+Programmed by Simon Pick
+Additional code by Steve Snake
+Graphics by Shaun McClure, Ned Langman & Rob Whitaker
+Music by Sound Images
+
+SPECTRUM
+Programmed by David Leitch
+Graphics by Shaun McClure
+Music by Sound Images
+
+AMSTRAD
+Programmed by Dave Quinn and David Leitch
+Graphics by Shaun McClure, Rob Whitaker and Tahir Rashid
+Music / Sound FX by Sound Images

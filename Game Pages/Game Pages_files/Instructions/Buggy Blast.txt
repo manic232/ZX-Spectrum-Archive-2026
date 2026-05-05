@@ -1,0 +1,126 @@
+BUGGY BLAST
+Firebird
+(c) Dave Lowe & Paul Hibbard
+
+DISCONNECT PERIPHERALS. LOAD "". NOT JOYSTICK COMPATIBLE.
+
+
+THE MISSION
+For over three centuries, the planet ENDRA has been inhabited by the
+LURGONS. The key to their power is held in the CENTRAL LURGON CORRIDOR
+(Sector 8). A pilot skilled enough to gain entry to this sector and
+destroy 20 Lurgons will cause a power reversal that will consume the
+whole complex.
+Because of the highly dangerous nature of this mission, a system of
+Cycredit Ratings is used to ensure, as closely as possible, that
+pilots do not attempt to make attacks in sectors beyond their capa-
+bilities. At each stage of the mission the Buggy will launch and
+locate the correct sector automatically - no pilot control is req-
+uired. All systems are powered by an ARGON GAS CRYSTAL CONVERTER -
+pilots must watch the Energy Counter and return to the Mother Ship in
+time to refuel.
+This involves avoiding or destroying the MINE JAMMERS, and delicate
+docking manoeuvres with the Mother Ship.
+
+
+THE BUGGY
+Latest space/ground attack vehicle, fitted with:
+* TWIN PHOTON LASERS  * TEN XION SPACE PHASERS
+* SPLIT DIMENSIONAL FORCE FIELD (S/D/FF)
+* HOLOGRAPHIC SPACE CANOPY  * QUANTUM LOCATER
+
+Instruments:
+* Remote Space Scanner (top left panel)
+  high numbers denote high density of MINE JAMMERS.
+* Mega-Bit Onboard Computers (main information panel)
+  to relate warning information and damage status.
+* Run Counter (top right panel)
+  used in Final Analysis to compute skill level.
+* Life Mode Indicator (GJD - below main information panel)
+  G - Reverse Gravity Zone encountered
+  J - Jump Control activated
+  D - Returning to Dock with Mother Ship
+* Xion Indicator Lights (both sides of main panel)
+  ten lights indicating use of Xion Phasers.
+* Energy Counter (above main panel)
+  Energy level remaining.
+
+
+LURGON DEFENCES
+Sector 1 - Lurgons, Helibombs, Orbital Saucers, Orbital Doomships
+Sector 2 - Time Dimensional Spinners
+Sector 3 - Radiation Storms
+Sector 4 - Argon Magnets
+Sector 5 - Reverse Gravity Zones
+Sector 6 - Time Zones
+
+
+THE LURGONS
+These creatures evolved from a batch of defective self-programming
+computers which in turn created the first robotic life force dedicated
+to the destruction of all organic life forms. This robotic life force
+has evolved to such a degree that it threatens the very existence of
+mankind.
+
+The Lurgons have developed elaborate weapon and defence systems:
+
+* MINIATURE CYTRAX CANNONS
+  Carried by all Lurgons - cause variable energy drain.
+* HELIBOMBS
+  Cause variable energy drain - very powerful in Sector 3 - destroy
+  with Photon Lasers.
+* ORBITAL SAUCERS
+  Cause large variable energy drain - more powerful in higher sectors
+  - destroy with Photon Lasers.
+* ORBITAL DOOMSHIP
+  Beam will penetrate S/D/FF and is therefor FATAL - identify as BLUE
+  ORBITAL SAUCER - main panel will warn - destroy with Photon Lasers.
+* TIME DIMENSIONAL SPINNER
+  Left behind on impact of MAGENTA HELIBOMBS - produces a Limbo time
+  hole - causes energy drain equivalent to 1,000 times Sector, if
+  allowed to explode - destroy by using a Xion Phaser at the PRECISE
+  MOMENT it ceases to emit sound distortion (only ten Xion Phasers are
+  carried for the whole mission!).
+* RADIATION STORMS
+  Reduce effectiveness of Photon Lasers and distort visual contact
+  with the enemy - no defence.
+* ARGON MAGNET
+  Fully automatic - locks into Argon Crystal Converter - will attack
+  IMMEDIATELY upon turning RED - avoid by using JUMP control.
+* REVERSE GRAVITY ZONE
+  High density quark carrier which activates Buggy Dock Control -
+  indicated by G on control panel - stabilise by using Buggy DOWN
+  control.
+* TIME ZONE
+  Increases time flow by a variable warp factor - remain CALM.
+* MINE JAMMERS
+  Will auto-locate during attempts to dock, disrupt Quantum Locator
+  and prevent docking manoeuvres - destroy with Photon Lasers or Xion
+  Phasers when they re-energise and turn RED - the REMOTE SPACE
+  SCANNER shows the density of Mine Jammers at any time.
+
+Finally, be careful out there and watch out for Orbital Doomships at
+all times!
+
+
+BUGGY CONTROLS
+Select Standard Keys or Cursor Keys:
+STANDARD KEYS   CURSOR KEYS
+LEFT=Q          LEFT=5
+RIGHT=W         RIGHT=8
+UP=O            UP=7
+DOWN=M          DOWN=6
+XION PHASERS=X  XION PHASERS=X
+FIRE=P          FIRE=0 (zero)
+
+The normal direction keys control both PHOTON LASERS and DOCKING
+MANOEUVRES.
+
+While in the LURGON CORRIDORS the Buggy can be made to:
+JUMP (over ARGON MAGNETS) - press a Secondary Key and UP.
+DOWN (to counter REVERSE GRAVITY) - press a Secondary Key and DOWN.
+DOCK (return to Mother Ship) - press a Secondary Key and FIRE.
+
+Secondary Key - any key from CAPS SHIFT to V.
+
+

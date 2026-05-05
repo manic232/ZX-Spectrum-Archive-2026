@@ -1,0 +1,348 @@
+The Way of the Exploding Fist (c) 1985 Melbourne House 
+------------------------------------------------------
+
+INTRODUCTION
+
+The Way of the Exploding Fist is a karate simulation game,
+and is controlled entirely from the keyboard or joystick.
+
+Although it may take a while to become completely familiar
+with the various moves, you should be able to start playing
+almost immediately without learning any of the moves.
+
+
+HOW TO PLAY WITHOUT READING ALL THE INSTRUCTIONS:
+
+Press the key 1 or 2 and the game will start.
+
+Moving your character: Left and right control the left and
+right movement of your character.
+
+Using the kicks: All kicks are controlled by pressing the
+fire button and pushing the joystick in the appropriate
+direction.
+
+Crouching: Pressing the joystick up will allow your
+character to leap up while pressing it down makes the
+player crouch.
+
+Blocks: The joystick also allows you to block your
+opponents move.  This is obtained by backing off your
+character while the opponent is using aggresive moves.
+
+You may occasionally find that when you are naturally
+backing off, your character goes into a blocking stance. 
+This is fortunate for you, as the "block" is only activated
+if you are in danger of being hit by your opponent.
+
+To release the block, move the joystick to neutral or to
+any position other than moving backwards.
+
+"Holding your moves": Most of the moves in the Way of the
+Exploding Fist can be withdrawn shortly after beginning to
+execute them so that you are able to change your mind and
+start another move.  This also means that if you do want to
+continue with a move you must ensure that you hold the
+joystick in the correct position  long enough for the move
+to be executed.
+
+Practising your moves: The easiest way for you to practise
+your moves is to go into 2-player mode and test all your
+skills.  Your opponent will not make any move against you,
+so you should be abke to get all the moves perfected.
+
+This should be enough to get you started playing The Way of
+the Exploding Fist.  The following instructions give you
+more detail on the subtleties of this exciting game.
+
+
+ONE-PLAYER AND TWO-PLAYER MODES:
+
+The Way of the Exploding Fist can be played in either one
+player mode or two player mode.  In playing in one-player
+mode, you will always control the black character.
+
+Various options can be selected before each game:
+1: choose one player mode
+2: choose two player mode
+0: choose joystick mode or choose to redefine control keys.
+
+The computer will start in demonstration mode, with the
+computer controlling both characters.  This is indicated by
+the word DEMO in the top left of the screen.  Make your
+selection whilst the program is in DEMO mode.
+
+Pressing keys G and H simultaneously will abort the game.
+
+Playing one-player mode: The object is to move up through
+Dan levels by defeating successive opponents, each one
+slightly better than the previous ones.
+
+You start at novice level your task being to reach 10th Dan.
+
+In each bout, the aim is to score a full two points over
+your opponent.  The first player to obtain two full points
+wins the bout.  In the event that neither player wins two
+full points within the time period specified, the judge will
+determine which player performed better and award the
+victory accordingly.
+
+The match finishes when one of your opponents scores two
+full points in any one bout.
+
+Playing two-player mode: In this situation, the match does
+not terminate as above, but the winner is determined by
+whoever scores the most after a set of four bouts.
+
+After the time limit has been reached in each bout, the
+judge stops the bout and a new bout is started.
+
+
+THE SCORING SYSTEM
+
+Points are scored not on which action has been taken but on
+how well each move was executed.  If your aggresive move
+fails to make contact, obviously no points will be awarded.
+If your move is perfectly executed, you will obtain one
+full point.
+
+In some instances your move will strike an opponent, but the
+hit will not be perfect.  In these instances, you will only
+obtain a half-point.
+
+Your current point total is represented on the screen by the
+yin/yang symbols.  The black player's points are shown on
+the left, while the shaded player's points are shown on the
+right.  (A half-symbol represents a half point.)
+
+As well as the points for each strike, you will get a score
+value for each move succesfully executed.  The score will
+depend on the move chosen, so that a difficult move, such as
+a round-house kick, will score more than an easy move, such
+as a jab kick.  The score value added will be twice as much
+if the move was executed perfectly (i.e. a "full-point"
+execution) than if it was less than perfect (i.e. a
+"half-point" execution).
+
+
+SUMMARY OF JOYSTICK POSITIONS:
+
+The following joy positions will result in the appropriate
+moves.  Each move is explained in more detail further on.
+
+DIRECTIONS OF JOYSTICK WITH FIRE BUTTON NOT PRESSED
+
+                       JUMP
+                        |
+             FORWARD    |
+            SOMERSAULT  |   HIGH PUNCH
+                    \   |   /
+      WALK            \ | /
+BACKWARDS/BLOCK -------   ------- WALK FORWARDS
+                      / | \
+                    /   |   \
+               BACK     |   JAB
+            SOMERSAULT  |
+                        |
+                     CROUCH/
+                    LOW PUNCH
+
+DIRECTIONS OF JOYSTICK WITH FIRE BUTTON PRESSED
+
+                      FLYING
+                       KICK
+                        |
+              HIGH      |
+            BACK KICK   |  HIGH KICK
+                    \   |   /
+    ROUNDHOUSE/       \ | /
+    ABOUT-FACE --------   -------- MID KICK
+                      / | \
+                    /   |   \
+            BACKWARDS   |   SHORT JAB KICK
+              SWEEP     |
+                        |
+                     FORWARD
+                      SWEEP
+
+
+USING THE KEYBOARD
+
+The following keys are used in keyboard mode:
+
+Player 1         Player 2
+
+Q  W  E          Y  U  I
+A     D          H     K
+Z  X  C          B  N  M
+
+Fire: 1          Fire: Space
+
+The operation of these keys is identical to the joystick
+controls.  To choose between joystick and keyboard mode -
+press the zero while in demonstration.
+
+
+DETAILS ON THE VARIOUS KICKS:
+
+As mentioned above, all kicks are controlled by pressing the
+fire button, and pushing the joystick in the appropriate
+direction.
+
+The fopllowing instructions assume that the character is
+facing right.  You will find that the descriptions refer to
+"left" and "right".  When your character faces the other
+way, all controls are mirrored - in other words, if you need
+to press right to get the midkick when facing right, then
+when you are facing left, you need to press the joystick
+left to obtain the midkick.
+
+The same applies to the punches and somersaults described in
+the following sections.
+
+Eight kicks are available to you - one each for the eight
+positions of the joystick:
+
+Flying kick: This is obtained by pressing the fire button
+and pressing the joystick up.  This is an extremely powerful
+kick, and can be succesful against a standing opponent who
+is not blocking against the move.  Other ways to block this
+kick are to crouch, or if you are fast enough to respond
+with a counter flying kick.
+
+High kick: Press fire button and press joystick in the
+diagonal upper right direction.
+
+Mid kick: Press fire button and press joystick right.
+
+Short jab kick: This is obtained by pressing the fire button
+and pressing the joystick on the diagonal lower right
+direction.  The main benefit of this kick is that it is very
+fast to execute and can be used in closer combat.
+
+Sweep (f'ward): Press fire button and joystick down.  This
+low sweep places your character in a crouching position,
+then sweeps forward.  This can be effective against many
+aggresive actions, as it combines offence with defence.
+
+Sweep (b'ward): Press fire button and press joystick in a
+lower left diagonal direction.  This move is identical to
+the forward sweep, but the effect is to sweep behind you.
+This can therefore be used if your opponent is behind you.
+
+Roundhouse: Press fire button and joystick left. This move
+is the traditional roundhouse kick of karate, but also has
+the advantage that it allows you to turn about face. This
+kick has two distict operations: in the first instance (by
+keeping the fire button pressed throughout the kick) you
+execute the full roundhouse kick. The second mode of
+operation is a fast about- face. This is acheived by
+starting the roundhouse kick as described above, but
+releasing the fire button before the kick is completed.
+
+You will find the full roundhouse kick is a time-consuming
+manouvre, it can be especially effective in many situations. 
+Note also that as the roundhouse kick moves you out of the
+direct line of your opponent's attacks, some of your
+opponents aggresive  moves may not be effective against you
+while you are performing this action.
+
+High back kick: Press fire button and press joystick in an
+upper left diagonal position. This move is the reverse of
+the forward high kick and enables you to attack opponents
+that may have slipped past you.
+
+You can of course also turn around to attack opponents that
+are behind you (see notes on roundhouse kick above).
+
+
+PUNCHES
+
+As well as kicks, the Way of the Exploding Fist requires
+devotees to be adept at close fighting, using punches. Three
+punches are available from joystick control.  Note that the
+fire button should not be pressed when executing punches.
+
+High punch: This is obtained by pressing the joystick in the
+upper right diagonal direction.  (Do not press the fire
+button.)  This is effective against an opponent that is
+reasonably close to you.
+
+Jab punch: This is obtained by pressing the joysticks in the
+lower right diagonal direction.  (Do not press the fire
+button.) This is the fastest action you can take, and is
+extremely effective in very close fighting.  At times your
+opponent may use this move, and because it is such a fast
+jab, you may not even be aware of what hit you!
+
+Low punch: This is obtained by going into the crouch
+position first, then pressing the joystick to the right.
+Because of the variety of moves that can be accomplished
+from the crouching position, the low punch can often be a
+surprise move.
+
+
+SOMERSAULTS
+
+Somersaults are a very fast way to move out of the reach of
+your opponent.  There are two somersaults - one forward and
+one backward.  Note that if you get too close to the edge of
+the screen in either direction, you r somersaults may not be
+as effective.
+
+Forward somersault: This is obtained by pressing the
+joystick in the upper left diagonal direction. (do not press
+the fire button.)
+
+Backward somersault: This is obtained by pressing the
+joystick in the lower left diagonal direction.  (Do not press
+the fire button.)
+
+
+ADVANCED PLAYERS' TIPS:
+
+Blocks: Note that blocks are not the perfect answer to
+aggresive moves from your opponent. There are two blocks the
+computer can choose from, a high block and a low block,
+depending on the action that is being taken by your opponent.
+
+Holding the joystick in a block move means that you will be
+holding the block, and it is possible for your opponent to
+start a different aggresive move that is not countered by
+your current block.
+
+Note also that the two low sweeps cannot be blocked. If you
+are within striking range of a sweep, the onlyappropriate
+actions are a jump (joystick up) or one of the somersaults.
+
+Crouch: The crouch is a move that can be "held" by keeping
+the joystick held down. This allows you to execute either a
+low punch, or the two sweep actions.  If one of the two
+sweeps is selected from a crouching position, the time taken
+for this is greatly reduced, and the move is therefore much
+more effective.
+
+------------------------------------------------------------
+
+Gregg Barnett  - Game design
+Greg Holland   - Graphics
+Stephen Taylor - Animation and graphics programming
+William Tang   - Additional programming
+
+(C) Beam Software 1985
+Cover Illustration by David Rowe
+
+Cassette duplication by Ablex Audio Video
+Production by Cosprint Limited
+
+Published by
+Melbourne House
+Castle Yard House, Castle Yard,
+Richmond TW10 6TF
+United Kingdom.
+
+70 Park Street, South Melbourne, 3205. Australia
+
+------------------------------------------------------------
+
+Complete Instructions typed in by Paul Thompson, April 2003

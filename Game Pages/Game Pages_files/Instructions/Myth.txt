@@ -1,0 +1,316 @@
+MYTH - History in the Making
+(c)1989 System 3
+Programming: Peter Baron 
+Graphics: Bob Stevenson 
+Producer: Mark Cale 
+Concept: Mark Cale 
+Additional Design: Bob Stevenson & Peter Baron 
+Music: Jeroen Tel/Maniacs of Noise - Stefan Hartwig (loader)
+-----------------------------------------------------   
+GENRE: Action Adventure
+
+
+THE MYTH STORY
+
+Magical tales of intrigue and mystery were spawned thousands of 
+years ago, as the world's civilisation believed that 
+mythological gods and demons carved out the way of the world. 
+They were said to have dealt their own hand in the epic Game of 
+Life and ruled their domains with cast iron law and powerful 
+sorcery not known to mere mortals. The subsequent fear of such 
+sorcery enabled the gods to mold their own world, like an 
+elaborate game of chess, and pre-ordain the fate and destiny of 
+their minions. The combination of ruling bodies kept the world 
+in balance and laid the foundations of our history.
+
+Only a mortal can attempt to change the eras of time...
+
+***********
+An everyday lad lounges at his desk fully submerged in an article 
+he reads aloud in his complex mind, about Medusa, the terrifying 
+snakes that entwine her scalp, and shivering coldness of her 
+black-eyed stare as she turns courageous men to solid stone. The 
+lad seems arrogantly amused with what he reads and curls his 
+upper lip in an aggrieved sneer, signaling his resentment at the 
+brash, uniformed way in which his favorite daydreams had been 
+handled.
+
+"This guy's a jerk", rolls off his silver tongue as he hurls the 
+trash magazine into an overused bin. It seems near bursting with 
+a hive of knowledgeable mythological drawings, screwed up and 
+scribbled out, that weren't quite good enough or didn't depict 
+how a certain fable was meant to annihilate all who dared 
+challenge it or who didn't respect its vital role in the strat-
+egic Game of Live and History. He would spend hours thumbing 
+through books and sketching the theories as he understood them, 
+believing that mythology was for real, believing everything was 
+there for a reason, believing that titanic gods watched his 
+every moves and even played some of them for him so as to ensure 
+that foreseen destiny would indeed take its course.
+
+This guy was hooked, at times he wore blinkers to everyday life, 
+or upset school teachers with his hankering on about myths and 
+how they were the only history any of us need learn if we were 
+to ensure the future turns of the world were in the right 
+direction.
+
+Maybe he seemed a little confused, strange to some teachers, but 
+everyone warmed to him. He wore the right trainers, the right 
+jeans, he hung out with the right guys, danced to the right 
+music. His cockiness and arrogance was a lure to all the best 
+girls in school and his contempt for those who wouldn't listen 
+to him, shieded him, and gave him bigger following than the 
+school football captain. This guy was a happening, a hero to 
+younger kids, a thorn in the side of history teachers and a 
+real worry to his parents who had seen his obsession grow from a 
+passing interest to the only supporting crutch his life seemed 
+to be leaning on. This obsession wooed him to sleep at night and 
+led him through everyday life with hypnotic effect. He couldn't 
+wait to get home and lose himself in mythological literature, to 
+draw his favorite characters and dream of long-fought battles 
+through time itself. 
+
+If he only knew. Word of his undying loyalty to mythology had 
+not only spanned the length and breadth of the school playing 
+fields and formed major points of discussion over school dinners,
+but had astonishingly penetrated the Heavens. 
+
+The last remaining good titans had been casting a hopeful net 
+over our planet for some time, a global search that had them 
+clammering for a mortal with character, cunning, and most of all,
+belief. These great universal dictators had swallowed their pride 
+and had finally succumbed to the fact that their means of
+rulership was now rapidly becoming a laughing stock. Strong, 
+steadfast beings who aggressively ruled the Heavens, the Seas,
+the Land, were now in a state of panic. The evil god Dameron, a 
+self-appointed leader, turning the skies black with rage and the 
+seas red with the blood of many a god who dared question his 
+tyranny. Bloodbaths arose in the Heavens, death was meeting 
+those who refused to control their part of History in his way 
+and the once seemingly solid temple of this History was now being
+severely rocked to its very foundations.
+
+The law stated that the great gods could not interfere directly 
+with the destiny of Modern History, but that the world's future 
+lay with its past and therefore by changing the past, Dameron 
+will conquer the future and forever destroy mortal Life.
+
+An encouraging fire engulfed the era of time as they found who 
+they were looking for and with the discovery of a mortal with 
+such a belief they breathed tentative, if not premature, sighs 
+of relief into the soul of our hopeful History.
+
+They were to visit him in his sleep and bargain with mortality, 
+convince him that his relentless pursuit of mythology was to be 
+rewarded by actually meeting the gods he dreamt of by battling 
+the demons he scribbled on pieces of old paper, by solving the 
+life and death riddles of ancient leaders. He must confront the
+twisted power of Dameron and struggle through all the corner-
+stones of time, putting right the evil god's wrongdoings and 
+setting the wheels of our History in motion once again in the 
+right direction.
+
+They were to take him through all mythological eras of time,
+including roman-greek, norse-viking and egyptian. then onwards 
+towards the greatest challenge for no mere mortal except this 
+one, Dameron. The world's future is at stake and must be
+brought back to tranquil normality. He must remember his 
+arrogance, he must have faith in the prophecies he tried to 
+enforce upon others.
+
+He must believe that this is
+
+                  History in the Making!
+
+**************************************************
+
+INTRODUCTION TO THE GAME
+
+This game has 4 levels. They are:
+
+      1.  Greek Legends
+      2.  Norse Legends
+      3.  Egyptian Legends
+      4.  The Final Confrontation (with Dameron)
+
+Each level has several phases, which can be quite different in 
+play. The end of the last level is followed by a game End 
+Sequence.
+
+
+CONTROLS OF THE CHARACTER MOVEMENTS
+
+Plug joystick in Port 2 (no keyboard controls).
+
+Upon Level load completion press Fire to start (this allows you 
+to take a rest in-between levels...).
+
+Without Fire button pressed, the joystick controls the movements
+around the screen. There is walking and jumping (2 kinds). With 
+Fire depressed, you are in the fighting mode, and motion of 
+joystick then gives (Level 1 through 3): 
+
+                       Throw Daggers
+High kick (pulled   _____    |    ______      High punch
+opposite to facing)      \   |   /           or weapon blow   
+                          \  |  /
+                           \ | /              Middle punch  
+Kick (pulled    -------------X------------ or stab with weapon
+opposite to facing)        / | \          (or throw fire bolts) 
+                          /  |  \              
+Low kick (pulled    _____/   |   \_______     Lower punch
+opposite to facing)          |             or stab with weapon
+                       Kneel / Crouch
+                     (or icon pick up)
+
+Notes: 
+1. Directions are for facing right. When facing left, reverse 
+   all directions.
+2. Some weapons have to be worked with fire button in conjunc-
+   tion with joystick movement (you will have to try!).
+
+
+WEAPONS 
+
+Levels 1 thru 3 have various weapons that you obtain by 
+various ways (for you to find out - hints are provided below). 
+You start with your bare fists...
+
+You select the weapon by pressing the < | | >  keys to scroll 
+left-right or right-left. The center top of the screen shows 
+only 3 slots, so not all the weapons you have show. You have to 
+scroll. The center one is the one in use.
+
+Level 4 is unique in this area as you are on a magic carpet 
+fighting like a jet fighter... So the controls are like hori-
+zontal shoot'em up games. You do get various weapons there too.
+
+
+LIVES/ENERGY
+
+The top right of the screen shows the number of lives in reserve
+and your energy. Instead of an energy bar you have 3 (at start) 
+energy pellets which change color upon use. In the game you may 
+have up to 4 such pellets as you can gain new ones in the play.
+So it is for lives. You can have up to 7 in reserve even though 
+you start only with 2.
+
+
+GENERAL HINTS
+
+Always remember you can pause/unpause the game using the P key!
+
+The first aspects of the game you should MASTER are the JOYSTICK 
+controls.  The highly interactive nature of the game is required  
+because of some of the COMPLEX MOVES the main character has to 
+perform.  A high level of competence at the controls will enhance 
+your game play CONSIDERABLY. Try use with trainers on!
+
+Because of the adventure elements, our second suggestion is that 
+you should get into the habit of RECORDING what happens on each 
+screen.  This will enable you to obtain HIGHER SCORES with 
+repeated play. 
+
+The last point is, NEVER take anything FOR GRANTED  - some things 
+are not as they appear. Be curious, nosey, etc. and try 
+everything. Throwing things in fire can bring unexpected results 
+for example.
+
+-------------------------------------------------------
+Written in June 2000 with input by COWBOY of FBR (1989), and
+hints from Kim Lemon's Site discussion board, as well as the 
+VOID Site info for the Spectrum.
+
+
+-END- 
+
+
+(extras from the original instructions sheet)
+
+Keyboard controls
+
+[...]
+
+For Spectrum and Amstrad owners
+
+SPACE BAR	- Cycle through and select icon in window
+		- Press again outwards to get back in the game
+Q		- Left
+W		- Right
+I		- Up
+J		- Down / small jump
+O		- Fire
+H		- Pause game
+
+If these keys prove unsuitable  to  some  games  players, there is an option to define the keys at the beginning of the game.
+
+
+Status area definitions
+
+For Spectrum and Amstrad owners
+
+		      Status area
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿  ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿  ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³Score          ³  ³Amount         ³  ³Energy         ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿  ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿  ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³Lives          ³  ³Collected items³  ³Teleport cons  ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+Lives		- Ammount of lives (up to six)
+Score		- Current score
+Amount		- Shows the number of times the currently selected item 		can be used
+Items		- Shows what you are holding. Press SPACE to select them
+		and LEFT and RIGHT to move
+Energy		- Shows your energy. When energy is low the man will pulse
+		colours. When energy reaches zero a life is lost and
+		energy reset to maximum
+Teleport icons	- The amount of these you have collected so far.  When all 
+		have been collected they will flash continuously to
+		confirm that the master icon is on the map
+
+[...]
+
+Clues
+
+For Spectrum and Amstrad owners
+
+Collect all the "TELEPORT ICONS" to reveal a "MASTER ICON". This is then
+used on the "TELEPORT PAD" to get results.
+
+CHEST
+Treasure what you may find.
+
+VASES
+Take a welcome break and your quest could prove fruitful.
+
+GEMS
+Just what the doctor ordered.
+
+HEART ITEM
+Conserve your strength and realise your limitations.
+
+DOVE
+Be flight and cause a major coo!
+
+SKULLS
+A burning desire brings out the devil in you.
+
+MEDUSA
+Head off in the right direction and open your eyes to all around you.
+
+TRIDENT
+Be a kill joy, two's company but there's a crowd.
+
+SACK
+As you journey onwards, remember you have certain statutory rights.
+
+BOLTS
+It all adds up to a lot, so save some for a rainy day.
+
+
+==========================================================================
+Taken from Project 64 with additional material by Cristian Secara.
+Readapted for the Spectrum in 2000 AD by
+Alessandro "Gazzosa" Grussu
+http://members.nbci.com/gazzosa

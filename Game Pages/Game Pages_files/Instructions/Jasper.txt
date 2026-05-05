@@ -1,0 +1,61 @@
+JASPER
+
+A cartoon arcade adventure for the 48k Spectrum by Derek Brewster
+
+JASPER was very worried - the world had gone too far this time. He'd gone
+for a walk minding his own business when the Furt had Wangled. Now every
+creature and even some of the vegetation was a danger to him. Until now 
+he'd never believed all that nonsense his Old Mother used to give him at 
+bed-time ...
+
+"Beware the Wangling of the Furt, my son, for then the jungle goes all 
+odd!" - he'd always thought her a bit out to lunch herself - "At such a
+time the flowers may spring your heels. Jars of potion protect or project.
+To save death from a weed, killer sprays you will need... "- Limerick mode
+... he hated this bit - "Ropes in coils will aid your toils, you will not
+be shot if Flag you have got, if falling's yourfolly then open your brolly
+..." She WAS off her trolley... and when she got HIM doing it he KNEW it
+was time he pretended to be asleep!
+
+But now he wished he had heard her through. Penitent at having doubted his
+Old Mum, he decided to go home and sleep this one off. He fumbled in his
+pocket for the front door key... and found a hole instead. Stay calm... he
+counted to ten, and got stuck at four. His tummy rumbled - he must finf 
+food soon. Everything was against him. He wanted his Old mum!
+
+A killer-bunny hopped amiably towards him as, armed only with a total lack
+of resolve, he set off in search of his key, his home, and safety...
+
+To load, press J key and holding down red SYMBOL SHIFT, press P key twice.
+Screenshould show LOAD "". Press ENTER and start playing the cassette.
+
+NB: JASPER has a special loader - do not be concerned if the usual striped
+border does not appear.
+
+CONTROLS
+
+		A		Left
+		S		Right
+		Y to P		Up/jump/release rope
+		H to ENTER	Down/duck
+		B to SPACE	Pick up/hold onto rope
+		1 to 5		Use object in box number 1 to 5
+		Q to T+1 to 5	Drop object in box number 1 to 5
+		6 to 0		Music on/off
+
+JASPER is a cartoon adventure containig 22 screens each with their own
+particular combination of problems and dangers. Objects can be collected 
+and redistributed for later use. Up to 5 can be carried at any time 
+(remember that holding a rope counts as carrying an object). There is no
+single way of getting through, and some screens need to be visited more 
+than once. JASPER is less about fast reactions and more about clever
+planning, quick thinking and accurate control. It represents a new high in
+its unique melding of cartoon animation, adventure structure and multiple
+screen arcade game concepts. Reaching the end will require a great deal of
+practice and discovery... we challenge you!
+
+
+
+This program is protected by copyright. Unauthorised copying, lending or
+hiring is prohibited
+Micromega, 230-236 Lavender Hill, London SW11 1LE

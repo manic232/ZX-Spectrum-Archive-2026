@@ -1,0 +1,81 @@
+MINDSHADOW
+----------
+
+Insert the "MINDSHADOW" cassette in your cassette recorder.
+Make sure the cassette is fully rewound.
+To load the tutorial type LOAD"" followed by 'ENTER'
+The tutorial section will now load automatically.
+
+If you do not want the tutorial to load, and want to play the main game then
+type the following: LOAD "MIND1" followed by 'ENTER'.
+
+If you want to play the second part of Mindshadow, type the following: LOAD
+"MIND2" followed by 'ENTER'. Note that you will only be allowed to play "MIND2"
+if you have previously completed "MIND1" and saved the position onto cassette.
+You cannot complete "MIND2" without haveing this saved game ready.
+
+NOTE: On the recerse of the tape, "MIND2" is the first file followed by "MIND1".
+This is done so that if you have completed the first part of the game it will be
+easier for you to load the second part.
+
+GETTING STARTED
+---------------
+If you load the TUTORIAL section, you will be taught the basics of how to play a
+graphic adventure.
+Now and then, in the thick of Mindshadow, you may feel baffled. To assist you in
+these circumstances, you may type HELP. The computer will respond to your need
+for help. But it may or may not offer advice.
+Whenever you wish to view any previous text, you can press "ENTER". The graphics
+will disappear and be replaced by text, if you press "ENTER" again the graphics
+will reappear.
+
+MINDSHADOW FEATURES
+-------------------
+SAVE GAME: Please follow the instructions that appear on the game screen. You
+will need a blank tape ready to save your game onto. (It is not possible to save
+onto the Mindshadow cassette.) The screen will instruct you to insert the game
+save cassette. Then it will ask you to press any key to continue. When you press
+"any" key, the program will start saving your game. After the game has been
+saved, the screen will prompt you to replace the Mindshadow cassette. Remember
+to note down what is saved on a tape, otherwise you will lose track of your
+saved games.
+
+LOAD GAME: Please follow any instructions that appear on the game screen. You
+will need you game save tape. The screen will instruct you to insert the same
+save cassette. Then it will ask you to press any key to continue. When you press
+"any" key, the program will start to load your game. After the game has been
+loaded, the screen will prompt you to replace the Mindshadow cassette.
+
+NOTE: There are two parts to the Mindshadow game. Game positions saved while
+playing "MIND1" will not be accepted by "MIND2", and vice versa. The screen will
+give an error messag. The only exception to this is when you have completed
+"MIND1", as described earlier. A game save must be made at this point, in order
+to let you start playing "MIND2".
+
+QUICKSAVE: This is another feature of Mindshadow, it enables you to save a game,
+without using a tape. So if you are about to make a move you are not sure about,
+you should use QUICKSAVE first. Each time you use QUICKSAVE the position last
+stored is lost. Lastly remember that if you have decided to stop playing for
+now, you should save the game onto cassette, as when you turn off your computer
+ALL information is lost!
+
+QUICKLOAD: If you have QUICKSAVED a game the QUICKLOAD will restore the game, as
+you left off when you QUICKSAVED.
+
+TEXT COMMANDS
+-------------
+THINK COMMAND: when a clue of any kind presents itself or if you want to know
+more about the nature of a character or object type "THINK_____" filling in the
+name of what you'd like to think about. If you haven't "thought" about enough
+clues during the game, you may get to the end of your adventure and not know
+your true identity.
+
+KEY COMMANDS: A partial but important listing. Use these commands as a quick
+reference. Several can be abbreviated as noted.
+
+(N)orth      (U)p          Push       Insert
+(S)outh      (D)own        Take       Read
+(E)ast       (L)eft        Open       Close
+(W)est       (R)ight       Get        Turn
+(F)orward    (I)nventory   Talk       Go
+(B)ackward   Examine       Drop

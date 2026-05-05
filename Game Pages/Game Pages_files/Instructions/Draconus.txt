@@ -1,0 +1,80 @@
+DRACONUS - ZEPPELIN GAMES LTD
+
+Draconus, a Zzap! Silver Medal Winner on the C64, is totally original
+micro entertainment. With its gothic scenery and gruesome monsters,
+and the two fully controllable characters of Frognum and Draconewt,
+Draconus creates a terrifying world just waiting to be explored.
+
+Program - Spike.
+Graphics & Game Design - Michael Owens
+
+Made in UK
+
+SPECTRUM LOADING INSTRUCTIONS: LOAD ""
+
+Draconus is set on an alien planet ruled by the Tyrant Beast who must
+be obliterated in the final screen of the game. To get to that stage
+the mysteries and magical forces, which unfold before you must be
+understood and harnessed to progress through this multi-screen epic.
+On your journey through the labyrinthine complex you'll meet various
+nasties such as Giant Rats, Bats and Sea Serpents, together with a
+sprinkling of Terrortoads and ferocious Catepelones. To help you are
+many useful artefacts like the Demon Shield, Necromancer's Staff,
+Dragon's Eye, and Morph Helix. Flasks of Flame Fluid, Energy Crystals
+and many Spells help you on your way.
+
+CONTROLS
+
+JOYSTICK Frognum
+
+WITH FIRE PRESSED            WITHOUT FIRE PRESSED
+
+      BREATH                 JUMP JUMP  JUMP
+      FIRE UP                LEFT  UP   RIGHT
+      \  |  /                    \  |  /
+       \ | /                      \ | /
+        \|/                        \|/
+PUNCH ---*---               WALK ---*--- WALK  
+        /|\                 LEFT   /|\   RIGHT
+       / | \                      / | \
+      /  |  \                    /  |  \
+ FIRE   DUCK    &                  DUCK
+SPELL   DOWN BREATH FIRE
+
+DRACONEWT
+
+8 Direction Movement + FIRE to breath water jet
+
+KEYBOARD
+
+On the title page ENTER toggles between Demo and Keyboard options
+Press SPACE to play
+SYMBOL SHIFT + Q to quit
+
+The keys can be defined to suit or you can just use the default keys.
+
+THE DEFAULT KEYS ARE
+
+P       Pause/Unpause           N       Down
+J       Up                      Z       Left
+K       Fire                    X       Right
+
+There are two main characters between which you can switch during the
+game, namely the tall Frognum, and the aquatic Draconewt. Frognum can
+walk, jump, punch, duck and breath fire. Draconewt can blow water jets
+but can never leave the water as Draconewt.
+
+When on the Morph Slab pulling down will transform you into Draconewt
+if you have the Morph Helix. Pushing up when underneath a Morph Slab
+will turn you back into Frognum.
+
+On loosing one of your 3 lives the game takes you back to the last
+Record Slab on which Frognum has stood.
+
+Backgrounds, such as spikes, will kill you if touched. The screen
+shows the magical items ranged along the side with the energy scrolls
+for Frognum on the top and Draconewt on the bottom. During play you
+can pick up Flasks of Flame Fluid, with each flask holding enough for
+10 good blasts, and Energy Packets, which will put your energy right
+back up depending on whether you are Frognum or Draconewt. If Frognum
+falls too far he will loose energy and may be killed.

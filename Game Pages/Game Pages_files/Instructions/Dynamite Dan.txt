@@ -1,0 +1,32 @@
+ DYNAMITE DAN 
+ Mirrorsoft 1985
+
+ CONTROLS : Keyboard, Kempston, Cursor
+ ---------------------------------------------------------------------
+ AIM : Arriving in an airship, Dan must find 8 sticks of dynamite,
+ blow a safe and steal plans for a secret weapon. For more information,
+ press I in the main screen.
+
+ GAMEPLAY : The house is divided up into 48 slightly overlapping
+ screens, six high, eight wide, but they wrap around horizontally
+ which effectively makes the building a cylinder. Along the bottom
+ runs a river, which can be negotiated by waiting for a raft to
+ float by, jumping down onto it and keeping up with it by walking
+ at its speed. Falling into the water is fatal unless you have
+ found an oxygen bottle. Other collectable items are the eponymous
+ sticks of dynamite (eight are needed to blow open the door of the
+ vault), a weapon to defend yourself against the creatures in the
+ house, and food to keep up your energy level.
+
+  You will also come across various obstacles and helpful features -
+ trampolines, rooms entirely filled with trampolines, tightropes,
+ teleports and a lift. Fortunately for Dan he's a fairly athletic
+ type, able to jump and land gracefully (although if he falls too
+ far he's dead).
+
+ COMMENTS : "A highly playable, fun and addictive game"
+ RATING : 94% (CRASH #18, July 1985)
+
+ NOW : A pretty-looking platform game; a little old-fashioned though.
+ ----------------------------------------------------------------------
+ KEYS : Redefinable

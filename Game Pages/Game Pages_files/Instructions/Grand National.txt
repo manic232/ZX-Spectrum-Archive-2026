@@ -1,0 +1,284 @@
+GRAND NATIONAL
+ 
+PUBLISHER
+Elite
+
+YEAR
+1984
+
+Elite's Grand National is a computer game that combines strategy and arcade
+action to reproduce all the excitement of the World's most famous horse race.
+
+GAME FEATURES
+
+1. Choice of a single ride or racing career.
+2. Optional Betting on the race result.
+3. Choice of mount.
+4. Race Report Sheet.
+5. Variable Race Conditions.
+6. Form Guide.
+7. Intelligent Automatic Bookmaker.
+8. 40 Unique Horses, with own characteristics.
+9. Special Real Time Race Monitor.
+10. Panoramic view of Race.
+11. Running, Camera view of Race.
+12, Up to 40 other competing horses.
+13. Energy Level Bargraph.
+14. Speed Level Bargraph.
+15. Course Map and Tracking Dot.
+16. Large Digital Race Clock.
+17. Fence Number Indicator.
+18. Leading Horse Number.
+19. Horse Position Number.
+20. Number of Horses Fallen Indicator.
+21. Number of Horses Retired Indicator.
+22. Number of Horses Running Indicator.
+23 Stewards Enquiry System.
+24. Detailed Final Report Section.
+25. Prize Money.
+26. Realistic Horse Control.
+27. Realistic Horse Animation.
+28. Detailed Scrolling Graphics from two angles.
+29. Disqualification.
+30. Fines.
+31. Non-Runners.
+32. Arcade Strategy Combination.
+
+INTRODUCTION
+The Grand National course is regarded as the toughest race course in the world.
+Those who ride it risk injury or death jumping fences such as the chair, a
+notorious fence nearly four feet wide and rive feet high, fronted by a six foot
+ditch. It isn't surprising that this fence has been responsible for many
+injuries over the years.
+It is your job as the jockey not only to conquer the course through knowing your
+horse, but also to make the choice of horse that you will ride in the race. The
+whole game can be won or lost on this decision alone. The game combines these
+factors to produce a combination of strategy and skill, with all the excitement
+of the Grand National on your screen. Running a number of nationals can build up
+a career record, and a final award is given to the top riders. Now take the
+reins on your 48K ZX Spectrum and gallop your way into the record books!
+
+THE GRAND NATIONAL
+The Grand National is the ultimate race of the National Hunt season. It is run,
+and always has been run, at the Aintree Race course near Liverpool. The full
+Aintree course involves sixteen fences, and all but the last two of these are
+covered for a second time round, making a total of thirty fences to be jumped.
+The National has a maximum entry list of forty horses but some horses pull out
+before race day due to injury or ill-health of either the horse or the key. The
+riders range from amateurs fulfilling a life-long dream, to the professional
+jockeys who ride with one intention, to win! The National lasts about ten
+minutes, but in our game the clock runs faster to shorten the game time.
+
+HORSE RACING
+This section gives some general information about racing which is useful to know
+when playing the game. Those of you who are racing addicts will know much of the
+information below already. All horses, except those who have not run any races,
+have a form rating In the Grand National, a horse must have won a race with a
+value of one thousand pounds in the last year to qualify, so as far as we are
+concerned, all our horses have a form value. Form is normally listed as a series
+of letters and numbers indicating a horse's recent success or failure. In our it
+game, form is simplified to a zero to ten rating.
+Another important factor in any form of horse racing are the ground conditions.
+These range fret' Very Soft' where the ground is very muddy and slow to run on,
+to 'Firm' where the round is quite solid. The best 'Going' is 'Good' where the
+horses can get a sure footing. Some have a preference, running well on good
+ground, while others can run consistently when going is soft. At the end of
+these instructions is a Form Guide, and for each horse, it shows the preferred
+ground.
+The final thing you will need to know about horses are their running styles.
+Each horse might have a different style and stamina when racing. Some horses may
+be good finishers for instance, while others may be good all rounders. It will
+be the above factors you will have to consider when choosing your horse.
+
+BETTING
+In this game the betting is kept to 'On the nose' bets. That is a bet a horse to
+win. So if the horse wins so do you! To keep payouts simple, we have kept to
+simple odds such as S-1 and 10-1 and not used any of the nasty ones such as 13-2
+or 100-30. A second Point to remember is that we have decided to include the tax
+deduction. If you place a bet, most bookmakers will deduct 10% betting tax. So
+if you bet ten pounds it will be reduced to a nine pound bet So bringing all
+this together, if you bet say Ten pounds on a horse that wins at 10-1. First is
+reduced to nine pounds, you will then win 10x9-90 pounds, plus you will be
+refunded original stake (nine pounds).
+The bookmakers set odds according to a number of factors. In the first instance
+they will set the odds in relation to how well they think a horse is going to
+do. For instance, a horse that has odds of 2-1 is more likely (in their opinion)
+to do better than a horse with odds of 10-1. Another factor that affects the
+odds, and often in a bigger way than the horses' read ability, is the amount of
+money actually backing a horse. If for instance a horse at 20-1 suddenly gets
+backed with Large sums of money its odds will shorten to say 10-1.
+So all in all, the odds are a fair indicator of how well a horse will do but
+don't rely on them.
+
+GETTING STARTED
+As you pick up the various stages of the game you wilt probably want to refer
+in detail to the information that is included here. The game itself is quite
+helpful, so with a little thought, you won't want to read everything below
+immediately. And always remember If at first you don't succeed, try plugging it
+in/tuning it on/reading the instructions!
+
+LOADING INSTRUCTIONS
+1. Connect your tape recorder and leads to the ZX Spectrum, insert Grand
+   National Tape, and ensure it is rewound.
+2. Type 'LOAD', then press the Enter key.
+3. Press play on the tape recorder.
+
+GAME PLAY
+The game is split into three parts. The first is the Race Report in which you
+plan your strategy and place your bets. Second is The Actual Race where arcade
+skills are the key success, and lastly comes the Final report which gives all
+the final results and information.
+
+PART 1, THE RACE REPORT
+This is the first stage of the game, it requires the rider to consider all the
+information available and then choose the horse on which he/she wishes to ride.
+All the variable factors are displayed on the race report section, but only ten
+horses can be displayed at one time. Here are the controls.
+
+N to See other horses: Pressing N allows you to view the next set of horses and
+their data in the bottom window.
+
+F for Form: Pressing F displays the horses' recent form as a value between zero
+and ten. All things being equal, a horse with a higher form rating will have the
+best chance.
+
+B to Bet: Up to five bets may be placed on the horses actually running in the
+race Non runners will show 'NR' where the odds are normally displayed. Initially
+the rider has one thousand pounds available to bet with. More can be accumulated
+by winning the race and collecting prize money, or by backing a winner in the
+betting stage!
+When B is pressed any bets that you have already placed will be displayed on
+the screen. If five bets have been placed you will not be able to place any
+further bets, otherwise you will be prompted to enter the number of the horse on
+which you want to place the bet, followed by the amount you wish to gamble. The
+10% tax is deducted before the amount is displayed. The betting part of the game
+is optional, and if you do not wish to place any bets then there is no
+requirement to do so. When you wish to return to displaying the other data press
+'F'.
+
+C Choose your horse: Once you have assessed all the information available you
+must decide upon which horse you wish to ride. You are not allowed to freely
+pick any horse listed. Your stable has given you the option of riding ten horses
+of the forty listed. The horses you are allowed to ride are shown with inverse
+numbers. Some of them may be non-runners, so you can only choose a running
+horse. Here are a few suggestions when making your choice.
+1. Choose a horse that is suited to the ground conditions.
+2. Think of the odds as a rough guide to the horses' ability.
+3. Take account of the horses' recent form.
+Once you have selected your horse, press any key to start the race proper. If
+you prefer to use a joystick then either move the joystick, or press the fire
+button instead.
+
+PART 2, THE ACTUAL RACE
+The main race is run on a special screen that allows the rider to monitor
+his/her horse both from overhead view, and also from the side. Other horses
+nearby on the track are displayed as well on the overhead view. On screen also,
+are the various indicators and information about the current state of the race.
+The rider controls the horse by steering the reins left and right, cracking the
+whip to increase the speed, and jumping the fences. 
+
+KEYS:
+
+Z - Left
+X - Right
+0 - Whip
+P - jump
+
+JOYSTICK:
+Left and Right operate their logical directions, pushing up cracks the whip, and
+the Fire button is used to Jump.
+
+RACE MONITORS
+Bargraph Energy Level Indicator Horse Position No. 
+Bargraph Speed Level Indicator  Leading Horse No. 
+Large Digital Race Clock        No. of Horses Fallen Indicator 
+Fence No. Indicator             No. of Horses Retired Indicator 
+Course Map & Tracking Dot       No, of Horses Running Indicator 
+
+HINTS
+When riding your horse you must take into account its running style. So if your
+horse is a good all rounder, you will be able to keep up a good pace all round
+the track. On the other hand, If you have a strong finisher, then don't tire the
+horse on the first lap! To make the best use of the energy, try and come as
+close to using it all up as possible, but don't overshoot or your nag will
+collapse!
+
+STEWARDS ENQUIRY
+While playing the race, the rider must not run into the other horses! Bumping
+other horses is likely to cause a stewards enquiry. The result of which can
+range tram a mere disqualification to a career bail So beware! At the end of the
+race, any rulings, bans or fines will be made.
+
+THE FINAL REPORT
+At the end of the race a final report of the race is given. This gives the
+results of the race, any gains made from harking a winning horse, and any prize
+money gained by doing well in the race. Also listed are any points you have
+accumulated by finishing the top 4 in the race and also the total number of
+points gained during your career. Any disqualifications made during a stewards
+enquiry will he shown as well.
+
+PRIZE MONEY
+Prize Money is awarded as follows:
+
+1st: 40,000 + 10 pts
+2nd: 14,000 + 7 pts
+3rd: 7,000 + 5 pts
+4th: 3,000 + 2 pts 
+
+FORM GUIDE
+The following is a list of horses and their details for running style and
+preferred ground. Refer to this when choosing your horse.
+
+No.     NAME                    STYLE                             GROUND
+1       Greasepaint             Excellent All Rounder             Good
+2       Artimorval              Good Finisher                     Good
+3       Doorstop                Good Starter                      Good
+4       Lucky Vane              Excellent All Rounder             Firm
+5       Whistling Genatap       Consistent All Rounder            Good
+6       Hallo Dandy             Excellent All Rounder             Soft
+7       Corbiere                Good Starter, Excel. Finisher     Good
+8       West Tip                Excel. Starter, Good Finisher     Good
+9       Drumlargen              Good Starter, Excel, Finisher     Firm
+10      Eyecatcher              Good Starter                      Soft
+11      Fortina's Express       Excellent Finisher                Good
+12      Duke of Milan           Excellent Starter                 Good
+13      Broomy Bank             Excellent Finisher                Firm
+14      Ballinacurra Lad        Good All Rounder                  Good
+15      Pirate Son              Good Finisher                     Firm
+16      Glen Fox                Bad Finisher                      Good
+17      Kumbi                   Excel. Starter, Good Finisher     Firm	
+18      Fox Bury                Good Starter, Bad Finisher        Good
+19      Luck Daughter           Good Finisher                     Soft
+20      Matty Buskins           Bad Starter, Excel. Finisher      Good
+21      Fethard Friend          Excel. Starter, Good Finisher     Soft
+22      Rubsti                  Bad Finisher                      Firm	
+23      Rockin' Berry           Consistent All Rounder            Firm
+24      Howarth Halloway        Good Starter. Bad Finisher        Firm
+25      Classified              Good Starter. Excel. Finisher     Soft
+26      Drum Largan             Bad Finisher                      Soft
+27      Grand 0gan              Good Starter, Bad Finisher        Soft
+28      Last Suspect            Bad All Round                     Firm
+29      Talon                   Good All Rounder                  Firm
+30      Good Crack              Excel. Starter, Bad Finisher      Good
+31      Nicky Tam               Excel. Starter, Bad Finisher      Firm
+32      Tacroy                  Good All Rounder                  Soft
+33      Cockle Strand           Bad Starter, Excel. Finisher      Soft
+34      Why Forget              Good Starter                      Firm
+35      Max Friendly            Excel. Starter, Bad Finisher      Soft
+36      Succeeded               Bad All Round                     Good
+37      Road Mead               Consistent All Rounder            Soft
+38      First Glance            Excellent Starter                 Firm
+39      Derby Creek             Bad Starter, Excel. Finisher      Firm
+40      Terry's Nag             Excellent Finisher                Soft
+
+NOTE
+Some of horses used may not actually run in the 1985, or any other Grand
+National. At the time of writing, no lists were available, the final runners
+being decided only a few weeks before Grand National Day.
+
+Elite Systems
+55 Bradford Street, Walsall, England. Telex: 335622 SPETEL G.
+
+
+
+Typed by Mike Winn, Jan 2003.

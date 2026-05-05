@@ -1,0 +1,58 @@
+THE SPECTRUM GAME DATABASE
+
+OLLI AND LISSA
+
+PUBLISHER
+Firebird
+
+AUTHOR
+ISI
+
+YEAR
+1986
+
+DESCRIPTION
+Unusual platform game, set over a series of increasingly
+difficult screens.
+
+CONTROLS:
+The keys are redefinable, and certain joysticks can be used.
+
+INSTRUCTIONS
+Amongst the barren heights and rugged rocks of the Scottish
+Highlands, there is situated Shilmore Castle.  The Castle is
+under threat of being purchased and shipped stone by stone to
+America by Eugene Portcullis the third (Jnr) a mega-millionaire.
+Alarmed by this, Olli and Lissa rush to help their friend Sir
+Humphrey, the castle ghost, who was somewhat upset by the
+prospect of forced emigration to the New World.  Sir Humphrey
+decides that today, Human Beings are only scared by invisible
+ghosts.  You must collect eight ingredients for a potion
+to make the ghost of Shilmore Castle invisible and save the day.
+
+Playing the Game:
+You can use either keyboard or joystick to guide Olli on his
+quest through Shilmore Castle.  When the game starts, Sir
+Humphrey will tell you which item needs to be dropped into his
+cooking pot. You have to avoid other, not so friendly, ghosts on
+your way around the castle, and there will also be a time
+limit for each task.
+
+CHEATS
+Type "PORTCUL" after the menu screen and Olli will move much
+faster
+
+SEQUELS
+Olli and Lissa 2 and 3.
+
+SCORES RECEIVED
+78%  - Crash 34 (November 1986)
+9/10 - Your Sinclair (November 1986)
+
+URL
+
+
+NOTES
+Very difficult platfrom game, can get annoying on later levels
+when touching the wrong part of the screen can mean instant
+death. But does have nice graphics and colour.

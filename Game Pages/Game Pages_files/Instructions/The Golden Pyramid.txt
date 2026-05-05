@@ -1,0 +1,60 @@
+[ See transcription notes at the end of the document.
+
+Zenobi Software Adventures
+The Golden Pyramid
+
+Being a 'free-lance' reporter has it advantages and sat here supping a decent
+cup of 'Earl Grey' is most certainly one of them ... not to mention the slab of
+'Cherry Genoa' that had accompanied it.  All that remains of the latter are a
+few crumbs on a white porcelain plate, whilst the matching cup in your left hand
+is in urgent need of a re-fill.  Leaning forward you ring the small silver bell
+and some moments later old Rigby shambles towards you clutching a tray
+containing a silver tea-pot and a brown manilla envelope.
+
+"This just arrived for you," he mumbles and you smile at the missing 'Sir' that
+any of the others here present would have tagged on to the end of the statement.
+But old Rigby had never really accepted you as a 'bona-fide' member of this club
+and often made his feelings known concerning the matter.  However he was good at
+his job and the simple fact that he produced such an excellent pot of tea more
+than made up for his 'crustiness'.
+
+Tearing open the envelope, you slide out the small sheet of paper contained
+within and begin to read its contents as old Rigby turns on his heels and
+shuffles away.
+
+".... have located the site of the ancient GOLDEN PYRAMID ..... looks to be in
+excellent condition .... natives a shade restless but should not cause you many
+problems .... the rumours have it that it is untouched ..... will look forward
+to your arrival ...."  Your eyes scan across the page and come to rest on the
+signature on the bottom and a smile of recognition flits across your face.  You
+have seen that scrawl many times before and it has always meant that you were on
+the verge of yet another great adventure.  One day you would have to meet
+Wee-Yin personally and express your gratitude for all his stalwart work in the
+past.
+
+Some hours later, fully equipped and ready for any eventuality, you climb into
+the 'jump-seat' of a light aircraft and set off for the arid region of Africa
+where the GOLDEN PYRAMID is to be found.
+
+NOTES:
+
+This game will accept all the standard commands such as EXAMINE, LOOK, GET,
+INVENTORY etc.  It will also accept the use of RAM SAVE and RAM LOAD in order to
+save and load a game 'position' to and from MEMORY.  However always use the more
+normal commands of SAVE and LOAD to store your position on tape.  This will
+ensure that your record will be a permanent one.  To quit the game at any time
+simply type in QQ and follow the prompts on screen.  Abbreviations are ...
+G = Get, R = Look, L = Look, X = Examine and I = Inventory.
+
+Spectrum 48K/128K+2
+
+[ Transcription Notes: This transcription attempts to adhere
+[		       as strictly as possible to the original text.
+[                      This means that punctuation and grammatical
+[                      errors have not been corrected.  
+[
+[                      Matt Rudge
+[                      Wickow, Ireland
+[                      March, 2006
+[
+[ Errors and omissions to: mrudge AT gmail,com

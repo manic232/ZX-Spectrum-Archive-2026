@@ -1,0 +1,218 @@
+THE SPECTRUM GAMES DATABASE
+
+THE RUNES OF ZENDOS
+
+PUBLISHER
+Dorcas Software
+
+AUTHOR
+Chris Dorell ?
+
+YEAR OF RELEASE
+1984
+
+DESCRIPTION
+The Runes of Zendos is an animated graphical adventure.
+
+CHEATS
+
+INLAY CARD TEXT
+The tiny principality of DORCASIA was a pleasant fertile land
+until the wizard ZENDOS used his evil powers to cast the country
+into perpetual darkness until all citizens pledge obedience to
+him.
+
+It is known that through the SPELL OF DARKNESS Zendos has trapped
+the spirit of each month into one of 12 GOLDEN TEMPUS RUNES or
+RUNIC HOUR GLASSES hidden deep within the mysterious and magical
+castle.
+
+As the land dies in the grip of the black desolation a hero must
+be found to locate and destroy the 12 hour glasses thus releasing
+the months and returning Dorcasia to the natural forces of the
+seasons.
+
+Each glass has a RUNIC inscription around its base which you must
+read and understand. Only saying these words will lift that part
+of the spell. To protect the hour glasses Zendos has placed them
+in 12 seperate rooms in his castle, each room linked to a
+different exterior gateway by a devious route.
+
+Depending on which entrance you select Zendos casts spells which
+change the locations of rooms within his castle to confuse you.
+The menacing creatures and challenging problems which confront
+you at every turn mean that only the brave and the clever will
+succeed.
+
+                                INTRODUCTION
+
+Runes of Zendos is a complex and fascinating adventure game which
+incorporates 12 seperate adventures in the castle of the wicked
+wizard Zendos.  Many of the dangers and creatures will reappear
+in each adventure as Zendos attempts to defeat you, so experience
+from one adventure will help in the next.  Nevertheless each
+adventure has unique spells and problems plus a different route
+to ensure a new challenge is provided. The game features full
+animation, sentence input, sound effects, save game facilities
+to tape or microdrive and much more.
+
+                                 OBJECTIVE
+
+In each adventure your mission is to locate the hour glass and
+release the captured month by reading the magic inscription
+around the base. The inscription appears in a runic script
+devised by Zendos to foil his enemies.  With skill, courage and
+intelligence you can achieve much in the castle but only by
+deciphering the Runes of Zendos will you attain the ultimate
+goal.  Watch out for any clues to solving the runes as you
+proceed in your adventure - there's even a clue on the cassette
+label!
+
+                               SCREEN FORMAT
+
+The top half of the screen shows continuously your location and
+the results of your action and of the creatures you meet. All
+action is animated and appears immediately.
+
+The lower part of the screen contains messages from the computer
+including error comments.
+
+The bottom 3 lines are reserved for your input. When typing your
+commands you have all the standard SPECTRUM cursor
+movement/delete functions available.  The ENTER key should be
+pressed when you are happy with your sentence. Input is accepted
+in upper and/or lower case and is "echoed" in the text part of
+the screen.
+
+                               COMMUNICATION
+
+You can enter simple sentences which must contain one verb. The
+following are examples of acceptable sentences:-
+
+   Take the sword
+   Attack the guard with the mighty axe
+   Unlock the door with the golden key
+   Move left
+   Say magic spell
+   
+The program will accept any words it has displayed plus words
+from this dictionary.
+
+                                DICTIONARY
+
+Movement     : up (u), down (d), left (l), right (r)
+Verbs        : attack, drop, eat, examine, give, greet, move,
+               pick up, remove,
+               run, say, take, unlock, use, wear
+Special verbs: status (?), adventure, save, load, stop
+Adverbs      : quickly (q)
+Prepositions : at, into, from, with
+
+                               ABBREVIATIONS
+
+A single letter or symbol in brackets after a word above can be
+used in place of that word. Adjectives can usually be omitted
+unless this causes ambiguity e.g "drop the key" is acceptable
+unless you have two keys in which case you should enter "drop the
+golden key" or whatever.
+
+If you wish to repeat a command simply press ENTER. This is
+particularly useful during fights to repeat sentences like
+"attack the creature with the weapon".
+
+In general if the sentence you enter looks right it will be OK.
+If it is not accepted then a self explanatory error message will
+appear. Rules of common sense apply so that for example:-
+
+   You can't - wear what you're not carrying
+             - say a spell if you don't know it
+             - attack a creature in another room.
+
+                               SPECIAL VERBS
+
+Status (?) : By typing "status" or ? you can check which
+adventure you are in, your strength, what you are carrying and
+wearing and so on. Press any key to return to the normal display.
+
+Adventure  : When the game loads you are at the start of
+adventure one. At any time you can switch to the start of a
+different adventure by entering "adventure" followed by a number
+from "one" to "twelve".
+
+Save & Load: You can save or load an adventure at any point using
+tape or microdrive. The program creates its own file name based
+on the adventure number you are saving and the file number which
+you specify. You can thus have each adventure saved at different
+stages by specifying different file numbers.
+
+These examples assume you are in adventure 4:-
+
+Input                       Result
+   
+"save zenfile one, md one"  adv4file1  output to microdrive 1
+"save zenfile ten, md two"  adv4file10 output to microdrive 2
+"save zenfile three, tape"  adv4file3  output to tape
+
+"load zenfile one, md one"  adv4file1  loaded from m/drive 1
+"load zenfile three, tape"  adv4file3  loaded from tape
+
+NOTE Load and save must be typed in full. They both use the
+current adventure number to create the file name so if you wish
+to reload a different adventure use the "adventure" verb first
+to change adventures then "load" as above.
+
+Stop       : Typing "stop" in full returns you to BASIC so that
+you can delete microdrive files, display the catalogue etc. As
+long as you don't corrupt the small driver program in memory RUN
+will return you to your adventure.
+
+                                GENERAL NOTES
+
+Fighting                : Whenever you meet a creature its
+strength and yours are displayed in a pennant at the top of the
+screen.  If a creature is very strong you will need more than
+your bare hands. You may have something the creature wants or
+which will help you defeat it. Perhaps you can befreind it or use
+a magic spell if you know one which is appropriate. Luck can play
+its part and you can improve your luck by using certain charms
+and lucky items.
+
+Spells                  : You can "say" a spell which you have
+found and which therefore appears in your knowledge list in the
+current adventure. A spell must be "said" in English even though
+it may appear in runic script.
+
+Wearing                 : You can wear one item on your head and
+one on your body. If you "remove" something you will still be
+carrying it.
+
+Eating                  : You begin each adventure with a supply
+of provisions you can 'eat' in quantities from 'one to twelve'
+to increase you strength by that amount. e.g. 'eat three'. You
+will also find items of food which, when eaten, increase your
+strength. If you eat to much it will cease to have any effect.
+NOTE: Fighting and running sap your strength.
+
+Performance             : The status display contains a
+performance figure to show how much of the current adventure you
+have completed.
+
+SPECTRUM error messages : If during saving or loading you get an
+error message, eg. microdrive not present or full etc, simply
+enter the keyword RUN to retrieve your position after taking
+corrective action.
+
+                                QUEST COMPLETION
+
+To finally free Dorcasia and banish Zendos from the land you must
+"say" the first letter of each of the 12 hour glass inscriptions.
+You can do this at any time to prove that you have completed all
+the adventures.
+
+SCORES/REVIEWS
+
+SNAPSHOT/URLS
+
+FACTS ABOUT THE GAME
+
+NOTES

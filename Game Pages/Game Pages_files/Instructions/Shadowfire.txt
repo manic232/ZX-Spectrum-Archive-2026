@@ -1,0 +1,397 @@
+INTRODUCTION
+  Welcome to the world's first-ever icon-driven adventure: Shadowfire - rescue
+from Zoff V.
+
+MISSION BACKGROUND
+  At this time starships can jump from star to star using their hyper-drives.
+They are unable to jump into a planet's orbit. General Zoff, traitor to the
+Empire exploits this situation. His skyfortress, Zoff V, lurks behind the
+perilous asteroid belts which ring planet Norgol. There he plots the conquest
+of the Empire's peaceful worlds.
+  However, plans for a new kind of starship do exist. They propose a craft
+called Shadowfire, able to jump from planet to planet. If Zoff had the plans he
+could ravage any part of the empire. If the Emperor had the plans he could
+destroy Zoff.
+  Unfortunately, Ambassador Kryxix has the plans, hidden in a micro-disc
+embedded in his spine. The ambassador is held captive aboard Zoff V. In a few
+short hours Zoff's inquisitors will discover the plans, unless the Empire's
+Enigma team can rescue Kryxix.
+  Enigma is a shadowy organisation dedicated to the Emperor's service. Its
+operatives are the cream of the Empire's legions, the worst of its criminal
+scum or the latest development in cybernetics. Its mission controllers are
+dedicated. That is why you have been chosen to head this mission. The Empire
+commands! Your team awaits!
+
+GAME OBJECTIVES
+  You have one hour and forty minutes to accomplish the Shadowfire mission.
+Using the abilities of the Enigma team you must locate and rescue Ambassador
+Kryxix, apprehend and capture General Zoff, then capture or destroy the
+starship Zoff V. You can accomplish these tasks in any order!
+  The mission opens with the Enigma craft moored alongside Zoff V. Your first
+task is to beam some or all of your team aboard using the abilities of the
+droid Manto.
+
+TO LOAD SHADOWFIRE
+
+  Spectrum/Spectrum Plus (cassette): Type LOAD"" then press ENTER on the
+keyboard. Next press PLAY on your cassette player.
+
+CBM 64: Tape users press SHIFT/RUN STOP and press PLAY on your recorder. Disk
+users type LOAD "*",8,1 and press RETURN.
+
+Amstrad tape users press CTRL and small ENTER and press PLAY on the recorder.
+Disk users type RUN"DISC and press ENTER.
+
+KEYBOARD FUNCTIONS AND ENTERING COMMANDS
+
+Spectrum:          Up               Down              Left             Right
+
+Top row       Use any key to enter your commands
+2nd row         All keys             -                 -                 -
+3rd row            -              All keys             -                 -
+4th row            -                 -             Alternate         Alternate
+                                                      keys              keys
+
+Commodore:         Up               Down             Left              Right
+
+Top row          Cursor              -                 -                 -
+                  left
+2nd row        all other            CTRL               -                 -
+                  keys
+3rd row          RETURN          all other          RUN/STOP             -
+                                    keys
+4th row            -               Cursor          Alternate         Alternate
+                                   right              keys              keys
+Use any top row key to enter your commands.
+
+Amstrad:           Up               Down             Left              Right
+
+              Use the cursor arrow and copy keys
+
+SELECTING JOYSTICK
+  Use the cursor cluster to position the cross-hairs over the joystick icon and
+then press the copy key.
+
+JOYSTICK CONTROL
+  Use the joystick to move the cursor over the icon of your choice, then press
+the fire button to ENTER your command.
+
+GAME START/SAVE MENU
+  After choosing the means to control the Enigma characters, you will be
+presented with the game start/save menu: Simply select the new game option to
+begin the mission, this triggers the real time countdown clock.
+
+AMSTRAD USERS
+  After choosing the means to control the Enigma characters, you should select
+the square quit screen icon, this will take you to the game start/save screen:
+select the new game option to begin the mission.
+
+GAME SAVE OR LOAD
+  Select the appropriate cassette icon.
+
+Icon Description      Icon Use/Meaning
+
+Cassette load         - Load a saved game
+Cassette save         - Save game position
+Rubber                - Delete file name character
+C.R.                  - Carriage return (and filename)
+Clock (old game)      - Return to current game
+Clock (new game)      - Start new game
+_______________________________________________________________________________
+
+Some of the above icons will not appear on all computer formats. The Amstrad
+version will load/save to tape or disk automatically.
+
+ENIGMA TEAM SCREEN
+  Here are displayed the surviving members of the Enigma Team. Move the cursor
+over the character of your choice and enter your command. You will be presented
+with the chosen character's status screen.
+  The team members are, from left to right:
+
+_______________________________________________________________________________
+
+Syylk
+* Insectoid: Age unknown: Status - Second in command.
+Background: Recruited after heroic service in the Empire's legions. A ruthless
+and fearless fighter. However, has pathological hatred of Zoff who enslaved his
+home world. This could prove a weakness.
+Hint: Excellent fighter. Always wears battle armour. Physically strong.
+
+Sevrina Maris
+* Human: Age 22: Status - Specialist.
+Background: A persistent and deadly malfactor, with a criminal record ranging
+from arms smuggling to organised mayhem. Recruited direct from the death cell
+on Kerol, upon Torik's recommendation. Fiercely independent and loyal only to
+herself. Caution advised.
+Hint: Excellent markswoman and locksmith.
+
+Manto (Amstrad - above)
+* Transport droid: Status - Transporter.
+Background: Only member of the team with transporter ability. Has limited
+self-defense capabilities, must be protected.
+Hint: The transport function is vital to the success of your mission.
+
+Maul
+* Weapons droid: Status - Combat.
+Background: Designed to carry many different weapon systems. Self-defense
+capabilities excellent. However, not yet tested in combat.
+Hint: Slow moving but well protected.
+
+Zark Montor
+* Human: Age 38: Status - Team Leader.
+Background: Recruited to the Enigma organisation after outstanding service in
+the Empire's legions. Battle injuries have left him with many plastoid internal
+organs and a strong cybernetic arm.
+Hint: Thorough knowledge of weapons. Expert in unarmed combat. Translator.
+
+Torik
+* Avian: Age 32: Status - Specialist.
+Background: Notorious gun-runner and galactic free booter. Recruited from the
+prison cell on Thalus. Associate of Sevrina Maris. Resourceful, capable and
+cunning individual.
+Hint: Thorough knowledge of explosives and weapons. Scout.
+
+_______________________________________________________________________________
+
+MISSION BRIEFING:
+  If this is your first SHADOWFIRE mission select the character MANTO.
+
+CHARACTER STATUS SCREEN
+  Each Enigma character has four screens: Status, Objects, Movement and
+Battle. This is the first. The icons show:
+
+Icon Description      Icon Use/Meaning
+
+Running figure        - Agility: this bar shows the speed of movement possible
+                        for each character.
+
+Strong arm            - Strength: the green bar indicates the strength (or
+                        weakness) of a character. It may change length during
+                        the mission.
+
+Heart                 - Stamina: this bar is most likely to decrease during the
+                        mission! It shows the physical endurance of each
+                        character.
+
+Scales                - Weight: when a character picks up an object a green bar
+                        will appear. If the object is too heavy the bar will
+                        turn red. Simply drop an object(s) to restore the bar
+                        to green.
+_______________________________________________________________________________
+
+HINT: Strength, Speed, Agility and Weight are all connected. Some characters
+are stronger, some faster, some have more Stamina and some can carry more.
+(Consider the hints under each of the character's PROFILES elsewhere in this
+manual.) Weakened characters may recover during the mission.
+
+Icon Description      Icon Use/Meaning
+
+Green monitor         - Gives access to the character's Movement Screen.
+
+Yellow monitor        - Gives access to the character's Object Screen.
+
+Red monitor           - Gives access to the character's Battle Screen.
+
+Arrow/Screens         - Quit: Select this icon when you have completed a task
+                        and wish to return to a previous screen. This icon can
+                        also be used to cancel a command.
+_______________________________________________________________________________
+
+MISSION BRIEFING:
+  Select Manto's yellow monitor and enter his Objects Screen.
+
+OBJECTS SCREEN
+  You enter this screen by selecting the Yellow Monitor icon on any screen
+connected with the character in play. This screen enables you to command a
+character to manipulate objects.
+  This screen belongs to the Manto character at the start of the mission. At
+left are the objects in the same location as Manto. In the middle are the
+objects carried by the character (there will be none at the start of the
+mission). Along the bottom a bar will register the weight of objects carried.
+  On the right of the screen are the icons which allow you to manipulate
+objects:
+
+Icon Description      Icon Use/Meaning
+
+Finger on Button      - Activate: To arm a weapons system, start a transporter
+                        pad, begin a self-destruct sequence, etc.
+
+Gun-knife exchange    - Ready for use: This icon lets you select which object a
+                        character will hold ready for immediate use. Move the
+                        cursor over the icon desired on either the left or
+                        middle sections of the screen and press ENTER. The
+                        object will appear below this icon.
+                        Hint: Make sure you use this icon when you arm a
+                        character, otherwise you will be obliged to use bare
+                        hands in combat!
+
+Hold briefcase        - Pick-up: An object. Move the cursor over this icon and
+                        press ENTER, then select the object of your choice and
+                        press ENTER. The item will appear in the middle of the
+                        screen as an object carried by the character.
+
+Drop briefcase        - Drop: An object. Move the cursor over this icon and
+                        press ENTER, then select the object carried and press
+                        ENTER. The item will re-appear on the left of the
+                        screen as an object in the same location as the
+                        character. 
+_______________________________________________________________________________
+
+  The remaining icons on this screen are Green Monitor (Movement Screen), Red
+Monitor (Battle Screen) and Quit.
+  Hint: Tools are normally activated using the following icons:
+Activate/Objects icon. However, specialist objects may require an additional
+command icon, eg: The Self Destruct unit (see Objects briefing). Such objects
+are activated using the following icons: Activate/Command icon.
+  Weapons are automatically activated in combat situations, but only if the
+character has a weapon held at the ready. Apply the following sequence of icons
+to the weapon of your choice which is already carried by the character Ready
+for use: Object icon. The chosen weapon will then appear below the Ready for
+use icon.
+
+_______________________________________________________________________________
+
+MISSION BRIEFING:
+  Your first task is to beam some or all of the Enigma team aboard Zoff V.
+Ensure characters to be beamed down are armed! If you perform the following
+commands on Manto's Objects Screen you will establish a transporter link:
+(1) Pick-up/Enter   (2) Transporter/Enter
+(3) Activate/Enter  (4) Ballistic control/Enter
+  You will be presented with a choice of three locations. From top to bottom:
+Fighter Bay, Shuttle Bay (Top) and Shuttle Bay (Bottom). Choose one and press
+Enter. Manto will be sent aboard Zoff V.
+  The commands necessary to beam the other members of the Enigma team aboard
+Zoff V are as follows: .
+(1) Drop/Enter  (2) Transporter/Enter
+(3) Activate    (4) Transporter/Enter
+  A selection of characters will be presented in the middle of the screen. Move
+the cursor over the character of your choice and press ENTER. That character
+will be beamed aboard Zoff V.
+  Hint: Make sure the characters you beam down are armed!
+
+MOVEMENT SCREEN
+  You enter this screen by selecting the Green monitor icon on any screen
+related to the character in play. This screen enables you to command a
+character to move to another location in the game.
+  At left are a number of arrows. The filled arrow(s) show possible directions
+for the character to move. In the middle of the screen is a text description of
+the character's current location. At right are three other icons: Red monitor
+(Battle screen), Yellow monitor (Objects screen) and Quit.
+  To command a character to move simply place the cursor over any of the filled
+arrows and press enter.
+  Hint: You can only move a character in the direction(s) indicated by a filled
+arrow. Occasionally, a character may refuse to respond. Either they are faced
+by a locked door and require a keycard (see Objects briefing) or they are about
+to be attacked.
+
+BATTLE SCREEN
+  You enter this screen by selecting the Red Monitor icon on any screen related
+to the character in play. This screen enables you to command a character to do
+battle.
+  At left will be displayed characters standing in the location selected. In
+the middle of the screen are the attack/retreat indicators. On the right are
+the icons which allow you to command a character to fight or retreat:
+
+Icon Description      Icon Use/Meaning
+
+Right arrow           - Attack: This icon commands a character to do battle. If
+                        they are successful they will advance into the enemy's
+                        location.
+
+Left/right arrow      - Defend: This icon commands a character to stand fast
+                        and do battle.
+
+Left arrow            - Retreat: This icon commands a character to retire to
+                        the next location.
+
+Square with detail    - Location scan: This icon enables you to look into a
+                        character's current location or adjacent locations.
+                        Then you can count or identify other characters. They
+                        appear on the left of the screen.
+_______________________________________________________________________________
+
+The eight directional arrows are used to choose the direction of attack.
+_______________________________________________________________________________
+
+MISSION BRIEFING:
+  The following commands, when issued through a character's Battle screen will
+enable you to control a battle situation:
+
+Attack/Enter    Direction/Enter
+
+  The character's status icon will turn magenta, indicating they are attacking.
+The battle continues until either your character or their opponent is slain.
+  Hint: Different weapons have different strengths (see Objects briefing).
+Battles are resolved in the same location as a character or between adjacent
+locations. The computer will tell you if a battle cannot be resolved.
+
+THE MISSION COMMAND SCREEN
+  A three section Mission Command Screen appears above the character screens at
+all times. The screen illustrated below is typical:
+
+Status icons  View screen   Character in play
+
+Status icons: these change colour according to a character's status:
+_______________________________________________________________________________
+
+Inactive: ready for command       - White
+Moving                            - Blue
+Attacking                         - Magenta
+Defending                         - Cyan or Brown
+Retreating                        - Yellow
+Picking lock (Sevrina)            - Green
+Character weak                    - Colours become more intense or blink
+Character dying                   - Black
+_______________________________________________________________________________
+
+View Screen: when you select a member of the Enigma Team the blind opens. The
+character's view screen icon will be displayed in the middle of this window. If
+the icon does not flash the character is alone in the location. Otherwise a
+series of icons will flash on and off, showing the various characters in the
+location.
+
+Character in play: This shows the character currently in play.
+
+OTHER CHARACTER ICONS INCLUDE:
+Ambassador Kryxix: Locate the ambassador and beam him off Zoff V - at any cost.
+(Appears as a green icon on the view screen.)
+General Zoff: Self-styled dictator of the Cosmos. The Empire will reward the
+mission controller who can save Kryxix and apprehend this renegade. (Appears as
+a magenta icon on the view screen.)
+Sky Fortress Captain Churl: Zoff's second-in-command. (Appears as a white or
+grey icon on the view screen.)
+Marshall: Zoff V is controlled by both humanoid and robotic officers. Marshall
+icon on Command view screen.
+Squad Leader: Known as 'Targs'. Both humanoid and robotic may be encountered.
+Squad Leader icon on Command view screen.
+Trooper: Known as 'Eugs'. Both humanoid and robotic may be encountered. Trooper
+icon on Command view screen.
+
+OTHER WEAPON AND OBJECT ICONS INCLUDE
+Projectile Pistol: A light weapon suitable for battles occurring in the same
+location as a character.
+Lazer Rifle: A medium weapon suitable for battles occurring in the same or
+adjacent location as a character.
+Rocket launcher: Extremely effective when fired into an adjacent location.
+Smoke bomb: This weapon and the GRENADE are most effective when used in the
+same location as a character.
+Time delay unit: When the character carrying this object activates it, they
+become the only feature of the game not held in a time lock.
+Tool kit: Enables Sevrina to open locked doors.
+Key Card: Colour coded. Allows any member of the Enigma team to open locked
+doors.
+Self-destruct card: Used to activate the Zoff V self-destruct unit.
+Self-destruct unit: When activated the unit begins a four minute (real time)
+count down to the complete destruction of Zoff V.
+Transport beacon: Can only be operated by the droid Manto. The beacon can only
+be activated after it has been dropped in a location.
+
+CREDITS
+Design: Denton Designs Ltd., who are: Steven Cain, Dave Colclough, Karen
+Davies, Graham Everett, John Gibson, Fred Gray, John Heap, Ally Noble and Colin
+Parrott.
+Thanks are also due to Ian Weatherburn, Simon Butler and Chas Davies.
+Conversion to Amstrad - Ian Rich.
+
+The unauthorised copying, hiring, lending, publishing in printed form or
+broadcasting of this cassette, disk or rules is prohibited.

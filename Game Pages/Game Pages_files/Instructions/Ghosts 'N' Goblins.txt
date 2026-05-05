@@ -1,0 +1,73 @@
+THE SPECTRUM GAMES DATABASE
+
+GHOSTS'n'GOBLINS
+
+PUBLISHER
+Elite
+
+AUTHOR
+Keith Burkhill 
+
+YEAR
+1986, re-released 1989
+
+CATEGORIES
+Arcade Adventure
+
+CONTROLS
+Redefinable keyboard controls, Kempston, Cursor and Interface 2.
+
+
+INSTRUCTIONS
+A brave knight is just about to propose to his dusky eyed maiden,
+when out of a dark sky swoops a highly salivating demon.  Before
+the knight can so much as re-buckle his armour, the horrible
+monster seizes the knights beloved and sweeps her off to its foul
+lair. 
+ 
+Scampering across a scrolling landscape, he must make his way to
+the demon king's murky lair to rescue her, within a time limit. 
+ 
+Section 1: Graveyard/wood 
+Section 2: Ice palace/Ghost town 
+Section 3:Monster's den/Catacombs 
+ 
+Weapons available: lancd, sword, fireball. 
+
+HINTS AND TIPS
+pokes: 
+33352,201      Infinite lives 
+33433,201      Hyperjumps 
+39857,135 } 
+39858,50  }--- Immunity (all 4 pokes) 
+39859,180 } 
+39860,191 } 
+ 
+SEQUELS/PREQUELS
+Ghouls and Ghosts was the follow-up.
+ 
+SCORES RECEIVED
+CRASH issue 30, July 1986: 
+use of computer          89% 
+graphics                 92% 
+playability              95% 
+getting started          91% 
+addicitve qualities      96% 
+value of money           93% 
+OVERALL :    95%   CRASH SMASH! 
+ 
+Use of computer: your character can blend into the background,
+but neatly done nethertheless. 
+Graphics: good animation, faithful to the original within the
+spectrums limitations. 
+Sound: more of it would have gone down well. 
+Skill levels: 1 
+Screens: scrolling playing area. 
+Snapshot : available at ftp.nvg.unit.no/pub/spectrum/snaps 
+General facts: A classic of its kind. Very playable and
+addictive. Coverted from Capcom  coin-op. 
+ 
+GENERAL FACTS
+
+
+NOTES

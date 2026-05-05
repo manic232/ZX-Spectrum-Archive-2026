@@ -1,0 +1,71 @@
+EARTHLIGHT
+==========
+
+Loading the program
+-------------------
+To load on a 48k spectrum (or 128k spectrum in 48k mode), type LOAD"" and then
+press ENTER
+
+To load on a 128k spectrum, select the TAPE LOADER option from the start-up
+menu.
+
+Approximate loading times are 48k - 5 mins, and 128k - 6 mins.
+
+
+Controls
+--------
+Once the program has loaded you will see the message 'Press Space, N or FIRE'.
+To select a Sinclair or Kempsten joystick, simply press the fire button.
+Otherwise, press Space or N depending on which you prefer.
+
+The Keys used in the game are:
+
+LEFT                O or Joystick
+RIGHT               P or Joystick
+UP (Inwards)        S or Joystick
+DOWN (Outwards)     Z or Joystick
+
+FIRE                Space or N or Joystick
+
+Increase Height     Q
+Decrease Height     W
+
+(Any or all of these keys may be re-defined)
+
+Press FIRE again to move to the main menu.
+You will see a list of four options;
+
+Play Game, High Scores, View / Alter Keys, Configure Game.
+
+To select an option, move the pointer to your choice and press FIRE.
+
+
+The Display
+-----------
+The top third of the screen shows your ship's panel.
+The panel shows, from Left to Right...
+
+     Fuel and Shield levels (These flash if dangerously low).
+     Current Zone
+     Score
+     Lives Left
+     Current Level
+     Missiles Remaining
+
+
+Playing Earthlight
+------------------
+Your mission is to collect the matter transmitters (small boxes) while avoiding
+all the sentry and industrial robots. Once all the transmitters have been
+collected, you must return to base (the hemisphere you started from) to complete
+the zone. If you return to base before collecting all the transmitters you will
+be given a breakdown of your performance so far.
+
+The game is played over four levels each with eight zones. In each level you can
+choose the order in which you tackle the zones. When all the zones are cleared
+you will automatically be transported to the next level.
+
+On entering each zone you are given the opportunity of altering the balance of
+fuel, missiles and shield energy for your ship. While in the zone, press BREAK
+will pause the game and allow you to abandon the zone (losing your score in that
+zone) or abandon the whole game.

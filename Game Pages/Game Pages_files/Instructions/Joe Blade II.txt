@@ -1,0 +1,92 @@
+JOE BLADE 2
+(Players)
+
+
+SPECTRUM LOADING INSTRUCTIONS
+48K owners type LOAD "" (ENTER). Load the game from side A of the
+cassette. 128K owners use the LOADER option on the menu. The 128K
+version is recorded on side B. This version includes 128K music.
+
+
+THE STORY
+
+The year is 1995, the setting London. The streets are crawling with
+punks, thugs and muggers! The ordinary urbanite masses remain
+prisoners in their crumbling homes, too terrified to venture outside
+into the crime-ridden inner-city horrorscape beyond their front doors.
+
+Only one man can clean up this city ... That man is JOE BLADE.
+
+Joe Blade - teenage pin-up and pop idol, media celebrity, hero of the
+people, defender of the flag, helper to those less fortunate than
+himself. Mean, tough and fearless, his very name strikes fear into the
+cold hearts of every punk, thug and mugger.
+
+
+THE MISSION
+
+You are Joe Blade ... Using only your skills of hand-to-hand combat
+you must clean up the city.
+
+The punks wear armour to protect themselves from each other, so in
+order to kill a punk you must kick him in the head. This is achieved
+by jumping over him (not too easy, as the punks like jumping too). You
+do not have to kill all the punks; one you have killed about 100 the
+remaining punks will get the message, and repent of their evil deeds,
+and become decent law-abiding citizens.
+
+Not only must you kill your daily quota of punks, you must also rescue
+sixteen citizens who have foolishly ventured onto the streets. To rescue
+a citizen you must walk into them, then solve one of four sub-games.
+
+Sub-game one
+You must complete the sequence 1,2,3,4 by pressing FIRE when the
+correct number appears. Be careful, you cannot select a number when it
+is fading out.
+
+Sub-game two
+As with sub-game one you must complete the sequence 1,2,3,4. However,
+this time by swapping numbers. Press FIRE when the desired pair of
+numbers are flashing.
+
+Sub-game three
+In this sub-game you are presented with two sets of jumbled numbers.
+You only have to complete one 1,2,3,4 sequence, either top or bottom,
+by swapping numbers between the two. When the desired pair of number
+icons are flashing press FIRE.
+
+Sub-game four
+In sub-game four you are presented with an ever-changing number icon
+and four jumbled numbers. The object of this sequence is to swap the
+changing number with the flashing number to form the sequence 1,2,3,4.
+When the desired pair of number icons are flashing press FIRE.
+
+Scattered around the city you may find items such as bins and clocks
+which will help you in your mission. Press 1 on the menu for more
+information.
+
+
+CONTROLS
+
+This mission supports Kempston, Cheetah, Interface II, +2 and +3
+joysticks. Alternatively use Q,A,O,P and M. SPACE will pause the game
+(you cannot pause during sub-games).
+
+
+
+JOE BLADE CREDITS
+Game code and graphics: Colin Swinbourne
+128K version technical support: Kevin Parker & Andy 'DM' Severn
+Original music: Mike Brown
+Music conversion: Andy 'DM' Severn
+Textuals and shots: Simon 'SKY' Daniels
+
+
+LOADAGAME CREDITS
+Game code: Andy 'DM' Severn
+Graphics: Martin 'Jabba' Severn
+Original Loadagame (C64): Andrew Challis
+
+
+Produced for Players Software by Richard Paul Jones
+(c) 1988 Players

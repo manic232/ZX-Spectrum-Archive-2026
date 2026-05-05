@@ -1,0 +1,154 @@
+
++---------------------------------------------------------+
+|                       FIRELORD                          |
++---------------------------------------------------------+
+
+                    by Stephen Crow
+
+The path wove deeper through the forest beckoning Sir
+Galaheart further into the flickering shadows. A voice
+spoke out in the dimming gloom.
+
+"My son, you have returned to this land of Torot, to
+discover its hidden secrets. You must seek out the
+sacred Firestone and return it to the Dragon's
+safekeeping."
+
+Galaheart trembled with fear as he recalled how the Evil
+Queen had seized the Firestone and used its power to
+curse the land with fire and ghostly apparitions who
+drifted the streets in ghastly imitation of the once
+happy inhabitans. At one time the people had roamed
+freely but now they cowered in their homes. Her price
+for the release of the Stone was for some brave warrior
+to win for her the four charms of eternal youth. The
+brave knight sank to his knees overpowered by fear and
+foreboding.
+
+"Fear not," said the voice, "for the answer lies within
+the kingdom. Use the enchanted crystals and fall not."
+
+Sir Galaheart was alone. A feeling of mystery filled the
+forest. The very air breathed the secrets of this haunted
+land.
+
+
+CHARACTERS IN TOROT
+-----------------------------------------------------------
+As well as the ghosts which Sir Galaheart must dispel
+there are a host of characters for him to meet and trade
+with. the Peasants know the villages and forests well 
+although they are often slow-witted. Travel may be
+arranged by paying the Gatekeeper at a Toll House or
+by buying a Timescape spell from a Herbalist or some
+other magic character. The Tithe Ward Keepers will keep
+objects safe and sound.
+
+
+The Witches and Wizards have spells available and the
+Dragon's teeth may be of use. Weapons can be obtained
+from the Knights and the Wise Old Man is a useful source
+of information as is the Hermit who is rumoured to live
+in the forests.
+
+
+The Bishops tend to be quick and greedy so it pays not
+to try and cheat them. Justice is administered by the
+Reeves who may be helpful if treated with respect.
+Princess Eleanor is held captive by the Evil Queen and
+she may look kindly on those who are trying to free her.
+
+
+CONTROLLING SIR GALAHEART
+-----------------------------------------------------------
+SPECTRUM
+Follow the instructions on the screen to select your
+preferred method of control. The default keyboard
+setting is:
+
+O - Left, P - Right, Q - Up, A - Down, M - Fire.
+
+Firelord is compatible with all recognised joystick
+systems including Kempston (i.e. IN 31 type), Sinclair
+Interface 2 and Cursor types.
+
+To pause game press the BREAK/SPACE key. To
+restart press any key or use any joystick action. To abort
+the game press keys ASDFG simultaneously.
+
+AMSTRAD
+Follow the instructions on the screen to select your
+preferred method of control. The default keyboard
+setting is:
+
+O - Left, P - Right, Q - Up, A - Down, M - Fire.
+
+To pause game press the ESC key. To restart press 
+any key or use any joystick action. To abort the game 
+press the SHIFT and DEL keys simultaneously.
+
+
+BARTERING IN TOROT
+-----------------------------------------------------------
+When you enter a house you may trade with the
+occupant. Place the cursor over an icon and press
+FIRE to select it. To cancel a selection press FIRE
+a second time.
+
+
+Each occupant provides one or more types of service.
+Select the type you require and between one and four
+of your objects which you prepared to trade in
+exchange. If your payment is sufficient the occupant
+will make an offer by displaying a suitable icon. If you
+wish to complete the deal select the icon displayed.
+
+
+TYPES OF SERVICES
+-----------------------------------------------------------
+SCALES            __|--      PORTCULIS            i i i
+Trade an object   | | L      Pay a toll to pass  -+-+-+-
+                  j |        through the         -+-+-+-  
+                  __|__      house                v v v
+
+SIGNPOST          TT===      SUPPLIES              ___ 
+Find out          ||         Buy food,            /.-.\
+where you are     ||         weapons or          |<__~>|
+                  ~~         trading tokens      `-___-'
+
+TIMESCAPE                    INFORMATION         _______
+Cast a spell to a  __/\__    Find out how to     |  .  |
+magic place        > () <    accomplish your     |  I _|
+                   ~~\/~~    quest.              |___|/|
+
+
+RIBBONS
+Colour ditinguishes similar characters, Green Witch, 
+Red Witch, etc.   ____ 
+                 ' /\ \.---,
+                  '  `^----`
+CHEAT
+Select this and you may not have to surrender the
+objects that you are paying with. Get caught and justice
+will be swift.      __.-.  
+                 ,oO_____\    
+                ||    /   _.  
+                 `  -'    /|          
+                         '
+EXIT
+Select this icon to leave the house.
+                  _______
+                  |     |
+                  |  X _|
+                  |___|/|   
+
+OFFER
+When a deal is set up the occupant displays his offer
+here. In this case the Dragon is offering the Timescape
+spell in exchange for a bag of gold and a candlestick.
+                             
+                   __/\__   
+                   > () <   
+                   ~~\/~~ 
+
+

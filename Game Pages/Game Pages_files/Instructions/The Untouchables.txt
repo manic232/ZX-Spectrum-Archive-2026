@@ -1,0 +1,252 @@
+================
+The Untouchables
+================
+Document created by rstuart@ukonline.co.uk for
+World of Spectrum: http://www.worldofspectrum.org/
+
+
+Les Incorruptibles
+------------------
+
+TAKE ON THE MOB
+
+The ultimate six exciting action sequences put you in control of Elliot Ness's
+elite squad of crime-busters.
+
+Alleyway shootouts, The Border Raid, The Railway Station confrontation and
+Warehouse bust culminating in the thrilling denouement of a rooftop duel as you
+re-live the knife edge existence of Ness in his struggle against the retribution
+of Capone!
+
+THE UNTOUCHABLES - LIVE AN AMERICAN LEGEND
+
+
+The Untouchables
+----------------
+
+THRILLING ACTION ON THE STREETS OF CHICAGO
+
+Scenario
+
+Original and diverse arcade-style sections put you in control of Elliot Ness's
+elite squad of crime busters. The Warehouse Bust, the Border Raid, The Alleyway
+Shootouts, The Railway Station Confrontation and the final Rooftop Duel enable
+you to re-live the knife-edge existence of Elliot Ness as you crusade through
+1920's Chicago in search of Capone's retribution.
+
+Take on the Mob as you lead the Untouchables on their most exciting and
+difficult mission! With six levels of explosive action and a thrilling
+denouement.
+
+THE UNTOUCHABLES...LIVE AN AMERICAN LEGEND
+
+
+SPECTRUM LOADING
+
+CASSETTE
+
+1. Place the cassette in your recorder ensuring that it is fully rewound.
+
+2. Ensure that the MIC socket is disconnected and that the volume and tone
+   controls are set to the appropriate levels.
+
+3. If the computer is a Spectrum 48K or Spectrum+ then load as follows:
+   Type LOAD"" (ENTER). (Note there is no space between the quotes). The
+   " is obtained by pressing the SYMBOL SHIFT and P keys simultaneously.
+
+4. Press PLAY on your recorder and the game will load automatically. If you
+   have any problems try adjusting the volume and tone controls and
+   consulting Chapter 6 of the Spectrum manual.
+
+5. If the computer is a Spectrum 128K then follow the loading instructions
+   on-screen or in the accompanying manual.
+
+48K: The game loads in 5 sections. Once a section has been loaded, you remain
+on this level until it has been completed.
+
+Then follow on screen instructions to progress onto the next level.
+
+128K: The first three levels load in one part then follow on screen instructions
+for further levels as required.
+
+SPECTRUM +3 DISK
+
+Set up system and switch on as described in your instruction manual. Insert disk
+and press ENTER to choose 'LOADER' option. This program will then load
+automatically. Please ensure disk is in drive throughout game - follow on screen
+instructions.
+
+
+Controls
+--------
+
+The game may be controlled by either keyboard or joystick.
+
+This is a one player game only.
+
+Preset Keys:
+
+Q       - UP
+A       - DOWN
+O       - LEFT
+P       - RIGHT
+SPACE   - FIRE
+H       - PAUSE GAME
+
+(Pressing H while game is paused will abort the game.)
+
+THE JOYSTICK AND KEYS CAN BE RE-DEFINED FROM THE MENU PAGE.
+
+Joystick:
+                UP
+                |
+                |
+LEFT -----------+----------- RIGHT
+                |
+                |
+               DOWN
+
+
+Status and Scoring
+------------------
+
+PANEL DISPLAYS FROM LEFT TO RIGHT:
+
+LEVEL 1
+Score, Time remaining, Evidence Collected, Energy, Extra weaponry and direction
+indicator on top right of screen.
+
+LEVEL 2
+Score, time remaining, sight, energy level and below this a liquor seized
+indicator.
+
+LEVEL 3
+Score, time remaining, shotgun gauge, energy-level and liquor seized indicator.
+
+LEVEL 4
+Score, Ness's energy and baby energy.
+
+LEVEL 5
+Score, Time, Stone's energy and Accountant's energy.
+
+LEVEL 6
+Score, Time and Energy.
+
+Your score is increased by shooting gangsters.
+
+Big bonuses are obtained for completing a level.
+
+Your energy level is depicted by caricatures of the Untouchables. The more you
+see of Capone the weaker The Untouchables.
+
+
+Gameplay
+--------
+
+SECTION 1 - THE WAREHOUSE
+
+You find out that Capone's thugs are working in a derelict warehouse,
+bootlegging liquor. You bust in on them in an attempt to break up their
+operation. However, this surprise attack yields a few bonuses, as some of
+Capone's bookkeepers are present, and you must take the opportunity of capturing
+them in order to gather preliminary evidence of his activities. An arrow will
+guide you to the evidence when it is present in the building. You may also pick
+up extra ammunition and extra energy.
+
+SECTION 2
+
+Acting on information gained from the warehouse raid, you attempt to thwart an
+illegal liquor run at the U.S./Canadian border. Armed with a Tommy Gun you and
+your men must find the liquor by avoiding Capone's henchmen and collect it by
+shooting the barrels until they explode.
+
+Untouchables may be changed by going to the far left or far right of the play
+area and shooting the bottom right corner of the character icon that appears on
+screen.
+
+SECTION 3 - THE ALLEYS
+
+Getting a tip-off from one of the men at the border, you head for the train
+station where Capone's accountant is trying to leave the country. You must get
+to him (and the evidence) before the train leaves.
+
+Capone's mob hear of your intentions and will try anything to thwart the
+Untouchables mission. As you progress through the streets of Chicago, on your
+way to the Train Station, you are confronted by ambushes at every turn. You must
+eliminate all of your attackers before you can safely reach the station.
+
+Characters can be changed only when in a defensive position against the wall,
+and by moving to the character icon and shooting the bottom right of it.
+
+SECTION 4 - THE TRAIN STATION
+
+As Ness awaits the arrival of the accountant, he helps a woman lift her baby in
+a pram up the stairs of the railway station. Before he reaches the top Capone's
+accountant arrives with an armed escort and opens fire. He lets go of the pram
+and starts to fire back.
+
+You must guide the pram to the bottom of the concourse avoiding enemy fire and
+any obstructions. You must also avoid shooting at any innocent bystanders as you
+try to destroy Capone's men. You may replenish your energy by running over
+medical packs.
+
+SECTION 5 - THE HOSTAGE
+
+Realizing he is the last one left in the Station, one of Capone's henchmen takes
+the accountant hostage at gunpoint and threatens to shoot him in ten seconds if
+you do not lay down your arms. You must shoot him within that time, scoring a
+perfect fatal hit, if you are to succeed.
+
+SECTION 6 - THE ROOFTOP
+
+With the evidence all collected, Capone is in court for the trial. His head
+Hitman, Frank Nitty, is still at large however, and you must chase him across
+the court rooftop and avenge Malone's death. This is the final and bloody
+shootout which, if successful, will result in Nitty falling to his death.
+
+
+Hints And Tips
+--------------
+
+Learn map layouts for increased manoeuvrability.
+
+Try not to hang around too long on any level.
+
+Certain members of the Untouchables must remain alive for specific sections -
+The Movie may give you a clue.
+
+Learn how the mobsters act, to devise suitable tactics against them.
+
+Switch between your Untouchables quickly if one is low on energy as they regain
+power when inactive.
+
+
+The Untouchables
+----------------
+
+Its program code is the copyright of Ocean Software Limited and may not be
+reproduced, stored, hired or broadcast in any form whatsoever without the
+permission of Ocean Software Limited. All rights reserved worldwide.
+
+THIS SOFTWARE PRODUCT HAS BEEN CAREFULLY DEVELOPED AND MANUFACTURED TO THE
+HIGHEST QUALITY STANDARDS. PLEASE READ CAREFULLY THE INSTRUCTIONS FOR LOADING.
+
+If for any reason you have difficulty in running the program and believe that
+the product is defective, please return it to:
+Mr Yates, Ocean Software Limited, 6 Central Street, Manchester M2 5NS.
+
+Our quality control department will test the product and supply an immediate
+replacement if we find a fault. If we cannot find a fault the product will be
+returned to you at no charge. Please note that this does not affect your
+statutory rights.
+
+
+Credits
+-------
+
+TM and © 1989 PARAMOUNT PICTURES. ALL RIGHTS RESERVED.
+PROGRAMMING BY JAMES HIGGINS
+GRAPHICS BY MARTIN MCDONALD
+MUSIC BY JOHNATHAN DUNN
+PRODUCED BY JON WOODS
+© 1989 OCEAN SOFTWARE LTD.

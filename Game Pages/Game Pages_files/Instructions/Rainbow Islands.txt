@@ -1,0 +1,139 @@
+                                 RAINBOW ISLANDS
+
+Bub and Bob, the heroes from Bubble Bobble, are back! This time negotiating the
+hazards of the Rainbow Islands.
+
+Myriad creatures conspire to impede your progress at every fun-filled level
+until you face the "Guardian", the ultimate test of advancement....Good Luck
+
+
+The seven "Rainbow Islands" and their inhabitants.
+
+• Insect Island - caterpillars, spiders, crows
+• Combat Island - tanks, planes, helicopters
+• Monster Island - bats, werewolves, ghosts
+• Toy Island - water-pistols, deadly disks, teddy bears
+• Doh's Island - balls, spheres, capsules
+• Robot Island - spanners, robots, bolts
+• Dragon Island - cyclops, dragons, spirits
+
+
+LOADING
+
+CASSETTE
+
+1. Place the cassette in your recorder ensuring that it is fully rewound.
+
+2. Ensure that the MIC socket is disconnected and that the volume and tone
+   controls are set to the appropriate levels.
+
+3. If the computer is a Spectrum 48K or Spectrum+ then load as follows:
+   Type LOAD"" (ENTER). (Note there is no space between the quotes.
+   The " is obtained by pressing the SYMBOL SHIFT and P keys simultaneously.
+
+4. Press PLAY on your recorder and the game will load automatically. If you
+   have any problems try adjusting the volume and tone controls and
+   consulting Chapter 6 of the Spectrum manual.
+
+5. If the computer is a Spectrum 128K then follow the loading instructions
+   on screen or in the accompanying manual.
+
+
+SPECTRUM +3 DISK
+
+Set up system and switch on as described in your instruction manual. Insert disk
+and press ENTER to choose 'LOADER' option. This program will then load
+automatically.
+
+
+KEYBOARD CONTROLS
+
+SPECTRUM AND AMSTRAD
+
+P         Pause the game
+Q         Quit the game (when paused)
+S         Turn off music (128 version only)
+A         Jump
+K         Walk left
+L         Walk right
+SPACE     Fire Rainbow or unpause the game
+
+
+JOYSTICK CONTROLS
+
+Push UP to increase credits during title screen
+Press FIRE button to start one player game
+Press FIRE button to throw Rainbows
+Push LEFT and RIGHT to move left and right
+Push UP to jump
+
+
+GAMEPLAY
+
+BASIC MOVEMENT
+
+Rainbow Climbing - Make Rainbows on each level of the floor and walk up
+                   them. It is possible to stand on the top of a Rainbow.
+
+Rainbow Attack   - Hit your enemies with a new Rainbow to kill them.
+
+Rainbow Breaking - By jumping onto a Rainbow, you can break it. This
+                   causes the Rainbow to drop down the screen, killing
+                   anything in it's path.
+
+
+PICKING UP OBJECTS
+
+You can pick up objects by either walking into them or by hitting them with a
+Rainbow. Also, running a Rainbow along the ground may reveal hidden objects.
+These can be collected by breaking the Rainbow above them.
+
+
+THREE IMPORTANT PICKUPS
+
+Magic Shoes    - Picking up the magic shoes will give you greater speed.
+
+Red Potions    - Collecting a red potion will add one to the number of
+                 Rainbows that you can throw, up to a maximum of three.
+
+Yellow Potions - Collecting a yellow potion will speed up your Rainbow
+                 throws.
+
+
+HINTS AND TIPS
+
+1. There is a secret room on each island. How to access it is confidential!
+
+2. Master the use of the Rainbows.
+
+3. When the 'hurry' message appears, get to the top of the screen as quickly
+   as possible.
+
+
+RAINBOW ISLANDS
+
+It's program code, graphic representation and artwork are the copyright of Ocean
+Software Limited and may not be reproduced, stored, hired or broadcast in any
+form whatsoever without the written permission of Ocean Software Limited. All
+rights reserved worldwide.
+
+THIS SOFTWARE PRODUCT HAS BEEN CAREFULLY DEVELOPED AND MANUFACTURED TO THE
+HIGHEST QUALITY STANDARDS. PLEASE READ CAREFULLY THE INSTRUCTIONS FOR LOADING.
+
+If for any reason you have difficulty in running the program you may contact our
+technical department direct by telephoning 061 833 1014. However if you believe
+that the product is defective, please return it direct to: Mr Yates, Ocean
+Software Limited, 6 Central Street, Manchester M2 5NS.
+
+Our quality control department will test the product and supply an immediate
+replacement if we find a fault. If we cannot find a fault the product will be
+returned to you at no charge. Please note that this does not affect your
+statutory rights.
+
+
+CREDITS
+
+TM & © 1989 Taito Corp.
+Coding & Graphics by Graftgold
+© 1990 Ocean Software Ltd.
+Produced by D C Ward

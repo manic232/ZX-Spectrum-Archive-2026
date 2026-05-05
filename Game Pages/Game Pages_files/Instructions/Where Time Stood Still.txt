@@ -1,0 +1,219 @@
+Where Time Stood Still (c) 1988 Ocean Software - Complete Documentation
+-----------------------------------------------------------------------
+
+The plane is descending rapidly, Jarret struggling with the controls, searches
+anxiously for a possible landing site. Breaking through the clouds, the ground is
+suddenly upon him, and with one last heave on the joystick he prepares for impact.
+
+Out of the wreckage tumble Jarret, the guide and pilot, Clive, a fat and wealthy
+man, Gloria, his delicate daughter, and Dirk, her newly betrothed.
+
+They have found themselves on a strange plateau, nestled between the peaks of the
+greater Himalaya. The only way out of their predicament is via a high mountain
+pass somewhere on the other side.
+
+As our friends will soon be aware, everything is not quite as it seems. Protected
+by the mountains from both climatic and other outside influences, this land has
+remained undisturbed for millennia.
+
+When your party is attacked by dinosaurs and harassed by cannibals it becomes
+apparent that no western man has been here and lived to tell of it.
+
+You, who initially control Jarret, must guide your party along tortuous mountain
+paths, across rivers and bottomless chasms, through swamps and forest, in the
+increasingly desperate search for the passage home.
+
+LOADING
+
+1. Place the cassette in your recorder ensuring that it is fully rewound.
+2. Ensure that the MIC socket is disconnected and that the volume an tone
+   controls are set to the appropriate levels.
+3. If the computer is a Spectrum 128K then load as follows.
+   Type Load "" (ENTER). (Note there is no space between the quotes). The " is
+   obtained by pressing the SYMBOL SHIFT and P keys simultaneously.
+4. Press PLAY on your recorder and the game will load automatically. If you have
+   any problems try adjusting the volume and tone controls and consulting
+   chapter 6 of the Spectrum manual.
+5. If the computer is a Spectrum +2 then follow the loading instructions on
+   screen or in the accompanying manual.
+
+CONTROLS
+
+Jarret is controlled by Kempston, Sinclair or Cursor joystick or keyboard, his
+companions will normally do their best to keep up.
+
+KEYBOARD
+Options are provided at the beginning of the game. The player may defined his own,
+with the exception of the SPACE bar, which is used to call up menus.
+
+JOYSTICK
+
+      WITHOUT THE FIRE BUTTON PRESSED         WITH FIRE BUTTON PRESSED
+
+                 Walk                                    Run 
+         Walk    North   Walk                    Run    North   Run
+         North\    |    /East                   North\    |    /East                  
+               \   |   /                              \   |   /
+                \  |  /                                \  |  /
+       Walk      \ | /      Walk              Run       \ | /      Run
+       West------STAND------East              West------STAND------East
+                 / | \                                  / | \
+                /  |  \                                /  |  \
+               /   |   \                              /   |   \
+          Walk/    |    \Walk                     Run/    |    \Run
+          West   Walk    South                    West   Run    South
+                 South                                  South
+
+                            SPACE BAR - CALL UP MENUS
+
+THE MENU SYSTEM
+
+Pressing the SPACE bar will call up a series of menus which facilitate the picking
+up, dropping and use of objects. It is important to note that the action of the
+game continues whilst these menus are being displayed.
+
+If the menus are obscuring your view they can be moved by placing the cursor in an
+iconless position, holding down the fire button and dragging the menu to the
+required position.
+
+The menus and Icons are described below.
+
+MENU 1: Cyan
+
+This contains options for pause, Music or Sound Effects, and the New Game Option.
+The top four icons are used for selecting an inventory menu for the respective
+characters. You can only access these icons if the relevant character is within
+hailing distance of the hero.
+
+   -------------------------------------------------------------------------
+   |  ---------------   ---------------   --------------   --------------  |
+   |  |             |   |             |   |            |   |            |  |
+   |  |   JARRET    |   |   GLORIA    |   |    DIRK    |   |    CLIVE   |  |
+   |  |             |   |             |   |            |   |            |  |
+   |  ---------------   ---------------   --------------   --------------  |
+   |  ---------------   ---------------   --------------   --------------  |
+   |  |             |   |             |   |   SOUND    |   |            |  |
+   |  |  QUIT MENU  |   | PAUSE GAME  |   |  EFFECTS/  |   |  NEW GAME  |  |
+   |  |             |   |             |   |   MUSIC    |   |            |  |
+   |  ---------------   ---------------   --------------   --------------  |
+   -------------------------------------------------------------------------
+
+MENU 2: Red
+This is the inventory menu. Called from menu 1, it displays what a character is
+carrying, (the top four icons), and any objects in his or her vicinity.
+
+   -------------------------------------------------------------------------
+   |  ---------------                                                      |
+   |  |   DISPLAYS  |   ---------------   --------------   --------------  |
+   |  |    WHOSE    |   |   OBJECT    |   |   OBJECT   |   |   OBJECT   |  |
+   |  |  INVENTORY  |   |   CARRIED   |   |   CARRIED  |   |   CARRIED  |  |
+   |  ---------------   ---------------   --------------   --------------  |
+   |  ---------------   ---------------   --------------   --------------  |
+   |  |             |   |    OBJECT   |   |   OBJECT   |   |   OBJECT   |  |
+   |  |  QUIT MENU  |   |      ON     |   |     ON     |   |     ON     |  |
+   |  |             |   |    GROUND   |   |   GROUND   |   |   GROUND   |  |
+   |  ---------------   ---------------   --------------   --------------  |
+   -------------------------------------------------------------------------
+
+To pick up an object place the arrow over the icon and press fire. The cursor then
+takes up the shape of the object. Move the new cursor up to the top half of the
+menu and press fire again. The character has now been ordered to pick up this
+object, and will make his/her way towards it. Each person can carry four items.
+There is a bag provided that will hold an additional four items. To place an item
+in the bag, simply move the object to the bag icon. To examine the contents of the
+bag, use it as described below.
+
+Dropping objects is the reverse, place arrow over item to drop, press fire and
+drag object to the bottom half of the menu and press fire again. The object will
+now be dropped.
+
+Using an Object
+Place the arrow first over the USE ITEM icon. Press fire and the icon is
+highlighted. Then point to the object that you wish to use, press fire and the
+icon is highlighted. Then point to the object that you wish to use, press fire to
+order its use. The USE ITEM icon can be cancelled by selecting it again. You can
+only use objects that a character is carrying.
+
+MENU 3: Magenta
+This menu replaces menu 1 upon the death of the player character. Once a
+player character is dead, you are allowed to choose another from any of those
+still alive.
+
+Upon selection the menu will revert back to its original form, and the new player
+character will be under the same joystick / keyboard control as Jarret was
+previously.
+
+STATUS DISPLAY
+
+The status display permanently snows the player character's strength / injury,
+hunger/thirst, and ammunition levels. The score is represented as the percentage
+of game completion. A calendar is provided supplying a record of the days elapsed
+since the crash.
+
+  -|-|-------------------------------------------------------------------|-|--
+  -|-|-------------------------------------------------------------------|-|--
+    -  |---------|   STRENGTH     ----- ||           ||  |      |    /\   -
+       |         | -------------- |   | ||   Score   ||  | May  |   <  >  
+       | Player  | HUNGER/THIRST  |   | ||           ||  |  1   |    \/
+       |Character| -------------- |   | ||___________||  |      | Day/night  
+       |         |  AMMUNITION    ----- ---------------  -------- Indicator
+       |---------| --------------     
+
+The other characters communicate their respective condition using the conversation
+windows that open from the top of the screen. These will tell you when people are
+tired, thirsty, hungry, or are just frustrated at the lack of progress.
+
+HINTS AND TIPS
+The success of the venture will depend greatly on the disposition of your
+companions. An understanding of their different temperaments will increase your
+chances. Clive is slow, unathletic, and ill tempered, always the first to
+complain. If on your travels you find anything valuable, he will want it. You must
+watch him carefully, especially if escape is close at hand.
+
+Gloria, a naturally elegant woman, isn't as weak as she may appear. Aware of
+stupid stereotypes, she is determined not to be a burden on the party. She
+complains rarely and is generally supportive of Jarret. Whilst her beloved remains
+Dirk, she finds Jarret strangely compelling, a fact she worriedly places to the
+back of her mind.
+
+Dirk, an athletic type with an exemplary background. He is very attached to Gloria
+and is never far from her side. However should Gloria come a cropper his will to
+survive is greatly reduced. His Cambridge studies on obscure eastern dialects may
+come in useful when dealing with the natives.
+
+When a character is telling you that he or she is tired, Jarret must judge whether
+to rest or not. Just because someone complains doesn't mean they can't go on a
+little longer. If your team gets disillusioned with your lack of progress, they
+are quite likely to abandon you and try to make their own way. If you leave your
+companions behind, then they will continue their journey as best they can, but
+without your strong leadership it is unlikely they will survive.
+
+Scattered throughout the plateau are areas of mystical significance, these tend to
+be avoided by inhabitants and are therefore ideal places to rest and recuperate.
+
+WHERE TIME STOOD STILL
+
+Its program code, graphic representation and artwork are the copyright of Ocean
+Software Limited and may not be reproduced stored, hired or broadcast in any form
+whatsover without the written permission of Ocean Software Limited. All rights
+reserved worldwide.
+
+THIS SOFTWARE PRODUCT HAS BEEN CAREFULLY DEVELOPED AND MANUFACTURED TO THE HIGHEST
+QUALITY STANDARDS. PLEASE READ CAREFULLY THE INSTRUCTIONS FOR LOADING. If for any
+reson you have difficulty in running the program and believe that the product is
+defective, please return it direct to:
+
+Mr Yates, Ocean Software Limited, 6 Central Street, Manchester, M2 5NS.
+
+Our quality control department will test the product and supply an immediate
+replacement if we find a fault. If we cannot find a fault the product will be
+returned to you at no charge. Please note that this does not effect your
+statutory rights.
+
+CREDITS
+
+Produced by D.C. Ward
+Designed and created by Denton Designs (c) 1988
+(c) 1988 Ocean Software Limited.
+
+Instructions typed in by Paul Thompson, March 2003

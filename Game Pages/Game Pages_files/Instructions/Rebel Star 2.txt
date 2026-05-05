@@ -1,0 +1,131 @@
+
+                                  "REBELSTAR II"
+                              By Julian Gollop (1988)
+
+
+Instructions taken from "The Rebelstar Collection" Players' Manual (1991) by
+Julian Gollop. Typed up by Ian Coates (OKTUP@MONO.CITY.AC.UK)
+
+     COPYRIGHT
+
+Julian Gollop has kindly agreed to this game being made Public Domain. Anyone is
+freely allowed to duplicate and distribute this game for use in Spectrum
+emulators. It is requested that the identification of Julian Gollop as the
+author of this software is not removed and the code not altered. E-mail me
+(OKTUP@MONO.CITY.AC.UK) for further details.
+
+     INTRODUCTION
+
+Rebelstar is threatened by an alien race which has established itself on the
+nearby planet of Thray 6. The Rebelstar Raiders must eliminate the alien menace,
+particularly the alien queen which produces eggs for new colonies.
+Capturing alien eggs is vital for developing future methods of combating the
+aliens' expansion. However, there is only limited time before the Raiders escape
+shuttle takes off. This mission if fraught with danger in a hostile alien
+environment. Be sure to succeed.
+
+
+     PLAYING THE GAME
+
+There are two sides in Rebelstar II. The Raiders are attacking the alien base
+and the Aliens are defending. In the one player game you control the Raiders and
+the computer controls the Aliens. Each side consists of a certain number of
+soldiers, collectively known as units. Each unit is allocated a number of
+'action points' each turn, which are expended by performing all actions, such as
+movement or firing.
+The Raiders have the first turn. They must break into the alien base and capture
+the eggs. The Aliens must defend their home.
+There are three basic control modes in Rebelstar II; Cursor mode, Select mode
+and Fire mode.
+
+DIRECTION KEYS
+
+        Q       W       E
+                                Each key corresponds to the direction
+        A               D       you want to move the unit in
+
+        Z       X       C      
+
+CURSOR MODE
+
+CURSOR MOVEMENT: Use the direction keys to move the cursor around the map. The
+map will scroll when you move the cursor to the edge of the map window.
+
+      S - Select a unit under the cursor for movement and other actions. The
+          computer will change to select mode, shown by a flashing unit.
+0(zero) - End turn. Control is passed to the other player, or the computer in
+          the one player game.
+      I - Display information on a unit under the cursor
+      N - Go to next unit
+
+SELECT MODE
+
+In this mode the direction keys are used to move the selected unit. Other
+controls are as follows:
+
+      F - Enter fire mode. This is only possible if the unit is carrying a
+          ranged combat weapon
+      M - Drop the object in use
+      P - Pick up an object
+      O - Change the object in use. Units can carry more than one object, but
+          only one object can be 'in use' at any one time
+      L - Load weapon. The unit must have a weapon in use and be carrying the
+          correct ammunition
+
+FIRE MODE
+
+When you select fire mode the map will change to display only things which block
+the line of fire. Units will change to a round blob. The aiming cursor is moved
+using the direction keys.
+When you fire a weapon there are three different types of shot you can make:
+
+      1 - Fire an aimed shot. Accurate, but consumes many action points
+      2 - Fire a snap shot. Less accurate than an aimed shot but much quicker
+      U - Set opportunity fire. This is a special form of fire which is not
+          taken immediately, but is 'activated' during the opponents turn. The
+          shot will be fired if an enemy unit moves in the line of fire you
+          have set between your unit and the aiming cursor.
+
+The following ammunition is required for each weapon:
+
+          Laser Gun                     Laser Pack-1
+          Laser Pistol                  Laser Pack-2
+          Photon                        Laser Pack-3
+          Pistol                        Pistol Clip
+          Auto-Rifle                    Rifle Clip
+
+DAMAGE, DESTRUCTION AND WOUNDING
+
+When a shot hits a unit it may cause damage, wounding or death. Each hit will
+inflict a random number of damage points depending on the power of the weapon
+being used and the distance the weapon is fired. Damaged units have their
+action point allowance reduced.
+
+USING OBJECTS
+
+Certain objects have special uses in the game. When you want to use an object on
+something you must have the object in use and then move into the unit or
+terrain.
+
+A GUIDE TO PLAYING THE GAME
+
+Victory is determined by victory points. At the end of the game the side with
+the most victory points is the winner.
+
+Victory points are awarded to the Raiders as follows:
+
+      1   for each alien soldier eliminated
+      1   for each alien baby eliminated
+     10   for killing the alien queen
+      5   for each alien egg taken aboard the shuttle
+
+Victory points are awarded to the Aliens as follows:
+
+     3    for each raider eliminated
+     3    for each raider that has not boarded the shuttle by the end of the
+          game
+
+The Raiders' escape shuttle will land at the end of game turn 15 close to the
+alien fortress. The Raiders must attempt to board the shuttle by the end of
+game turn 26 when the shuttle is due to take off. The game ends if all the
+Raiders are eliminated, or if 26 game turns have elapsed.

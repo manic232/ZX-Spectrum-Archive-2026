@@ -1,0 +1,200 @@
+INTERNATIONAL KARATE PLUS
+-----------------------
+(c) 1987 System 3
+
+INTRODUCTION
+
+There are 17 different moves controlled by joystick (one or two 
+new moves were added to the original game at the expense of old 
+moves that were dropped). There is a practice mode. Opponents can 
+be hit in the head, chest, stomach, shins and feet from the front 
+or behind. Hits from behind give only half the normal score. 
+
+Computer-controlled men use different combat-strategies. 
+For example, when the computer controls both men, these men may 
+not fight, they may just avoid attacks. More 'vicious' 
+strategies exist, but are not identified here... Just observe.
+
+The tournament has 25 rounds with progressive difficulty. After 
+the 25th round a belt is awarded. Each round consists of three 30 
+seconds bouts. At the end of a bout a judge appears and instructs 
+the player(s) and announces the ranking(s). If a human player is 
+in the third place, he's out of the tournament. The game has 3 
+players on each screen at the same time, so as long as the human 
+player is in the 1st or 2nd place he is still in the tournament.
+
+The third bout of the round is a bonus bout where the player has 
+to use a small hand-held shield to deflect balls bouncing 
+towards him from all angles.
+
+
+GAME DISPLAY
+
+The score and game info is displayed at the top of the screen and 
+comprises 3 sets of combat points and cumulative score displays. 
+Human-controlled fighters are indicated by a colored fist to the
+right of the fighter's score. 
+
+The white-jacketed fighter is controlled by player one. 
+In the two-player mode, the grey-jacketed fighter is controlled 
+by player two.
+
+
+OPTIONS SELECTION
+
+Game mode selection:
+Fire joystick while in demo mode: 1 player practice mode
+I : 1 player against 2 computer men -tournament mode
+O : 2 players against 1 computer man -tournament mode
+
+Special keys:
+M : toggle music on/off (128K only)
+N : toggle sound fx on/off (128K only)
+P : toggle pause mode
+
+
+MOVEMENT CONTROLS
+
+Each of the eight joystick positions selects a type of move, and 
+pressing the button gives another eight. In special cases a 
+defensive move is available (detailed later).
+
+----------------------------------------
+The diagrams below show the movements of a man facing right:
+
+Moves when fire button is NOT pressed:
+
+
+                            jump up
+                               *
+reverse face punch  *                     *  front face punch
+  turn around
+
+   walk backwards   *          *          *  walk forwards
+    (or block)
+
+        crouching   *                     *  shin kick
+     stomach punch             *
+                         footsweep kick
+  
+
+
+Moves when firebutton IS pressed:
+
+                         flying leap kick
+                               *
+double face kick    *                     *  head butt
+
+
+        back flip   *          *          *  stomach kick 
+
+
+        back stop   *                     *  high face kick
+        face kick              *
+       turn around     reverse foot-sweep
+                          turn around 
+ 
+
+----------------------------------------------
+
+HOLDING AND CANCELLING A MOVE
+
+When making an attack move, you must hold the joystick in position
+until your man has made the attack. Releasing the joystick any 
+sooner will cause your man to return to the standing stance.
+
+
+SEQUENCES OF MOVES
+
+It is possible to make moves in quick succession without the 
+fighter first pausing in the standing stance, thus allowing a 
+smooth, free-flowing sequence. This is done by first selecting 
+the first move holding it until the attack has occurred, then 
+quickly selecting a next move before the man returns to the 
+standing position. This will allow such actions as a series of 
+back flips across the screen.
+
+
+BLOCKING MOVE (defensive)
+
+if you are being attacked at close range from in front, and you 
+select the 'walk-backwards' action, your man will stand in a 
+blocking posture for the duration of the attack and deflect all 
+kicks to the head, chest and stomach. However, it is not possible 
+to block shin kicks and footsweeps (shins=knees!).
+
+
+GAME OBJECT
+
+A round consists of a sequence of 2 fight bouts and a bonus bout.
+In the 1-player tournament mode game, the round ends when the 
+human player is in the third place. The object is to fight on for 
+as long as possible as the score builds up, you are awarded one 
+of the six belts colors, the highest being black and lowest 
+yellow.
+
+
+SCORING
+
+For each successful hit from the front the player gets two combat 
+points (1 pt =-a half disc, 2 pts-a whole disc!) and a numerical 
+score. Attacking from behind earns 1 point and half the score.
+
+A fight bout lasts either for 30 secs or until one of the players 
+gets 6 pts. This player will be awarded a bout time bonus of 
+100 pts for each second left in the bout.
+
+When a player is hit he falls down and passes out for a moment 
+shown by the stars above his head. When they disappear you can 
+pull up (on the joystick!) and get your man up, Otherwise he will 
+lie on the ground for a few seconds more.
+
+----------------------------------------
+Here is the table of scores. The 'pts' column shows your score 
+for a front hit - the score for a behind hit is half the one 
+shown (except as noted).
+
+move                             :  pts
+====                                ====
+front face punch                 :  800
+shin kick                        :  400
+footsweep                        :  400
+crouching stomach  punch         :  400
+reverse face punch               :  800
+flying kick                      :  800
+head butt                        : 1000
+stomach kick                     :  200
+face kick                        :  800
+reverse footsweep                :  400
+back-step face kick              :  800
+double face kick (from front)    : 1000 
+double face kick (from behind)   : 1000
+
+
+BONUS BOUT
+
+Here you are shown holding a small shield, with which you 
+must deflect the balls coming towards you. As the game
+gets more difficult, the max speed of the balls increases.
+There are also flashing balls whose bounce height alternates.
+
+For each deflection you score 100 pts., and if you survive all 
+balls you get a 5000-point score bonus. Since there can be up 
+to 60 balls, a good player can add over 10 000 pts to his score 
+in a single bonus bout and get to black belt status more quickly.
+
+
+HALL OF FAME
+
+In the high-score list your score with belt & belt color are 
+given and you can add your initials (max 3 initials). Move the 
+joystick left/right to choose the letter and press the fire 
+button to enter.
+
+-----------------------------------------------------
+Typed by Aaron Deveraux of Hackerworld
+
+==========================================================
+Taken from Project 64 http://project64.c64.org
+Readapted for the Spectrum in 2001 AD by Alessandro Grussu
+http://www.ag-online.da.ru

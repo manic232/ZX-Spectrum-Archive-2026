@@ -1,0 +1,108 @@
+==============
+Operation Wolf
+==============
+Document created by rstuart@ukonline.co.uk on 15th Nov 99 for
+World of Spectrum: http://www.void.demon.nl/spectrum.html
+
+Instructions taken from Ocean compilation 'Battle Stations'.
+
+Operation Wolf
+==============
+Central control to Lone Wolf... parachute into hostile territory... locate
+enemy concentration camp... release captives interned there... repeat...
+Operation Wolf; an exciting new concept in computer games, in which the
+enemy shoot at you from the screen. Gun in hand, you must traverse hostile
+terrain, seeking your fellow countrymen being held prisoner in a
+concentration camp.
+Make your way through jungle filled with hostile soldiers, destroy any enemy
+installations and free all townships you encounter, with no food, no water,
+no chopper cover, not nearly enough ammo and no idea if you are going to make
+it back... volunteers only!!
+
+Loading
+=======
+1. Place the cassette in your recorder ensuring that it is fully rewound.
+2. Ensure that the MIC socket is disconnected and that the volume and tone
+   controls are set to the appropriate levels.
+3. If the computer is a Spectrum 48K or Spectrum + then load as follows. Type
+   LOAD"" (ENTER). (Note there is no space between the two quotes). The " is
+   obtained by pressing the SYMBOL SHIFT and P keys simultaneously.
+4. Press PLAY on your recorder and the game will load automatically. If you
+   have any problems try adjusting the volume and tone controls and
+   consulting Chapter 6 of the Spectrum manual.
+5. If the computer is a Spectrum 128K then follow the loading instructions
+   on-screen or in the accompanying manual.
+
+Note
+====
+The 48K version loads the main game and then each level is loaded when
+required.
+
+Controls
+========
+Keyboard redefinable. Also accepts Sinclair Cursor and Kempston Joysticks.
+Normal Keys are:-
+K - UP       X - RIGHT
+M - DOWN     L - FIRE
+Z - LEFT     G - GRENADE
+
+Gameplay
+========
+Operation Wolf comprises six levels of lethal arcade action, each increasing
+in difficulty as you progress. You are armed with a sub-machine gun with
+limited ammunition and a small number of grenades. Extra ammunition and
+grenades can be collected by shooting at them when they appear on the screen.
+  Animals, if shot, will sometimes drop these items, however under no
+circumstances should you shoot any innocent cicilians. You must protect the
+hostages on levels five and six from any harm in order to ensure their safe
+escape.
+  Your energy level is shown on the right hand side of the screen and this
+will decrease if you are shot by a solitary soldier, (substantially if you
+are shot by a vehicle or you accidently kill a civilian or hostage).
+  As you complete each level, a small amount of your energy is replenished
+and when you have just a few units left, the display will flash.
+  To complete a level you must shoot and destroy the relevant number of
+soldiers, tanks, helicopters etc as displayed on the bottom of the screen.
+This will probably be the most dangerous mission you have ever undertaken. Be
+alert, be strong and above all be careful!
+
+Status and Scoring
+==================
+Status panel shows score, number of bullet magazines left, number of bullets
+per magazine, number of grenades and damage level. Also shown on each level
+is the number of baddies which need to be eliminated in order to complete
+level and number of hostages rescued. Points awarded for disposing of baddies
+vary depending on type. Points also awarded for completing level.
+  When damage level is full player is dead. There is one 'continue' option.
+Player's damage is increased if he shoots a civilian.
+
+Survival Summary
+================
+Magazines - Shooting this gives one extra magazine of ammunition.
+Grenades - Shooting this gives one extra rocket bomb, up to a max. of 5.
+F-ON A BULLET - Shooting this gives an increased rate of fire for one
+  magazine.
+P-ON A BOTTLE - Shooting this improves your physical condition.
+
+Enemy missile fire can be shot down before it hits you.
+Vehicles can be destroyed by bullets, but they must be hit several times.
+
+Hints & Tips
+============
+* Don't fire constantly, save bullets.
+* Keep grenades for large groups of enemies and vehicles.
+* Shoot enemies which inflict most damage first.
+
+Operation Wolf
+==============
+Its program code, graphic representation and artwork are the copyright of
+Ocean Software Limited. All rights reserved worldwide.
+
+Credits
+=======
+Coding by Andrew Deakin.
+Graphics by Ivan Horn.
+Music and sound effects by Jonathan Dunn.
+Produced by D. C. Ward.
+(c) 1988 Ocean Software Limited.
+Licensed from (c) Taito Corp., 1987, Programmed by Ocean Software Limited.

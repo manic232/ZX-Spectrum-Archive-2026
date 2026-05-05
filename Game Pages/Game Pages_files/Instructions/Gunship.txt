@@ -1,0 +1,3661 @@
+
+Gunship manual
+**************
+
+(as this is full manual for Commodore/Atari/PC version, file 
+starts with summary of commands for ZX Spectrum, anyway I'm 
+sure that manual be very usefull to any 'Speccy player' 
+- Aleksandar Lukic, http://www.speccy.org/SpeccyTour03/)
+
+Gunship commands - keyboard overlay. 
+
+1= engine 1 on/off 
+2= engine 2 on/off 
+3= rotors 
+W= weapon select 
+F= drop flare decoy 
+C= drop chaff decoy 
+Y= pause 
+J= radar jammer on/off 
+K= IR jammer on/off 
+I= view left 
+O= view ahead 
+P= view right 
+Q= up slow (+shift = fast) 
+A= down slow (+shift = fast) 
+S= stores 
+D= damage 
+Z= rotate left 
+X= rotate right 
+space= change CRT 
+N= next TADS target 
+R= jettison 
+M= map 
+break= pause 
+Ex= mode accelerate time 
+Enter= stop rotation 
+
+All the joystick is used for is up/down/left/right/fire.
+
+PASSWORD    COUNTERSIGN
+-----------------------
+ACCENT      TRAMPOLINE
+BILLBOARD   KICKBACK
+CROMAGNON   MELODRAMA
+DAKOTA      ONSTAGE
+ELECTRA     VERTICAL
+FOOTHOLD    INSOLENT
+GRENADIER   NOCTURNE
+HEDGEHOG    LOCKSMITH
+IVORY       WILLOW
+KNOCKOUT    PUREBRED
+LOZENGE     ROMANTIC
+MAZURKA     YELLOW
+NEBULA      QUAKER
+OVATION     UPSTAGE
+PENTHOUSE   SYMPHONY
+QUARTZ      ZEBRA
+
+*********
+
+WHAT TO DO IF MY GAME FAILS TO LOAD
+In the vast majority of cases a loading problem is not a problem with
+the software but either an incorrect loading procedure or a hardware
+fault.
+
+So, if my game fails to load what should I do?
+
+1. If you have an Amstrad, Spectrum, Commodore 64, or an IBM PC
+compatible, make absolutely sure you have typed in the correct loading
+instructions. Just one digit typed incorrectly will prevent the game
+from loading.
+
+2. If you have followed the correct loading procedure and the game
+still refuses to load, it may well be a hardware malfunction. The most
+common problem is a misalignment of heads in the tape/disk drives.
+This also includes the ST and Amiga. One test is to load the game on a
+friends machine or ask the software store from which the game was
+purchased to test the game.
+
+3. Alternatively, it may well be that a virus has been transferred
+from another game. This could only occur on Atari ST, Commodore Amiga
+or IBM PC and compatible machines. Statistically, viruses seem to be
+quite prevalent on the Amiga. If the problem is a virus, then the
+monitor may display "Readwrite error", or "Software failure", or some
+other irregular message. To eliminate the virus, a virus killer can be
+purchased from any good software store. Having eliminated your virus,
+make sure that any new virus cannot multiply by switching off the
+computer for at least half a minute before re-booting with any other
+disk you wish to use. Pirated copies of games are an incredibly
+popular source of computer viruses, so it always pays to own original
+software.
+
+IN THE UNLIKELY EVENT OF THERE BEING A SOFTWARE FAULT YOU MUST RETURN
+THE COMPLETE PACKAGE WITH THE RECEIPT TO THE PLACE OF PURCHASE.
+UNFORTUNATELY GOODS CANNOT BE REPLACED BY MICROPROSE UNLESS PURCHASED
+FROM THE COMPANY DIRECTLY. IN THE EVENT OF ANY DIFFICULTY PLEASE
+CONTACT THE MICROPROSE HELPLINE, TELEPHONE NUMBER (0666) 504399
+
+
+                  GUNSHIP
+
+         The Helicopter Simulation
+             OPERATIONS MANUAL
+                 64H-029A
+         Change 1, November 1986
+    Copyright 1986 by MicroProse Software
+ 120 Lakefront Drive, Hunt Valley, MD 21030
+              (301) 771-1151
+
+In the early days of flying "barnstormer" pilots flew by the seat of
+their pants - following roads and rivers, even dipping down to mad
+roadsigns! That grand tradition of individual flying is found today
+among helicopter pilots. They love getting down among the hills and
+trees to do some "interesting" flying.
+
+Just flying a helicopter is loads of fun, but hem at MicroProse we
+wanted more. We wanted to fly a combat helicopter in simulated battle
+conditions, All kinds of battles: from guerilla wars to a hypothetical
+USA-USSR war in Europe. Pop over a hill, launch a Hellfire, dodge a
+SAM, jam a ZSU's radar, then duck behind cover again. "GUNSHIP" is a
+simulation of everything we wanted.
+
+Now you can experience the danger, excitement courage, and agony of
+real combat helicopter flying - without the bloodshed and suffering
+that occur in real warfare. GUNSHIP portrays actual ground scales,
+flight speeds and weapons systems. The AH-64A is the "highest tech"
+helicopter flying today, complete with lasers, cameras, night viewers,
+infra red and radarwamings, jammers, computers, composite materials,
+engine signature suppressors, and a plethora of weapons. The
+TADS(Target Aquisition & Designation Sight) system is a computerized
+fire control system, also simulated within yourcomputer! Faithfully
+reproducing the AH-64A systems, capabilities, and limitations was an
+enormous undertaking, Creating GUNSHIP took much longer than we
+expected.
+
+We're sum you'll agree our time was well spent GUNSHlP is the most
+detailed and realistic simulation of combat
+helicopterflyingeverforhome computer. For us. it's the next best thing
+to joining the US Army and flying the real aircraft So grab your
+IHADSS helmet, jump into the cockpit and swing into action with our
+AH-64AA Apache gunship!
+
+Introduction
+quickstart
+Part I  - Operating Instructions
+          Loading
+          Preparing to Fly
+          Cockpit & Status Panels
+          A Practical Guide
+          Controls
+          Controls Summary
+          Beginner's Tutorial I
+          Beginner's Tutorial II
+          After the Mission
+Part II - Apache Pilot's Manual
+          Aerodynamics
+          Weapons & Tactics
+          Military Equipment
+          Regional Deployments
+          Glossary
+          Notes
+
+
+                                QUICKSTART
+
+BEWARE: GUNSHIP is an accurate simulation of a combat helicopter. Do
+not attempt to jump in and fly by instinct Helicopters are similar to
+other aircraft, but have important differences. Unless you've flown
+real helicopters, read Part I ("Operating Instructions") carefully and
+learn to fly using the tutorials.
+
+1. To load GUNSHIP in your computer, read the appropriate section of
+"Loading" in Part I. Get out the overlay and place it on the keyboard.
+
+2. Skim the "Cockpit & Status Panel" and "Controls" sections to
+familiarize yourselfwith the helicopter. Also glance through "A
+Practical Guide to Helicopter Flying".
+
+3. Follow the tutorials: First turn to "Beginner's Tutorial 1 -
+Learning to Fly a Helicopter." Follow this step by step. You'll refer
+frequently to both "Cockpit" and "Controls" sections. Then follow
+"Beginner's Tutorial II - Gunnery & Defenses:  If you are still
+uncertain about flying after both tutorials, continue flying the USA
+training area. Refer to "A Practical Guide to Helicopter Flying" and
+"Aerodynamics" for a better understanding of flight Then fly the
+tutorials again.
+
+4. Begin combat flying in Southeast Asia, just like thousands of other
+American helicopter pilots. Turn to "Regional Deployments" in the back
+of this manual for tips and suggestions about that region.
+
+5. Don't Volunteer for Western Europe: Watch the risk level as you
+adjust your starting options. Keep your risk low at first Above all,
+avoid the 1st Line in Western Europe. The Warsaw Pact is the most
+formidable enemy on this planet.
+
+
+
+PART I
+OPERATING INSTRUCTIONS
+AH-64A Apache Operations Manual: 64-H-029A-1/264-H-029A-l/2
+
+LOADING the AH-64A APACHE SIMULATION
+
+Commodore C-64X-128 Computers
+This version requires a C-64, C-64C or C-128 with a 1541 or 1571 disk
+drive and a joystick. The C-128 GUNSHlP uses the C-64 emulation mode.
+However, it does take advantage of the greater speed and procesing
+power of the C-128 where appropriate.
+
+1. Turn off your computer and disk drive.
+
+2. Attach one joystick at port #2. Do NOT leave a joystick in port #1
+(a joystick there can scramble your controls).
+
+3. Turn on your disk drive. WARNING: do not leave a diak in the drive
+when you turn your computer or disk drive on or off - your disk could
+be damaged.
+
+4. Remove any cartridges from your computer. GUNSHIP has a "fast load"
+routine built into its software for use with tbe 1541 drive. Remove
+all fast load cartridges before attempting to load tbe game.
+
+5. Insert the GUNSHIP disk, label upward. into the disk drive. Close
+the drive door latch.
+
+6. Turn on your computer. On a C-128 the simulation begins loading
+automatically. If you have a C-64, you must type tbe following:  LOAD
+"*", 8, 1 and then press RETURN. After loading leave the disk in the
+drive.
+
+
+Apple II family Computers
+
+This version requires an Apple II+ with 6 4K RAM, and Apple IIe (with
+either 64K or 128K RAM),or an Apple IIC.The computer must have
+APPLESOFT BASIC in ROM,a disk drive, the disk drive controller in slot
+6 (its normal position), and a joystick.
+
+1. Turn off your computer.
+2. Plug In your joystick. GUNSHIP requires a joystick
+
+3. Insert the GUNSHIP disk in the disk drive. label upwards, and close
+the latch.
+
+4. Turn on your computer. The simulation loads automatically. After
+loading leave tbe disk in the drive.
+
+
+ATARI 800 XL/XE Computers
+
+This version requires an Atari 800 XL, 1200X, 130XE 65XE with a
+diskdrive and a joystick.
+
+1. Turn of your computer and diskdrive.
+2. Remove all cartridges.
+3. Plug in your joystick into port #1.
+4. Turn on your disk drive.
+
+5. Insert the GUNSHIP disk, label upwards., into tbe disk drive and
+close the latch on tbe disk drive door.
+
+6. Turn on your computer. The simulation loads automatically from
+disk. After loading leave the disk in the drive.
+
+
+IBM PC, PCjr, XT, and AT;
+Tandy 1000, 1200 and 3000
+100% PC Compatibles
+This version requires an IBM compatible computer, a disk drive. and a
+color monitor using either CGA (Color Graphics Adapter) or EGA
+[Enhanced Graphic Adapter] graphics. A joystick is optional. but
+strongly recommended.
+
+This simulation is NOT compatible with a Hercules monochrome graphics
+card or other monochrome graphics devices. The simulation does NOT use
+PC DOS or MS DOS and therefore cannot use hardware or software that
+requires a DOS environment.
+
+1. Turn off your computer
+2. Plug in your joystick if you are using one.
+
+3. Insert the GUNSHlP disk, label up. into the "A" disk drive. Then
+close the drive door latch.
+
+4. Turn on your computer. The simulation loads automatically. After
+loading leave the disk in the drive.
+
+
+ATARI 520 ST/1040 ST
+This version requires an Atari 520 or 1040 ST with a disk drive, a
+color monitor, and either a mouse or a joystick. TOS can be in ROM or
+loaded from disk.
+
+1. Turn on your computer.
+
+2. Plug in your mouse or joystick. The mouse must be plugged into port
+#1 (the normal port).  The joystick must be plugged into port #2.
+
+3. Turn on the computer.
+
+4. TOS in ROM. All 1040's and all recently built 520's have TOS in
+ROM. If you have such a machine. simply insert the GUNSHIP disk into
+the disk drive. The simulation loads automatically.
+
+4. NO TOS in ROM. If your computer is an early-version 520 ST without
+TOS ROM chips, insert your Atari TOS disk into the drive. When the
+desktop appears eject the TOS disk end insert the Gunship disk Press
+the ESC key to display the contents of the Gunship disk When these
+appear, use the mouse to point to the AUTO folder and double-click
+with the left mouse button.  This folder will open and show a file
+called GUNSHlP. PRG. Point to this with the mouse and double-click
+again to load the game. After loading leave the disk in the drive.
+
+
+Commodore Amiga
+This version requires an Amiga with at least 512K RAM. A mouse or
+joystick can be used.
+
+1. Turn off your computer.
+
+2. Plug in your mouse or joystick. The moose must be plugged into port
+#1 (the normal port).  The joystick most be plugged into port #2.
+
+3. Turn on the computer.
+4. Insert the Amiga Kickstart disk into the disk drive.
+
+5. When the "Workbench" Icon appears on the screen press the eject
+button and remove the KICKSTART disk.
+
+6. Insert the GUNSHIP disk into the disk drive. It loads
+automatically. After loading leave the disk in the drive.
+
+
+GUNSHIP: Special Instructions for the C64 Tape Cassette Version
+GUNSHIP is a very large C64 program, designed for computers with disk
+drives (the standard American practice). It has about 300k of code and
+data In creating the tape cassette version, MicroProse has adjusted a
+few minor details to minimize tape loading times. No essential feature
+of the game has been removed. For reference the differences are
+described below.
+
+LOADING
+(page 6)
+To load the tape cassette version requires either a C-64 or C-l 26
+computer with a cassette tape drive.
+
+1. Turn off your computer, then remove all cartridges from the
+computer.
+
+2. Attach one joystick at port #2 Do not leave a joystick in port #1
+[a joystick there can scramble your controls).
+
+3. Insert the GUNSHIP cassette into the cassette tape drive, label
+upward. This is SIDE 1 of the tape. Close the tape drive.
+
+4. Turn on your computer. If you have a C-128, hold down the Commodore
+key while turning on the computer.
+
+5. Load Tape: hold down the Commodore key and tap the RUN STOP key.
+Your C64/Cl28 will ask you to press PLAY on the tape drive. Do it. The
+tape will search for GUNSHIP, report finding it, and begin loading.
+Note: As in most tape cassette programs, once you press PLAY, leave it
+down until some other instruction [such as REWIND] is given. The
+program cannot access the tape unless PLAY is down.
+
+
+PREPARING TO FLY
+(page 9)
+AH-64A PILOT ROSTER ("SERVICE RECORD"): The tape cassette version only
+holds information on ONE pilot. If you point to "save" and press the
+fire button the pilot is saved to a separate tape cassette [you cannot
+save it to the game tape cassette). If you point to "RELOAD" and press
+fire you can recall a pilot saved on a separate cassette. Remember,
+you cannot save a pilot unless you have a blank tape to store his
+service record data. NEVER attempt to save pilot data on the GUNSHIP
+game tape cassette.
+
+COCKPIT & STATUS PANELS
+(page 13)
+STORES STATUS DISPLAY (pg 18): This display is not available in the
+tape version. Use information on the main cockpit display instead as
+described in the middle of page 15. SYSTEMS DAMAGE DlSPLAY [pg 18):
+This display is not available in the tape version. Use the "idiot
+lights" across the top of the cockpit instead, as described on the
+bottom of page 15.
+
+AFTER THE MISSION
+(page 38)
+RETRY OPTION: Whenever you land shut down the engines and the rotor
+stops turning, you have the option of either "retrying" the same
+mission again, or continuing. If you retry, you are able to fly the
+very same mission again, from the start. If you do not retry, your
+mission is summarized and then your after-landing options are
+presented. Note that this is different from the disk version, where
+only pilots who crash while at low rank can retry.
+
+TOP SCORES: The comparison of your score to the two all-time top
+scoring missions (described in fourth paragraph) is not available in
+the tape version.
+
+SAVE PILOT: One of your replay options is to "Go on extended R&R (Save
+Pilot)". This returns you to the pilot roster, where you can save your
+pilot's name and record on a separate tape (see Preparing to Fly,
+AH-64A Pilot Roster, above).
+
+
+
+PREPARING TO FLY THE AH-64A APACHE
+
+On most screens you'll see a small arrow pointer. Your joystick mouse,
+and cursor control keys (depending on your computer) move the arrow.
+To make a selection, move the arrow onto the picture or box and then
+press the joystick fire button, mouse click button, or the return key
+on the keyboard.
+
+VEHICLE IDENITIFICATICN: Telling the good guys from the bad guys takes
+practice. Examine the vehicle drawing and compare it to the drawings
+in the "Military Equipment" section of this manual. Move the pointer
+to the box beside the correct name and press fire/click/return.
+
+DEFAULTS: Here you see the last mission flown: the pilot, his duty
+assignment {region of the world), style of flying, and reality levels.
+To change any of the defaults point to the appropriate box in the
+upper left and press fire/click/return. If the defaults shown are
+fine, point to "Continue" and press fire/click/return.
+
+The combination of duty assignment (region), style, and reality
+determines the overall level of risk for your next mission. The level
+of risk affects your scoring, promotion, and decorations.
+
+AH-64A PILOT ROSTER: This summarizes the "service records+" of pilots
+on the disk To select a name, point to the name itself and press
+fire/click/return. This highlights the name. Point to "Continue" and
+press fire/click/return to return to the defaults.
+
+To enter a new name (such as your own!), select a name you wish to
+replace, then point to "Erase Pilot" and press fire/click/return. Type
+the new name and press RETURN. This new name appears in the roster.
+The old name iserased, permanently.
+
+Each pilot's service record includes a list of awards, decorations,
+and reprimands, followed by a number indicating the quantity of each.
+The letter abbreviations are: ACM-Army Commendation Medal, AM-Air
+Medal, BSV-Bronze Star, CAC-Central America Campaign Ribbon,
+CMOH-Congressional Medal of Honor, DSC-Distinguished Service Cross,
+KIA-Killed in Action, MEC-Middle East Campaign Ribbon, MIA-Missing in
+Action, NDS-National Defense Service Medal, PH-Purple Heart, SEAC-
+Southeast Asia Campaign Ribbon, SR- Service Reprimand, SS- Silver
+Star, WEC- Western Europe Campaign Ribbon.
+
+DUTY ASSIGNMENT: You can select five different areas of the world for
+combat flying. Point to the badge representing the area you desire and
+press fire/click/return. Point to "Continue" and press
+fire/click/return to return to the defaults. Beginners should select
+Flight Training in the USA and follow the two tutorials. Combat
+regions are listed in order of difficulty, from Southeast Asia (the
+easiest) to Western Europe (the most difficult). Regions powerfully
+affect difficulty. Don't expect success in Western Europe until you do
+well in the other regions.
+
+STYLE OF FLYING SELECTION: Within a region, some areas and missions
+are more dangerous than others. Here you select the level of danger
+you prefer. Point to the appropriate face and press fire/click/return.
+
+Volunteer missions, especially hazardous duty, mean you're facing
+tougher, more accurate, and faster-reacting opponents. Regular
+missions put you against "garden variety" Russian-trained troops with
+lesser combat skills. This choice has a powerful effect on mission
+difficulty.
+
+
+ENEMY & REALITY SELECTION: Wherever you fly, you can select between a
+"realistic" simulation and an "easy" simplified version. Point to the
+boxbeside the option you prefer and press fire/click/return.
+
+"Easy" reality levels may help you learn to fly. Beginners often
+prefer "easy" landings and weather effects. However, use "realistic"
+flying assoon as possible, since experienced GUNSHIP pilots find the
+realistic level is actually easier to fly in combat.Enemy quality
+determines the "newness" of enemy equipment. Soviet-equipped First
+Line troops have modern equipment (for that region). The Second Line
+rear area and allied forces use older equipment. The Third Line
+reservists have obsolete equipment.
+
+BRIEFING: Here are your flight orders. They include IMPORTANT
+information you should memorize or write down. Above all, note the
+password, look up the countersign in this manual and write it down.
+Passwords and countersigns appear at the bottom of each page in
+alphabetical order, starting on page 12. Also make a note of your
+primary and secondary objectives. You'll probably want to check the
+map to see where they are in relation to your bases. It's also wise to
+note the wind speed and direction (only present if you picked
+realistic weather conditions).
+
+When you're through examining the orders and related information (map,
+intelligence reports, and/or sick call) point to "continue" and press
+fire/click/return.
+
+
+NOTE: When flying "Training in the USA" duty the subsequent options
+are greatly abbreviated. No intelligence report or sick call option
+exists, and no reminders are necessary.
+
+
+THE SECTOR MAP: This shows the entire battle area, friendly bases and
+forces in white, your objectives are in violet It's purely for
+reference, and to help you plan your mission.
+
+The map coordinates are read military fashion, "right and up." That
+means the first number is the horizontal scale, the second the
+vertical scale. For example, 01-12 is the upper left corner.
+
+INTELLIGENCE REPORT: This report gives additional details about enemy
+forces and equipment. You may wish to read the "Military Equipment"
+section about these weapons, and/or the "Weapons & Tactics" section
+about how to deal with them.
+
+SICK CALL: If you decide this mission is too difficult or dangerous,
+you can go on sick call to avoid it Read the advice on the screen
+carefully. As a rule, pilots decide to be "on sick call" if the
+objectives are distant from friendly base and the enemies are truly
+formidable. Objectives near a friendly base are always easier, since
+you spend less time in "hostile" airspace.
+
+REMINDERS: It's important that you know the password, countersign, and
+both objectives (primary and secondary). Check your notes to make sure
+you have the correct information. point to the appropriate box and
+press fire/click/return.
+
+ARMING: A standard armament appears here for your region. However, you
+can adjust the stores on your helicopter to suit your preferences. To
+add or subtract cannon ammunition (30mm HEAD), fuel, chaff, and/or
+flares, point to the "+" or "-" box and press fire/click/return.
+You'll see the appropriate quantity change, along with your current
+weight To remove armament from the weapons wings, point to the weapon
+on the wing itself and press fire/click/return. To add a new or
+different armament to a wing, point to the box representing the weapon
+and press fire/click/return to "pick up" the weapon. The weapon is now
+attached to your pointer. Move it to the wing and fire/click/return to
+release it. If there is already a weapon at that position, the new one
+replaces the previous one. Weapons must be balanced. Whenever you add
+or subtract a weapon to one wing, the other automatically changes too.
+The wingtips carry AIM-9L Sidewinders only (anything else is too
+heavy). The interior wing stations can carry any weapon. The maximum
+weight figure near the bottom is the maximum takeoff weight for the
+region and weather. You can never add weapons that exceed this limit.
+
+Point to "Continue" and press fire/click/return to begin flying.
+Select "Clear" to eliminate all stores from your helicopter. Press
+"Sick Call" if you've got cold feet and want to back out of the
+mission. Sometimes even experienced pilots do this if unfavorable
+weather causes an impossibly low maximum weight on a dangerous
+mission.
+
+
+IMPORTANT!
+KNOW YOUR PASSWORD & COUNTERSIGN!
+
+The briefing and reminder screens (above) tell you the password for
+this mission. YOU MUST KNOW THE COUNTERSIGN. At the page bottoms in
+this manual you will see a password followed by a countersign. Find
+the page with the briefing's password, and then write down the
+countersign that follows.
+
+When you approach any friendly heli-base, you will get a radio message
+giving the password and asking for the countersign. If you do not type
+in the proper countersign and press "RETURN", base defenses will
+presume you are an enemy and shoot you down!
+
+
+COCKPIT & STATUS PANELS of the AH-64A APACHE SIMULATOR
+
+COCKPIT INSTRUMENTATION
+The cockpit is the main control panel used in flight. You "see" the
+landscape through the armored glass as you fly. A fixed crosshairs
+sight aids in pitch orientation and firing FFAR unguided rockets. A
+moving box (reticle) represents your IHADSS helmet gunsight (TADS).
+This box changes from dark to light color. Depending on the current
+accuracy of your selected weapon (dark is low accuracy, light is
+higher accuracy). Below the cockpit glass are the dials, gauges and
+displays of the helicopter cockpit.
+
+System Damage Lights: (top of screen)
+
+Main (R)otor        (F)orward Fuel Tank  Port (E)ngine       Chaff (L)auncher
+Nose (O)ptics       Port (W)ing          Starboard (E)ngine  Flare (L)auncher
+Forward (A)vionics  Starboard (W)ing     Aft (F)uel Tank     Tail (R)obot
+Chain (G)un
+
+
+
+AIRSPEED:This dial shows your horizontal speed through the air in
+knots. A speed of 100 knots equals about 114 mph, or about 167
+feet/second.
+
+ALTIMETER: This dial shows your altitude in feet The rotary needle is
+marked in tens of feet (i.e., if the needle points to "1", read it as
+10 feet). The digital readout in the center shows your altitude to
+thousands (left digit) and hundreds (right digit) of feet For example,
+a digital readout of 13 and needle at 6 means one thousand, three
+hundred, and sixty (1 360) feet.
+
+ATIlTUDE & ARTlFICIAL HORIZON: This ball-gauge shows your pitch (nose
+up or down) and your roll (left or right). The blue part represents
+the sky, the black part the ground.
+
+
+CRT DISPLAY: This small display screen has three separate modes of
+operation. The TADS Target Mode shows a zoom-camera view of the target
+on which TADS is "locked": The display also shows the range to target
+(in kilometers) in the upper left corner and the zoom magnification in
+the upper right For example, "1.2" and "x32" indicates the target is
+1.2 kilometers (1200 meters) away and that your CRT view is magnified
+32 times.
+
+The Map Mode shows a small detail of the large sector map. This detail
+is centered on your helicopter.
+
+The only exception is when your helicopter is flying near or along the
+edge of the combat area. The Radio Message Mode shows a radio message
+you just received. Once a message is displayed, it disappears. The
+display does not "remember" previous messages.
+
+
+CRT PROMPT: This line prompts you whenever new information is
+available. For example, when a radio message arrives, "RADIO MSG"
+appears hem.
+
+"TARGET" means a new potential target is present - you can use the
+TADS to find the new target. If your TADS is locked on a target, the
+name of that target appears here. Once TADS is locked onto a target
+and displaying its type, the "TARGET" message no longer appears, even
+if another target is available.
+
+
+ENGINE & ROTOR GAUGES: The left and right yellow strips show the RPMs
+of the port (left) and starboard (right) engines. The center yellow
+strip shows the main rotor RPM (revolutions per minute).
+
+FUELGAUGE: The two yellow strips titled "F" show the amount of fuel
+remaining in the forward and aft tanks The forward tank is the left
+gauge, the aft tank is the right gauge.
+
+HEADING & COURSE INDICATORS: The white arrow represents your current
+heading (facing), and always remains centered. The green arrow
+represents your current course. Normally it is aligned with the white
+arrow, but will shift left or right if you're skidding sideways. The
+red arrow beneath represents the course to your current destination.
+When the green, red and white arrows are super-imposed, you are on
+course.
+
+INFRARED (IR) WARNING & JAMMING LIGHTS: The "I" warning light turns
+red whenever an infra red (IR) signature weapon is approaching your
+helicopter. If you turn on your IR jammer, the neighboring light turns
+green while the jammer is running. If the jammer is successful, the
+red warning light turns off. There are no enemy IR warning. IR
+searching devices, and therefore no flashing red IR warning.
+
+
+INS DESTINATION INDICATOR (INS = Inertial Navigation System): This
+digital readout indicates the course to your current destination. When
+the INS readout matches the digital compass readout, you are on
+course.
+
+
+RADAR WARNING & JAMMING LIGHTS: The "R" warning light flashes red
+whenever enemy search radar "sweeps" over your helicopter. When enemy
+tracking (firing) radar for either guns or missiles locks onto you,
+the light turns solid red. If you turn on your radar jammer, the
+neighboring light turns green while the jammer is running. If the
+jammer is successful, the solid red warning light turns off.
+
+Note: Your jammer cannot discourage radar searches, so flashing red
+warnings may continue even if your jammer is successful in stopping a
+tracking (firing) radar.
+
+
+ROTARY & DIGITAL COMPASS: The needle on this compass indicates your
+current heading, with a digital readout directly below. Note that the
+compass shows the heading your helicopter faces. During a sideways
+skid or backwards flight your actual course is different.
+
+ROTOR DISENGAGED WARNING LIGHTS: This light shows red if the rotor is
+disengaged (i.e., spinning freely, unconnected to the engines). The
+light is off when the rotor is engaged.
+
+STORES SELECTION: The AH-64 Apache can carry up to six different types
+of  dispensable stores (offensive and defensive expendables). Each has
+a different colored light, with the number of "units of fire" shown
+beneath (a unit of fire is how often you can use that.item before you
+run out). Inactive stores are unlighted. Only one offensive weapon can
+be armed at a time. The weapon currently ready is lighted. Offensive
+weapons can include:
+
+  AIM-9L Sidewinder air-to-air guided missiles
+  2.75" FFAR unguided air-to-ground rockets
+  AGM-114A Hellfire air-to-ground guided missiles
+  30mm Chain Gun Cannon (in 20-round bursts)
+
+Defense stores light up when used, The light remains on as long as the
+defense is functioning (about 10-20 seconds). Defensive stores can
+include:
+
+  Flare decoys to use against IR-guided weapons
+  Chaff decoy to use against radar-guided weapons
+
+As a point of information; each defensive store unit of fire is a
+group of three cartridges.
+
+SYSTEMS DAMAGE LIGHTS: These lights show the status of major systems
+on board your helicopter. A green light means the system is
+functioning correctly, a colored light means the system is
+malfunctioning. Reading from left to right, the systems are:
+
+  R  main rotor
+  O  nose optics (controls TADS)
+  A  forward avionics bay (gauges)
+  G  chain gun (30mm cannon)
+  F  forward fuel tank
+  W  port weapons wing
+  W  starboard weapons wing
+  E  port engine
+  E  starboard engine
+  F  aft fuel tank
+  ** Aft avionics bay (jammers)
+  L  chaff decoy launcher
+  L  flare decoy launcher
+  R  tail rotor (controls rotation)
+
+
+THREAT DISPLAY: This screen shows nearby enemy weapons that threaten
+your helicopter. Red dots are enemy guns and launchers tracking or
+firing on your helicopter. White dots are missiles in flight This
+includes both enemy missiles AND your missiles. A red-and-white
+flashing dot is an enemy helicopter.  The top of the threat display
+represents your heading (i.e., "ahead"). The threat display operates
+at two ranges: long and short Normally the display shows "long" range
+with two concentric circles. The inner circle shows local enemies
+(closer than 3 kilometers), the outer circle distant enemies (who are
+generally beyond your maximum visibility).  If an enemy missile or
+helicopter approaches within a few hundred meters, the threat display
+automatically switches to "short range" while the threat is close.
+This aids you in maneuvering against enemy helicopters, and/or to
+evade missiles.
+
+TORQUE GAUGE: The two yellow strips titled "T" show the amount of
+torque in the port (left) and starboard (right) jet turbine engines.
+This is proportional to the collective control and rotor lift The
+higher you set the collective, the higher the torque, and the greater
+the lift.
+
+VSI (Vertical Speed Indicator): This dial shows the rate you are
+changing altitude (ascending or descending). If the needle is
+horizontal, you are maintaining a constant altitude. If the needle
+dips downward, you're descending toward the ground; if it points
+upward, you're ascending. The dial is marked in thousands of feet per
+minute. For example, if the needle points down at "1", then you are
+descending at 1000 feet per minute.
+
+
+
+SECTOR MAP
+
+You can "look away" from the cockpit view to a large sector map. This
+map shows the local combat or training area, including all major
+terrain features, friendly troops, installations and your objective.
+Enemy roops and installations appear only as you spot them using the
+TADS gunsight Enemy helicopters never appear on the map. They move too
+quickly for accurate marking. Remember that maps are never 100%
+accurate. Troop and base positions are especially prone to error.
+
+STILL IN FLIGHT: You are still in flight while examining this map. Be
+sure to look up periodically. Otherwise you might fly into a mountain
+or come under attack. It's wise to hover in a safe place if you spend
+long periods examining this map.
+
+INS CURSOR (INS = Inertial Navigation System): The white crosshairs on
+this map represents your current destination. Move the joystick to
+move the cross-hairs. When you return to the cockpit the INS
+indicators will help you fly to this destination.
+
+GRID COORDINATES: The map uses a military grid coordinate system. To
+describe any position, read "right and up": That is, the first two
+digits are from the horizontal scale, the last two from the vertical
+scale. Therefore, 01-01 is the lower left corner,01-12 is the upper
+left corner, 12-01 is the lower right corner, and 12-12 is the upper
+right corner.
+
+ACCELERATED TIME: The accelerated time option is available only while
+viewing the sector map. Time passes at double the normal rate, thus
+halving your flying time between points.
+
+
+MAP TERRAIN SYMBOLS include the following:
+
+  ------  Road
+
+
+  /\  /\  Stream
+    \/  \
+
+
+  ##      Building
+  ##
+
+  ###     Hill
+  ## |
+ ##__|
+
+  ___
+ |   |    Cultivated Area (Field, Rice Paddy, Plantation, etc.)
+ |___|
+
+
+MAP TROOP SYMBOLS are in white for friendly forces, red for enemy, and
+purple for objectives.
+
+  \/      Infantry on foot and/or in foxholes
+  /\
+
+
+  _|_     Armored vehicle (tank personnel carrier, etc.)
+   |
+
+
+  ##      Bunker (made of earth, steel and/or concrete)
+  ##
+
+    \     Anti-aircraft (AA) gun sites or vehicle
+    /\
+   _|_
+
+
+   |      Surface-to-air missile (SAM) vehicle
+  _|_
+
+
+  ___
+ |  #|    Helicopter Base
+ |___|
+
+
+   _
+  / \     Supply depot
+  \_/
+
+
+  |\      Headquarters
+  |/
+  |
+  |
+
+
+STORES AND DISPLAY
+
+This console displays the stores on your helicopter Status lights are
+green if the system is functioning correctly, yellow if damaged, red
+if destroyed. The view of the helicopter on the left side of the
+console shows each system appropriately colored.
+
+STILL IN FLIGHT: You are still in flight while examining this display.
+Be sure to look up periodically. Other-wise you might fly into a
+mountain or come under attack It's wise to hover in a safe place if
+you spend long periods examining this display.
+
+30mm HEDP: Ammunition for the 30mm Chain Gun cannon. It uses HEDP
+(high explosive dual purpose) ammunition that is effective against all
+targets except bunkers which it can destroy only occasionally. The
+number indicates the actual number of rounds left (Each cannon burst
+is 20 rounds, therefore with 1200 pounds you have 60 units of fire.)
+
+FORE FUEL: This is the 156-gallon forward fuel tank.
+
+AIM-9L: These are air-to-air "Sidewinder" infra red guided missiles.
+
+AGM-114A: These are air-to-ground "Hellfire" laser-guided missiles.
+The hellfire has an armor-piercing warhead for use against vehicles
+and bunkers.
+
+2.75" FFAR: These are air-to-ground unguided rockets. The FFAR has a
+high explosive warhead for use against infantry, AA gun sites and
+installations.
+
+AFT FUEL: This is the 220-gallon rear fuel tank.
+
+CHAFF: This is the number of chaff decoy cartridges in the tail-boom
+launchers. Decoys are launched in groups of three.
+
+FLARES: This is the number of flare decoy cartridges in the tail-boom
+launchers. Decoys are launched in groups of three.
+
+
+SYSTEMS DAMAGE
+
+This console displays the major systems on your helicopter. The
+indicator lights show green if the system is functioning correctly,
+yellow if damaged, red if destroyed. The view of the helicopter on the
+left side of the console shows each system appropriately colored.
+
+AFT AVIONICS BAY: This compartment contains the INS navigation
+computers, and the IR and radar jammers. Damage can make some of this
+equipment erratic or unreliable; destruction could eliminate it all.
+
+AFT FUEL TANK: This is the rear 220-gallon fuel tank. Damage often
+causes fuel leaks. If the tank is destroyed all fuel is lost and the
+helicoptermay explode.
+
+ANTI-TORQUE (TAIL) ROTOR: This rotor keeps the helicopter from
+spinning uncontrollably. If the tail rotor is damaged the helicopter
+may wobble or rotate, making flight control difficult. If the tail
+rotor is destroyed the helicopter spins out of control.
+
+CHAFF & FLARE LAUNCHER: The chaff and flare decoy launchers are housed
+in the tail boom. If a launcher is damaged some or all decoy
+cartridges may not function correctly. If a launcher is destroyed all
+cartridges are lost.
+
+FORWARD AVIONICS BAY: This compartment contains computers and
+monitoring equipment for flying the helicopter. Damage or destruction
+can cause the strip gauges and/or round dials to disappear or freeze.
+
+FORWARD FUEL TANK: This tank contains up to 156 gallons of fuel.
+Damage often causes fuel leaks. If the tank is destroyed all fuel is
+lost and the helicopter may explode.
+
+30mm CHAINlGUN: This is the automatic cannon mountedbeneaththe nose.
+If the cannon isdamaged it may fire erratically; if destroyed it
+cannot fire at all.
+
+MAIN ROTOR: This keeps your helicopter airborne. Damage causes the
+helicopter to vibrate and wobble while flying. If the rotor is
+destroyed, or a damaged rotor comes apart, the helicopter will crash.
+
+NOSE OPTICS: This is the heart of the TADS gunsight system. Damage can
+cause the TADS gunsight to work erratically. Loss of the nose optics
+destroys TADS, making it impossible to fire accurately.
+
+STARBOARD & FORT WINGS: All rockets and missiles are mounted on these
+weapons wings. Damage causes the weapons to function erratically; if
+destroyed the weapons on the wing are lost.
+
+STARBOARD & FORT ENGINES: Normally the rotor is powered by both
+engines combined. However, the helicopter can fly with one engine out.
+If an engine is damaged or destroyed it automatically shuts down and
+cannot be restarted until repaired (this minimizes the risk of fire or
+explosion).
+
+
+
+A PRACTICAL GUIDE TO FLYING HELICOPTERS
+
+
+AN INTRODUCITION TO HELICOPTER CONTROLS
+
+When learning to fly use this description in conjunction with the
+section "Beginner's Tutorial 1 - Learning to Fly a Helicopter": See
+"Aerodynamics" for a more precise and detailed discussion of
+controlling helicopter flight
+
+BASIC CONCEPT'S: The two main flight controls are the cyclic joystick
+and the collective. The cyclic joystick controls the pitch ("nosing"
+up and down) and roll ("leaning" left or right) of the helicopter. The
+collective changes the angle of attack of the rotor blades (see
+"Aerodynamics" for details). This changes the lifting force of the
+blades.
+
+The cyclic joystick is controlled with your joystick except on
+computers using mouse control (where the mouse can move the cyclic
+joystick). Keyboard control of the cyclic joystick is available on the
+IBM PC.
+
+The collective is controlled from the keyboard. On computers with a
+mouse, the mouse can be used to move the collective up and down as
+desired.
+
+Pushing the cyclic joystick forward pitches the helicopter downward
+("nose down"). This causes the helicopter to gain forward speed. The
+helicopter will NOT dive until it reaches a steep pitch downward, then
+it dives like a normal aircraft.
+
+
+Pulling the cyclic joystick back pitches the helicopter upward. If the
+helicopter's pitch is upwards (the crosshairs are above the horizon)
+the helicopter will go backwards. Pitching upward does not necessarily
+mean you will climb!
+
+A common mistake of novices is to assume that the harder they pull
+back on the cyclic, the faster they will climb. Instead of climbing
+fast they end up flying backwards! Watch the crosshair/horizon
+position to avoid this error.
+
+
+Pushing the cyclic joystick left or right rolls the helicopter in that
+direction. At low speeds (under 40 knots) the helicopter skids
+sideways. At faster speeds it performs a banking turn like an
+aircraft. In either case, the further you roll, the more your lift
+decreases. Novices in level flight are often surprised by the loss in
+altitude as they roll left or right.
+
+Moving the collective up increases the amount of lift in the rotor. If
+you are in level flight the higher collective causes you to ascend.
+The torque will increase as you raise the collective. When torque
+reaches the maximum value on the gauge you are at maximum lift.
+
+Moving the collective down decreases the amount of lift in the rotor.
+If you are in level flight, the lower collective causes you to
+descend. The torque decreases as you lower the collective. Except in
+unusual conditions, you cannot maintain level flight, much less
+ascend, if torque is below 50%.
+
+Anti-torque (tail) Rotor Controls: These controls function only if the
+helicopter is moving very slowly (just a few knots) or hovering Each
+tap on rotate left speeds up the tail rotor and causes the nose to
+swing left Each tap on rotate right slows down the rotor and causes
+the nose to swing right. Tap stop rotation to return the tail rotor to
+normal speed, ending all rotation.
+
+
+EASY vs. REALISTIC FLIGHT
+
+When you start GUNSHIP, one of the reality options is a choice between
+"easy" simplified flight and "realistic" flight. MicroProse recommends
+realistic flight, because once you learn its controls are more
+flexible and useful, especially at high speeds. However if realistic
+flying is too frustrating, try easy flight instead.
+
+
+EASY FLIGHT: Here neither the pitch, roll, altitude nor airspeed of
+the helicopter has any effect on lift. This means that regardless of
+how you maneuver the cyclic joystick, lift is unaffected. Power dives
+are prohibited.
+
+The collective is the only control that affects liftin easy flight.
+Anytime you want to add lift (to climb, slowyour descent, etc.) tap
+the collective up fast or slow, as appropriate. Anytime you want to
+reduce lift (to slow your ascent, begin or increase descent, etc.) tap
+the collective down fast or slow, as appropriate.
+
+
+REALISTIC FLIGHT: Here the pitch, roll, altitude, and airspeed affect
+lift as in a real helicopter. Ground Cushion Effect: At altitudes of
+25' or less you gain a little extra lift at low speeds. The lift
+gained varies with altitude, and disappears entirely if you're flying
+too fast. Translational Lift: At speeds of 30 to 90 knots you gain
+considerable extra lift. The amount varies with the speed.
+
+
+Roll & Lift: With any significant amount of roll, the helicopter loses
+some lift. The lift loss increases as the helicopter rolls further
+left or right.
+
+Altitude: At higher altitudes you have less lift due to the thinner
+air. The lift loss increases as you get higher and higher. This loss
+is only noticeable above 1,000 feet. Among other things, the use of
+realistic flight means that at high speed you can fly the helicopter
+not unlike an airplane. A slight pitch up slows the helicopter and
+causes a climb (by reducing speed into the 30-90 knot area for maximum
+trans-lational lift), while a steep pitch down puts the helicopter
+into a fast power dive.
+
+
+INTRODUCTION TO HELICOPTER FLIGHT
+
+This section gives a rudimentary view of common concepts in helicopter
+flight. For a more complete and detailed description of how and why
+helicopters fly, see the "Aerodynamics" section.
+
+LEVEL FLIGHT FORWARD: In level flight the helicopter is pitched down
+("nose down"). The greater the pitch the faster the forward flight.
+Note that in forward flight the crosshairs are always below the
+horizon line. The VSI gauge is horizontal (reading zero), indicating
+flight is level. In combat flying, typical level flight speed is 100
+to 150 knots.
+
+POWER DIVE: In a power dive the helicopter is pitched down steeply.
+The crosshairs are significantly below the horizon line, and the VSI
+gauge needle is pointing downward. Power dives usually require speeds
+greater than 160 knots.
+
+FORWARD CLIMB: When climbing in forward flight, the helicopter is
+travelling slower than normal (pitch is still present, but smaller
+than normal), or the collective control (and engine torque) is higher
+than normal, or both. The VSI gauge needle is pointing upward. Forward
+climbs are easiest at speeds of 30 to 90 knots.
+
+HOVER: Here the helicopter is truly level, with no pitch down or up.
+Note that the crosshairs are on the horizon line and airspeed is zero
+(needle is vertical). The collective is adjusted so the VSI gauge is
+horizontal (zero). From a hover a helicopter can ascend straight
+upwards or descend straight downwards by changing the collective.
+
+BACKWARDS FLIGHT: When flying backwards the helicopter is pitched
+upwards Note that the crosshairs are above the horizon - which only
+occurs when flying backwards. The airspeed gauge shows the speed
+backwards. Depending on the speed and amount of collective, the
+helicopter could be ascending, flying level, or descending while
+moving backwards.
+
+SKID SIDEWAYS: This is only possible at low speeds (under 40 knots) or
+when hovering. The cyclic joystick is moved left or right to roil the
+helicopter. Due to a lack of airspeed, the helicopter skids left or
+right without forward motion. Unless the collective is
+adjusted'appropriateiy, a skidding helicopter loses some lifting
+power.
+
+ROTATE LEFT OR RIGHT: This is only possible at extremely low speeds or
+when hovering. The anti-torque (tail or "rudder" controls) rotates the
+helicopter left or right. Rotation does not affect airspeed or VSI.
+The cyclic joystick and collective are not used when rotating.
+
+
+CONTROLS ON THE AH-64A APACHE SIMULATOR
+
+FLIGHT CONTROLS: This section defines how each control works. Do not
+use this section as a guide to flying a helicopter. To learn to fly,
+follow "Beginner's Tutorial #1 - Learning to Fly a Helicopter'.
+
+THE KEYBOARD OVERLAY: An overlay appropriate to your computer keyboard
+is included with the simulation. The control placement is designed for
+use with this overlay - don't lose it!  Note: Computers sometimes
+misread multiple key inputs. Unless otherwise indicated, do not press
+two keys simultaneously. Do not push the joystick while holding a key.
+Pushing the joystick while holding a key may cause weird effects on
+C64/C128 computers.
+
+CYCLIC JOYSTICK: Pushing forward pitches down the helicopter ("drops
+the nose"). Pulling back pitches up the helicopter ("raises the
+nose"). Pushing left or right rolls the helicopter in that direction
+("tilts" the rotor and body left or right). A pitch below horizontal
+moves the helicopter forward. A large pitch down causes a power dive.
+Pitch up above horizontal moves the helicopter backward. Rolling left
+or right at low speed causes a skid (or "sideslip") left or right. At
+medium and high speeds it causes a banking turn left or right. The
+artificial attitude and horizon indicator shows the current pitch and
+roll of the helicopter.
+
+Summary:         Forward = pitch down ("nose down")
+For C64/C128    Backward = pitch up ("nose up")
+                   Right = roll right (bank or skid right)
+                    Left = roll left (bank or skid left)
+
+COLLECTIVE: This control can be moved up fast (increases lift by large
+amounts) or down slowly (decreases lift by small amounts). When you
+raise or lower the collective, the engine torque changes
+appropriately. To move the collective a large amount, tap it
+repeatedly and quickly. Lift keeps the helicopter airborne. If you
+start in level flight or hover, then increase lift, the helicopter
+ascends. If you start level and decrease lift, the helicopter
+descends.
+
+Summary:        F1 = up fast
+For C64/C128    F3 = up slow
+                F5 = down slow
+                F7 = down fast
+
+ANTI-TORQUE (TAIL) ROTOR: These function only when hovering or moving
+extremely slowly (just a few knots). Tap rotate left to swing the nose
+left. Tap rotate right to swing the nose right Multiple taps on the
+key increase the rate of rotation. Tap stop rotation to eliminate all
+rotation.
+
+Summary:           CRSR up/down = rotate left
+for C64/C128    CRSR left/right = rotate right
+                         RETURN = stop rotation
+
+FORT or STARBOARD ENGINE ON/OFF: Tap the appropriate key to turn on
+(if currently off) or turn off (if currently on) each engine. You must
+turn off the engines to finish your flight. If an engine is damaged or
+destroyed it turns off automatically. You cannot restart the engine
+until it is repaired.
+
+Summary:        1 = port engine on/off
+for C64/C128    2 = starboard engine on/off
+
+ROTOR ENGAGE/DISENGAGE: Tap this key to either engage the rotor (cause
+the engines to turn the rotor), or disengage the rotor (cause the
+rotor to spin freely, unconnected to the engines). When the rotor is
+disengaged, the collective is automatically "bottomed" (dropped to
+zero).
+
+Summary:
+for C64/C128   3 = rotor engage/disengage
+
+
+VIEWING CONTROLS
+
+CHANGE CRT: The CRT has three display modes. Each tap on this key
+switches the CRT to the next mode. These modes are:
+
+(1) TADS target mode
+(2) Map mode
+(3) Radio message mode
+
+If no target is ahead of the helicopter, the TADS target mode does not
+appear. If no new radio message is available, the radio mode does not
+appear. If neither a target nor a radio message is available, then the
+CRT is always in map mode.
+
+Summary:                Space Bar = change CRT
+for C64/C1 28
+
+MAP: Tap this key to see the full sector map. You continue flying. so
+beware of flying into something while examining this display. Tap this
+key again to return to the standard cockpit view.
+
+Summary:                Z = map
+for C64/C128
+
+STORES: Tap this key to see the stores display. It shows the status of
+systems with stores, including the amounts remaining You continue
+flying, so beware of flying into something while examining this
+display. Tap this key again to return to the standard cockpit view.
+
+Summary:                Commodore logo = stores
+for C64/C128
+
+
+DAMAGE: Tap this key to see the systems display. It shows each system
+and whether it's functional, damaged, or destroyed. You continue
+flying, so beware of flying into something while examining this
+display. Tap this key again to return to the standard cockpit view.
+
+Summary:                SHIFT (left side) = damage
+for C64/C1 28
+
+VIEW: The view center key shows your view directly ahead. The view
+left key shows your view diagonally ahead to the left The view right
+key shows your view diagonally ahead to the right Due to the engines,
+transmission, and rotor shaft your rearward view is blocked. Note that
+the crosshairs are present only on the center view.
+
+Summary:               # = view left [ British Pound ]
+for C64/C128    CLR HOME = view center
+                INST DEL = view right
+
+
+COMBAT CONTROLS
+
+
+GO TO TADS TARGET MODE If the CRT is not displaying a TADS target, but
+the prompt "TARGET" is showing, tap the fire button to switch the CRT
+to TADS. You can also use the standard Change CRT control.
+
+NEW TADS TARGET: Tap this key to move the TADS gunsight box from one
+target to another, showing the new target in the CRT. If no other
+targets are present directly ahead TADS remains on the original
+target.
+
+
+Summary:                SHIFT (right side) = new TADS target
+for C64/C128
+
+WEAPONS: Tap the appropriate key to select one of the four possible
+weapons: AIM-9L Sidewinder missiles, 2.75" FFAR rockets, AGM-114A
+Hellfire missiles, or the 30mm cannon.
+
+Summary:        4 = AIM-9L Sidewinder missiles
+for C64/C128    5 = 2.75" FFAR rockets
+                6 = AGM-114A Hellfire missiles
+                7 = 30mm cannon
+
+FIRE: Tap the fire button on the cyclic joystick to fire the weapon
+currently selected. Each tap fires one missile (Sidewinder or
+Hellfire), a pair of rockets, or a burst of 20 cannon rounds.
+
+Summary:                 joystick fire button = fire
+for C64/C128
+
+DROP CHAFF or FLARE DECOY: Tap the appropriate key to release the
+appropriate decoy. The cockpit indicator remains lighted as long as
+the decoy is functioning.
+
+Summary:        9 = drop chaff decoy
+for C64/C128    - = drop flare decoy
+
+RADAR or IR JAMMER ON/OFF: Tap the appropriate key to turn on (if
+currently off) or off (if currently on) the jammer. When the radar
+jammer is running you see a green light beside the "R" warning light
+When the IR jammer is running you see a green light beside the "I"
+warning light.
+
+Summary:        0 = radar jammer on/off
+for C64/C128    + = IR jammer on/off
+
+JETTISON STORES: To jettison all ammunition for a particular weapon
+hold down the select weapon key and tap Jettison. This dumps all the
+Sidewinders, rockets, or Hellfires, depending on which weapon you
+select. For example, to jettison all your FFAR rockets in the c64/cl28
+version, hold down the "5" key and tap "RESTORE'.
+
+Summary:        4 [+] RESTORE = jettison Sidewinders
+for C64/C128    5 [+] RESTORE = jettison 2.75" FFAR
+                6 [+] RESTORE = jettison Hellfires
+
+
+SIMULATION CONTROLS
+
+
+ACCELERATED TIME: This key doubles the speed of time, thus shortening
+flight time from one point to another. This function works ONLY if you
+are viewing the sector map. It automatically turns off when you return
+to the standard cockpit view.
+
+Summary:                Left Arrow = accelerate on/off
+for C64/C128
+
+PAUSE: This key freezes the simulation. Tap any key to resume the
+simulation.
+
+Summary:                RUN STOP = pause
+for C64/C128
+
+RESET: Hold down these keys to restart the simulation. On the C64/C128
+hold down the RUN STOP key and then tap RESTORE. In effect you are
+"jettisoning" the entire mission.
+
+Summary:                RUN STOP [+] RESTORE = reset
+for C64/Cl28
+
+
+
+ANSWER THE RADIO!
+
+When you see the prompt "MESSAGE'* above the CRT, tap the Change CRT
+once to read the incoming radio message. Ignoring messages can be
+detrimental to your health!
+
+PASSWORD & COUNTERSIGN: As you approach your friendly base, you will
+get a radio message. It's VITAL that you read and answer this message!
+
+Tap Change CRT to display the message on the CRT. You will be radioed
+the password and asked for the countersign. You must type the proper
+countersign at the keyboard and press "RETURN': Passwords and
+corresponding countersigns are listed (alphabetically) at the bottom
+of selected pages in this manual. Look up the countersign and type it
+onto the screen. Press RETURN when you are done. If you don't, your
+base will assume you're hostile and shoot you down!
+
+
+
+
+Controls Summary I
+
+Category        Action          C64/C128
+
+Cyclic          Pitch down      Stick forward
+                Pitch up        Stick back
+                Roll left       Stick left
+                Roll right      Stick right
+
+Collective      Up fast         F1
+                Up slow         F3
+                Down slow       F5
+                Down fast       F7
+
+Anti-torque     Rotate right    Horizontal cursor
+(tail) rotor    Rotate left     Vertical cursor
+                Stop Rotation   RETURN
+
+
+View            View Left       # [ British Pound ]
+                View Forward    CLRHOME
+                View Right      INSTDEL
+
+
+Engines         Port on/off        1
+                Starboard on/off   2
+                Rotoreng./diseng.  3
+
+Weapons         Sidewinder      4
+                2.75" FFAR      5
+                Hellfire        6
+                30mm cannon     7
+
+Fire            Fire weapon     Stick button
+
+Jettison        (with weapon)   (weapon) and RESTORE
+
+Counter-        Chaff decoy     9
+Measures        Flaredecoy      -
+                Radarjammer     0
+                IR jammer       +
+
+Viewing Other   Map             z
+Displays        Damage          [left] shift
+                Stores          Commodore
+
+CRT             Change CRT      space bar
+
+TADS            New TADS Target   [right] shift
+
+Simulation      Accelerated Time  left arrow
+                Pause             RUN STOP
+                Reset             RUN STOP and RESTORE
+
+
+BEGINNERS TUTORIAL 1 - Learning to fly a helicopter
+
+This tutorial teaches you how to take off, control the helicopter in
+basic flight maneuvers, and land again. Refer to "Cockpit & Status
+Panels" to understand what's appearing on the screen. Refer to
+"Controls" and the keyboard overlay to find the appropriate controls.
+Glance over "A Practical Guide to Helicopter Flying" for additional
+insights and illustrations.
+
+This tutorial is for use with the "realistic" flight mode, not the
+"easy" flight mode. MicroProse recommends that you learn and fly in
+the realistic mode from the start (you'll appreciate the advantages
+later). You can always "fall back" on the easy mode if the realistic
+mode becomes too frustrating.
+
+The second tutorial will cover your weapons and defenses. For more
+detail about how a helicopter flies and how to perform advanced
+tactical maneuvers, see the "Aerodynamics" and "weapons & Tactics"
+sections.
+
+WARNING - DON'T OVERCONTROL: Helicopter controls are SLUGGISH (ask any
+helicopter pilot!). That is, they react slowly. Even a frisky
+thoroughbred like the Apache takes one to two seconds to respond to
+your control movement. Therefore, just tap a key and see what happens.
+When using the joystick, move it a little, then let it go. The most
+common error in flying is to overcontrol by pulling hard on the stick
+or pressing too long and hard on a key.
+
+In short, be gentle with the controls. After each control movement
+watch for the result before you do anything else. Numerous fast,
+radical control movements will produce incomprehensible result! and
+probably a crash!
+
+STARTING: Take the vehicle identification test, enter your name on the
+pilot roster, and make sure the region is set to "Training in the USA"
+duty assignment. Reality defaults should be set to "Realistic Flying":
+"Easy Landing" and "Easy Weather." Read the briefings and armament
+options, but don't bother to change them. See "Preparing to Fly" for
+details on how to control the starting options.
+
+PAUSE WHILE LEARNING: As you work through the tutorial, tap the Pause
+key whenever you want to read about the next maneuver or explanation.
+Then tap any key to resume, try the maneuver, then pause again as you
+read the next part of the tutorial, etc.
+
+ATTACKS: Don't worry about enemy attacks and firing while learning to
+fly. In training situations the enemy always fires "blanks" - you
+cannot be damaged or destroyed by enemy fire. On your first training
+flights you should ignore enemy activity. In the next tutorial you'll
+learn how to respond to enemy attacks, and how to hit targets.
+
+POWER UP: Turn on the port and starboard engines by tapping Port
+Engine On/Off and Starboard Engine On/Off. Wait until the engine RPM
+strip gauges climb to normal (about the 80% point). Then tap Rotors
+Engage/Disengage once.
+
+The rotor engaged warning light, previously red, should turn off.
+You'll hear the rotors come up to speed. Wait until the middle strip
+gauge (rotor RPM) climbs to normal (slightly above the engin e RP M
+levels).
+
+CLIMB TO A HOVER: No w repeatedly tap Collective Up Fast. Watch the
+torque rise as you "raise" the collective. Note that if you "lower"
+the collective, the torque drops. Once the torque reaches 75% use the
+Collective Up Slow key until you rise off the ground (at a bout 80-95%
+torque, depending on how close your weight is to the maximum). You
+should be hovering at about 12 feet altitude.
+
+ROTATING IN A HOVER: Tap the Rotate Right once. Your helicopter begins
+to rotate to the right Tap Stop Rotation once and you'll stop turning.
+Tap the Rotate Left to rotate in that direction. If you tap either
+rotation key repeatedly, the helicopter rotates faster in that
+direction. You can only use rotation when you are moving just a few
+knots, or stationary.
+
+Now stop the rotation. You're ready to begin flying.
+
+FORWARD FLIGHT: Add a little more collective up slow. As you begin
+climbing push forwar d lightly on the cyclic joystick to "pitch down"
+the helicopter. You'll begin to move forward. At abou t 30 knot s
+you'll begin to climb. You can see this on your altimeter (upper right
+dial) and you r VSI (lower right dial) gauges. This is because forward
+motion in a helicopter adds extra lift (termed "translational lift"),
+especially at 30-90 knots.
+
+The further you pitch down, the more your speed increases. As your
+speed exceeds 100 knots , translational lift decreases. The VSI gauge
+will move toward the negative end of the scale. More pitch downward
+will push you into a power dive at 160-200+ knot speeds.
+
+
+LEVEL FLIGHT: Move th e joystick forward or back until the airspeed
+gauge reads 100 to 150 knots. Now look at the VSI. If you're
+descending (the needle is below horizontal) add some Collective Up
+Slow until the needle is on "0" (horizontal).
+
+Alternately, if you're ascending, put in some Collective Down Slow.
+When the VSI needle is horizontal (reading zero), you are in level
+flight.
+
+
+Remember, due to the slow responses of helicopter controls, it's easy
+to over-correct and put in too much collective. This results in you
+"chasing the needle': After each change in the collective, wait a
+second or two for the VSI needle to stabilize.
+
+CHANGING ALTITUDE When flying level at l00-150 knots, the easiest way
+to descend is to push the cyclic joystick-forward (pitch down) into a
+power dive. As you approach the altitude you desire, gently pull the
+cyclic joystick back (pitch up) until the VSI again stabilizes at zero
+(needle is horizontal). Similarly, the easiest way to ascend is to
+pitch up slightly reducing your airspeed to 50-100 knots. When you
+reach the desired altitude, pitch down again until the VSI stabilizes.
+
+This technique of flying is not unlike an airplane. You can change
+altitude without disturbing the collective. A second way to change
+altitude, applicable ata n y speed, is to raise or lower the
+collective. When you reach the new altitude, input an equal and
+opposite amount of collective to regain level flight (VSI ofzero).
+This technique is the only way to change altitude from a hover.
+
+Regardless of which technique you use, don't try to control the
+helicopter by constant "fiddling" with the collective. Learn to "feel"
+the right collective setting then fly with your cyclic joystick Don't
+expect to gain this ability-on the first flight. Be patient After a
+number of flights and landings you'll find collective adjustments come
+naturally - just like a real helicopter pilot.
+
+LOW ALTITUDE TURBULENCE: While flying under 100', you may feel air
+turbulence. You will tend to bounce up and down, or sometimes roll
+from side to side. Air turbulence and "wind shears" vary with your
+speed and your distance from the ground: the faster and lower you fly.
+the-more difficult it-is to keep the craft under control.
+
+TURNING: Returnto level flight at 100-l 50 knots. Nextpush the stick
+left slightly and release it Your helicopter rollsintoa banking
+leftturn. As you turn, observe the change in your digital heading
+readout (in the lower left of the cockpit display, just under the
+compass). If you continue to push the stick left and bank into a steep
+turn, you'll lose some lift Notice that your altitude is dropping and
+the VSI is below horizontal. If you roll back to the right and level
+out, you'll return to level flight.
+
+To maintain your altitude in a steep bank(important if you're flying
+low) add a bit of Collective Up Slow just before you start to turn,
+then put in a bit of Collective Down Slow just before you come out of
+it Change the collective first because the collective controls react
+more slowly than the cyclic joystick.
+
+NAVIGATION: Tap the Map key to see the full sector map. Your objective
+is to find your way home to base! Move the crosshair cursor to the
+central white helibase, then switch back to your cockpit view. Quite
+probably your heading and the INS heading are different Make a banking
+turn toward the INS heading until the two numbers match. Notice that
+the INS arrowhead marker below your own course arrowhead will also
+match. You're on course, flying back to base.Descend until you're in
+level flight at 50 to 100 feet altitude. It's easier to learn to land
+if you come in slow and low, although "officially" a constant descent
+is preferred by air controllers.
+
+LANDING: As you approach the base it first appears as an outline on
+the horizon. Reduce your speed to 60 knots by pulling back slightly on
+the cyclic joystick. You'll need to put in some collective down slow
+to maintain your 50' altitude. Now wait until the detailed buildings
+and landing "T" come into view. Your goal is to land directly on the
+"T', but anywhere within the larger rectangle is fine.
+
+Just before you cross the outside edge of the base, begin slowing down
+to a hover by pulling up on the cyclic joystick. Be sure to put the
+crosshairs on the horizon - it's easy to pitch up too far and end up
+going backwards. Note that as your speed falls from 70 to 0 knots,
+your lift will decrease. Use the collective up slow to stabilize your
+altitude with zero VSI. By the time you accomplish all this and are
+hovering at about 50' altitude, you should be near the center of the
+base.
+
+Finally, use the cyclic joystick carefully to move your helicopter
+toward the "T'. Come back to a hover, and tap the collective down slow
+once to begin your final descent. At about 20' and/or 10' altitude you
+may need another tap to continue descending to a touchdown.
+
+SHUT DOWN: When you land (altitude is zero) turn off both engines.
+This ends the flight; your postflight options will appear.
+
+MISSION: After this first flight, your debriefing will show mission
+not yet accom-plished. To satisfy your instructors, you must learn how
+to hit the target too. Go to "Beginners Tutorial II" to finish your
+training.
+
+
+
+BEGINNERS TUTORIAL II - DEFENSE & GUNNERY
+
+
+This tutorial teaches you how to recognize and deal with various enemy
+missile (SAM) and gun (AA) attacks. It also gives you practice in
+using your own weapons against appropriate targets.
+
+STARTING If you have just finished the first Tutorial, you can use the
+same defaults again (same region, style of flying, and reality
+levels). The region should be "Training in the USA:' style should be
+"Regular Missions:' and reality should be "Realistic Flying:' "Easy
+Landing" and "Easy Weather."
+
+Note: When training in the USA all missiles and gun shells fired at
+you are "blanks". You can never suffer damage from "enemy" fire while
+training. However, don't forget that everywhere else the enemy plays
+"for keeps:".
+
+
+MAKE A PLAN: Before takeoff examine the sector map of the traning
+area. Pickone of the three dummy installations (HQ, Russian Heli-base,
+or the Depot) as your objective. Move the INS marker to that
+objective. Notice the "enemy" forces along or near the line of flight
+from your base to the objective. These are the "opponents" you will
+engage.
+
+TAKEOFF: Take off and get into level flight at 100' altitude (digital
+readout on altimeter is "01").
+
+THREATS: As you fly, watch the threat display on the lower right A red
+dot means an enemy with AAA (anti-aircraft artillery) or SAMs
+(surface-to-air missiles) have detected you. A flashing red and white
+dot means an enemy helicopter is approaching. A white dot means a
+missile is flying (yours or an enemy's - the threat display cannot
+distinguish one missile from another). Also watch your warning lights.
+When the "I" turns red an IR homing missile is being launched. When
+the "R" is red radar-guided missiles or guns are either searching for
+or tracking you.
+
+When enemies appear on your threat display they are also plotted on
+the map. If you have the time, you can look at the map to learn what
+type of enemy is attacking you. Though virtually every enemy has some
+sort of light guns or shoulder-launched missile (the SA-7, SA-7B or
+SA-14), the most dangerous are the AA gun sites and vehicles, or the
+SAM vehicles.
+
+USING A JAMMER: When a warning light comes on, the standard response
+is to turn on the appropriate jammer (press the IR or Radar jammer
+On/Off once). A small green light beside the warning light turns on,
+showing your jammer is running. If the warning light turns off, the
+jamming was successful. Now turn onto a new course. Jammed missiles
+often continue flying on their old course, and will hit you unless you
+change your course.
+
+Keep your jammer running until you destroy or fly away from the enemy
+launcher or gun. In concentrations of enemies some pilots will turn on
+both jammers and constantly fly a "jinking" zig-zag course to confuse
+missiles and enemy gunnery.
+
+USING A DECOY: If the warning light does not turn off by jamming, try
+using a decoy. Tap Drop Chaff or Drop Flare to deploy decoys. The
+decoy symbol below the CRT will light up. While the symbol is lighted
+the decoy should be drawing the missile or gunnery control toward it.
+
+Decoys are launched in three-cartridge "units of fire'. Although your
+cockpit control panel shows units of fire for convenience, the
+pre-flight arming and stores readout displays show actual1 cartridges
+available. If you check your stores display after launching a chaff of
+flre decoy, you'll see the amount remaining has decreased by three.
+
+EVASIVE FLYING: Another way to avoid a threat is to dive to a lower
+altitude while turning parallel to or away from the threat. If you get
+lower and avoid closing the range an enemy often loses sight of you.
+Enemy weapons aimed by eyeball (many AA guns and a few SAMs) cannot be
+jammed or decoyed. Against these threats evasive flying is your only
+defense. Another evasive technique is to slow your speed once you're
+low. Slow movement at low altitude is very hard to spot at a distance.
+It is possible to "sneak up" on enemy positions with a helicopter.
+
+Evasive flying is also superior to jammers and decoys because it
+doesn't broadcast your position. Both jammers and decoys, not to
+mention firing, reveal your presence to the enemy.
+
+DAMAGE: If you don't respond in time to a threat, the gunfire or
+missile will hit you. You'll see the flash of explosions around the
+edge of the cockpit_ In training that's all you'll see -your
+helicopter cannot be damaged. In real battle, the explosion may
+penetrate your armor. If a system across the top of the cockpit is no
+longer green, something is malfunctioning. Check the damage display
+for details. Sometimes you'll want to fly home for repairs before
+continuing your mission. If you suffer too many damaging hits, the
+structural integrity of your helicopter will fail, causing a general
+power failure. The only way to survive this is to successfully
+"autorotate" to a landing (see "Aerodynamics'* for details on
+autorotation). The actual number of hits varies with the situation and
+enemy weaponry, but a good rule of thumb is expect the worst after
+you've suffered three or four damaging hits.
+
+USING TADS (Target Acquisition & Designation System): Look on your map
+and find a large concentration of red targets near your flight path.
+Fly in that direction. When you're close pull up into a hover. Now use
+the rotate right and rotate left keys to turn your nose left and
+right. When the crosshair is close to a target, the prompt "TARGET"
+appears above the CRT. Press the fire button on the joystick The TADS
+gunsight box will appear around the target while the zoom camera shows
+the target on your CRT. The range to target in kilometers appears in
+the upper left (for example, if the range is "O.8", the target is 0.8
+kilometers - 800 meters - away).
+
+Tap next TADS target to shift the TADS to another target near the
+crosshairs. If there is no other target near the crosshairs, TADS
+remains on the original target After TADS is locked onto a target you
+can rotate left or right and watch TADS track the target for you. As
+the box gets near the edge of your cockpit view tap the View Right or
+View Left key as appropriate. Your view switches to the side. Notice
+that TADS continues to follow the target As long as you can see the
+target TADS will follow it.
+
+If the target leaves your field of view, TADS loses it and
+automatically unlocks. Unless there is another target near your
+crosshairs for TADS to lock onto, the CRT switches back to the map.
+
+TADS can only lock onto targets you can spot. At low altitude (such as
+under 100') you can't see very far. Targets appear at very short
+ranges (just a few hundred meters away). The higher you are, the
+further you can see: TADS can lock onto targets at further and further
+ranges. Of course, the higher you are, the easier it is for enemies to
+spot you. As a result, helicopter pilots tend to fly low and
+occasionally "pop up" to locate enemies. A favorite maneuver is to
+"pop up" from behind a hill.
+
+The 30mm Chain Gun cannon and the 2.75" FFAR rockets have varying
+accuracy, depending on range and whether the weapon faces ahead. The
+TADS box changes color from dark (poor accuracy) to light (good
+accuracy) with these weapons. The Sidewinderand Hellfire always have
+good accuracy, and therefore the TADS box is always light colored if
+one of these weapons is selected.
+
+RADIO MESSAGES & MAP VIEWS DURING BATTLE: If the CRT target view
+interferes with your navigation, or you want to read a radio message,
+tap Change CRT, TADS turns off and the CRT switches the next available
+mode (see "Controls" for details).
+
+FIRING WEAPONS: To fire you must first select a weapon. When you press
+the appropriate Select Weapon key, that weapon lights up beneath the
+CRT and the ammo supply appears in white. Cannon ammo is shown in 20
+round bursts. Once a weapon is selected, to fire simply press the Fire
+Button on the joystick. The 30mm Chain Gun cannon is automatically
+aimed at the target designated by TADS (the AH-64A has a ballistic
+computer that aims the cannon for you). However, the cannon is more
+accurate firing straight ahead. The TADS box will turn a brighter
+color as accuracy improves. Cannon maximum range is 1.5 kilometers,
+but the effective range is about 0.7 kilometers firing ahead, and only
+0.3 to 0.4 kilometers in a "deflection shot" to the side.
+
+The AGM-114A Hellfire anti-tank missile is guided by laser at the TADS
+target. As long as you keep TADS locked on target the Hellfire flies
+toward it The Hellfire has a minimum range of a few hundred meters -
+it takes time for the missile to lock onto the TADS laser. The maximum
+range of the Hellfire is 6 kilometers. Furthermore, once beyond
+minimum? range, Hellfire accuracy is unaffected by range.
+
+The 2.75" FFAR rockets are completely unguided. You must line up the
+cross-hairs in the center of the TADS box, then fire. The rockets fly
+straight ahead at whatever was in the center of the crosshair when you
+fired. After the rockets are launched you need not keep the target in
+the crosshairs. The maximum range of FFAR rockets is about 1.8
+kilometers, but accuracy improves at shorter ranges. As with the
+cannon, the TADS box will become brighter as your accuracy improves.
+The AIM-9L Sidewinder is a "fire and forget" air-to-air homing
+missile. Lock the TADS onto a flying target and make sure the target
+is generally ahead (fairly close to the crosshairs). Then fire the
+missile. Once you fire, you can switch the TADS to something else
+and/or fly away. Enemy aircraft may have jammers or decoys that could
+cause a Sidewinder to miss. Maximum range of the L-model Sidewinder is
+18 kilometers. Effective range against a helicopter is virtually
+equivalent to the maximum range.
+
+WEAPON RESTRICTIONS: Certain weapons are only effective against
+certain targets. The 30mm cannon is effective against anything except
+bunkers which it can destroy only occasionally. The AGM-114A Hellfire
+is effective against "hard" targets (all vehicles and bunkers, but not
+other installations). The 2.75" FFAR rockets are effective against
+"soft" targets (infantry,AAgun sites, and installations - such as the
+HQ Depot and Russian Heli-base). The AIM-9L Sidewinder is effective
+only against flying targets It is useless against any ground target.
+
+RECOIL: When you fire a cannon or guided missile the helicopter bucks
+and recoils upwards. Be prepared to regain control quickly.
+
+HITTING THE OBJECTIVE Eventually you'll reach your objective. Lock the
+TADS onto the HQ Heli-base or Depot and select the 3Omm cannon. In
+actual combat, you'd fly straight in and open fire at 0.7 kilometers
+(closer if you're short of ammo). However, in training try "buzzing"
+over the target at 30' first This will show you what the target looks
+like. Then circle around, lock on the TADS once more, and make a
+second pass with cannons blazing. If you want a real test of skill,
+don't use the cannon Instead ,make a rocket attack at 1.5 kilometers
+or so. You'll probably need to fire lots of rockets.
+
+RETURNING TO BASE: After destroying the objective go back to the
+sector map and set your INS for your home base. Fly home, land, and
+shut down both engines. You can either rearm and refuel for another
+round of target practice. or you can call it quits here. A successful
+flight may qualify you for the National Defense Service Medal.
+
+
+AFTER THE MISSION - SUCCEEDING AS GUNSHIP PILOT
+
+DEBRIEFING & SUBSEQUENT OPTIONS
+
+ENDING A MISSION: You end a mission by landing, turning off both
+engines, and waiting for the rotor to stop. You then are told your
+status, and if you crash as a Sergeant or Warrant Officer you get the
+option to "retry" the flight instead of continuing. If you retry, you
+fly the same mission again. If you "continue" (this is automatic at
+higher ranks) you receive normal results.
+
+Next you can decide whether to examine your craft, leave it, or (if at
+a friendly base) ask for more fuel, armament and/or repairs. If you
+select repairs the enemy will have time to bring up reinforcements. In
+some cases your situation or damage will prevent certain options.
+
+After landing you are "debriefed" and may receive promotions or
+decorations appropriate to your performance. If you ignored your
+orders and failed to perform the mission assigned you could find
+yourself peeling potatoes for a while! (Your commanding officer
+dislikes being ignored!)
+
+Finally, you'll see your current rank, decorations, and score compared
+to the two all-time top scoring pilots of the game. These all-time top
+scorers are saved on disk independently of the current roster, and can
+only be erased here.
+
+REPLAY OPTIONS: If you decide to try another mission you can either
+remain in the same region, flying the same type of missions, or you
+can change your style of flying, or you can request a transfer to a
+new region. Alternately, you can put your career on "hold" and go on
+R&R (rest and recuperation). Pilots on R&R remain on the roster until
+you deliberately erase them.
+
+ENDING THE SIMULATION: On the replay options screen you can end the
+simulation by removing the disk and turning off your computer. To
+ensure accuracy in your pilot roster and records, you should turn off
+the computer only when the replay options are showing.
+
+
+SUCCESS
+
+THE MISSION: If you leave the helicopter somewhere other than a
+friendly base, you could be captured by enemy troops. The chances
+naturally increase if you're deep in enemy territory.
+
+As a good soldier, your duty is to complete the assigned mission. This
+means destroying the primary target Destroying the secondary target as
+well is a definite plus. Sometimes your commander will change his mind
+during a mission and reassign the secondary target as your new primary
+target. Many missions have multiple targets spread over a range of map
+coordinates.
+
+If you finish the mission without achieving either objective your
+commander will not be pleased, no matter how many other targets you
+hit. Flying around blasting the closest enemy does NOT guarantee
+promotions and decorations. On the other hand, targets hit in addition
+to the assigned objectives definitely help toward decorations and
+faster promotion.
+
+Your commander will rate your performance based on time elapsed. If
+you are flying over 20 minutes, he will reduce the credit given for
+your achievements. If you accomplish both primary and secondary
+missions, he will automatically insist the mission is over when you
+return to base.
+
+RANKS: Successful completion of your assigned missions improves your
+record. A good record leads to promotions. Even on the battlefield
+promotions take time. Don't expect a promotion after every mission.
+
+You start with the rank of Sergeant -just like real helicopter pilots
+entering flight training. When you successfully complete a mission
+(usually flight training) you'll be promoted to Warrant Officer (WO1).
+After that, success leads to 2nd Lieutenant, 1st Lieutenant, Captain,
+Major, Lieutenant Colonel and finally Colonel. Although higher ranks
+exist in the U.S. Army, the highest conceivable rank where an officer
+could still perform combat flying is Colonel.
+
+Each reprimand you "earn" goes into your record and makes promotion
+more difficult Reprimands occur when you use `Sick Call" to evade a
+mission, or when you achieve no assigned objectives. On the other
+hand, each heroism decoration (the Army Commendation Medal, Bronze or
+Silver Star, Distinguished Service Cross, or Medal of Honor) makes
+promotion easier.
+
+DECORATIONS: If you do exceptionally well on a mission, you may be
+awarded a medal for heroism and bravery above and beyond the call of
+duty. Unlike rank these decorations are based purely on your
+performance during a single mission. Your rank and prior record have
+no effect on your chance of getting a decoration (just like the real
+army).
+
+The decorations for heroism and valor are [from least difficult to
+achieve upwards):Army Commendation Medal, Bronze Star, Silver Star,
+Distinguished Service Cross, and the Congressional Medal of Honor
+(America's highest military award).
+
+In addition to decorations for heroism, additional medals and ribbons
+are awarded for regions of service, wounds, etc. The Nationai Defense
+Service Medal is traditionally given for successfully completing
+training. The Purple Heart is awarded for wounds in combat. Campaign
+Ribbons for a particular region are awarded for completing a tour of
+duty (multiple successful missions) in that region. After a campaign
+ribbon, additional tours give you the Air Medal, which recognizes
+exceptional flying time.
+
+WORLD'S GREATEST GUNSHIP PILOT: The ultimate Apache pilot is a Colonel
+with ribbons and air medals for every region. In addition, he holds
+the Congressional Medal of Honor along with a one or more lesser
+decorations for heroism and gallantry. Can you meet this challenge
+once? How many such Colonels can you have on your pilot roster?
+
+
+PART II
+APACHE PILOT'S MANUAL
+AH-64A Apache Operations Manual : 64-H-029-2/2
+
+
+AERODYNAMICS and the APACHE AH-64A APACHE
+
+HELICOPTER AERODYNAMICS
+
+This discussion of lift and flight is not intended to be rigorous or
+precise in a scientific sense. Its purpose is to provide a rudimentary
+understanding of the physics involved in helicopter flight. For a more
+detailed and accurate discussion of flight and lift, consult a
+textbook.
+
+LIFT: Helicopters fly because the individual blades of the rotor are
+airfoils - objects that produce lift (force upwards) as they pass
+through the air. On normal planes the wings are airfoils. Helicopters
+rotate their "wings" (the rotor blades) to generate lift.
+
+Lift is caused by the flow of the air OVER the blades, NOT the
+downwash of air from the rotor. The air flowing over the blade travels
+a shorter distance on the underside and a longer distance over the
+top. Bernoulli's Principle states that there is less pressure on the
+upper side of the blade, more pressure on the lower side. The result
+is a force upwards from the high pressure to the low pressure region.
+
+The amount of lift a moving blade generates depends on its angle of
+attack This is the angle between the relative wind in the blade system
+and the blade's pitch. Pulling up (increasing) the collective
+increases blade pitch (the angle of attack), which increases the
+pressure differential, and thus gives more lift In GUNSHIP an
+automatic delimiter exists that prevents you from increasing the pitch
+too far. However, in many helicopters you can raise the collective too
+high, causing the blades to "stall'.
+
+In addition to the lift created by blade pitch, helicopters also gain
+lift from forward motion. This lift is called "translational lift" In
+forward flight the rotor system as a whole acts like a fixed wing. The
+effect is increased lift, and therefore increased performance. On the
+AH-64A this increase is most notable in the 30-90 knot speed range,
+and includes some small extra lift generated by the weapons wings on
+the fuselage.
+
+A helicopter hovering or moving very slowly at extremely low altitude
+creates a "ground cushion" of air beneath the rotor. This improves
+lift slightly. For the AH-64A Apache the ground cushion effect is
+strongest at roughly 12 feet off the ground. When you take off into a
+low-altitude hover, you are rising onto the ground cushion. However,
+at speeds beyond a few knots the helicopter out-distances the ground
+cushion effect Pilots often refer to this as "sliding off the
+cushion."
+
+CONTROLLING FLIGHT: When hovering, the lifting force of a helicopter
+rotor is directed straight upwards (counteracting the downward force
+of gravity). To move forward, you tilt the rotor so that the lifting
+force is now diagonally upwards - a combination of vertical and
+horizontal forces. The horizontal component of the force produces
+forward motion. Of course, the vertical component is now somewhat
+less, so you'd expect the helicopter to descend. This is exactly what
+happens - until the craft gains enough speed for translational lift to
+make up the difference.
+
+Similarly, to turn left or right, or to fly backwards, the pilot tilts
+the rotor in the appropriate direction. In the case of left or right
+turns, at very low speeds tilting the rotor causes the helicopter to
+sideslip ("skid") without turning. At higher speeds the entire craft
+turns left or right, like the banking turn of an airplane. Once a
+helicopter picks up speed, the flow of air into the rotor system has
+an effect on lift. The blade moving backwards toward the rear of the
+craft (the "retreating" blade) is moving with the wind, and therefore
+is generating less lift than the blade moving forwards ("advancing")
+into the wind. To compensate, the rotor blades automatically change
+their pitch as they go around, maintaining an equal lifting force.
+
+VDL (Velocity Design Limit): As a helicopter moves faster and faster,
+the retreating blade needs more and more pitch to generate its share
+of the lift. Eventually the amount of pitch required becomes too great
+and the blades begin to stall (cause air turbulence instead of lift)
+as they retreat. In short, helicopters have a maximum forward speed -
+beyond that speed the retreating blade ceases to be an airfoil and the
+helicopter loses lift As lift decreases, so does the force creating
+forward motion.
+
+The theoretical maximum speed of a helicopter is normally achieved in
+a sloping dive. In forward flight helicopters typically lack the power
+to get beyond 75-80% of their VDL. The maximum horizontal speed
+possible for the AH-64A is 162 knots. Officially the "never-exceed"
+VDL is 197 knots.
+
+ANTI-TORQUE CONTROL: Newton's Third Law of Motion states, "To every
+action there is an equal and opposite reaction." In helicopters, as
+the rotor turns in one direction, the fuselage housing the engine(s)
+and transmission wants to rotate in the other direction. The tail
+("anti-torque") rotor exists to counteract this tendency. It produces
+just enough horizontal force to prevent unwanted fuselage rotation.
+
+On the AH-64A the blades rotate counterclockwise. The tail rotor
+produces force counteracting the clockwise torque on the fuselage. In
+a hover, or at very low speeds, a pilot can safely vary the pitch of
+the anti-torque tail rotor. The foot pedals (often called "rudders")
+are used to change the tail rotor pitch, thus changing its thrust
+Reducing the pitch and thrust (pressing the right pedal) causes the
+fuselage to rotate clockwise (the nose swings to the right), while
+adding pitch (pressing the left pedal) causes the fuselage to rotate
+counterclockwise. On GUNSHIP the rotate right and rotate left simulate
+these foot pedals.
+
+
+FLYING TECHNIQUES AND ADVANCED MANEUVERS
+
+
+FANCY TURNS: A high speed banking turn is easy. However, in such turns
+your lift decreases, causing you to lose altitude. If you don't want
+to lose altitude, pull your nose up slightly in a turn, then drop it
+back down to normal as you come out of the turn. With practice you can
+make a fast, banking turn without changing altitude or fooling with
+the collective.
+
+Very tight turns require that you stop in midair, spin, and then
+accelerate away in the new direction. To do this move the collective
+down fast, pull back hard on the stick until you're level, hit the
+tail rotor to rotate right or left, then raise the collective back to
+normal and pitch down your nose. With practice you can even skid
+sideways while the tail rotor is turning your craft (a helpful
+maneuver if you're trying to avoid an enemy helicopter missile).
+
+AUTOROTATION: Helicopter crewmen don't have parachutes. You can't bail
+out Fortunately, the AH-64A is an exceptionally crashworthy machine
+with a good probability of crew survival. However, the loss of both
+engines does not mean you must crash. Helicopters have an equivalent
+of an airplane's *`dead stick" (or "flameout") landing. This unpowered
+descent is called "autorotation".
+
+To begin an autorotation, disengage-the rotors from the engine.
+Usually the pilot must bottom the collective, but in GUNSHIP the
+collective is automatically bottomed when the rotors are disengaged.
+In an emergency where you have both engines out, do this immediately.
+If you don't, the rotor will slow to a stop (it's still engaged to the
+now-dead engines). If the rotor stops turning before you're safely
+down, you're a dead duck.
+
+Now pitch the nose so you're travelling at about 75 to 90 knots (for
+maximum translational lift). The rotor is spinning freely because the
+airflow keeps the blades turning. The descent becomes quite fast and a
+little frightening to the inexperienced. As you get close to the
+ground, raise the nose and pull up on the colletive. The blades will
+"bite" into-the air, giving you lift anb slowing the descent.
+Unfortunately: as the blades bite, air resistance slows them down and
+the rotor RPM drops.
+
+You must time the "up collective" so that the helicopter lands gently
+before the rotor slows too much. If you raise the collective too soon,
+the rotor will get below airfoil speed while you're still above the
+ground. Without the lift from the blades, you'll fall like a rock! If
+you raise the collective too late, you won't slow your descent fast
+enough and the machine will crash land.
+
+UNSAFE FLYING: It takes time to disengage the rotors, get the craft
+under control, and then "up collective" to land. As a result, there
+are speed-altitude situations where an engine failure results in the
+craft hitting the ground before you can perform an autorotation.
+Hovering at altitudes above 25 feet up to about 500 feet is unsafe, as
+is high-speed fIying under an altitude of 20-30 feet.
+
+"Unsafe" as described above applies to civilian and non-combat flying.
+In combat situations unsafe flying may be "safer" than taking a
+missile or cannon hit! In the AH-64A normally unsafe flight practices
+aren't quite so dangerous. If one engine dies, the other can keep the
+helicopter aloft. In single-engine flight, the surviving engine can
+run at 110% power continuously (this power increase is automatic in
+GUNSHIP), or at 115% for six minutes. The engines and rotor can keep
+turning for at least 30 minutes even if the lubrication system fails.
+In comparison, oil lubrication system failures and fires are a major
+weak point of the Russian-built Mi-24 HIND helicopter. Overall, the
+Apache is a forgiving machine designed for daredevil pilots, unlike
+the less forgiving single-engine UH-1 and AH-1 helicopters of the
+Vietnam war.
+
+OPEN FIELD LANDINGS: The nice thing a bout helicopters is their
+ability to land without a paved airstrip. However, helicopters cannot
+land on sloping ground. Any slope greater than 5 degrees causes so
+much rotor tilt that the helicopter flies, skids or turns away from
+the slope, making a landing impossible. Never try to land on a
+hillside - you'll crash.
+
+WIND & WEATHER: Ideally, all takeoffs and landings should be into the
+wind, however, a helicopter can take off and land in crosswinds or
+tailwinds. As the helicopter rises to a hover {in takeoff), or slows
+down to hover (in a landing), the cyclic joystick should be moved
+slightly toward the wind, producing just enough skid to counteract the
+wind velocity. This maintains the hover against the wind. When flying
+in windy conditions, the same considerations apply as flying a normal
+airplane. Namely, the wind will increase your speed, slow you down,
+and/or push you sideways, depending on your flight path in relation to
+the wind direction. This is most noticeable on long-distance flights.
+
+Temperature also affects helicopter flight. As air gets warmer, it
+expands and becomes thinner, providing less lift If the air gets too
+cold, icing on the rotor becomes a problem. Similarly, in humid
+conditions the air is composed increasingly of water, reducing lift
+Finally, as altitude above sea level increases, air gets thinner,
+reducing lift For the A H-6 4A ideal flying conditions are 76 degrees
+Farenheit (24.4 degrees centigrade) on a dry day at sea level.
+
+
+WEAPONS AND TACTICS OF THE AH-64A APACHE
+
+AH-64A WEAPONRY
+
+THE TARGET ACQUISITION & DESIGNATION SYSTEM (TADS): The AH-64A uses a
+novel and very effective gunsight system called TADS. Both the pilot
+and gunner wear an IHADSS helmet which includes a monocle in front of
+the right eye. The cockpit and helmet have IR diode sensors that track
+the helmet's position in three dimensions. When the crewman turns his
+head and looks through the monocle at a target, the TADS computers
+"know" what direction he is looking. The nose TV camera, laser, FLIR
+optics (forward-looking infra red for vision in low visibility) and
+Chain Gun all point in the direction he looks.
+
+In GUNSHIP the TADS gunsight is a small box that appears in the upper
+cockpit glass. When you lock it onto a target, a zoom TV camera view
+appears on the CRT below, including the range in kilometers and
+magnification of the camera. Once TADS is locked onto a target, it
+tracks while you maneuver and fly the helicopter. As long as the
+target remains in your field of view TADS will track it. TADS includes
+a laser rangefinder and ballistic computer that automatically aim the
+30mm Chain Gun cannon at the target In addition, when the ACM-114A
+Hellfire is armed for firing, the laser acts as a designator that
+"calls out" the target for the missile.
+
+The 2.75" FFAR rockets and the AIM-9L Sidewinder operate independently
+of the TADS. The rockets are unguided ("dumb" weapons) that fly
+straight ahead. The AIM-9L Sidewinder has its own built-in IR seeker.
+If you aim it toward an enemy aircraft or helicopter and then fire, it
+should find its own way to the target Note that TADS is a "line of
+sight" system built into the nose of the helicopter. As a result, the
+greater your altitude, the further TADS can see. Conversely, as you
+descend, TADS range is reduced. It's not uncommon to lose targets in a
+power dive. If another target is available, TADS switches to that
+Otherwise it switches off.
+
+THE 30mm CHAIN GUN This automatic cannon is beneath the nose on a
+mount that swivels and elevates under control of the TADS ballistic
+computer. It is NOT aimed manually. The computer aims the gun at
+whatever target is designated by the wearer of the IHADSS helmet, and
+then computes deflection using the laser rangefinder.
+
+The cannon fires 625 rounds per minute. Traditional machineguns and
+automatic cannons use the recoil of one shot to load the next If a
+shot misfires or the belt jams them is no more recoil and the gun is
+useless until a mechanic disassembles the weapon and clears it Since
+1916 jamming in aircraft machineguns and cannons has been a serious
+problem. The "Chain Gun" does not use this principle. Instead an
+electric motor pulls the ammo belt through the gun (hence the term
+"chain gun").  Even ifa shell misfires or is a dud the motor continues
+pulling theammobelt. This greatly reduces the probability of a
+disabling jam.
+
+The 30mm Chain Gun cannon normally fires HEDP (high explosive dual
+purpose) rounds that are effective against both unarmored and armored
+targets. The rounds are not powerful enough to pierce the thick
+frontal armor of a main battle tank They are effective against the
+thinner top and rear armor of tanks. The cannon can use European 30mm
+DEFA ammunition if American-made HEDP is unavailable. The main
+disadvantage of the Chain Gun is its enormous recoil, despite the
+relatively low muzzle velocity. No other helicopter carries such a
+heavy weapon. As a result, although the cannon may be aimed "on
+target" after a few rounds it could be off target again. This problem
+is especially serious when the cannon is firing left or right, and
+minimized if the cannon is firing ahead.
+
+The cannon's maximum range is approximately 1.5 kilometers. However,
+its low muzzle velocity and recoil problems suggest that effective
+range for reasonably accurate shooting (i.e., at least a 50% change of
+hitting a target dead ahead) is perhaps half that, or about 0.7
+kilometers.
+
+On the "plus" side, the 30mm cannon is an enormously valuable weapon
+against enemy helicopters and slow-flying aircraft The IHADSS and TADS
+system allows it to "track' and engage enemy targets to either side
+and below the helicopter - the pilot need not point his helicopter at
+the target to fire. Helicopters with manually controlled turrets (such
+as the Mi-24 HIND-D) or fixed weapons (such as the Mi-24 HIND-E) lack
+this advantage. However the slow rate of fire makes the cannon
+ineffective against fast jets, which can literally fly between the
+shells.
+
+AGM-114A HELLFIRE ANTI-TANK MISSILES The Hellfire laser-homing missile
+with a HEAT armor-piercing warhead is a semi-active.
+
+The missile's guidance system homes on the scattering frequency of a
+laser hitting a target In other words, the missile does not "see" the
+laser beam. Instead, when the laser beam hits a target and breaks up
+the missile "sees" the beam breakup. If the laser beam is switched
+from one target to another, the missile will "see" the target spot
+change, and fly toward the new target This allows "ripple fire"
+tactics where the Apache launches two or more missiles, one behind
+another. When the first missile hits, the laser is switched to another
+target, and the second missile (already in flight) homes on the new
+target
+
+
+Laser designators are not as effective in rain, snow, fog, or smoke.
+The beam breakup "spot" cannot be "seen" as easily. A favorite defense
+against laser designated weapons is a quick smoke screen. Many tanks
+now carry multiple smoke projectors for just this purpose. In bad
+weather conditions aircraft are often grounded, making the laser
+designation problem moot.
+
+The disadvantage of the laser system is that the helicopter must
+remain exposed, laser shining, to guide the missile to target
+Fortunately, the Hellfire can be guided by standard U.S. Army laser
+designators, carried on various scout helicopters and by ground
+troops. They can designate a target for a missile launched by the
+Apache. This means the Apache could fire from a hidden position, just
+like an artillery piece. Of course, such tactics require excellent
+radio communication and superb timing. The more common "scenario",
+portrayed in GUNSHIP, is the Apache designating its own targets "on
+the fly?".
+
+The Hellfire's warhead is a 177.8mm diameter HEAT design: High
+Explosive Anti-Tank. This burns through virtually any steel armor as
+well as most modern composites and spaced armor. The armor-penetrating
+ability of HEAT is propor-tional to the warhead diameter. The Hellfire
+has a 177.8mm diameter warhead: America's previous top-quality
+anti-tank missile (the TOW), still `greatly' respected, has a 152mm
+warhead.
+
+Unfortunately. this warhead design is ineffective against "soft"
+targets such as groups of men, building complexes. or AA gun sites. In
+the simulation, this means a Hellfire cannot destroy a Headquarters,
+Depot, Helibase, or a AA gun site (such as the 23mm ZU-23 or the 57mm
+S-60). However, it is extremely effective against vehicles. It can
+also penetrate and destroy bunkers.
+
+The Hellfire is an extremely long-ranged missile. Most ATGMs
+(anti-tank guided missiles) have a range of three kilometers. The
+Hellfire can fly up to six! Range does not affect accuracy: as long as
+the Hellfire can find the spot designated by laser, it will hit it.
+
+2.75" FOLDING FIN AERIAL ROCKETS (FFAR): The 2.75" FFAR rockets, in
+pods of varying sizes and weights, are a venerable weapon dating back
+to the 1950's. The rockets themselves are completely unguided, with a
+reputation for erratic flight, and sometimes not firing at all!
+Maximum range is about 1.8 kilometers, but a wise gunner waits until
+he's much closer before firing. The 7- and 29-rocket pods for the
+AH-64 are a new lightweight design that minimizes the "dead weight" of
+the launcher pod.
+
+The standard rocket warhead is a typical "HE" high
+explosive/fragmentation type that is quite effective against ground
+troops, AA gun sites, and installations. Men on the receiving end of a
+full pod volley can feel the ground shake and buck beneath them, like
+an earthquake, while deadly metal fragments fill the air. The shock
+effect alone can daze men for minutes. Near-misses and shock effect is
+not enough to disable an armored vehicle or bunker, although a lucky
+explosion could immobilize a vehicle.
+
+Despite their drawbacks, the FFAR rockets are a good compliment to the
+Hellfire missiles. They are most effective against targets the
+Hellfire can't really hurt. They can be fired at a longer range than
+the cannon. Even if the rockets miss they often "suppress" soft
+targets. The helicopter can then close for the kill using cannon fire.
+FFAR rockets are also extremely cheap to build and a common item of
+resupply throughout the Western world.
+
+It is relatively easy to build FFAR rockets with special warheads,
+such as White Phosphorous (WP), which burns intensely and gives off a
+cloud of smoke, or even various chemicals such as tear gas. Although
+such weapons are rare today, there is considerable fear that the
+Warsaw Pact plans heavy use of chemical warfare if involved in a
+European conflict.
+
+AIM-9L SIDEWINDER AIR-TO-AIR MISSILES: :The AIM-9L is an all-aspect
+infra red homing air-to-air missile. It was combat-proven in the
+Falkland Islands, where most of the "kills" accomplished by British
+Harriers against Argentine jets were with "Niner Limas", The British
+pilots were quite satisfied with the performance of this weapon. The
+Sidewinder was originally created in the early 1950's by a small team
+on a shoestring budget The early models proved difficult to use in the
+Vietnam air war. The Sidewinder homes on heat: early models homed on
+the heat of a jet exhaust. They would also home on the sun, common
+distress flares, or even hot ground or rocks during a summer day! In
+the 1970's the seeker was dramatically redesigned to be much more
+sensitive (through cryogenic cooling) and less vulnerable to spurious
+heat sources (through the use of filters). The missile's speed,
+maneuverability and range (now almost 18 kilometers) were all
+improved. The warhead was redesigned to explode into destructive
+spinning rods, and gained a new ultra-high-tech proximity fuse.
+
+The "L" model combines all of these improvements and is being
+manufactured in gigantic quantities by various American and European
+firms. Many older versions are being rebuilt to "L" standards. The "L"
+model can home on surfaces heated by air deflected across metal (such
+as the upper surfaces of aircraft wings or rotor blades). This means
+the missile does not need to "fly up the tailpipe" of a jet to hit the
+target, but can instead attack from a variety of angles. This dramatic
+new capability is termed "all aspect" attack The AIM-9L is probably
+the best missile for air-to-air dogfighting in the world today.
+
+The missile is only effective against aircraft targets, especially
+unarmored jets. It is reasonably effective against helicopters,
+especially since warhead rods can break rotor blades (an immediately
+fatal event for any helicopter). Sidewinders are generally unable to
+home on ground targets, and even if they could, would only damage
+small, soft targets.
+
+Currently no US. Army AH-64A Apaches carry Sidewinders. According to
+"the book" Apaches are intended for ground attacks, not air-to-air
+combat Reluctantly the Army is recognizing the threat of opposing
+helicopters. However, due to a bad case of interservice myopia, it is
+considering arming the AH-64A with the designed-for-the-Army FIM-92A
+Stinger, a much smaller and less destructive missile intended for use
+by infantrymen.
+
+Fortunately American servicemen in combat conditions often ignore "the
+book" and acquire whatever weapon does the job best In this case, the
+plentiful and effective AIM-9L Sidewinder, despite being an Air Force
+weapon, is likely to find its way into the arsenals of Apache attack
+helicopter squadrons. Wiring up Apache weapons wings for Sidewinders
+is easily done "in the field:' For all of these reasons, the AH-64A
+portrayed in this simulation is armed with Sidewinders, not Stingers.
+
+
+ATTACK TACTICS
+
+THE APPROACH: The vast majority of AH-64A flights are ground-attack
+missions. You are to knock out hard or soft targets in a certain area
+- often an area protected by SAMs and AA guns.
+
+Your first task is to make sure you know where on the sector map to
+find the primary and secondary targets! Setting your INS on the sector
+map to the primary target and flying full speed at a few hundred feet
+of altitude toward the target may work on training missions or in
+Southeast Asia, but it's pure suicide against well-equipped enemies in
+the Middle East or Western Europe.
+
+The standard US. Army technique is to fly in quick dashes ("bounds").
+Fly from the base of one hill to another. Before making a dash, hover
+and pop up briefly to 100-200'. Scan around and use TADS to identify
+potential enemies. Drop low again and examine your sector map. It
+shows all enemies you sighted, or who sighted you. Pick your next
+dash, set the INS, rotate to face that direction, then pitch down and
+zoom forward. Stay as low as possible in a dash. When selecting
+routes, use hills to screen yourself from enemy fire.
+
+FIRING: Use the right weapon for the job. At longer ranges (over 0.7
+kilometers) use the Hellfires against vehicles and bunkers, the FFARs
+against infantry, AA gun sites, and buildings, and the Sidewinder
+against enemy helicopters. If you are brave enough to get in close
+your best all-around weapon is the 3Omrn cannon. Beyond 700 meters or
+when making side shots the cannon consumes large amounts of ammunition
+for each hit (due to its poor accuracy at longer ranges). "POP UP"
+ATTACKS: The "pop up" technique is simple. Hover behind a hill that
+screens you from suspected enemy positions. Climb up over the hill
+until you're just above the crest Scan around and watch your threat
+display. If you recognize an important target immediately, open fire.
+If not, drop down behind the hill again and examine your sector map.
+You can now consider your situation and decide if you want to pop up
+again and attack those targets, or whether you should bound on,
+avoiding them. If you decide to attack, pop up again just long enough
+to knock out your selected target, then drop down again.
+
+
+FLAK  & SAM BUSTING: Because a helicopter can sneak up on targets,
+taking full advantage of terrain cover, it is much better suited to
+attacking AAA and SAM batteries than traditional fixed-wing aircraft
+Army/Air Force cooperation tactics plan on Apaches attacking
+anti-aircraft weapons while A-10 "Thunderbolt II" jets bombard ground
+targets.
+
+The key to eliminating enemy SAMs and ZSU AA tanks is engaging them
+quickly. Enemy anti-aircraft defenses have a 5 to 20 second reaction
+time, depending on the quality of the equipment and skill of the crew.
+You must destroy them during this time. Enemy SAMs give you a little
+extra time and warning because you can see the missile coming on the
+threat display. Enemy AA guns are tougher because you can't see the
+shells coming (they fly too fast), and because guns can use optical
+gunsights you can't jam or decoy! Unfortunately, some of the newest
+Soviet-built SAMs also have optical guidance systems for missiles.
+However, night gives you an advantage against optical systems because
+Soviet-made night-vision aids are much inferior to your high-tech FLIR
+viewers. TANK HUNTING: The Apache was designed to kill tanks. It's
+just a matter of loading up with Hellfires and heading out to the
+happy hunting grounds. At a kilometer or two it's like shooting fish
+in a barrel. If you prefer, you can come closer and cut them apart
+with the 30mm cannon. The U.S. Army expects a 14-l kill ratio (i.e.,
+when you kill your 14th tank the helicopter has paid for itself as a
+cost-effective weapon). In your eagerness to create scrap metal, make
+sure you don't blast friendly tanks by accident!
+
+Russian tanks don't carry an AA weapon larger than a 14.5mm
+machinegun. The BMP mechanized infantry vehicles are nastier because
+most carry an SA-7, SA-7B or SA-14 "Grail" missile inside. However,
+these are lightweight IR homing missiles. The SA-7 and SA-7B are
+easily confused by jamming or decoys. Warheads are small: even if one
+hits you, you'll probably survive it The brand new SA-14s are believed
+to be more potent and less easy to fool. The biggest problem in tank
+hunting is that Russian AA tanks and SAM carriers have a nasty habit
+of traveling with the tanks and BMP's. Whenever you see a large
+concentration of T-74's or BMP's, keep an eye out for a ZSU-23-4 (or
+ZSU-30-2) AA tank, or the SAM carriers, such as the SA-9 and SA-13 IR
+missile carriers, or the more formidable SA-8 and SA-11 radar missile
+carriers.
+
+INFANTRY TARGETS: Infantrymen in open ground are difficult to see with
+the naked eye. TADS has similar problems -on the CRT an infantry
+position doesn't look like much. Infantry may carry machineguns and
+other light weapons, or sometimes the SA-7, SA-6B or SA-14 "Grail" IR
+homing missiles. You can attack infantry with FFARs or the 30mm
+cannon. If you charge in fast and low you might get them before
+they're ready to get you!
+
+Infantry are tricky because it's hard to tell the good guys from the
+bad guys. Again,check your map to avoid making costly and painful
+mistakes. On the plus side, bunker6 are easy. They don't have Grails
+and can be destroyed using the Hellfire. However, most bunkers have
+thick roofs nearly impervious to cannon fire. STRUCTURES: Rear area
+structures, such as headquarters, heli-base, or supply depot, pose
+problems Similar to infantry. Although bigger and easier to see, most
+have "Grail" IR homing missiles sited for air defense. In addition,
+extra AA gun sites are often emplaced in the area. Try to locate these
+defenses as well as the base itself before you charge in. The AA gun
+sites are a nuisance because Hellfires are ineffective against them.
+
+When attacking structures, be sure you have the right one. It's
+embarrassing to wipe out your own heli-base. In guerilla warfare
+environments such as Central America or Southeast Asia, your TADS will
+lock onto local farm buildings as well as military bases. Unless you
+actually see enemies firing from the building, don't destroy it
+Remember, you're trying to win the people's hearts and minds.
+
+
+DEFENSIVE TACTICS
+
+The most common problem you'll have is surviving enemy ground fire.
+This includes enemy anti-aircraft artillery (AAA or "flak")`and
+surface-to-air missiles (SAMs). From a pilot's point of view, some of
+these are radar-guided threats, some are IR threats, and some are
+optically guided (and therefore don't warn you at all!).
+
+WHEN THEY SEE YOU: Only the higher quality AAA and SAMs use
+radar-guided systems. Among AAA weapons this includes the ZSU-30-2 and
+ZSU-23-4 vehicles, plus more advanced versions of the S-60 57mm gun.
+Among SAMs it includes all except the hand-carried SA-7, -7B, -14
+series and the early SA-9 Gaskin.
+
+These weapons have "search" radars which can "see" you at long ranges
+in day or night If you see a distant red dot on the threat display,
+it's probably a search radar looking at you. Most search radar
+"sweeps:' causing the radar warning light to flash on and off. Since
+the purpose of search radar is to detect your presence, jammers and
+decoys are counter-productive, as both announce your presence! All
+other enemies lack long-range search radar. Many use eyesight and
+binoculars to search. They can't "see" you until you are much closer.
+At night their eyesight is especially limited. However, if you open
+fire, you'll certainly attract their attention, causing many
+additional enemies to "notice" you.
+
+Radar, like normal eyesight, is blocked by objects on the ground. As a
+result, ground-based radar has a "dead zone" it cannot see. Above this
+dead zone the radar "eyes" will find you. The dead zone becomes
+smaller and lower as you approach the radar.
+
+HOW THEY TRACK YOU: If an enemy search is successful, they switch to a
+"tracking" mode. If using radar, they constantly illuminate you with a
+beam. This sets off your radar warning and causes the light to shine
+solidly "on". As with searching, tracking radar as well as eyesight
+has a "dead zone" near the ground that varies with distance.
+Therefore, if you're being tracked by radar, or suspect you're being
+tracked visually, fly lower and away from the enemy to break the
+track. Ducking behind a hill will also break a track - enemy eyes and
+radars cannot look through hills!
+
+Another way to break the radar tracking is to use your radar jammer or
+drop a load of chaff. If jamming is successful the radar warning light
+turns off. If it fails, the warning light remains o n -you should
+definitely use chaff or try evasive flying. Using chaff decoys the
+enemy radar into locking on the chaff - as long as the chaff cloud
+persists. The chaff light o n the cockpit turns off when the chaff
+cloud disperses.
+
+A few advanced enemy weapons have visual backups for tracking systems.
+These may be TV cameras, lasers, or simply optics. Therefore, even
+with the best jamming or decoys, they could still open fire. The only
+way to defeat these is evasive flying. All AA guns and probably the
+new SA-11 fall into this category.
+
+SURVIVING AA GUNFIRE: After tracking you for sufficient time, enemy AA
+guns will open fire, and continue firing until they knock you down.
+You must either break the track or destroy the weapon. There are no
+other options. If the gunfire is radar controlled {your radar warning
+light will be on) you could temporarily break the track with radar
+jamming or chaff. However, all guns have optical backup systems, and
+some only have optics. The best way to survive gunfire is skillful
+evasive flying.
+
+SURVIVING SAMS: After a SAM battery has tracked you for a few seconds,
+they launch a missile. Missiles come in three lavors: IR-guided,
+radar-guided, and visually-guided. When the enemy fires a missile,
+you'll see a white dot moving toward you on the threat display. Bear
+in mind that IR-guided missiles have their "seeker" on board the
+missile, while radar and visual guidance missiles are controlled from
+the launcher vehicle.
+
+IR-guided missiles are the most frequent threat Your IR warning light
+will turn on when they approach. If you turn on the jammer, and it
+succeeds in jamming the missile, the missile's "brain" becomes
+confused and it flies mindlessly straight ahead. You should change
+course to avoid colliding with it! If the IR jammer fails, try
+dropping a flare decoy instead. The missile will aim for the decoy
+instead of you. It's important to wait a bit before launching decoys,
+since they burn out after a while and the missile will home on you
+again. "Poor" IR guidance systems are vulnerable to either decoys or
+jammers. "Fair" systems are vulnerable to decoys, and sometimes to
+jammers. "Good" systems are vulnerable to either decoys or jammers,
+but almost never both, and sometimes are vulnerable to neither!
+Finally, very modern and sophisticated IR missiles may have a visual
+or laser backup system. Don't assume that defeating the IRguidance
+will always confuse a missile.
+
+Radar-guided missiles are primarily designed for use against jet
+aircraft, but could threaten you too. A radar beam shining on your
+craft guides the missile at you. Using your jammer will break the
+beam, causing the missile to fly straight (therefore you should
+dodge). Using a chaff decoy will cause the missile to fly toward the
+chaff instead of toward you. The problem with radar-guided missiles is
+that they have back up systems. The SA-8 and SA-8B become IR guided
+missiles if their radar fails. The SA-11 has an unknown but probably
+visual-type backup system if the radar is jammed or decoyed.
+Therefore, defeating the radar is just the first step in defeating the
+missile.
+
+Visually- or laser-guided missiles are the worst threat You have no
+jammer or decoy defenses against these. Your only weapon is evasive
+flying. Putting a hill between you and the missile is the best bet
+Getting low enough to become invisible to the launcher (and therefore
+breaking the visual or laser track) is the only other hope. Remember,
+successful evasive flying requires that you fly lower AND away from
+the enemy. If you continue flying toward the launcher, flying lower
+may not help.
+
+All missiles have a universal weak point: they have a huge turning
+radius. If you let one get close, then dart off perpendicular to its
+flight path, it will be unable to turn fast enough to hit you. This
+tactic is fairly easy in a high-speed jet aircraft, but far more
+difficult to accomplish in a relatively slow helicopter trying to
+avoid a missile flying at 1,000 mph or faster! It takes enormous
+skill, split-second timing, and steady nerves to "turn inside" a
+missile with a helicopter.  The chart on the following page summarizes
+the various Soviet-built AAA and SAM systems, with a description of
+the search, tracking, and guidance (for missiles) systems. Read your
+intelligence briefings before each mission, then look up each weapon
+on this chart Learn what missiles have backup guidance systems, and
+which ones do not.
+
+THREAT CHARACTERISTICS
+                      Search      Main      Backup    Main     Backup
+Weapon          Type  Technique  Tracking  Tracking  Guidance Guidance
+SA-7 (*) Grail  SAM   optical    optical   (none)    poor IR  (none)
+SA-7B (*) Grail SAM   optical    optical   (none)    fair IR  (none)
+SA-14 (*) Grail SAM   optical    optical   (none)    good IR  (none)
+SA-9 Gaskin     SAM   optical    optical   (none)    poor IR  (none)
+SA-9B Gaskin    SAM   optical    radar     optical   fair IR  (none)
+SA-13 Gopher    SAM   optical    radar     visual    good IR  uncertain
+SA-8 Gecko      SAM   radar      radar     optical   radar    fair IR
+SA-8B Gecko     SAM   radar      radar     optical   radar    good IR
+SA-11 Gadfly    SAM   radar      radar     unknown   radar    unknown
+ZSU-57-2        AAA   optical    optical   (none)    n/a      n/a
+ZSU-23-4        AAA   optical    radar     optical   n/a      n/a
+ZSU-23-4M       AAA   radar      radar     optical   n/a      n/a
+ZSU-30-2        AAA   radar      radar     unknown   n/a      n/a
+S-60 57mm       AAA   varies**   varies**  (none)    n/a      n/a
+ZU-23 23mm      AAA   optical    optical   (none)    n/a      n/a
+
+*hand-held missiles carried in BMPs, carried by infantry, and used to
+defend headquarters, heli-bases, and depots.
+
+**radar or optical, depending on the sophistication of the army using
+the weapon.  n/a =not applicable: gun shells do not need to be guided
+to target.
+
+AIR TO AIR COMBAT
+
+Russian-built Mi-24 HIND helicopters are your air-to-air combat
+problem. They are somewhat faster than your AH-64 (you'll never outrun
+them!), but much less maneuverable. The "E" model with four 23mm
+cannons is the most common threat HINDS are unable to fire accurately
+sideways in a dogfight, although some do have rotating turrets able to
+hit stationary targets. You, however, don't suffer that restriction.
+Therefore, your goal is to prevent them from heading toward you. The
+worst possible situation is to have a HIND approaching from the rear.
+They can fire at you, but you can't even see them!
+
+A typical HIND tactic is to sit behind a hill waiting for you, then
+charge forward, guns blazing. They also tend to circle around, trying
+to get on your tail. If you have a HIND charging you, you can either
+nail him at long range with a Sidewinder, or evade him until you're
+ready to use your cannon. The best evasion technique is hiding behind
+a hill. Failing in that, fly off to the left or right As he turns
+toward you and lines you up in his sights again, turn the other way
+fast Take advantage of his slow turning rate. As he gets closer,
+circle around him. Keep your TADS on him throughout this process
+(you'll probably need to use the left or right view while circling
+around). When the reticle box brightens, show him what a 30mm cannon
+can do.
+
+If you have a HIND on your tail, you'll take rapid and heavy damage as
+his cannons pound you. You've got to shake him off, fast Break right
+or left hard. Pitch up to cut your speed. "Up" collective to "elevator
+up" or "down" the collective to "elevator down': If your speed drops
+below 50 knots use the tail rotor to spin you around while skidding
+sideways, then pitch down and bank away. HINDS are poor dogfighters,
+so once you shake him, he'll probably fly past to the right or left
+and start circling around. Getting on his tail and teaching him a
+lesson should be easy.
+
+A new model Russian helicopter with air-to-air IR homing missiles is
+believed to exist Whether you call it an "`F" model HIND or the Mi-28
+Havoc, it's still a serious threat Keep an eye out for missile-firing
+helicopters when facing first line units in Western Europe.
+
+
+MILITARY EQUIPMENT ON THE MODERN BATTLE FIELD
+
+Use the illustrations in this section as a guide to answering the
+vehicle identifi-cation quiz when GUNSHIP begins. The notes on Soviet
+AA guns and SAMs are especially useful in understanding the strong and
+weak points of enemy weaponry.
+
+
+WESTERN BLOCK EQUIPMENT
+
+AH-64A APACHE SPECIFICATIONS
+
+The AH-64A Apache was designed and built by Hughes Helicopter Inc., a
+subsidiary of McDonnell Douglas Aircraft Phase I development in
+competition against Bell Helicopter began in 1972. After a "fly-off"
+Hughes was awarded the Phase II full-scale contract in 1976. Final
+prototypes were approved and manufacturing began in 1982. The first of
+over one thousand AH-64's rolled off the production line on September
+30,1983. It will serve in most major U.S. Army units, as well as
+selected Army Reserve and National Guard units. Its primary function
+is close ground support, especially against enemy front-line armored
+vehicles and anti-aircraft weapons. The craft is armored to withstand
+hits from 23-mm cannon. Cost per machine is based on a price quoted to
+West Germany in spring of 1986.
+
+Overall Length: 58'2"
+Overall Width: 48'0"
+Overall Height: 15'3"
+Weight Empty: 10,268 pounds
+Engines: two T700-GE-701 turboshaft jets
+Nominal Engine SHP: 1,649 per engine
+Maximum Engine SHP: 1,896.4 (running on one engine)
+Rotor Speed: 280 RPM
+Fuel Capacity: 376 gallons
+Maximum Horizontal Airspeed: 162 knots (184 mph)
+VDL "never-exceed" Maximum Airspeed: 197 knots (224 mph)
+Rated Maximum Climb 2,880 feet per minute
+Service Ceiling: 20,560 feet
+Avionics: VHF, UHF, IF'F, PNVS, TADS, DASE, Doppler Nav.
+Maximum AGM-114A Hellfires: 16 missiles
+Maximum 2.75" FFAR Rockets: four 19-rocket pods (76 total)
+Maximum 30mm Rounds: 1200 rounds
+
+Maximum AIM-9L Sidewinders: 6 missiles
+Maximum FIM-92A Stingers: 6 missiles
+Production Cost in 1986 dollars: $7.3 Million each
+Amortized R&D Cost in 1986 dollars: $1.1 Million each
+
+
+
+Ml and MIA1 "Abram"
+Main Battle Tank - USA
+Weight: 62.9 tons
+Main Weapon: 105mm Rifled or 120mm Smoothbore Cannon
+Secondary Weapon: three machineguns
+Armor: Heavy (Chobham)
+crew: 4
+Hull Length: 7.9 meters
+Hull Width: 3.7 meters
+Height: 2.9 meters
+Engine: 1500 hp gas turbine
+Maximum Road Speed: 41.5 mph
+
+This is the new standard tank of the U.S. Army, with the latest
+engine, armor, and in the Al model, a new West German-made smoothbore
+gun, not to mention lots of high-tech hardware. It is considerably
+superior to all known Russian tanks, but suffers from having a novel
+engine design that needs to work more reliably.  Unlike the Soviet
+T-74, the Ml Abrams is an entirely new design that actually works.
+It's a curious twist that the Soviets, generally viewed as creative
+and innovative tank designers, have been "one-upped" by the U.S. Army,
+who formerly lacked a reputation for "state-of-the-art'* tank design.
+
+M2Al "Bradley"
+Infantry Fighting Vehicle - USA
+Main Weapon: 25mm Auto-Cannon
+Secondary Weapon: two TOW missiles
+Armor: Light faluminum laminate)
+Crew: 3 + 7 passengers
+Hull Length: 6.5 meters
+Hull Width: 3.2 meters
+Height: 3.0 meters
+Engine: 500 hp diesel
+Maximum Road Speed: 41.0 mph
+This is the n ew armored personnel carrier of the U.S. Army, designed
+to compete with the Russian BMP while keeping pace with speedy Ml
+tanks. It is heavily armed, lightly armored and crowded inside.
+Although superior to the M113A3, it must be cautious when engaging
+enemy tanks. The TOW missile is no longer an invincible tank-killer.
+
+M113A3
+Armored Personnel Carrier - USA
+Weight: 12.5 tons
+Main Weapon: one or two machineguns
+Secondary Weapon: none
+Armor: Light (aluminum/steel)
+Crew: 2+ 11 passengers
+Hull Length 4.9 meters
+Hull Width: 2.7 meters
+Height2.5 meters
+Engine: 275 hp diesel
+Maximum Road Speed: 42.0 mph
+This is the latest variant-of the U.S. Army's venerable "battle taxi"
+for infantry.  It can carry and protect infantry from incidental fire,
+and is fairly useful against poorly armed Third World troops. Against
+well-outfitted opponents it should stay out of the line of fire.
+
+M163 Vulcan PIVADS
+Self-Propelled AA Gun - USA
+Weight: `13.5 tons
+Main Weapon: 20mm Gatling Gun
+Secondary Weapon: none
+Armor: Light (aluminum/steel)
+Crew: 4
+Hull Length: 4.9 meters
+Hull Width: 2.9 meters
+Height: 2.8 meters
+Engine: 215 hp diesel
+Maximum Road Speed: 40.5 mph
+The Product Improved Vulcan Air Defense System married a six-barrel
+20mm Vulcan cannon with the ubiquitous Ml 13 chassis. The gun is aimed
+by a gunner, who is aided by a radar rangefinder and tracking
+fire-control computer. AIthough useful against unarmored helicopters
+and slow-moving planes, it is ineffective against distant or
+high-speed targets (such as low-flying jets).
+
+M247 Sergeant York DIVAD
+Self-Propelled AA Gun - USA
+Weight: 60 tons
+Main Weapon: twin 40mm Cannon
+Secondary Weapon: one machinegun
+Armor: Light (steel)
+Crew: 3
+Hull Length: 7.1 meters
+Hull Width: 3.6 meters
+Height: 4.6 meters (including antennae)
+Engine: 750 hp diesel
+Maximum Road Speed: 29.8 mph
+The Sergeant York gun was designed to provide medium range rapid-fire
+AAgun defenses for US troops. The U.S. Army has lacked a long-range,
+effective AA gun for decades. This design was cobbled together from an
+old M48 tank chassis, standard 40mm AA guns, and a fighter plane's
+radar system.  Unfortunately, the Sgt York repeatedly failed combat
+trials. Only after 146 had been produced was the U.S. Congress able to
+close down production of this remarkably expensive boondoggle.
+
+M48Al Chaparral
+Surface-to-Air Missile (SAM) System - USA
+Weight: 12.7 tons
+Main Weapon: four MIM-72C IR homing missiles
+Secondary Weapon: none
+Armor Light (steel) for crew only
+crew 4-5
+Hull Length 6.1 meters
+Hull Width: 2.7 meters
+Height: 2.7 meters (including antennae)
+Engine: 202 hp diesel
+Maximum Road Speed: 38.0 mph
+The Chaparral combined a modified Sidewinder air-to-air missile with
+the U.S.  Army M548 carrier. It is designed to work as a team with the
+Vulcan AA vehicle.  The Chaparral uses its IR homing missiles at
+targets too fast for the Vulcan. Like the Vulcan, it has no integral
+search radar. Therefore it cannot engage targets until the gunner sees
+them.
+
+Merkava Mk 2
+Main Battle Tank - Israel
+Weight: 66.0 tons
+Main Weapon: 105mm Rifled Cannon
+Secondary Weapon: three machineguns
+Armor: Heavy (steel/composite)
+Crew: 4
+Hull Length: 7.5 meters
+Hull Width: 3.7 meters
+Height: 2.8 meters
+Engine: 900 hp diesel
+Maximum Road Speed: 28.6 mph
+The Merkava is Israel's first "home grown" battle tank, and a very
+original design.  It is heavily armored, slow and carries the
+traditional 105mm NATO cannon designed 25 years ago. This philosophy
+is directly contrary to USSR design concepts, and fairly different
+from most western nations. However, Israel is designing from the
+greatest successful tank battle experience of any nation in the
+post-WWII world. Perhaps they know something we're ignoring?
+
+UH-6 0 Blackhawk
+Transport Helicopter - USA
+Weight 8.1 tons
+Main Weapon: varies (often none)
+Secondary Weapon: none
+Armor. Light (Kevlar & composites)
+Crew: 3 + 11-34 troops
+Length: 15.3 meters (excluding rotor)
+Width: 5.5 meters (excluding rotor)
+Height: 3.8 meters
+Engine: two turboshaft jets, 2828 total shp
+Maximum Level Speed: 184 mph
+The Blackhawk is the U.S. Amy's new general-purpose helicopter and a
+worthy successor to the classic but aging UH-1 "Huey": The twin-engine
+design, light armor, and high crashworthiness make it a safe, reliable
+machine in combat conditions Ground attack, night flying and ECM/ESM
+variants exist, as well as many other special-purpose designs.
+However, the Blackhawk lacks sophisticated fire control systems, so
+even the armed versions are nowhere near as potent in combat as the
+AH-64 Apache.
+
+Hughes 500MD Defender
+Attack Helicopter - USA
+ Weight: 1.6 tons
+Main Weapon: four TOW missiles
+Secondary Weapon: varies
+Armor: none
+Crew: 2
+Length: 7.6 meters (excluding rotor)
+Width 3.2 meters (excluding rotor)
+Height: 2.7 meters
+Engine: one turboshaft engine, 425 total shp
+Maximum Level Speed 140 mph
+The Defender is not used by the U.S. Army. It is an inexpensive attack
+helicopter for export to smaller Western nations. It currently serves
+in the Israeli, Kenyan, and South Korean air forces. Instead of the
+TOW anti-tank missiles as shown it can carry a three-barrel 7.62mm
+minigun (a gatling machinegun),40mm grenade launcher, or 2.75" FFAR
+rocket pods Options include a mast-top sight for the TOW (instead of
+the nose sight shown), FLIR night vision for the pilot, air-to-air
+missiles, and various computerized flying and combat aids.
+
+
+EASTERN BLOC EQUIPMENT
+
+T-74
+Main Battle Tank - USSR
+Weight: 45.1 tons
+Main Weapon: 125m m Smoothbore Cannon
+Secondary Weapon: two machineguns
+Armor: Medium (steel & laminate/composite)
+crew: 3
+Hull Length: 7.0 meters
+Hull Width: 4.8 meters
+Height: 2.4 meters
+Engine: 780 hp diesel
+Maximum Road Speed: approx. 37 mph
+This vehicle is still called the T-80 by the U.S. Defense Department,
+even though most other nations and sources (including Jane's) indicate
+the Soviet designation is T-74. Like all Soviet post-WWII MBTs it is
+low, rounded, and fast ("drives like a sports car" according to
+Israeli tankers). The 125mm cannon has a mechanical loader that
+eliminates the need for a fourth crewman. Sights and night-fighting
+equipment aren't up to Western standards. The armor is predominantly
+tradi-tional steel plate, since the Soviets haven't discovered the
+secret of Chobham armor. The T-74 is an evolutionary improvement in a
+family that reaches back through the T-72 to T-64, T-62 and ultimately
+to the ancient T-55 of the 1950's.
+
+BMP 2 Infantry Combat Vehicle - USSR
+Weight: 16.1 tons
+Main Weapon: 30mm Rifled Cannon
+Secondary Weapon: AT-5 Spandrel Missile
+Armor: Light (steel)
+Crew: 3 + 7 passengers
+Hull Length: 6.7 meters
+Hull Width: 3.1 meters
+Height 2.1 meters
+Engine: approx 350 hp diesel
+Maximum Road Speed: approx 37 mph
+The BMP-1 was a seminal concept in AFVs: an amphibious armored vehicle
+with a light cannon and anti-tank missile that carried an infantry
+squad. The BMP-2 is an improvement on the original. It has a new 30mm
+high-velocity gun and better anti-tank missile, but reduced infantry
+space (normally only six infantrymen are carried). According to Soviet
+doctrine, each BMP should carry a "Grail" (SA-7, SA-7B, or SA-14
+surface-to-air missile) for defense against air attack In action one
+of the infantrymen opens a top hatch on the rear deck, stands up, aims
+the Grail from his shoulder, and fires.
+
+BTR-70
+Armored Personnel Carrier - USSR
+Weight: 12.7 tons
+Main Weapon: IWO machineguns
+Secondary Weapon: 30mm grenade launcher
+Armor: Light (steel)
+Crew: 2 + 9 passengers
+Hull Length: 7.8 meters
+Hull Width: 2.8 meters
+Height: 2.5 meters
+Engine: two 115 hp gas reciprocating
+Maximum Road Speed: approx 37 mph
+This 8-wheeled carrier is an upgrade of the ancient BTR-60, designed
+prior to the BMP. Although a useful troop carrier, especially on roads
+or flat, firm ground, it has trivial armament, very weak armor, and an
+extremely poortransmission (due to the twin engines). Infantry must
+enter and exit the passenger compartment through two small roof
+hatches (most APCs use large rear doors). If the USSR had a Congress
+and/or a free press, ridiculous vehicles like this would be taken out
+of production (see the M247 Sergeant York DIVAD).
+
+MT-LB
+Armored Carrier - USSR
+Weight: 13.1 tons
+Main Weapon: one machinegun
+Secondary Weapon: none
+Armor: Light (steel)
+Crew: 2 + 11 passengers
+Hull Length: 6.5 meters
+Hull Width: 2.9 meters
+Height: 1.9 meters
+Engine: 240 hp diesel
+Maximum Road Speed: 38 mph
+This general-purpose carrier was based on an unarmored tractor
+designed for use in swamps and arctic areas. It is an excellent cheap
+transporter with superior cross-country mobility. It has both roof
+hatches and rear doors for easy loading and unloading. Unlike the BMP,
+the MT-LB is not designed for fighting in the front lines.
+
+ZSU-23-4 "Shilka"
+Self Propelled AA Gun - USSR
+Main Weapon: four 23mm Auto-Cannons
+Secondary Weapon: none
+Armor: Light (steel)
+Crew: 4
+Hull Length: 6.5 meters
+Hull Width: 3.0 meters
+Height: 3.0 meters
+Engine: 280 hp diesel
+Maximum Road Speed: 27 mph
+The "Zoo" is another seminal design integrating powerful, rapid-fire
+AA guns with computerized radar fire control on a light tank chassis.
+The guns overheat quickly, and so are fired in 3 to 5 second bursts.
+Still, each burst puts 200 shells into the air! The original ZSU-23-4
+design had mediocre radar that had trouble finding targets below 200
+altitude. The newer ZSU-23-4M has a much improved radar system with
+better search and resolution capabilities. The guns can fire using
+optical sights if the radar is jammed. The ZSU-23-4 has been greatly
+feared by Western pilots.
+
+ZSU-30-2
+Self Propelled AA Gun - USSR
+Weight: probably 20-30 tons
+Main Weapon: two 30mm Auto-Cannons
+Secondary Weapon: probably none
+Armor: probably Light (steel)
+Crew: probably 3-4
+Hull Length: probably 6.2-6.7 meters
+Hull Width: probably 3.0 meters
+Height unknown
+Engine: probably a diesel
+Maximum Road Speed: probably 27-37 mph
+[No illustration available]
+Although it has not been displayed on parade, diverse sources suggest
+that the Soviet Union has a new and improved AA tank with twin 30mm
+guns. Details are not yet available. This design replaces the
+ZSU-23-4,now more than 20 years old.  The heavier caliber 30mm guns
+should be able to do more damage at longer ranges against armored
+helicopters such as the AH-64.
+
+ZSU-57-2
+Self Propelled AA Gun - USSR
+Weight: 30.9 tons
+Main Weapon: two 57mm Auto-Cannons
+Secondary Weapon: none
+Armor: Light (steel)
+Crew 6
+Hull Length: 6.2 meters
+Hull Width: 3.0 meters
+Height: 3.0 meters
+Engine: 280 hp diesel
+Maximum Road Speed: 31 mph
+
+This obsolete AA weapon uses an early 1950's tank hull and two late
+1950's AA guns. The guns track slowly and lack radar ranging or
+control (everything is done optically or manually). However, the
+shells are quite powerful - a direct hit can seriously damage a plane
+or helicopter, even the armored A-l0's and AH-64's.  Large numbers
+were supplied to Soviet client states, who now use it primarily
+against ground targets.
+
+Weight: 5.0 tons
+Main Weapon: one 57mm Auto-Cannon
+Secondary Weapon: none
+Armor none
+Crew: 7
+Length: 8.5 meters traveling
+Width: 2.1 meters traveling
+Height: 2.6 meters traveling
+Engine: none
+Maximum Road Speed: towed
+This old but effective medium AA gun is still used worldwide by
+Soviet-equipped states. The gun can be fired using optical control.
+For greater accuracy a SON-9A fire control radar with a PUAZO-6/60
+director can be attached. One or more guns can be tied into a search
+radar system for long-range accuracy. During the Vietnam War this
+system is believed to have been the single most effective destroyer of
+American aircraft.
+
+ZU-23
+23mm AA Gun - USSR
+Weight : 1.1 tons
+Main Weapon: two 23mm Auto-Cannons
+Secondary Weapon: none
+Armor: none
+Crew: 2-3
+Length: 4.6 meters traveling
+Width: 1.8 meters traveling
+Height: 1.9 meters traveling
+Engine: none
+Maximum Road Speed: towed
+This cheap, rapid-fire, short-range AAgun is used extensively by
+Soviet-supplied armies. It is relatively ligh t for easy
+transportation and sets up quickly. The gun is considerably superior
+to machineguns and other ad hoc AA defenses, but is not designed for
+use with radar. Therefore its range is low and its accuracy against
+fast-moving targets is totally dependent on the gunner's skill.
+
+SA-7, SA-7B or SA-14
+Portable Surface-to-Air Missile - USSR
+Weight: 20.3 lb missile (tube extra)
+Main Weapon: 5.5 lb fragmentation warhead
+Secondary Weapon: none
+Armor: none
+Crew: 1
+Length: 1.35 meter missile
+Width: 70mm missile diameter
+Height: (shoulder launched)
+Engine: Mach 1.5 solid fuel
+Maximum Road Speed: manpack
+This IR-homing missile has been popular among Soviet-supplied armies
+and terrorists for years. The original SA-7 had an IR homing head that
+needed to fly up a jet exhaust, and was easily decoyed by flares and
+jammers. The SA-7B has an improved seeker that is less easily jammed,
+but still uses a small 5.5 lb. warhead.  The new SA-14 is believed to
+have an even better seeker and larger warhead. The maximum range and
+altitude of these missiles is consistently underestimated in the West
+For example, although an altitude limit of 1,500' is widely quoted, an
+SA-7 hit an Omani jet (in 1974) at 11,500 feet!
+
+The SA-7, -7B, or -14 is carried by infantry units, used to defend
+ground installations, and carried inside BMP vehicles as their
+aircraft defense.
+
+SA-6 "Gainful"
+Self Propelled Surface-to-Air Missile Launcher - USSR
+Weight: 15.4 tons
+Main Weapon: three SA-6 missiles
+Secondary Weapon: none
+Armor: Light (for crew only)
+Crew: 3
+Hull Length: 6.8 meters
+Hull Width: 3.2 meters
+Height: 3.5 meters
+Engine: 280 hp diesel
+Maximum Road Speed: 27 mph
+This medium-range SAM system is commonly used by poorer
+Soviet-supplied nations against aircraft at low to medium altitude.
+The launcher vehicles travel and fire in cooperation with separate
+radar vehicles. One radar system searches for targets, then hands them
+off to a second fire-control radar that tracks the target, plus the
+missile once it is fired. The fire-control radar then sends commands
+to the missile that guide it to the target. If the radar control is
+jammed or destroyed the missile flies "blind" and is unlikely to hit
+anything. The SA-6 system is popular because the missiles and radar
+can move forward with combat troops, or be positioned where threats
+are greatest However the radar and control technology are 1960's
+vintage and easily jammed. The missiles themselves are slow (Mach 1.5)
+and not very maneuverable.
+
+SA-8 "Gecko"
+Self Propelled Surface-to-Air Missile Launcher - USSR
+SA-7.
+It has an even smaller warhead, but a larger minimum range and minimum
+altitude. The questionable value of this system was demonstrated in
+the 1981-82 Israeli air raids over Lebanon, where Israeli planes
+inflicted massive losses on entire Syrian batteries of these vehicles.
+
+SA-11 "Gadfly"
+Self Propelled Surface-to-Air Missile Launcher - USSR
+Weight: approx 20 tons
+Main Weapon: four SA-11 missiles
+Secondary Weapon: none
+Armor: Light
+crew: 3-4
+Hull Length: 6.5 meters
+Hull Width: 3.0 meters
+Height: 3.0 meters
+Engine: 280 hp diesel (probably)
+Maximum Road Speed: approx. 27 mph
+[No illustration available]
+This is the latest Soviet medium-range missile, designed to replace
+the SA-6 system. It can use the same or improved search and tracking
+radars. The missile homes on reflected radar signals, flies very fast
+(Mach 3) and is reasonably maneuverable. Because this system is quite
+recent, some sources believe it has a backup TV or laser tracking
+system as well as IR homing for terminal guidance:
+
+SA-13 "Gopher"
+Self Propelled Surface-to-Air Missile Launcher - USSR
+Weight: 13.8 tons
+Main Weapon: four SA-9 or SA-13 missiles
+Secondary Weapon: one machinegun
+Armor: Light (for crew only)
+crew: 3-4
+Hull Length: 6.6 meters
+Hull Width: 2.9 meters
+Height: 2.3 meters (travelling)
+Engine: 240 hp diesel
+Maximum Road Speed: approx 34 mph
+This is a completely redesigned successor to the SA-9 Gaskin. It has a
+small search radar and fires IR homing missiles from a converted MT-LB
+vehicle. These missiles are new, improved designs that jump between
+two IR frequencies to counteract jamming and flares. The homer is
+sensitive enough to find "hot spots" on aircraft skin caused by air
+friction, rather than simply chasing the exhaust.  Introduced in 1980,
+the SA-13 missile is the USSR's best ground-launched IR homing weapon
+now in active service. Versions of the vehicle have been supplied to
+the Warsaw Pact and selected Soviet allies, but often the actual
+missiles are the poor SA-9s, rather than the state-of-the-art SA-13s!
+
+
+Mi-24 "Hind"
+Attack Helicopter - USSR
+Weight: 12.1 tons
+Main Weapon: Varies
+Secondary Weapon: 2,800 lbs of bombs, rockets, etc.
+Armor: Light (titanium?)
+crew: 3
+Length: 33.7 meters (excluding rotor)
+Width: approx 16 meters (excluding rotor)
+Height: 3.2 meters
+Engine: two Lotarev D-136 turboshaft jets, 11,400 total shp
+Maximum Level Speed: 183 mph
+This large, fast, heavy, armored helicopter is literally a "flying
+battlecruiser." The D model has a 12.7mm gatling gun turret beneath
+the nose as its main weapon.  The E model has four fixed 23mm cannons
+while the turret houses laser guidance for AT-6 "Spiral" anti-tank
+missiles. An F model carrying IR homing missiles for air-to-air combat
+may exist (the U.S. Defense Department calls it the Mi-28 Havoc). The
+"Hind" is faster than any western helicopter, but much less
+maneuverable. Although the D model (illustrated above) has a nose
+turret, it lacks an equivalent to IHADSS and TADS. Therefore, in
+swirling air-to-air combat it is limited to forward firing, like the E
+model. No information exists on the guns and cannons of the "F" model,
+much less the fire control system used.
+
+
+REGIONAL DEPLOYMENTS OF THE AH-64A APACHE
+
+SELECTING REGIONS
+
+The five flying regions are listed in order of difficulty, from the
+easiest (Training in the USA) to the most difficult (Western Europe).
+U.S. Army regulations require that all new pilots first report to the
+training area in the USA This is only sensible. If you're new, follow
+those orders and work through both "Beginner's Tutorials: Only then
+are you ready for combat duty. Southeast Asia or Central America
+should be first, then the Middle East or Western Europe.
+
+
+TRAINING IN THE USA
+
+Background: This area is designed to help teach you flying, how to use
+weapons, and how to use defenses. All enemies fire "blanks? You can
+experiment and learn without worrying about damage. LEARN TO FLY HERE
+FIRST. Even experienced combat fliers occasionally return here to
+experiment with new tactics or try out new flight maneuvers.
+
+The Apache flight training area has a central heliport with various
+dummy targets surrounding it A comprehensive combat simulation
+environment exists to give pilots realistic practice flying in battle
+conditions, but without suffering any battle damage. This area is
+ideal for learning to fly, learning to identify Soviet-built equipment
+end installations, and to gain skill on both the attack and defense.
+
+Mission Profiles: Use the "Beginners Tutorials" on your first flights.
+Then continue to practice until flying, attacking, and avoiding
+threats is second nature. The heliport does not use passwords and
+countersigns.
+
+Opposing Equipment: This training area includes dummies and
+simulations of most Soviet-made equipment It has SA-7, SA-8, and SA-9
+missile launchers, ZSU-23-4 AA tanks and S-60 57mm anti-aircraft guns,
+T-74 and BMP tank targets infantry and bunker targets, and three
+typical Soviet installations: an HQ a supply depot and a forward
+heli-base. None of these have active weapons. You cannot be shot down.
+
+Advice from the Sergeant Major: "I've s ee n many good pilots go to
+war too soon. It's like lambs to the slaughter.Take my advice,sir,and
+get lots of practice hours. Flyin'a gunship is a tricky job at best,
+and downright difficult when a dozen bad guys are tryin' to toast you.
+No disrespect intended, sir, but the better you are on the practice
+range, the better your chances of living through your first battle:
+"Don't be too upset if your first flight ends badly. Everybody has
+trouble with choppers at first Give it time and you'll get the hang of
+it'.
+
+
+SOUTHEAST ASIA
+
+1st Air Cavalry Division
+
+Background: In 1965 U.S. combat troops are sent on active duty to
+fight communist guerilla forces in Southeast Asia. The first helibome
+unit in history swings into action in the Ia Drang Valley. Helicopter
+transports and gunships are invaluable in finding the elusive enemy.
+Communist regular and guerilla forces lack sophisticated weapons, but
+the early UH-1 and AH-1 choppers lack armor protection - a stray
+bullet could and did disable a million-dollar flying machine.
+Fortunately, the AH-64A Apache is armored.
+
+Mission Profiles: Your main problem is finding the enemy. Only
+occasionally will you encounter strong AA guns and SAM defenses.
+Mission targets are mostly enemy troops and installations, sometimes a
+bunker complex Hellfires are only needed against the bunkers.
+Otherwise cannon and rockets are perfectly adequate.
+
+Opposing Equipment: Enemy AA weapons are primarily 23mm and 57mm gun
+sites. Third line guerilla forces have no radar, while second and
+first line NVA troops have radar for their 57mm S-60 sites. The only
+SAMs in use against helicopters are outmoded SA-7s. Most of these are
+used to defend enemy bases. Intelligence reports no enemy helicopters
+in the region, and will update you if the situation changes.
+
+Advice from the Sergeant Major: "Be glad you've got an armored chopper
+- baddies in the bush aren't a serious danger. On the other hand those
+23's and 57's can be nasty. The ones without radar are especially
+irritating - they don't trip your warning lights. If you start
+collecting flak, get low quick and dodge. Then decide whether you want
+to hunt them down or take another route.
+
+
+CENTRAL AMERICA
+
+82nd Airborne Division
+
+Background: In October, 1983 America mounted an air-land-sea invasion
+of Grenada to eliminate a gradual communist takeover. The government
+of El Salvador, an American ally, is struggling to remain coherent
+Haiti has just eliminated a hated dictator but has huge internal
+troubles. The anti-American government of Nicaragua is under guerrilla
+attack by "Contras" based in Honduras and Costa Rica. Border clashes
+with U.S. allies could lead to calls for American military assistance.
+Cuba, a strong Soviet client-state for decades, still fears an
+American invasion. In all cases, the unit ready to move fastest is the
+82nd Airborne Division. Men and supplies can be parachuted into action
+while mobile fire support (the AH-64AApache) flies to freshly-cleared
+firebases and heli-pads. Mission Profiles: Here the enemy has a
+conventional army, but the battlefield is irregular and confused.-You
+won't find a well-defined front line, but you will find organized
+groups of regular enemy troops, supported by AA guns, SAMs, and Hind
+helicopters. Beware the high daytime temperatures and humidity, which
+greatly reduce carrying capacity.
+
+Opposing Equipment: The enemy forces are primarily infantry, supported
+by a few BMP armored vehicles and ZSU-23-4 or ZSU-57-2 AA tanks. The
+SA-9 Gaskin missile carrier is the standard "heavy" SAM vehicle, with
+a few improved SA-9B's available to first grade troops. Virtually all
+enemy infantry and installa-tions have SA-7 Grails, some have the
+improved SA-7B. Both 23mm and 57mm guns are commonly used for air
+defense. All 57mm guns use search radars, and all but the
+worst-equipped have fire control radar too. None of the 23mm guns have
+radar. Mi-24 Hind helicopters are available in small numbers to most
+communist armies, and will probably make an appearance on the
+battlefield. Advice from the Sergeant Major: "Sir, these guys are not
+primitive villagers from the boondocks. They've got decent weapons and
+know how to use them. If you get a radar warning, it's probably a
+ZSU-23-4 or a 57mm AA gun. Don't just jam them, hit them before they
+switch to optical and hit you! Like Southeast Asia, beware of the
+23mm's and older ZSU's that use optical control - they don't warn you
+before they fire! When loading up, carry lots of 30mm. Hellfires are
+useful at times, but don't go crazy with them.
+
+101st Air Assault Division Background: The Middle East is still the
+world's trouble spot Israel and Syria duel in desultory fashion over
+southern Lebanon and their common border, the Golan Heights. The
+Iran-Iraq war continues to hold the danger of a losing Iran seeking
+revenge by closing the Straits of Hormuz to oil traffic. Worse,
+Iranian-style religious radicalism might surface in any nearby Moslem
+state, triggering a civil war. If an American friend calls for aid, or
+international straits need to be cleared, in America's "Central
+Command" reaction force the key unit is the 10lst Air Assault
+Division. Formerly a parachute division, it's now an experimental
+hybrid practicing the "Air-Land 2000" mobile warfare of the future.
+Naturally, the AH-64A Apache is a key player on this new team.
+
+Mission Profiles: Here you face modem armored forces lavishly equipped
+by the Soviet Union. Fortunately, this is the enemy the Apache was
+designed to destroy. Careful weapons loading is paramount because high
+ground level and very high temperatures conspire to reduce your
+carrying capacity. The majority of enemy targets will be armored
+vehicles, making the Hellfire an extremely important weapon.
+
+Opposing Equipment: Most opponents have numerous tanks and personnel
+carriers, protected by ZSU's, SA-8's and SA-9's. Enemy first line
+forces use the ZSU-23-4M AA tank SA-8B and SA-9B SAM vehicles, S-60
+57mm guns with full radar, and outfit their infantry with SA-7B
+improved Grails. Enemy second line forces have the older ZSU-23-4 with
+poorer radar, the older SA-8 and SA-9 SAMs, no fire control radar on
+the 57mm gun sites, but still have the SA-7B improved Grails. Enemy
+third line forces are lucky to field the ancient ZSU-57-2 (with no
+radar), only have the SA-9 SAM vehicle, use older SA-7 Grails, and
+also lack fire control radar for the 57mm guns. Enemy air forces have
+a few Mi-24 Hind helicopters, so you may see some occasionally.
+
+Advice from the Sergeant Major: "Sir: these fellows can be nasty,
+especially the first and second line troops with those SA-8 Geckos.
+Only the third line ZSU-57-2 and occasional 57mm gun site relies on
+optical control. However, their modern equipment does set off your
+warning lights. So the enemy's better weaponry works in your favor
+too. Probably the tough part is the weight limit, especially on a hot
+day. Therefore, I advise against Sidewinders. If you meet a Hind, get
+him with the trusty 30mm. Hellfires will be useful against all those
+armored vehicles. Some guys I know don't carry FFARs, but that may be
+going too far.. . Sorry, sir, humor ain't my strong point.
+
+
+WESTERN EUROPE
+
+3rd Armored Division
+
+Background: For over 40 years NATO forces across Germany have faced
+the Warsaw Pact Both sides are armed to the teeth, ready for war. A
+number of U.S. Army divisions are stationed on this line, including
+the 3rd Armored of the U.S. V Corps. Trouble anywhere could lead to
+escalating tensions. When tensions are high, one itchy trigger finger
+could start a conventional war between the two superpower alliances.
+It is imperative that NATO stop the Russian steamroller without using
+nukes. Otherwise the President could be reduced to a choice between
+Russians in Paris, or nuclear winter for all!
+
+Mission Profiles: Anything and everything can and will happen in this
+desperate free-for-all. The only sure thing is that the enemy is fully
+armored and moving fast under an umbrella of sophisticated flak SAMs,
+and helicopter gunships. Soviet military forces may not be very
+creative, but they are numerous and brave. They will keep coming until
+you stop them!
+
+Opposing Equipment: The Warsaw Pact 1st Line Soviet Divisions have the
+very latest equipment: ZSU-30-Z AA tanks, SA-11 and SA-13 SAMs, and
+SA-14s for all the infantry and BMPs. The 2nd Line allied troops from
+East Germany, Poland and Czechoslovakia have the best of the previous
+generation: the ZSU-23-4M, SA-8B and SA-9B, and the SA-7B improved
+Grails for BMPs and infantry. Third line troops are mainly found in
+quiet areas, since they're Soviet reserve divisions or hastily
+organized allied troops. They have older ZSU-23-4's, unimproved
+SA-8's, SA-9's, and SA-7s. A few S-60 57mm guns can be found near
+important installations in all cases, and all but the third line
+troops have both search and fire control radar for these gun sites.
+
+Advice from the Sergeant Major: "Well sir, this is the big time. We're
+up against the first team here. They've got everything including the
+kitchen sink, and they'll use it Anywhere else is a piece of cake
+compared to this. But our boys on the ground are badly outnumbered and
+need us to even up the odds. Your best chance is at night, since their
+night vision stuff isn't as hot as ours. Load up on Hellfires - the
+Pact has hordes of armored vehicles out them. On a good night you
+might bag your fourteen in one sortie! Don't forget Sidewinders
+either. Hinds are as thick as flies around here.'
+
+
+
+GLOSSARY
+
+AAA: (Anti-aircraft Artillery): A gun designed to shoot down flying
+craft
+
+AA: (Anti-aircraft): A popular shortening of "AAA"
+
+Aft: Alternate term for "after" or "behind': originally nautical
+
+AFV (Armored Fighting Vehicle): Any armored vehicle designed for use
+on the battlefield. Includes tanks, personnel carriers,self-propelled
+artillery, self-propelled anti-aircraft guns, etc.
+
+AGM-114A (Air-to-Ground Missile, Type 114, Version A, "Hellfire"):
+Standard U.S. Army laser-homing armor-piercing missile.
+
+AIM-9L (Air Interception Missile, Type 9, Version L, "Sidewinder"):
+Standard US.  Air Force IR-homing air-to-air missile.
+
+Anti-Torque Rotor: Also known as the "tail" rotor, used to stabilize
+yaw on a helicopter.
+
+APC (Armored Personnel Carrier): An armored vehicle designed to carry
+and protect infantrymen. It may have wheels or tracks, and it may or
+may not be armed.
+
+Avionics: All electronic equipment that either informs a pilot about
+his flying craft or helps him control that craft
+
+Autorotation: A technique for landing a helicopter without engine
+power.
+
+Ballistics: Study of projectile performance: i.e., the hows and whys
+of bullets and shells flying through the air.
+
+BMP (Boevaya Mashina Peknota - Infantry Fighting Vehicle): Russian
+armored personnel carrier with a powerful armament It permits an
+infantry squad to fight while riding the vehicle, or fight on foot
+with the vehicle providing fire support not unlike a tank Popularly
+known as the "Bump" by American serviceman.
+
+Bunker: A fortification to protect ground troops and weapons. It
+generally has a very thick side and roof made of earth, concrete,
+and/or steel.
+
+Chaff: Thousands of tiny strips of metal, designed to reflect radar
+waves. Chaff is scattered in a "cloud" to confuse radar.
+
+Collective: Hellicopter flight control that changes the angle of
+attack of the rotor, and thus indirectly changes the lifting force of
+the rotor.
+
+CRT (Cathode Ray Tube): Generic term for any TV and/or computer
+display screen.
+
+Cyclic: Helicopter joystick flight control that controls pitch and roll.
+
+FFAR (Folding Fin Aerial Rocket): Abbreviation for lightweight
+unguided rockets commonly used by ground attack planes and
+helicopters.
+
+Flak: Nickname for anti-aircraft guns or their exploding shells,
+derived from the German word for anti-aircraft gun.
+
+Flares: A generic term for a heat source designed to mimic the heat
+signature of a flying craft, and thus confusing IR-homing weapons.
+
+Fore: Alternate term for "forward" or "ahead': originally nautical.
+HEDP (High Explosive, Dual Purpose): A type of high-explosive
+ammunition that includes an armor-penetrating capability.
+
+Hellfire: Standard U.S. Army nickname for a type of air-to-ground
+missiles.
+
+HIND: NATO code-name for the Russian-built Mi-24 series of helicopters
+
+IFV (Infantry Fighting Vehicle): Western equivalent of the Russian
+BMP: an armored personnel carrier with a powerful armament It permits
+an infantry squad to fight while riding the vehicle, or fight on foot
+with the vehicle providing fire support not unlike a tank
+
+IHADSS (Integrated Helmet and Display Sighting Sub-System): Pilot and
+gunner's helmets that include position sensors and display monocle.
+
+INS (Inertial Navigation System): A device that computes the current
+location of a craft and displays this position to the pilot. It
+generally includes a system for selecting a destination point and
+displaying the proper course to reach that point.
+
+IR (Infra Red): An area of the electromagnetic spectrum where sensors
+detect heat instead of visible light.
+
+Knots: A measure of velocity, in nautical miles per hour. 1 knot =
+1.14 statue miles per hour.
+
+Kilometers: Metric measure of distance, 1.609344 kilometers = 1 mile.
+
+LZ (Landing Zone): An area of ground where airborne troops will land,
+including paratroop drops and/or helicopter assaults.  Pork Left side
+of a craft originally nautical.
+
+SAM (Surface-to-Air Missile): A missile designed to destroy flying
+craft
+
+Sidewinder: Standard U.S. Air Force nickname for a type of IR-homing
+air-to-air missiles (all AIM-9 missiles).
+
+Skid: For a helicopter, "sideways" motion - motion not parallel to the
+fuselage of the craft
+
+Starboard: Right side of a craft originally nautical.
+
+TADS (Target Acquisition & Designation System): An integrated system
+for sighting and tracking targets that interfaces with weapons
+themselves.
+
+Torque: Rotational force in a turbine engine.
+
+TOW (Tube-launched, Optically-guided, Wire-controlled): Standard U.S.
+Army armor-piercing missile system of the 1960's and 1970's.
+
+Translational Lift: Lift caused by motion of the entire helicopter as
+opposed to lift caused by blades within the rotor.
+
+VSI (Vertical Speed Indicator): Cockpit dial that shows the rate of
+ascent or descent. If the craft is travelling level, the VSI is zero
+(level).
+
+ZSU (Zenitnaia Samokhodnaia Ustanovka - Self-propelled anti-aircraft
+mount): Russian armored vehicle armed with anti-aircraft guns.
+Popularly known as a "Zoo" by American servicemen.
+
+
+NOTES
+
+At MicroProse GUNSHIP was an enormously long and complex project that
+took triple the estimated time and quadruple the original number of
+people. Simulating low-level helicopter combat, especially on 8-bit
+computers such as the C-64 or Apple II, was an outrageously complex
+job. Each member of the design team played a crucial role in
+developing this amazing simulation. Andy Hollis worked his optimizing
+magic to create a 3-D graphics system that made hills "solid" and yet
+ran fast enough for smooth real-time flight, not to mention his
+realistic handling of helicopter flight mechanics. Expert artists
+Michael Haire and Michele Mahan worked with programmer Gregg Tavares
+to conjureup a superb cockpit and the many attractive starting and
+ending screens. Gregg also contributed the missile flight logic. Sid
+Meier pulled his usual rabbits out of hats when it came to handling
+weapons logic and the "artificial intelligence" of the enemy, Credit
+(or blame) for the concepts, research, game scenarios, and overall
+coordination goes to Arnold Hendrick.
+
+MicroProse could have taken the easy way out, like most software
+publishers now jumping onto the "flight simulator" bandwagon. However,
+we didn't want GUNSHIP to be another unrealistic arcade-style "shoot
+`em up" that bears little resemblance to actual planes or helicopters.
+For example, one "helicopter simulation" from a well known firm even
+has the cyclic and collective controls reversed!
+
+Instead, we spent the time and effort to make GUNSHIP a faithful and
+realistic representation of the actual AH-64A, the most sophisticated
+combat helicopter in the world. Unfortunately, this means GUNSHIP
+cannot be played like an arcade game. Don't expect to immediately fly
+around Western Europe blasting top quality Soviet troops off the map.
+
+This simulation includes all the major systems and capabilities of the
+actual AH-64A. The only major concession to playability we added was
+the INS mapping system. The current AH-64A only has a simplified INS
+system. On the actual machine the pilot does not have a computerized
+map. He keeps a paper map in his lap, looks up coordinates on it, and
+punches them into his digital unit, However, the latest AH-l variants
+have a more sophisticated INS system similar to one shown here. It's
+not unlikely that this will be added to the Apache too. As you can
+see, it's extremely convenient!
+
+In GUNSHIP the tasks of pilot and gunner are combined into one
+activity and a single cockpit layout The battle area is about 80
+square miles in size. In addition to showing the major terrain
+features, such as hills, roads, and streams, the visibility logic
+includes incidental ground cover such as bushes, trees, small rolls in
+the ground, etc. in its internal calculations.
+
+The actual AH-64A helicopter is quite new. Parts of it are still
+secret MicroProse does not wish to compromise military security and
+needlessly endanger the lives of gunship crews. We were careful to
+research all information from unclassified sources. Although we talked
+to real helicopter pilots, we did not solicit or use any classified
+information, In some cases this forced us to make educated guesses,
+rather than using hard data. However, a vast array of material about
+modern weaponry and warfare has been published in the USA and abroad,
+especially in England. In some cases our conclusions differ with the
+public position of the United States Department of Defense and/or the
+U.S. Army.
+
+We're sure you'll enjoy the challenge of flying GUNSHIP, a "real"
+combat simulation. Spread the word if you prefer the authenticity of
+GUNSHIP, rather than unrealistic fast-action games Let us know and let
+your software dealer know. Your purchasing dollar is your "vote" for
+future products. Each enthusiast who buys GUNSHIP helps us create more
+great simulations. This "dollar vote" is the real importance of
+software piracy. People who use pirated copies literally discourage us
+from producing future products of that type. Naturally we try to
+discourage piracy, but your help and support is much appreciated.
+
+Good flying in the Apache's happy hunting grounds. May you win the
+Congres-sional Medal of Honor!
+
+- the Gunship design team:
+Arnold Hendrick Andy Hollis, Gregg Tavares and Sid Meier
+
+
+CREDITS
+
+Game Design:  Arnold Hendrick & Andy Hollis
+Software Development: Andy Hollis, Gregg Tavares, Sid Meier
+Software Graphics: Michael Haire, Michele Mahan, Kimberly Disney
+Technical Advisors: William Force Jr., James Noe
+
+Playtesting: Bruce Meier, Jim Karl, Alan Roireau, John Harris, Bill
+Stealey, Guy Watkins, Steve Byrne, Frank Szilagyi
+
+Documentation: Arnold Hendrick
+Manual Graphics: Michael Haire, Kimberly Disney
+Cover Painting: Ed Valigursky, David Phillips
+Typography & Layout: The Composing Room, Inc.
+
+
+COPYRIGHT NOTICE
+COPYRIGHT (c)1986 BY MICROPROSE SOFTWARE INC., ALL RIGHTS RESERVED.
+This manual and the computer programs and audiovisuals on the
+accompanying floppy disks, which are described by this manual. are
+copyrighted and contain proprietary information belonging to
+MICROPROSE SOFTWARE, INC.  No one may give or sell copies of this
+manual or the accompanying disks or of listings of the programs on the
+disks to any person or institution, except as provided for by the
+written agreement with MICROPROSE SOFTWARE, INC.  No one may copy,
+photocopy, reproduce, translate this manual or reduce it to machine
+readable form, in whole or in part, without the prior written consent
+of MICROPROSE SOFTWARE, INC. Any person/persons reproducing any
+portion of this program, in any media, for any reason, shall be guilty
+of Copyright Violation, and shall be subject to civil liability at the
+discretion of the copyright holder.
+
+WARRANTY AND LIABILITY
+
+Neither MICROPROSE SOFTWARE, INC., nor any dealer or distributor makes
+any warranty, express or implied. With respect to this manual, the
+disk or any related item, their quality, performance, merchantability,
+or fitness for any purpose. It is the responsibility solely of the
+purchaser to determine the suitability of the products for any
+purpose. To the origina t purchaser only, MICROPROSE SOFTWARE, IFJC
+warrants the media to be free from defects in material for 90 days. If
+during that period a defect should occur. the software may be returned
+to MICROPROSE SOFTWARE, who will replace the media at no charge. If at
+any time after the initial $10 day period your media becomes
+defective, the media may be returned to MICROPROSE SOFTWARE for
+replacement at a $10 service charge. To ensure identification the
+original purchaser must complete and mail the Registration/Warranty
+card enclosed in this product In no case will MlCROPROSE SOFTWARE,
+INC. be held liable for direct, indirect or incidental
+damages-resulting from any defect or omission in the manual, or other
+related items and processes, including, but not limited to, any
+interruption of service, loss of business, anticipated profil or other
+consequential damages.
+
+MICROPROSE
+SIMULATION SOFTWARE
+2 Market Place, Tetbury, Gloucestershire GL8 8DA
+Tel:(O666)54326
+Fax:(0666)54331
+Tlx:43422MPS UK G

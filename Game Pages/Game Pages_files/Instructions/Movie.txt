@@ -1,0 +1,92 @@
+THE SPECTRUM GAMES DATABASE
+
+MOVIE 
+
+PUBLISHER
+Imagine
+
+AUTHOR
+
+YEAR
+1986
+
+CATEGORIES
+Arcade adventure
+
+CONTROLS
+Keyboard, Kempston, Cursor
+
+ KEYS :  Up         -  Q to P
+         Down       -  A to Enter
+         Left       -  X, V, N
+         Right      -  Z, C, B, M, Space
+         Fire       -  1 to 0
+
+INSTRUCTIONS
+You're a private detective who's been hired to recover an audio
+tape from a gangster's HQ. First however, you have to find a
+girl, who will lead you to the Mob's base. This isn't as simple
+as it sounds, though, since she has an identical twin sister who
+is a member of the Mob. You'll have to find the right girl and
+protect her from harm on the way to the HQ...
+ 
+The game is viewed in an Ultimate-style isometric 3D perspective
+(although rather oddly, all the characters appear to be cardboard
+cutouts...). Along the bottom of the screen is a row of ten
+icons. From left to right, they are:
+
+1) Cursor control - allows you to point the blue inventory arrow
+                    (above this icon) at an object you're holding
+                    before you make use of it.
+2) Pick up        - allows you to pick up an object that's at
+                    your feet.
+3) Put down       - allows you to drop an object, selected with
+                    the blue inventory arrow.
+4) Gun            - provided you're carrying a gun, this allows
+                    you to fire. The little white dots above the
+                    box indicate the number of bullets.
+5) Movement       - swiches you into movement mode.
+6) Speech         - inflates a speech bubble next to your
+                    character.  Type your words and press Enter
+                    to say them.
+7) Punch          - self-explanatory, really...
+8) Throw          - allows you to throw an object, selected with
+                    the blue inventory arrow.
+9) Halt           - pauses the game.
+10) Abort         - quits the current game.
+
+Pressing the fire button allows you to move the icon selection
+cursor in order to select the relevant icons. At the start of the
+game, movement mode is selected as the default, allowing you to
+move around the room in four directions. Some of the objects
+(such as chairs and tables) can be moved around, while the
+smaller ones can be picked up, dropped or thrown. The gun, if you
+find it, can be fired up to five times before its ammo runs out,
+in which case you'll have to find a new gun.
+
+The playing area is a rather seedy area of the city in which
+several mobsters are lurking. Some will try to punch you (and you
+can punch back) but others carry guns and will try to shoot you.
+There are other, friendlier characters too. You can talk to them
+using the Speech icon; although they won't accept direct orders,
+they can be friendly and give you some useful help. Some doors
+are guarded, and you'll need to speak the appropriate password
+to enter them - using your detective skills you should be able
+to get the passwords.
+
+As you collect useful items, they'll appear in the space above
+the icons. A small blue arrow points at your latest acquisition
+and, if you want to make use of an object, use the Cursor Control
+icon to highlight the object. Sometimes you'll need to throw
+items; look out for the bomb!
+
+
+SCORES RECEIVED
+"A neat development on the 3D theme with a very different 
+scenario". 93% (CRASH #28, March 1986)
+
+GENERAL FACTS
+
+NOTES
+
+

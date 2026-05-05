@@ -1,0 +1,335 @@
+MERCENARY: A FLIGHT SIMULATOR ADVENTURE
+1st City: ESCAPE FROM TARG
+(c)1987 Novagen Software Ltd
+AUTHOR: Paul Woakes (Spectrum version by David Aubrey Jones)
+------------------------------------------------------------
+
+INTRODUCTION
+
+TARG is a planet in trouble, the peaceful, native Palyars are 
+fighting for their very existence against the invading 
+Mechanoids, a race of robots who have seized the planet.
+
+In the militarily secure Colony Craft that orbits Targ, the 
+Palyar council plans and waits, while brave Palyar resistance-
+fighters oppose the mechanoids in the Central City, Targ's one 
+major area of habitation.
+
+You are a 21st century space cowboy whose intergalactic craft has 
+crashed on Targ. The ship is beyond repair, so you must find 
+another way off the planet. Your interface with the world around 
+you is Benson, an almost-human, ninth-generation, artificially 
+intelligent portable computer. Benson, who is always with you, 
+monitors and reports your status, conducts communications between 
+you and the aliens, and displays information on his control 
+panel.
+
+Almost as soon as you arrive, Benson displays a message regarding 
+a ship for sale. You can buy the ship or just take it. But keep 
+in mind that stealing has its consequences!
+
+The next message you receive is from the Palyar Resistance. They 
+have work for you. If you're willing to be a mercenary, meet them 
+in the briefing room of their underground headquarters. Later, 
+you also have an opportunity to meet the Mechanoid reps, so don't 
+make any hasty decisions.
+
+
+CRUCIAL INFO
+
+Fly anywhere on Targ; There are no constraints or penalties, even 
+if you crash! If ** shows on your location indicator, good luck! 
+No one knows where you are. But there are a few places of 
+interest, even in the wilderness; you only have to find them!
+
+It is hard to resist zapping things! If you fire at the base of a 
+structure and score a direct hit, the result is an awesome 
+collapse! However, if someone owns the site you zapped, take 
+cover. Unless you knock out the droid missile fired in 
+retaliation, it will find you and will home in for the kill!!! 
+Try rapid flight backwards to keep it in view while you aim and 
+fire.
+
+One of the things you notice from the surface of Targ is a dot in 
+the sky above the planet. This is the Colony Craft and you need a 
+special key to get into this stronghold. The key is somewhere on
+Targ.
+
+The Colony Craft has three floors to explore. Any room you enter 
+that Benson names (other than hangar, bank, briefing rooms, and 
+communications room) offers an "earning" opportunity. 
+For example, gold delivered to the exchequer yields 100,000 
+credits.
+
+You can build your credits on your visit to the Colony Craft; 
+but, before commiting yourself, consider that the Mechanoids have 
+an interest in some of your goodies and may pay more than the 
+Palyars.
+
+As much fun as fighting and exploring may be, don't lose sight of 
+your ultimate goal: Escape from TARG! There are three ways to 
+accomplish this, but it's up to you to figure them out. (If you 
+can't there are hints below, and even a full solution.)
+
+
+TRANSPORTATION
+
+There are two types of ground-based vehicles (GBVs) and four 
+varieties of aircraft, plus one ship capable of intergalactic 
+flight.
+
+Board a vehicle by walking to its center and pressing B.
+
+Leave a vehicle by pressing L.
+
+Forward speed is controlled by the number keys 1 (low) through 4. 
+
+Brake by pressing SPACE (in flight, this lets you hover).
+
+Flying an airship requires sufficient speed to take off. To gain 
+altitude, pull back on the joystick. Dive by pushing forward.
+Landing too heavily results in a crash!
+
+Reverse thrust (flight only) by holding down the CAPS SHIFT key while 
+pressing a number key.
+
+Weapons are provided on many vehicles. Press the fire button to 
+shoot.
+
+Steering is by use of the joystick. Steering in flight is 
+slightly different than when walking or using GBV'S.
+
+
+JOYSTICK CONTROLS
+
+ Walking/Driving Mode   Flying Mode
+   ----------------   ---------------
+       FORWARD             DIVE
+          ^                  ^
+          |                  |
+   TURN<--+-->TURN    TURN<--+-->TURN
+   LEFT   |   RIGHT   LEFT   |   RIGHT
+          v                  v
+       BACKWARD            CLIMB
+
+
+ELEVATORS
+
+In several locations on Targ's surface, there are three-sided 
+cages (elevators) which provide access to underground complexes. 
+An elevator is activated when you stand in the center and press 
+E. Press E again to return to the surface.
+
+
+OBJECTS
+
+Most of the objects found on Targ are in the underground 
+complexes. Certain objects enhance your capabilities or allow you 
+to perform functions. Others have an obvious sale value and some 
+may even seem useless. Objects are only identified when they are 
+picked up (not all are identified). It is a good idea to keep a 
+list of items in the order you pick them up. You can carry up to 
+10 objects at a time.
+
+Take objects by pressing T.
+Drop objects by pressing D (the last object taken will be the 
+first object dropped). Dropping too many items in one area slows 
+down the graphics.
+
+
+CONTROL PANEL
+
+Below is an explanation of Benson's control panel. Colors 
+mentioned may vary depending on your computer or monitor.
+
+EL - elevation indicates whether your airship is gaining 
+altitude (blue) or losing it (green).
+SPEED - speed shows how fast you're going in any type of vehicle.
+LOC - location displays your co-ordinates on the planet. Negative 
+coordinates let you know you're on the opposite hemisphere of the 
+planet from the city.
+ALT - altitude gives your flying height in feet.
+COMP - compass helps you determine which direction you're going.
+Red and green indicate north; red is the western quadrant and 
+green the eastern. Black and blue are south; black is the eastern 
+quadrant and blue the western.
+
+
+SAVING AND LOADING
+
+Save a game by pressing CAPS SHIFT and S. Remove the cassette from the 
+tape recorder and insert the save-game cassette. Choose a number from 1-4,
+as prompted, and press ENTER. 
+
+CAUTION: never try to save a game on the MERCENARY GAME CASSETTE! 
+
+Load a save game during game play by pressing CAPS SHIFT and L. Be sure
+the save-game cassette is in the drive, select the number of the game you 
+want to load, and press return.
+
+Pause game by pressing CAPS SHIFT and ENTER. Press ENTER to resume play.
+
+
+QUITTING A SITUATION
+
+It's in the spirit of the game that your character is never 
+killed. However, certain circumstances could leave you stranded 
+in the wilderness or in a genuine no-win situation. To opt out of 
+a tight spot without restarting the game, press CAPS SHIFT and Q. You
+are then transferred back to the central city, but any objects in 
+your possesion are scattered around the planet. (Scattered objects 
+are often visible as "dots" from a considerable distance away.)
+
+
+COMMANDS SUMMARY
+
+Vehicle Operation
+-----------------
+1-4           Forward thrust
+SYMBOL + 1-4  Reverse thrust
+SPACE	      Brake/Stop
+
+Other Operations
+----------------
+E  Activate elevator (ring at 9:6,9:5,3:0,3:4,3:15,11:13)
+T  Take object
+D  Drop object
+B  Board vehicle (First you must stand "inside" vehicle or ship.)
+L  Leave vehicle
+
+CAPS+Q	     "Quit"-After that you will get new ship and all objects 
+             that you have are placed on the surface of the town.
+             You can fly to altitude 3000 and see them like spots...
+
+CAPS+L/S     Load/Save position to disk 
+
+CAPS+ENTER   Pause game
+ENTER        Resume play
+Y            Yes    
+
+-------------------------------------------------
+SUBTLE HINTS
+
+If you're the kind of rugged adventurer who likes to figure 
+things out for yourself, skip this part!!!
+
+
+*  When first learning how to use an aircraft or GBV's around 
+Targ, it's easier to travel on the ground rather than in the air. 
+(Walking isn't recommended if you want to get somewhere before 
+the turn of the century). Flying is faster, but finding specific 
+places from the air takes an aviator's skill and a lot of 
+practice.
+*  When you crash-land, you're automatically on foot. Unless your 
+ship is destroyed, press B to re-board.
+*  There are eight types of doors in the underground complexes. 
+Some lead into darkness (but there is a way to see the light). 
+Enter marked doors with caution - you may find yourself in 
+totally unfamiliar surroundings when you emerge! With a little 
+exploration, you can distinguish between the doors.
+*  Often, the names of objects you pick up give important clues 
+to their use.
+*  Even when you discover one method of escaping from Targ, you 
+haven't exhausted all the possibilities. You could conceivably 
+play the game forever!
+
+
+CRYPTIC CLUES
+
+* You've found some cheese - utterly incredible!
+  it's quite useful, but not very edible.
+
+* There are no nasty spiders on Targ to see;
+  but a curious web just could be the key.
+
+* The Colony Craft is a wonderful place,
+  and getting there takes an extremely fast pace;
+  Once you are there, it's great fun if you let it,
+  for here there are ways to earn heaps of credit.
+
+* Go to the kitchen for much more than cleaning;
+  Pick something up that gives objects more meaning.
+
+* The friendly Palyars have a serious flaw:
+  The Commander's unfriendly brother-in-law;
+  he isn't pleased with your sudden arrival;
+  Don't mess with him if your goal is survival!
+
+* When leaving the planet, if there's one more "lock",
+  you need to find something to turn back the clock.
+
+
+ABOVE DOX COURTESY OF ECKS
+*************************************************
+
+SOLUTION(s) to ESCAPE FROM TARG
+-------------------------------
+You can end this game in two ways: By trading and earning 
+999 999 Credits to buy a new escape ship, or yourself can find 
+a ship (faster way). (There may be a third way...)
+
+In both cases, first you must go to the location 09:06 and find 
+PHOTON EMITTER, then go to find POWER RAMP. Without it you can't 
+reach the orbital station at altitude 65000.
+
+1st solution
+------------
+If you want to trade, here is a list of objects and locations
+where they can be sold. Remember you can hold 10 objects at one 
+moment (including keys).
+
+Object           Location                Price
+-----------------------------------------------
+MECHANOID        INTERVIEW ROOM          250 000
+ENERGY CRYSTAL   POWER ROOM              100 000
+FOOD SUPPLY      KITCHEN                  60 000
+USEFUL WEAPON    MECHANOID ARMORY        120 000
+LARGE BOX        STORES                   35 000
+GOLD             EXCHEQUER               100 000
+MEDICAL SUPPLY   INFIRMARY                40 000
+12939 SUPPLY     CONFERENCE ROOM          50 000
+NEUTRON FUEL*    ENGINE ROOM             200 000
+WINCHESTER       LABORATORY              100 000
+-----------------------------------------------
+                                       1 055 000
+
+* NEUTRON FUEL is too heavy and you must have ANTI GRAV to hold 
+  it.
+
+When you have enough money, find the ANTENNA and bring it to 
+the COMMUNICATION ROOM, you will get an offer to buy a new ship. 
+After that, go to location 08:08 and launch the ship !
+
+
+2nd solution (faster)
+---------------------
+After you pick up PHOTON EMITTER & POWER RAMP, find ALL keys, go 
+to any random teleport and start doing in & out action, until you 
+find yourself in YELLOW ROOM with two locked doors to the left 
+and right.
+
+Following the map (provided separately), find NOVA DRIVE and go 
+to the SECRET HANGAR behind door with skull (only door with skull 
+with free pass), enter the ship while you are still in hangar, 
+activate elevator and launch the ship !
+
+
+DON'T MISS TO VISIT LOCATIONS  9:13, 9:15, 4:15 :-)
+
+
+Credits for the Solutions Section:
+----------------------------------
+1st way solution:
+Original map by Aleksandar Conic published Dec 1987 in "Svet 
+Igara" (special edition of "Svet Kompjutera") [Yougoslavia-
+Serbia]
+
+2nd solution:
+New Map (with fixed bugs, and additional locations) Avg 1998
+drawn by Nikola Alivojvodic (johnnya@eunet.yu)
+
+
+==========================================================
+Taken from Project 64 http://project64.c64.org
+Readapted for the Spectrum in 2001 AD by Alessandro Grussu
+http://www.ag-online.da.ru

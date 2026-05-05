@@ -1,0 +1,56 @@
+CAULDRON - PALACE SOFTWARE
+
+(These instructions from the Silverbird Software Ltd rerelease)
+
+CAULDRON
+
+(c) Palace Software
+
+Harken witches everywhere, take the challenge - if you dare,
+Tomorrow night, 'Tis Halloween, when only one shall be Witch Queen,
+Six ingredients thou must take, and in the cauldron boil and bake,
+Juice of toad, eye of newt, wing of bat and hemlock root,
+Mouldy piece of splintered bone, found from deep in musty tomb,
+Molten lava, cooled awhile, taken from the smoking isle,
+Then the spell shall be at hand, to rid the pumpkin from the land.
+
+LOADING
+
+1. Connect a suitable cassette player to your Spectrum according to
+   the User Manual. THEN FOLLOW INSTRUCTIONS 3, 4 AND 5 BELOW.
+
+   SPECTRUM 48/128 AND PLUS 2 OWNERS
+2. Put the 48/128 and Plus 2 systems into 48K mode.
+
+3. Place the rewound cassette into the cassette player.
+
+4. Type LOAD "" on your Spectrum and press ENTER.
+
+5. Press PLAY on the cassette player.
+
+Note: Full loading instructions can be found in your Spectrum manual.
+
+PLAYING THE GAME
+
+Spectrum controls
+
+Use the keyboard or joystick, select your control method from the menu
+on the title page.
+
+THE HAG'S MISSION
+
+You play the part of the hag, and you must fly across the land
+searching for the keys to the underworld, avoiding bats, evil bouncing
+pumpkins, carnivorous plants and all manner of nasty creatures whilst
+you look. You must take off and land only on grassy clearings, as
+trying to fly through trees causes the witch to tumble off. Each
+coloured key opens only the same coloured door, and once you have
+entered the realm beneath, you have to jump from platform to platform
+to pick up the required ingredient for the spell.
+
+Under licence from Palace Software
+
+WARNING: Copyright subsists in all Silverbird Software, documentation
+and artwork. All rights reserved. No part of this software may be
+copied, transmitted in any form, or by any means, hired or lent
+without the express permission of the publisher.

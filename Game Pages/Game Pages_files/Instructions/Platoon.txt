@@ -1,0 +1,405 @@
+                                      PLATOON
+
+You are a raw young recruit in a Platoon of five, deep in enemy territory.
+Unprepared for the challenges that lie ahead, realisation dawns that you must
+not only survive the physical ordeals but retain your sanity amidst the horrors
+and injustices of war.
+
+As the game progresses, you must overcome the hostilities in the different
+environments presented to you and ultimately survive with your sanity and morale
+intact. There are six sections in this experience, each presenting you with a
+more arduous problem. There will be casualties, as in any war, but the first
+casualty of that naive young soldier will be his innocence.
+
+
+CASSETTE
+
+1. Place the cassette in your recorder, ensuring that it is fully rewound.
+
+2. Ensure that the MIC socket is disconnected and that the volume and tone
+   controls are set to the appropriate levels.
+
+3. If the computer is a Spectrum 48K or Spectrum+ then load as follows. Type
+   LOAD""(ENTER). Note there is no space between the two quotes. The " is
+   obtained by pressing the SYMBOL SHIFT and P keys simultaneously.
+
+4. Press PLAY on your recorder and the game will load automatically. If you have
+   any problems try adjusting the volume and tone controls and consulting
+   Chapter 6 of the Spectrum manual.
+
+5. If the computer is a Spectrum 128K then follow the loading instructions
+   on-screen or in the accompanying manual.
+
+
+NOTE 48K ONLY
+
+Due to the enormous amount of code involved in Platoon the game loads in 3 parts
+which are played consecutively.
+(You will only be able to load the next section upon completion of your current
+one.)
+
+
+The game sections are as follows:
+
+Load 1 - Jungle 1 and Village
+Load 2 - Tunnel Network and Bunker
+Load 3 - Jungle 2 and Foxhole
+
+
+Side A of the tape includes common data which is loaded into memory and then
+loads 1, 2 and 3 successively on top of the data. Should you lose (on sections 2
+or 3) and have to restart it is not necessary to load in the common data again;
+just turn over the tape to Side B and load in the first section (to do this
+rewind Side B and load in sections as before). [This information is also carried
+in the on-screen prompts, which should be followed at all times.]
+NOTE: 128K loads the complete game from Side A only.
+
+
+SPECTRUM +3
+
+Set up system and switch on as described in your instruction manual. Insert disk
+and press ENTER to choose 'LOADER' option. This program will then load
+automatically.
+
+
+GENERAL CONTROLS
+
+Compatible with Kempston, Sinclair and Cursor joysticks.
+Usual joystick options for UP, DOWN, LEFT, RIGHT and FIRE.
+NOTE: The key for throwing grenades is redefinable for both joystick and
+keyboard options. In stages 1 and 2 only, the key for calling up the status
+panel is also redefinable as above.
+
+
+SECTION 1 AND 2:
+JUNGLE AND VILLAGE
+
+You must lead your Platoon deep into the depths of the Vietnamese jungle and
+ultimately the village. Once there, you will search the huts for useful objects
+and ultimately find a trap door in one of the huts that will lead you to an
+underground network of tunnels.
+
+The jungle contains many perils, such as armed patrols, booby trapped trip
+wires, assassins in trees and concealed "hides" where deadly snipers lie in
+wait.  During your trek stay vigilant for a box of explosives left by a previous
+platoon, as this must be collected before reaching the bridge, which must be
+blown up to prevent a large patrol following your platoon (and effectively
+wiping you all out).
+
+To destroy the bridge you must have the aforementioned TNT. When you cross it
+the explosive will be automatically planted.
+
+Food, ammunition and medical supplies left by enemy guerillas can be picked up
+and used. For best results, spread supplies equally between the soldiers in your
+Platoon.
+
+List of objectives in this section:
+
+1. Find explosives.
+2. Find bridge.
+3. Place explosives on bridge.
+4. Find village.
+5. Search huts for a torch and map.
+6. Find trap door.
+
+
+CONTROLS
+
+You control one man at a time using your joystick.
+
+UP           - JUMP/WALK UP/ENTER HUT/EXAMINE OBJECT
+LEFT         - WALK LEFT
+RIGHT        - WALK RIGHT
+DOWN         - DUCK/WALK DOWN/LEAVE HUT
+FIRE         - SHOOT
+SPACE        - THROW GRENADE
+
+NOTE: Whether you jump or walk up when pressing UP on the joystick is determined
+by whether there is an exit above you or not. The same rule applies for pressing
+down. The EXAMINE OBJECT facility is only available when inside a hut and in
+front of the required object.
+
+
+STATUS AND SCORING
+
+MORALE: This is a collective indication as to the state of your Platoon. Morale
+decreases every time one of your platoon is wounded and when an unarmed
+Vietnamese villager is shot. When the morale is at zero then your platoon is
+considered inactive and the game is over. Morale can be increased by collecting
+food and medical supplies.
+
+HITS: Every time one of the platoon is wounded, he will collect a HIT. When he
+as collected four HITS then he will die, signified on the status panel as
+"retired in action". When all five members of the platoon are dead, the game is
+over.
+
+AMMUNITION: Number of grenades left, and rounds of ammunition left. These can be
+increased by collecting ammunition left around.
+
+SCORE: This is increased by removing enemy soldiers, collecting useful objects
+and destroying the bridge as well as any traps. A large bonus is obtained when
+this section is completed, depending on the number of active members of the
+platoon left.
+
+
+HINTS AND TIPS
+
+* Watch out for the enemy jumping out of the trees above you, or appearing out
+  of trapped doors near your feet - a well placed grenade will destroy the
+  latter.
+
+* When a member of your platoon is seriously injured (i.e. two or more hits),
+  transfer control to another soldier to ensure as many as possible of your
+  platoon survive.
+
+* When you are about to pick up food or medical supplies, transfer to the
+  member of your platoon most in need of them.
+
+* It is recommended that you map out this section in order to complete it.
+
+
+SECTION 3:
+TUNNEL NEWORK
+
+Leaving the rest of the platoon in the village, you volunteer to go down the
+trap door, whereupon you find yourself in an underground tunnel system. You
+already have a torch and a map to enable you to find your way around, as shown
+on the right hand side of the screen, and your position is indicated by an arrow
+pointing in the direction you are facing.
+
+Beware - the tunnels are densely populated with guerillas who must be shot on
+sight. They usually appear from around the corners, but some of them have a
+sneaky habit of swimming through the waters of the tunnel and springing up in
+front of you...and that knife isn't for decoration! The tunnel also contains a
+number of rooms in which you may find valuable items, such as Red Cross boxes
+(to heal one of your "HITS") and ammunition. It is also essential that you find
+two boxes of flares and a compass for the next section (when you enter a room
+you may be confronted by a guerilla, or one of the boxes may be booby-trapped).
+
+
+CONTROLS
+
+You control your movements and that of the crosshair (gunsight) with your
+joystick.
+
+There are three control modes:
+
+UP    - (A) Walk forward/(B & C) Move crosshair up
+LEFT  - (A) Rotate left/(B & C) Move crosshair left
+RIGHT - (A) Rotate right/(B & C) Move crosshair right
+DOWN  - (B & C) Move crosshair down
+FIRE  - (A & B) Shoot/(C) Examine object
+
+CONTROL MODE A
+
+Moving through the tunnels. When an enemy soldier appears, control changes
+to Mode B.
+
+CONTROL MODE B
+
+Moving the crosshair in the tunnels. Move it over your target and press FIRE. If
+you score a hit, control will revert back to Mode A.
+
+CONTROL MODE C
+
+When you enter a room, move the crosshair and press FIRE to examine objects. If
+needed they are automatically taken. To leave the room, press FIRE with the
+crosshair over the exit icon (bottom right).
+
+
+STATUS AND SCORING
+
+MORALE: This is a collective indication as to the state of your Platoon. Morale
+decreases every time you are wounded. When the morale is at zero, then your
+platoon is considered inactive and the game is over. Morale can be increased by
+collecting food and medical supplies.
+
+HITS: Every time you are wounded you will collect a HIT. When you have collected
+four HITS then you will die, and the game is over.
+
+AMMUNITION: Rounds of ammunition left.
+
+SCORE: This is increased with every successful encounter with Viet Cong, upon
+finding useful objects and finding the exit.
+
+
+HINTS AND TIPS
+
+* There are no villages in this section so everyone is assumed to be an enemy.
+
+* Search all rooms and remember where booby-trapped boxes are.
+
+
+SECTION 4:
+THE BUNKER
+
+Upon finding the exit in the tunnel system you find yourself in a foxhole. Night
+has fallen. You are tired and doubtful of the terrain and position of the enemy,
+so you decide to rest in the foxhole until confirmation comes through from base
+camp. Unfortunately, a group of guerillas suspect your location and will have no
+hesitation in attacking. You have your machine gun and a supply of flares to
+light up the night sky in order to see the enemy silhouetted against the
+horizon, but be prudent - supplies are limited, as is the time of illumination.
+You must ensure that you do shoot each man you see, as your own muzzle flash
+will give away your position and anyone who is left standing will find it easy
+to locate and kill you.
+
+
+CONTROLS
+
+The joystick moves the gunsight. A flare is released by placing the gun sight
+over the flare gun (bottom right) and pressing FIRE.
+
+UP    - MOVE CROSSHAIR UP
+DOWN  - MOVE CROSSHAIR DOWN
+LEFT  - MOVE CROSSHAIR LEFT
+RIGHT - MOVE CROSSHAIR RIGHT
+FIRE  - SHOOT
+
+
+STATUS AND SCORING
+
+MORALE: This is a collective indication as to the state of your platoon. Morale
+decreases every time you are wounded. When the morale is at zero, then your
+platoon is considered inactive and the game is over.
+
+HITS: Every time you are wounded, you will collect a HIT. When you have
+collected four HITS then you will die, and the game is over.
+
+AMMUNITION: Rounds of ammunition left.
+            Number of flares left.
+
+SCORE: Your score is increased by shooting attackers.
+
+
+HINTS AND TIPS
+
+* Shoot attackers immediately.
+
+* Conserve ammunition and flares by sending flares up regularly and removing
+  each attacker with a short, well placed burst of gun fire - not a long,
+  inaccurate barrage.
+
+
+SECTION 5:
+THE JUNGLE
+
+Having survived a harrowing and sleepless night, you go in search of Sergeant
+Elias - your platoon leader. However, you meet Sergeant Barnes who informs you
+that Elias is dead, killed in combat. Shortly after however, you see from a
+distance that Elias is in fact alive and being relentlessly pursued by
+guerillas.  In front of your very eyes you see your Sergeant mowed down in a
+hail of gun fire and at that moment a little bit more of your innocence and
+sanity is eroded. Pondering on the information given to you by Sergeant Barnes
+you realise that in fact he is indirectly responsible for the death of Elias by
+not aiding him.
+
+Before you can collect your thoughts more thoroughly you hear a crackle come
+over the radio - a transmission from the General. An air strike is planned for
+precisely 10:00 hours. That means that the section of the jungle you are in is
+to be napalmed in two minutes, as it is crawling with guerillas. That just about
+gives you time to reach a safe area, and take cover from the airborne onslaught.
+You have been given the compass bearings of a particular safe area and you must
+make your way there immediately.
+
+
+GAME PLAY
+
+The compass (top right) indicates the direction that you are facing. Always head
+in a northerly direction. Each screen depicts a view of a portion of the jungle
+you are in. Run to the top of each area, avoiding the Viet Cong fire, snipers
+and any other hazards, such as barbed wire and half buried mines. There are
+several routes through the jungle; some will enable you to make your destination
+in time, while others will not.
+
+
+CONTROLS
+
+Using the joystick move your man around the obstacles, avoiding enemy fire. Take
+a left or right turn at the top of each area.
+
+LEFT  - MOVE LEFT
+RIGHT - MOVE RIGHT
+UP    - MOVE UP THE SCREEN
+DOWN  - MOVE BACK DOWN THE SCREEN
+FIRE  - SHOOT
+
+
+HINTS AND TIPS
+
+* Find out which is the quickest route and use it every time. Keep moving,
+  as enemy fire is directed straight at you.
+
+* In order to make good time certain screens will have to be rushed. Other,
+  more difficult screens, may be negotiated after you have cleared the way
+  of all visible attackers.
+
+
+SECTION 6:
+THE FOXHOLE
+
+Having reached the area you were told was safe, you find that Sergeant Barnes is
+in a foxhole. He realised your suspicions about him and Sergeant Elias, and sees
+this as an ideal opportunity to eliminate you without witnesses or any other
+evidence. Ensconced in his foxhole, he fires his machine gun and throws grenades
+at you. With the air strike imminent and vengeance for the unfortunate Sergeant
+Elias playing on your mind you realise there is only one sensible course of
+action. You must remove Barnes from the bunker in order to avoid the napalm. The
+cover that is afforded Barnes makes machine gun fire rather ineffective, leaving
+you with the only option of a frontal assault with your grenades. You must, in
+fact, score five direct hits with your grenades into the foxhole. You will find
+the box of grenades at the start of the screen and these must be picked up
+immediately.
+
+
+CONTROLS
+
+LEFT  - MOVE LEFT
+RIGHT - MOVE RIGHT
+UP    - MOVE UP SCREEN
+DOWN  - MOVE BACK DOWN THE SCREEN
+FIRE  - THROW GRENADE
+
+
+STATUS AND SCORING
+
+Your score is increased with each successful hit on Barnes' foxhole, and with
+his final destruction should you last that long!
+
+
+HINTS AND TIPS
+
+* Keep moving for reasons already discussed.
+* Pick up your grenades immediately.
+
+
+This computer game is packed with fun and excitement - many, many hours of
+programming work have been put in to ensure the maximum playing experience. To
+get the most from this title please read the instructions carefully and follow
+the screen prompts - that way you'll be sure that none of the action is missed!
+
+Its program code and graphic representation are the copyright of Ocean Software
+Limited and may not be reproduced, stored, hired or broadcast in any form
+whatsoever without the written permission of Ocean Software Limited. All rights
+reserved worldwide.
+
+This software product has been carefully developed and manufactured to the
+highest quality standards. Please read carefully the instructions for loading.
+IF FOR ANY REASON YOU HAVE DIFFICULTY IN RUNNING THE PROGRAM, AND BELIEVE THAT
+THE PRODUCT IS DEFECTIVE, PLEASE RETURN IT DIRECT TO:
+
+MR. YATES, OCEAN SOFTWARE LIMITED, 6 CENTRAL STREET, MANCHESTER M2 5NS.
+
+Our quality control department will test the product and supply an immediate
+replacement if we find a fault. If we cannot find a fault the product will be
+returned to you at no charge. Please note that this does not affect your
+statutory rights.
+
+Game Design by Ocean Software Limited.
+© 1988 Ocean Software Limited.
+© 1987 Hemdale Film Corporation. All rights reserved.
+TRACKS OF MY TEARS by Smokey Robinson. Licensed from B.M.G. Records (U.K.)
+Limited.
+® Motown Record Corporation.
+SPECTRUM
+Conversion by Choice Software.

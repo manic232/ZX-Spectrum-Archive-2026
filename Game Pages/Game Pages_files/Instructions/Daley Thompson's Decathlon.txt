@@ -1,0 +1,65 @@
+Daley Thompson's Decathlon
+--------------------------
+
+Simulating all ten events in the most gruelling event in the history of the
+Olympiad you will find the superb full-colour graphics and animation
+breathtaking enertainment. Ten staggering events for the price of one
+and great fun for all the family.
+
+
+Daley Thompson's Decathlon simulates all 10 events in this gruelling test
+of skill and stamina. The game runs on the 48K Sinclair Spectrum and is
+controlled by the keyboard or a number of joystick options.
+
+
+Playing:
+
+The most gruelling even in the history of Olympiad - all ten events are
+reproduced and each builds up the points necessary to gain the winners medal.
+
+1st Day - 100 meters, Long jump, Shot-put, High jump and 400 meters.
+2nd Day - 100 meters Hurdles, Discus, Pole-vault, Javelin and finally the
+energy sapping 1500 meters.
+
+
+Controls/Strategy Tips:
+
+Most running events and the Javelin require continuous left to right joystick
+movement or continuous left and right alternative key depression to increase
+speed. For Hurdles press fire button to jump.
+
+The Long jump and the three thowing events:- Try to achieve a launch of as
+near to 45 degrees and as close to the take-off line as possible.
+
+The High jump:- On take-off get as close to 90 degrees as you can and then
+press the fire button to manoeuvre over the bar.
+
+The Pole vault:- Press the fire button to position the pole and release
+button to let go.
+
+1500 meters:- Operate the running controls to accelerate and the fire
+button to decelerate - remember to conserve energy for the end of the race.
+
+Discus:- Press the button to start man running. Press fire button to release
+the discus.
+
+GO FOR GOLD! GOOD LUCK!
+
+
+Status and Scoring:
+
+On-screen scoring shows the number of attempts, points scored, world records,
+qualifying times and distances. (You begin with three lives which are lost
+through failing to qualify). A table showing the day, type of event and
+remaining lives is displayed between each disipline.
+
+Daley Thompson's Decathlon written by Ocean Software's in-house team is
+only one of many superb games from Ocean Software.
+
+Ocean Software Limited, Ocean House, Manchester.
+
+PRODUCED BY D. C. WARD
+
+(C) 1984 Ocean Software Limited.
+
+(Transcribed by Robin Stuart)

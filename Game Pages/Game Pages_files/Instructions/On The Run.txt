@@ -1,0 +1,61 @@
+ON THE RUN
+(Design Design)
+
+
+THE SCENARIO
+Your name is Rick Swift, a troubleshooter hired by the Defence
+Department for dangerous missions. In your latest mission you must
+enter a deadly area which has been affected by an unfortunate accident
+involving experiments in chemical warfare. Strange and weird mutations
+of the plant and animal life in the area have occurred, the animals
+becoming deadly to the touch.
+
+YOUR MISSION
+Contained within the mazes are still six flasks of the dangerous
+chemicals which will become active in one hour. Your mission is to
+collect all the flasks before this happens. Because of the lethal
+nature of the chemicals you have been equipped with a protective suit,
+complete with a jet-pack to rapidly move you around the mazes which
+you must explore. However, this suit requires energy and this energy
+depletes if you come into contact with a mutant. If your energy
+reaches zero you will die due to exposure to the deadly chemicals.
+Spread throughout the mazes are various objects which may be used to
+your advantage; careful experimentation is required!
+
+CONTROLS
+"On The Run" has a user definable game control system, which is
+explained in the incorporated screen instructions. Joysticks may also
+be used and are selected from within the front end.
+
+LOADING INSTRUCTIONS
+Set up the Spectrum as detailed in the manual and load with LOAD"".
+"On The Run" will now load and auto-run. Please note:- "On The Run" is
+a very long program and will take quite a while to load.
+
+SCREEN DISPLAY
+The screen shows your immediate surroundings whilst the top lines
+display your score, the flasks collected, the time remaining and your
+remaining energy as a bar graph.
+
+FEATURES
+Sprites!, Mushrooms, Big logo, Frogs, More mushrooms, Teeth, Fluffy
+explosions, Even more mushrooms, Continuous error free operation,
+Energy mushrooms, Bombs, Automatic collection, Lots and lots of
+mushrooms.
+
+DOES NOT FEATURE
+Colour vector graphics, Spectacle, BASIL, 6502s, Materialisations,
+Orchids, Printer bugs, Leg-warmers, Buns.
+
+
+Game Design by Design Design Game Design
+(Graham Stafford and Stuart Ruecroft)
+Graphic Design by Design Design Graphic Design
+(Stuart Ruecroft)
+Program code by Graham Stafford (Design Design)
+
+"On The Run" was written at a secret software establishment somewhere
+in Cheltenham.
+
+This program, documentation and artwork are copyright (c) 1985
+by Chandrex Ltd., trading as DESIGN DESIGN software. MON!

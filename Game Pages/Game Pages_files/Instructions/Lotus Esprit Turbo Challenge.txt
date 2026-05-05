@@ -1,0 +1,285 @@
+LOTUS ESPRIT TURBO CHALLENGE Instructions
+=========================================
+
+Lotus Esprit Turbo Challenge is a one or two player racing game that
+Gremlin believe is one of the fastest, smoothest and most addictive
+arcade style racing games of all time.  The ultimate aim of the game
+is to qualify for the Lotus License, which will only be issued to the
+elite band of individuals that complete all thirty two tracks and
+finish top of the racers table at the end of all that motoring.
+Details of how to get your Lotus License once you have achieved this
+mammoth task are given later in this manual.
+
+LOADING INSTRUCTIONS
+--------------------
+
+Spectrum 48
+Type LOAD"" and press ENTER.  Press PLAY on the cassette recorder.
+The game will now load automatically.
+
+Spectrum 128/+2/+3
+Use the LOADER option as normal.
+
+Commodore 64/128 Cassette
+Insert cassette into the cassette unit.  Press SHIFT and RUN STOP
+simultaneously.  Press PLAY on the cassette unit.  The program will
+now load and run automatically.
+
+Commodore 64/128 Disk
+Insert the disk into the drive.  Type LOAD"*",8,1 and press RETURN.
+The program will load and run automatically.
+
+Amstrad Cassette
+Insert cassette into cassette unit.  Press CONTROL (CTRL) and the
+small ENTER key simultaneously.  Press play on the cassette unit and
+then press any key.  The program will load and run automatically.
+
+Amstrad Disk
+Insert the disk into the drive, label side up.  Type:CPM and press
+ENTER.  The program will load and run automatically.
+
+Amiga
+1. Plug your joystick into port number 2.
+2. Switch on your TV/Monitor and then your computer.
+3. Insert the game disk into the built in disk drive.
+4. The game will now load automatically.
+
+Atari ST
+1. Plug your joystick into port number 1.
+2. Insert the game disk into the disk drive.
+3. Switch on your TV/Monitor and then your computer.
+4. The game will now load automatically.
+
+THE OPTIONS
+-----------
+
+The main options are presented on the Options screen.  To make a
+choice, simply move the joystick up and down to highlight the option
+you wish to alter, and then move your joystick left or right.  The
+options available are as follows:
+
+Difficulty: The choices here are Easy, Medium, Difficult and practice.
+On the easy level, there are seven races to complete, on medium there
+are ten and fifteen on the difficult level.  The practice option
+allows you to practice your driving on a specially designed practice
+track. [Not available on Speccy :-(]
+Easy level covers tracks 1-7, Medium 8-17, and Hard 18-32. 
+
+Number of Players: One or Two
+
+Name of Player: Type in your name on this option, after first deleting
+the name that's already present on the menu.
+
+Manual Gears/Computerised Gears: Choose computerised or manual gears.
+Normal manual gears are much harder to get to grips with initially,
+but the acceleration and top speed of the computerised gears are less
+than when using manual gears.
+
+Manual/Computerised Accelerate: simplified controls, you take care only 
+about steering and brake.
+
+Controls:
+       up = Accelerate
+     down = Brake
+  up+fire = Change up a gear
+down+fire = Change down a gear
+     left = Steer Left
+    right = Steer Right
+
+[On Speccy, player1 uses arrows and Num.'0' while player2 keys 1-5. 
+ Y,H,O,P and Spc doesn't work on my snapshot, maybe original TZX...]
+
+Special keys: 
+W = Hold, Q = Go, Break = Restart to "Options screen"
+
+Mouse Controls:
+(Computerised gears only.)
+Left Mouse button: Accelerate
+Right Mouse button: Brake
+
+Once you have completed your selection, press the fire button to leave
+this screen.
+Following this screen, you will be given the opportunity of choosing
+the tune that will accompany your racing efforts.  There are four in
+all, and are chosen by moving the joystick left and right, and
+pressing fire when the tune you wish to hear is highlighted. 
+
+RACING
+------
+
+On each level, the player be informed which position must be 
+achieved in order to qualify for the next race.  On the two player 
+game, if either driver qualifies, then both racers are carried 
+forward to the next race.  The players next starting position will be
+determined by his finishing position on the previous race, which will
+be inverted.  So, for example, if the player finishes first, he will
+start the next race in twentieth place, and he finishes second he will
+start the next race in nineteenth, and so on.  On some of the later
+tracks, the driver will come across some nasty hazards both on and off
+the roads, and some of the tracks will throw up some pretty nasty
+surprises.
+
+PITSTOPS
+--------
+
+Some tracks are too long to complete without stopping for fuel, and so
+pitstops will be required.  These are always to be found just after
+the start/finish line, and are indicated by the yellow spanner sign.
+In order to carry out a fuel stop, pull into the pit lane and brake.
+You will then go to another screen where you will see your fuel tank
+being filled, the amount being indicated on a meter on the right hand
+side of the screen.  You can leave this screen as soon as you think
+you have enough fuel by hitting the fire button.
+
+Qualifying for the Lotus License
+Once you have completed Lotus Esprit turbo Challenge, you will be
+presented with a special message.  You must write this message in full
+on the enclosed card (No photocopies will be accepted), and fill in
+all the other details requested on the card.  Once this is completed,
+return it to Gremlin Graphics, and your license will be forwarded to
+you.
+
+Applying for your Lotus Licence
+Once you have completed Lotus Esprit Turbo Challenge, you can apply
+for your Lotus licence.  To apply for your Lotus licence, simply fill
+in the form over this page and post it to: Lotus Licence, Gremlin
+Graphics, Alpha House, 10 Carver Street, Sheffield, South Yorkshire
+S1 4FS.
+
++--------------------------------------------------------------------+
+|                __                                                  |
+|               /  \      __           Track One                     |
+|              /    \    /  \                                        |
+|             /      \_/'    `\        Verona                        |
+|            /                 |                                     |
+|           /                 /'        Italy                         |
+|           \_______________/'                                        |
++--------------------------------------------------------------------+
+
++--------------------------------------------------------------------+
+|      __                                                            |
+|     /  \_                            Track Two                     |
+|    |     `\_                                                       |
+|    |        `\_     ___              Monterey                      |
+|    |           `\__/   \_                                          |
+|    |                     `\__        Mexico                        |
+|    `\________________________|                                     |
++--------------------------------------------------------------------+
+
++--------------------------------------------------------------------+
+|           _________________                                        |
+|         /'                 `\        Track Three                   |
+|        |       ______________|                                     |
+|        |     /'                      Fiskivoth                     |
+|        |     \                                                     |
+|        |      |                      Iceland                       |
+|        `\____/'                                                    |
++--------------------------------------------------------------------+
+
++--------------------------------------------------------------------+
+|             __                                                     |
+|           /'  |                      Track Four                    |
+|         /'   /'   ___     __                                       |
+|       /__  /____/'   '\_/'  |        Cordoba                       |
+|         /'                 /'                                      |
+|        |                 /'          Spain                         |
+|        `\______________/'                                          |
++--------------------------------------------------------------------+
+
++--------------------------------------------------------------------+
+|                           ___                                      |
+|                         /'   |       Track Five                    |
+|                       /'    /'                                     |
+|                     /'     /         Norwich                       |
+|        ___________/'      /                                        |
+|      /'                  /           England                       |
+|      \__________________/                                          |
++--------------------------------------------------------------------+
+
++--------------------------------------------------------------------+
+|              _______________                                       |
+|            /'               `\       Track Six                     |
+|     _____/'                   |                                    |
+|    /                          |      Falconberg                    |
+|    \_____                     |                                    |
+|          `\                   |      Sweden                        |
+|            `\________________/'                                    |
++--------------------------------------------------------------------+
+
++--------------------------------------------------------------------+
+|            __________________                                      |
+|    ______/'                  `\      Track Seven                   |
+|  /'                    __     |                                    |
+|  \                   /'  `\__/'      Nan Chong                     |
+|  /                  |                                              |
+|  \          _______/'                China                         |
+|   `\______/'                                                       |
++--------------------------------------------------------------------+
+
++--------------------------------------------------------------------+
+|        _______                                                     |
+|      /'       `\                     Track Eight                   |
+|    /__          `\                                                 |
+|       \           `\                 Merikania                     |
+|        \           /                                               |
+|         \        /'                  Finland                       |
+|          \_____/'                                                  |
++--------------------------------------------------------------------+
+
++--------------------------------------------------------------------+
+|            _______       _                                         |
+|          /'       |   _/' |          Track Nine                    |
+|        /'   /\    |_/'   /'                                        |
+|      /'   /'  \        /'            Muang Kham Mouan              |
+|      \__/'    |      /'                                            |
+|               |    /'                Thailand                      |
+|               `\_/'                                                |
++--------------------------------------------------------------------+
+
++------------------------------------------------+
+| LOTUS LICENCE APPLICATION FORM                 |
+|                                                |
+| My computer format is:                         |
+|                                                |
+| The two numbers given on completion of Lotus   |
+| Esprit                                         |
+| Turbo Challenge are:                           |
+|                                                |
+| First Number:                                  |
+|                                                |
+| Second Number:                                 |
+|                                                |
+| PLEASE USE BLOCK CAPITALS FOR THE              |
+| FOLLOWING SECTION                              |
+|                                                |
+|                                                |
+|------------------------------------------------|
+|                                                |
+| Name:__________________________________________|
+|                                                |
+| Address:_______________________________________|
+|                                                |
+|________________________________________________|
+|                                                |
+|________________________________________________|
+| Postcode:                                      |
+|                                                |
+|                                                |
++------------------------------------------------+
+
+Copyright Gremlin Graphics Software Limited 1990
+
+This manual and the information contained on the floppy disks are
+copyrighted by Gremlin Graphics Ltd.  The owner of this product is
+entitled to use the product for his or her own personal use only.  No
+one may transfer, give or sell any part of either the manual or
+information on the disk without the prior permission of Gremlin
+Graphics Software Limited. Any person or persons reproducing any part
+of the program, in any media, for any reason, shall be guilty of
+copyright violation and shall be subject to civil liability at the
+discretion of the copyright holder.
+
+**************
+Document was edited in order to fit Speccy users' needs by 
+Aleksandar (dot) Lukic (at) ev.co.yu 
+All controls, options,... were checked, so have a fun ! ;-) 

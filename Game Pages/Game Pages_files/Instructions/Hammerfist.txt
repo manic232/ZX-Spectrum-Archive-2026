@@ -1,0 +1,262 @@
+HAMMERFIST
+==========
+
+THE REVOLUTION BEGINS
+
+2245AD
+
+The people are no longer free. Their lives and destines are controlled by
+a powerful corporate body, Centro-Holographix, that seizes suitable humans
+for transformation into holographic images, indistinguishable from their
+sold counterparts. Their unknowing minds and holographic bodies are 
+programmed to perform any task the Masters should require.
+
+Two of the deadliest, Hammerfist and Metalisis were ready for assigment;
+to dispense death and destruction under the evil instruction of Centro-
+Holographix. 
+
+They were political puppets, dangerous and skilled murderers who followed
+their binary politics to the letter - their masters didn't even consider
+the possibilities of a malfunction ... especially one that would turn
+Hammerfist and Metalisis against the hand fed them ...
+
+SO BEGINS THE REVOLUTION
+
+- interactive multi-character arcade game
+- fantasy role play features within a true arcade environment
+- challenging and stimulating game play
+- superb graphics
+- manipulate two characters with totally different capabilities
+
+
+START...
+
+INTEL FILE - CODE 12ZA/03/07003
+SUBJECT: OPERATIVE 12004 - CODE NAME HAMMERFiST 
+
+Based on human code no. 34589/AW. genetically suited to physical battle 
+conditions. Proven record in the field in a variety of undercover and 
+aggressive actions against enemy forces. 
+
+3589/AW killed in action in (CENSORED) during (CENSORED) action against 
+(CENSORED) forces. Body recovered. Placed in storage in medical research 
+establishment Record incomplete - body disappeared in 2243. In same year 
+surveillance traffic against corporate giant CENTRO-HOLOGRAPHIX stepped 
+up. No evidence recovered, four state law actions closed through lack of 
+evidence - accusations of bribery and illegal payments to judge and law 
+officer CENTRO-HOLOGRAPHIX cease commercial trading-concentrating on 
+financial support to 5 New Party politicians in world congress Secrecy 
+order code 1243/A254 still operative.
+
+END...
+
+START...
+
+INTEL FILE - CODE 12ZA/08/08A45
+SUBJECT: OPERATIVE 12457 - CODE NAME METALISIS 
+
+Based on human subject AW/867/012 Female of Eastern European origin. 
+Medically proven as Category A fitness and agility. Trained as entertainment 
+professional in state circus. Graduated with Honours from Khirov Military 
+intelligence Academy. Placed in active service in army intelligence - 
+specialist cover agent - International branch.
+
+Lost in action in West Atlantic Countries. Body never recovered, details 
+unavailable. Incomplete. Security Raring: Code 12E31 Highly sensitive. 
+
+END...
+
+SECURITY ACCESS DENIED FURTHER INFORMATION UNAVAILABLE ... REPORT TO INTEL 
+DEPT. HEAD FOR RATING ACCESS NUMBER ... END ...
+LOG OFF...
+
+
+GAMEPLAY
+
+The year is 2215 A.D. Holograms are indistinguishable from Humans. People are 
+selected for their special skills and then transformed into holograms to commit 
+murder, political crimes, or whatever their Master 'Centro-Holographix' orders 
+them to do. In between missions, the holograms are stored in personality 
+computers, or mind prisons. However, the computer storing two of the most 
+powerful holograms ever created. HAMMERFIST and METALISIS, has malfunctioned, 
+sending the two deadly assassins on one final mission - to destroy 
+Centro-Holographix.
+
+You control HAMMERFIST and METALISIS on their mission. You must smash the 
+security systems to gain access to later levels, kill the technicians and 
+droids who try to stop you and collect the energy and weapon energy fizzles 
+which they leave behind. Also, 'plug into' the recharge points to top up on 
+energy in order that you might defeat the 'Octosquab'. the giant ant and the 
+multitude of aliens, both holographic and solid, which the Master will send 
+out to stop you.
+
+
+HINTS AND TIPS
+
+CHOICE OF CHARACTER
+
+You must change between which character you control, depending on the current 
+situation. Use HAMMERFIST when lots of repetitive aliens are on screen. Use 
+METALISIS to reach higher levels of the screen, ledges and table-tops.
+
+WEAPONS
+
+When no weapon is selected. HAMMERFIST uses an ordinary punch. However, provided 
+that the weapon is sufficiently charged, you can use either lasers - long range, 
+more effective than punching but unable to open doors, or piston fist - short 
+range, useful as a shield or for breaking down obstacles and doors. Also, 
+METALISIS' flic-flac can be used as an aggressive manoeuvre as well as for 
+rapid advancing and retreating.
+
+FLIC-FLACS
+
+There are two types of flic-flac which both have their separate uses. The low 
+flic-flac is obtained by holding down the fire button and pushing the joystick 
+up and releasing. However, if the joystick is held in the 'up' position, 
+METALISIS will perform a high flic-flac which is vital for reaching higher 
+portions of the screen.
+
+SECURITY SYSTEMS/DOORS
+
+Most doors are armed with a security system controlled by the Master's computer. 
+This system must be breached to enable the doors to be opened.
+
+ENERGY
+
+Each character has their own energy level. These levels are reduced when the 
+charcter is hit by an alien or their weapon and increased by collecting energy 
+fizzles or by using recharge points built into the background.
+
+ICONS
+
+Destruction of opponents and obstacles release energy fizzles which form into 
+various icons. Picking these up recharges the character and their weapon. If 
+an opponent is killed ineffectively it will leave a question mark. These need 
+to be punched/lasered to turn them into an effective icon.
+
+THE MASTER
+
+The power of the Master of Centro-Holographix will be present throughout 
+the game. It gains strength from uncollected icons. Once his energy bar has 
+risen to full, all energy fizzles dropped will be negative icons. If these 
+icons are collected, your energy level will drop, as will his. if you do not 
+collect them.
+
+
+CONTROLS
+
+All versions of the game can be controlled with a joystick as follows:
+
+
+                          HAMMERFIST
+
+ WITHOUT FIRE BUTTON PRESSED      WITH FIRE BUTTON PRESSED
+
+           CHANGE                          PUNCH
+          CHARACTER                       FIRE UP
+              |                              |   
+              |                              |  
+              |                     PUNCH    |    PUNCH
+      WALK ---*--- WALK              FIRE ---*--- FIRE
+      LEFT    |    RIGHT             LEFT    |    RIGHT
+              |                              | 
+              |                              |  
+            DUCK     	                   PUNCH
+                                         FIRE DOWN
+                         
+
+                          METALISIS
+
+ WITHOUT FIRE BUTTON PRESSED      WITH FIRE BUTTON PRESSED
+
+           CHANGE                          FLIC
+          CHARACTER                        FLAC
+              |                              |   
+              |                              |  
+              |                              |   
+      WALK ---*--- WALK              KICK ---*--- KICK
+      LEFT    |    RIGHT             LEFT    |    RIGHT
+              |                              | 
+              |                              |  
+            DUCK     	                   TURN
+                                          AROUND
+
+Turn into screen:	Press FIRE three times
+
+Headbutt/Open doors:	Whilst facing into screen, hold down FIRE 
+                        and pull down
+
+Step into doors:	Whilst facing into screen, hold down FIRE
+			and push up
+
+Weapon select:		Pull down and press FIRE twice
+
+And/or the following Keyboard Controls
+
+
+Commodore Amiga/Atari ST:
+
+Turn into screen:	Space Bar	
+Weapon select:		F1		No weapon
+			F2		Piston Fist
+			F3		Laser Fist
+Pause:			ESC	
+Start new game:		DEL		while in pause mode
+Music select:		F6		Music on / Select tune
+			F7		Sound Effects on
+			F8		Sound off
+Options set-up:		HELP		while in title sequence
+
+
+Commodore C64:
+
+Turn into screen: 	Space Bar 
+Weapon select:		F3 		No weapon
+			F5 		Piston Fist 
+			F7 		Laser Fist 
+Pause:			RUN/STOP
+Start new game:		Q 		while in pause mode
+Music select:		F1 		toggles between Music on/
+					Sound Effects on/Music off
+
+
+Spectrum:
+
+Turn into screen:	ENTER
+Weapon select:		L toggles between weapons
+Pause:			SYMBOL SHIFT
+Start new game:		CAPS SHIFT while in pause mode
+
+
+Amstrad CPC:
+
+Turn into screen:	RETURN
+Weapon select:		COPY toggles between weapons
+Pause:			ESC
+Start new game:		DEL while in pause mode
+
+
+CREDITS
+
+Games design by:	Vivid Image and Phil Harrison 
+All coding, graphics
+and music by:		Vivid Image Developments Ltd
+Amiga/ST coding by:	Andrew Bond
+C64 coding by:		John Twiddy 
+Spectrum/Amstrad
+coding by:		Steven Dunn
+Konix coding by:	Mev Dine
+All graphics by:	Hugh Riley
+Additional Spectrum
+graphics by:		Gary Thornton
+Additional graphics by:	Dokk
+Amiga/ST/C64 music by:	Wally Beben
+Produced by:		Colin Fuidge
+Tested by:		Dave Cummins
+Instruction Manual by:	Terry Morris
+
+
+A SOFTWARE STUDIOS PRODUCTION
+
+Copyright © 1990 Vivid Image Developments Ltd. 
+All rights reserved.

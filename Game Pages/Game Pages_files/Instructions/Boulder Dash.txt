@@ -1,0 +1,165 @@
+BOULDER DASH
+
+SPECTRUM FUNCTION KEYS
+
+The game automatically starts with the Menu Screen
+Press P to select number of Players and Control Options
+Move joystick to right to select cave
+Move joystick up or down to select difficulty level
+Press Q to restart a Cave
+Press SPACEBAR to pause/resume play
+
+Keyboard controls:
+
+UP	E, O or 7
+DOWN	F, K or 6
+LEFT	M, X or 5
+RIGHT	Symbol Shift, C or 8
+FIRE	N, V, B or 0
+
+PLAYER OPTIONS:
+
+1 or 2 Players can play using 1 or 2 joysticks
+
+GAME OBJECTIVE
+
+The objective of Boulder Dash is to search throughout each CAVE and collect as
+many Jewels in as short a time as possible. Once the indicated amount of Jewels
+have been collected, the door to the mysterious escape tunnel is revealed and
+you go to the next level. Strategy and planning will help you master the
+"physics" of Boulder Dash. Boulders drop predictably enough, but you and
+Rockford also have to block growing Amoebas, transform Butterflies, outmanoeuvre
+Fireflies, and overcome other numerous obstacles. 
+
+CHANCES:
+Each player starts with 3 chances. Bonus tries are awarded after every 500
+points. The tunnels created by Rockford will "shimmer" when you are awarded a
+bonus try. A bonus is also earned by completing a Playable intermission. 
+
+CAVES AND LEVELS:
+There are 16 CAVES, each comprising of several scrolling screens, numbered A to
+P. Each CAVE, has 5 Difficulty Levels. To select a different CAVE, move the
+joystick arm left or right when you are in the menu screen. To select a
+different Difficulty Level, go to the menu screen and move the joystick arm up
+or down. The greater the difficulty the less time you have and the more Jewels
+you have to collect. You may choose CAVE A, E, I or M, on Difficulty Levels 1-3.
+On Difficulty Levels 4 and 5, you must start with CAVE A. After making a
+selection, press the joystick trigger to begin the game.
+
+*A. INTRO. Pick up Jewels and exit before time is up. 
+B. ROOMS. Pick up Jewels, but you must move boulders to get all Jewels. 
+C. MAZE. Pick up Jewels. You must get every Jewel to exit. 
+D. BUTTERFLIES. Drop boulders on Butterflies to create Jewels.
+*E. GUARDS. The Jewels are there for the grabbing, but they are guarded by the
+deadly Fireflies. 
+F. FIREFLY DENS. Each firefly is guarding a Jewel.
+G. AMOEBA. Surround the Amoeba with Boulders, so it can't grow anymore. Pick up
+Jewels that are created when it suffocates. 
+H. ENCHANTED WALL. Activate the Enchanted Wall and create as many Jewels as you
+can.
+*l. GREED. You have to get a lot of Jewels here. Lucky there are so many.
+J. TRACKS. Get the Jewels and avoid the Fireflies.
+K. CROWD. You must move a lot of boulders around in some tight spaces.
+L. WALLS. You must blast through walls to get at some of the Jewels. Drop a
+boulder on a Firefly at the right time and place to do this.
+*M. APOCALYPSE. Bring the Butterflies and Amoeba together and watch the Jewels
+fly.
+N. ZIGZAG. Magically transform the Butterflies into Jewels, but don't waste any
+boulders, and watch out for the Fireflies.
+O. FUNNEL. There is an Enchanted Wall at the bottom of the rock funnel.
+P. ENCHANTED BOXES. The top of each square room is an Enchanted Wall, but you'll
+have to blast your way inside. 
+(* = Selectable) 
+
+SCORING:
+The current point value is shown on the top left of the play screen, to the
+right of the picture of a Jewel. The number of points per Jewel changes. The
+point value is determined by the CAVE, Difficulty Level and bonus status. The
+bonus value occurs after the required number of Jewels have been collected.
+Every 500 points the tunnels sparkle for a moment and you get another Rockford.
+You also score 1 bonus point for each second of time remaining when you exit the
+CAVE. 
+NOTE: During gameplay, the scoring bar located on top or bottom of the screen
+will tell you the current status of play for the particular cave and level of
+difficulty selections as follows:
+
+PLAYABLE INTERMISSIONS:
+There are 4 short interactive puzzles which you are entitled to play after
+completing CAVES D, H, L and P. There is no penalty for not playing, or losing,
+the intermissions. If you complete a Playable Intermission successfully, you
+receive a bonus Rockford.
+
+GAME ELEMENTS:
+
+ROCKFORD. This little fellow is the star of the game! Rockford has the power to
+dig through the earth and collect the jewels found along the way. He can push
+single boulders horizontally if there is nothing to block their path. Rockford
+can stand directly under a boulder without being crushed, but if a boulder or
+Jewel falls on him, you will lose one Rockford. As gameplay begins, you are
+allotted three Rockfords, that is, three chances to rack up points before being
+destroyed, or moving on to another cave, or level of difficulty. If you lose all
+three Rockfords before advancing to the next cave, you will have to start again.
+
+BOULDERS. The rocks will fall whenever gravity dictates. They will fall straight
+down if unsupported, or they will topple off underlying objects if there is
+nothing to block their way. "Experimentation is the best way to learn the
+"physics" of Boulder Dash.
+
+JEWELS. You must collect me required number of gleaming diamonds in order to
+exit one CAVE and advance to the next. There are many ways to create Jewels. For
+example: transforming Butterflies, suffocating Amoebas, or dropping boulders
+through an Enchanted Wall will create additional jewels. When the proper number
+of Jewels have been collected, a flash will let you know that the escape door is
+revealed and open.
+
+FIREFLIES. Beware the deadly Fireflies; they will explode on contact with
+Rockford. (Helpful hint...their behaviour is predictable as they only move along
+the edges of the exposed areas). Try turning the tables by dropping boulders on
+them, which causes them to blow up. (This comes in handy when you want to
+demolish a wall in order to get some Jewels).
+
+BUTTERFLIES. The colourful Butterflies behave much like Fireflies. However, they
+fly in the opposite direction of the Fireflies, and they turn into Jewels when
+they explode.
+
+AMOEBA. The Amoeba is a green blob that bubbles and grows through earth and air.
+Fireflies and Butterflies will explode on contact with the Amoeba. When Rockford
+surrounds the Amoeba with rocks, it runs out of growing space, suffocates and
+turns into Jewels.  However, if the Amoeba grows too large (about 200 squares
+big) it will die and turn into boulders.
+
+ENCHANTED WALL. The Enchanted Wall looks like any other wall; however, when hit
+by a falling boulder it begins to vibrate for a limited time. During this
+period, any boulders that drop through it are magically turned to Jewels, but
+only if there is empty space below the wall. It will also turn Jewels into
+boulders if they drop through it. Once the enchantment phase is complete, it
+cannot be reactivated in the same round.
+
+TITANIUM WALL. The exterior wall is an indestructible boundary to play action.
+Rockford can only exit to the next CAVE through the escape door.
+
+ESCAPE DOOR. Initially the Escape Door looks like a portion of the Titanium
+Wall. After Rockford has collected the required amount of Jewels, it is
+activated and begins to flash. At this point the mysterious escape door is
+revealed and you may exit, providing time doesn't run out.
+
+TIME Each CAVE is timed. When time is running out a warning sound will occur.
+
+
+STRATEGY/TIPS:
+
+ROCKFORD. Rockford can affect an object that is next to him without moving into
+it. Keep the joystick button depressed and move the joystick in the direction of
+the object or earth you wish to affect. Rockford will not move, but the object
+will react. 
+
+BOULDERS. You will often find yourself digging or moving downwards only to find
+that a boulder has been toppled by your movement and is about to land on you.
+The only way to avoid losing your man in these situations is to move quickly to
+the right or left, out of the boulder's way. Rockford runs as fast as a boulder
+falls, so it will never catch up with you, unless you hesitate or stop. EXIT.
+When Rockford has collected the required amount of Jewels for the CAVE he is in,
+the Exit is revealed. At this time you should decide whether to go for bonus
+Jewels (at a higher value) or to exit for the time bonus points (1 for each
+second remaining). Make sure you know the location of the escape door and that
+you can get to it before time runs out.

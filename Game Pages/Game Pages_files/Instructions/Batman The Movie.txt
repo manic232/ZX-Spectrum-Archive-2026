@@ -1,0 +1,1433 @@
+======
+Batman
+======
+Document created by rstuart@ukonline.co.uk for
+World of Spectrum: http://www.void.demon.nl/spectrum.html
+
+INLAY CONTENTS
+
+BATMAN is a shadow in the darkness, as elusive as a dream. High above the
+seamy streets of GOTHAM, he is a criminal's nightmare. The only hope for a
+desperate city...
+
+BATMAN - A LEGEND HAS RETURNED
+
+BATMAN est l'ombre de la nuit, insaisissamble comme un rêve. Au dessus des
+rues mal famées de GOTHAM, il est le cauchemar de tout criminel. Le seul 
+espoir pour une ville désespérément perdue - BATMAN. LA LÉGENDE EST DE
+RETOUR.
+
+BATMAN ist ein Schatten in der Nacht, schemenhaft wie ein Traum. Hoch über
+den dunklen Straßen von GOTHAM ist er der Alptraum aller Verbrecher. Die
+einzige Hoffnung einer verzweifelten Stadt - BATMAN. EINE LEGENDE IST
+ZURÜCKGEKEHRT.
+
+ENGLISH FRANÇAIS DEUTSCH ITALIANO:
+
+BATMAN™ - A LEGEND HAS RETURNED
+===============================
+BRUCE WAYNE™. The multi-millionairre head of the Wayne Foundation is an
+unassuming, quiet type of guy. However, when night falls and evil stalks the
+streets, he sheds his daytime persona and becomes the masked vigilante of
+GOTHAM CITY™ - BATMAN!
+Crusading against crime from the rooftops of the sickened city, his objective
+becomes the elimination of Gus Grissom's criminal empire: in particular, the
+conquest of JACK NAPIER™, the psychotic second-in-command.
+Napier was the most cunnning and sadistic force in Gotham anyway, but when
+an accident befell him, twisting him both physically and mentally, he bacame
+the ultimate criminal - THE JOKER!™
+You control the CAPED CRUSADER™ in five different scenarios as he is pitted
+against his malevolent nemesis in the life or death struggles that ensue.
+THE ULTIMATE MOVIE INSPIRES THE ULTIMATE GAME...PLAY BATMAN.
+
+COMMODORE
+=========
+
+LOADING
+-------
+Position the cassette in your Commodore recorder with the printed side
+upwards and make sure that it is rewound to the beginning. Ensure that all
+the leads are connected. Press the SHIFT key and the RUN/STOP keys
+simultaneously. Follow the screen instruction - PRESS PLAY ON TAPE. This
+program will then load automatically. For C128 loading type GO 64 (RETURN),
+then follow C64 instructions.
+
+DISK
+Select 64 mode. Turn on the disk drive insert the program into the drive
+with the label facing upwards type LOAD "*",8,1 (RETURN) the introductory
+screen will appear and the program will then load automatically.
+The game is multiloaded. When you die or finish the game please rewind tape
+to the beginning of Side B.
+Follow on Screen instructions.
+
+CONTROLS
+--------
+THE GAME IS CONTROLLED BY JOYSTICK ONLY
+KEYBOARD
+F1 = MUSIC ON
+F3 = SOUND EFFECTS ONLY
+F5 = PAUSE ON
+F7 = PAUSE OFF
+RUN/STOP = ABORT GAME
+
+SPECTRUM
+========
+
+LOADING
+-------
+1. Place the cassette in your recorder ensuring that it is fully rewound.
+2. Ensure that the MIC socket is disconnected and that the volume and tone
+   controls are set to the appropriate levels.
+3. If the computer is a Spectrum 48K or Spectrum+ Type LOAD""(ENTER). (Note
+   there is no spacing between the two quotes). The " is obtained by pressing
+   the SYMBOL SHIFT and P keys simultaneously.
+4. Press PLAY on your recorder and the game will load automatically. If you
+   have any problems try adjusting the volume and tone control and consulting
+   Chapter 6 of the Spectrum manual.
+5. If the computer is a Spectrum 128K then follow the loading instructions
+   on-screen or in the accompanying manual.
+
++3 DISK
+Set up system and switch on as described in your instructions manual. Insert
+disk and press ENTER to choose 'LOADER' option. This program will then load
+automatically.
+
+NOTE:
+-----
+128k: One Load
+48k: Three Loads - On the 48k Spectrum this game loads in 3 parts. When each
+part has finished loading, stop the tape so the next part can be Loaded when
+you are ready.
+
+AMSTRAD
+=======
+
+LOADING
+-------
+CPC 464
+Place the rewound cassette in the cassette deck, type RUN" and then press
+ENTER key. Follow the instructions as they appear on screen. If there is a
+disk drive attached then type | TAPE then press ENTER key. Then type RUN" and
+press ENTER key.
+(The | symbol is obtained by holding shift and pressing the @ key).
+
+CPC664 + 6128
+Connect a suitable cassette tape recorder ensuring that the correct leads are
+attached as defined in the User Instruction Booklet. Place the rewound tape
+in the cassette recorder and type | TAPE then press RETURN key. Then type
+RUN" and press RETURN key and follow the instructions as they appear on
+screen.
+
+DISK - CPC 464
+Insert the program disk into the drive with the A side facing upward. Type |
+DISC and press ENTER to make sure the machine can access the disk drive.
+Now type RUN" DISC and press ENTER. The game will now load automatically.
+
+DISK - CPC664 6128
+Insert the program disk into the drive with the A side facing upward. Type |
+DISC and press RETURN to make sure the machine can access the disk drive.
+Now type RUN" DISC and press RETURN. The game will now load automatically.
+
+NOTE: This is a multi-load game, follow on screen instructions.
+
+The game is controlled by either joystick or keyboard.
+The keyboard is redefinable.
+PRE-SET KEYS
+Q = UP
+A = DOWN
+K = LEFT
+L = RIGHT
+SPACE = FIRE
+S = PAUSE
+
+JOYSTICK - ALL FORMATS
+SECTION 1 AND 5
+
+         CLIMB UP
+            |
+            |
+  LEFT -----+----- RIGHT
+            |
+            |
+     CROUCH CLIMB DOWN
+
+FIRE - THROW BATARANG™
+
+WITH FIRE BUTTON PRESSED
+
+                       A    B    C
+                        \   |   /
+                          \ | /
+THROW BATARANG LEFT  -------+--------  THROW BATARANG RIGHT
+                            |
+                            |
+                 JUMP DOWN TO NEXT LEVEL
+
+A = FIRE ROPE UP - LEFT
+B = FIRE ROPE UP
+C = FIRE ROPE UP - RIGHT
+
+SECTION 2 - BATMOBILE™
+Joystick moves BATMOBILE in corresponding directions.
+
+           UP
+            |
+            |
+  LEFT -----+----- RIGHT
+            |
+            |
+          DOWN
+
+FIRE - Fire 'batrope' up. If the BATMOBILE is going past a lamp post then the
+rope will wrap around it and the MATMOBILE will swing round the corner.
+FIRE AND UP - If the BATMOBILE is near a corner then it will swing round the
+corner without using the 'batrope'.
+NOTE: Using the 'batrope' to turn a corner is the quickest.
+The BATMOBILE will only turn a corner if it is near one.
+SPECTRUM AND AMSTRAD USERS PLEASE NOTE
+IF THE BATMOBILE GOES PAST A CORNER YOU MAY TURN ROUND BY PRESSING FIRE AND
+LEFT.
+
+SECTION 3 - BATCAVE™ CHEMICAL ANALYSIS
+Move the joystick left or right to select a cosmetic and press fire to enter
+it into the combination.
+
+            |
+  LEFT -----+----- RIGHT
+            |
+
+SECTION 4 - BATWING™
+
+                    MOVE BATWING LEFT
+                            |
+                            |
+MOVE BATWING BACKWARDS -----+----- MOVE BATWING FORWARDS
+                            |
+                            |
+                    MOVE BATWING RIGHT
+
+STATUS AND SCORING
+==================
+The panel shows present score, lives, time and BATMAN'S energy. BATMAN's face
+represents full energy. THE JOKER's face represents no energy. When 
+THE JOKER's face is fully visible then BATMAN will lose a life. If time runs
+out on any level BATMAN will lose a life.
+A bonus will be awarded for completing each level.
+The score is achieved on each level as follows:-
+
+LEVELS 1 AND 5
+SHOOTING THE JOKER'S HENCHMEN
+SHOOTING JACK NAPIER (LEVEL 1)
+SHOOTING THE JOKER (LEVEL 5)
+
+LEVEL 2
+Points are scored by progressing further along the road. A bonus is awarded
+on reaching the BATCAVE based on the amount of time remaining.
+
+LEVEL 3
+The score is based on the amount of time taken to find the correct
+combination.
+
+LEVEL 4
+Points are awarded for every balloon you cut free.
+
+ENERGY IS REDUCED AS FOLLOWS:-
+
+LEVELS 1 AND 5
+Running into policemen or THE JOKER's henchmen. Standing under acid drops or
+in the way or bursts of gas from pipes. Falling down too far. Swinging on the
+rope into a wall. Being hit by bullets and grenades. Walking on spiked
+floors.
+
+LEVEL 2
+Hitting other cars
+
+LEVEL 4
+Hitting balloons instead of cutting ropes. Allowing balloons to burst before
+you cut the ropes.
+
+GAMEPLAY
+========
+Section 1 - Axis Chemical Plant
+As BRUCE WAYNE you overhear Commissioner Gordon telling the Mayor of an
+attack on the Axis Chemical Plant by JACK NAPIER and his henchmen. Acting
+swiftly, you don your black costume and make your way to the scene. Once
+inside the factory, you must move towards the exit (and Napier) on the far
+right of the map. You will meet assorted criminals along the way, some of
+whom will attack you physically, some will shoot at you and some will throw
+grenades. Avoid, also, leaking chemical droplets and gas bursts at various
+points on your route.
+You can sustain a limited amount of hits as your body armour affords a
+certain degree of protection, but your energy can get depleted quite rapidly
+if you do not try to defend yourself.
+Use the BATARANG to throw at your attackers, and your 'batrope' to access
+levels above, by shooting a grapnel device from your belt and reeling
+yourself up.
+On the final screen of this level, you will confront Napier himself. If you
+defeat him, he will fall into a vat of toxic chemical waste which will
+disfigure his appearance and mind. You have created the Joker!
+
+Section 2 - The Streets of GOTHAM CITY (1)
+Having rescues Vicky Vale from the clutches of THE JOKER in the Flugelheim
+Museum, you must make good your escape in the BATMOBILE.
+Racing at high speed through the streets of GOTHAM CITY, you must avoid both
+THE JOKER'S vehicles and the police who have set up road blocks, as they are
+still unsure which side of the law you are on.
+Your BATMOBILE is equipped with a sophisticated radar which will indicate the
+direction you must follow in order to escape safely. If you do not maintain a
+high speed THE JOKER will catch you up and inflict damage upon the BATMOBILE
+as will any collisions with other cars.
+The BATMOBILE is also equipped with a rope and grapnel. If, whilst travelling
+at high speeds, you wish to make a fast turn, shoot the grapnel out at a
+lamppost on the street corner: if timed correctly, this will enable you to
+make the turn without speed loss.
+
+Section 3 - The BATCAVE
+The JOKER has invented a compound "Smilex" which, on contact, will kill its
+victims, leaving a deathly rictus grin on their faces. The JOKER has 'spiked'
+certain everyday consumables with elements from this compound which, when
+mixed together, forms Smilex.
+Using the powerful computer in your BATCAVE, you must, in the time given,
+ascertain which three objects contain those elements. As you select any
+three, the display will indicate how many of those you have chosen correctly.
+You must, by process of elimination select the exact trio of elements before
+the time runs out.
+
+Section 4 - The Streets of GOTHAM CITY (2)
+THE JOKER'S deadliest scheme is now taking place at midnight on the Streets
+of GOTHAM CITY. By promising massive handouts of money to the people of
+Gotham, the streets are packed with masses of unsuspecting citizens.
+However, all is not as it seems, for the carnival-type parade contains a
+sinister secret.
+Inside the dozens of bright balloons is enough Smilex gas to kill the entire
+population of GOTHAM CITY. These balloons are about to be leaked...
+You are piloting the BATWING and must cut through the mooring ropes of the
+balloons with the wings of the flying craft. If you miss any of them, they
+will self-destruct, sending clouds of gas into the crowd, similarly if you
+miss the rope and hit the balloon itself, the same will occur. If, however,
+you slice the rope, the balloon will float harmlessly away where the gas
+will dissipate into the atmosphere.
+Eventually, as THE JOKER learns of your interference, he will send some of
+his helicopters in to thwart you. Avoid these at all costs.
+
+Section 5 - The Cathedral
+Pursuing THE JOKER to Gotham Cathedral, you must negotiate the crumbling
+floors and avoid the rabid rats in order to confront, finally, THE JOKER on
+the roof. As in the Chemical Factory, you must use your BATARANG and
+'Batrope' to achieve this aim.
+On the rooftop, you must defeat THE JOKER, or he will make his escape by
+helicopter and bring GOTHAM CITY to its knees.
+
+HINTS AND TIPS
+==============
+
+LEVELS 1 AND 5
+Master control of the 'batrope'. Work out a quick route to the end. Shoot on
+sight.
+
+LEVEL 2
+Don't bump into other cars. Be as quick as possible. When the arrow indicates
+a turn is ahead try and move to the side of the road.
+
+LEVEL 3
+Use your brain. Be quick (you've only got one minute).
+
+LEVEL 4
+Cut ropes cleanly. Don't hit the balloons.
+
+BATMAN™
+=======
+Its program code, graphic representation and artwork are copyright of Ocean
+Software limited. THIS SOFTWARE PRODUCT HAS BEEN CAREFULLY DEVELOPED AND
+MANUFACTURED TO THE HIGHEST QUALITY STANDARDS. PLEASE READ CAREFULLY THE
+INSTRUCTIONS FOR LOADING. Ocean Software Limited, 6 Central Street,
+Manchester M2 5NS.
+
+CREDITS
+=======
+
+COMMODORE
+Programmer - Zach Townsend
+Graphics by Andrew Sleigh
+
+SPECTRUM AND AMSTRAD
+Programming by Mike Lamb
+Graphics by Dawn Drake
+Music and sound effects by Matther Cannon
+
+SPECTRUM, AMSTRAD and COMMODORE
+TM & © 1989 DC COMICS INC. © 1989 Ocean Software Limited
+BATMAN, THE JOKER and all related characters, slogans and indicia are
+trademarks of DC COMICS INC.
+
+BATMAN™ - LA LEGENDE EST DE RETOUR
+==================================
+BRUCE WAYNE™, le directeur multi-millionnaire de la Foundation Wayne est un
+type plutôt tranquille et modeste. Mais quand la nuit tombre et que les rues
+deviennent mal-famées, il abandonne son personage de jour et devient le
+gardien masqué de GOTHAM CITY™ - BATMAN.
+Des toîts de cette ville opprimée, il part en croisade contre le crime et se
+fixe pour objectif l'élimination de l'empire du crime de Gus Grissom et plus
+spécialement la défaite de JACK NAPIER™, le commandant en second psychotique.
+Napier représentait de toute façon la force la plus sournoise et sadique de
+Gotham, mais quand un accident le frappa, le déformant à la fois sur le plan
+physique et moral, il devint le pire des criminels - le JOKER™!
+Vous contrôlez le CAPED CRUSADER™ dans 5 scénarios différents dans lesquels
+il affronte ses ennemis malveillants dans le combat à la vie à la mort qui
+s'en suit.
+ET VOICI POUR VOUS LE DERNIER JEU INSPIRE DE TOUT DERNIER FILM... VOICI
+BATMAN.
+
+COMMODORE
+=========
+CHARGEMENT
+----------
+Placez la cassette dans votre magnétophone Commodore, coté imprimé vers la
+haut et vérifiez qu'elle est complètement rembobinée. Assurez-vous que tous
+les fils sont connectés. Appuyez simultanément sur la touche SHIFT et sur la
+touche RUN/STOP. Suivez les instructions affichées à l'écran - APPUYEZ SUR
+PLAY SUR LE MAGNETOPHONE. Ce programme se chargera automatiquement. Pour le
+chargement du C128, tapez GO 64 (RETURN), puis suivez les instructions du
+C64.
+
+DISQUETTE
+Sélectionnez mode 64. Mettez le lecteur de disquette sur la position marche.
+Placez le programme dans le lecteur, label vers le haut, tapez LOAD "*",8,1
+(RETURN), l'écran d'introduction apparaîtra et le jeu se chargera
+automatiquement.
+Le chargement s'effectue en un certain nombre de parties, suivez les
+instructions à l'écran.
+
+COMMANDES
+---------
+LE JEU SE JOUE A L'AIDE DU LEVIER UNIQUEMENT CLAVIER
+F1 = MUSIQUE
+F3 = EFFETS SONORES SEULEMENT
+F5 = PAUSE
+F7 = REPRISE
+RUN/STOP = ABANDON DU JEU
+
+AMSTRAD
+=======
+
+CHARGEMENT
+Cassette - CPC 464
+Placez la cassette rembobinée dans le magnétophone, tapez RUN" et appuyez
+ensuite sur la touche ENTER/RETURN. Suivez les instructions à mesure qu'elles
+apparaissent sur l'écran. Si votre équipement comprend un lecteur de
+disquette, tapez | TAPE puis appuyez sur la touche ENTER/RETURN. Ensuite,
+tapez RUN" puis appuyez sur la touche ENTER/RETURN.
+(On obtient le symbole | en maintenant la touche shift et en appuyant sur la
+touche Ñ).
+
+Cassette - CPC 664 et 6128
+Connectez un magnétophone à cassette adapté en vous assurant que les bons
+fils sont raccordés comme indiqué dans le Manuel d'Instruction de
+l'Utilisateur. Placez la cassette rembobinée dans le magnétophone et tapez
+| TAPE puis appuyez sur la touche ENTER/RETURN. Tapez ensuite RUN", puis
+appuyez sur la touche ENTER/RETURN et suivez les instructions telles qu'elles
+apparaissent sur l'écran.
+
+DISQUETTE - CPC 464
+Placez la disquette du programme dans le lecteur, face A vers le haut. Tapez
+| DISK et appuyez sur ENTER/RETURN afin de vous assurer que la machine peut
+avoir accès au lecteur. Maintenant tapez RUN"DISC et appuyez sur
+ENTER/RETURN, le jeu se chargera automatiquement.
+
+DISQUETTE CPC664 et 6128
+Placez la disquette du programme dans le lecteur, face A vers le haut. Tapez
+| DISK et appuyez sur ENTER/RETURN afin de vous assurer que la machine peut
+avoir accès au lecteur. Maintenant tapez RUN"DISC et appuyez sur
+ENTER/RETURN, le jeu se chargera automatiquement.
+ATTENTION - le chargement de ce jeu s'effectue en un certain nombre de
+parties, suivez les instructions à l'écran.
+Le jeu se joue avec le levier ou le clavier.
+Le clavier peut être redefini.
+TOUCHES PRE-DEFINIES
+Q = HAUT
+A = BAS
+K = GAUCHE
+L = DROITE
+BARRE D'ESPACEMENT = FEU
+S = PAUSE
+
+LEVIER - TOUS FORMATS
+SECTION 1 ET 5
+
+        ASCENSION
+            |
+            |
+GAUCHE -----+----- DROITE
+            |
+            |
+ACCROUPISSEMENT/DESCENTE
+
+FEU - LANCE BATARANG™
+
+AVEC BOUTON FEU ENFORCE
+
+                           A    B    C
+                            \   |   /
+                              \ | /
+LANCE BATARANG™ A GAUCHE -------+--------  LANCE BATARANG™ A DROITE
+                                |
+                                |
+               DESCENTE EN SAUTANT AU NIVEAU SUIVANT
+
+A = LANCE CORDE VERS LE HAUT - GAUCHE
+B = LANCE CORDE VERS LE HAUT
+C = LANCE CORDE VERS LE HAUT - DROITE
+
+SECTION 2 - BATMOBILE™
+Le Levier déplace la BATMOBILE dans les directions correspondantes.
+
+          HAUT
+            |
+            |
+GAUCHE -----+----- DROITE
+            |
+            |
+           BAS
+
+FEU - lance BATCORDE vers le haut. Si la BATMOBILE passe près d'un
+lampadaire, la corde s'enroulera author de celui-ci et la BATMOBILE prendra
+le virage au coin de la rue.
+FEU ET HAUT - Si la BATMOBILE se trouve près d'un tournant, elle tournera
+sans utiliser la BATCORDE.
+ATTENTION: l'utilisation de la BATCORDE permet de prendre le virage plus
+rapidement.
+La BATMOBILE ne prendra le virage que si elle se trouve près de celui-ci.
+UTILISATEURS SPECTRUM ET AMSTRAD: SI LA BATMOBILE DEPASSE UN VIRAGE, VOUS
+POUVEZ REVENIR EN APPUYANT SUR FEU ET GAUCHE.
+
+SECTION 3 - ANALYSE CHEMIQUE DE LA BATCAVE™
+Pour sélectionner un produit cosmétique, déplacer le vers la gauche ou la
+droite et appuyer sur feu pour le faire anter dans la combinaison.
+
+            |
+GAUCHE -----+----- DROITE
+            |
+
+SECTION 4 - BATWING™
+
+                           DEPLACE BATWING VERS
+                                    |
+                                    |
+DEPLACE BATWING VERS L'ARRIERE -----+----- DEPLACE BATWING VERS L'AVANT
+                                    |
+                                    |
+                      DEPLACE BATWING VERS LA DROITE
+
+STATUS ET SCORE
+===============
+Le panneau indique le score du moment, les vies, le temps et le niveau
+d'énergie de BATMAN. le visage de BATMAN représente le plein d'énergie, le
+visage du JOKER représente l'absence d'énergie. Quand le visage du JOKER
+est entièrement visible, BATMAN perd une vie. S'il se trouve à cours de temps
+à un niveau quelconque, BATMAN perdra aussi une vie.
+Un bonus est accordé chaque fois que l'on termine un niveau. On obtient le
+score à chaque niveau de la façon suivante:-
+ELIMINATION DE l'ACOLYTE DU JOKER
+ELIMINATION DE JACK NAPIER (NIVEAU 1)
+ELIMINATION DU JOKER (NIVEAU 5)
+NIVEAU 2
+Les points sont obtenus et progressant sur la route. Quand on atteint la
+BATCAVE, on obtient un bonus basé sur la quantité de temps resante.
+
+NIVEAU 3
+Le score est basé sur la quantité de temps employée pour trouver la
+combinaison correcte.
+
+NIVEAU 4
+Chaque ballon libéré vous permet d'obtenir des points.
+L'ENERGIE EST REDUITE DE LA FAÇON SUIVANTE:-
+
+NIVEAU 1 et 5
+En tombant sur un policier ou sur l'acolyte du JOKER.
+En vous trouvant sous des gouttes d'acide ou pris dans des bouffées de gaz
+s'échappant de tuyaux.
+En tombant trop bas.
+En rentrant dans un mur quand vous vous balancez au bout de la corde.
+En étant touché par des balles ou des grenades.
+En marchant sur des terrains garnis de pointes.
+
+NIVEAU 2
+En heurtant d'autres voitures.
+
+NIVEAU 4
+En touchant les ballons au lieu de couper les cordes.
+En laissant les ballons éclater avent que vous n'avez coupé les cordes.
+
+LE JEU
+======
+Section 1 - Usine Chamique de l'Axe
+Etant BRUCE WAYNE, vous entendez Gordon parler au Maire de JACK
+NAPIER et de son acolyte attaquant l'Usine Chimique de l'Axe. Passant
+rapidement à l'action, vous enfilez votre costume noir et vous allez sur les
+lieux de l'action. Une fois à l'intérieur de l'usine, vous devrez vous 
+diriger vers la sortie (et Napier) tout à droite de la carte. Sur votre
+chemin, vous serez confronté à toutes sortes de criminels; certains vous
+attaqueront physiquement, certains vous tireront dessus et d'autres vous
+enverront des grenades. Essayez aussi d'éviter les gouttes chimiques et les
+bouffées de gaz que vous trouverez à différents endroits sur votre route.
+Vous pouvez tolérer un nombre de coups limité car l'armure de votre corps
+vous donne un certain degré de protection, mais votre énergie peut diminuer
+rapidement si vous n'essayez pas de vous défendre vous-même.
+Lances le BATARANG sur vos attaquants et utilisez la batcorde pour atteindre
+les niveaux supérieurs en jetant un grappin et en vous hissant le long de la
+corde.
+Sur l'écran final de ce niveau, vous affronterez Napier lui-même. Si vous le
+battez, il tombera dans un fût de déchets chimiques toxiques qui
+transformeront son apparence et son esprit. Vous venez de créer le Joker!
+
+Section 2 - les Rues de GOTHAM CITY (1)
+Aprè avoir sauvé Vicky Vale des griffes du JOKER dans le Flugelheim Museum,
+vous devez réussir à vous échapper dans la BATMOBILE. En parcourant à une
+vitesse folle les rues de GOTHAM CITY, vous devez à la fois éviter les
+véhicules du JOKER et la police qui a éstabli des barrages car ils ne sevent
+pas encore vraiment de quel coté de la loi vous vous trouvez. Votre BATMOBILE
+est équipée d'un radar très perfectionné qui vous indique la direction à
+suivre afin de vous échapper de façon sûre. Si vous ne gardez pas une vitesse
+élevée, le JOKER vous rattrapera et endommagera votre BATMOBILE comme le
+fera d'ailleurs n'importe quelle collision avec d'autres voitures.
+La BATMOBILE est aussi munie d'une corde et d'un grappin. Si vous sochaitez
+effectuer un virage rapide quand vous roulez à grande vitesse, lancez le
+grappin sur un lampadaire au coin de la rue; si vous le faites au bon moment,
+cela vous permettra de prendre le tournant sans perdre de vitesse.
+
+Section 4 - les Rues de GOTHAM CITY (2)
+Un des plans les plus terribles du JOKER est maintenant en train de se
+dérouler à minuit dans les Rues de GOTHAM CITY. En promettant d'énormes
+sommes d'argent aux habitants de Gotham, les rues se sont remplies de masses
+de gens insouspçonneux. Mais les apparences sont trompeuses car, derrière la
+parade qui ressemble à celle d'un carnaval, se cache un sinistre secret.
+A l'intérieur des douzaines de ballons colorés, il y a suffisamment de gaz
+Smilex pour tuer la population entière de GOTHAM CITY. Ces ballons sont sur
+le point d'être lâchés...
+Vous pilotez le BATWING et vous devez couper les cordes retenant les ballons
+avec les ailes de l'engin volant. Si vous ratez l'un d'entre eux, ils
+s'autodétruiront en envoyant des nuages de gaz sur la foule; il en sera de
+même si vous ratez la corde et touchez le ballon lui-même. Par contre si vous
+tranchez la corde, le ballon s'envolera sans danger et le gaz se dissipera
+dans l'atmosphère. Enfin, quand le JOKER se rendra compte de votre
+intervention, il enverra certains de ses hélicoptères pour la fáire échouer.
+Vous devez absolument les éviter.
+
+Section 5 - la Cathédrale
+En poursuivant le JOKER dans la Cathédrale de Gotham, vous devez vous frayer
+un chemin sur les planchers qui s'effondrent et éviter les rats enragés afin
+de pouvoir enfin affronter le JOKER sur le toît. Comme dans l'Usine Chemique,
+il vous faut utiliser votre BATARANG et la 'batrope' pour y parvenir. Sur le
+toît, vous devez triompher du Joker ou bien il s'échappera en hélicoptère et
+asservira GOTHAM CITY.
+
+CONSEILS UTILES
+===============
+
+NIVEAUX 1 ET 5
+Apprenez à maîtriser le maniement de la batcorde.
+Trouvez un itinéraire rapide vers la fin.
+Tirez à vue.
+
+NIVEAU 2
+N'entrez pas en collision avec d'autres voitures.
+Soyez aussi rapide que possible.
+Quand une flèche indique que vous arrivez à un tournant, essayez de vous
+placer sur le coté de la route.
+
+NIVEAU 3
+Utilisez vos méninges.
+Soyez rapide (vous n'avez qu'une minute).
+
+NIVEAU 4
+Coupez les cordes de façon nette.
+Ne touchez pas les ballons.
+
+GENERIQUE
+=========
+
+COMMODORE
+Programmateur - Zach Townsend
+Graphique de Andrew Sleigh
+
+SPECTRUM ET AMSTRAD
+Programme de Mike Lamb
+Graphique de Dawn Drake
+Musique et effets spéciaux de Matthew Cannon
+
+SPECTRUM, AMSTRAD et COMMODORE
+TM & © DC COMICS INC. Tous droites réservés.
+©1989 Ocean Software Limited
+BATMAN, le JOKER et tous les personnages, slogans et insignes s'y rattachant
+sont des marques déposées de DC COMICS INC. Tous droits réservés.
+
+BATMAN™ - EINE LEGENDE IST ZURÜCKGEKEHRT
+========================================
+BRUCE WAYNE™, der Multimillionär und Gründer der Wayne Stiftung ist ein
+bescheidener, stiller Mensch. Doch bricht die Nacht herein und das Böse
+beherrscht dir Straßen, legt er seine normale ldentität ab und wird zum
+maskierten Wächter von GOTHAM CITY™: BATMAN.
+In seinem Kampf gegen die Unterwelt der angeschlagenen Stadt ist sein
+vorrangiges Ziel, das kriminelle lmperium des Gus Grissom zu zerschlagen.
+Dafür muß er JACK NAPIER™ besiegen, den psychotischen zweiten Mann des
+Imperiums.
+Napier war schon immer die verschlagenste und saditsischte Person in
+Gotham. Aber nach einem Unfall, bei dem er schwere körperliche und geistige
+Schäden davontrug, wurde er zum absoluten Verbrecher - dem JOKER™! Sie
+steuern den maskierten Wächter durch fünf verschiedenen Szenarios, in denen
+er seinen schlimmsten Feinden in einem Kampf um leben und Tod widerstehen
+muß.
+DAS ABSOLUT SPIEL ZUM ABSOLUTEN FILM...SPIEL ES...BATMAN
+
+COMMODORE
+=========
+LADEANWEISUNGEN
+---------------
+Legen Sie die Kassette mit der bedruckten Seite nach oben in lhren Commodore
+Kassetten Recorder ein und spulen Sie des Band zurück bis an den Anfang.
+Kontrollieren Sie die Verbindungskabel zum Computer. Drücken Sie die Tasten
+SHIFT und RUN/STOP gleichzeitig. Aug dem Bildschirm erscheint PRESS PLAY ON
+TAPE. Drücken Sie die Taste PLAY am Recorder. Das Programm wird nun
+automatisch gelden und gestartet. Beim C128 geben Sie GO64 (RETURN) ein
+und befolgen dann der C64 Anieitung.
+
+Diskette
+Schalten Sie in der 64er Modus. legen Sie die Programmdiskette mit dem
+Aufkleber nach oben in das laufwerk ein. Geben Sie ein IOAD "*",8,1 (RETURN).
+Der Titelbildschrim erscheint und das Spiel wird automatisch gestertet.
+Es werden mehrere Teile gelden. Wenn Sie ausscheiden oder das Ziel
+erreichen, spulen Sie das Band zum Anfang der zweiten Seite befolgen die
+Anweisungen auf dem Bildschirm.
+
+Steuerung
+Das Spiel wird mit einem Joystick gespielt.
+BEFEHLSTASTEN
+F1 = Musik an
+F3 = Nur Geräusche
+F5 = Pause
+F7 = Weiterspielen
+RUN/STOP = Spiel abbrechen
+
+AMSTRAD CPC
+===========
+
+LADEANWEISUNGEN
+---------------
+CPC 464
+Legen Sie die Kassette mit der bedruckten Seite nach oben in lhren Kassetten
+Recorder ein und spulen Sie das Band zurück bis an den Anfang. Tippen Sie
+RUN" und drücken Sie die Taste ENTER. Befolgen Sie die Anweisungen auf dem
+Bildschrim. Ist ein Diskettenlaufwerk angeschlossen, tippen Sie |TAPE und
+drücken die Taste ENTER. Dann tippen Sie RUN" und drücken die Taste ENTER.
+(Das Zeichen | erhalten Sie durch gleichzeitiges Drücken der Tasten SHIFT
+und @.
+
+CPC 664 und 6128
+Schließen Sie einen geeigneten Kassettenrecorder an, wobei Sie darauf
+achten müssen, daß die Anschlüsse korrekt hergestellt sind, wie im
+Benutzerhandbuch beschrieben. Iegen Sie die zurückgespulte Kassette ein,
+tippen Sie |TAPE und drücken anschließend die ENTER-Taste. Danach geben Sie
+RUN" ein und drücken die ENTER-Taste erneut. Befolgen Sie die nun
+erscheinenden Bildschirmanweisungen.
+
+CPC 464 DISKETTE
+Legen Sie die Programmdiskette mit der Seite A nach oben in das Laufwerk.
+Tippen Sie |DISC und drücken Sie die ENTER-Taste, damit der Rachner auf das
+Diskettenlaufwerk zugreifen kann. Danach geben Sie RUN"DISC ein und drücken
+die ENTER-Taste zum Abschluß. Das Spiel wird nun automatisch geladen.
+
+CPC 664 und 6128 DISKETTE
+Legen Sie die Programmdiskette mit der Seite A nach oben in das Laufwerk.
+Tippen Sie |DISC und drücken Sie die ENTER-Taste, damit der Rachner auf das
+Diskettenlaufwerk zugreifen kann. Danach geben Sie RUN"DISC ein und drücken
+die ENTER-Taste. Abschnitt Eins wird nun automatisch geladen.
+HINWEIS: Das Spiel lädt mehrere Teile nach - bitte beachten Sie die
+Anweisungen auf dem Bildschirm.
+
+STEUERUNG
+=========
+Sie steuern das Spiel entweder mit einem Joystick oder über die Tastatur.
+Die Tastaturbelegung können Sie verändern. Voreingestellte Befehlstasten:
+Q = Aufwärts
+A = Abwärts
+K = Links
+L = Rachts
+Leertaste = FeuernS = Pause
+Joystick - alle Typen
+
+Abschnitt 1 und 5
+
+        HOCHKLETT
+            |
+            |
+ LINKS -----+----- RECHTS
+            |
+            |
+    ABSTEIGEN / DUCKEN
+
+FEUER - BATARANG™ WERFEN
+
+FEUERKNOFF GEDRUCKT
+
+                               A    B    C
+                                \   |   /
+                                  \ | /
+BATARANG™ NACH LINKS WERFEN  -------+--------  BATARANG™ NACH RECHTS WERFEN
+                                    |
+                                    |
+                     IN DEN NACHSTEN ABSCHNITT SPRINGEN
+
+A = SIEL NACH LINKS ABSCHIESSEN
+B = SIEL ABSCHIESSEN
+C = SIEL NACH RECHTS ABSCHIESSEN
+
+Abschnitt 2 - BATMOBIL™
+Sie steuern das BATMOBIL mit dem Joystick.
+
+        AUFWÄRTS
+            |
+            |
+ LINKS -----+----- RECHTS
+            |
+            |
+         ABWÄRTS
+
+FEUERKNOPF - BATSEIL abfeuern. Fährt das BATMOBIL gerade an einer
+Straßenlampe vorbei, wickelt sich das Seil um den Mast und das BATMOBIL
+schwingt um die Ecke.
+FEUERKNOPF UND AUFWÄRTS - ist das BATMOBIL an einer Ecke, schwingt es ohne
+das BATSEIL um die Ecke.
+HINWEIS: Mit dem BATSEIL kommen Sie am schnellsten um die Ecken. Das BATMOBIL
+schwingt nur um Ecken, die erreichbar sind.
+AMSTRAD: Fährt das BATMOBIL en einer Ecke vorbei, können Sie es schnell
+wenden. Drücken dazu Sie den Feuerknopf und den Steuerknüppel nach links.
+
+Abschnitt 3 - BATCAVE chemische Analyse
+Drücken Sie den Joystick nach links und rechts, um eine Kosmetik
+auszuwählen. Mit dem Feuerknopf übernehmen Sie lhre Wahi in die Mixtur.
+
+            |
+ LINKS -----+----- RECHTS
+            |
+
+Abschnitt 4 - BATWING™
+
+                   BATWING nach Links steuern
+                               |
+                               |
+BATWING rückwärts steuern -----+----- BATWING vorwärts steuern
+                               |
+                               |
+                   BATWING nach rechts steuern
+
+ANZEIGEN und PUNKTEWERTUNG
+==========================
+Auf dem Bildscirm sehen Sie die erreichte Punktezahl, die verbleibenden
+Leben, die Zeituhr und BATMANS Energie. Das BATMAN Gesicht zeigt volle
+Energie an, das Gesicht des JOKERS erscheint bei verbrauchter Energie. Ist
+das JOKER Gesicht vollständig sichtbar, oder die Zeituhr abgelaufen, verliert
+BATMAN ein leben. Für jeden abgeschlossenen Abschnitt erhalten Sie einen
+Bonus.
+Die Punkte werden in den Abschnitten wie folgt errechnet:
+
+Abschnitte 1 und 5
+Helfer des JOKER vernichten
+JACK NAPIER vernichten (Abschnitt 1)
+Den JOKER vernichten (Abschnitt 5)
+
+Abschnitt 2
+Je weiter Sie auf der Straße vordringen, um so mehr Punkte erhalten Sie.
+Erreichen Sie das BATCAVE, bekommen Sie dafür einen Bonus, dessen Höhe von
+der verbliebenen Zeit abhängt.
+
+Abschnitt 3
+Die Punkte werden nach der Zeit berechnet, die Sie brauchen, um die richtige
+Mischung herauszufinden.
+
+Abschnitt 4
+Für jedan abgeschnittenen Ballon erhalten Sie Punkte.
+Energie wird wie folgt verbraucht:
+
+Abschnitte 1 und 5
+Kollisionen mit Polizisten oder Helfern des JOKERS. Unter auslaufender Säure
+oder im Strahl geborstens Gasleitungen stehen.
+Zu tief herunterfallen.
+Mit dem Seit in eine Wand schwingen.
+Von Geschossen und Granaten Getroffen werden.
+Auf Nagelbrettern gehen.
+
+Abschnitt 2
+Zusammenstöße mit anderen Fahrzeugen.
+
+Abschnitt 4
+Anstelle der Seile die Ballons treffen.
+Wenn Bellons platzen, bevour das Seil zerchnitten ist.
+
+DAS SPIEL
+=========
+
+Abschnitt 1 - Axis Chemical Plant
+Als BRUCE WAYNE hören Sie, wie Kommissar Gordon dem Bürgermeister berichtet,
+daß JACK NAPIER mit seinen leuten die Axis Chemical Plant überfallen will.
+Sie reagieren sofort, ziehen Ihr schwarzes Kostüm über und machen sich auf
+der Kerte ist. Dort ist auch Napier. Auf diesem Weg müssen Sie an
+verschiedenen Gangstern vorbei. Einige greifen Sie direkt an, andere
+schießen auf Sie und einige werfrn mit Handgranaten. An einigen Stellen
+tropfen ätzende Flüssigkeiten auf den Weg oder strömt Gas aus geplatzten
+Leitungen. Auch diese Hindernisse müssen Sie umgehen. Durch Ihren Umhang sind
+Sie vor den Gefahren etwas geschützt, doch Ihr Energievorrant kann sehr
+schnell zur Neige gehen, wenn Sie sich nicht verteidigen.
+Vertreiben Sie die Angreifer mit dem BATARANG und versuchen Sie, mit dem
+BATSEIL in die oberen Etagen zu kommen. Schießen Sie dafür einen Enterhaken
+von Ihrem Gürtel ab und klettern Sie an dem Seil nach oben. Am Ende dieses
+Abschnittes stehen Sie Napier selbst gegenüber. Können Sie seinen Angriff
+abwehren, fällt er in einen Tank mit toxischer Flüssigkeit, die seine
+Erscheinung und sein Denken verändert. Sie haben den JOKER erschaffen!
+
+Abschnitt 2 - Die Straßen von GOTHAM CITY (1)
+Sie haben Vick Vale im Flügelheim Museum aus den Klauen des JOKERS befreit
+und müssen nun mit dem BATMOBIL entkommen. Mit höchster Geschwindigkeit
+donnern Sie durch die Straßen von GOTHAM CITY. Hinter Ihnen her sind die
+Fahrzeuge des JOKER und die Polizei, die noch immer nicht recht weiß, auf
+welcher Seite des Gesetzes Sie stehen, und darum Straßensperren errichtet
+hat.
+Ihr BATMOBIL ist mit einem hochentwickelten Radarsystem ausgestattet, das
+Ihnen die Richtung anzeigt, in der Sie entkommen können. Wenn Sie nicht mit
+Vollgas fahren, holt der JOKER Sie ein und beschädigt das BATMOBIL, das
+auch bei Zusammenstößen mit anderen Fahrzeugen Schäden davonträgt. Zur
+Ausrüstung des BATMOBILS gehören auch Seile und Enterhaken. Müssen Sie bei
+hoher Geschwindigkeit wenden oder abbiegen, schießen Sie im richtigen
+Moment einen Enterhaken auf den Mast einer Straßenlampe ab. Wenn alles
+klappt, werden Sie ohne Tempoverlust um die Kurve gerissen.
+
+Abschnitt 3 - Das BATCAVE
+Der JOKER hat ein Präparat entwickelt, "Smilex", das Monschon boi Kontakt
+schnell tötet und auf den Gesichtern der Opfer ein teuflisches Grinsen
+hinterläßt. Verschiedene Gebrauchsgüter des täglichen Lebens hat der JOKER
+mit den Komponenten 'geimpft', aus deren Mischung Smilex sntstent. Mit den
+leistungsfähigen Computern Ihres BATCAVE müssen Sie innerhalb der
+vorgegebenen Zeit herausfinden, in welchen drei Objekten diese Komponenten
+enthalten sind. Sobald Sie drei Obiekte ausgewählt haben, zeigt Ihnen der
+Computer an, wieviele davon richtig sind. Durch Austauschen einzelner
+Objekte müssen Sie die richtigen drei ermitteln, bevor die Zeit abläuft.
+
+Abschnitt 4 - Die Straßen von GOTHAM CITY (2)
+Der teufilischste Plan des JOKERS wird in den nächtlichen Straßen von GOTHAM
+CITY umgesetzt. Mit dem Versprechen, es gäbe viel Geld für jeden, sind die
+arglosen Bewohner der Stadt in Scharen auf die Straßen gelockt worden. Doch
+es ist nicht so fröhlich, wie es scheint - die Karnevalsparade birgt ein
+schreckliches Geheimnis. In den Dutzenden von großen Ballons ist genug Smilex
+Gas, um die gesamte Bevölkerung von GOTHAM CITY zu töten. Diese Ballons sind
+kurz vorm Platzen...
+Sie fligen die BATWING und müssen mit den Flügeln des Flugzeugs die
+Halteseile der Ballons durchtrennen. Wenn welche übrigbleiben, oder Sie statt
+des Seil den Ballon treffen, platzt dieser und verströmt seinen Inhalt über
+die Leute. Die abgeschnittenen Ballons fliegen jedoch hoch in die Atmosphäre,
+wo sich das Gas gefahrlos verteilt.
+Falls der JOKER bemerkt, was Sie vorhaben, wird er seine Hubschrauber hinter
+Ihnen herschicken. Halten Sie sich von diesen Dingern in jedem Fall fern!
+
+Abschnitt 5 - Die Kathedrale
+Bei der Verfolgung des JOKERS in der Kathedrale von GOTHAM CITY müssen Sie
+auf die brüchigen Fußböden und die riesigen Ratten achten. Wehren Sie die
+Angreifer wieder mit dem BATARANG ab und klettern Sie am BATSEIL in die
+oberen Etagen. Auf dem Dach stehen Sie dann dem JOKER gegenüber und müssen
+ihn besiegen. Sonst entkommet er mit seinem Hubschrauber und zwingt GOTHAM
+CITY doch noch in die Knie.
+
+TIPS und TRICKS
+===============
+Abschnitte 1 und 5
+Üben Sie den Umgang mit dem BATSEIL.
+Suchen Sie nach dem schnellsten Weg.
+Schießen Sie nach Sicht.
+
+Abschnitt 2
+Stoß Sie nicht mit anderen Fahrzeugen zusammen.
+Fahren Sie so schnell wie möglich.
+Pfeile weisen auf Kurven hin - halten Sie sich dann am Straßenrand.
+
+Abschnitt 3
+Benutzen Sie Ihren Verstand.
+Sie müssen schnell sein (Sie haben nur eine Minute Zeit).
+
+Abschnitt 4
+Trennen Sie die Seile sauber durch.
+Treffen Sie nacht die Ballons.
+
+DANKSAGUNGEN
+============
+Commodore
+Programmierung: Zach Townsend
+Grafiken: Andrew Sleigh
+
+Amstrad
+Programmierung: Mike Lamb
+Grafiken: Dawn Drake
+Musik und Geräusche: Matthew Cannon
+Deutshe Bearbeitung: AGD Hamburg, Gunnar Binder
+TM & © 1989 DC COMICS INC. Alle Rechte vorbehalten
+© 1989 Ocean Software Limited
+
+BATMAN,JOKER und alle dazugehörenden Figuren, Slogans und Merkmale sind
+eingetragene Warenzeichen der DC COMICS INC. Alle Rechte vorbehalten.
+
+BATMAN™ IL RITORNO DI UNA LEGGENDA.
+===================================
+BRUCE WAYNE™, il miliardario capo della Wayne Foundation, è un tipo 
+tranquillo a alla buona, ma quando scende la notte e le strade pullulano di
+criminali, Bruce si trasforma nel vigilante mascherato di GOTHAM CITY™:
+BATMAN.
+Nel tentativo de sbarazzarsi dei delinquenti dai tetti della città, che di
+malvagità ne ha piene le tasche, si assume come obiettivo l'eliminazione
+della setta criminale di Gus Grissom; in particolare, la cattura di JACK
+NAPIER™, lo psicotico vicecomandante. Napier, che già rappresentava la forza
+più scaltra e sadistica dell'intera Gotham, in seguito ad un incidente che
+gli lasciò cicatrici fisiche nonchè mentali, si trasformò nel criminale per
+eccelleza: IL JOKER™. Tocca a voi controllare il CAPE CRUSADER™ in cinque
+scenari diversi, nei quali si trova faccia a faccia con i suoi malvagi
+rivali per sostenere le acerrime lotte che ne scaturiscono.
+IL FILM SUPREMO ISPIRA IL GIOCO SUPREMO... GIOCATE BATMAN.
+
+COMMODORE
+=========
+CARICAMENTO
+-----------
+Mettete la cassette nei Commodore con la parte scritta rivolta verso l'alto,
+controllando che tutti i fili siano collegati correttamente. Premete il tasto
+MAIUSCOLE e i tasi RUN/STOP simultaneamente. Seguite le istruzioni a video -
+PREMETE PLAY SUL REGISTRATORE. Il programma si caricherà automaticamente. Per
+il C128, digitate GO 64 (INVIO), poi seguite le istruzioni per il C64.
+
+DISCO
+Selezionate il modo 64. Accendete l'unità a disco, inserite il programma
+nell'unità con l'etichetta verso l'alto e digitate "LOAD "*",8,1 (INVIO); si
+presenterà a video la videata di introduzione e il programma si caricherà
+automaticamente. Il gioco va caricoto in più fasi. Quando venite uccisi, o al
+termine del gioco, riavvolgete la cassetta fino all'inizio del lato B.
+Seguite le istruzioni a video.
+
+CONTROLLI
+IL GIOCO E'CONTROLLATO ESCLUSIVAMENTE DAL JOYSTICK TASTIERA
+F1 = MUSICA ATTIVATA
+F3 = EFFETTI SONORI SOLANTO
+F5 = PAUSA ATTIVATA
+F7 = PAUSA DISATTIVATA
+RUN/STOP = ABBANDONO DEL GIOCO
+
+JOYSTICK - PER TUTTI I TIPI
+SEZIONE 1 ET 5
+
+         ARRAMPICAR
+             |
+             |
+SINISTR -----+----- DESTRA
+             |
+             |
+  ACCOVACCIARSI/SCENDERE
+
+TRIO: LANCIO DEL BATARANG™
+
+CON IL PULSANTE DI TIRO PREMUTO
+
+                                A    B    C
+                                 \   |   /
+                                   \ | /
+LANCIARE BATARANG™ A SINISTRA -------+--------  LANCIO DEL BATARANG™ A DESTRA
+                                     |
+                                     |
+                      SALTAR GIU' AL PROSSIMO LIVELLO
+
+A = LANCIARE LA FUNE VERSO L'ALTO - SINISTRA
+B = LANCIARE LA FUNE VERSO L'ALTO
+C = LANCIARE LA FUNE VERSO L'ALTO - DESTRA
+
+SEZIONE 2 - BATMOBILE™
+Il joystick muove BATMOBILE nelle direzioni corrispondenti
+
+             SU
+              |
+              |
+SINISTRA -----+----- DESTRA
+              |
+              |
+             GIU'
+
+TIRO - Lancio della fune verso l'atto. Se il BATMOBILE passa vicino ad un
+palo, la fune vi si avvolgerà intorno e il batmobile oscillerà girando 
+l'angolo.
+TIRO E SU - Se il BATMOBILE è vicino ad un angolo, girerà intorno 
+all'angolo senza dover usare il 'batrope'.
+NOTA: L'uso del 'batrope' consentirà di curvare più velocemente.
+Il BATMOBILE girerà intorno ad un angolo soltanto se vi si trova vicino NOTA
+IMPORTANTE PER GLI UTENTI DI SPECTRUM E AMSTRAD: SE IL BATMOBILE
+OLTREPASSA UNA CURVA, POTRETE GIRARE PREMENDO IL PULSANTE DI TIRO E
+SINISTRA.
+
+SEZIONE 3 - ANALISI CHIMICA DI BATCAVE™
+Spostate il joystick verso sinistra o destra per selezionare un cosmetico e
+premete il pulsante di tiro per inserirlo nella combinazione.
+
+              |
+SINISTRA -----+----- DESTRA
+              |
+
+SEZIONE 4 - BATWING™
+
+                      SPOSTRATE BATWING A SINISTRA
+                                    |
+                                    |
+SPOSTARE BATWING ALL 'INDIETRO -----+----- SPOSTARE BATWING IN AVANTI
+                                    |
+                                    |
+                        SPOSTARE BATWING A DESTRA
+
+POSIZIONE E PUNTEGGIO
+=====================
+Il pannello illustra il punteggio presente, il tempo e l'anergia di BATMAN.
+Il viso di BATMAN rappresenta l'energia completa. Il viso di JOKER
+rappresenta l'energia esaurita. Quando il viso di JOKER è completamente
+visible, BATMAN PERDERA' UNA VITA. Se il tempo scade in uno qualunque dei
+livelli, BATMAN perderà una vita. Vengono elargiti punti supplementari
+quando si completa ciascun livello. I punti vengono aggiudicati in clascun
+livello nelle circostanze elencate sotto:
+
+LIVELLI 1 E 5
+UCCISIONE DELGLI SCAGNOZZI DI JOKER
+UCCISIONE DI JACK NAPIER (LIVELLO 1)
+UCCISIONE DEL JOKER (LIVELLO 5)
+
+LIVELLO 2
+Si guadanano punti progredendo lungo la strada, Vengono aggiudicati punti
+supplementari quando si raggiunge la BATCAVE, in base al tempo rimasto.
+
+LIVELLO 3
+Il punteggio viene calcolato in base al tempo impiegato nel trovare la
+combinazione giusta.
+
+LIVELLO 4
+I punti vengong aggiudicati per ciascun pallone che si libera.
+L'ENERGIA VIENE RIDOTTA NELLE CIRCOSTANZE ELENCATE SOTTO:
+
+LIVELLO 1 E 5
+Incontrando i poliziotti o gli scagnozzi del JOKER.
+Stando sotto le gocce acide o alla  portata delle ventate di gas dalle
+tubature.
+Cadendo da altezze troppo elevate.
+Urtando una parete mentre si dondola sulla fune.
+Quando si viene colpiti da proiettili o granate.
+Camminando su pavimenti chiodati.
+
+LIVELLO 2
+Scontrandosi con altre vetture
+
+LIVELLO 4
+Urtando i palloni invece di tagliare le funi.
+Lasciando scoppiare i palloni prima di tagliarn le funi.
+
+ESECUZIONE DEL GIOCO
+====================
+Sezione 1 - Stabilimento chimico Axis
+Nei panni di BRUCE WAYNE, venite a sapere che il commissario Gordon ha
+informato il sindaco che JACK NAPIER e i suoi scagnozzi hanno progettato un
+attacco allo stabilimento chimico Axis. In tutta segretezza, indossate il
+vostro costume nero e fate la vostra apparizione sulla scena. Una volta
+entrati nello stabilimento, dovrete spostarvi verso l'uscita (e Napier) 
+sull'estrema destra della cartina. Incontrerete numerosi criminali durante
+il tragitto, alcuni dei quali vi attacheranno fisicamente, altri vi
+spareranno ed altri vi lanceranno granate. Cercate di evitare anche le
+goccioline di sostanze chimiche che perdono e le ventate di gas in varie
+parti del vostro percorso.
+Potrete sostenere una determinata quantità di colpi, protetti della vostra
+armatura, ma se non cercate di difendervi, la vostra energia calerà
+rapidamente.
+Ustate il BATARANG per lanciarlo ai vostri nemici, e la fune per accedere ai
+livelli superiori, con l'ausilio di un dispositivo a rampino che, lanciato
+della vostra cintura, vi consentirà di riarrampicarvi. Sulla videata finale
+di questo livello vi troverete di fronte a Napier in persona. Se lo
+sconfiggete, cadrà in una tinozza contenente sostanze chimiche residue, che
+gli lasceranno cicatrici sia fisiche che mentali. Senza rendervene contro,
+avete creato il Joker!
+
+Sezione 2 - Le strade di GOTHAM CITY (1)
+Una volta portato in salvo Vick Vale dalle grinfie der JOKER ner museo
+Flugelheim, dovrete cercare di fuggire con la vostra BATMOBILE. In una corsa
+pazza fra le vie di GOTHAM CITY, dovrete stare alla larga dai veicoli del
+JOKER e dalla polizia, che ha organizzato blocchi stradali, non sapendo con
+certezza da che parte stiate.
+La vostra BATMOBILE è provvista di un radar sofisticatissimo, volto ad
+indicare la direzione che dovrete seguire per fuggire con successo. Mantenete
+una velocità elevata per evitare di essere raggiunti dal JOKER e per
+evitare scontri con altri veicoli, che danneggerano la BATMOBILE. La
+BATMOBILE è anche provvista di una fune e di un rampino. Quando viaggiate a
+velocità elevante, per esequire svolte rapidamente, lanciate il rampino su
+un lampione sull'angolo della strada; se eseguite l'operazione correttamente,
+potrete eseguire la svolta senza perdere velocità.
+
+Sezione 3 - La BATCAVE
+Il JOKER ha creato un nuovo composto chemico: "Smilex", che uccide chiumque
+ne venga a contatto, lasciando una amorfia mortale sui loro visi. Il Joker
+ha "corretto" certi articoli di consumo quatidiano con elementi di questo
+composto chimico che, quando miscelati, formano lo Smilex.
+E'vostro compito, utilizzando i potenti computer presentu nella BATCAVE,
+entro il tempo disponibilie, determinare quali tre oggetti contengano questi
+elementi. Una volta scelti tre oggetti, verrà visualizzato a video il numero
+degli oggetti scelti correttamente. Attaverso un processo di eliminazione,
+dovrete scegliere il corretto trio di elementi prima dello scadere del tempo.
+
+Sezione 4 - Le strade di GOTHAM CITY (2)
+E'Mezzanotte, e nelle strade di GOTHAM CITY sta per aver luogo uno dei piani
+più micidiali del JOKER. Dopo aver promesso di elargire una generosa manciata
+di soldi alla gente di Gotham, le strade sono gremite di follo di ignari
+cittadini. Ma non tutto è cosi roseo come sembra! Questa sfilata carnevalesca
+è avvolta in un macabro segreto.
+All'interno di dozzine di palloni coloratissimi c è abbastanza gas Smilex da
+uccidere l'intera popolazione di GOTHAM CITY, e il contenuto sta per essere
+lasciato fuoriuscire...
+Vi trovate al volante di BATWING e dovrete tagliare i cavi d'ormeggio dei
+palloni con le ali del vostro veicolo volante. Nel caso ne manchiate uno, il
+pallone si autodistruggerà, inviando nuvole di gas nella folla; lo stesso
+succederà se mancate le funi e urtate il pallone. Se invece riuscirete a
+tagliare le funi, il pallone si solleverà in aria senza pericolo e il gas
+verrà dissipato nell'atmosfera. Prima o poi il JOKER vi scoprirà ed invierà
+alcuni dei suoi elicotteri per bloccarvi. Evitateli a tutti i costi!
+
+Sezione 5 - La cattedrale
+Nell;intento di seguire il JOKER nella cattedrale di Gotham, dovrete
+vedervela con pavimenti che si sgretolano ed evitare i ratti rabbiosi al
+fine di poter eventualmonto confrontare il JOKER sui tetti. Come per lo
+stabilimento chimico, dovrete usare il vostro BATARANG e 'batrope' nel
+tentivo di catturario, Sui tetti dovrete sconfiggere il JOKER, altrimenti
+lui fuggirà con l'aiuto di un elicottero e farà soccombere l'intera
+popolazione di GOTHAM CITY.
+
+SUGGERIMENTI E CONSIGLI
+=======================
+
+LIVELLI 1 E 5
+Imparate a controllare bene la 'batrope'.
+Cercate di trovare un percorso rapido verso l'uscita.
+Sparate a vista.
+
+LIVELLO 2
+Evitate scontri con altri veicoli.
+Siate i più veloci possibile.
+Quandi la freccia indica la prossimità di una curva, cercate di spostarvi
+sul lato della strada.
+
+LIVELLO 3
+Usate la vostra perspicacia.
+Agite con prontezza (avete soltanto un minuto di tempo).
+
+LIVELLO 4
+Il taglio fatto alle funi deve essere netto.
+Non urtate i palloni.
+
+RICONOSCIMENTI
+==============
+
+COMMODORE
+Programmatore: Zach Townsend
+Grafica di Andrew Sleigh
+
+SPECTRUM E AMSTRAD
+Programmatore: Mike Lamb
+Grafica di Dawn Drake
+Musica ed effetti sonori di Matthew Cannon
+
+SPECTRUM, AMSTRAD e COMMODORE
+TM & © 1989 DC COMICS INC. Tutti i diritti sono riservati.
+© 1989 Ocean Software Limited
+BATMAN, JOKER e tutti i relativi personaggi, gli slogan e i segni di
+riconoscimento sono marchi di fabbrica della DC COMICS INC. Tutti i dritti
+sono riservati.
+
+Trouble Shooting Guide
+======================
+If this game fails to load, it is probably not faulty. Here are some notes
+which may help you.
+
+1. Ensure no extra hardware other than that required by the game (i.e. Disk
+   drives, joystick etc.) is attached.
+   Remove ROM cartiridges or interfaces before loading.
+2. Before attempting to load the game ansure that your machine has just been
+   turned on.
+3. Is the game cassette correct for your computer and are you loading the
+   correct side?
+4. Make sure your cassette is fully in the player and that all cables are
+   correctly connected keeping them away from the power supply.
+5. Do not touch the keyboard or joystick during loading.
+6. Some cassette loaders flash colours on your monitor which give information
+   to the programmer. If they do not appear it doesn't mean that the game is
+   not loading.
+7. Try another cassette recorder or try aligning the heads on your cassette
+   player with commercially available kits which help you to do this.
+8. Obtain a second opinion if possible by trying your program on a friend's
+   computer. Therefore if it loads on their system and not yours and you have
+   followed the above advice, it is possible your system may be at fault.
+
+Spectrum
+Try adjusting the volume and tone settings on the cassette recorder
+Start and stop the cassette when you are prompted on the screen.
+
+Amstrad
+Try adjusting the volume and tone settings on the cassette recorder
+Ensure that the remote socket is connected.
+
+Commodore
+While the game is loading, do not move joystick control.
+
+Atari
+Try playing the cassette on an audio player until a high pitch tone starts.
+Now put the cassette in the cassette player and try loading
+
+MSX
+Try adjusting the volume and tone settings on the cassette recorder
+Ensure that the remote socket is connected.
+
+Guide de dépannage
+==================
+Si vous ne pouvez pas charger votre jeu, ce n'est sans doute pas parce qu'il
+est dédectueux. Pour vous aider, lisez les conseils ci-dessous.
+
+1. Vérifiez que vous n'avez branché que les parties du materiel necessaires
+   pour le jeu (c.à.d. le lecteur de disquette, la manette de jeu, etc.)
+   Avant de charger, retirez les cartouches ROM ou les interfaces.
+2. Avant de commencer à charger le jeu, vérifiez que votre appareil est
+   branché.
+3. La cassette de jeu correpond-elle bien à votre ordinateur et avez-vous
+   chargé le bon côté?
+4. Vérifiez que votre cossette est bien enfoncée dans le lecteur de cassettes
+   et que tous les fils électriques sont bien branchés et qu'ils sont
+   éloignés de la prise électrique.
+5. Pendant la charge, ne touchez pas le clavier ni la manette.
+6. Certains chargeurs de cassettes affichent des messages de coleurs sur
+   l'écran pour renseigner le programmateur. Si ces messages ne sont pas
+   affichés, cela ne veut pas dire que le chargement de votre jeu n'est pas
+   en train de se faire.
+7. Chargez de lecteur de cassettes ou essayez d'aligner les têtes de votre
+   lecteur de cassettes à l'aide des kits en vente dans le commerce prévus à
+   cet affet.
+8. Demandez l'avis d'une autre personne, par example, en essayant de charger
+   votre programme sur l'ordinateur d'un ami. Si vous pouvez le charger sur
+   son ordinateur et pas sur le vôtre, et que vous avez suivi les conseils
+   ci-dessus, votre systéme est peut-être défectueux.
+
+Spectrum
+Essayez de régler le volume et le son du lecteur de cassettes.
+Mettez la cassette en marche at arrêtez-la torsque vous lisez les messages
+vous demandant de le faire à l'écran.
+
+Amstrad
+Essayez de régler le volume et le son du lecteur de cassettes.
+Vérifiez que le prise femelle à distance est branchée.
+
+Commodore
+Lorsque le chargement du jeu est en cours, ne touchez pas aux commandes de
+la manette de jeu.
+
+Atari
+Essayez de faire jouer la cassette sur un lecteur de cassettes jusqu'au début
+de sonaigus. Mettez alors la cassette dans le lecteur de cassettes et
+commencez le chargement.
+
+MSX
+Essayez de régler le volume et le son du lecteur de cassettes.
+Vérifiez que le prise femelle à distance est branchée.
+
+Hinweise für die Fehlersuche
+============================
+Probleme beim Laden dieses Spiels deuten nicht unbedingt auf einen
+fehlerhaften Zustand des Programmes. Die nachstehenden Hinweise sind als
+Leitfaden bei der Fehiersuche und-berichtigung gedacht.
+
+1. Kontrollen, daß keine zusätzlichen und für den Spielablauf nicht
+   benötigten Hardware-Elemente (d.h. Laufwerke, Steuerknüppel usw.)
+   angeschlossen sind.
+   ROM-Einschübe und Schnittstellen vor dem Laden entfernen.
+2. Vor dem Laderversuch sicherstellen, daß das Gerät kurz zuvor
+   eingeschaltet wurde.
+3. Paßt die Spielkassette auf lhren Computer und schieben Sie die richtige
+   Seite ein?
+4. Kontollieren, daß die Kassette richtig im Gerät sitzt und alle Leitungen
+   richtig angeshlossen sind und von der Stromzufuhr entfernt liegen.
+5. Während des Ladevorgangs die Tastatur oder den Steuerknüppel nicht
+   betätigen.
+6. Einige Kassetten-Ladegeräte lassen als Datenübermittlung an die
+   Programmiereinheit Farbkennzeichen auf dem Bildschirm ersceinen. Ein
+   Ausbleiben solcher Kennseichen bedeutet judoch nicht, daß das Spiel nicht
+   geladen wird.
+7. Versuchen Sie en anderes Kassettengerät oder richten Sie die Leseköpfe in
+   lhrem Kassettengerät mit einem handselsüblichen, für diesen Zweck
+   konzipierten Pfleggesatz aus.
+8. Führen Sie, wenn möglich, eine Prüfung lhres Programmes auf einem anderen
+   Computer aus. Wenn es sich auf einem anderen System laden läßt und nicht
+   auf lhrem, dann liegt wahrscheinlich ein Fehler in lhrem System vor.
+
+Spectrum
+Verstellen Sie die Lautstärke und den Tonstufenregler am Kassettengerät
+Lessen Sie die Kasette anlaufen und anhalten, wenn die Aufforderung auf dem
+Bildschirm erscheint.
+
+Schneider
+Verstellen Sie die Lautstärke und den Tonstufenregler am Kassettengerät
+Stellen Sie sicher, daß die Fernbedienungsbuchse belegt ist.
+
+Commodore
+Während des Ladens des Spiels den Steuerknüppel nicht bewegen.
+
+Atari
+Lassen Sie dir Kassette auf einem Audio-Wiedergabegerät laufen, bis ein
+schriller Hochton ertönt. Legen Sie die Kassette dann in das Computer-
+Kassettengerät und versuchen Sie, das Spiel zu laden.
+
+MSX
+Verstellen Sie die Lautstärke und den Tonstufenregler am Kassettengerät
+Stellen Sie sicher, daß die Fernbedienungsbuchse belegt ist.
+
+Probleme di caricamento?
+========================
+Se avete dei problemi in fase di caricamento probabilmente il gioco non
+c'entra. Ecco alcuni consigli che potranno esservi utili.
+
+1. Assicuratevi che mussuna altra periferica, accetto quelle richieste del
+   gioco (es drive, joystick ecc.), sia collegata al computer
+2. Prima di iniziare a cricare il gioco accertatevi che il computer sia
+   accesso.
+3. La cassetta è nella versione compatibile per il vostro computer? State
+   caricando la facciata giusta?
+4. Assicuratevi che il mastro sia ben inserito nel registratore e che tutti
+   i cavi siano collegati perfettamente e siano lontani dalla fonte
+   d'alimentazione.
+5. Non toccate la tastiera o il joystick durante la fase di caricamento.
+6. Alcuni giochi hanto un sistema di caricamento che emette colori
+   lampeggianti. Se non appaiono non significa necessariamente che il gioco
+   non eta caricando.
+7. Provate con un altro registratore oppure ri-allineate le testine del
+   registratore con uno dei kit appositi in commercio.
+8. Fate un ultimo tentativo sul computer di un vostro amico. Se sul suo
+   carica allora è il vostro computer che può essere difettoso.
+
+Spectrum
+Regolte il volume e la tonalità del registratore. Fate pertire il nastro e
+fermatelo quando appaieno f relativi messagi.
+
+Amstrad
+Regolte il volume e la tonalità del registratore. Assicuratevi che lo
+spinotto del comando a distaza sia collegato.
+
+Commodore
+Non toccate il joystick mentre il gioco sta caricando.
+
+Atari
+Fate girare il nasto fino a quando udite un tono alto. Mattate il nastro nel
+registratore e provate a caricando.
+
+MSX
+Regolte il volume e la tonalità del registratore. Assicuratevi che lo
+spinotto del comando a distaza sia collegato.
+
+
+HINTS
+
+Hold down the keys ED209 to get to the next level.

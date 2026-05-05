@@ -1,0 +1,436 @@
+THE SPECTRUM GAME DATABASE
+
+MATCH DAY II
+
+PUBLISHER
+Ocean
+
+AUTHORS
+Jon Ritman and Bernie Drummond
+Music and sound effects by Guy Stevens
+
+YEAR
+1987.
+
+DESCRIPTION
+Match Day 2 is a football (playing) simulation.
+
+CONTROLS:
+See inlay card text
+
+ORIGINAL INLAY CARD TEXT
+
+MATCH DAY II
+------------
+Match Day II is an all action arcade soccer simulation featuring
+variable strength volleys, lobs, backheels and ground shots,
+jumping headers, barging, diving keepers, variable tactics and
+the highly accurate diamond deflection system.  You may compete
+against your friend or against a computer team; alternatively you
+and your friend may team up against the computer.
+
+Match Day II also features a league championship, cup
+competition, user definable keys and lots, lots more!
+
+Match Day II will run on both 48k and 128k Spectrums, and
+features enhanced sound on the 128k models.  The game may be
+played with keys or the following joysticks: KEMPSTON, FULLER,
+INTERFACE II and the built-in joysticks on the Spectrum +2 and
++3.  In addition, any joystick that presses keys may be defined
+from the keyboard menu.
+
+GETTING STARTED
+----------------
+To get started quickly, load the game and press ENTER three
+times.  This will get you onto the pitch, and you may now start
+playing.  The game may be played using a joystick or the
+following keys:
+
+O - left
+P - right
+A - down
+Q - up
+bottom row - kick/jump.
+
+These may all be redefined if you require.
+
+THE MENU SYSTEM
+---------------
+Use any key other than ENTER to move the cursor.  Use ENTER to
+select the entry indicated by the cursor.   Please note that when
+the instructions refer to TEAM 1 they mean the team that starts
+at the left hand end.
+
+JOYSTICK MENU
+-------------
+This menu only appears when you first load the game, so try not
+to make any mistakes as it will mean you have to reload it.
+
+(a)  KEYS / KEY JOYSTICK  use for keys only or key type joystick
+such as the Sinclair Interface 2 (or the built-in joysticks of
+the +3) and cursor type joysticks
+
+(b)  KEMPSTON JOYSTICK  use for joystick interfaces that use port
+31 (hex)
+
+(c)  FULLER JOYSTICK  use for joystick interfaces that use port
+7F (hex).
+
+MAIN MENU
+---------
+Near the bottom of the screen. the last result is displayed.
+(a) 1 PLAYER MATCHDAY You play soccer against the computer
+(b) 2 PLAYER MATCHDAY You and a friend play against each other
+(c) TWIN PLAYER MATCHDAY You and a friend team up against the
+computer
+(d) MATCHDAY CUP You and up to seven friends may take part in a
+three round cup competition
+(e) MATCHDAY LEAGUE You and up to seven friends may take part in
+a league championship.
+(f) KEYS AND OPTIONS Access numerous options and facilities.
+
+Before you kick off each half, you may use the handicap system
+(Not available for cup or league matches.) 
+(a) START HALF  Kick off
+(b) SCORE TEAM ONE 0  Give team 1, goal advantage.
+(c) SCORE TEAM TWO 0  Give team 2, goal advantage.
+
+PAUSE MENU
+----------
+This menu may be selected only during the match by pressing H:
+as long as H is held down the screen will freeze, allowing you
+to view the state of play or even take photographs.
+(a) RETURN TO MATCH Restart the game.
+(b) QUIT MATCH Quit match and return to main menu.
+(c) TACTICS SELECTION Select tactics menu.
+
+KEYS AND OPTIONS MENU
+---------------------
+This is accessed from the main menu.
+
+(a) QUIT MENU Return to main menu.
+(b) MATCHDAY OPTIONS Access various match options
+(c) PLAYER 1 KEYS Access the user definable key menu for player
+one.
+(d) PLAYER 2 KEYS Access the user definable key menu for player
+two.
+(e) TEAM NAMES Change the team names.
+(f) TACTICS SELECTION Select tactics menu.
+(g) COLOUR SCHEME Select team and pitch colours.
+
+MATCHDAY OPTIONS MENU
+-----------------------
+Each option in this menu may be selected, and then changed by
+pressing ENTER.
+(a) QUIT MENU Return to keys and options menu.
+(b) SOUND LEVEL (HIGH/LOW/OFF)
+(c) TIME EACH HALF (5/10/15 MINUTES)
+(d) KICKOMETER (ALL/FWD/HARD/II/III) See the paragraph on the
+kickometer for a full explanation.
+(e) COMPUTER MATCHES {UNATTENDED/ATTENDED) Decide whether to
+watch games you are not taking part in.
+(f) COMPUTER SKILL (LOW/MEDIUM/HIGH)
+(g) KEEPER 1 (HUMAN/COMPUTER) You may delegate control of your
+keeper to the computer
+(h) KEEPER 2 (HUMAN/COMPUTER)
+
+PLAYER 1 & 2 KEYS MENU
+----------------------
+It is important to utilise this function properly - please read
+the screen prompts.
+Step (a) Move cursor to highlight the required control on which
+the keys are to be changed.
+Step (b) Press ENTER to clear all current keys.
+Step (c) Press all keys required for control (they will be
+printed on the current line as they are pressed). If you want to
+use the ENTER key then press it first. N.B. If you accidentally
+press the wrong key at this point, go on to step (d) and then
+back to (b).  (This involves pressing ENTER twice).
+Step (d) When all keys are selected press ENTER.
+Step (e) If you want to change more controls then start again at
+Step (a), otherwise move the cursor to QUIT MENU and press ENTER
+to return to the keys and options menu.
+
+The default controls have been defined as follows 
+
+PLAYER 1
+LEFT Joystick-Left, 6, O
+RIGHT Joystick-Right, 7, P
+DOWN Joystick-Down, 8, A
+UP Joystick-Up, 9, Q
+KICK/JUMP Joystick-Fire, 0 Z X C V B N M, Shift, Symbol shift
+
+PLAYER 2
+LEFT 1
+RIGHT 2
+DOWN 3
+UP 4
+KICK/JUMP 5
+i.e. player two is set up for the +2 and +3 built-in second
+joystick
+
+Please note that when two humans play, the keys/joysticks
+sometimes interact and cause problems such as kicking the ball
+without pressing the fire key.  This is caused by the computer's
+design and it is not possible to compensate in the program. The
+default keys are predefined to avoid any interaction, but if you
+wish to change any keys, it might occur.  Look at the chart
+below.  If player one has two keys on the same row and player two
+has two keys in the same columns but in a different row, then 
+problems will occur. Another way of looking at it is to imagine
+a square with the keys chosen as the corners.  If such a square
+is present then those keys will interact. i.e. if player one has
+keys A and S they will interact if player two has 1 and 2;
+however if player two uses 1 and 9, or 1 and 3, all is well.
+
+Column: 0    1    2   3   4
+Row
+O     CAPS   Z    X   C   V
+1      A     S    D   F   G
+2      Q     W    E   R   T
+3      1     2    3   4   S
+4      0     9    8   7   6
+5      P     O    I   U   Y
+6    ENTER   L    K   J   H
+7    space symbol M   N   B
+
+TEAM NAMES MENU
+----------------
+You may change any of the eight team names by moving the cursor,
+pressing ENTER, and then typing your new team name. Press ENTER
+again when you have finished.  The top menu option is QUIT MENU,
+and this will return you to the keys and options menu.
+
+TACTICS SELECTION MENU
+-----------------------
+QUIT MENU This will return to either the pause menu or keys and
+options menu
+TEAM 1 (ATTACKING/DEFENSIVE) Push your men up front to go for
+goal or pull them back to shore up your defence.
+TEAM 2 (ATTACKING/DEFENSIVE)
+
+MATCHDAY CUP & LEAGUE MENUS
+-----------------------------
+The menus for cup & league competitions are fairly similar and
+will be dealt with together.  At the top of each menu, just under
+the heading, the next fixture is printed.  If there is no fixture
+then the competition has ended and you will have to start a new
+one. Near the bottom of the screen is the CUP/LEAGUE CODE NUMBER. 
+This changes as you progress through a competition The number may
+be typed back in at a later date to restore the current position
+in the competition.  The computer skill level only sets the
+minimum level for cup and league matches, i.e. during the cup
+semi-finals the minimum skill level will be MEDIUM and during the
+final it will be HIGH.  In the league championship different
+teams play at different skill levels.  Please note that if the
+result of a cup game is a draw after extra time, you will have
+to play a replay.
+
+PLAY FIXTURE Play the current fixture. When the game has
+finished, the cup/league table is shown; pressing any key at this
+stage will return you to the main menu.  This means that you may
+intermix league, cup and friendly matches
+
+CONTROL
+(Comp V Comp / Comp V Human / Human V Comp / Human V Human / 2
+Humans V Comp / Comp V 2 Humans)
+
+You may select what teams you wish to control, and even change
+your mind mid-competition.  If Comp V Comp is selected, they will
+not be shown unless you have changed the COMPUTER MATCH option
+(Matchday options menu) to ATTEND.  If you do not watch, you will
+be shown the cup/league table immediately.
+
+VIEW CUP/LEAGUE TABLE This will display the appropriate table.
+
+START NEW CUP/LEAGUE This will wipe all results in the current 
+competition and start a new one. A new random draw is made in the
+case of cup competitions. The cup/league table will be displayed
+after this.
+
+START OLD CUP/LEAGUE
+Access the menu that permits you to type in an old code number
+
+QUIT MENU Return to main menu.
+
+START OLD CUP/LEAGUE MENUS
+---------------------------
+QUIT MENU
+Return to cup or league menu
+
+CODE
+Selecting this will produce a screen prompt and a cursor.  Type
+in a previously written down code number and if you get it
+correct you will be shown the appropriate table before returning
+to the cup/league menu. If you mistype it, a screen prompt will
+inform you and give you a chance to have another try.
+
+PLAYING THE GAME
+-----------------
+Deadball situations (Centres, throws, corners, goal kicks)
+The player taking the kick/throw will automatically run to the
+ball.  Pressing the fire key sends the ball to one of nine
+positions.  The positions are selected by pressing the joystick
+the way you want the ball to go.  For instance, at a centre taken
+by the left team, pressing the joystick right will result in a
+long kick to the right, pressing left results in a short kick,
+pressing up sends the ball to the far side of the pitch, pressing
+down to the near side, etc. A different set of nine is provided
+for each deadball situation.  Please note that the kickometer 
+has no effect on these kicks and throws.
+
+Controlling a player.
+You have control of the player in the best position to get the
+ball.  When the ball is kicked you gain control of the player
+nearest to the landing spot.  However, when control swops from
+one player to another, you will, for a short time, control both
+players to give you a better chance in the case of a rebound. 
+The player you control will have a miniature copy of the
+kickometer just above his head.
+
+Getting Possession.
+If the ball hits your player below his knees, he will gain
+possession.  This means that your player will automatically
+dribble the ball.  Please note that a player will run slower
+while he is in possession.  To gain possession of the ball, you
+must judge its path and time your interception so that the ball
+arrives at your feet.  To trap a bouncing ball, you must keep
+your eye on its shadow and stand where you estimate the point
+that the ball and shadow will meet (i.e. where the ball bounces). 
+Note that the size of the ball's shadow changes according to 
+its height.
+
+The kickometer.
+The kickometer determines the kick pressure, where III is very
+hard, II is medium, I is very soft and -1 is a backheel. The
+range of the meter may be altered from the MATCHDAY OPTIONS menu.
+
+(a) All kicks.  All forward kicks and the backheel
+(b) Fwd kicks.  All forward kicks (default value)
+(c) Hard kicks.  The meter just uses II and III
+(d) Kick II.  The meter is fixed at II
+(e) Kick III.  The meter is fixed at III
+
+Please note: when you play twin player matchday, the two players
+under control are indicated by two different miniature
+kickometers. Player two controls the man with the double
+kickometer.
+
+Kicking the ball while in possession.
+Pressing fire while in possession will kick the ball.  If your
+player is standing still, he will kick along the ground; if he
+is running, he will do a lob. The final pressure is determined
+by the kickometer.
+
+  Locking the kickometer & volley shots.
+If you press and hold your fire key, you will lock the kickometer
+reading for your team. This means that if your player contacts
+the ball, he will instantly volley the ball.  The volley is a
+low, hard shot ideal for shooting at goal. The final pressure of
+the shot is determined by the locked kickometer (shown above your
+player's head).
+
+  Jumping.
+If the ball is above waist height, and fairly near your player,
+he may jump by pressing the fire key. While in the air, he is out
+of your control.
+
+  The keeper.
+The keeper will automatically get in a good position to save any
+possible shot.  You get control of the keeper if the ball is
+coming towards the goal.  Pressing the fire key will make the
+keeper dive.  Pressing up on the joystick will dive him towards
+the far post, pressing down, towards the near post, and he will
+jump straight up if thejoystick is left in the middle.  If
+playing twin player matchday, control of the keeper always 
+goes to player one.  When you get control over the keeper, you
+retain control over the nearest player.  It is possible to
+delegate control of your keeper to the computer - this is done
+on the MATCHDAY OPTIONS menu.
+
+
+  Barging.
+You may shoulder barge players to force mistakes.  However, when
+playing the computer team on the HIGH skill level, you will find
+they are very good at holding their ground and even barging back.
+
+  Diamond deflection system (DDS).
+The DDS has been incorporated to provide maximum realism when the
+ball deflects from a player.  In practice, the ball responds not
+only to the angle the player is standing and the ball direction,
+but also to the direction he is moving, including if he is
+jumping, and also detects his forehead for extra control.  The
+following diagrams show some sample deflections.  The arrows
+inside the men indicate the way they are running.
+
+   **INSERT GRAPHIC HERE**
+
+HINTS AND TIPS
+--------------
+Use 2 PLAYER MATCHDAY to get the hang of passing and receiving
+the ball and to test the various corners, centres, goal kicks and
+throws.  To keep track of the ball while it is in the air, it is
+important to keep your eye on its shadow.  When using the
+kickometer on ALL KICKS, try locking it on backheels when you run
+into a tackle.
+
+Use the Diamond deflection system to knock the ball on to others
+on your team.  Get used to using volleys - in particular, you may
+move into attack very quickIy using volleys and a zig-zag route
+up the field.
+
+For the ultimate challenge, play the computer team with skill set
+to HIGH, the kickometer set to ALL KICKS or FWD KICKS, the
+computer tactics set to ATTACKING and your keeper control set to
+HUMAN.
+
+MATCHDAY II
+------------
+Its program code, graphic representation and artwork are the
+copyright of Ocean Software Ltd and may not be reproduced,
+stored, hired or broadcast in any form whatsoever without the
+written permission of Ocean Software Ltd.  All rights reserved
+worldwide.
+
+This software product has been carefully developed and
+manufactured to the highest quality standards.  Please read
+carefully the instructions for loading.
+
+IF FOR ANY REASON YOU HAVE DIFFICULTY IN RUNNING THE PROGRAM, AND
+BELIEVE THAT THE PRODUCT IS DEFECTIVE, PLEASE RETURN IT DIRECT
+TO:  MR YATES, OCEAN SOFTWARE LIMITED, 6 CENTRAL STREET,
+MANCHESTER M2 5NS.
+Our quality control department will test the product and supply
+an immediate replacement if we find a fault.  If we cannot find
+a fault, the product will be returned to you at no charge. 
+Please note that this does not affect your statutory rights.
+
+CREDITS
+--------
+Written by Jon Ritman and Bernie Drummond
+Music and sound effects by Guy Stevens
+Produced by D C Ward
+(c) 1987 Ocean Software Limited
+
+
+
+CHEATS
+
+
+PREQUEL
+Match Day (obviously).  This wasn't as sophisticated, and the
+computer was much easier to beat.
+
+SCORES RECEIVED
+N/A
+
+URLs
+ftp://akira.uc3m.es/pub/sinclair/games/m/matchda2.zip
+ftp://ftp.gui.uva.es/pub/sinclair/games/m/matchda2.zip
+
+GENERAL FACTS
+
+NOTES
+A very difficult game at first, but gets much easier with
+practice.  Brilliant "twin player" mode which lets you and a
+friend play together against the computer.

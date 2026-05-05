@@ -1,0 +1,1010 @@
+                        _       _   _       _   _           
+                       (_' |_| (_' |_) |   | | | ' |_/       
+                       ,_) | | (_, | \ |_, |_| |_, | \     
+                                                  
+
+Producer:   Melbourne House/Beam Software
+Author:     Philip Mitchell
+Date:       1984
+Notes:      Documentation 'slaved' in by DG & TT.
+
+Instructions:
+
+WELCOME TO FOGGY LONDON!
+************************
+
+You are about to play one of the most sophisticated adventure-game programs 
+devised for microcomputers.
+
+Melbourne House are proud to be able to present to you Sherlock, an amazing 
+program based on Sir Arthur Conan Doyle's extraordinary character, Sherlock 
+Holmes - fiction's most famous detective.
+
+In Sherlock, you take on the role of Holmes.  With the ever-faithful Watson
+you will roam freely through the gaslit streets of London and explore
+Victorian England in your quest to disentangle seemingly inexplicable and
+unresolvable mysteries.  You will follow up clues and confront sinister and
+elusive characters during your adventure.
+
+This is a thrilling adventure of intrigue, suspense and danger, requiring you
+to excercise your acute powers of analysis to survive.  You will have the
+reliable Dr Watson by your side and will meeet the well-known Inspector 
+Lestrade of Scotland Yard.
+
+If you do not know Sherlock Holmes, he is a consulting detective devoted to
+the study of the detection of crime.  He is an extraordinary genius for 
+observation and deduction, combined with a remarkable knowledge of the
+history of crime.  Now you have the opportunity of applying Holmes' science
+of deduction in this fascinating game.  
+
+The scene is set for this exciting adventure to begin.  You are sitting with
+your friend and fellow-lodger, Dr Watson, in your lodgings at 221b Baker 
+Street.  
+
+Good luck, Holmes!  May you succeed in your mission and return with a 
+thrilling tale for Watson to add to his cronicle of your exploits.
+
+
+PLAYING THE ADVENTURE
+*********************
+
+Description of 'Sherlock'
+=========================
+The action of this adventure simulation takes place in Victorian London and
+the surrounding countryside familiar to Sherlock Holmes.  The object of the
+game is for you, as Holmes, to solve a number of different crimes and to 
+avoid being killed.  Failure to stay alive terminates the game!
+
+On your adventure, you will meet many characters, and find yourself in
+strange situations.  You tell the computer in plain INGLISH (a subset of 
+English) exactly what you want Holmes to do, and the computer will translate
+that request and execute it.
+
+If the computer is not sure of something you meant, or if there is any
+ambiguity about what you said, it will come back to you with queries for
+clarification.  The computer has a large vocabulary - it knows over 800 words,
+can perform over 53 different actions and is capable of very sophisticated
+communication.  The use of plain INGLISH allows you to enter your instructions
+in normal sentences.
+
+
+Getting Started
+===============
+Place the cassette in your recorder, make sure it is rewound to the start and
+that the recorder is correctly connected as detailed in your Spectrum manual.
+
+Enter the command LOAD "" then press the ENTER key.  As the adventure loads,
+the title page will be shown.  
+
+When the adventure is loaded, the screen is blank except for a dividing line.
+Press ENTER to start the game.  (To play without graphics press N when the
+adventure is loaded.)
+
+
+Screen Layout
+=============
+The screen display is divided into two windows, as shown.
+  ________________________________
+ |                                |     ADVENTURE WINDOW
+ |                                | <-- Graphics, Descriptions of locations,
+ |                                |     actions and objects.
+ |                                |
+ |________________________________|     COMMUNICATION WINDOW
+ |                                | <-- Player's input
+ |________________________________|     Computers prompts
+
+
+Adventure Window
+----------------
+The upper part of the of the screen is the adventure window and is where you
+will be able to find out what is happening in the adventure, what you can
+see and so on.  Text in the adventure window is displayed in the upper and
+lower case.
+
+A graphic is displayed here when you first enter a new location but is not
+displayed in subsequent encounters unless the LOOK command is used.  
+
+Descriptions of the current location, objects, what are in the objects and
+so on, are shown on the aventure window.
+
+Every action that you take is also printed on the adventure window usually
+in more detail than what you entered!  All action that takes place, whether
+performed by you or one of the other characters, will be described, e.g.
+
+  You take the note.
+  Watson examines the pistol.
+
+The adventure window scrolls independantly of the lower part of the screen.
+Usually what happens will fit into the adventure window.  Occasionally, such
+as when you have typed in many sentances at once or if there is a lot of
+action going on, the information will take up more than one window.
+
+When the window is full, printing stops and a flashing character on the
+dividing line indicates that more text is to come.  Press any key to resume
+scrolling.
+
+
+Communication Window
+--------------------
+The lower part of the screen is your communication window with the computer. 
+Everything you type will be shown in capital letters, and this window will
+scroll independently of the rest of the screen.  If for some reason there is
+confusion about what you have typed in, the computer will prompt you in the
+communication window but in upper case.
+
+An obvious example would be where you mistype a word such as dor instead of
+door.  The computer would return with the prompt.  
+
+        I DON'T UNDERSTAND THE WORD "DOR".
+
+Other messages will also be printed here when the computer is not able to 
+execute what you typed in. 
+
+
+Deletions
+---------
+To delete a single mistyped chartacter, use SHIFT '0' (the usual Spectrum 
+DELETE key).  To delete an entire command line, use SYMBOL SHIFT '0'.
+
+
+Rules of INGLISH
+================
+What is INGLISH?  INGLISH is a special subset of the English language which 
+allows you to converse with the computer.  It has a large vocabulary of about
+800 words and an easily understood syntax.  You will find that your 
+conversations with the computer are quite natural and that the rules are easy
+to learn and remember.
+
+The rules of INGLISH are simple - you probably already know INGLISH without
+even being aware of it.
+
+Note that the examples given in this booklet are not necessarily from the 
+game.
+
+
+Sentence Structure
+------------------
+*   Each sentence must have a verb.  A sentence may consist of a verb alone, 
+    e.g.
+
+       SIT
+       CLIMB
+
+    These sentences are both fine.
+    The meaning of the verbs may be altered by the use of adverbs, e.g.
+
+       FOLLOW QUICKLY
+       QUICKLY COUNT THE MONEY
+
+*   Word order is not critical.  
+    When an instruction is given, the verb must be first (see also 
+    instructions on next page).  For example, the sentence
+
+       OPEN THE WINDOW CAREFULLY WITH THE STICK
+
+    is correct but the sentence 
+
+       WITH THE STICK CAREFULLY OPEN THE WINDOW
+
+    is incorrect!
+
+    When a statement is intended, the sentence must begin with a noun (see
+    also Conversations).
+
+*   Adjectives which describe objects must come before the noun.  If a
+    sentence sounds right it probably is right.  The following sentence is
+    correct:
+
+       OPEN THE PLAIN DOOR
+
+    But the sentence is incorrect:
+
+       OPEN THE DOOR PLAIN
+
+    These examples are pretty obvious.  If the sentence sounds odd to you, you
+    can be sure the computer is likely to think so too.
+
+*   Prepositions, such as with, under, on, off and so on, usually come before
+    the noun, e.g.
+
+       OPEN WITH THE KEY
+       OPEN THE DOOR WITH THE KEY
+       PICK UP THE NOTE
+
+    There are some sentences where the preposition could go before or after
+    the verb, where the more natural sounding sentence is with the preposition
+    last, e.g.
+
+       TURN THE LIGHT ON 
+       PICK THE NOTE UP
+
+    These are also acceptable.
+
+
+Complex Sentences
+-----------------
+*   You can use the conjuction and as you would normally, to construct complex
+    sentences and enter more than one instruction at a time, e.g.
+
+       PICK UP THE NOTE AND TAKE THE LAMP OUT OF THE HOUSE
+       TAKE THE MONEY AND RUN
+
+*   Sentences and clauses may also be separated by punctuation.  Use commas
+    and full stops as you would normally provided that a single entry is less
+    than 128 characters.  For example:
+
+       TAKE THE MONEY, RUN 
+       PICK UP THE NOTE. TAKE THE LAMP OUT OF THE HOUSE
+
+    Of course, keep in mind that each time you specify an action the other
+    characters may decide to act independently.  You could end up with
+    unexpected results if you enter too many instructions at once.
+
+
+Instructions
+------------
+Sherlock features ANIMTALK, the amazing implementation that allows you to
+instruct the other characters in the adventure.  Now, at last, you can say to
+the other characters what you would like to do.  Of course, because every
+character is independant, each will make up his own mind to decide if he wants
+to do what you suggested.
+
+Instructions to the character you control, Sherlock, to perform some action
+or to request another character to perform an action must always begin with
+a verb, for example:
+
+      GO THROUGH THE DOOR
+
+You can also tell the other characters what you want them to do through the
+instruction SAY TO.  The format is SAY TO character-name "sentence", e.g.
+
+      SAY TO WATSON "READ NOTE"
+
+You must have the message your want to say between quote marks and all the
+normal rules of INGLISH apply to what you say to the other characters.  Try
+not to say too much to one person at a time, becuase if you are long-winded
+he will think you are a bore and will tend not to agree to help you.  It is
+a good idea for the same reason to try to limit the use of ALL in commands
+to other characters.
+
+You must be more careful than usual in typing what you say to the other
+characters.  They, unlike your computer, won't tell you if they don't 
+understand what you are saying to them - they will just think you are a little
+odd.  And if the other characters think you make little sense they are
+unlikely to help you.
+
+
+Conversations
+-------------
+Once you have started to talk to someone else, such as Watson, by use of the
+SAY TO command: 
+
+      SAY TO WATSON "HELLO".
+
+Then it is no longer necessary to repeat the phrase SAY TO WATSON.  Further
+conversation can be continued merely by the use of quote marks:
+
+      "READ THE DAILY CHRONICLE".
+
+If you then wish to talk to someone else, you will need to say the SAY TO
+command again to specify whom it is you wish to speak to.
+
+
+Discussions
+-----------
+As well as allowing Holmes to instruct the other characters in the adventure,
+ANIMTALK has a remarkable facility of allowing you to discuss the case with
+Watson and Lestrade, and reply to questions they put to Holmes.  This means
+that sentences can be addressed to other people that do not result in an
+action being performed.  Statements can be made to characters, such as
+Lestrade and Watson, for them to think about.
+
+Statements to other characters cannot start with the verb and take one of two
+forms, otherwise they will not be recognised as statements.  The first form
+describes the relationship between the subject and the object, e.g.
+
+      Brown killed Smith
+      MAJOR FOULKES HAS THE PISTOL
+
+The second form uses the verb to be so that the object describes some aspect
+of the subject; usually the object is an adjective, e.g.
+
+      THE GUN IS GREEN
+      WATSON IS INNOCENT
+
+With both forms, the object discussed should be valid descriptions of objects
+that exist within the game.
+
+
+Interrogations
+--------------
+Sherlock Holmes was often able to elicit important information from the
+various characters he met, and in this adventure you too can interrogate the
+characters you will find in this adventure.
+
+You can do this by use of the command "TELL ME ABOUT...".  Naturally this
+needs to be preceeded by a SAY TO... if you are not already talking to that
+person.  For example:
+
+      SAY TO WATSON "TELL ME ABOUT THE PISTOL".
+
+You can ask anyone about anything that they may know about - other characters
+and objects - or about information they may have, such as their alibi or their
+address.
+
+
+Particularity and Generality
+----------------------------
+*   It may not be convenient for you to enter the description of every object
+    in a location if you should wish to pick everything up.  Therefore, you
+    can generalise by the use of the words all, everything and except, just
+    as you normally would.  You use these words to qualify what you actually
+    want to manipulate - in other words you can say ALL BOTTLES, or you can
+    say EVERYTHING EXCEPT GREEN BOTTLES.  The following are examples of valid
+    sentences:
+
+      EXAMINE EVERYTHING
+      OPEN ALL EXCEPT THE PLAIN DOOR
+      CLOSE ALL DOORS EXCEPT THE PLAIN ONE
+
+*   You may also use and to construct compound objetcs, e.g.
+
+      TAKE THE NOTE AND THE LAMP OUT OF THE HOUSE
+      DROP THE SHORT AND LONG ROPES
+
+    The conjunction and may not be used to construct compound indirect objects
+    (see Limitations of INGLISH below).
+
+
+Abbreviations
+-------------
+It is possible to be extremely brief with the computer and be understood
+properly well.  Obviously, though, the briefer your sentence or abbreviation,
+the more likely the possibility of misunderstanding.  It is also possible to
+type in less than a full sentence and, if there is no mistaking your
+intention, the computer will do what you wanted.  Imagine that the adventure 
+window is displaying this text:
+
+      You are in your sitting room
+      To the west there is your door to the north is a plain door
+
+Let us assume you want to open the door; you would obviously say:
+
+      OPEN THE GREEN DOOR
+
+You could, however, also be brief and say:
+
+      OPEN
+
+In this case, the meaning may seem obvious to you, but in fact the computer
+knows it is also possible to open the wooden chest and will therefore
+ask you:
+
+      OPEN WHAT?
+
+You have a complete choice of answers here, including typing in a new sentence
+altogether, or just the object you want to open.  Let us assume that you
+answer the query with:
+
+      OPEN WHAT? ALL
+
+The computer will now process your instructions and you will seo on the
+adventure window the result of your instructions:
+
+      You open your door.
+      You open the plain chest.
+
+If you were to again enter the command OPEN, the computer would tell you, very
+reasonably:
+
+      I SEE NOTHING TO OPEN.
+
+Note that if you typed in the full sentence
+
+      OPEN YOUR DOOR
+
+the reply from the computer would have told you
+
+      YOUR DOOR IS OPEN.
+
+There is a price to be paid for being to brief!
+
+
+Limitations of INGLISH
+----------------------
+These limitations are fairly minor and most times should be able to epress
+yourself exactly the way you feel most comfortable.
+
+*   To describe an object, you can use the object's name and its adjectives 
+    (if any).  For example, if you see that there is some delicious foaming
+    beer in a bottle, you could say any of the following sentences:
+
+      DRINK BEER
+      DRINK DELICIOUS BEER
+      DRINK FOAMING BEER
+      DRINK DELICIOUS FOAMING BEER
+      DRINK FOAMING DELICIOUS BEER
+
+    All these would result in quenching your thirst.  You cannot use the
+    position of an object as its description.  This means that a sentence
+    such as
+
+      DRINK BEER IN BOTTLE
+
+    is not acceptable because BOTTLE is not an adjective.
+
+*   You cannot have more than one indirect object in a sentence.  Basically
+    this means that you cannot specify doing one thing in more than one way.
+
+    For example, you could say
+    
+      PUT THE ROPE ON THE TABLE
+
+    or you could decide to put it on the chair:
+
+      PUT THE ROPE ON THE CHAIR
+
+    but you cannot put the rope on both the table and on the chair at the same
+    time.  You therefore can't say
+
+      PUT THE ROPE ON THE TABLE AND CHAIR
+
+    This is a general rule, and means that you can't say things like:
+
+      PUT THE ROPE ON EVERYTHING
+
+
+Movement and Travel
+===================
+As you enter most new locations, a graphic will appear on your screen and the
+game will pause to enable you to view the scene.  Pressing any key will allow
+you to continue with the game.
+
+The visual representation will normally only be shown to you the first time
+you enter a particular location.  If you wish to refresh your memory as to
+exactly where it is you are, you may enter the command LOOK.
+
+Once a graphic of a location has been displayed it may be recalled with the
+LOOK command while the player remains in that location.  This visual image is
+the artist's impression of the scene and will not change as the game
+progresses.
+
+Let's assume that you are at Holmes' lodgings and the adventure window
+displays the text:
+
+      You are in a comfortable parlor.
+      To the east is a door.
+      Watson goes east.
+
+The graphic shows the parlour.
+
+There are a number of different ways of moving from one location to another
+and it pays to be familiar with them all.
+
+
+Specifying Direction
+--------------------
+*   You may use the arrow keys to indicate movement in the principle points
+    of the compass: W, S, N and E, reading from left to right across the top
+    of the keyboard.
+
+    <= v  ^ =>
+    W  S  E  N
+
+    Note that each arrow key can only be used as the first key of a command to
+    the computer.  You may not, for example, start entering a word, backspace
+    to the beginning of the line and then press an arrow key.
+
+    Note also that the arrow keys cannot mnove you in other directions, such
+    as southeast, up or down.
+
+*   The eight directions of the compass (north, northeast, east, southeast,
+    and so on), and up and down can be specified eithing in full or
+    abbreviated, or in a sentence.  For example:
+
+      E
+      EAST
+      GO EAST
+      QUICKLY GO EAST
+
+    As you may enter more than one sentence at a time, you can use directions
+    as part of a longer command, e.g.
+
+      TAKE EVERYTHING AND GO EAST
+      TAKE ALL, E.
+
+
+Direct Movement to a Location
+-----------------------------
+If you know that a desired destination is immediately adjacent to your current
+location, you can move there directly by specifying the destination, e.g.
+
+      GO TO LODGINGS
+
+If you wish to go to a particular location in Victorian England, there are a
+number of ways of getting there.  You could hail a horse-drawn cab, or catch
+a train.  But, remember, to do this you will need money.  To catch a train,
+you will need to know the times at which they run.
+
+
+Travel
+======
+
+Hansom Cabs and Trains
+----------------------
+Hansom Cabs may be hailed in most London streets.  You will find however that
+the cabbies is not familiar with anything other than street names.  If, for
+example, you wish to go to Victoria Station to catch a train, you will need
+to instruct the cabbie as follows:
+
+      SAY TO CABBIE "GO TO BUCKINGHAM PALACE ROAD"
+
+To catch a train you will need to go to the appropriate train station and the
+correct platform.
+
+Note that once you are on your way in a cab or train time will pass as it 
+normally would - no faster or slower, just as in real life.
+
+You may therefore use this time to converse with other characters, such as
+Watson, to examine objects, or merely repose by waiting for your carriage to
+arrive at its destination.
+
+
+Entrances and Exits
+-------------------
+*   If you know that your current location is immediately in front of a
+    building, you can specify the location, e.g.
+
+      ENTER LODGINGS
+      GO INTO LODGINGS
+
+*   If you want to go through an opening it is quite valid to say, as in this
+    case,
+
+      GO THROUGH THE DOOR
+
+    You may also go through windows or any other openings.  An interesting
+    point is that you can also look through openings (see 'Special Commands').
+    This can be very useful if you want to see where you would get to by
+    going in that direction, or to see who is there waiting for you!
+
+
+Following Other People
+----------------------
+If you know where someone you want to talk to has gone, you can follow them,
+e.g.
+
+      FOLLOW WATSON
+
+
+Walking in the streets of London
+--------------------------------
+In this adventure you will find that some street locations are very limited
+in the directions you can go.
+
+For example, you cannot walk from Baker Street to any other location in
+London!  This is in keeping with the character of Sherlock Holmes (and
+because of the memory limitations of your computer).
+
+In his advetures, Sherlock Holmes never walked where he could take a hansom
+cab or catch a train.
+
+
+Passage of Time
+===============
+The passing of time affects the Sherlock adventure in a number of ways; even
+when you are doing nothing but trying to work out your next move the other
+characters are taking independant action.
+
+Real Time
+---------
+Sherlock is played inreal-time, which means that things continue to happen as
+time goes on.  You will notice that the time is displayed on your screen 
+throughout this adventure.  Situations and circumstances will change and 
+develop and the timing of events is a critical factor.  The only time the
+computer doesn't do something is when you are entering a new
+instruction.
+
+If you just sit and watch the screen you will find that, after about 30 
+seconds, the following message will appear:
+
+      You wait.
+
+Time passes and, while you wait, every other person is doing his own thing.
+
+The passage of time, may be accelerated with the WAIT command (see
+'Special Commands').
+
+Day and Night
+-------------
+Because time is passing continually, day will trun into night.  If you go into
+a location without a light, you won't be able to see anything.  Fortunarely,
+some places have natural or artificial light, but others are dark and 
+forbidding.  If a location is dark, you are likely to become disoriented and
+lose your sense of direction; it is dangerous to move in the dark.
+
+Sleep
+-----
+As Sherlock Holmes, you have an inexhaustible capacity to go without sleep
+once you are deeply involved with a case, but you must remember that your
+companions are not so energetic.  Your companions will need to sleep to 
+maintain their energy and strength.  Beware though, many dastardly deeds are
+committed in the dead of night.
+
+
+Speeding up the Passage of Time: WAIT
+=====================================
+By typing WAIT, you do nothing for a specified period of time.  Be careful, as
+it may cause impredictable effects.  This command has two formats:
+
+*   WAIT: This command causes you to do nothing for five minutes.
+
+    Note that the other characters in the adventure do not stop carrying out
+    their actions while you WAIT.  This means that should anything interesting
+    happen while you wait, you cannot do anything about it!
+
+*   WAIT UNTIL time-value:  This commandcauses you to do nothing until the
+    time specified.  The time-value may be epxressed in four ways: hh AM, 
+    hh PM, hh:mm AM and hh:mm PM.  For example:
+
+      WAIT UNTIL 10
+      WAIT UNTIL 11 PM
+      WAIT UNTIL 9:30 AM
+
+    Note that the other characters in the adventure do not stop carrying out
+    their actions while you WAIT.  However, should anything interesting
+    happen before your specified time, you can press ENTER to stop waiting.
+
+
+Character Independence
+----------------------
+Amazing as it sounds, all the characters you meet in the Sherlock adventure
+have an independent existence of their own.
+
+Each character is capable of performing a wide range of actions and of
+making decisions based on what is happening.  Just as in real life, they are
+doing something almost all of the time - they are animated!  Each character
+will follow a course of action that is in keeping with his personality and
+obviously the specific action each takes will be different every time you play
+Sherlock.
+
+All characters will react in some way not only to what you do, but also to 
+what every other character they come into contact with does!  Even when you're
+not around, they will go about their business.
+
+Because of this feature, you will find that each time you play Sherlock things
+will proceed in a slightly different way and, the further you get into the
+adventure, the more different it may be.  This also means that there is no
+unique solution solving the problems in Sherlock.  It also means that you will
+face slightly different problems each time you play.  This is not an adventure
+that you will only play once!  Every time you start you will be on a new
+adventure.
+
+
+Co-operating With Other Characters
+----------------------------------
+You should know that for some of the problems you will find in Sherlock, a
+solution only exists if you are willing to co-operate withthe other charaters
+in the adventure.  There are only so many things that you, as Holmes, can do
+yourself, so you may have to enlist the assistance of other characters.  You
+should also remember that, although Holmes works independently of the police 
+force, he never takes the law into his own hands.  From time to time, he needs
+the co-operation of the police force for additional clues and information.
+
+
+Conversations and Instructions
+------------------------------
+Remember that Holmes can talk to the other characters, give them instructions
+and answer questions they put to him (see 'Rules of INGLISH' for details).
+
+
+Money
+=====
+You are not going to be able to get very far without money.  You may have to
+buy train tickets or pay people for information and other services.  However,
+you will have to specify amounts of the money in the currency of Holmes' era:
+Pounds, shillings and pence (symbolised by Â£.s.d). 
+
+The formats for amounts of money are as follows:
+
+*   For pounds only, the format is Â£ pound-value, e.g.
+
+      Â£99
+
+*   For pounds and shllings, the format is Â£ pound-value ^ shilling-value
+    which may be expressed in two ways:
+
+      Â£99 19s.
+      Â£99 19/-
+
+*   For shillings only, the two possible formats are:
+
+      10/-
+      10s.
+
+*   For shillings and pence, the format is shillings-value / pence-value,
+    e.g.
+
+      13/11
+
+*   For pence only, the format is pence-value d., e.g,
+
+      9d.
+
+The only way to pay anyone a specific amount of money is to use the commands
+PAY or PAY TO as in:
+
+      PAY WATSON Â£1
+      PAY 6D TO THE CABBIE
+
+
+GAME STRATEGY
+*************
+
+You are advised, while playing this game, to create your own map of the way
+the different locations connect to each other, should you need to go back or
+should you get lost.
+
+On first entering a new location, the computer will give you a full
+description of where you are and what the place looks like.  You will also be
+given a list of the visible exits from where you are.
+
+The second time you arrive at any location, the computer will give you only
+a short description of where you are.  If you want a complete descripton
+again, you can obtain it by asking the computer to give you a look (see
+'Special Commands').
+
+
+General Rules
+=============
+There are certain general laws of physics in Sherlock that must be
+obeyed:
+
+*   You cannot lift any object that is too heavy, or, if you are carrying too
+    much, lift another object if that would mean carrying too heavy a load.  
+    The same obviously applies to all the other characters in the adventure,
+    but as they may be stronger than you are, they may be able to lift things
+    you can't.
+
+*   You do not have to be carrying an object in order to be able to use it.
+    For example, if there is a stone lying on the ground you can say:
+
+       THROW STONE AT WINDOW
+
+    The major exception is if the stone (or any other object you want to do
+    something with) is carried by someone else - they may not let you take
+    anything they are carrying.
+
+*   Some objects can act as containers - for example, suitcases, barrels, and
+    so on!  You cannot put an object into a container if it's too large to 
+    fit, neither can you put in nor take out any objects if the container is
+    closed.
+
+*   Some containers may be transparent, while others are opaque.  You will be
+    able to see the contents of any transparent container, but if it is not
+    transparent, you will not be able to see inside it unless you open it.
+
+*   Some things may be locked - doors are obvious examples, but so may
+    windows, secret catches, and so on.  To unlock them you will need the 
+    right key.
+
+*   Some things are breakable, and you must be careful how you handle them.
+    In other cases, you may want to deliberately break an object.  Be careful
+    what you try to break things with, because you may find that trying to 
+    break a door with a bottle, for example, will result in the bottle being
+    broken instead!
+
+
+SPECIAL COMMANDS
+****************
+
+In Sherlock are a number of commands which are not part of the adventure but 
+assist you to play the game & allow you to exit the game or to suspend the 
+game at a particular point so that it can be resumed later.
+
+
+Repetition of Commands: The '@' Key
+===================================
+Pressing this key causes the last command entered to be repeated.  This 
+command can only be used as the first entry in a line.
+
+Examining the Current Situation
+===============================
+Each of these commands are activated by typing the keyword or
+abbreviation.
+
+*   LOOK: The graphic of a location is only displayed the first time you enter
+    it; on the subsequent entries the graphic is not displayed.  This command
+    displays the graphic of the current location together with a full 
+    description of where you are, all exits, and all visible objects except
+    for what you are carrying (abbreviation: 'L').
+
+*   LOOK THROUGH object: This command displays a graphic and a description of
+    the view through an appropriate object, e.g. a doorway or window but not
+    through a closed door or brick! (Abbreviation: 'L THROUGH object'.
+
+*   INVENTORY: This command displays a description of everything you are
+    carrying (abbreviation: 'I').
+
+*   EXAMINE object: This command enables you to have a closer look at any
+    object you may encounter (no abbreviation).
+
+
+Suspending or Saving the Adventure
+==================================
+Each of these commands are activated by typing the keyword (no
+abbreviations).
+
+*   PAUSE: This command suspends the game until any key is pressed.
+
+*   SAVE: This command allows you to save the current state onto tape so that
+    you can resume playing from that point later.  When you have finished 
+    saving your progress thus far, the game continues normally.  The SAVE 
+    feature is very useful if you have progressed deep into London and don't 
+    want to start from the beginning again should you get killed accidentally.
+
+*   LOAD: This command loads a previously saved adventure from tape.
+
+                        
+Frustration Soother: QUIT
+========================
+*   QUIT: This comand terminates the current game.  To start a new game, 
+    rewind the game tape to the start and press PLAY, when a new game will 
+    load automatically.  A SAVEd adventure can also be played by inserting 
+    the appropriate rewound tape and pressing PLAY.
+
+
+Recording the Progress of the Adventure
+=======================================
+These two commands are activated by typing the keyword (no abbrevations).
+
+*   PRINT: This command turns on the printer (if you have one connected to
+    your Spectrum), and sends the contents of the adventure window to the 
+    printer as well as to the screen.  It is very useful in trying to solve 
+    Sherlock as it allows you to go over the events of the day at your
+    leisure.  The printout of the adventure window makes excellent reading -
+    comparable to a novel, but one in which you have decided the course of
+    action.
+
+*   NOPRINT: This command disables the PRINT command.
+
+
+DICTIONARY
+**********
+
+Directions
+==========
+
+
+Action Verbs
+============
+ATTACK          CARRY           CLIMB           CLOSE           COUNT
+DRIVE           DROP            ENTER           EXAMINE         FOLLOW
+COME            GET             GIVE            GO              HAIL
+INVENTORY or I  LOCK            LOOK            OPEN            PAY
+PUT             SIT             TAKE            TALK            TELL
+WAIT            WEAR
+
+
+Adverbs
+=======
+CAREFULLY       CLOSELY         FAIRLY          FURIOUSLY       QUICKLY
+SILENTLY        SWIFTLY         SUDDENLY        IMMEDIATELY     MADLY
+STEADILY        WARMLY          SOFTLY          QUIETLY
+
+
+Prepositions
+============
+ABOUT           FROM            IN              INTO            OF
+OFF             OUT             THROUGH         TO              WITH
+
+
+Special Commands
+================
+LOAD            NOPRINT         PAUSE           PRINT           QUIT
+SAVE
+
+
+
+________________________________________________________________________
+| Due to the immense size and complexity of this game it is impossible |
+| to guarantee that it will ever be completely error free.             |
+|                                                                      |
+| A great deal of time has been spent testing this program to ensure   |
+| it will behave as described in within these instructions.            |
+|                                                                      |
+| If, however, any problems are found we would like to know about them |
+| so that future versions may be corrected.  We would also like to     |
+| hear any comments or criticisms you may have about the game.         |
+|______________________________________________________________________|
+
+
+This booklet and the Sherlock program are copyright (c) 1984, Beam Software.
+
+INGLISH and ANIMACTION are trade marks of Melbourne House.
+
+The program was written as a group effort, headed by Philip Mitchell.
+
+The cover design is by Lynda Warner.
+
+
+
+Published by:
+
+MELBOURNE
+HOUSE
+PUBLISHERS
+
+39 Milton Trading Estate, Abingdon, OX14 4TD.
+2/70 Park Street, South Melbourne, 3205, Australia.
+
+
+-------------------------------------
+
+These are fragments from timetables which have been found.
+
+ _____________________________________________________________________
+
+|                   *** METROPOLITAN UNDERGROUND *****                |
+|_____________________________________________________________________|
+| Aldersgate TO King's X   TO Paddington TO Victoria   TO Aldersgate  |
+|_____________________________________________________________________|
+| Arr. | Dep. | Arr. | Dep. | Arr. | Dep. | Arr. | Dep. | Arr. | Dep. |
+|------|------|------|------|------|------|------|------|------|------| 
+|      |      |      |      |      |      |  :02 |  :06 |  :11 |  :14 |
+|      |      |      |      |  :03 |  :06 |  :12 |  :16 |  :21 |  :24 |
+|  :01 |  :04 |  :07 |  :10 |  :13 |  :16 |  :22 |  :26 |  :31 |  :34 |
+|  :11 |  :14 |  :17 |  :20 |  :23 |  :26 |  :32 |  :36 |  :46 |  :44 |
+|  :21 |  :24 |  :27 |  :30 |  :33 |  :36 |  :42 |  :46 |  :51 |  :54 |
+|  :31 |  :34 |  :37 |  :40 |  :43 |  :46 |  :52 |  :56 |  :01 |  :04 |
+|  :41 |  :44 |  :47 |  :50 |  :53 |  :56 |  :02 |  :06 |  :11 |  :14 |
+|  :51 |  :54 |  :57 |  :00 |  :03 |  :06 |  :12 |  :16 |  :21 |  :24 |
+|______|______|______|______|______|______|______|______|______|______| 
+
+
+** REGULATIONS **
+
+The following infractions of the 
+regulations of the Railway Author-
+ities are punishable by a fine of Â£5 or
+a month's imprisonment.
+1. Leaning from the door.
+2. Alighting while the 
+      train is in motion.
+3. Failing to use the spitoons
+      provided.
+4. Pulling the emergency
+      stop cord in other than
+      an emergency.
+5. Smoking in the non-smoking
+      compartments.
+6. Carrying domestic
+      animals.
+
+ _______________________________________
+|            LEATHERHEAD LINE           |
+|---------------------------------------|
+| King's X   TO Lth'head   TO King's X  |
+|---------------------------------------|
+| Arr.  | Dep.  | Arr.  | Dep.  | Arr.  |
+|-------|-------|-------|-------|-------|
+|       |       | 12:01 | 12:26 |  1:31 |
+| 12:01 | 12:26 |  1:31 |  1:56 |  3:01 |
+|  1:31 |  1:56 |  3:01 |  3:26 |  4:31 |
+|  3:01 |  3:26 |  4:31 |  4:31 |  6:01 |
+|  4:31 |  4:56 |  6:01 |  6:01 |  7:31 |
+|  6:01 |  6:26 |  7:31 |  7:31 |       |
+|  7:31 |  7:56 |  9:01 |  9:26 |       |
+|  9:01 |  9:26 | 10:31 | 10:   |       |
+|       | 10:56 | 12:01 |       |       |
+|_______|_______|_______|_______|_______|
+
+
+ _________________________________________________
+| This is where the stations are situated:        |
+|                                                 |
+| Kings Cross: located in Kings Cross road.       |
+| Aldergate  : located in Aldergate street.       |
+| Paddington : located in Bishops road.           |
+| Victoria   : located in buckingham Palace road. |
+|_________________________________________________|

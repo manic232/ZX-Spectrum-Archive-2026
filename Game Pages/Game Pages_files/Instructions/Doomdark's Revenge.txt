@@ -1,0 +1,1054 @@
+THE SPECTRUM GAMES DATABASE
+
+DOOMDARKS REVENGE
+
+PUBLISHER
+Beyond Software
+
+AUTHOR
+Mike Singleton
+
+YEAR
+1984
+
+DESCRIPTION
+A sort of role-playing game in which you control characters as
+they fight against evil, rescue a prisoner and/or search for
+magical objects.  As you move characters around the land of
+Icemark you are presented with views of the landscape which they
+can see.
+
+
+CONTROLS
+1=North 
+2=Northeast 
+3=East 
+4=Southeast 
+5=South 
+6=Southwest 
+7=West 
+8=Northwest
+Q=Move 
+W=Look 
+E=Choose 
+R=Check Place 
+T=Check Battle 
+Y=Check Army 
+U=Check Person
+A=More 
+S=Save 
+D=Night  
+F=Dawn
+J=Load
+Z=Copy
+C=Luxor  
+V=Morkin  
+B=Tarithel  
+N=Rorthron  
+M=Select
+
+
+INSTRUCTIONS
+The background story is explained in the instruction manual,
+which we don't have at the moment, but it goes something like
+this: Doomdark has been defeated, but his successor Shareth the
+Heartstealer has struck back and kidnapped Morkin the Free, son
+of Luxor the Moonprince.  He is being held in the Plains of
+Anvaril, surrounded by the frozen wastes at the North of Icemark.
+
+His heart has been turned against Luxor and only Tarithel the Fey
+can break Shareth's spell and bring him back to the side of good.
+
+Shareth, meanwhile, is intent on gathering together an army to
+defeat Luxor.
+
+Your mission, should you choose to accept it, is to rescue Morkin
+the Free, to defeat Shareth the Heartstealer in battle and to
+search for the Runes of Finorn - an ancient and magical message
+which may be read by Rorthron the Wise.  When this has been done
+you must return Luxor and, if they survive, Rorthron, Morkin and
+Tarithel to the Gate of Varenorn and at nightfall your task will
+have been completed.  If this proves too difficult you may opt
+for just one or two of the above: if Shareth is defeated or
+Morkin is free you have gained a partial victory.  Should Morkin
+or Tarithe be killed you can still achieve this but Luxor's
+overwhelming grief could well be his downfall.  If Luxor is
+slain, however, then Shareth has won victory.
+
+Apart from the Runes of Finorn there are three magical items
+scattered around Icemark to help you.  They are Luxor's Crown of
+Varenand, Tarithel's Spell of Thigrorn and Morkin's Crown of
+Carudrium.  Each warrior also has a weapon bearing his name which
+he may find and pick up for extra strength.  The special power
+of each of these items may be used once, although carrying any
+weapon will always give an advantage in battle.
+
+The land of Icemark contains several kinds of terrain: plains,
+forests, hills and mountains, as well as the frozen wastes which
+are impossible to cross.  The speed at which a character can
+travel depends on the terrain; for instance, travelling through
+mountains takes longer and is more tiring than travelling through
+plains.  Each race of people has a favourite kind of terrain
+which they find easier to travel through; for instance the Fey
+people can travel faster through forests than other people
+[however, at least in my copy of Doomdark, this was not so due
+to an identifiable bug in the code].  Travelling can be made more
+difficult by the strength-sapping mist rolling across the country
+which was created by Shareth the Heartstealer, and by dragons and
+other wild creatures travelling across the land.  However, should
+your trusty steed be killed you can sometimes find stray horses
+to replace it.  Losing your horse of course makes you slower and
+more quickly tired.  To kill wild creatures or to change horses
+you just walk through them.
+
+Beneath the land of Icemark is an extensive set of underground
+tunnels.  You can enter and exit from the tunnels at certain
+places described below.  The underground system is the only way
+to reach Morkin who is surrounded by the Frozen Wastes.  In a
+tunnel you are safe from attackers but there will be dragons,
+skulkrin and trolls to delay your journey.
+
+Icemark also has several kinds of landmark.  They are as follows.
+
+City:      Provides a fortified dwelling place for recouperation
+for commanders and armies friendly to those who own it.  May be
+taken with enough force.  A commander may recruit men from the
+city guards or post men from his army to guard the city.  The
+population of a city slowly grows as time progresses.
+
+Fortress:  Similar to a city, but slightly less fortified.
+
+Fountain:  Provides respite.  A person who arrives at a fountain
+will usually be refreshed by the Springs of Life, but some are
+inhabited by skulkrin.
+
+Gate:      Provides an entrance to underground tunnels.  Dragons
+can sometimes reside here, or you may find a magic spell.
+
+Hall:      Provides a home for the night.  You could find shelter
+or new courage by staying here, but sometimes you will find that
+trolls have taken up residence.
+
+Hut:       Similar to a hall, but smaller.  Skulkrin or wolves
+may live here.
+
+Palace:    Provides an entrance to underground tunnels.  You may
+find a spell here, or if you are lucky some horses.  If you are
+unlucky you will find dragons.
+
+Pit:       Provides an entrance to underground tunnels. 
+Creatures and spells from the underworld may emerge here, but if
+you are lucky you will receive the Springs of Life.
+
+Stones:    A mystical place where you may find a spell for good
+or evil or occasionally some dragons.
+
+Temple:    A mystical place where you may find a spell for good
+or evil and an underground entrance.
+
+Tower:     The dwelling place of the Wise.  You will receive a
+word of guidance upon arriving at a tower.
+
+You control each character independently using the person select
+keys.   The four main protagonists have their own keys (although
+the Morkin key does not work until he is back on the side of
+Luxor); the others can be selected by pressing the 'select' key. 
+The 'more' key can be used to page through the options if there
+are more than ten of them.  Each character has eight hours in
+which to travel or rest.  Any character who still has hours
+left in the day can be moved at any time.  You can look around
+by using the direction keys.  The 'look' key is used to give a
+view if one is not currently on the screen (because some
+information is there instead).  To move forward, press the 'move'
+key.  Moving in the 'diagonal' directions takes up to 1.5 times
+as long as moving North, South, East or West.  In order to do
+something other than moving, such as resting for the remainder
+of the day, attacking an enemy or entering an underground tunnel,
+press 'choose'.  Information about the location (including
+whether there is an object on the floor and information about any
+person who might be standing just ahead of you) can be viewed
+with 'check place'; similarly, 'check battle' provides
+information about the previous night's battles, 'check army'
+displays information about the character's army and 'check
+person' displays information on the character's personality.
+
+When all characters have done all their moves for the day, press
+the 'night' key.  There will be a delay while the computer moves
+all of Shareth's forces and the independent characters,
+calculates the results of battles, and refreshes the spells and
+wild creatures which may be found at various locations in
+Icemark.  Eventually, dawn breaks and you can resume the game by
+pressing the 'dawn' key.
+
+When you are standing before an enemy - or anyone that is not
+your friend - you have two choices: to approach them for
+negotiations or to attack them.  Either choice may be made by
+pressing the 'choose' key (as long as it is still daytime).  If
+you approach them and fail then they will attack you.  If this
+happens, or if you attack, then the rest of the day will be used
+up in fighting; the result of the battle will be decided during
+the night.  If enemy characters are still alive and occupying the
+same locations by the time dawn breaks then you have the choice
+of moving away or continuing the fight by remaining in the same
+place.  In order to approach a character he must be standing by
+himself.  If you approach him and succeed then you will be given
+control of that character and be able to move for the rest of
+the day.  You are more likely to succeed in recruiting a
+character if you choose someone to approach him whose personality
+is similar to his.  However, it goes without saying that you will
+never manage to turn Shareth the Heartstealer away from evil, and
+only Tarithel will successfully be able to approach Morkin.
+
+SEQUELS/PREQUELS
+This game is the sequel to Lords of Midnight
+
+INLAY CARD TEXT
+
+URLS
+Snapshot
+ftp://ftp.nvg.unit.no/pub/sinclair/snaps/games/strategy/
+doomdarks-revenge.zip
+
+Maps
+ftp://ftp.nvg.unit.no/pub/sinclair/pics/maps/doomdarks-revenge/
+north-icemark.jpg
+ftp://ftp.nvg.unit.no/pub/sinclair/pics/maps/doomdarks-revenge/
+south-icemark.jpg
+
+Hacks (various programs which can tell you more about the current
+state of the game, print out a map, etc)
+
+ftp://ftp.nvg.unit.no/pub/sinclair/utils/spectrum/
+doomdark_stuff.zip
+
+
+TIPS/CHEATS
+End of Game
+
+If Shareth is killed and all four of the main characters gather
+at the Gate of Varenorn then an overwhelming victory will have
+been won and the watchwords of Midnight will be revealed.
+Otherwise, to end the game, Luxor must be at the Gate and either
+Shareth must be killed or Morkin must be with Luxor.  A worthy
+victory can be won if Shareth is still alive; a noble vitory is
+won if she is dead.  How worthy or noble the victory is depends
+on how many of the four characters are assembled and how many of
+them are carrying their magical items.
+
+
+Magical Items
+Use of a crown summons all the Moonprince's forces to your
+location.  Use of the Spell of Thigrorn transports you to
+Morkin's location.  Use of the Runes of Finorn gives a very
+refreshing rest to all the Moonprince's forces.  Also, merely
+carrying the Runes of Finorn will protect you from being killed
+in battle, and carrying any of the four magical items will
+make you more persuasive when approaching people for
+negotiations.  Using any weapon gives yourself a refreshing rest.
+
+Spells and Creatures
+Each morning except possibly the first, creatures occupy
+approximately one in every four land locations, and a spell or
+creatures occupy every landmark, apart from those occupied by
+people.  Which creatures or spells you find is indicated by the
+following table.
+
+Place    | code 0 | code 1 | code 2 | code 3
+---------+--------+--------+--------+--------
+Plains   |dragons |skulkrin|wolves  |horses
+Mountains|dragons |dragons |trolls  |wolves
+Forest   |dragons |skulkrin|wolves  |wolves
+Hills    |dragons |trolls  |wolves  |wolves flames=Flames of Dawn
+Gate     |dragons |claws   |flames  |blood  claws =Claws of Night
+Temple   |flames  |thorns  |blood  |languor blood=Blood ofCourage
+Pit      |trolls  |wolves  |thorns|springs thorns=ThornsofDespair
+Palace   |dragons |horses  |claws   |blood springs=SpringsofLife
+Fortress |dragons |wolves |shelter|shelter languor=LanguorofDeath
+Hall     |trolls  |shelter |shelter |blood
+Hut      |skulkrin|wolves  |shelter |shelter
+Tower    |guidance|guidance|guidance|guidance
+City     |dragons |shelter |shelter |springs
+Fountain |skulkrin|springs |springs |springs
+Stones   |dragons |flames  |flames  |languor
+Tunnel   |dragons |skulkrin|trolls  |trolls
+
+The code number can be obtained either from the location by the
+formula [444(x+64y) MOD 6151] MOD 4 or from the last part of the
+name of the landmark using the following table.
+
+ code 0 |  1  |  2  |  3
+    ----+-----+-----+-----
+    orn |  il | iel |  im
+     uk | ium |  ia | eon
+     ay |  ak | arg | and
+    ane | esh |  ad |  un
+
+If you get "guidance" then the program chooses a random character
+and selects one of the following.
+
+ - If the character is not loyal to the Moonprince and is alive
+then the guidance is the location of this character.
+ - If he does not have his own weapon or magical item then the
+guidance is the location of this object.
+ - Otherwise the guidance is the location of Shareth the
+Heartstealer.
+
+Travelling time
+
+The time taken in hours for a person to advance one position is
+the sum of T1, T2 and various adjustments defined as follows.
+
+T1 is a constant depending on the terrain type of the destination
+location, taken from the following table.
+
+  Plains    1/4
+  Mountains 2
+  Forest    1
+  Hills     3/4
+  Any other 1/2
+
+T1 is instead [in theory] set to zero if the terrain is the
+person's favourite, as listed in this table.
+
+  Luxor      city
+  Morkin     plains
+  Rorthron   tower
+  Tarithel   forest
+  Shareth    plains
+  Feys       forest
+  Barbarians hills
+  Iceguards  plains
+  Giants     mountains
+  Dwarves    tunnels
+
+T2 is a constant depending on the speed of the individual, as
+follows.
+
+          riding     walking
+  -----------------------------
+  Luxor      3/4        1 1/2
+  Morkin     3/4        1 1/2
+  Rorthron   1/2        1
+  Tarithel   1/2
+  Shareth    1/2
+  Feys       3/4        1 1/2
+  Barbarians 1 1/4      2
+  Iceguards  3/4        1 1/4
+  Giants                1 1/4
+  Dwarves               1 1/4
+
+The adjustments are half an hour each for:
+ - walking into mist (except Shareth and the Iceguards)
+ - diagonal moves
+ - killing creatures,
+and also 1/4 hour if the person is not swift or 1/2 hour if he
+is slow.
+
+Each person has 7 3/4 hours initially, and can move until the
+last quarter is used up.
+
+Tiredness
+
+A character gets more tired every time he makes a move.  The
+amount by which the tiredness is increased is one unit (described
+below) except when:
+
+ - he encounters wild creatures (2 units)
+ - he walks through mist and is not Shareth or an icelord (2
+units)
+ - he walks into mountains and is a giant (2 units)
+ - he walks into mountains and is not a giant (3 units).
+
+A unit is the sum of two numbers, the first being 2, 4 or 3
+according to whether the character is strong, weak or neither,
+and the second being from the following table.
+
+          riding  walking
+  --------------------------
+  Luxor           1        2
+  Morkin          2        4
+  Rorthron        0        1
+  Tarithel        2        3
+  Shareth         2        4
+  Feys            1        2
+  Barbarians      1
+  Iceguards                2
+  Giants          0
+  Dwarves                  3
+
+A character becomes more despondent by 6 every time he makes a
+move in mist and is not Shareth or an icelord, and by 32 every
+time he is kicked out of a battle (see battles).
+
+Approaching
+
+When character A approaches character B, a count is made of the
+number of attributes (such as 'good' or 'loyal') which A and B
+have in common, excluding 'swift' and 'slow'.  This number is
+then adjusted as follows.
+
+ - add 1 if the B is not loyal
+ - double the number if B is treacherous
+ - add 3 if A is the liege of B
+ - add 2 if A is carrying any of the magical items.
+
+If the total is 4 or more then the approach succeeds.
+
+Battles
+
+When a group of people who are not all friends are gathered
+together in one place, each of those people in turn becomes
+person A against a person B who is chosen at random from A's foes
+at that location.  If a city (or fortress) contains a person or
+people who are unfriendly with its owners then the city's army
+becomes "person" A against a random person B from A's foes at
+that location.  The results of a battle between A and B are
+calculated as follows.
+
+ - If A is a person, let K = (2*reckless+despondent+tired)/4. 
+If RND<=K (where RND is a random number between 0 and 255) or if
+A is carrying any weapon, then A will attack B personally:
+
+   * if B is carrying the Runes of Finorn then B is unharmed.
+   * with 25% probability, B will lose his horses (unless B has
+no horses or is Shareth or Tarithel).
+   * if the RND calculated earlier is both odd and more than the
+     recklessness of B then B will be killed, unless B has a
+weapon, in which case he has 69% chance of surviving.
+
+ - The army of A then attacks the army of B, followed by the army
+of B attacking the army of A. Each battle between army 1 and army
+2 is calculated as follows.
+
+   * A value C for each army is calculated from
+(tiredness+constant)/2, where the constant is taken from the
+following table depending on the type of army.
+
+           riders  warriors
+     ----------------------------
+     Moonguard    220
+     Fey          200     150
+     Barbarian    180     140
+     Iceguard     220     180
+     Giant                180
+     Dwarf                160
+
+This constant is divided by 2 if the army belongs to a city (or
+fortress).  Then the number of warriors lost by army 2 in the
+battle is ((N1*C1)/C2)*(RND/256) where N1 is the size of army 1.
+If this number is more than half of the size of army 2 then army
+2 and its commander will be 'kicked out' and placed in a nearby
+location (the commander of army 2 will then be said to have won
+a victory).  If a city loses its whole army then it will change
+ownership.  If a commander loses his whole army then as well as
+being kicked out he will be attacked by 'the sword'; the rules
+of this battle follow those for people described above.
+
+Enemy Strategy
+
+Bits 4-7 of each element of table 13 describe the movement of a
+character with a number from 0-3, as follows.
+
+0: Move towards the character's liege (if this person is dead
+then find his liege, and so on.  If all the lieges are dead then
+move towards Luxor instead).
+1: Move towards the character's foe (if this person is dead then
+find his liege, and so on as per (0)).
+2: Move towards the character's weapon or magical item, if it is
+on the ground, otherwise move towards the character's fortress
+or city.
+3: Move towards the character's fortress or city, except Shareth,
+who moves towards the City of Glireon.
+
+During the night all forces not loyal to the Moonprince are moved
+according to this pattern, but first the number is changed as
+follows.
+
+ - if a character has a liege who is moving with code 0 or 1 then
+he will move with code 0.
+ - otherwise, if a random number from 0-15 is less than 4 then
+the character's code is changed to this number.  If it equals 4
+then the character is not moved.
+
+A character will walk in the direction specified, picking up any
+item that he sees on the ground, until nightfall or until he gets
+very tired or meets a foe, at which point he stops.  The
+character will always attempt to approach the foe if they are the
+only two people in the location.  If when dawn arrives the
+character is still in the same location as a foe then he will
+move on with 50% probability.
+
+
+HACKING GUIDE
+DOOMDARKS'S REVENGE MAP AND TABLES
+
+SITES AND CHARACTERS
+--------------------
+
+I=Icelord               Example: G Imgarorn: Fortress/Citadel of
+G=Giant                 Imgarorn the Giant. Exceptions noted
+below.
+D=Dwarf
+B=Barbarian
+F=Fey
+S=Special
+
+All site names are created algorithmically from the map. There's
+a fixed seed at the upper left corner of the map, and the game
+traces recursively you position to this point, creating unique
+names (the name tables will be shown later) for each zone
+(plains, forest and so on). A citadel or fortress stands as a
+zone, and it gets its name the same way. There are 128 such
+sites, and 124 owners. The first 5 sites are special; their
+owner is not the character with the site name (as in all the
+others).  There are 5 persons which receive special treatment:
+Luxor the Moonprince, Morkin the Free, Tarithel the Fey, Rorthron
+the Wise and Shareth the Heartstealer. Shareth owns the City of
+Imiriel. The other four are foreigners.
+
+This is the full character table:
+
+ 0 S Luxor    32 I Berudrarg  64 D Torormarg  96 B Thorthak
+ 1 S Morkin   33 I Imgudrur   65 I Ushangrane  97 F Thormand
+ 2 S Tarithel  34 I Talorthane  66 I Fangrorn   98 B Anvorthun
+ 3 S Rorthron  35 I Morangrim  67 I Carangresh  99 F Imgormand
+ 4 S Shareth   36 G Obortharg  68 G Anvildrak  100 F Carorthorn
+ 5 G Imgarorn  37 G Glortheon  69 I Anvarorn  101 B Imgorad
+ 6 G Ingormad  38 I Ulfangruk  70 D Hagudril  102 F Tororthane
+ 7 I Malisane  39 I Malarorn   71 G Ganigrorn  103 F Imorthorn
+ 8 I Anvireon  40 I Ganormarg  72 D Berangrorn 104 F Berormorn
+ 9 I Talormane  41 G Berorthim  73 G Fenorn   105 B Firak
+10 I Imildrorn  42 I Firim    74 G Sildrorn  106 F Morildrane
+11 I Carorthad  43 I Glireon   75 D Carorthay  107 F Thigrand
+12 I Ushudrarg  44 I Kahangriel  76 B Glortharg  108 B Kahudrarg
+13 G Glormeon  45 I Kahudruk   77 B Thortheon  109 F Lorangriel
+14 G Thormuk   46 I Lororthane  78 D Glormane  110 F Carorthane
+15 I Imgaril   47 I Malirane   79 D Gloruk   111 F Thorthand
+16 G Obularg   48 I Kahudrun   80 D Gludreon  112 F Berormane
+17 I Thigrim   49 G Ulformane  81 D Thudrun   113 F Ingormiel
+18 I Lorelorn  50 D Hagildrorn  82 D Torelorn  114 B Careneon
+19 I Kagangrorn 51 I Thildresh  83 D Thatruk   115 B Varangrand
+20 I Malirarg  52 I Glormarg   84 B Carormand  116 F Imgorthand
+21 G Imatrorn  53 I Carorand   85 D Lorangrarg 117 F Lorangrim
+22 G Asorthane  54 G Carangrane  86 D Thelak   118 F Tharand
+23 I Imasharg  55 G Thangrorn  87 D Imangruk  119 B Torinarg
+24 I Torangrorn 56 I Malormun   88 D Glidril   120 F Imorthesh
+25 I Sortharg  57 I Varormane  89 B Thangrad  121 B Anvortheon
+26 I Zarashand  58 G Imgenarg   90 D Imulorn   122 F Obireon
+27 I Glororn   59 G Thorarg   91 D Thigrak   123 G Obigrorn
+28 I Malorthand 60 I Thirium   92 B Lorangrorn 124 I Imgasharg
+29 G Varangrim  61 I Fenarg    93 B Varatrarg  125 I Thangrarg
+30 I Sigrorn   62 D Imgorarg   94 D Imelorn   126 B Kahudrak
+31 I Hagudrak  63 H Torelak   95 D Ulfangrak  127 F Carorthand
+
+The sites are in North-South order. This may serve as well as a
+clue to the distribution of the races.
+
+SAVE GAME FORMAT
+----------------
+
+All the addresses shown from now on are decimal. The saved data
+starts at Spectrum address 39933, and is 9219 bytes long. This
+includes:
+
+- Character index                  1
+- Day counter                      2
+- 24 tables (128 bytes each)    3072
+- Map (64*96)                   6144
+                                ----
+                                9219
+
+Address 39933 holds the number of the character you are using.
+Addresses 39934-5 hold the number of days 'since the Moonprince
+rode forth into the Icemark'.
+
+The map and several tables are included here. That's the reason
+why when you get killed, you must load a saved game to restart
+(there was no room for two copies of all these data). I will now
+list all of this. The tables are 128 bytes long, and are indexed
+by site or character number, as for the above table.
+
+
+TABLES 0/1 (39936/40064): Site coordinates
+------------------------------------------
+
+Table 0 contains the X coordinates (in the map) for the 128
+sites, and table 1 the Y coords. I will not list them as all of
+you have the map or can get it easily using one of the PD
+editors.
+
+Each site belongs to the character with the same name.
+Exceptions:
+
+0 Fortress of Varenand -> Lorangrim the Fey   (117)
+1 City of Carudrium    -> Carorthay the Dwarf  (75)
+2 Fortress of Thigrorn -> Lorangriel the Fey  (109)
+3 Fortress of Finorn   -> Carangrane the Giant (54)
+4 City of Imiriel      -> Shareth the Heartstealer
+
+
+TABLES 2/3 (40192/40320): Object coordinates
+--------------------------------------------
+
+As tables 0/1, for objects. Unlike tables 0/1, these are not
+fixed, and are randomly set at the start of the game. Each object
+has an owner, who can use it *once*. Anyone who has an object but
+is not its owner, won't be able to use it, but will benefit from
+some minor advantages. They can also be used to approach new
+people (by giving some object to its true owner you can make him
+more inclined to join your side).
+
+Objects 5-128 are weapons, their power is in Battle, and belong
+to the character with the same number. These are Spears (for
+Barbarians), Bows (for the Fey), Axes (for Dwarves), Hammers (for
+Giants) and Swords (for Icelords). All of them give advantages
+in battle.
+
+Objects 0-4 are special. Here are their major powers:
+
+0 Crown of Varenand: Used by Luxor brings all of his men with
+him.
+1 Crown of Carudrium: Used by Morkin brings Luxor and his men.
+2 Spell of Thigrorn: Used by Tarithel takes everyone to the city
+of Imiriel.
+3 Runes of Finorn: Used by Rorthron... I don't remember!!!
+4 Crown of Imiriel: Used by Shareth brings Luxor and his men.
+The Spell simply takes the person who uses it (namely Tarithel)
+to Morkin's location (of course she will then have to move away
+from him if he is still captive or else they will get into a
+fight).  The Runes give rest to each person who is loyal to the
+Moonprince - which is the same as what an ordinary weapon does
+for the individual who uses it.  This makes a person not at all
+tired and not at all despondent.
+
+Crowns have the minor power of Persuasion. They make easier to
+approach others in peace.  It's worth noting that the Runes and
+the Spell also have this power.
+
+Spells have the minor power of Swiftness (more moves in a day
+time).
+
+Runes have the minor power of Protection in battle.  It is
+impossible to get killed when carrying these.
+
+When an object is carried by a character, his number goes on
+table 3, and table 2 holds 255.
+
+
+TABLE 4 (40448): Enemies killed in the last battle.
+TABLE 5 (40576): Men lost in the last battle.
+TABLE 6 (40704): Campaign army size.
+TABLE 7 (40832): Home army size (in city or fortress).
+-------------------------------------------------------
+
+All of these tables store the number divided by 5. Thus, 15 means
+75 men and 255 (the maximum) means 1275 men.
+
+
+TABLE 8 (40960): Warrior type (based on table 13)
+-------------------------------------------------
+
+0-5: Moonguard
+6-7: Fey
+8-9: Barbarian
+
+10, 11, 14: Iceguard
+
+13: Giant
+15: Dwarf
+
+The remaining values are unused.
+
+
+TABLE 9 (41088): Owner of each site
+-----------------------------------
+
+The initial owners are explained somewhere above. This table
+holds the actual owners each time.
+
+
+TABLES 10/11 (41216/41344): Character coordinates
+-------------------------------------------------
+
+X and Y respectively. Initially, each one is in his home site.
+Exceptions:
+
+Luxor:    Gate of Varenorn.
+Morkin:   City of Imiriel.
+Tarithel: Forest of Fangrim.
+Rorthron: Gate of Varenorn.
+Shareth:  City of Imgaril.
+
+
+TABLE 12 (41472): Miscellaneous I
+---------------------------------
+
+a) The 5 upper bits hold the daytime left:
+
+0:     Night
+1:     An hour
+2-9:   Two hours
+10-12: Three hours
+13-16: Four hours
+17-20: Five hours
+21-24: Six hours
+25-27: Seven hours
+28-30: Eight hours
+31:    Dawn
+
+Some people feel that this table is not correct.  I prefer
+another interpretation that the number is simply the number of
+quarter-hours left in the day.  When the value is printed it is
+rounded up to the next hour (so that if 2.25 hours remain then
+it will print 3).
+
+
+b) The 3 lower bits hold the direction of sight:
+
+0: North        2: East         4: South         6: West
+1: Northeast    3: Southeast    5: Southwest     7: Northwest
+
+
+TABLE 13 (41600): Character types
+---------------------------------
+
+This table is used mainly to select a graphic representation:
+
+ 0: Luxor       (mounted)
+ 1: Luxor       (on foot)
+ 2: Morkin      (mounted)
+ 3: Morkin      (on foot)
+ 4: Rorthron    (mounted)
+ 5: Rorthron    (on foot)
+ 6: Fey         (mounted)
+ 7: Fey         (on foot)
+ 8: Barbarian   (mounted)
+ 9: Barbarian   (on foot)
+10: Icelord     (mounted)
+11: Icelord     (on foot)
+12: Tarithel    (always mounted)
+13: Giant       (always on foot)
+14: Shareth     (always mounted)
+15: Dwarf       (always on foot)
+
+There are other codes which are not used in this table, but I
+include them for completeness. See below for incident codes.
+
+16: Dragon
+17: Wolf
+18: Troll
+19: Skulkrin
+20: Horse
+
+
+TABLE 14 (41728): Miscellaneous II
+----------------------------------
+
+Bits 0-2: Allegiance    0=Luxor
+                        1=Shareth
+                        2=Fey
+                        3=Barbarians
+                        4=Giants
+                        5=Dwarves
+                        (6, 7 unused)
+
+Bit 3:  Killed enemy in his last battle.
+Bit 4:  Fought battle (bits 3 and 5 are meaningless if 4 is not
+set).
+Bit 5:  Won victory in his last battle.
+Bit 6:  In a tunnel.
+Bit 7:  Used his object (only once allowed).
+
+
+TABLE 15 (41856): How tired
+---------------------------
+
+Utterly:    000-031
+Extremely:  032-062
+Very:       064-095
+Quite:      096-127
+Somewhat:   128-159
+Slightly:   160-191
+Not:        192-223
+Not at all: 224-255
+
+
+TABLE 16 (41984): Last battle
+-----------------------------
+
+In his last battle, this character fought whoever's number is
+here.
+
+
+TABLE 17 (42112): Foe
+---------------------
+
+This character's foe. If bit 7 is set, none.
+
+
+TABLE 18 (42240): Liege
+-----------------------
+
+This character's liege. If bit 7 is set, none.
+
+
+TABLE 19 (42368): How reckless
+------------------------------
+
+See table 15. 0 means DEAD.
+
+
+TABLE 20 (42496): Object/Slayer
+-------------------------------
+
+This table has two meanings:
+
+a) If alive, then it holds the number of the carried object, or
+255 for nothing.
+b) If dead, then it holds the number of the character who has
+killed him. If no character (i.e. dragons, trolls...), then bit
+7 is set and the lower bits hold an incident code. See below for
+incident codes.
+
+
+TABLE 21 (42624): Positive attributes
+-------------------------------------
+
+Bit Meaning
+
+7   Loyal
+6   Swift
+5   Brave
+4   Stubborn
+3   Generous
+2   Forceful
+1   Strong
+0   Good
+
+
+TABLE 22 (42752): Negative attributes
+-------------------------------------
+
+Bit Meaning
+
+7   Treacherous
+6   Slow
+5   Cowardly
+4   Fawning
+3   Greedy
+2   Reticent
+1   Weak
+0   Evil
+
+( ...note that it's possible to be simultaneously good and evil!)
+
+
+TABLE 23 (42880): How despondent
+--------------------------------
+
+See table 15.
+
+
+TABLE 24 (43008): MAP (this one is not 128 bytes long!)
+-------------------------------------------------------
+
+The map is 64 squares wide and 96 squares tall. The position at
+(X,Y) is in address 43008+64*Y+X. Every byte has the following
+meaning:
+
+Bits 0-3: Surface attributes
+
+   0 Plains       8 Fortress
+   1 Mountains    9 Hall
+   2 Forest      10 Hut
+   3 Hills       11 Tower
+   4 Gate        12 City
+   5 Temple      13 Fountain
+   6 Pit         14 Stones
+   7 Palace      15 Frozen Wastes
+
+Bits 4-7: Flags
+
+   Bit 4: Incident
+   Bit 5: Army (only graphical information: you could see an army
+          which isn't really there, or vice versa, by poking this
+          bit!)
+   Bit 6: Mist.
+   Bit 7: There's tunnel below. If the surface type is 4-7,
+          there's a tunnel entrance.
+
+
+So far the saved information. Other tables:
+
+
+Table 29508: how does terrain (table 24) affect time (table 12a)
+----------------------------------------------------------------
+
+Plains:       1
+Mountains:    8
+Forest:       4
+Hills:        3
+
+(All the rest): 2
+
+
+Table 29540: how does character type (table 13) affect time
+(table 12a)
+--------------------------------------------------------------
+---------
+
+(mounted/afoot)
+
+Luxor:      3/6
+Morkin:     3/6
+Rorthron:   2/4
+Fey:        3/6
+Barbarians: 5/8
+Icelords:   3/5
+Tarithel:   2/-
+Giants:     -/5
+Shareth:    2/-
+Dwarves:    -/5
+
+
+Table 29317: how does character type (table 13) affect tiredness
+(table 15)
+--------------------------------------------------------------
+-------------
+
+(mounted/afoot)
+
+Luxor:      1/2
+Morkin:     2/4
+Rorthron:   0/1
+Fey:        2/3
+Barbarians: 2/4
+Icelords:   1/2
+Tarithel:   1/0
+Giants:     -/2
+Shareth:    0/-
+Dwarves:    -/3
+
+
+Table 29009: Four incident types for each possible terrain
+----------------------------------------------------------
+
+(only on empty squares; repeated values increase probability)
+
+Plains:     0,3,1,4     Fortress:   0,1,6,6
+Mountains:  0,0,2,1     Hall:       2,6,6,10
+Forest:     0,3,1,1     Hut:        3,1,6,6
+Hills:      0,2,1,1     Tower:      5,5,5,5
+Gate:       0,7,8,10    City:       0,6,6,12
+Temple:     8,9,10,11   Fountain:   3,12,12,12
+Pit:        2,1,9,12    Stones:     0,8,8,11
+Palace:     0,4,7,10    Fr. Wastes: 0,3,3,2
+
+Incident types:
+
+ 0  Dragons
+ 1  Wolves
+ 2  Trolls
+ 3  Skulkrin
+ 4  Horses
+ 5  Guidance
+ 6  Shelter
+ 7  Claws of Night      (time left =  0)
+ 8  Flames of Dawn      (time left = 31)
+ 9  Thorns of Despair   (despondent = 0)
+10  Blood of Courage    (despondent = 255)
+11  Languor of Death    (tired = 0)
+12  Springs of Life     (tired = 255)
+
+
+NAME TABLES (24839)
+-------------------
+
+All names (except the first five, which are hardcoded) contain
+three parts, which are fetched more or less randomly (with the
+map as a seed) by the name generator from three tables. These
+are:
+
+Prefixes (25):
+Img Dol Lor Ush Mor Tal Car Ulf As Tor Ob F Gl
+S Th Gan Mal Im Var Hag Zar Anv Ber Kah Ash
+
+Midwords (16):
+ar or ir en orth angr igr ash el in ul atr orm udr is ildr
+
+Suffixes (16):
+orn il iel im uk ium ia eon ay ak arg and ane esh ad un
+
+The name generator has a fixed seed at position (0,0) of the map.
+This position holds the fortress of Imgarorn the Giant. As you
+can see Img-ar-orn is (0,0,0) in the tables above. Any other
+position is recursively traced down to (0,0), generating a
+pseudorandom seed for the three tables. The algorithm takes care
+of any contiguous squares of the same terrain type having the
+same name.
+
+I find this explanation misleading.  The "pseudo-random" number
+is simply calculated by evaluating N = 444(64y+x) MOD 6151 where
+(x,y) are the coordinates.  Then the first part of the name is
+taken from bits 8-12 of N, the middle part is taken from bits 4-7
+and the last part from bits 0-3.
+
+If the location to be named is an area rather than an individual
+square, the algorithm traces around the border of the area to
+find its northernmost point (if there are several northernmost
+points then the most westerly one is chosen) and uses that in the
+formula.  This is the only action that might be described as
+"recursively tracing" and is the most complicated part of the
+procedure.
+
+As you can see, the coordinates (0,0) give rise to N=0 and hence
+the name (0,0,0).  This does not imply that the top left corner
+is some sort of "seed" for the algorithm.
+
+Note that the map has 6144 positions. 6144=24*16*16, so there is
+more possible names than squares in the map. So the algorithm
+also guarantees that there will be no different places with the
+same name,
+
+This is not guaranteed merely by numbers.  What if N were
+444(64y+x) MOD 6144?  Then the only values of N which would
+result would be the multiples of 12 and these would all be
+repeated 12 times.  As it happens, 6151 is prime and therefore
+each location gives a different value of N.
+
+Note that since 6151 is so close to 6144 there is only one
+location whose name starts with Ash: the tower of Asharil at
+55,42.
+
+
+GENERAL FACTS
+A special demo of Psytron was given away on side two of the
+Doomdark tape.
+
+NOTES
+When you are playing Doomdark on an emulator it helps if you set
+it to a high speed setting to speed up the drawing of landscapes
+and especially to make the nights shorter.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

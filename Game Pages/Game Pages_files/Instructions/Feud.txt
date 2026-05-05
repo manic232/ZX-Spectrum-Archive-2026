@@ -1,0 +1,188 @@
+THE SPECTRUM GAMES DATABASE
+
+FEUD
+
+PUBLISHER
+Bulldog (Mastertronic)
+
+AUTHOR
+
+YEAR
+1987
+
+CATEGORY
+Arcade Adventure Strategy
+
+CONTROLS
+Q: Up  
+A: Down  
+O: Left  
+P: Right  
+SPACE: Fire
+
+Kempston, Sinclair and cursor joysticks supported.
+
+INSTRUCTIONS
+Wander about picking up herbs (they change colour) for spells.
+Return to your cauldron to mix spells, then seek out your
+opponent and use the spells against him.
+
+INLAY CARD TEXT
+THE STORY
+
+"No one knows 'ow long they have been 'ere; even old Albert don't
+recall 'em comin' an' 'e reckons 'e might be over 'undred! We
+didn't mind when they kept themselves to themselves. I mean, all
+we wants is a bit o' piece an' quiet an' leave to go about our
+business. We're simple folk 'ere in Little Dullford and we can't
+be doin' with magic an' spells. I never did 'old with folk
+meddlin' in things best left alone. We'd see 'em o'course; in the
+forest pickin' toadstools an' suchlike, or p'raps one would pop
+into Tubby Hieke's shop for 'erbs an' stuff, but by an' large
+they left us normal folk alone, and that's 'ow we like it.
+
+They'd 'ad arguments before, we all know that. Well, readin' them
+magic books all day they can't be right in the 'ead can they?
+Anyway, two summers back, or maybe three (I remember because that
+was the year Albert's donkey died), old Leanoric (he's the older
+one I think), he turned 'is brother Learic into a frog! His own
+brother! but he turned 'im back after a week an' at least they
+didn't bother us.
+
+Two weeks back, all this changed; first the forest went quiet for
+a few days, not even a sparra' dared to make a sound. Then the
+noises began, first shoutin' then all manner o' bangs, explosions
+and things best not thought about. Yesterday, old Leanoric upped
+an' left an' moved to another 'ut on t'uther side o'village.
+Hieke (who knows 'em better'n most), reckons they's about to
+start a feudin' an' woe betide the poor soul who gets in their
+way.  That as maybe but there's strange things afoot in this 'ere
+village an' no mistake. It don't take no fancy book learnin' to
+figger we ain't seen the last o'this, you mark my words."
+
+THE GAME
+
+You take the role of Learic and playing the game is simply a
+matter of moving through the kingdom collecting ingredients to
+make spells. You are able to mix these spells and use them
+against your opposing Wizard LEANORIC, but remember LEANORIC is
+doing the same and is out to destroy you.
+
+LOADING INSTRUCTIONS
+Type LOAD"" and press ENTER.
+
+CONTROLS
+Q   - UP       P     - RIGHT
+A   - DOWN     SPACE - FIRE
+O   - LEFT
+
+Kempston Joystick Interface
+Sinclair Joystick Interface
+Interface II Joystick Interface
+Cursor Joystick Interface
+
+HINTS
+
+Mixing Spells
+Stand above your own cooking pot. Press fire button and move
+joystick left and right to move the pages of the spell book. When
+the book is open to the required spell release the fire button.
+If you have both the ingredients, this is shown in red in the
+spell book, the spell will be mixed and you will be armed with
+it.
+
+Casting Spells
+To cast a spell you need to be armed with it. This is done at the
+mixing stage. Pressing the fire button will cast the spell. Some
+spells may be used only once whilst others may be used a number
+of times. Most spells act as necessary when cast, however some
+of the more destructive ones such as lightning and fireball will
+need some control to become effective. It is up to you to find
+out how to control your spells.
+
+ Spells and their Ingredients
+ SPELL                  INGREDIENTS
+  1. TELEPORT           DANDYLION & BURDOCK
+  2. PROTECT            PIPERWORK & RAGWORT
+  3. SPRITES            SNAPDRAGON & TOADFLAX
+  4. ZOMBIE             DEVILSBIT & BONES
+  5. SWIFT              SPEEDWELL & MAD SAGE
+  6. FREEZE             BIND WEED & BOG WEED
+  7. DOPPLEGANGER       FOX GLOVE & CATSEAR
+  8. INVISIBLE          CHONDRILLA & HEMLOCK
+  9. REVERSE            THISTLE & SKULLCAP
+ 10. HEAL               BALM & FEVERFEW
+ 11. FIREBALL           DRAGONSTEETH & MOUSETAIL
+ 12. LIGHTNING          CUD WEED & KNAP WEED
+
+COLLECTING HERBS
+Just walk over herb. Successful picking of the herb will be shown
+on the spell book.
+
+HINT
+Compass points to Leanoric.
+
+
+CHEATS
+A map of the playing area (which wraps around on all four edges)
+was published in the June 1987 issue of YS, page 32. It also
+included the following tips from David McCandless:
+
+Always look for herbs which make up missile spells like Fireball,
+Lightning and Sprites as these are more effective. Once you've
+armed yourself with a spell, never leave the book open at the
+corresponding page as the spell will disappear if you do. Beware
+when entering the herb garden (bottom left on the map) as there
+is a guardian which chases you and drains your energy. To kill
+Leanoric quickly, simply arm yourself with three missile spells
+and wait by your cauldron. Leanoric will appear after a while,
+totally vulnerable to your spells. If you find that Leanoric has
+a herb before you, just move into a neighbouring screen and wait
+for a minute or two. Then re-enter the screen and the herb will
+be back again.
+
+Teleport - this spell will teleport from anywhere you like back
+to your cauldron;
+
+Protect - this one will make you invulnerable for a short while;
+
+Sprites - this is a missile spell;
+
+Zombie - this will create a slow moving zombie that'll follow you
+around.  If Leanoric is on the screen the zombie will appear on
+top of him, draining his energy;
+
+Swift - this allows you to move at twice the speed for a short
+time;
+
+Freeze - if Leanoric is on the screen, this will stop him from
+moving;
+
+Doppleganger - will produce a replica of you which will divert
+Leanoric's attention while you do other things;
+
+Lightning - a missile spell;
+
+Invisible - makes you invisible;
+
+Reverse - will make Leanoric move in the opposite direction to
+the one he wants to;
+
+Heal - self-explanatory;
+
+Fireball - a missile spell.
+                               
+SEQUELS/PREQUELS
+None.
+
+SCORES RECEIVED
+Your Sinclair (issue 16, April 1987, p. 71): 8/10
+"The game may appear rather slow... but the race for herbs soon
+becomes tense.  A clever piece of arcade strategy, at a budget
+price, and that's feud for thought!"
+
+URL
+
+GENERAL FACTS
+
+NOTES

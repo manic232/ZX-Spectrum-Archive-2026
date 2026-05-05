@@ -1,0 +1,160 @@
+THE SPECTRUM GAMES DATABASE
+
+MIKIE
+
+PUBLISHER
+Imagine
+
+AUTHOR
+
+YEAR
+1985
+
+CATEGORIES
+Arcade
+
+CONTROLS
+Keyboard, Kempston, Cursor.
+Keyboard controls are redefinable.
+
+INSTRUCTION
+In school, Mikie has decided to take a message to his girl-friend
+in the schoolyard. This is far from an easy task though - which
+is where you come in...
+ 
+Mikie has to go through five different areas: the classroom,
+locker room, canteen, gymnasium and schoolyard. In each area he
+must collect all the hearts on the screen before moving on to the
+next one.  Each time he collects a heart, a letter is added to
+a message at the top of the screen. The staff, however, are not
+too happy at this and will do their best to catch Mikie!
+
+ 1. CLASSROOM  - Mikie must collect the hearts from under the
+seats of his classmates, who are sitting on the hearts. He has
+to bump people onto another seat before picking up the heart;
+meanwhile, the teacher will attempt to catch him and will
+occasionally get so frustrated that he throws his false teeth at
+Mikie. Contact with the teacher or the teeth loses you a life.
+
+ HALLWAY : Having done that, you must leave the room and go into
+the hallway, where you will be presented with a row of doors. The
+one leading to the next room is marked with "in"; Mikie must go
+there while avoiding the patrolling janitor and teachers.
+
+ 2. LOCKER ROOM     - you must collect three hearts from each of
+the lockers, by facing a locker and shouting once for each heart,
+and avoid capture by the teachers. If they get too close, Mikie
+can pick up a basketball and hurl it at his pursuers to distract
+them. After  the locker room, it's back into the hallway again.
+
+ 3. CANTEEN    - Mikie has to gather the gather the hearts
+scattered around on the floor and shout at the ones on the table.
+Again, you are pursued, this time by cooks; you can distract them
+by picking up chickens and throwing them at the pursuers.
+
+ 4. GYMNASIUM  - collect the hearts while avoiding the dancing
+girls.  Contact with one stuns you, allowing the gym master to
+catch you.
+
+ 5. SCHOOLYARD - Mikie has to collect all the hearts here while
+avoiding the three caretakers. If he gets them all, he can go to
+the top of the screen and give his girlfriend a kiss and his
+message.
+
+
+SCORES RECEIVED
+"Another first-rate Konami conversion." 93% (CRASH #, February
+1986)
+
+
+CASSETTE INLAY TEXT
+
+Help Mikie get the message to his Girlfriend. Join him in high-jumps
+at school and outwit the Teacher, Maniac Janitor and Chef. Loads of
+fun and excitement in this computer arcade game!
+
+THE GAME
+
+Move Mikie through the school by collecting all the hearts in each
+section (Classroom, locker room, canteen, gymnazium and finally the
+schoolyard).
+
+Each heart collected represents a letter in Mikie's message to his
+girlfriend at the top of the screen and when the message is complete
+he can move on to the next area.
+
+There are two types of hearts to collect
+
+(1) Single hearts - To be found on the floor and under stools. To
+collect thses you must walk over them. (You can bump your classmates
+off their seats to obtain the hearts with "HIP-ZAP").
+
+(2) Triple hearts - Placed inside lockers and on the top of tables. To
+collect these, face the hearts and press "SHOUT" (FIRE) three times.
+N.B.  Flashing hearts give bouns points.
+
+When the message is complete and the bell rings Mikie can move on
+through the door marked "OUT".
+
+Now you must negotiate the hallway which is full of doors and suprises
+and find the right entrance marked "IN" to continue. You have five
+lives to begin with, but be careful as you are constantly being
+hassled by those in charge, the Teachers, Chef and Maniac Janitor who
+get very annoyed when they can't catch you!
+
+CONTROLS
+
+The game is controlled by joystick [or keyboard. You may use Kempston,
+Cursor or Sinclair joysticks. Keyboard is fully redefinable.]
+
+Fire Button = SHOUT
+Fire plus Direction = ZAP CONTROL
+i.e for HIP-ZAPPING stand either to the left or right facing the stool
+and keep pressing that direction until your school mate falls off his
+chair.
+
+STATUS and SCORING
+
+On-screen scoring shows current score, lives, message status and what
+room you are in. High-scroe is displayed at the end of the game.
+
+Hearts                  200 points
+Hip-Zap                 600 points
+Chicken/Ball throw      200 points
+Bonus hearts            1000 points
+Kissing                 100 points
+Door-Trap               100 points
+2000 Bonus points for each room completed.
+Mystery bonuses too numerous (can you find them?)
+
+PLAYING HINTS
+
+You can stun your pursuer by taking Chicken or Basket Balls and
+throwing them (in appropriate screens).
+
+You may become "Stunned" by kissing and dancing girls or from the
+Traps which lie behind some of the doors in the hallway.
+
+Watch out for the Teacher, if he gets really mad he might throw his
+false teeth at you!
+
+On the 5th screen, in the schoolyard, you finally catch up with your
+girlfriend and deliver the message. O.K.
+
+You can pause for breath in the classroom by sitting on a vacant
+stool...  but not too long!
+
+Its program code, graphic representation, and artwork are the
+copyright of Imagine Software (1984) Limited and may not, be
+reproduced, stored, hired or broadcast in any form whatsoever without
+the written permission of Imagine Software (1984) Limited. All rights
+reserved The program runs on the Commodore 64.
+
+(c) Konami
+(c) 1986 Imagine Software (1984) Limited
+Produced by D. C. Ward
+
+==========================================================
+Taken from Project 64 http://project64.c64.org
+Readapted for the Spectrum in 2001 AD by Alessandro Grussu
+http://www.ag-online.da.ru

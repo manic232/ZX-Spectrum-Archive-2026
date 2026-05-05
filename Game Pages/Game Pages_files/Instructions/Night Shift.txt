@@ -1,0 +1,361 @@
+*********
+
+The Project 64 etext of the ~Nightshift manual~, converted to etext by
+Dohi <hosza@szabinet.hu>.
+
+NIGHTS10.TXT, June 1998, etext #367#
+
+Taken from Project 64 with additional material by Cristian Secara.
+Readapted for the Spectrum in 2001 AD by Alessandro Grussu
+http://www.ag-online.da.ru
+
+*********
+
+NIGHT SHIFT(tm)
+
+
+JOYSTICK CONTROLS
+
+
+ MOVE LEFT <---------- ----------> MOVE RIGHT
+                    / | \
+                  /   |   \
+               |/_    |    _\|
+     KICK LEFT        |        KICK RIGHT
+                     \ /
+
+                   USE TOOL
+
+ FIRE WITH JOYSTICK CENTERED = JUMP
+
+
+[Keyboard controls omitted]
+
+
+CBM 64/128 - You will automatically gain control of Fred of Fiona once
+you have selected a tool.
+
+To ride bicycle, press Fire button while joystick is centred then
+alternate the joystick direction left to right in a smooth rhythm. You
+must be standing in front of the bicycle to use it.
+
+
+ALTER SECURITY/SHIFT CODES
+
+
+            UP
+
+           / \
+            |
+            |
+ LEFT <----- -----> RIGHT
+            |
+            |
+           \ /
+
+           DOWN
+
+
+START SHIFT
+
+Press Space bar/Enter/Fire button.
+
+
+FUNCTION AND COMMAND KEYS
+
+[Atari/Amiga/PC keys omitted
+
+Keys are fully redefinable. Default layout is:
+
+Up	  - Q
+Down	  - Z
+Left	  - I
+Right	  - P
+Fire/Jump - N
+
+Show Production Order for Short Shift - S
+Enter Toolie			      - Space
+Pause Game (displays version number)  - H (press Fire/Jump to resume)
+Restart Game                          - R]
+
+
+SHIFT CODES
+
+Although Night Shift does not feature a Save Game option, each of the
+thirty Shifts has a unique Shift Code (four fruit symbols) that appears
+on the IML Security Card displayed on the screen. As you successfully
+complete a Shift, the Code for the next Shift is revealed to you by
+Frank Foreman your Production Manager. This allows you to start playing
+Night Shift at any of the Shifts for which you've received the Shift
+Codes. Simply alter the Shift Code presented on the screen to that of
+the Shift you wish to play. (If you want to replay an earlier shift, you
+will first need to restart the game by pressing the F7 key before altering
+the Shift Code for the appropriate Shift.)
+
+Note: You should write down the Shift Codes you recieve from Frank. While
+you're playing, the game only remembers the last Shift you've completed!
+But don't worry about Shift 1... it's Code is always the same as the
+Security Code you entered to start the game.
+
+
+BASIC MECHANICS
+
+Here are some of the basic pieces of hardware you'll need to be familiar
+with:
+
+
+BICYCLE
+
+- Ride the Bicycle by using your Hand (from the "Toolie" - our incredible
+  bottomless toolbox!). You'll automatically jump on. Then alternate
+  moving left and right in a steady rhythm.
+
+- Ride the Bicycle at the beginning of each shift until the lights flash
+  very quickly.
+
+- Note: If the power goes out, you'll need to ride the Bicycle to get the
+  indicator lights flashing rapidly again, and then LIGHT THE FURNACE WITH
+  A MATCH!
+
+
+SWITCHES
+
+- Directional - Most common... used on Conveyors to change their
+  direction.
+
+- On/Off - These can be either vertical or horizontal in their
+  orientation.
+
+- The Burner Switch (beneath flaskat top left of BEAST) - Has five
+  positions... the centre one maintains the current temperature. The
+  other two on each side cool or heat the mixture accordingly. Get the
+  mixture boiling without steam coming out of the top, then maintain the
+  temperature!
+
+
+BOLT ON RESIN MIXER
+
+- Tighten this by using the Wrench in the Toolie.
+
+- Fix the Bolt as soon as you reach the top of BEAST!
+
+
+ELECTRICAL PLUG FOR RAW MATERIAL FEEDER
+
+- Kick the Plug in as soon as you've fixed the Bolt!
+
+
+PAINT VAT
+
+- Mix paint by turning the wheel above the correct colour. Mix colours
+  by turning more than one wheel.
+
+- Mix paint whenever required to make a Doll of a specific colour.
+  Sometimes you'll need to flush the vat between colours... other items
+  you can just add another colour to achieve the proper combination. For
+  example, if you've mixed yellow and blue to create green, you can get
+  purple by adding red paint to it (normally, of course, green and red
+  would make brown, but the BEAST's recycling process produces some unique
+  effects). To flush the vat, just pull the Flush Chain to the right of
+  the blue paint wheel.
+
+
+WARNING LIGHTS
+
+- We recently had these installed for the convenience of our employees.
+  The Lights are located just under my office window (you start each
+  shift from outside my office, so you should have no difficulty seeing
+  them). There are four Lights, each one corresponding to a different
+  section of BEAST. Form left to right, the Lights represent:-
+
+  1. The Three Raw Material suppliers, the Resin Mixer and the top two
+     Conveyor Belts.
+
+  2. The Paint Showers.
+
+  3. The Drying Fans and the Conveyors next to the Bonding Unit.
+
+  4, The Power Generator and the Quality Controller.
+
+- Whenever any of these components is malfunctioning the corresponding
+  Warning Light will show RED. Oce the problem is fixed, the Light(s)
+  will return to their usual colour (green).
+
+
+SIRENS
+
+- Although you can't see them, you'll undoubtedly hear them! Any time
+  the Resin Mixer (whose alarm you usually hear at the beginning of a
+  Shift) or the Power Generator are malfunctioning, sirens will sound to
+  alert you. Handling either of these problems quickly is essential to
+  succesfully fulfiling your quota!
+
+
+SHIFT DUTIES
+
+Note: Whenever you recieve a Shift Order with White Dolls, you don't need
+to worry about painting them... they'll be painted different colours
+automatically.
+
+
+SHIFT 1
+
+- Ride the Bicycle to generate full power.
+
+- Climb up BEAST to steaming Bolt.
+
+- Use Wrench to tighten Bolt.
+
+- Jump across Raw Material Feeder at upper left corner.
+
+- Kick in Electric Plug.
+
+- While Trooper Toddlers are being produced, collect as many tools as
+  you can for the coming Shifts.
+
+- Note the direction of all the Conveyors... on Shift 2, some of these
+  will need adjustment!
+
+- Make sure Bodies are under Heads on Finished Dolls. If not, then dump
+  a Body by switching the Conveyor above the Power Box (marked "DANGER")
+  ... then switch it back!
+
+
+SHIFT 2
+
+- Ride the Bicycle to generate full power.
+
+- Switch direction of any Conveyors that will misdirect Dolls.
+
+- Climb up BEAST to Conveyors above centre trash can.
+
+- Switch their direction if Resin is being dumped into trash can.
+
+- Check on the Bolt... if it's steaming, fix it!
+
+- Jump across to Raw Material Feeder at upper left corner and check the
+  plug... kick it in if necessary.
+
+
+SHIFT 3
+
+- Same as Shift 2, except you now have to MIX PAINT!
+
+- On your way to the top of BEAST, turn the knob above the tube which is
+  the colour you need to paint the Dolls.
+
+
+SHIFT 4
+
+- Same as Shift 3, only more colours.
+
+- Remember to pull the Flush Chain between colours if necessary.
+
+
+SHIFT 5
+
+- Now the QUALITY CONTROLLER (Q.C.) is unveiled!
+
+- Learn how to jump up on the components of the Q.C.
+
+- When the Q.C. is on, you'll see small lights flashing on it... if it's
+  off, turn it on with the switch on the side of the television set!
+
+- The Q.C. will automatically reject any defective Dolls.
+
+
+SHIFT 6 AND BEYOND
+
+- More components of BEAST will be uncovered as you become more
+  experienced.
+
+- Each new component will demand new skills of you, and you'll need to
+  manage your time effectively to fulfil increasing quotas.
+
+
+TOOLS
+
+It's important to understand the value of tools on the Night Shift. For
+each tool you collect, you'll recieve a bonus. And, with our
+revolutionary new Toolie, you'll be able to carry a virtually limitless
+supply of tools, each in its own neat slot. Learning to use the following
+tools is a key to success.
+
+Your Hands: Use your Hands to ride the Bicycle, flip switches, and turn
+knobs and handles.
+
+The Wrench: Use the Wrench to tighten the Bolt on top of the Resing
+Mixer.
+
+The Match: Use the Match to light both the burner and the furnace
+whenever necessary.
+
+The Balloon: Use the Balloon to get higher up on BEAST fast! To stop
+using the Balloon, press the joystick button.
+
+The Umbrella: Use the Umbrella to fly down BEAST quickly. To stop using
+the Umbrella, press the joystick button.
+
+The Vacuum: Use the Vacuum to get rid of those pesky Lemmings on the run!
+You can continue to use the Vacuum until you select another tool (unless
+you get knocked out first!). And remember, no kicking allowed whilst
+vacuuming!
+
+The Venus Trap: Use the Trap to catch the Lemmings. Just plant the trap
+and lure a Lemming into it! (The Trap will eventually disappear if it
+doesn't catch a Lemming.)
+
+Note: After you pick up or use a tool, the Toolie switches back to Your
+Hands as the default tool.
+
+
+BONUS ITEMS
+
+If you see one of the following items while on the job, you'd be well
+advised to pick it up! The effect of each item is immediate, and as such
+they don't get stored in the Toolie.
+
+The Hourglass: This rare item will, if grabbed, actually extend the Shift
+time, giving you more opportunity to make Bonus Dolls.
+
+The Cash Bonus: You never know when one of these will pop up, and I'm
+sure you'll know what to do with it!
+
+
+Night Shift game (c) 1990 LucasArts Entertainment Company. All rights
+reserved. Used under authorization. Licensed to Kixx. Unauthorised
+copying, lending or resale under any scheme strictly prohibited. Kixx,
+Units 2/3 Holford Way, Holford Birmingham B6 7AX. Tel: 021 625 3311.
+
+*********
+
+End Project 64 etext Nightshift manual.
+
+*********
+
+Night Shift
+LucasArts 1991
+
+This is the full 128k version with all the levels and even better, the
+sound effects which are vital because they help you know when stuff has
+broken down etc. My claim to fame with this game is that I had a full
+colour map printed in Linda Barker's YS Tipshop many moons ago (wooo!!).
+The instructions are LONG so check out the Spectrum Game Database sometime
+in the future and I or some kind sole might have got round to doing them.
+
+Now, if you promise not to use them unless you get very stuck, here are
+all the codes for the 30 levels... no peeking now!
+
+(NB To save a load of time the fruit are the following numbers:
+1- banana, 2- lemon, 3- lime, 4- pineapple, 5- cherries so that 3512 would
+be lime cherries banana lemon ...geddit?)
+
+ 1. 1111         2. 5112         3. 1543         4. 4244         5. 4425
+ 6. 5334         7. 5421         8. 4145         9. 4225        10. 2133
+11. 1453        12. 5313        13. 3514        14. 4531        15. 3344
+16. 1141        17. 1353        18. 3223        19. 2453        20. 5445
+21. 2554        22. 3251        23. 3552        24. 3422        25. 1442
+26. 3551        27. 1521        28. 3114        29. 5354        30. 5513
+
+Enjoy!
+07.07.96 Rich L

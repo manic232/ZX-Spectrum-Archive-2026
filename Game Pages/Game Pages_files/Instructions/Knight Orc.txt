@@ -1,0 +1,448 @@
+KNIGHT ORC
+by Level 9 Computing
+
+Loading Instructions and Gameplay Guide
+
+Introduction
+
+In a hole in a mound there lived an orc. Not a clear, dry sandy hole with only
+spiders to catch and eat, nor yet a comfortable hobbit-hole. It was an
+orc-hole, and that means a dirty, clammy, wet hole filled with bits of worms
+and a putrid smell.
+
+It had a perfectly round garbage heap, blocking the doorway, with a slimy
+yellow blob in the exact middle for spitting practice. The doorway opened
+onto a sewer-shaped hall - a deeply unpleasant tunnel filled with smoke,
+with secret panels, and floors snared and pitted, provided with treacherous
+chairs and lots and lots of booby traps - the orc was fond of visitors.
+
+But what is an orc? Orcs are not seen much nowadays, since they are shy of
+human beings. They are a pungent people, little bigger than overweight
+elves, with the charisma of blow flies and the appetite of gannets. Orcs have
+little or no magic, except a rudimentary skill with knives and strangling
+cords and, in short, they are evil little pits.
+
+This ore was unusually ugly, even for an orc. His name was Gringleguts.
+
+Grindleguts had lived in the neighbourhood of The Mountain for about a year
+and most people considered him two steps lower than a tapeworm, not only
+because of the smell and the plague, but because he kept eating their
+household pets.
+
+Knight Orc follows on from the events described in "The Sign of The Orc".
+Grindleguts has been volunteered as their champion by the other orcs, while
+in a drunken stupor, and tied to a horse so that he won't escape, or fall off,
+before the joust. Your first task, as the orc in question, is to live long enough
+to escape over the viaduct to Orc Mountain.
+
+Good luck, Grindleguts. You're going to need it ...!
+
+
+Loading Instructions
+
+Cassette users: To remove a cassette from the box, firmly press the top of
+the cassette label inwards, and the cassette will pop out.
+
+Remember to always have a blank cassette or a formatted disc at hand to save
+your game position on. See section 6 of Game Instructions for more
+information about saving and restoring your game position.
+
+Each version of Knight Orc has a Menu program, which will instruct you in
+the further loading of the game (if necessary). Simply refer to the table
+below, and select the appropriate loading instructions:
+
+MACHINE                       DISC                    CASSETTE TAPE
+
+Amiga                         Insert game disc at the
+                              Workbench prompt
+
+Amstrad CPC 464/664/6128      RUN"MENU"               Disc users type |TAPE
+                                                      To load game type RUN""
+Amstrad PCW                   Load CP/M and type
+                              MENU
+
+Apple II/IIe/IIc/IIGS         Insert disc in drive and
+                              turn computer on
+
+Atari ST                      Insert disc in drive and
+                              turn computer on
+
+Atari 130XE/800XL*            Hold START & OPTION     Hold START & OPTION while
+                              while turning computer  while turning computer on.
+                              on.                     Start tape and press RETURN.
+
+Commodore 64                  LOAD"MENU",8,1          Press SHIFT and RUN/STOP
+                                                      and start tape.
+
+IBM PC and compatibles        Load MS-DOS and type
+                              MENU
+
+Macintosh/Macintosh Plus      Double-click the menu
+                              icon.
+
+MSX 64k                                               RUN "CAS:"
+
+Spectrum 48k                                          LOAD "" and start tape
+
+Spectrum 128/Plus2/Plus3      Enter BASIC and type    Switch computer on, and
+                              LOAD "MENU"             press ENTER
+
+* 8-bit Atari users should turn off the machine and remove all cartridges
+before loading.
+
+
+Loading Advice
+
+If you're having any problems loading Knight Orc into your computer, then
+try the following...
+
+Cassette
+
+1. Try the other side of the cassette.
+2. Load another game from cassette that you know works correctly, to
+   check that everything is connected correctly.
+3. Vary the volume and tone settings on the recorder if you are able to.
+4. Clean and demagnetise the recorder (following the maker's instructions).
+5. Try another cassette recorder if possible.
+
+Disc
+
+1. Try again from the very beginning. Remove all discs and turn the computer
+   off completely and back on again.
+2. Is the disc the right way up? (This applies especially to Amstrads).
+3. Load another game from disc to check that everything is connected correctly.
+4. Have you added any non-standard or peculiar hardware to the computer?
+5. Clean the drive (following the manufacturer's instructions).
+
+Guarantee (What to do if the program doesn't work!)
+
+If you have no success in getting the program to run correctly, return it to
+Rainbird (or Firebird in the United States) without our packaging, and we'll
+replace it (if you're returning a disc, make sure it's safely packed!). Please
+include a short letter telling us exactly what the problem is, and what
+equipment your computer system comprises of.
+
+
+Game Instructions - Commands
+
+Knight Orc understands a wide range of commands in plain English, from
+simple one or two word instructions up to complex multiple sentences.
+This chapter is split into sections describing ways in which to communicate
+with the program.
+
+1. Movement
+
+To move around The Land, use the following commands:
+
+Word        Abbrv.        Word         Abbrv.
+NORTH       N             NORTHEAST    NE
+EAST        E             NORTHWEST    NW
+SOUTH       S             SOUTHEAST    SE
+WEST        W             SOUTHWEST    SW
+UP          U             DOWN         D
+INSIDE      IN            OUTSIDE      OUT
+CLIMB       -             JUMP         -
+CROSS       -
+
+These commands take you to an adjacent location. Use the EXITS command
+if you want to know which directions are allowed (when EXITS lead in "all
+directions" this means the eight main compass directions: N, NE, E, SE, S,
+SW, W and NW).
+
+To save time, and so you don't need to draw a map, Knight Orc provides the
+commands below:
+
+FOLLOW <person> (e.g. FOLLOW INNKEEPER). Try to stay close to
+                someone, moving when they do. Other people can be
+                ordered to follow you as well, see section iii. However,
+                they can sometimes get left a little way behind, because
+                even the most loyal follower will not obey you 100% of
+                the time. Either wait for them, or command them to
+                move to the destination with you following them.
+
+GO TO <place>   (e.g. GO TO CASTLE or GO TO WELL). The program
+                works out the sequence of short moves needed to
+                reach your destination (e.g. OUT, NE, N, NE, IN) and
+                carries them out.
+
+RUN TO <place>  (e.g. RUN TO INN). This is like GO TO, but does not
+                print the descriptions of the places you run through.
+
+FIND <object>   (e.g. FIND GOAT). Again, this works like GO TO and
+                takes you to the place where the object is. Note that
+                you can FIND just about anything, including people,
+                moving objects and things inside containers.
+
+Of course, there is not much that the program can do if you try to FIND
+something that does not currently exist. Or if the way to your destination is
+blocked (for example, there is a Thorn Hedge around the tower). In such
+cases, the program does the best it can.
+
+
+2. Actions
+
+The majority of commands that you will use are actions, such as opening
+doors, stealing treasure and hitting dumb animals. Here are some examples:
+
+Command                      Comment
+GET THE KNIFE                Take a stabbing weapon for later use
+EXAMINE KNIFE                Stare closely at a tin-plated object
+TIE THE CORD TO THE ROPE     Fasten one thing to another
+PUT MOUSE IN THE SACK        Best place for it, if you ask me
+EAT THE RAT PIE              Delicious
+REMOVE THE TETHER            Untie something or take it from a container
+PUT KEY UNDER THE MAT        I bet you've always wanted to do this
+WEAR THE HELMET              Avoid headaches later on
+OPEN THE CHEST               There may be treasure inside it
+KICK THE FROG                It's smaller than you
+
+To save typing, commands can refer to more than one object, e.g:
+
+EXAMINE THE HORSE, KNIGHT AND LANCE
+TAKE THE CLOAK AND THE KNIFE
+
+Knight Orc understands the following collective nouns:
+
+ALL, EVERYTHING, EVERYBODY, TREASURE, WEAPONS and CLOTHES
+
+Thus, you can enter things like:
+
+GIVE THE TREASURE TO THE INNKEEPER
+TAKE ALL THE CLOTHES
+EXAMINE EVERYBODY
+
+Exceptions are also understood, for example:
+
+TAKE EVERYTHING EXCEPT THE MAT
+DROP ALL THE TREASURE BUT THE GOLD BRICK AND THE GOLD FISH
+
+And you can refer to the last mentioned thing as HIM, HER or IT, e.g:
+
+TAKE THE AXE
+EXAMINE IT
+THROW IT AT THE GREEN KNIGHT
+STEAL THE COIN AND PUT IT IN THE BUCKET
+
+You can type several commands on one line, using punctuation or AND to
+separate them if you like, though this is not usually needed, e.g:
+
+N NE NE CROSS (Though RUN TO PLACE is better)
+OPEN DOOR. GO IN AND TAKE EVERYTHING
+
+Using the fun range of command features allows you to enter near-English
+sentences of considerable complexity. More important, it means the game is
+more likely to understand what you mean.
+
+3. Talking to Other Characters
+
+Orcs are not known for their small-talk and much prefer action to words,
+especially when that action is mindless, violent and aimed at someone
+smaller than them. So conversation is limited in this game.
+
+People can be asked about things, and a few of them may even answer you.
+One in particular is a mine of information. For example:
+
+HERMIT, TELL ME ABOUT THE KNIFE
+TROLL, TELL ME ABOUT THE RING
+
+People can be commanded to do the same sort of thing that you can do
+yourself, using the full range of commands. Denzyl is the only person who
+will obey without being recruited and I leave it to you to work out how to
+make other people and creatures follow your commands. Remember that
+you can't finish the game without help. Example commands are:
+
+DENZYL, FOLLOW ME
+
+DENZYL, FIND THE WELL, TAKE EVERYTHING, FIND ME, GIVE
+EVERYTHING TO ME
+
+DRAGON, FLY SOUTH AND KILL GROK THEN FOLLOW ME
+
+In some other adventure games, when you give someone a command, they go
+off and do whatever it was while you have to stand there and wait. Knight
+Orc is somewhat more realistic.
+
+If you tell Denzyl, "DENZYL, GET THE FISH, FIND ME AND GIVE THE FISH
+TO ME, he will head off to find it - moving roughly once for every move you
+make. Then you can get on with solving other puzzles, doing whatever you
+like, while Denzyl carries out his task. Eventually he will wander back and
+hand over the fish.
+
+By the end of the game, you may well have acquired a lot of followers, and
+they can all be given orders to carry out at the same time. For example, if you
+want a simultaneous attack on the vampire, you might enter commands as
+follows:
+
+TROLL, WAIT 2, IN, KILL VAMPIRE
+MOUSE, WAIT 1, IN, KILL VAMPIRE
+IN, KILL VAMPIRE
+
+Needless to say, a lot of puzzles in the later stages of Knight Orc require
+co-operation between creatures.
+
+
+4. High Level Commands
+
+Knight Orc provides a number of powerful multi-stage commands, where you
+enter a single command such as 'RUN TO THE TOWER' and the program
+carries it out in stages. (The idea is that it is easier to enter one command
+than a lot of little ones.) Most of these have already been described above,
+and the full list is:
+
+FOLLOW <creature>         Try to stay with someone. STOP FOLLOWING later.
+GO TO <place>             Go to the place (the program works out the route).
+RUN TO <place>            As "GO TO", without printing location descriptions.
+FIND <object>             GO TO where an object is.
+KILL <creature>           Hit and/or pursue creature in a fight-to-the-death.
+WAIT FOR <creature>       Wait until the creature arrives.
+WAIT FOR <number>         Wait for the specified number of 'turns'.
+WAIT UNTIL <time>         (Use the TIME command to learn the current time).
+
+If something unforeseen happens, these commands can be paused by pressing
+SPACE. The program will ask if you want to continue: Press Y or N for yes or
+no.
+
+
+5. Magic
+
+Magic works in the Knight Orc world and there are twenty-one spells to
+learn. You'll be able to learn them in later stages of the game and will have to
+know every spell in order to finish.
+
+To learn a spell, you just need to see or hear its name. To use it, once learnt,
+enter CAST <spellname>, or CAST <spellname> AT <target>. E.g:
+
+CAST GLOW
+CAST FIREBALL AT DRAGON
+CAST LOCATE AT RING
+
+The functions of the spells are fairly obvious from their names and the rest is
+up to you!
+
+& Special Commands
+
+Knight orc provides a number of general purpose commands:
+
+INVENTORY   (INV) What are you carrying? (Try EXAMINE ME, too.)
+SCore       How badly are you doing?
+AGAIN       (A) Repeat the last command
+HELP        This sometimes gives you a clue.
+QUIT        Stop the game.
+BRIEF       Don't report unnecessary text. e.g: exits and shouting.
+VERBOSE     Report text in full.
+
+Several commands are provided to control the adventure system, rather than
+to make progress in solving the game, and these are described below.
+
+Please note that some of these facilities marked with an asterisk are not
+provided on some smaller computers and that the best way to find if a
+command is present in the version of Knight Orc for your micro, is to try it.
+
+* WORDS        Turn off the pictures.
+* PICTURES     Turn them back on again.
+* OOPS         Restore the position as it was before you last moved.
+               OOPS (or UNDO) is a very useful command and, on larger
+               machines, it can be used several times in succession to
+               step backwards through the game.
+SAVE           Stores the game position on cassette or disc. Insert a
+               formatted disc, or start a blank cassette before using
+               this command. (Commodore 64 users may specify
+               whether to save to cassette or disc by adding ,1 to the
+               filename for tape, or ,8 for disc). When the SAVE has
+               finished, stop the tape, or replace the Knight Orc game
+               disc in the drive, as appropriate.
+RESTore        Loads a previously SAVEd position from cassette or
+               disc. Enter RESTore and then answer YES as
+               confirmation. To restore from tape, rewind the
+               cassette on which the position was SAVEd and start it
+               on PLAY (if the cassette doesn't move, press ENTER or
+               RETURN). To restore from disc, put the disc on which
+               the position was saved in the drive, before using
+               RESTore. If you are asked for a filename or
+               equivalent, enter whatever you called the position when
+               it was SAVEd. When the RESTore has finished, stop
+               the tape, or replace the Knight Orc disc in the drive, as
+               appropriate.
+* RAM SAVE     Saves the game position in memory. This is quicker
+               than saving on tape or disc, but the data is not as
+               permanent and will be lost if the computer is turned off
+               or reset.
+* RAM RESTore  Loads a previously RAM SAVEd position.
+
+Note: OOPS, SAVE, RESTore, RAM SAVE and RAM RESTore can also be entered
+in response to a YES/NO question. For example, if you have just been
+killed in the game and the program is asking if you want to play again,
+you can use one of them to return to a previous position instead.
+
+Picture Moving
+
+On computers such as the Amiga, Macintosh. and Atari ST, the mouse can be
+used to move the picture up and down - allowing you to choose how much
+text is visible below it. Disc versions on some other computers, e.g the
+Commodore 64, control this feature by means of the up and down cursor
+(arrow) keys.
+
+Command Editor
+
+Some of the machines with larger memories provide a command line editor
+which keeps a copy of your previous commands and lets you edit and
+re-enter them. The command editor is controlled by the cursor keys, delete
+and backspace, and works in insert mode. Press cursor-up to display your
+previous commands: the other details are best learnt by trying it.
+
+
+Game Details
+
+Knight Orc is a single game, with three sections, and you must start with
+part one, Loosed Orc, and solve this before proceeding. The computer will
+display instructions on how to do this, when the time comes.
+
+Parts two and three, A Kind of Magic and Hordes of the Mountain King, are
+linked together, and you can move freely from one to the other.
+
+Scoring
+
+Loosed Orc
+The idea is to learn the adventure system and tie ropes together to make a
+single rope, long enough to use in crossing the chasm. You score points
+according to its size.
+
+A Kind of Magic and Hordes of the Mountain King
+Learn magic, recruit followers and escape. You score points for each spell
+learnt, each follower recruited (providing they have powers which
+complement, rather than duplicate your own), plus bonuses for solving the
+final stage of the game.
+
+
+Hints
+
+When adventurers recognise an orc, they attack.
+
+You are not likely to win many fair fights. Why not run away, or distract your
+opponent, or cheat in some other way.
+
+You can't take it with you (usually), so it's better to be poor than dead.
+
+
+Are you really stuck? Take a hint from us...
+
+Blocked by the thorn hedge? Infuriated by the Hermit? Can't recruit the
+helpers you KNOW are needed to complete this game? Don't despair!
+Although Rainbird brings you the most fiendishly devised adventures, we've
+got a heart (who writes this stuff?), so if you are really stuck trying to solve a
+seemingly unsolvable problem, fill in the Hint Request Form provided with
+this package.
+
+Credits
+
+Idea, design and text         Pete Austin
+Game programming              Mike Austin
+Adventure System              Mike and Nick Austin and John Jones Steele
+Map and Testing               Andrew Deeley
+Testing                       Paul Coppins
+Original Paintings            Godfrey Dowson
+Additional artwork            Nell Strudwick and Stuart Lee
+Poster                        Paul Human
+
+With thanks to all at Rainbird (and the Dragon, Mouse and Troll) without
+whom this game could not have been completed.

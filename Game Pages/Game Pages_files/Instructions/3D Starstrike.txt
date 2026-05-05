@@ -1,0 +1,40 @@
+3D STARSTRIKE - REALTIME GAMES SOFTWARE LTD
+
+"... suddenly there were the Outsiders. Appearing in massive fleets on
+the edge of the galaxy they seemed uninterested in conquest, only
+destruction. Earth's fleets decimated and the Federation lay on the
+brink of collapse. In desperation Federation Command chose to strike
+directly at the Outsider control centres. These immense bases were
+constructed within hollowed out moons.
+
+To destroy them required a direct hit on the base's reactor systems at
+the very centre of the moon. The only access to the reactor chamber
+was through two cooling ports within the base's equatorial duct. To
+reach these, however, an attacker was forced to run the gauntlet of
+the base's heavy ground and space defences. To penetrate these a new
+generation of starfighters was created - the STARSTRIKE series..."
+
+TO LOAD TYPE:-
+
+LOAD "" (ENTER)
+
+JOYSTICKS
+
+Sinclair, Kempston and Cursor joysticks can be used with this game.
+
+Forward         Dive
+Backward        Climb
+Left            Bank Left
+Right           Bank Right
+Fire            Laser Cannon
+
+GENERAL
+
+1       Pause
+2       Resume
+3       Sound On/Off (during pause)
+4       Abort (during pause)
+
+Unauthorised copying, lending or hiring strictly prohibited
+
+(c) Realtime Software

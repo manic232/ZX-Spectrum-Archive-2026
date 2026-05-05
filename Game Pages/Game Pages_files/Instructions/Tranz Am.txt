@@ -1,0 +1,149 @@
+TRANZ AM
+
+PUBLISHER
+Ultimate Play The Game
+
+AUTHORS
+Chris and Tim Stamper
+
+YEAR
+1983
+
+CATEGORY
+Arcade: Race 'n' Chase 
+
+
+
+The year is 3472 and all that remains on Earth are the
+remnants of a once great continent, a barren land, a 
+desolate place of sand, rocks and boulders. But ... Life
+adapts quickly and bring with it a New Age, a time ruled
+by cars and trophies, a land where petrol replaces gold
+and esteem is possession of the 8 Great Cups of Ultimate.
+
+Possessed for too long by the 'Deadly Black Turbos', the 8 cups
+remain hidden throughout the land, their strange inscriptions
+long since forgotten and their locations reverently protected.
+
+Your Chance ... A Super Blown Red Racer equipped with
+technology far advanced. A last Chance with a weapon, whose
+power far surpasses any Black Turbo.
+
+One press and the massive engine thunders into life, the shrill
+rumble from the exhausts and the hypnotic whirr beckon the
+Deadly Black Turbos. The noise reaches crescendo and in one
+sudden lurch the Red Racer spits forward across the land at in-
+credible speed, in the last great battle of your life.
+
+Use your skill to outwit and crash the Deadly Black Turbos and
+the instruments to locate and collect the 8 Great Cups of 
+Ultimate before you run out of fuel.
+
+
+
+CONTROLLING YOUR RED RACER
+
+KEYBOARD CONTROLS
+
+TURN ANTICLOCKWISE using the following keys Z,C,B,M.
+TURN CLOCKWISE using the following keys X,V,N, SYMBOL SHIFT.
+BRAKE using any key on the second row, e.g. A,S,D,F, etc.
+ACCELERATOR using any key on the third row, e.g. Q,W,E,R, etc.
+PAUSE the game by using the CAPS SHIFT key.
+
+JOYSTICK CONTROLS
+
+TRANZ AM can be controlled using Kempton Competition Pro Joysticks.
+
+
+
+CONTRL PANEL
+
+Actual Time Taken.
+
+Actual Miles Travelled.
+
+Map showing the possitions of fuel station towns, cities. 
+Red Racer shown by the flashing character.
+
+Local Radar Display showing the positions of cups and Black Turbos. 
+Number of Ultimate Cups discovered.
+
+Speedometer 0-400.
+
+Fuel Gauge Empty-Full.
+
+Temp Gauge Low-High.
+
+Lives Left Display.
+
+
+
+FEATURES
+
+Crazy Black Turbo Pursuit Cars.
+
+Incredible Multidirectional Movement.
+
+Real Time Clock.
+
+Local Radar.
+
+Accurate Speedometer.
+
+Temp Gauge.
+
+Fuel Gauge.
+
+Mileometer.
+
+Arcade Standard.
+
+Fantastic Sound Effects.
+
+Lives/Cups Displayed.
+
+Superb Controlled Acceleration. Braking and Steering.
+
+Cities, Signs, Boulders, Rocks, Trees, Cacti, Cups.
+
+Pause Button.
+
+Joystick Option.
+
+Total Playing Area Equivalent to over 600 Times Actual Screen Area.
+
+
+
+TRANZ AM LOADING INSTRUCTIONS
+
+1. Connect the EAR socket on your Spectrum to the EAR
+socket on your recorder and ensure the MIC lead is dis-
+connected.
+
+2. Place the cassette tape in the recorder with the labelled
+side uppermost and rewind to the beginning.
+
+3. Type either LOAD "TRANZ AM"
+            or LOAD ""
+and then press the ENTER key.
+NOTE: Do not leave a space between the quotation marks.
+LOAD is obtained by pressing the J key. The " are obtained by
+pressing the SYMBOL SHIFT and P keys together.
+
+4. Press PLAY on the cassette recorder.
+
+5. TRANZ AM will now load automatically and a message will
+appear on the screen after several seconds. If loading is un-
+successful, rewind the cassette, adjust the VOLUME control on
+the recorder and try again.
+NOTE: Full loading instructions can be found in your Spectrum
+manual.
+
+6. PLAY THE GAME.
+
+For better sound effects you can increase the volume by con-
+necting the MIC socket on your Spectrum to the MIC socket on
+your recorder. Disconnect the EAR lead, remove the cassette
+tape from the recorder and press the PLAY button, the sound 
+may be amplified throught the loudspeaker of the recorder.

@@ -1,0 +1,58 @@
+Dynamite Dan II
+from Mirrorsoft
+
+The Game
+""""""""
+  The youth of the world is being helplessly mesmerised - their brains
+sucked dry - by apparently innocuous pop records. Someone has been
+corrupting the vinyl with subliminal, mind-destroying sound waves.
+There's only one person who could be responsible for such an
+outrage - that's right, Blitzen is back, poised to wreak havoc on an
+unsuspecting planet.
+  Your task as Agent Dan is to get into the group of eight islands
+known as Arcanum, where Blitzen has set up his secret headquarters.
+You must find the one record hidden on each island, locate the
+jukebox, and play the record. Then you must refuel your trusty blimp
+and go on to the next island. When the eighth island is reached (the
+pressing plant), and the last record has been played, you must place
+a bomb in Blitzen's lab. You've now got just 3 minutes to get back to
+the zeppelin before the plant goes up.
+
+Controls
+""""""""
+Left    - A, D, G, J or L
+Right   - S, F, H, K or ENTER
+Down    - W, R, Y or I
+Up/Jump - Z, X, C, V, B, N, M or SYMBOL SHIFT
+
+Pause/Restart - P
+Quit          - Q
+
+Useful Objects
+""""""""""""""
+Bombs   - blow doors giving access to other parts of playing area
+Goggles - provide immunity from memerism
+Record  - must be played before moving to next island
+Fuel    - refuels zeppelin
+Food    - gives energy top up
+
+Some objects allow special facilities such as invisiblity, immunity,
+etc. but you will only find this as you progress through the islands.
+There are also 3 unique objects on each island which are lost after
+the zeppelin takes of - but we'll leave you to find out what they are
+or what they do!
+
+Hints
+"""""
+  Dan has only one life, but contact with sprites causes a reduction
+in energy. Energy can be topped up by eating food. Sprites can steal
+various items you hold, for example magenta sprites take fuel as it,
+too, is magenta.
+  Watch out for Blitzen zapping at you with his pschon ray gun. If he
+hits you, you're mesmerised and will wander out of control for a short
+while.
+  Each island contains one secret passage, which can only be accessed
+if you are carrying a particular object.
+
+           THE SAFETY OF THE WORLD IS IN YOUR HANDS
+              CAN YOU BEAT BLITZEN ONE MORE TIME?

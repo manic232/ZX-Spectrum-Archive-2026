@@ -1,0 +1,74 @@
+Heartland
+from Odin Computer Graphics Ltd.
+
+Playing Instructions
+""""""""""""""""""""
+Left, Right & Turn:                  X, C, V, B, etc
+Through door out of screen:          A, S, D, F, etc
+Through door into screen and jump:   Q, W, E, R, etc
+Fire and use bed:                    1, 2, 3, 4, etc
+
+Scenario
+""""""""
+  Attics are always pretty interesting places, all sorts of old family
+heirlooms; swords, pictures, trunks, old clothes and books, can be
+found waiting to be re-used, looked at or in, worn and read.
+  One rainy day, having nothing better to do, you find yourself
+rummaging through the relics in your Grandmother's attic and come
+across an old battered book. The tale it contains is one of ancient
+magic, telling of days when Wizards ruled and monsters roamed, it is
+the history of the Heartland.
+  As you read, invoking the book's subtle magic, you find yourself on
+a quest, roaming the lands following the deeds of the Hero Wizard
+Eldritch, whose plump appearance, top hat, and travelling bed are
+ridiculed only by those foolish enough to want to be splattered by
+a spell.
+  In days gone by, Eldritch was well known for his ability to slay
+dragons, rescue distressed damsels, and generally get up the nose of
+his arch enemy, the dreaded black Warlock, Midan. These days, Eldritch
+has moved on to other quests but, with an eye to the future, left the
+book in our world to search for a new hero to help the Heartland in
+times of dire trouble. As the book progresses, the magic has its way,
+and the story changes to reveal current events.
+  The Heartland, once a happy peaceful place, has fallen under the
+cruel fist of the ruthless Midan and his minions, who roam the lands
+working their evil ways, creating misery, hate, and building vast
+glowering fortresses in which to imprison the populace.
+  As the end of the book approaches you find that, alas, the final
+chapter is missing and unless it is found, the Heartland will be in
+the grip of the tyrannical Midan and his followers forever.
+  Your desperate quest is to locate the last six pages and the
+original book, cast to the seven winds by Midan in his final battle
+with Eldritch. To foil any would be heroes, Midan has created six dark
+pages which, if not destroyed, will cause great bad luck and havoc
+(GBH) for the citizens of the Heartland for ever more.
+  Beware of Midan's followers who are out to stop you, and the spells
+they weave to distract you from your goal. Some of these spells will
+wait until you walk into them before they invoke, others will seek you
+out. The greatest danger is from Midan himself who has discovered your
+presence in the Heartland. Even as you start your quest, his evil
+magic is at work on the book, weakening its magic and limiting your
+time in each land. Each time evil touches you, his strength will grow
+and he will reveal his face
+                            - THE FACE OF DEATH.
+
+Spells
+""""""
+Top hat    : Your main weapon needs three shots to kill, but lasts
+             forever.
+Swords     : Takes two shots to kill.
+Fireball   : One shot will do the job.
+Bubbles    : Helps fight the growing strength of Midan.
+Small stars: Make you immune to other spells.
+Large stars: Drains your strength very quickly.
+The Book   : You must collect this first as it tells you where the
+             pages are.
+Pages      : Collect six white and destroy six dark.
+Bed        : After collecting a page, this will take you to the next
+             land, don't lose it.
+
+Enemies
+"""""""
+Wizards : Touching these sap your will, they also fire at it.
+Gooch   : Killing thes is only an ephemeral solution.
+Spacemen: Do Not Touch.

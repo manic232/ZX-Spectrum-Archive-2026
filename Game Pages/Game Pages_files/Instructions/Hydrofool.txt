@@ -1,0 +1,59 @@
+HYDROFOOL
+
+(c) Carter Follis Software 1987
+
+INTRODUCTION
+
+Fresh from his dismal triumph on Knutz Folly, Sweevo is thrust into
+the watery world of DEATHBOWL, a planet which, for no good reason,
+has been converted into a gigantic aquarium.
+
+Will Sweevo succeed in his mysterious mission - or will the Great
+Bowl-Keeper pull the plug on him?
+
+HYDROFOOL is a fast, 3-D, seek, chase, puzzle and laugh game,
+featuring the fabulous but irrelevant HYDROMATION.
+
+THE GAME
+
+"SWEEVO" said the kindly Robo-Master, gnashing his metallic teeth, "I
+didn't expect you back so soon... so, go and clean out the DEATHBOWL!"
+Warily, Sweevo reached for his copy of the GALACTIC ADUARIST and read:
+
+"The gigantic planetary aquarium called DEATHBOWL is now so polluted
+that the only remedy is to complettly empty it of water by pulling
+each of the four main plugs. Each plug is activated by special
+objects, indicated by the surrounding floor-plates. These objects may
+be just lying around, although guarded, or they may be part of one of
+the inhabitants, which must therefore be eliminated - luckily,
+weapons, with limited ammo, may be found in abundance. The Deathbowl
+is constructed of several levels - downward access is by whirlpools,
+upward access by bubbles - some bubbles burst early, which is useful!
+
+NOTE: It is important that the plugs are pulled in the correct
+sequence, otherwise an inaccessible level will be created.
+
+SPECIAL NOTE: for mechanical lifeforms: Rusting commences on contact
+with water - this can be reversed, temporarily, by an intake of oil."
+
+HOW TO PLAY
+
+Joystick, or Keyboard as follows:
+
+Q W E R T       Up/left
+Y U I O P       Up/right
+A S D F G       Down/left
+H J K L         Down/right
+SPACE           Pick up/Drop/Fire if carrying weapon
+0               Freeze
+1               Abandon game (Symbol-shifted)
+
+LOADING
+
+Type LOAD "" and ENTER; press PLAY on recorder.
+N.B. For 128K Spectrum use TAPE LOADER.
+
+CREDITS
+
+Manufactured and Marketed by Faster Than Light
+Music by Rob Hubbard

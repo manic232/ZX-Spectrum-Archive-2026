@@ -1,0 +1,120 @@
+FAT WORM BLOWS A SPARKY (Durell Software, 1985)
+
+
+[Inlay, Side 1 / Rear of Box}
+
+FULL INSTRUCTIONS MAYBE FOUND ON THE REVERSE SIDE OF THIS SHEET.
+
+Now for something completely different. You are an insidious 
+little WORMIE being chased through a micro-electronic labyrinth 
+(you guessed it a Sinclair Spectrum) by CREEPERS in SPUTNIKS and 
+CRAWLERS on foot (feets?). Defend yourself by shooting BURPER 
+SPARKIES at the CRAWLERS, and BLASTER SPARKIES to take-out the 
+SPUTNIKS. You'll see the computer board in a smooth-scrolling 3D 
+viewed from above (yawn, yawn, just another bit of 
+mega-programming), as you crawl around in search of a DISK DRIVE 
+on which to CLONE yourself. First you'll need to find fifty 
+SPINDLES to eat, which will replenish your supply of SPARKIES to 
+shoot at the BUGS. How long can you crawl down a DATA BUS? Find 
+out how refreshing a DE-BUGGER feels when you're stuck in a 
+Spectrum and covered in CRAWLIES. This game is like WELL CRUCIAL 
+MAN.
+
+DURELL SOFTWARE 1985
+
+This computer game is sold subject to the condition that it is 
+for home use only. All other rights are reserved. Any other 
+unauthorised copying, editing, exhibition, renting, exchanging, 
+hiring, lending, public performances, diffusion and or broadcast 
+of this game, or any part thereof is strictly prohibited.
+
+
+[Inlay, Side 2]
+
+FAT WORM BLOWS A SPARKY by Julian Todd
+
+
+Compatible with Kempston, Protek, Interface 2, and many other 
+joystick interfaces. However we recommend you use the keyboard. 
+We recommend you use the REDEFINE KEYS option to set up the 
+keyboard to your favourite positions.
+
+
+LOADING
+
+Place cassette in recorder and rewind to start. Check that the 
+recorder is attached to the Spectrum (EAR to EAR), and that the 
+recorder is set to maximum treble, and half volume. Type LOAD "" 
+on the Spectrum, and press ENTER.
+
+
+STANDARD CONTROLS
+Q       Joystick UP      FASTER
+A       Joystick DOWN    SLOWER
+O       Joystick RIGHT   ROTATE LEFT
+P       Joystick LEFT    ROTATE RIGHT
+1	                 FIRE burper sparky (mine type)
+SPACE   Joystick FIRE    FIRE blaster sparky (bullet type)
+H                        HALT PLAY (activates "BOUNCING BALL
+                         ROUTINE")
+G                        GAME OVER
+
+QUICK START INSTRUCTIONS
+
+The aim of the game is to find and eat 50 of the rotating 
+triangular shapes called "SPINDLES", then find and climb onto the 
+disk (which has the word "DURELL" written on it) where you must 
+"clone" the worm to complete the game. You must kill or avoid the 
+bugs. If four bugs get onto your worm it will suffer a fatal 
+error (death).
+
+
+GENERAL PLAYING TIPS
+
+Use the map at the bottom left of the screen to locate spindles, 
+which will appear as small white dots. If you get "bugged" find a 
+black & white striped block and crawl under it - this is the 
+"de-bugger" (and will remove all your bugs). Eat as many spindles 
+as you can, as they replenish your supply of sparkies, and you 
+must eat 50 before you can clone yourself. Also try to pick up as 
+many extra sparkies as you can find (usually running down the 
+data buses). To get onto the data buses you must find a ramp. 
+There are crawler bugs which you can shoot with blaster sparkies 
+straight from your nose, and there are creeper bugs that fly 
+around in sputniks which you can shoot down by laying burper 
+sparkies. These will wait until a sputnik is overhead, then rise 
+up to get it. However if the sputnik is very high, it will 
+probably pass above the burper sparky without being hit.
+
+
+CHANGING CONTROL KEYS &JOYSTICKS
+
+If you have a Kempston joystick, select this option from the 
+opening menu. If you have a "cursor" type joystick (eg: Protek 
+and Interface 2), or if you wish to redefine your keyboard 
+(highly recommended), then select the "REDEFINE KEYS" option from 
+the opening menu, and then just press the keys of your choice or 
+move the joystick in response to the prompts. Select the "EXIT" 
+prompt and press ENTER to end your redefinition.
+
+
+SCORE
+
+You score points for killing bugs and for collecting spindles. 
+Watch the bottom right of your screen to check your supply of 
+sparkies (ammunition), and how many spindles you have still to 
+collect before "cloning".
+
+
+OTHER GAMES BY DURELL
+£9.95 BIG 4 Combat Lynx, Saboteur, Critical Mass, Turbo Esprit 
+£9.95 THANATOS
+£9.95 DEEP STRIKE 
+£9.95 SIGMA SEVEN
+£9.95 CHAIN REACTION 
+£9.95 SABOTEUR II
+£2.95 SCUBA DIVE (mail order only) 
+£2.95 HARRIER ATTACK (mail order only)
+
+
+[ASCII conversion for WOS archive by David Corbett, 10-jan-2005]

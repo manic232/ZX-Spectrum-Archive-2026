@@ -1,0 +1,268 @@
+Fairlight: A Prelude (c) 1985 The Edge Software
+-----------------------------------------------
+
+AN INTRODUCTION
+
+Welcome to the Land of Fairlight. You are about to enter a world of wonder
+and magic. Fairlight represents the 'state of the art' in 3-dimensional
+graphic adventures for the Sinclair Spectrum. What makes Fairlight rather
+special is a programming environment called 'The 3-D Worldmaker Technique'.
+
+The techique allows a level of graphic and 3-dimensional realism never seen
+before on a home computer. Every object that you come across in the game has
+it ownspecial attributes. You can move most objects at will and even stack
+them into piles if you wish.
+
+Objects and characters in general have 'real world' features, such as weight,
+momentum and sometimes a degree of intelligence too. Although, for instance,
+you (as the hero 'Isvar') have 5 'pockets' to carry things in, you may not be
+able to carry as many as five 5 - what you can carry also depends on the
+weight if the objects. And as you'd logically expect, pushing a lightweight
+object like a key makes it travel further than pushing a heavy object like a
+barrel.
+
+This revolutionary technique has also allowed (as you'll see) an unrivalled
+degree of detail to be added to the 3-D rooms and caverns. The net result is
+a 'realistic' castle and accompanying cave system which you can feel free to
+explore. But keep your eyes open! As in real-life not everything which you
+can search for is esy to spot! Many objects have, well, 'magical' uses. All
+is not as may first meet the eye...
+
+The game may take you several months to solve - so do not sit down expecting
+to see all that Fairlight has to offer on the first evening!
+
+We sincerely hope that you have as musch pleasure playing Fairlight as Bo
+Jangeborg had in creating it. Keep your eyes peeled for Fairlight II, coming
+next from Bo, via The Edge.
+
+London, Autumn 1985
+
+PLAYING FAIRLIGHT
+
+Loading Fairlight
+Fairlight loads from tape by simply entering LOAD "" and pressing ENTER. The
+game will run automatically when loading is finished.
+
+Game controls:
+
+Keys           Function
+Y-P            UP & RIGHT
+H-ENTER        DOWN & LEFT
+Q-T            UP & LEFT
+A-G            DOWN & RIGHT
+SYM/SPACE      JUMP
+B-M            FIGHT
+X-V            PICK UP
+CAPS/Z         DROP
+1-5            SELECT OBJECTS (5 'pockets')
+6/7            USE OBJECT SELECTED
+SYM/0          RESTART GAME
+SYM/SPACE      PAUSE
+
+Joystick:
+Fairlight can also be used with Kempston compatable interface joysticks. The
+usual joystick movements will allow you to guide Isvar around the castle,
+and the fire button will allow Isvar to fight. All other functions are used
+by pressing keys as above.
+
+Objects in the Land of Fairlight:
+To help you identify some of the objects in Fairlight, here is a short list
+of some of the most common ones that you'll encounter in your quest:
+
+Stool, Book, Barrel, Decanter, Keys, Goldbag, Potion, Plant, Bread, Chichen,
+and Scroll> Most objects have a use and some may not be what they seem!
+
+P.S.Clues to solving Fairlight are scattered everywhere. Not only in the
+game, but look also closely at the cover, start-screen, and the following
+text, too!
+
+CRONICLES OF THE LAND OF FAIRLIGHT
+
+1. A Prelude: The Light Revealed.
+
+A Dying Land
+It did not happen overnight. The Land of Fairlight had once been a beautious
+place, people by a fair race, led by mighty and worthy Kings and Queens. But
+the beauty had faded. The leaders had grown weaker and weaker. The Light had
+all but gone...
+
+The history books written by the Elders of days long gone by, talked almost
+solely of a land of peace, a land of music and jollity. A land where it
+seemed the sun shone brightly everyday, in clear blue skies.
+
+A land in which magic was everywhere, in everything and in everyone...
+
+No one could explain exactly what had gone wrong, although there was no
+shortage of village story tellers more than willing to try. There had been
+Gerion, a great and powerful leader standing 8 feet tall, it's said, who led
+the land into costly and wasteful war. Ogdar had then replaced the mighty
+Gerion only to promptly ban all study of science, music and the magical arts.
+
+There followed a succession of weak rulers from Reeth to Leofine, who all
+allowed the once pristine order to slip into chaos and darkness. And even
+when a seemingly good leader finally appeared many bad harvests later, his
+own people murdered him. It was the final sign of a decaying land, and there
+were many at that time who despaired and left Fairlight for lands far beyond
+the Cynwulf mountains.
+
+Only the Castle Avars sttod alone and silent on the plains of Avarslund. The
+last dwelling place of a King of Fairlight, the King Avars who some say was
+King when the Land was still full of magic, before the fall...
+
+As long as anyone could remember no one had succeeded in gaining entrance to
+this last vestage of the land as it once was. Legends about it were to be
+heard everywhere, with some saying that inside still lived the tall ancestors
+of Fairlight's people, some saying that a perpetual summer shone within, and
+yet some saying that within sits Segar the Immortal awaiting his moment to
+bring the Light back to the Land.
+
+But few alive in these times could believe that, as mysterious as this Castle
+might be. For this was an age of fudalism and a time when Merchants and
+Barons rule, if any can be said to rule in such a fragmented land.
+
+A Trespass: A meeting; An unexpected guest
+Nothing was further from Isvar's thoughts than tales of his ancestors, less
+still of the myths surround the Castle Avars.
+
+"The clouds are particularly grey today...still I suppose it is July..."
+mused Isvar, "can't help but laugh at the Elders who will claim anything if
+it suits them - such as the tall tales of days gone by when the skies were
+clear blue and Solas shone brightly at least 8 hours each day! Blu! Huh.
+Still they also said don't go near this wood. Ogri's Wood. 'Dangerous', they
+sais, 'evil, nasty place', and they even tried to claim there are poisonous
+snakes in here. Well I'm sure there's no such snakes in this latitude, and as
+for their other warning, well they only serve to support my idea that they
+are trying to hide something! Perhaps a treasure? Well  certainly something
+worth finding, and I'm going in to look for it.
+
+"It's certainly dark in here... and so silent... not a ...what was that? A
+crack of a branch? A bat? An owl? Don't get jumpy now Isvar, your older than
+that.. so just... what?! a noise again, like someone or something breathing
+quite close by. I think perhaps I'll return later, better go back for now.
+Er, the path was just behind me here, just... where's the path gone! It's so
+dark in here, but even so there's no sign of the path at all!! Help!"
+
+"Don't be afraid young master", came a voice so soothing that Isvar thought
+for a moment that an angel had spoken. "This is Ogri's wood and Ogri's
+friends quite safe here, yes, and Ogri like young master, not let harm come
+to him, no, no harm. Long time since Ogri saw young master, why young master
+not come again sooner, why leave Ogri here so long on own? Hum? Not like Ogri
+young master? Huh?"
+
+Isvar's mind and body were both equally frozen by what stood before him. Part
+of him still desperately trying to run away, and another part was totally
+fascinated by this woman-like creature that stood half bent before him! But
+how? And those eyes, those eyes, so soothing, so welcoming so...
+
+Isvar sank into a blissful loss of consciousness, and as he did so he felt
+Ogri lifting him up and starting to carry him away...
+
+Isvar woke up what seemed to him to be an eternity later. He was sprawled out
+on the floor of a cave and the faint glimmer of a typical Fairlight day was
+easing in through the entrance. There too stood a figure, that of an old man
+in a hooded cloak. Before Isvar could piece his thoughts together, the old
+man spoke in a deep, resonant voice.
+
+"Arise Isvar, we have much to do, and if you do not move fast I fear that
+Ogri will be returning to feast upon you as her breakfast!"
+
+Hardly knowing what to think, Isvar's body almost automatically rose and he
+found himself following this old man out of the cave and into the glade
+outside. Still dazed. Isvar managed to stutter, "Who are yyyou? Where am I?
+Where did you come from?" and another part of him saying, "moreover how do
+you know my name??".
+
+"Isvar, you have strayed. You have ignored the warnings of your Elders and
+entered Ogri's Wood. But I can lead you to safety. Come this way. Just down
+this slope and then we're almost out of Ogri's way. You'll be safe then. Come 
+boy! Don't dawdle."
+
+Isvar followed, quite mesmerised by the old man's voice. Down the slope and
+along a path which suddenly turned sharply and ran alongside a wall.
+
+"This must be an outer wall of the Castle Avars", thought Isvar, "I hadn't
+realised I was so close to it."
+
+"This way boy! Hurry, we must move fast if we are to get well away from
+Ogri - she's far more dangerous than you might think. In here, quick boy,
+in here."
+
+The old man had found an opening in the wall that Isvar could have sworn was
+not there a moment before. Entering, Isvar had the shock of his life.
+
+"But, but, this is the Castle Avars! We're on the Inside! But no one has ever
+got inside - at least the Elders tell use that no one has ever been in here
+since the last King Avar died over 3,000 years ago."
+
+Even as he spoke, Isvar was aware that the wall behind him was quite
+seamless, there was not the slightest sign if a doorway of any kind. He was
+trapped inside! Isvar turned to face the old man and found that he was about
+to speak, wearing an almost pathetic apologetic face.
+
+"Isvar, I must admit that I have lured you inside this castle. You are wrong
+to say that none have ever been in here since the King Avars. I myself live
+here, and have done so for many many years. Lived did I say? Huh! I should
+say entrapped! For I am a prisoner and what you see before you is merely a
+projection of myself that I have created by force of my will. I am a prisoner
+Isvar, in that tower over there. Yes, I was once the court sorcerer to the
+King Avars, yes I am that old! But the King's slayer entrapped me here all
+that time ago.
+
+"I have waited Isvar, oh how I have waited! only one has come before you, and
+he too too I gave the same quest that I give to you this day. But je failed
+me Isvar. You must not! Do not fail me Isvar.
+
+"Isvar! I must be freed! The only way I can be free is if you can find
+somehere here a book - 'The Book of Light'. This book is magic, nay it is
+more than that for only with it can there be any hope of magic returning to
+are fair land. You must find it! Bring it to me and my invisible bonds will
+be broken, and I can assure you Isvar that upon that moment I will be able to
+give you the means to leave this castle. But only then!
+
+"Beware, though, Isvar, for those who entrapped me here did not leave me
+unattended. You will see guards, trolls and many other creations which they
+have around this castle to ward off anyone who may succeed in gaining
+entrance! He who came before you was almost successful - he may have even
+found the book... I don't know But this I do know, that the guards got him
+and entrapped him too in the dungeons of this place.
+
+"Go! Quickly Isvar. Hurry, the future, the future of Fairlight depends upon
+you! And remember this, the book could only be approached by the King Avars!
+More than that I cannot help you in locating it. But hurry, there is no time
+to lose!
+
+And with that last phrase, the vision of the old man seemed to fade and
+barely a moment he had dis appeared altogether.
+
+"Wait!, I said wait!", cried Isvar "You must know more about where I can find
+the book! You must know more about how I can find my way around this castle!
+Surely you can tell me more!"
+
+But no answer came.
+
+ACKNOWLEDGEMENTS
+
+Storyline by Bo Jangenorg with assistance from Tim and Cheri Langdell.
+
+Graphics by Bo Jangenorg and the inimitable Jack (with special thanks for the
+start screen, Jack). Graphics made possible by The Artist and Grax.
+
+Music - the phenomel 'multichannel' music of Fairlight was composed by
+Alphinwood, and the Spectrum version was created through Ricksoft. With many
+thanks to Martin, Robert, Alan and friends.
+
+Bo would like to thank Xcellent Software for giving him the time off to
+create Fairlight.
+
+Finally, many thanks go to Stuart Hughes for one of his finest pieces of
+cover-artwork so far.
+
+(c) 1985 The Edge & Bo Jangenorg
+All rights reserved. This booklet is copyright. No part of this booklet may
+be copied or stored by any means whatsoever mechanical or electronic, except
+for private use as defined in the Copyright Act. All enquiries should be
+addressed to the publishers.
+
+Published in Britain by The Edge, 12/13 Henrietta Street, London WC2E 8LH. 
+
+Complete Instructions typed in by Paul Thompson, March 2003

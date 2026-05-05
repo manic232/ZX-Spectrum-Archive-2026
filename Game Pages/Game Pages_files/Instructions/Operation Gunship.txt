@@ -1,0 +1,69 @@
+OPERATION GUNSHIP
+(Code Masters)
+
+
+Your crack team of S.A.S. commandos are scattered amongst the enemy
+islands. Your mission: get them out before the communist revolutionary
+army gets them in its evil clutches. Heavily armed and shielded in the
+world's most advanced helicopter gunship, you'll be flying in fast and
+low, blasting through hostile enemy defences. Your outfit is counting
+on you - don't let them down.
+This game is one of the most sophisticated battle simulations yet -
+gigantic maps packed with islands, enemy bases, tanks, aircraft
+carriers, helicopter gunships - everything!
+
+
+LOADING: 128K users press ENTER
+          48K users type LOAD"" press ENTER
+
+CONTROLS
+Kempston or Sinclair
+
+                Keyboard  Port-1
+Start game      SPACE     FIRE
+Turn left       Z         LEFT
+Turn right      X         RIGHT
+Forward         J         UP
+Reverse         N         DOWN
+Bullets         K         FIRE
+Bomb            SPACE     SPACE
+Pause           P         P
+Quit            Q         Q
+
+There are five missions. To complete each mission you must find and
+rescue eight of your men stranded on the islands and return them to
+base. To pick up a man, hover over him and your helicopter will auto-
+matically lower a ladder to pick him up (watch the messages box at the
+bottom of the screen). Continue to hover until the man is safely on
+board. Take the men back to your base (marked with H for H.Q.) and
+hover whilst they disembark.
+The GUN SIGHTS show where your bombs will land.
+Hover over your base to get more ammunition.
+A special bonus is awarded for total destruction.
+
+HINTS AND TIPS
+* Your helicopter will carry all eight men; don't return them to base
+  individually.
+* Concentrate fire power on the weakest part of your target.
+* Learn where your men are to save time.
+* Destroy the enemy generation points quickly, especially aircraft
+  carriers.
+* Don't fly so fast that you only damage targets; destroy them
+  totally.
+* Shoot down heat-seeking missiles, or turn sharply out of their path.
+* Don't waste your armour, as completing a level only replenishes half
+  of it.
+* Shooting airborne enemies over targets will cause them to crash and
+  destroy the ground bases, saving your valuable ammunition.
+* Avoid returning to base to re-arm as this wastes your limited fuel
+  supply.
+
+
+This game was brought to you by ...
+
+Design & Coding     The Oliver Twins
+Graphics            Neil Adamson
+Music / Sound FX    David Whittaker
+Project Manager     Mark Baldock
+Production          Stewart Regan
+Illustration        Allan Hancock

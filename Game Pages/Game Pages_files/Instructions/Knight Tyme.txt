@@ -1,0 +1,51 @@
+KNIGHT TYME - MASTERTRONIC
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+TYPED BY VAXALON 1993
+~~~~~~~~~~~~~~~~~~~~~
+THE GAME
+
+After releasing Gimbal the Wizard from a self inflicted White Out Spell in
+Spellbound, Magic Knight has been catapulted through time to the future.
+This is his story, so here it is in his own words:
+"I landed heavily on the transporter pad of the USS Pisces and while I was
+bending out some of the dents in my armour I was approached by a strange
+metal creature. It spoke 'Hi, Magic Knight, I am KLINK. I have been 
+expecting you. Take this'. He then gave me a cubic object which I later
+learned was a Datacube. As I held it I became aware of a strange power 
+inside me. Klink spoke again 'The Datacube will give you the relevant date
+for 25th Century life and reduce your Culture Shock to nil. It will fade
+away as you absorb its knowledge'.
+As the Datacube transferred its data to my brain cells I started to 
+formulate my survival plan. I will have to locate the Tyme Guardians,
+if they still exist and obtain a Tyme machine from them. But my first 
+priority has to be to make contact with the starships Transputer since
+it programmed Klink to give me the Datacube."
+
+
+FEATURES
+
+The games use and enhanced version of windimation which players of
+Spellbound will be familiar with. This system allows the player to access
+windows in which the command choices are given.
+
+
+CONTROLS
+
+A - Up/Jump   Z - Down  N - Left  M - Right  SPACE - Fire
+
+Use the Up (A) and Down (Z) keys in the menu to operate the finger. Or 
+define your own keys.
+
+Joystick:
+Kempston Cursor Protek Sinclair Any programmable joystick
+
+HINTS
+
+Derby IV, the Transputer, can help you to start with. The advert to
+Spellbound may actually prove to be useful. A clown will help you to
+avoid dying of exhaustion. Sarab will tell you how to move the starship
+once you are wearing a valid ID Card. Use Gadget X for the save and load
+game facilities.
+
+MASTERTRONIC 1985
+

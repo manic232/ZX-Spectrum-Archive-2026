@@ -1,0 +1,112 @@
+MARBLE MADNESS(TM)
+THE GAME
+
+
+HOW TO PLAY THE GAME
+
+The game, on side A of the cassette, contains 30 playing screens and is
+loaded as follows:
+
+1. Place the cassette in your player, making sure it is rewound to the 
+start and that the EAR socket of your Spectrum is connected to that of the
+tape player, as detailed in the Spectrum manual.
+
+2. Enter the command LOAD "" then press the ENTER key, Spectrum 128 and 
+Plus 2 users may use the 'Tape Loader' option instead.
+
+3. Start the tape player. The game will now load automatically.
+
+4. In case of difficulty, alter the volume level and consult your Spectrum
+manual.
+
+5. In the most unlikely event of a genuine fault, please return the 
+complete package to Melbourne House Publishers. We will gladly replace it.
+PLEASE DO NOT RETURN IT TO THE PLACE OF PURCHASE. (This notice does not
+affect your statutory rights.)
+
+Once the program has loaded, hit any key to move from the title screen to
+the options menu.
+
+The Construction Set loads in a similar manner, full instructions for its
+use are included on a separate instruction leaflet.
+
+The Game options menu shows:
+
+			0 - PLAY GAME
+			1 - KEYBOARD
+			2 - KEMPSTON JOYSTICK
+			3 - DEFINE KEYS
+
+If you have a Kempston joystick connected, then pressing "2" and then your
+"fire" button will allow you to use this - press the "fire" button again to
+start a game.
+
+If you have another type of joystick, or prefer to use the keyboard, 
+pressing option "3" allows you to set up the program.
+
+Initially the keys are set for a cursor joystick:
+
+			5 - Left
+			8 - Right
+			7 - Up
+			6 - Down
+
+To set new keys simply press each key in turn, or move your Spectrum Plus 2 
+or Interface 2 joystick in each direction in turn. When the correct keys 
+are indicated press SPACE to return to the option menu.
+
+You should not use the key "M" as this is used to switch the music on and
+off during the game.
+
+PLAYING THE GAME
+
+The object of the game is to guide your marble to the bottom of each of
+thirty screens as quickly as possible. Extra points can be obtained by 
+passing over jumping "bonus" numbers on some screens.
+
+You must avoid anything else on the screen which moves, and naturally avoid
+falling into holes or off the paths.
+
+It is possible to travel up screens - even up steep ramps, but it is not
+possible to pass from say screen 2 back to screen 1.
+
+Your marble will bounce off the edges of the screen, except when it gets to
+the bottom, where it will advance you to the next screen.
+
+The game is played within a time limit, displayed on each screen, which 
+increases if you complete a screen quickly. When this time limit is reached,
+the program will return to the options menu where your score and the current
+high score are displayed.
+
+When you have completed all the screens, or if you find them too hard, turn
+the tape over and load the Construction Set on side B of the tape. This
+allows you to design your own screens, which can be as difficult as you 
+like.
+
+
+Marble Madness (TM) Copyright (c) 1984, Atari Games.
+All rights reserved, licensed to Melbourne House.
+
+Marble Madness is a trade mark of Atari Games.
+
+Program copyright (c) 1987, John F Cain.
+
+Music by Consult Computer Systems.
+
+Cover artwork by Bill Scolding.
+
+
+Published by:
+MELBOURNE HOUSE (PUBLISHERS) LTD
+60 High street
+Hampton Street
+Hampton Wick
+Kingston upon Thames
+KT1 4DB
+
+
+WARNING: Infringement of copyright is a criminal offence. Copying, lending,
+hiring, public broadcasting, transmission or distribution are prohibited
+without express written permission from Melbourne House (Publishers) Ltd.
+All Melbourne House products are sold subject to our terms and conditions
+of sale, copies of which are available on request.

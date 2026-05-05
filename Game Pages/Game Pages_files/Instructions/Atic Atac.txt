@@ -1,0 +1,144 @@
+Atic Atac
+For the 48K RAM Sinclair ZX Spectrum
+
+COPYRIGHT NOTICE - Atic Atac Copyright, ULTIMATE PLAY THE GAME, Copyright
+& Trade Name, 1983 Ashby Computers and Graphics Ltd. All rights reserved
+Worldwide.
+The game and name ATIC ATAC and all of its associated hardware, software,
+code, listings, audio effects, graphics, illustrations and text are the
+exclusive property and copyright of ASHBY COMPUTERS & GRAPHICS LTD. and may
+not be copied, transmitted, transferred, reproduced, hired, lent, distributed,
+stored or modified in any form, in full or in part, without the express
+written permission of Ashby Computers & Graphics Ltd. The Green, Ashby de la
+Zouch, Leicestershire LE6 5JU, England.
+
+GUARANTEE
+All ULTIMATE, PLAY THE GAME software products have a 5 year unconditional
+guarantee. If this tape ever fails to load it will be replaced totally free of
+charge, if returned, with details, directly to ULTIMATE, PLAY THE GAME, at the
+address shown above. If the tape shows any form of physical damage, please
+include £1.50 to cover replacement costs. This guarantee does not effect and
+is in addition to your statutory consumer rights.
+
+
+I never did believe in Ghosts or Monsters... Not until now, not until the Main
+doors of the Castle closed and locked themselves behind me... There's no key
+here!!! I'm trapped!!! HELP!!!... HEELLLPPPP!!!!... No-one can hear me... I'm
+alone... Why do the doors open and slam shut??!!... Is anybody there??...
+HHEELLLLPPPP!!!!... I can see strange shapes materialising on the other side
+of the room... Evil eyes glaring at me... Footsteps... Somethings coming down
+the corridor... Something large... Something cold... I must run quickly...
+QUICKLY... HHEELLLLPPPP!!!!... I must escape before it's too late!!!!!
+
+THE CASTLE
+Now that you have been trapped in the evil haunted Castle, your object is to
+find the hidden Golden Key of A.C.G. and escape via your only exit, the Main
+Doors.
+The Castle consists of 5 floors, including the 'Atic' and the caverns, which
+contain countless rooms. Within the many rooms you may find furniture, food,
+drink, objects, Ghosts, Ghouls and Monsters. Eat and drink sparingly so that
+you do not deplete your food supply. Collect and utilise any objects you find
+to your best advantage, be wary of slamming doors and working trapdoors which
+will try to trap you and avoid contact with all the Ghouls and Monsters, as
+each of these will use their best endeavours to hamper your search.
+
+YOUR WARRIOR
+Each of the characters, Knight, Surf and Wizard, are armed with their own
+specific weapons, individual movement type and use of one set of secret
+passages, unbeknown to the others.
+
+GOOD LUCK
+
+
+ATIC ATAC LOADING INSTRUCTIONS
+1. Connect the EAR socket on your Spectrum to the EAR socket on your recorder
+and ensure the MIC lead is disconnected.
+2. Place the cassette tape in the recorder and rewind to the beginning.
+3. Type either LOAD "ATIC"
+            or LOAD ""
+4. Press PLAY on the cassette recorder.
+5. ATIC ATAC will now load automatically and a message will appear on the
+screen after several seconds. If loading is unsuccessful, rewind the cassette,
+adjust the VOLUME control on the recorder and try again.
+6. PLAY THE GAME.
+
+For better sound effects you can increase the volume by connecting the MIC
+socket on your Spectrum to the MIC socket on your recorder. Disconnect the EAR
+lead, remove the cassette tape from the recorder and press the PLAY button,
+the sound may be amplified through the loudspeaker of the recorder.
+
+Due to the enormous complexity and nature of the interactive G.A.S. adventure
+software, it is almost impossible to guarantee continuous error free
+operation. Although, should any fault prevail, please contact ourselves,
+enabling the correction of any future versions.
+
+
+CONTROLLING YOUR WARRIOR
+KEYBOARD CONTROLS
+LEFT Your warrior will move left using the Q key.
+RIGHT Your warrior will move right using the W key.
+DOWN Your warrior will move down by using the E key.
+UP Your warrior will move up by using the R key.
+FIRE Your warrior will use his weapon when the T key is pressed.
+PICK UP/DROP Your warrior can pick up or drop an object using the Z or SYMBOL
+SHIFT keys.
+PAUSE The whole game can be paused using the CAPS SHIFT or SPACE keys.
+
+JOYSTICK CONTROLS
+Your warrior can be controlled using either the Kempston or Cursor controlled
+joysticks by replacing the Left, Right, Up, Down and Fire commands.
+
+
+All software, graphics, and audio-visual by ULTIMATE, PLAY THE GAME
+Trade Name of Ashby Computers & Graphics Ltd. Made in England.
+48 1006
+
+
+FEATURES
+3 Dimensional Scenario
+Knight
+Surf
+Wizard
+Full 8 way movement
+On Screen Scoring
+Superb Graphics
+Amazing Animation
+Grave Stones
+Working Trapdoors
+Secret Passages
+Cross
+Food
+Valuables
+Frankenstein
+Mummy
+Dracula
+Devil
+Witch
+Monks
+Ghosts
+Ghouls
+Hungry Monsters
+Pumpkins
+Spiders
+Multi Lives
+Incredible Sound Effects
+Game Timer
+Swag Display
+% Adventure Score
+On Screen Time Lapsed Clock
+Keyboard / Joystick Select
+Status Scroll
+Pick Up/Drop
+Continuous Pause Button
+Furniture
+Other Gubbins
+
+
+
+
+
+
+
+
+Instructions typed on 20/09/2004 by Lee Tonks, from original 1983 release
+cassette inlay.

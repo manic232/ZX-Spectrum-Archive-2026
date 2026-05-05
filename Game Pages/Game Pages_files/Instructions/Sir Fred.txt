@@ -1,0 +1,88 @@
+SIR FRED (Mikro-Gen)
+
+LOADING INSTRUCTIONS
+
+To load type LOAD "SIR FRED" ENTER or LOAD "" ENTER.
+If you have any difficulty refer to Chapter 20 of your Spectrum manual.
+
+The Princess is imprisoned in any of seven rooms and whilst
+you can see her, you will have to solve the whole adventure to
+rescue her. Each time you start the game, the Computer selects
+one of 58 game patterns. You have to discover the right way to
+solve the adventure according to the way the objects are
+distributed on screen.
+
+Upon loading you will see a menu screen on which are several options.
+
+If you are using the keyboard the controls are:
+Q - Up, A - Down, O - Left, P -Right, Z - Select, M - Use.
+Selecting the joystick option you still have to use a key for SELECT.
+To USE an object, press the fire button.
+
+If you wish to define your own keys, you select option 3, and
+need to define six keys: up, down, left, right, select and use.
+
+To pause the game press Break-Space. Press again to restart.
+To abort the game press Caps Shift and 1 together.
+
+The first four keys are self explanatory. Sir Fred is able to pick
+up objects as he travels around, to a maximum of four. To obtain
+them you must move over the object and press the select key. The
+item you were carrying will be exchanged. Once collected these
+objects are shown on the bottom right of the screen and the select
+key then moves either a yellow or red box over each item. When
+you have chosen your object you can operate the use key to use
+that item. Some objects may be used only once, some nine times
+and others may only be used in certain places. Certain objects can
+be used as many times as you wish.
+
+Movements of Sir Fred
+Sir Fred's movements are made to be as near lifelike as possible.
+He has inertia, which means that if he runs too fast he may fall
+down stairs or run into a wall. His power will reduce each time
+this happens. By pressing the down key when he is running, Sir Fred
+will duck, and the up key will make him jump when running. If he
+ducks at the same time, he'll jump much higher. Again, if he falls
+from a height he will lose power according to the height he falls from.
+
+To catch a rope Sir Fred must jump towards it, and the up and
+down keys move him up and down the rope. To swing on a rope
+you must press the left and right keys to move to the opposite side
+of the rope to increase the swing. To leave the rope, press either
+of the keys twice.
+
+Sir Fred will have to swim, and to do this you have to press
+either the right or left keys (depending on which way he's
+swimming) to thrust, and then release it. To swim up or down,
+keep the up or down keys pressed at the same time. Sir Fred will
+float to the surface if he is not controlled, as any person would.
+To get out of the water just approach a bank and press the up key.
+
+Fighting
+Sir Fred, master swordsman, will come across various opponents
+whom he can only get past by killing with a sword or other
+weapons. When using the sword the up and down controls move
+the sword up and down through three positions and the left and
+right will attack or defend. When Sir Fred comes against an
+opponent the first one to move will take the initiative. The
+opponent must then place his sword in the same position or the
+first swordsman can attack. The more skillful the player, the
+shorter the reaction time allowed. There are seven skill levels,
+which the computer automatically selects. Sir Fred has to hurt
+his opponent three times to kill him, unless his opponent is
+trapped in a corner and cannot move backwards. In this case only
+one hit is needed.
+
+Sir Fred can also use the bow and arrows which he has collected.
+Once selected, press the use key to change the arrow through four
+different positions.
+
+If you want to throw a stone which you have collected, select it,
+then press the use key. The strength with which you throw depends
+on how long you hold down the key. The stone is thrown when you
+release the use key.
+
+GOOD LUCK IN YOUR QUEST, SIR FRED!
+
+Clues for Sir Fred will be given on MIKRO-GEN's Help Line
+Tel: 0344 485339

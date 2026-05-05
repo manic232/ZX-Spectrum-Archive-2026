@@ -1,0 +1,37 @@
+ ANTICS
+ Bug-Byte 1984
+
+ CONTROLS : Keyboard, Kempston, Cursor
+ ---------------------------------------------------------------------
+ AIM : Boris the Bee has been kidnapped by the local ants and locked
+ away inside their nest. His cousin Barnabee (what else?) has however
+ decided to come to his rescue. It's your job to guide him around the
+ maze of the ants' nest.
+ 
+ GAMEPLAY : Barnabee starts off above ground and must fly to the ants'
+ nest, avoiding the blue birds which kill on contact. Within the nest
+ he must discover Boris' whereabouts and lead his cousin back out of
+ the nest. Boris will follow Barnabee if the two bees are close enough,
+ but Boris has been weakened by his ordeal and so will only follow
+ slowly.
+
+  Within the nest are lots of ants (as you would expect) and beetles;
+ contact with these will sap Barnabee's strength, but visiting the
+ flowers in the nest will allow him to regain energy. Some flowers
+ also have the property of opening up walls in the maze when they are
+ visited - the wall may not necessarily be on the current screen. In
+ some mazes the walls are weak and will collapse as Barnabee touches
+ them. There are also energy-sapping thorns embedded in the walls of
+ the mazes. 
+
+ COMMENTS : "Original, playable and addictive ... highly recommended."
+ RATING : 90% (CRASH #6, July 1984)
+
+ NOW : A simple but fairly enjoyable maze game. Just don't expect too
+ much from it!
+ ---------------------------------------------------------------------
+ KEYS : Left		- Q, E, T, U, O
+	Right		- W, R, Y, I, P
+	Flap wings	- Z to M
+	Sound on	- S
+	Sound off	- A

@@ -1,0 +1,58 @@
+Emerald Isle
+from Level 9 Computing
+
+Emerald Isle lies in the Bermua Triangle, hidden by fogs and
+treacherous waters and peopled by the remnants of a strange
+civilisation. This is a massive adventure and, if you read the gold
+label, you'll probably find this version has over 200 pictures!
+
+Level 9 Computing specialise in adventures. Big adventures with over
+200 locations, detailed scenery and interesting storylines. This means
+more enjoyment for you and we'll send a free clue sheet, with hundreds
+of answers, if you get stuck.
+
+All adventures have SAVE and RESTORE commands for the state of play and
+graphical games have PICTURES and WORDS to turn graphics on and off.
+
+This game is designed to have graphics on most micros, but don't worry
+if the version for your computer is pure-text. The puzzles are the
+same, and there is more room for longer messages.
+
+  You play the part of an aircraft pilot, employed to ferry urgent
+'documents' around the Carribean. Fierce winds seize the 'plane over
+the Bermuda Triangle and hurl it to destruction; you escape by
+parachute at the last moment.
+  As you float down towards an island below, you recognise the
+coastline from an old map. It is the lonely atoll, "Emerald Isle",
+which few people visit and from which none return.
+  It is said that only one person may leave - the ruler of the land -
+and that each visitor is tested. Success promotes you to King or
+Queen, failure promotes you to the next life.
+  Explore peculiar towns, meet peculiar people, learn the peculiar
+purpose of the 'letters' and travel on a railway which is simplicity
+itself compared to BR's peculiar fare system. Don't be too afraid of
+the dark, and watch out for the spider!
+
+                         ABOUT LEVEL 9
+
+  "Ask any dedicated adventure player to name a software house and
+it's quite likely that the answer will be Level 9. Not only do they
+produce a range of consistently high class software for seven
+different machines but they've also been around for a long time. In a
+business that has seen the rapid rise and fall of many a well known
+name, that's something of a rarity.
+  Level 9 is definitely a family concern, run in a very business-like
+manner from the Austin residence. The three partners and chief
+programmers are all brothers - Pete, Nick and Michael Austin, their
+sister Margaret is the marketing manager and the mail-order business
+is run by Mrs Austin Senior ...
+  'How did it all start?' I asked him(Pete). 'With a Nascom and
+60 Pound' he replied ... Of the original 60 Pound, 20 Pound went on
+tapes and 20 Pound on classified advertisements in hobbyist magazines."
+                                                       - Software Today
+"Level 9 (are) arguably the producers of the best adventure game in
+the UK."
+                                                           - Acorn User
+"There can be no doubt that Pete Austin and the team at Level 9 are
+the 'Lords of Adventure'."
+                                               - Central Press Features

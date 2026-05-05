@@ -1,0 +1,159 @@
+          For the 48K RAM Sinclair ZX Spectrum
+
+I can't help her...She's breaking up...She's breaking
+up!!...CRACKLE...
+
+After JETMAN's poorly assembled multi-stage rocket
+started to disintegrate in warp space, he manages to crash
+land on a strange undiscovered world, inhabited by
+hundreds of restless aliens intent on the total destruction
+of the planet Earth.
+Desperate to regain the lost minerals, the aliens initialise their
+ancient attack mechanisms. All around, huge missile installa-
+tions erupt from deep within the bounds of the planet, sur-
+rounded by their own strategic defence stations. Their huge
+linoleum shelled missiles glisten in the distant sunlight as the
+multitronic warheads auto-arm and poise for attack.
+With no hope of help from the nearby and unaware Earth,
+JETMAN has to destroy all of the installations single-handed
+before the imminent destruction of his home planet. Using only
+his Hyperglide Moon Rover to carry the strange equipment and
+supply Bridging units, with any other equipment he can find to
+complete his mission.
+Pity he can't find the operation manuals!
+
+COPYRIGHT NOTICE - LUNAR JETMAN Copyright,
+ULTIMATE PLAY THE GAME, Copyright & Trade Name, 1983 Ashby
+Computers & Graphics Ltd. All rights reserved Worldwide.
+The game and name LUNAR JETMAN and all of its associated hard-
+ware, software, code, listings, audio effects, graphics, illustrations
+and text are the exclusive property and copyright of ASHBY
+COMPUTERS & GRAPHICS LTD. and may not be copied, transmitted,
+transferred, reproduced, hired, lent, distributed, stored or modified
+in any form, in full or in part, without the express written
+permission of Ashby Computers & Graphics Ltd. The Green, Ashby
+de la Zouch, Leicestershire LE6 5JU, England.
+
+
+                          For the 48K
+                          ZX Spectrum
+
+
+LUNAR JETMAN LOADING INSTRUCTIONS
+
+1. Connect the EAR socket on your Spectrum to the EAR
+socket on your recorder and ensure the MIC lead is dis-
+connected.
+
+2. Place the cassette tape in the recoreder and rewind to the
+beginning.
+
+3. Type either LOAD "JETMAN"
+            or LOAD ""
+and then press the ENTER key.
+
+4. Press PLAY on the cassette recorder.
+
+5. LUNAR JETMAN will now load automatically and a
+message will appear on the screen after several seconds. If
+loading is unsuccessful, rewind the cassette, adjust the
+VOLUME control on the recorder and try again.
+NOTE: Full loading instructions can be found in your Spectrum
+manual.
+
+6. PLAY THE GAME
+For better sound effects you can increase the volum by con-
+necting the MIC socket on your Spectrum to the MIC socket on
+your recorder. Disconnect the EAR lead, remove the cassette
+tape from the recorder and press the PLAY button, the sound
+may be amplified through the loudspeaker of the recorder.
+
+
+GUARANTEE
+All ULTIMATE PLAY THE GAME software products have a 5 year uncon-
+ditional guarantee. If this tape ever fails to load it will be replaced totally
+free of charge. If returned with details, directly to ULTIMATE PLAY THE
+GAME at the address shown overleaf. If the tape shows any form of
+physical damage, please include £1.50 to cover replacement costs. This
+guarantee does not affect and is in addition to your statutory consumer
+rights.
+
+
+CONTROLLING YOUR JETMAN
+Your JETMAN is fully controllable using either the keyboard or
+joystick and keyboard combined.
+KEYBOARD CONTROLS
+LEFT JETMAN will fly, walk or drive left using the keys X,N.
+RIGHT JETMAN will fly, walk or drive right using the keys C,M.
+FIRE Any key on the second row may be used to fire Quad
+Photon Laser Phaser, rapid fire can be obtained by continuous
+hold of the fire key, e.g. A,S,D,F, etc.
+THRUST Any key on the third row can be used to thrust
+JETMAN's Hydrovac JETPAC, e.g. Q,W,E,R, etc.
+PAUSE The whole game can be paused using the 0 key.
+PICK UP/DROP JETMAN can pick up or drop a piece of equip-
+ment using either the Z or SYMBOL SHIFT keys.
+ENTER/EXIT JETMAN can enter or exit a piece of equipment,
+i.e. the Hyperglide Moon Rover using the CAPS SHIFT or BREAK
+keys.
+HOVER Any key on the numbers row, from 1 to 9 can be used
+to hover JETMAN whilst in flight without the need for thrust,
+e.g. 1,2,3,4, etc.
+
+JOYSTICK CONTROLS
+JETMAN can be controlled using either the Kempston or Cursor
+controlled joysticks by replacing the Left, Right, Thrust, Hover
+and Fire commands.
+
+SCORE LINE
+The Score Line displays:
+One and two player scores
+One and two player lives left
+Highest score obtained.
+Various game options are available including:
+Joystick & keyboard combined/keyboard select and 1 or 2
+player options, upon the start of game.
+
+
+All software, graphics, and audio-visual by ULTIMATE PLAY THE GAME
+Trade Name of Ashby Computers & Graphics Ltd. Made in England.
+                         No. 481005
+
+
+FEATURES
+
+Scrolling lunar landscape.
+Hyperglide Moon Rover.
+Missile Launchers,
+Working Armourment
+Fully Operational Teleport
+System.
+Quad Photon Laser
+ Phaser.
+Pick/Drop Control.
+Photon Torpedoes.
+Enter/Exit Controls.
+Robber Aliens.
+Bridging Platforms.
+Detachable Weapon
+ Systems.
+Hover Button.
+JETMAN.
+Fly Left/Right.
+Thrust Control.
+Fantastic Sound Effects.
+On Screen Scoring.
+1 & 2 player scores.
+High Score Display.
+Lives Left Display.
+Massive every-hit
+ explosions.
+
+
+
+Made in England
+
+
+
+
+[Text re-typed in 2010 AD by Alessandro Grussu from a scan of the inlay card.]

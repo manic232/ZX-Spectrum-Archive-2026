@@ -1,0 +1,464 @@
+MARSPORT - GARGOYLE GAMES
+
+The Instruction Card
+
+LOADING MARSPORT on the Spectrum 48K
+Type LOAD"" and press ENTER
+N.B. Do not leave a space between quotation marks 
+Press PLAY on the cassette recorder 
+MARSPORT will now load automatically.
+If loading is not successful, rewind the cassette, adjust the volume
+and try again.
+SAVE Game and RESTORE Game are described in the booklet - note that
+SAVE/RESTORE time is less than one minute.
+
+Keyboard Assignments
+
+Walk Left/Right   - Alternate keys on the bottom row, 
+                    Z to Symbol Shift.
+
+Enter A Door      - The ENTER key.
+
+Camera Left/Right - Alternate keys on the second row, A to L.
+
+Pick Up/Drop      - Alternate keys on the third row, Q to P.
+
+Select Object     - Top Row, 2, 3, 7, 8, 9.
+
+Fire              - The four Corner keys, 1, 0, Caps Shift, Space.
+   
+Autorun on/off    - The 4 key.
+
+Freeze/Unfreeze   - The 5 key.
+
+Return to Options - The 6 key.
+
+
+Marsport Levels
+
+Level  Name        Main Purpose
+
+A      ALBA          Observatory
+B      BYER          Administration
+C      COMA          Access To Spacefield
+D      DALY          Stores
+E      ELIS          Residential
+F      FARR          Recreation
+G      GILL          Gardens, Hydroponics
+H      HALE          City Computers
+I      IAXA          Stores
+J      JOLY          Engineering
+
+------------------------------------------------------------------------
+
+The Instruction Booklet
+
+The Story so Far....
+
+The year is 2494. For seventy years, the Earth has been under siege by
+the Sept, a hive-culture race from the Galactic centre. Since the
+siege began, the Sept have been kept at bay by a huge sphere of force,
+which surrounds both the Earth and the Moon.
+         
+Following the loss of Calcutta, it is obvious that the Sept will shortly
+have the capability to breach the sphere unless the force field can
+be strengthened according to the instructions contained in the
+original plans.
+         
+Unfortunately, these plans are thought to be hidden somewhere amongst
+the City Computers of Marsport, beneath the great Elysium Dome on
+Mars. Evacuated shortly before the start of the Siege, it is now
+occupied by Sept of the Warrior and the Warlord castes as a command
+post. It is also known that the main control computer of Marsport,
+M-Central, has spent the last seventy years incorporating its own
+deterrents into the city architecture, making the recovery of the
+sphere plans highly improbable.
+         
+However, to this end, Commander John Marsh, of the underground Terran
+liberation organisation, HASP, now stands in Marsport, on Level C, at
+the exit of the access tube to the Space Field, in the belief that a
+determined man can sometimes achieve more than an army.
+
+How Marsport Works
+
+The Option Screen is presented at the start of the game or when
+Commander Marsh is unfortunate enough to be killed; It can also be
+accessed during the game via a keyboard request. The screen offers the
+following choices:
+         
+  1. Enter the Game
+  2. Save the current Game
+  3. Restore a Game
+  4. Demo Mode
+
+Note that returning to the option screen from a current game will
+leave the game-world intact - upon re-entry, nothing will have changed
+unless a previously saved game has been restored. This allows a game
+to be saved at a critical point without destroying it. If you wish the
+option of restarting the game with all objects in their original
+positions, save a version immediately after loading the game.
+         
+When saving or restoring a game a version number will be asked for -
+this is to ensure that the right game is restored, so keep a note of
+version numbers.
+         
+The Keyboard controls the actions of the main character - which keys
+perform which actions on your particular make of computer are given on
+a separate card. The following actions may be performed:
+
+   -  walk left or right
+
+   -  change camera angle 90 degrees left or right; this is necessary
+      if you wish to turn a corner or view the other side of the road
+         
+   -  enter a doorway; to achieve this on any computer, position
+      Commander Marsh in front of the door and press the enter button
+         
+   -  pick up or drop a specific object; note that objects may only be
+      dropped in certain places - i.e. Lockers, Factor Units, Key
+      Stations, etc. - a full list is given in a later section
+
+   -  select an object being carried for dropping, etc. -the currently
+      selected object is indicated by an asterisk
+         
+      Note that Commander Marsh can carry 5 separate objects at any
+      one time.
+         
+   -  fire a Power Weapon, if one is being carried and it is charged
+         
+      In addition, there are some special function keys available
+      while in the game:
+         
+   -  enter/exit Autorun mode
+         
+   -  freeze/unfreeze frame
+         
+   -  return to Option screen
+         
+         
+How to play Marsport
+
+Although Marsport is a real-time adventure, it can be considered as
+consisting of three distinct objectives:
+         
+   - locate the M-Central computer; Marsport is a 3-dimensional city,
+     where levels are connected by express tube, which will take you
+     up or down, but probably not both. In addition, many sections of
+     the city cannot be reached until specific problems have been
+     solved
+         
+   - gain access to Muller's original Sphere plans, held in
+     M-Central's inner sanctum. This will require re- exploration of
+     Marsport for you will find many parts of the city previously
+     unreachable now open to you
+         
+   - leave the city of Marsport with the plans intact, which may prove
+     the hardest task of all...
+         
+There follows a list of some of the beings and city elements you will
+encounter as you explore Marsport:
+         
+ALIENS are all hostile and deadly to Mankind; you can fight them or
+run away from them, but you can't ignore them!
+
+ROBOTS have been deployed by M-Central to assist it in guarding the
+plans - some are harmless information gatherers, some are warden
+robots that may mistake you for the Sept...
+
+SUPPLY units are the prime source of objects in the game and are
+continuously replenished.
+         
+LOCKERS can be used for storing objects once they are gained.
+         
+REFUSE units can be used to dispose of unwanted objects.
+
+CHARGE units are a source of power.
+         
+FACTOR units will assemble two or more objects to manufacture a new
+object.
+
+Note that components of a factoring process are all logically linked
+so that random attempts at manufacturing objects should be
+unnecessary; note also that an assembly will not complete while there
+is an irrelevant object present in the factor unit.
+
+KEY stations will normally require the insertion of a key object to
+release a nearby wall unit or door. however, note that not all locked
+doors and units can be opened in this manner - some may require a more
+active or remote solution...
+
+VIDTEX units provide 'useful' information which is displayed on the
+large video screen in the status area.
+
+Other wall units are the resting place of M-Central's remote
+Servorobots and should be approached with care.
+
+Playing Suggestions
+
+   1. Map the game carefully - the playing area is vast and the
+      3-dimensional nature of the city will quickly disorient you.
+
+   2. Get a weapon - combat can be avoided but a little aggression
+      will make progress easier and reduce tension!
+
+   3. Examine problem situations carefully; often what is required for
+      a solution will need to be assembled from other objects. All
+      problem situations contain clues to the solution - trial and
+      error methods will normally be fatal!
+
+   4. Save the Game regularly - the Save and Restore features take
+      less than a minute!
+
+Extracts from Brewster's "A Concise Dictionary of Galactic Man", 27th
+Edition.
+         
+Marsport, marz'port, n.,
+
+Main Spaceport of the Terran home Worlds, prior to the Siege.
+         
+Construction commenced 2150, as a joint project between CUE and a
+non-governmental agency representing various Corporate interests. The
+first phase consisted of the erection of a Craig dome in the Plain of
+Elysium, pressurisation and the creation of a local gravity well to
+Earth-normal standard. The following year, work commenced on phase 2,
+which consisted of the excavation of the top six levels, A to F, and
+the five-mile expresstube link to the Space Fields and Launch pads,
+entering at level C. Construction of the residential and recreation
+levels was completed by 2158, when Marsport became the temporary home
+for 200,000 colonists, prior to their departure on the Clipper fleet
+in 2160.
+         
+From 2200, engineers began the excavation of the lower 4 levels, G to
+J, and it was during this period that the two parts of the Artifact
+were found. While its true use remained a mystery, its resemblance to
+a crown produced the fanciful nickname of the Star Lords for its
+long-dead creators.
+         
+It took over forty years to construct the lower levels, driven through
+the hard Martian bedrock; the third phase was finally completed In
+2243, when the City Computers were installed. As an inaugural
+celebration, each Level of Marsport was named after a feature of the
+Martian landscape.
+         
+During the next hundred and twenty years, Marsport became the
+spring-board for all of Mankind's aspirations and the city grew
+accordingly. In 2373, the brilliant young physicist, Doctor Heinrich
+Muller, became City Controller and built and installed the giant
+semi-willed computer, M-Central, as main City Monitor, and the
+development of Marsport was complete.
+         
+Over the next fifty years, during the Great Retreat, the city became a
+refugee centre as colony after colony was evacuated, until, following
+the Sack of Mars in 2424, Marsport itself was abandoned and left to
+the Sept. It Is thought that, before his death, Muller convinced
+M-Central that it should take steps to defend itself and, as a result,
+it prepared such a series of traps and deterrents that the Sept had
+not penetrated to the main City Computers by the time the final
+destruction of Marsport in 2494 lit the startled night- sky of an
+Earth under Siege.
+         
+Sept, sept, n.,
+
+From first contact in 2376, the Sept never failed to show anything
+other than unremitting hostility towards Mankind; consequently,
+information concerning Sept social orders is, at best, sketchy.
+However, from the few Sept prisoners that were interrogated before
+they suicided, the following picture has been constructed. The Sept
+society can be thought of as operating like a huge hive, where each
+individual has clearly-defined functions and obligations to the home
+Swarm (the analogy cannot be pushed too far, for, although examination
+of Sept body-cases shows traces of vestigial wings, no living Sept has
+been seen to fly).
+         
+The human-given name of Sept originates in the fact that there appears
+to be seven distinct classes or castes - Warriors, Warlords,
+Scientists, Workers, Mid-wives, Concubines and Emperor. However,
+members of each caste are considered equally important to Swarm, only
+the Imperial Throne is given any precedence or deference.
+
+Members of the fighting castes are aggressive and have heavily
+armoured body-cases; it is apparent that Warlords must possess some
+degree of telepathic link with the Warriors in their own brigades.
+Scientists, Workers and Mid-wives constitute the majority of the Swarm
+population and are normally imported to new planets shortly after
+investiture - the absence of these castes on Marsport indicates the
+amount of trouble that M-Central must have caused the Sept.
+         
+The Imperial classes are found only on the Sept homeworld of Gath, for
+all castes are fanatical in the preservation of the Soul of the Swarm,
+that is, the Emperor himself - it Is noteworthy that the current
+occupant of the imperial Throne is only the second in Sept recorded
+history. Because of this over-riding compulsion for Swarm survival,
+the Sept remain deeply hostile to all other races and, even today the
+location of Gath is known to only a handful of outsiders.
+
+A TERRAN TIMELINE: 2000 AD to 2500 AD taken from
+"A Concise History of the First Empire of Man" by Ellis and Klay.
+         
+Year
+
+2033  China signs Mutual Benefit Pact with America.
+         
+2057  The False War. Hawaii destroyed by a thermo-nuclear device
+      planted by Chinese Separatists. Number of casualties: 1,000,000.
+
+2080  Sino-Russian Alliance formed; East-West tension increases to
+      breaking point.
+         
+2094  Professor Charles Craig creates an impermeable force-field using
+      Unified Mechanics Theory, and immediately publishes his results.
+         
+2098  Nationwide Craig-effect force domes are erected by America, the
+      Sino-Russian Alliance and the Union of Europe; smaller domes
+      appear In the Middle-East, Australia and parts of Africa.
+         
+2099  The Third Global War, also known as the Five Hour War. Massive
+      space-launched exchange of East-West nuclear warheads Is
+      absorbed harmlessly by the national Craig domes. Number of
+      casualties; none.
+         
+2100  Unopposed formation of the Council of United Earth.
+       
+2115  Desmond and Anderson develop the Craig effect to produce a
+      reactionless Faster-than-Light drive.
+         
+2128  Scientific settlements on Mars and Circe In the Asteroid Belt
+      apply for independent membership of CUE and are accepted.
+         
+2132  First CUE colonisation program; ten DAC-drive ships are sent to
+      explore the local star systems.
+         
+2134  Last of the search ships return; no ship ventured further than
+      two light years from Earth due to inadequacies in the
+      mass-conversion engines that feed the main drives.
+         
+2145  Second CUE colonisation program; one hundred enhanced DAC-drive
+      scout ships are launched.
+         
+2148  Scout ships begin to return, with news of habitable planets
+      circling Sirius, Procyon and Alpha Centauri.
+
+2150  Construction of Marsport begun, as primary home System spaceport.
+         
+2160  Third CUE Colonisation program; twenty interstellar Clipper class
+      ships, each carrying 4000 colonists, launched from Marsport.
+         
+2185  Fourteen colonies established and thriving; four Clippers
+      returned to Earth, two Clippers lost - reasons unknown.
+         
+2201  During excavation of lower levels of Marsport, an Artifact of
+      unknown use is found; carbon tests date it as 2 million years
+      old.
+         
+2239  Interstellar communication becomes virtually instantaneous
+      because of invention of DAC Beam, using an FTL Craig-effect
+      carrier wave.
+         
+2298  Colonies on Alpha Centauri, Tau Ceti and Procyon lobby for
+      independence from CUE.
+         
+2341  CUE council cedes and steps down in favour of council
+      representing all the home System Worlds together with the
+      fourteen original colonies; the new federation is given the
+      grandiose title of the Galactic Empire of Man.
+         
+2350  Alpha Centauri established as staging GEM space port.
+         
+2375  First GEM colonisation program; ten Clippers, plus more than
+      fifty support vessels, launched from Alpha Centauri in direction
+      of Galactic centre.
+         
+2376  GEM fleet encounters lone unidentified alien vessel while
+      investigating the Beta Crucis system. Alien refuses to
+      acknowledge and, as it is approached by a GEM scout ship, the
+      entire fleet is destroyed.
+         
+2383  Following several further disastrous contacts, an alien is
+      captured and identified as belonging to a hive culture called
+      the Sept.
+         
+2405  GEM colony at Barnards Star is obliterated by Sept forces.
+      Colonies at Formalhaut and Pollux evacuated.
+         
+2406  Council orders construction of Craig field generator on Moon to
+      completely encompass Earth-Moon pair; power consumption is so
+      vast that it is fuelled by a permanent mining operation 5 miles
+      below the Lunar surface. The entire project Is directed by
+      Doctor Heinrich Muller, a physicist and City Controller of
+      Marsport.
+                  
+2420  Battle of Sirius; combined GEM navies routed and 80 per cent
+      destroyed by massive Sept task force. Remaining colonies begin
+      evacuation to Home System.
+         
+2424  All GEM forces contained within Earth-Moon Craig sphere. Marsport
+      occupied by the Sept; Doctor Muller is killed defending the City
+      Computers.
+         
+      The Siege of Earth begins.
+
+2440  Concerted attempts by the Sept to penetrate Craig sphere fail;
+      GEM council dissolved - the Committee for the Preservation of
+      Earth is formed.
+         
+2446  John Kepler Marsh is born at the Lunar Field Maintenance Depot in
+      the Mare Imbrium.
+         
+2478  The Appeasement Party put forward a 20 point surrender proposal
+      for the Committee's approval; a minority group, the Humans
+      Against the Sept Party is banned and continues operations
+      underground.
+         
+2483  An emissary sent through the sphere to the Sept Warlord at
+      Marsport does not return; John Marsh joins HASP.
+       
+2491  The Sept breach the Craig sphere for 4 seconds; the Calcutta
+      conurbation is destroyed. Number of casualties; 17,000,000.
+         
+2493  It is recognised that the Sept are close to developing a method
+      to disrupt the Craig effect; Commander John Marsh is sent by
+      HASP to recover Muller's original sphere plans from Marsport.
+         
+2494  Marsh discovers a second Artifact; Marsport is destroyed.
+         
+2495  The Craig sphere is strengthened according to Muller's plans;
+      HASP delegates are admitted to Committee sessions.
+
+2499  A second secret Appeasement mission to the Sept is returned
+      tortured and dead to Earth.
+
+2300  The Committee is dissolved; the GEM council is reformed under the
+      Premiership of John Marsh.
+
+      The Siege of Earth continues; the Fight-Back has begun.
+
+Bibliography
+
+If you have enjoyed Marsport, you may wish to read the following
+books, which also exploit the idea of a Future History:
+
+   The Known Space Series by Larry Niven.
+   The Foundation Trilogy by Isaac Asimov.
+   The Cities in Flight series by James Blish.
+   The Dorsai stories by Gordon Dickson.
+         
+Acknowledgements
+
+The cover picture was specially commissioned and was produced by S.B.
+Graphics of Birmingham.
+         
+Once again, we are indebted to Martin Croft for the title of the game.
+         
+MARSPORT is manufactured and marketed by Gargoyle Games Ltd., 74, King
+Street, Dudley, West Midlands.
+
+MARSPORT (c) 1985 Carter Follis Software Associates. All rights
+reserved worldwide.
+         
+The name and game of MARSPORT and all the associated software, code,
+listings, sound effects, visual displays, graphics, illustrations and
+text are the exclusive property and copyright of Carter Follis
+Software Associates and may not be copied, transmitted, transferred,
+reproduced, hired, lent, distributed, stored or modified in any form,
+in part or full, without the express permission of Carter Follis
+Software Associates.

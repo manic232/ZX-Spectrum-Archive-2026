@@ -1,0 +1,88 @@
+BEAR BOVVER
+-----------
+
+by J. RITMAN
+
+Bear Bovver features the most amazing multicoloured cartoon-quality graphics
+with animation and explosive effects as you've never seen before plua those
+bad, bad bovver bears along with a special mysterious guest.
+
+ZX Spectrum 48K
+
+Wasn't Ted pleased when his brand new Sinclair electric truck arrived! He had
+already bought a set of batteries, so no sooner had the delivery man left,
+than a very proud Ted climbed in for his first drive.
+
+All was going well until Ted notices his truck slowing down. "Oh dear,"
+thinks Ted, "these batteries don't seem to last very long.
+
+Ted takes a look around - he has ended up parked outside a building being
+rennovated.
+
+Suddenly he notices something glint in the sunshine at the top of the
+scaffolding. "Is that really a battery up there?".
+
+Jumping out of his car he climbs the nearest ladder.
+
+Thirsty work this, thinks Ted as he climbs the next ladder. But then, Ted
+realises he has more to worry about than a dry throat...!
+
+General Loading and Running Instructions
+
+1. Set up your Spectrum as described in the 'Introduction to Basic' manual
+   provided with the computer.
+
+2. Insert the cassette in your tape recorder. Ensure it is fully rewound.
+
+3. Connect the EAR socket at the rear of your Spectrum to the EAR, EX.SP. or
+   LOUDSPEAKER socket on your recorder.
+
+4. Adjust the volume on your recorder to approximately 3/4 of maximum and set
+   the tone control to maximum (i.e. maximum treble, minimum bass).
+
+5. Type in LOAD"". LOAD is obtained by depressing the J key once. "" is
+   obtained by depressing the P key twice WHILST HOLDING DOWN THE SYMBOL
+   SHIFT KEY.
+
+6. Now press ENTER and press PLAY on your recorder.
+
+The program will run automatically on successfully loading in.
+
+At anytime before the game starts you can select Baby Bear Mode by pressing
+the I key. Use Baby Bear Mode to practise moving Ted around the screen
+without worrying about being bovvered.
+
+Game Controls
+
+Can you help Ted climb up the scaffolding and collect the batteries for his
+electric car before the bovver bears capture him!
+
+All Ted has to help him is the small number of time bombs he has found
+scattered around the building site.
+
+To help you, use the following controls:
+
+ENTER,P,7 = Move Ted to the RIGHT
+L,O,6 = Move Ted to the LEFT
+Q,W,E,R,T,9 = Move Ted UP
+A,S,D,F,G,S = Move Ted DOWN
+Bottom Row, 0 =DROP TIME BOMBS
+
+Other game controls are included in the program. You can also use the
+Sinclair, Kempston and Fuller joysticks.
+
+The scoring system is unbearably complex - try to work it out as you go
+along!
+
+Good Luck!!
+
+(C) 1983 Artic Computing Ltd.
+
+Written by Jon Ritman
+with thanks to Guy Stevens
+
+For a full colour catalogue detailing the complete range of Artic software
+please send an SAE (6" X 9") to:-
+ARTIC COMPUTING LTD., MAIN STREET, BRANDESBURTON, DRIFFIELD YO25 8RL.
+
+(Transcribed by Robin Stuart)

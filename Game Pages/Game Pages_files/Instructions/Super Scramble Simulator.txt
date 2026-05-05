@@ -1,0 +1,90 @@
+========================
+Super Scramble Simulator
+========================
+Document created by rstuart@ukonline.co.uk for
+World of Spectrum: http://www.void.jump.org
+
+Motorbike scrambling like you've never played it before! This real life
+simulator takes you over 15 gruelling terrains, encompassing 1:2 gradient
+hills, streams, water obstacles, volkswagen beetles and lorries.
+
+"A super addictive game - not to be missed!" ...Your Sinclair
+
+Loading Instructions
+--------------------
+SPECTRUM 48/128 CASSETTE
+Type LOAD"" and press ENTER. When title screen loaded, press any key to
+begin.
+
+Scenario
+--------
+Take on the ultimate challenge of motorbike scrambling. This real life
+simulator takes you over 15 gruelling terrains, featuring 1:2 gradient hills,
+streams, water obstacles, logs, cars and lorries. Control your accelerating,
+braking and gear changing (avoid stalling it!) as you race against the clock.
+
+Gameplay
+--------
+The game has fifteen courses divided into five sets of three. There are three
+sets of mud courses and two sets of concrete courses. Within a set, the
+courses can be played in any order, but the whole set must be completed
+before progressing to the next set. Failure to complete the course within
+the time limit ends the game.
+
+Each course must be completed in the fastest possible time for a maximum
+score. Time penalties are incurred for failing to negotiate an obstacle
+correctly or for straying off the course, crashing or stalling the bike.
+Bonus points are given at the end of each course for time remaining.
+
+Screen Layout
+-------------
+TOP SCREEN - A detailed side view of the bike on the course and the
+obstacles being negotiated.
+
+MIDDLE SCREEN - A plan view showing the players position on the course and
+a short distance ahead. Used for steering the bike through the obstacles,
+also displays the penalty messages.
+
+BOTTOM SCREEN - (from left to right).
+
+1. Timer
+2. Dashboard - The left dial is the speedometer. The central lights are gear
+   indicators (all green - neautral, bottom red - first, middle red - second,
+   top red - third). The dial on the right is the rev counter.
+3. Your score.
+
+Controls
+--------
+All controls and option selections are joystick controlled except for:
+Pause - COMMODORE KEY (CBM 64/128), P (Spectrum/Amstrad).
+Reset Game - RESTORE KEY (CBM 64/128).
+
+Joystick
+--------
+Without FIRE button depressed:
+
+                        Turn Left
+                            |
+       Brake                |            Accelerates
+  (Front wheel up   --------+-------- (Front wheel down
+ whilst in the air)         |         whilst in the air)
+                            |
+                        Turn Right
+
+With FIRE button depressed:
+
+                    Change Up a Gear
+                            |
+                            |
+    Lift Rear Wheel --------+-------- Wheelie
+                            |
+                            |
+                    Change Down a Gear
+
+FIRE button depressed with joystick centered - Duck.
+
+(C) Magnetic Fields (Software Design) Ltd.
+
+(P) 1989 Gremlin Graphics Software Limited. Licensed to KIXX, Kixx. Units
+2/3 Holford Way, Holford, Birmingham B6 7AX.
+Copyright subsists on this program.

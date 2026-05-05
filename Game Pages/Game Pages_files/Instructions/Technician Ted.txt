@@ -1,0 +1,110 @@
+TECHNICIAN TED
+
+INLAY TEXT
+
+Technician Ted is an enthusiastic young computer hacker who bounces to work at
+the local Microprocessor factory every day at 8.30 am. Anxious to please he
+knows he must complete his 21 daily tasks by clocking off time at 5.00 p.m. or
+incur the wrath of the Big Boss.  But his fiendish boss hasn't told him what
+the tasks are or where they are located.
+
+Undaunted Ted gets his mate (who also works at the factory) to give him a rough
+sketch of the rooms close to the Canteen after promising to buy him a cuppa at
+break:
+
+We Call Him Sir          Ted's Desk             Canteen
+
+  Reception              Cloakroom         Silicon Slice Store
+
+  Boardroom              Photocopier           Main Corridor
+
+His mate says the first thing he's got to do is go to his desk then visit the
+Silicon Slice Store. In each room he has to hit two flashing boxes in the
+correct sequence.
+
+The only other words of wisdom his mate can come up with is the next task is in
+the Diffusion Furnace, but unfortunately his mate doesn't know where it is. He
+does know that for some tasks time is of the essence and the two parts of the
+task must be completed Megaquickly!
+
+LOADING INSTRUCTIONS
+Technician Ted has a unique loading system and it is essential that you switch
+off your Spectrum, switch it on again and then enter LOAD "". After a few
+seconds a dynamic loading screen will appear with a countdown in the bottom
+right hand corner of the remaining time to completion of the loading sequence.
+
+CONTROLS
+Kempston, Sinclair Interface II and Protek compatible.
+
+Action                             Result
+Q, O, 5, 6 or joystick left        Ted moves to the left
+W, P, 7, 8 or joystick right       Ted moves to the right
+Any key on the bottom row,         Ted jumps
+  9, 0 or joystick fire
+A, S, D, F, G                      The action freezes (hit a
+                                   movement key to recommence).
+H, J, K, L, ENTER                  Music off (press again to
+                                   switch on again).
+
+SCORING
+The number of tasks completed and the time of day is shown at the bottom of the
+screen. A pink tell-tale running horizontally across the screen shows the
+number of lives remaining. You will lose a life if Ted collides with a hostile
+object - all moving objects are hostile and some stationery ones are too.
+
+When the two parts of a task have to be completed within a time limit, Silicon
+Slices will appear on the tell-tale. On completion of the first part the slices
+will move along the tell-tale and you must complete the second part before they
+all disappear off the screen.
+
+TECHNICAL SPECIFICATION
+* A full event processor - solving a problem in one room changes the nature of
+  another problem elsewhere.
+* Very high cycle time - ultra smooth, pixel-by-pixel movement occurs at
+  all times.
+* Exact collision detection so that collisions occur if and only if objects
+  overlap.
+* Synchronisation of interrupts for constant speed animation.
+* Intelligent sound routine - the music plays constantly no matter what the
+  progress of the game.
+* Complex music routine with a cycle time of over one minute complete with
+  vibrato and slide.
+* Over forty high resolution screens.
+* Myriads of eight-positions sprites of varying sizes.
+
+
+HINTS
+from CRASH magazine
+
+You must complete these tasks within the time limits printed by each one.
+
+Ted's Desk by 8:56
+Silicon Slice Store by 9:09
+Slice Diffusion by 9:27
+Fuming Cupboard by 9:58
+Clean Room by 10:07
+Silicon Etching Plant by 10:22
+Canteen by 10:40
+Photocopier by 11:12
+Boardroom by 11:25
+Slice Surface Abrasion by 11:56
+Laser Slice Sparation by 12:15
+Bay 7 by 12:34
+Micro Chip Mounting by 12:59
+Tea Machine by 13:02
+Power Generator by 13:18
+Electro Plating Bath by 14:00
+Quality Assurance Dept by 14:25
+Abrasion Dust Extract by 14:38
+Matthew's Lair by 14:58
+We Call Him Sir by 15:50
+The Wage Department by 16:07
+
+After completing the Wage Department then you must go to the picket line, up to
+the Union flag and down again to the Picket line (in the middle). From here you
+can now go left into a new room called OK! WHERE DO I GET MY REWARD. Go into
+this room and walk left through the exit room to complete the game. To plan out
+your routes to and from room use the map published in CRASH.
+
+NOTES
+There was also a 128K version.

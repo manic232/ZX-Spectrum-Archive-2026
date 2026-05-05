@@ -1,0 +1,587 @@
+﻿HOSTAGES
+========
+
+© INFOGRAMES 1990
+
+An urgent phone call from the National Security Minister... 
+an Embassy has been overun by a group of terrorists. As 
+Head of the Terrorist Intervention Combat Team you are 
+in control of all operations. First, you must place your 
+crack marksmen in nearby buildings, taking them down the 
+adjoining streets, avoiding infrared lights and the 
+terrorists deadly aim. Secondly, you must get your team 
+of Specialist Paratroopers onto the roof of the Embassy. 
+Then, after descending by rope, and protected by your 
+marksmen, enter the Embassy through the windows and begin 
+your search in silence. But beware, each door, each room, 
+could be a death trap! You must get the hostages, and your 
+men, out of the building without any loss of life, and 
+this will depend on the cohesion and co-ordination of 
+your team. NOW ITS YOUR MOVE.
+
+
+I - LOADING INSTRUCTIONS
+------------------------
+
+SPECTRUM
+
+Disk version:
+Insert the program disk in the drive. Switch on your 
+computer. To start the program, select the LOADER option 
+from the main menu and press the RETURN key.
+
+Cassette version:
+Check the all the connections. Insert the cassette in the 
+recorder. Switch on your computer. Type LOAD"" and press 
+the PLAY button on your recorder and the RETURN key.
+
+AMSTRAD 6128/664/464
+
+Disk version:
+Insert the program disk in the drive. Switch on your 
+computer. Type |CPM (to get |, press the keys @ and 
+SHIFT simultaneously). Press ENTER.
+
+Cassette version:
+Insert the cassette in the recorder. Switch on your 
+computer. Type RUN"" and press the PLAY button on your 
+recorder and the RETURN key.
+
+Note for SPECTRUM 48K and AMSTRAD 464-664 users:
+To load the cassette in order to access the marksmen and 
+the newspapers of the second part, remember to write down 
+the number on the counter of the recorder.
+
+COMMODORE 64
+
+Cassette version:
+Switch on your computer and monitor. Insert the cassette 
+in the recorder. Press the keys SHIFT and RUN/STOP 
+simultaneously. Then press PLAY on the recorder. The 
+program will load and start automatically. Think of 
+writing down the number on the counter in order to 
+locate the first and second part of the game.
+
+Disk version:
+On a C128 type GO 64. Then confirm by pressing Y, then 
+RETURN Insert the disk in the drive. Type : LOAD"*",8,1 and 
+press RETURN. The program will load and start automatically.
+
+COMMODORE 128
+
+Switch on your computer and monitor. Switch to C64 mode 
+(GO 64), then follow the instructions for C64.
+
+MSX 1 & MSX 2
+
+Cassette version:
+Check all the connections. Insert the cassette in the 
+recorder. Switch on the computer. Type RUN "CAS:". Press 
+the PLAY button on the recorder and the RETURN Key.
+
+
+II - INTRODUCTION
+-----------------
+
+A) SCENARIO
+
+Innocent people have been taken hostage from under your nose, 
+and the terrorists have abandoned their cars and entered the 
+Embassy. Unfortunately they now control the whole building 
+from the 1st to the 3rd floor. The number of hostages that 
+have been taken is controlled by the story and the level of 
+difficulty you have chosen for your mission. You are the boss 
+of 6 men of the Direct Intervention Combat Team (D.I.C.T.). 
+It's your turn now...!
+
+Note: You can at any moment interrupt the introduction sequence 
+to access the game by hitting a special key.
+
+On the SPECTRUM version, press the BREAK key; on the AMSTRAD 
+and MSX versions the ESCAPE key.
+
+B) CONFIGURATION OF THE COMMANDS ON SPECTRUM, AMSTRAD & MSX
+
+a) SPECTRUM 128
+
+You have to configurate your keyboard or choose a type of 
+joystick. After the introduction sequence, a menu opens on 
+the screen. You may choose:
+
+1 Define Keyboard: if you want to play with the keyboard. For 
+  this purpose press key 1 on the keyboard.
+
+2 Joystick Sinclair: if you want to play with a SINCLAIR type 
+  joystick, press 2.
+
+3 Joystick KEMPSTON: if you want to play with a KEMPSTON type 
+  joystick, press 3.
+
+If you have chosen the keyboard, you will have to select the 
+keys corresponding to the following commands: 
+	direction "Right" 
+	direction "Left" 
+	direction "Down" 
+	direction "Up" 
+	action "Fire"
+	action "Menu map" (access to the map during the game, 
+			   2nd part only)
+
+To do this (according to your choice), press the key that you 
+want to select for the desired command. When you have completed 
+the selection, you will have to confirm it by pressing Y or 
+cancel by pressing N when the message "Are you sure (Y/N)?" 
+appears on the screen. However if you have choosen the joystick, 
+you will have to determine nevertheless one key for the action 
+"Menu map" (only for the 2nd part). All the same you will be 
+asked to confirm your selection.
+
+Note: in the SPECTRUM & MSX version, you cannot select the 
+SHIFT key as it is used for the marksmen.
+
+b) AMSTRAD
+
+The procedure is the same as for SPECTRUM, but you will have 
+the choice between only two options.
+
+1 Define keyboard
+2 Joystick (regardless of type).
+
+For the rest, procede the same way as you would for the 
+SPECTRUM version.
+
+c) MSX 1 & 2
+
+The procedure is the same, but you are given the choice 
+between two options only:
+
+1 Define keyboard
+2 Joystick (regardless of type).
+
+For the rest, procede the same way as you would for the 
+SPECTRUM version.
+
+
+III - CHOICE OF MISSION
+-----------------------
+
+The difficulty level of the game determines the duration of the 
+ultimatum, the number and the aggressiveness of the terrorists 
+and their reaction time. You can choose one of the following 
+from the first menu:
+
+LIEUTENANT: With a low number of terrorists with weak 
+	    aggression.
+CAPTAIN:    The number of terrorists increases and so does 
+            their speed of reaction.
+COMMANDER:  Number of terrorists and the number of hostages 
+            taken are at their maximum. The player must without 
+            mistake and taking particular attention to the 
+            placement and coordination of his combat team.
+
+From the second menu you can choose either:
+
+	TRAINING (there are no hostages),
+	TARGET,
+	ULTIMATUM,
+	RESCUE,
+	ASSAULT.
+
+The more difficult the mission, the less time you have to complete 
+it. For choosing, use the keys UP and DOWN (or £ and - on C64) or 
+the joystick. Then press the fire button or space bar.
+
+
+IV - FIRST PART
+---------------
+
+A) POSITIONING YOUR MARKSMEN
+
+You have 3 marksmen at your disposal. To effectively keep watch on 
+the 3 sides of the building, the men must stay all night in the best 
+postions possible. You control the marksmen one by one. When you 
+control a marksman his name and number will appear on the screen. 
+The three marksmen DELTA, ECHO, MIKE can be moved with the aid of 
+the keys indicated as follows:
+
+Spectrum ............ SHIFT 1, SHIFT 2, SHIFT 3
+Amstrad  ............ 1, 2, 3 on the number pad
+C64 ................. 1, 2, 3
+MSX ................. SHIFT 1, SHIFT 2, SHIFT 3
+
+To change to another D.I.C.T man, first make him hide then:
+
+Spectrum: access the plan (action key "Fire" or the Fire button and 
+not the MENU MAP key which is active in the second part only), then 
+select the man with SHIFT 1, SHIFT 2, SHIFT 3.
+
+Amstrad: access the plan (action key "Fire" or the Fire button), 
+         then select the man with 1,2,3 on the number pad.
+C64:     select the man with 1. 2. 3.
+MSX:     as for SPECTRUM.
+
+B) GENERAL PLAN
+
+On the plan, you will see the places where you must position your 
+men to keep watch on the 3 sides of the Embassy. These places are 
+shown by CROSSES. When you want to see how far one of your men 
+has progressed, you switch to the plan mode with the FIRE key 
+(Amstrad, Spectrum, MSX) or pressing directly his number on C64 
+(as seen before).
+
+His body will then appear on the map to indicate where he is 
+(on C64 a square will appear).
+
+In the SPECTRUM 48 KB and AMSTRAD 464-664 versions, the man will 
+appear represented by his identity number.
+
+C) MOVEMENT COMMANDS
+
+You must avoid having your men spotted by the spot lights of the 
+terrorists. As soon as one of your men has been spotted the 
+terrorists will open fire and can then eliminate one member of 
+the combat team. In order to avoid being spotted and to arrive 
+at the right places (marked by crosses on the map), you have 
+several movements at your disposal by using either the joystick 
+or the keyboard.
+
+On C64:
+
+ keyboard	joystick		
+ ^		RIGHT		walk to the right	
+ *		LEFT		walk to the left	
+ =		DOWN		to lay on the floor	
+ £		UP		to hide	
+ = + ^		DOWN+RIGHT	forward roll to the right }	only if you are in
+ = + *		DOWN+LEFT	forward roll to the left  } 	a standing position
+ = + ^		DOWN+RIGHT	crawl right		  }	only if you are
+ = + *		DOWN+LEFT	crawl left		  }	lying on the floor
+ Space + ^	FIRE+RIGHT	run to the right	
+ Space + *	FIRE+LEFT	run to the left	
+
+On AMSTRAD, SPECTRUM and MSX:
+
+The direction DOWN will be used to leave a hiding place by the 
+door or a window, the FIRE key allows you to stop immediately 
+when walking. The other commands are identical to those of the 
+of C64 cursor key version. Use the keys that you have defined 
+at the beginning or the Joystick.
+
+Return to the plan: This is only possible when you are hidden 
+inside a building, behind a door or window. Press ESC on C64 
+- FIRE on SPECTRUM, AMSTRAD and MSX.
+
+In this mode: SHIFT 1 - SHIFT 2 - SHIFT 3 to select Delta, 
+Echo, or Mike on Spectrum and MSX; 1, 2, 3 on the number pad 
+on AMSTRAD; 1, 2, 3 on C64.
+
+D) SPECIAL INDICATIONS FOR C64
+
+If you take, when moving the man, direction UP (joystick or 
+keyboard), your marksman heads automatically to the next 
+hiding piace in his direction, in order to protect himself 
+from the terrorists' shots.
+
+If your leave your marksman a few seconds uncovered without 
+using the joystick or keyboard, he heads automatically to the 
+next hiding place in his direction.
+
+If you move a marksman and press quickly the FIRE button or 
+space bar, he will run in the given direction. As soon as he 
+runs, release the FIRE button or space bar. He will be able to 
+effect rolls all the same. When you stop giving a direction, 
+he will stop, too.
+
+E) END OF SEQUENCE
+
+When all your men are in position on their crosses. (If all 
+your men are dead start again). On Spectrum, Amstrad and MSX 
+press RETURN, to access the second part; DELETE to start this 
+part over again. In the latter, you will have to reselect or 
+confirm your selection of the difficulty level and mission 
+(see Choice of mission).
+
+On C64 press RETURN to access the second part. Press FIRE or 
+SPACE to start this part over again. Note: If you give a 
+direction with the joystick or keyboard, the game continues 
+and you can move your marksmen again to take a better 
+position.
+
+For information: there is no need to place one man on each 
+cross. You can have less than 3 marksmen surviving this part, 
+or two or three marksmen on the same cross keeping watch on 
+only one side of the embassy.
+
+F) HELICOPTER (does not exist in the C64 version)
+
+When all your surviving men are in place in the interior 
+of the buildings adjoining the Embassy, you pass 
+automatically to the sequence of the helicopter, where it 
+will place 3 men on the Embassy roof. On the SPECTRUM and 
+AMSTRAD versions this sequence will only appear on the 
+128 KB versions.
+
+
+V - SECOND PART
+---------------
+
+On the versions AMSTRAD, SPECTRUM and MSX, you will be 
+asked to turn over the disk or cassette and to press the 
+Fire button to load the second part
+
+A) POSITIONING ON THE ROOF
+
+GENERAL PLAN OF THE SITUATION: SPECTRUM 128KB, AMSTRAD 128KB,
+MSX, C64 When accessing this part, you enter directly the 
+plan mode. The D.I.C.T. men whom you have managed to hide are 
+shown by their corresponding number on the adjoining buildings 
+(SPECTRUM 128KB, MSX, AMSTRAD 128KB) The men on the Embassy 
+roof are likewise shown by numbers.
+
+Their code names are visualized with 4, 5, 6 on C64 and 
+SHIFT 1, SHIFT 2, SHIFT 3 on Spectrum and MSX, and 1, 2, 3 on
+the number pad on Amstrad. On the C64 version, the men are 
+shown by crosses.
+
+B) TO MOVE A D.I.C.T. MAN
+
+Just press the function key corresponding to the code of that 
+D.I.C.T. man. (On C64 you can also take the direction UP/DOWN
+with your joystick or the key £ or =. You can then see the 
+menu on the lower right of the screen, listing the code names 
+of your men. Press the space bar or FIRE button to select a 
+man.) You can move the cross respresenting your man over the 
+roof and its edges with the cursor keys or the joystick (or * 
+and ^ on C64). The cross must appear on the edge of the roof. 
+The man is then ready to descend and to start this operation 
+you must press <- on C64 or the key MENU MAP on AMSTRAD, 
+SPECTRUM and MSX. You will pass to abseiling mode. The map 
+can be called up at any time by pressing the MENU MAP key 
+(<- on C64). You can also change from one man to another at 
+any time.
+
+Game mode: when controllling a marksmen, either in abseiling 
+mode or inside the building, you are in game mode.
+
+Important: in the game mode, there is no need to call the 
+general plan to change from one marksmen to another. Just 
+press the number key corresponding to the men. This 
+changement will be symbolized by a video effect.
+
+C) EMERGENCY SITUATION
+
+When one of your team, either inside the building or while 
+abseiling, finds himself in a delicate situation (e.g. the 
+presence of terrorists in the same room or in one of the 
+adjoining rooms), the man's code on the control board will 
+begin flashing and this indicates an emergency situation. 
+The player must then change to that person in danger by 
+pressing the appropriate function key. If you wait too 
+long, your man could be neutralized by the terrorists.
+
+D) ABSEILING
+
+(Only on the 128KB versions. On the SPECTRUM 48KB and 
+AMSTRAD 464-664 versions, the D.I.C.T. men appear in 
+a room of the 3rd floor.)
+
+When one of your men is in position on one side of the 
+building, he can then be used for abseiling down the wall 
+and then enter the Embassy. In order to play him press <-
+on C64 or the MENU MAP key on AMSTRAD and SPECTRUM. 
+You are then in the DESCENDING MODE.
+
+There are three movements at your disposal.
+
+1) PUSHING AWAY FROM THE WALL = FIRE: In order to extend 
+his legs (so he is pushing away from the wall) press the 
+space bar or fire button (C64) or the corresponging key 
+on AMSTRAD, SPECTRUM & MSX; when you think you have 
+applied enough force so as to push yourself away from the 
+wall, release the button, to go immediately to phase 2.
+
+2) OPENING MODE = RIGHT: In order to descend, the rope must 
+slide along the body. To achieve this you have to let go of 
+the rope (by pressing cursor right or joystick right). Your 
+player will then descend the wall. However do not wait too 
+long to stop, as due to his increasing speed of descent your 
+player will a ash to the floor.
+
+3) STOPPING = LEFT: When you want to break through a window 
+to enter the Embassy or if you want to stop on the wall, move 
+joystick left or cursor left. The player's right hand will 
+then take hold of the rope stopping his descent.
+
+TO CLIMB IN CASE OF FAILURE: Direction UP (or £ on C64 
+keyboard). You can dimb by using a mechanical pulley attached 
+to the roof (use direction UP). You will then see your man 
+climb the wall of the Embassy.
+
+DON'T FORGET! You can at any time change from one person to 
+another, just by pressing the appropriate function key. For 
+example you could now go to one of the marksman which you 
+have placed on the roof of one of the adjoining buildings.
+On AMSTRAD, SPECTRUM, MSX, first press the MENU MAP key.
+
+E) USING YOUR MARKSMAN
+
+By pressing the corresponding keys you move one of your 
+marksman into position. Each marksman watches one side of 
+the building.
+
+THE PRESENTATION: You will see your marksman in position 
+ready to kill. To move the gun sight, use the direction keys 
+or the joystick.
+
+When you pass on a window, a white dot will apppear on your 
+sight. This means you are ready to eliminate a terrorist. 
+Behind the window will appear (according to the patrols of 
+the terrorists) shadows and figures. These can also represent 
+hostages who are prisoners in that room. If you are ready to 
+fire, press FIRE (space bar or fire button on C64). Your gun 
+will load itself automatically.
+
+If you want to change wall and marksman you press the 
+appropriate function key. You can pass (if desired) to the 
+men on the roof or the men in the Embassy. You have to be 
+careful not to eliminate a member of your combat team or 
+one of the hostages.
+
+F) EXPLORING THE ROOMS 
+
+a) MINI-MAP
+
+If you decide to play with one of the men inside the 
+building, you pass into EXPLORATION mode. To show where you 
+are there is a mini-map on the right side of the screen (on 
+the left on C64). Depending on which floor, the mini-map 
+will show all the rooms and corridors. Your position is 
+shown by a small white arrow (light blue on C64). It does 
+not only show your position but also your direction of 
+sight.
+
+On C64 the terrorist are shown in black, and the hostages 
+in white.
+
+On SPECTRUM and MSX, the hostages are shown by crosses, 
+the terrorists by rhombuses, and the D.I.C.T. men by 
+squares.
+
+On AMSTRAD, the hostages are shown by white dots, the 
+terrorists by green dots, and the D.I.C.T. men by blue 
+dots.
+
+b) MOVEMENT
+
+You can use either the keys or the joystick.
+
+In the corridor:				  	C64 keyboard
+ To move in the direction of sight	direction UP	     £
+ To pivot at 90° to the right		direction RIGHT	     ^
+ To pivot at 90° to the left		direction LEFT	     *
+ To turn around				direction DOWN	     =
+
+SPECTRUM, AMSTRAD and MSX keyboard: The keys that you 
+have selected at the beginning of the game.
+
+If you want to enter a room, place yourself in front of the 
+door and step forward (direction UP). In a room you mainly 
+move to the left and right. The directions UP and DOWN are 
+of use only when there is a door before or behind you and 
+you want to go into another room or the corridor.
+
+G) AN ENCOUNTER WITH THE TERRORISTS 
+
+On C64:
+When you encounter one or more terrorists, you can pass into 
+FIRE mode, by pressing the space bar or FIRE button. At that 
+moment by using the commands LEFT/RIGHT you move your machine 
+gun to point towards the terrorists, remembering to keep the 
+fire button or space bar pressed. On C64 you may also set 
+the shooting height with the commands UP/DOWN. The man with 
+the fastest and best aim will win the battle.
+
+To move again, release the space bar then use the direction 
+commands. Remember this if you want to escape quickly.
+
+On AMSTRAD-SPECTRUM-MSX:
+You pass into fire mode by pressing the fire button or the 
+fire action key. A cursor will appear symbolizing the point 
+of impact of your shot. Move it with the joystick or the keys. 
+When you release the fire button or action key, you stop 
+shooting and you can move your D.I.C.T. again; for during the 
+shooting phase you are not able to move the character.
+
+H) ENCOUNTER WITH THE HOSTAGES
+
+Once you have eliminated all the terrorists on one floor you 
+can then rescue the hostage(s). You walk into the room where 
+they are kept. Place yourself in front of one of them. You 
+must guide him (only one at a time; he will follow you) to 
+a room on the 3rd floor which doesn't have any windows. When 
+they are in that room, the hostages are in a more secure 
+place.. When you have succeded in freeing all the hostages, 
+the game ends. However in certain missions, a terrorist may 
+come into that room to take them again. You will then have 
+to protect the hostages and neutralize the terrorists.
+
+I) ENCOUNTER BETWEEN, TERRORIST, HOSTAGES AND D.I.C.T. MEN
+
+If you encounter in a room or corridor, a terrorist with 
+a hostage, you will have to neutralize the terrorist without 
+wounding the hostage. No mistake will be tolerated. Your 
+mission will be 100% successful only if all the hostages are 
+freed alive.
+
+Tip: on C64
+Remember to progress silently (avoid useless shots). You 
+will avoid to be spotted by terrorists.
+
+
+VI - END OF THE GAME
+--------------------
+
+The game has ended when:
+
+TOTAL SUCCESS: If you have regrouped all the hostages in the 
+3rd floor without windows or if you have neutralized all the 
+terrorists present in the Embassy.
+
+FAILURE: All the members of your team have been neutralized 
+by the terrorists.
+
+If your situation is between the two mentioned above (maybe 
+you have lost some of your men, or you have not rescued all 
+the hostages), the comments and scores you have achieved 
+will be shown on the front page of the paper and the end 
+of the game.
+
+At the final screen, press the fire button to display 
+a newspapers article.
+
+C64: If you want to play again, press the fire button or 
+space bar to display a mini-menu. Follow the instructions 
+fining to your choice. To play the second part again 
+press 2. To start another game and go back to the starting 
+menu press 1.
+
+On AMSTRAD, SPECTRUM and MSX: Press the FIRE button or 
+action key, to play the second part again.
+
+
+CREDITS
+
+ORIGINAL IDEA: 	Philippe AGRIPNIDIS 
+SCENARIO: 	Philippe AGRIPNIDIS, Pascal BUREL, Daniel CHARPY, 
+		Eric MOTTET, Najib EL MAADANI, Josyane GIRARD,
+		Tuan DO CAO
+PROGRAMMING: 	Daniel CHARPY, Pascal BUREL, Najib EL MAADANI, 
+		Tuan DO CAO, Philippe CAMPION 
+MAIN GRAPHICS:  Josyane GIRARD
+GRAPHICS: 	Didier CHANFRAY, Dominique GIROU 
+
+AMSTRAD, SPECTRUM and MSX versions: NEW FRONTIER SOFTWARE 
+
+PROGRAMMING: 	Isidro GILABERT 
+GRAPHICS: 	Juan José FRUTOS & Alberto José GONZALEZ 
+MUSIC: 		Alberto José GONZALEZ

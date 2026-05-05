@@ -1,0 +1,209 @@
+========================
+Dick Francis - Twice Shy
+========================
+Document created by rstuart@ukonline.co.uk on 24th Jan 00 for
+World of Spectrum: http://www.void.demon.nl/spectrum.html
+
+Program By The Ramjam Corporation
+
+TWICE SHY - Adventure game and a day at the races!
+--------------------------------------------------
+Adventure
+Enter the dangerous world of Dick Francis. As Jonathan Derry you are caught
+up in a search for punter's gold - a lucrative betting system.
+
+Racing game
+This thrilling simulation can be played quite independently from the
+adventure. Study the form, place your bets and watch the races to see if
+you've won!
+
+Design by Richard Kelly based on the paperback published by Pan Books.
+Distributed by WHS Distributors, St Johns House, East Street, Leicester,
+LE1 6NE.
+
+Introduction
+------------
+In this adventure based on Dick Francis' thriller, you play the part of
+Johnathan Derry, phisics teacher at East Middlesex Comprehensive. For reasons
+which will become clear as you progress through the adventure, you become
+the custodian of a set of cassette tapes. It is up to you to find out what
+they do. However, there are some other characters whose concern for the
+health of others, particularly Johnathan Derry, is far from paramount.
+Perhaps they know what's on the tapes...
+
+The Game
+--------
+The game is in two parts: part 1 is the adventure game, and is on side 1 of
+the tape; the racing game is on side 2. The races can be loaded whenever you
+find yourself at the racecourse while playing the adventure, and may
+successfully aid you in completing the game. And of course, if you fancy a
+day at the races and the odd flutter, you can load and play the racing game
+as a stand alone simulation.
+
+
+Using The Program
+-----------------
+Place the cassette in your recorder, the right side up for the side you wish
+to play, and ensure that it is fully rewound. Follow the instructions below
+for your computer. Remember to press ENTER or RETURN after each command you
+type.
+
+Spectrum 48/128
+Type LOAD"" and press PLAY on the recorder.
+
+Commodore 64/128
+Press the RUN/STOP key whilst holding down the SHIFT key, then press PLAY on
+the recorder. For Commodore 128s, switch on the C64 mode, or type GO 64
+before loading.
+
+Amstrad 464/664/6128
+Type RUN"" then press PLAY on your recorder. For computers fitted with disk
+drives, type |TAPE first (To get the |, hold down shift and press @).
+
+While playing the adventure game, you may find it of use to play the racing
+game in order to earn some money. To do so, you must be at the racecourse in
+the adventure, then enter the command RACE and, following the instructions
+on screen, load the side of the tape with the racing game, and press a key
+when you're ready to start playing.
+  However, note that you must complete a full day's racing - you can't just
+watch one or two races. You may then return to the same point in the
+adventure.
+  At the end of a day's racing, select the option from the closing menu to
+return to the adventure. Reload the adventure by turning the tape over,
+rewinding it to the beginning, and pressing PLAY. You will be returned to the
+position you were at when you loaded the race game, though you may be a bit
+richer (or poorer!). Press a key when you're ready to play. (See the section
+below on the racing game).
+
+Playing the Adventure
+---------------------
+In this game you play Jonathan Derry. To control his actions, type short
+English sentences, such as GO NORTH, or TAKE THE RIFLE. To sace typing,
+movement commands like GO NORTH can be shortened to just one letter for the
+direction you want to go: N, S, etc. You can enter several commands at once,
+by separating them with a comma, or with THEN or AND. In addition, you can
+communicate with other characters by typing their name, followed by a valid
+instruction in inverted commas. The following examples are all valid
+commands:
+
+GO NORTH
+N
+GO NORTH AND SHUT THE DOOR
+GO NORTH, EAST AND SOUTH THEN SHUT THE DOOR
+SAY TO JANE "TELL ME ABOUT TED"
+SARAH "GO NORTH AND SHUT THE DOOR"
+
+The game has a wide vocabulary, but will always say if it does not understand
+a command. The following words will prove useful:
+
+REDESCRIBE (R)   Repeats the discription of the scene.
+TAKE or GET      Pick something up.
+DROP or PUT      Put something down.
+ALL              Allows you to TAKE or DROP everything without having to
+                 list all the objects.
+INVENTORY        Tells you what you are carrying.
+EXAMINE or LOOK  Gives further details of the object you examine.
+QUIT             Stop the game.
+
+Saving the game position
+------------------------
+Whilst playing the game, you may save your current position, so that you can
+turn the computer off yet return later to the same stage in the game. You
+may wish to save the game before attempting some particularly hazardous
+command, which might otherwise set you right back to the beginning!
+  To do this, place a spare cassette in your recorder, type SAVE as a normal
+game command, press RECORD and PLAY as a normal game command, press RECORD
+and PLAY on the cassette and press ENTER or RETURN. It will take a few
+seconds to save the game position, and then the command prompt will reappear.
+Stop the recorder.
+  Commodore and Amstrad games may be saved on disk by typing SAVE DISK
+followed by ENTER or RETURN. This will save the position, but it will
+overwrite any previous game position saved, as only one position can be
+saved to one disk. The SAVE TAPE command will require the use of a cassette.
+
+Loading a saved game position
+-----------------------------
+To load a saved position correctly, you must be playing the same part of the
+game that you were playing when you saved the position. Put the saved game
+cassette in the recorder and rewind it. Type LOAD and press ENTER or
+RETURN. Press the PLAY button on the recorder. When it has loaded, the
+position you saved will reappear on the screen.
+  If you have saved a game position to disk, it may be loaded by typing LOAD
+DISK.
+
+Some hints on playing
+---------------------
+Make a map of who and what is where, and of how to get from one place to
+another.
+
+Save your position frequently, in case of sudden disaster.
+
+Until you are sure of how things work, either only one command at a time, so
+that you can see the result of that command before deciding on the next one.
+However, multiple command entry is useful to speed up your progress round a
+part of the game that you know well.
+
+Conversation or interaction with other characters relies on their attitude
+to you at the time. If you are not in their good books, they will simply
+ignore you. You can attempt to improve relationships by offering advice or
+objects or simply by communicating with them.
+
+The Racing Game
+---------------
+Whether the racing simulation is played independently or as part of the
+adventure, the aim is to make some money. The more the better. If you are
+better as a part of the adventure, all your winnings will be available to
+you on your return to the adventure (up to a maximum œ250).
+  You are at the race course for one day, where six events are to be run.
+The events are of varying distance, run by horses of known form. In each
+event, you are shown the four runners, together with the odds offered. The
+current day's conditions are shown on the race card.
+  You may place money on any of the horses running, up to the limit of the
+cash that you have available (you could back all the horses in the race!).
+When you have finished betting, press ENTER or RETURN to start the race.
+Your earnings will be updated automatically at the end of each event.
+  Of course, you may wish to study the horses' form in a little more detail,
+in order to assess more accurately the horse most likely to win. You can do
+this by pressing the 'F' key while the race card and betting selection is
+shown. A separate screen will be presented, on which you may study the form
+of any horse. Simply key in the horse's running number in order to see the
+horse's sex, weight carried, preferred distance and preferred going, and,
+on the next screen, how well it did in its last three races. Pressing ENTER
+or RETURN will then return you to the race card. This can be represented any
+number of times during the batter stage, and can also be used to study the
+form of ant of the horses in the game, not just the runners, thus allowing
+you to make comparative judgements.
+  Like a real day at the races, if you run out of cash, you'll just have to
+sit back and watch the rest of the day's racing.
+
+At the end of the day, you may select:
+
+1. starting again with a fresh pocketful of money
+2. starting again with your current earnings
+3. returning to the adventure game (if you came from there)
+
+These options are presented to you on a separate screen together with your
+day's progress report.
+
+Players who have come in from the adventure game and successfully solved
+some of Jonathan Derry's problems, may bring an item which is as useful as
+the Philosopher's Stone...
+
+Loading advice
+--------------
+The cassettes are treated thoroughly, and you shouldn't have any problem
+loading the game. If you do have difficulties, the following may help:
+
+* Load another game from cassette to check everything is connected properly.
+* Vary the volume and tone settings on your recorder if you can (fairly loud
+  and fairly 'high' should work best).
+* Clean and demagnetise the recorder (following the manufacturer's
+  instructions).
+* If you can, try another recorder.
+
+Twice Shy - The Computer Game first published in Great Britain 1986 by
+Mosic Publishing Ltd, 187 Upper Street, London N1 1RQ
+Program Copyright (c) The RamJam Corporation 1986
+Based on the book 'Twice Shy' Copyright (c) Dick Francis 1981.
+First published 1981 by Micheal Joseph Ltd.
+Production Services by Cosprint Ltd

@@ -1,0 +1,114 @@
+Charlie the Chef, keeps all the ingredients locked away in the pantry, only
+letting them out when he wants to cook them!
+
+Now this makes them jolly upset, let me tell you.
+
+So! As soon as they can, the ingredients dash out of the pantry dragging all
+the sorts of nasties, found in the bottom of drawers and cupboards, with
+them, to escape, and run wild.
+
+Poor old Charlie! he has to daze the ingredients with his flour bombs and
+knock them into the mixing bowl, because if they go into the dustbins they
+will be eaten by the bin monster, who doesn't care one little bit where he
+throws any of his rubbish.
+
+Should any rubbish or nasties get into the cake mix then the "ingredients
+needed" counter will change, and Charlie will have to work quicker and
+faster, if he's going to bake his cake.
+
+
+CONTROLLING CHARLIE CHEF
+
+KEYBOARD CONTROLS
+
+LEFT Charlie will move left by using the 'Q' key.
+RIGHT Charlie will move right by using the 'W' key.
+DOWN Charlie will move down by using the 'E' key.
+UP Charlie will move up by using the 'R' key.
+FIRE Charlie will throw flour bags when the 'T' key is pressed.
+PAUSE the game by using the CAP SHIFT key.
+
+JOYSTICK CONTROLS
+
+COOKIE can be controlled using either Kempston or Protek/cursor controlled
+joysticks by selecting the correct mode.
+
+
+GUARANTEE
+
+All ULTIMATE PLAY THE GAME software products have a 3 year unconditional
+guarantee. If this tape ever fails to load it will be replaced totally free
+of charge if returned with details directly to ULTIMATE PLAY THE GAME at the
+address show. If the tape shows any form of physical damage please include
+£1.50 to cover replacement costs. This guarantee does not effect and is in
+addition to your statutory rights.
+
+
+COOKIE LOADING INSTRUCTIONS
+
+1. Connect the EAR socket on your Spectrum to the EAR socket on your
+recorder and ensure the MIC lead us disconnected.
+
+2. Place the cassette tape in the recorder with the labelled side uppermost
+and rewind to the beginning.
+
+3. Type either LOAD "COOKIE" or LOAD "" and then press the ENTER key.
+
+4. Press PLAY on the cassette recorder.
+
+5. COOKIE will now load automatically and a message will appear on the
+screen after several seconds. If loading is unsuccessful rewind the
+cassette, adjust the VOLUME control on the recorder and try again.
+
+NOTE: Full loading instructions can be found in your Spectrum manual.
+
+6. PLAY THE GAME.
+For better sound effects you can increase the volume by connecting the MIC
+socket on your recorder to the MIC socket on your Spectrum. Disconnect the
+EAR lead, remove the cassette tape from the recorder and press the PLAY
+button, the sound may be amplified through the loudspeaker of the recorder.
+
+COPYRIGHT NOTICE - COOKIE copyright, ULTIMATE, PLAY THE GAME, Copyright ^
+Trace Name, 1983 Ashby Computer & Graphics Ltd. All rights reserved
+Worldwide.
+The game and name COOKIE and all of its associated hardware, software, code,
+listings, audio effects, graphics, illustrations and text are the exclusive
+property and copyright of ASHBY COMPUTERS & GRAPHICS LTD. and may not be
+copied, transmitted, transferred, reproduced, hired, lent, distributed,
+stored or modified in any form, in full or in part without the express
+written permission of Ashby Computers & Graphics Ltd. The Green, Ashby de la
+Zouch, Leicestershire LE6 5JU, England.
+
+All software, graphics and audio-visual by ULTIMATE, PLAY THE GAME. Trade
+Name of Ashby Computers & Graphics Ltd. Made in England.
+
+16 1004
+
+
+FEATURES
+
+Superb graphics.
+Flour Bags.
+Bin Monster.
+Continuous Fire.
+High Score displayed.
+Pause Button.
+1 & 2 Player games.
+Full 8 way movement.
+On Screen Scoring.
+Ingredient Count.
+Pantry.
+Dustbins.
+Mixing Bowl.
+Crafty Cheese.
+Chunky Chocolate.
+Sneaky Sugar.
+Colonel Custard.
+Mixed Peel.
+Arcade Standard Game.
+Tin Tin Can.
+Mike the Pike.
+Bernie Bolt.
+Terry Tack.
+Wally Washer.
+Super Games Tunes.

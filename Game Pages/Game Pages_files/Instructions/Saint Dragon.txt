@@ -1,0 +1,82 @@
+Saint Dragon - Inlay Card Docs
+Retyped in 2000 AD by Alessandro "Gazzosa" Grussu
+Visit my website at http://members.xoom.com/gazzosa
+Proud member of the Spectrum Webring.
+
+=========================================================================
+
+ST DRAGON
+
+LOADING INTRUCTIONS
+
+CBM64/128 CASSETTE
+Press SHIFT and RUN/STOP keys together. Press PLAY on your cassette
+recorder. Follow on-screen prompts.
+
+SPECTRUM 128K, +2 CASSETTE
+Type LOAD"" and press RETURN. Press PLAY on your cassette recorder.
+Follow on-screen prompts.
+
+AMSTRAD CPC CASSETTE
+Press CTRL and ENTER keys together. Press PLAY on your cassette recorder.
+Follow on-screen prompts. Keyboard commands user definable.
+
+SCENARIO
+On a far distant planet you must prepare to fight the final battle! An
+evil force of monster machines has risen to conquer the Galaxy. One by
+one the peaceful races of the Galaxy have been attacked and enslaved by
+the Cyborg Monsters. None has the strenght to stand against the power of
+the Cyborgs, until one lone rebel rises from within the ranks of the
+mechanised monsters. Part dragon, part machine, the Cyborg Warrior fights
+back against its tyrant masters. The Galaxy has a hero. Hope returns to
+the hearts of the people at the rise of the Armoured Champion they call,
+"Saint Dragon". In this reverse of the Saint George legend you must fly
+the armoured Dragonship through five levels of non-stop destruction.
+Choose between fireballs, bouncing bombs, ring lasers and turret weapons
+to blast your way through the armoured pumas, mechanical cobras, giant
+cyborg bull and a host of other mutant machines. But remember fire power
+isn't everything! Your ship has an armoured tail. Use it well and you may
+just survive.
+
+JOYSTICK
+Move joystick to control Dragon, fire button to shoot.
+
+KEYBOARD (CBM 64/128)
+Up/Down - O/K, Left/Right - A/S, Fire - Space bar.
+
+KEYBOARD (SPECTRUM 128K/AMSTRAD)
+Up/Down - Q/A, Left/Right - O/P, Fire - Any key on bottom row (Z to M).
+
+ADDITIONAL CONTROLS (CBM)
+M	-	Toggles between music and sound effects
+P	-	Pause/unpause game
+Q	-	Abort game (while in pause mode)
+
+ADDITIONAL CONTROLS (SPECTRUM 128K/AMSTRAD)
+H - Pause (Then E to Exit or C to Continue)
+
+PLAYING THE GAME
+It's a shoot-em-up so shoot em! You must blast your way through five
+enemy packed levels, each complete with its own giant end of level alien
+in order to rescue the giant dragon. In addition to your weapons you have
+an armoured tail that will protect your vulnerable head from small
+bullets and aliens. You will need to use it well to survive.
+
+FIREPOWER
+You start with a standard plasma bolt weapon and small fireball. You can
+enhance your weapons by picking up the following tokens.
+
+N	-	Adds one more set of pulse torpedoes (maximum of 5)
+L	-	Change to Laser
+F	-	Change to Fireball
+B	-	Change to bouncing ball
+T	-	Change to turret
+S	-	Speed up
+P	-	Power up your extra weapon
+H	-	Hyper (invulnerability plus maximum firepower for
+		limited time).
+
+Licensed from Jaleco. Copyright The Sales Curve Ltd 1990. All rights
+reserved. Licensed to KIXX. Unauthorised copying, lending or resale by
+any means strictly prohibited. KIXX Units 2/3 Holford Way, Holford,
+Birmingham B6 7AX. Tel 021 625 3311.

@@ -1,0 +1,53 @@
+HOW TO LOAD
+Place the cassette in the tape recorder and 
+make sure that the tape is fully rewound.
+Connect the cassette to your Spectrum
+computer as described in your Spectrum 
+manual.
+
+Type LOAD “” and press ENTER. The
+program takes just under two minutes to load.
+
+If you should have problems in loading, try
+adjusting the volume and tone settings on your 
+tape recorder and try again.
+
+PLAYING THE GAME
+It is your task as Sir Lancelot to investigate the 
+24 rooms in the castle and to collect all the 
+things of use to you as you go.
+
+These items may come in many forms, but you 
+will be able to recognise them on the screen as 
+they flash colours.
+
+This task sounds simple, but to pass through 
+each room you must collect all the items present 
+in that room and then reach the exit.  The other 
+problems you will have to face are the animals 
+guarding the treasure.
+
+Fortunately you are given four life restorers -  
+these are your only hope of survival.
+
+HOW TO CONTROL SIR LANCELOT
+Only three keys are needed to control Sir 
+Lancelot.  These are LEFT, RIGHT, and JUMP. 
+The keyboard has been configured as follows:
+
+    Q, E, T, U, or O	Move Left
+    W, R, Y, I, or P	Move Right
+    Shift to Space	Jump
+
+The game is also compatible with a whole variety 
+of Joysticks.
+
+  Program copyright (C) Stephen Cargill 1984
+        Cover Artwork by Con Aslanis
+
+                Published by 
+              Melbourne House
+   Castle Yard House, Castle Yard, Richmond
+                  TW10 6TF
+     70 Park Street, South Melbourne, 3205,
+                 Australia

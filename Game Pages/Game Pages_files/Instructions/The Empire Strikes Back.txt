@@ -1,0 +1,134 @@
+STAR WARS - EMPIRE STRIKES BACK
+===============================
+
+MAY THE FORCE BE WITH YOU
+
+This game follows the non-stop action of the movie and is a direct 
+conversion of the famous coin-op.
+
+All games players and STAR WARS fans alike will enjoy this version 
+of the world's best know space-age epic.
+
+Brought to you by the team who produced the top-selling STAR WARS 
+game, THE EMPIRE STRIKES BACK™ is the next stage of the unfolding 
+drama. The player takes the role of Luke Skywalker, piloting 
+a snow-speeder against the huge Imperial Walkers. Darth Vader 
+controls his forces with deadly cunning, using his Probots to 
+search and attack the Rebel Base.
+
+The action continues as the player becomes Han Solo in the Millennium 
+Falcon, looking for safety in the galaxy whilst being attacked by 
+Tie-Fighters and dodging asteroid storms.
+
+
+INTRODUCTION
+
+This game is the official home computer version of the famous 
+EMPIRE STRIKES BACK coin-op. It is an interactive action game 
+for one player. 
+
+LOADING INSTRUCTIONS 
+
+Spectrum 48k
+Cassette: Load " " and press Enter, then start tape. 
+
+Spectrum 128k/+2
+Casette: Use 'Tape Loader' option from startup menu. 
+
+Spectrum +3
+Cassette: Use 'Loader' option from startup menu, ensure disk 
+          drive is empty, then start tape. 
+Disk: Place disk in drive, and use 'Loader' option from 
+      startup menu. 
+
+Commodore 64/128
+Cassette: Hold down SHIFT and press RUN STOP key, then start tape. 
+Disk: Insert disk, type LOAD "*", 8,1 and press RETURN. 
+
+Amstrad
+Cassette: Hold down CTRL and press the small Enter key.
+Disk: Insert disk, type ICPM and press Enter. (I is obtained 
+       by holding down SHIFT and pressing @). 
+
+Amiga/Atari ST
+Disk: Reset machine and insert disk. 
+
+BBC
+Cassette: Type CHAIN " ", press Return, then start tape 
+Disk: Insert Disk, hold down shift press the BREAK key.
+
+
+THE GAME
+
+You command Luke Skywalker's snowspeeder vehicle and Han Solo's 
+Millenium Falcon spacecraft. Your main goal is to reach the 
+safety of the huge asteroid. To do this, you must reach the 
+Rebel base on Hoth and escape to the skies.
+
+You must survive four levels of play to reach the huge asteroid. 
+The first level of play will engage you in a battle on the surface 
+of the Rebel hideout. Your goal, as Luke Skywalker on a snowspeeder 
+is to stop the probots from sending pictures of the Rebels' power 
+generator to Darth Vader. 
+
+The second level of play continues with Luke Skywalker on his 
+snowspeeder engaging in a spectacular battle against two types of 
+imperial walkers. AT-ST walkers are small but very mobile. AT-AT 
+walkers are huge and difficult to destroy with blasters. A limited 
+number of tow cables can be fired at AT-AT legs. The walkers are 
+advancing towards the Rebel power generator, so the race is on to 
+reach the Rebel base.
+
+The third level of play engages Han Solo in his Millenium Falcon 
+amidst a turbulent asteroid field. Asteroids must be avoided to 
+reach the safety of the huge asteroid.
+
+In all levels of play you must avoid colliding with objects and 
+enemy shots, or your number of deflector shields will decrease. 
+Also, in all levels of play you can earn bonus points for 
+exploding a certain number of targets. A JEDI letter will be 
+awarded in addition to the bonus points. Once all the letters 
+that spell out JEDI have been awarded, you will have attained 
+true Jedi Force, which makes you invincible against all Dark 
+Side forces for a limited amount of time.
+
+Scoring				Scoring
+Fireball	3		Tie Fighter	 100
+Transmission	5		Wave Completion	 2500
+Star Shot	7		Jedi Letter	 5000
+Probot		25		Flying Bonus	 5000
+AT-ST Walker	50		Jedi Bonus	 20000
+AT-AT Walker	75
+
+
+CONTROL
+
+The Snowspeeder/Millenium Falcon and firing/release of the tow 
+cable can be controlled using Joystick or Keyboard. With Atari 
+and Amiga computers, the mouse can also be used. Choose your 
+control option, and define the keys once the game has loaded - 
+chosen keys and controls will be displayed on the title screen. 
+
+CHOOSING THE LEVEL OF DIFFICULTY
+
+At the start of each new game, you have the option to choose 
+between starting at level 1, 2 or 3 with a different starting 
+score of 0, 100000 or 250000 respectively. Beginners are 
+recommended to start at level 1. To choose the starting level, 
+simply point the cursor at the appropriate icon and then 
+press fire.
+
+Good luck, and once again, may the Force be with you! Always.
+
+
+Copyright TM & © 1988, 1984 LUCASFILM LTD. & TENGEN. 
+All Rights Reserved. DOMARK LTD Registered User.
+
+The game is sold subject to the following conditions: all 
+unauthorised copying, hiring, lending, exchanging, public 
+performance and broadcasting is strictly prohibited.
+
+Credits Motion Picture: Lucasfilm Ltd. Computer Game: Vektor 
+Grafix, who are: Programming: Andy Craven, Ciaran Gultnieks, 
+George Iwanow, Mark Robinson. Graphics: Derrick Austin. 
+CERTAIN VERSIONS HAVE A SECRET FEATURE FOR YOU TO DISCOVER.

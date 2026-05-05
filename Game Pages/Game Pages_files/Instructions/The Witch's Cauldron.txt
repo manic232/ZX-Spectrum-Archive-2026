@@ -1,0 +1,76 @@
+THE WITCH'S CAULDRON 
+
+
+To Load, 
+Type Load "Cauldron" Enter, or Load "" Enter. If you have any difficulty,
+refer to Chapter 20 P.105 of your Spectrum Manual.
+
+
+Forsooth, thou art a bumpkin. Thou heedest not my warnings, and thus 
+didst incur the wrath of the Wicked Witch Hazel. And verily didst she 
+caste a spell, and now thou hast the like unto a TOAD. Shouldst thou 
+desire to regain thy human form, thou must seek out spells and concoct 
+potions of thine own to aid thee in thy task. Frog like as thou art, thou
+wilst not find thy task easy and perils will beset thee a-plenty. Thou 
+mayest not regain thy true form without mishap and mayhem, and verily, 
+Witch Hazel shalt hinder thee in her own way. Happenest thou will make 
+thrice times ten changes, happenest not. Thou mayest become like unto a
+ghoul, ghost or other night-bumping devil, thou mayest not. Thou mayest 
+receive aid in thy task, but heed, this aid costeth plenty. 
+
+On with thy search then, plucky toad. Fail and thou art doomed to die 
+beneath the wheels of a carriage. Succeed and we'll go a-wassailing down 
+at the Old Witch's Arms!!
+
+This fully illustrated adventure takes you into the eerie world of 
+witches and magical beings. You must type commands into the computer 
+which will in turn give you descriptions of where you are, what you can 
+find there, and other useful information. 
+
+When entering messages simply use plain English. If the computer doesn't 
+seem to understand first time, try rephrasing your instruction. You can 
+travel around Witch Hazel's house by using words such as NORTH. SOUTH, 
+EAST, WEST, UP, DOWN etc. You can TAKE and DROP objects, some of which 
+are essential to your quest, others not, and many are not what they seem
+at first sight. HELP and EXAMINE are extremely useful words. 
+
+LIST gives a list of the objects being carried. 
+SCORE tells you your present score. 
+SAVE saves the game to tape. 
+LOAD loads a previously saved game. 
+QUIT ends the game. 
+LOOK describes your present location. 
+INSTRUCTIONS gives you a list of useful hints. 
+
+Other useful words are: 
+
+BREAK 	STIR 	MOVE 	LIGHT 	TIE 
+DRINK 	GIVE 	IN 	OUT 	ON 	OFF 
+CRUSH 	UNLOCK 	OPEN 	READ 
+
+When you wish to carry out an action you may need to say which object you
+wish to use. 
+
+For example: 
+
+KILL THE MAN WITH THE KNIFE 
+UNLOCK THE DOOR WITH THE SILVER KEY 
+PUT THE WATER IN THE CAULDRON 
+GIVE THE WOMAN THE GOLD CHAIN 
+
+You can also say things like: 
+
+OIL THE NORTH DOOR 
+CLIMB ONTO THE TABLE 
+TAKE EVERYTHING 
+DROP EVERYTHING 
+
+This is a very complex adventure game. To reduce the frustration of 
+trying to think up exact word commands, Witch's Cauldron has a 
+vocabulary of nearly 300 words. There are almost 100 different locations,
+most of which are illustrated with a full colour high resolution picture.
+Of the many objects dotted around some are useful and some are not, and 
+there are around 700 possible actions of all types. 
+
+Remember, you start the game as a TOAD and must return to your previous 
+human form by whatever means you can. GOOD LUCK!!!

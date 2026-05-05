@@ -1,0 +1,34 @@
+SCOOBY DOO & SCRAPPY DOO
+
+Another wild and exciting adventure is about to begin for Scooby, Scrappy,
+Shaggy and the rest of the gang. Shaggy has followed Scooby, who with his
+everlasting urge for food has decided to wander off in search of a quick
+snack.
+
+After a time the gang notice that both Scooby and Shaggy are missing and
+become deeply concerned. As quick as a flash, Scrappy Doo springs into
+action volunteering to go and find them.
+
+The search begins.....
+
+CONTROLS & PLAYING THE GAME
+Scrappy Doo can walk, jump left and jump right. He can also punch the nasties
+and baddies, if the fire button is pressed for a longer period the he throws a
+MEGA punch.
+
+LOADING INSTRUCTIONS
+48K					128K
+Type LOAD "" and press ENTER		Press ENTER on loader
+
+DEFAULT KEYS
+Q	- Jump (or up if on hoverboard)
+A	- Down (only if on hoverboard)
+O	- Left
+P	- Right
+SPACE	- Punch (hold down longer for MEGA punch
+F	- Pause (fire to restart)
+
+Keys redefinable or use Sinclair or Kempston compatible joystick.
+
+DESIGN & PRINT BY: MARKETING ADVERTISING DESIGN SERVICES
+ILLUSTRATION BY: JULIE HEBDON

@@ -1,0 +1,338 @@
+                                   LAST NINJA 2
+
+Rarely does a company make as dramatic an impact as did SYSTEM 3 SOFTWARE with
+the award winning game 'THE LAST NINJA'. This software innovation proved to be a
+major advance in home computer entertainment - achieving critical acclaim from
+the media and game players around the world.
+
+System 3 Software has established a reputation for developing innovative and
+exciting software. Our aim is to provide the games player with hours of
+thrilling entertainment, through challenging and imaginative game play, plus the
+most sophisticated player-interaction available in this type of game. And now
+with over 8,000 man hours invested in planning and development, from the team
+that brought you 'The Last Ninja', we are pleased to present to you 'LAST NINJA
+II'.
+
+LAST NINJA II is the second game in our interactive action fantasy genre. It
+features adventure style puzzles, dynamic on-screen action and a high degree of
+player control.
+
+Because we are always conscious of your demands for ever better products, we
+have incorporated many of your suggestions in this game. For example: playing
+against the clock and having a score to relate your performance to.
+
+To get the most enjoyment out of this game, we suggest you read ALL the
+instructions (and story) thoroughly. This is not just a simple action game.
+
+Later in this booklet we give you some hints to get you started.
+
+We hope you enjoy our latest game, and look forward to entertaining you again in
+the near future.
+
+Mark Cale
+
+
+The Ninja, known as The Mystic Shadow Warriors, were the elite fighting force of
+Ninth Century Feudal Japan. They were dedicated to the fine tuning of their
+bodies into killing machines. Their attributes were many and varied; they were
+masters of weapon craft, assassination, stealth and invisibility and many
+believed them to be in control of the supernatural. A real master of the art of
+Ninjutsu could even anticipate an opponent's moves...and thoughts.
+
+To achieve this high level of skill all initiates had to undergo years of
+rigorous training. Correct application of these skills required cunning,
+dexterity and total mind control. Students of the Ninja arts drove themselves on
+to try to achieve the state of self-perfection and a closeness to their god.
+Therefore martial arts fighting disciplines became the highest, most honourable
+path to perfection. Unfortunately, some Ninja were to abuse their powers.
+
+The Ninja were nearly wiped out of existence during a purge in the Twelfth
+Century. But now they are back and more powerful than ever...Back with a
+vengeance!
+
+The struggle with the Evil Shogun, Kunitoki, had taken its toll. For many months
+after regaining control over the island of Lin Fen, Armakuni, the new master of
+the Ninjutsu, fell into a deep depression at the loss of his brethren. He
+reflected again and again upon his struggle against Kunitoki, and always came to
+the same conclusion - it was only the end of a battle, not the end of the war.
+
+After more than a year of languishing upon Lin Fen, Armakuni was prepared to
+reinstate the way of the Shadow Warrior to its former glory. With the Koga
+scrolls in his possession all that Armakuni needed now were the disciples to
+follow his guidance and the teachings of the ancient manuscripts.
+
+As the word spread around the mainland that a new master had the scrolls and was
+about to begin training, the men began to arrive. They were the sons of the
+fighting elite - the Samurai.
+
+A new order of Ninja slowly began to take shape. But this time the training was
+going to be more intense than ever before. Never again would they be caught off
+guard and be defeated without honour.
+
+During a training session of the Inner Circle - the Master's elite of the elite
+- a strange feeling came over the class. It was as if time had abruptly stood
+still, as if they were the only people left in the world. As Armakuni rose from
+his meditating position a strange pulsating light enshrouded him. Concerned with
+what they saw, the class tried to rise and go to Armakuni's assistance; but they
+were fixed in their positions, no one could move.
+
+The intensity of the light grew around Armakuni until all who were witnessing
+the scene were forced to cover their eyes. When the light faded and finally
+disappeared, the students leapt to their feet. What had happened? Where was the
+master?
+
+"What is happening?" shouted Armakuni. But no one could hear him. It was as if
+he was invisible and in a sound proof glass box. Why wasn't his class rushing to
+his aid to help him break free? Why did he feel the sharp thorns of fear, while
+inside he was as calm as the deep seas? What game were the ancients playing with
+him? His questions found no answers as he slipped unwillingly into
+unconsciousness.
+
+Slowly Armakuni clawed his way back through the darkness of deep sleep, back to
+where he felt safe. As he forced his eyes open, he was greeted by a sight that
+his experiences could not have prepared him for.
+
+Armakuni is now standing on a hard wooden floor surrounded by strange objects
+that vaguely remind him of musical instruments. Behind him is a curtain parted
+slightly in the middle. As he tries to focus his eyes on his surroundings his
+mind is sent spinning. He sees strange gigantic shapes, covered with mirrors,
+reaching to the very doorstep of the heavens.
+
+"Where am I?" shouts Armakuni. Trying to get some control over his rushing
+emotions he calls upon all of his reserves of courage. He must try to make sense
+of the insanity surrounding him. Taking a moment to meditate, Armakuni suddenly
+experiences a strange and chilling sensation. There is a force in this land, a
+force he has not felt since the final battle with the Evil Shogun, Kunitoki.
+
+"Could he be here? Has some cruel trick of fate brought the two of us together
+once again?" thinks Armakuni. As these thoughts rush through his mind, Armakuni
+begins to realise that their destinies must be forever intertwined and wherever
+evil forces try to hold sway over mankind, Armakuni is the one chosen to
+vanquish it.
+
+Armakuni's immediate concern is to explore his surroundings. He must find some
+means of defending himself against the unknown dangers that lie before him.
+Although Armakuni was torn from his own time with nothing more than the clothes
+on his back, he has total belief in his abilities.
+
+
+LOADING INSTRUCTIONS
+
+Set up your computer as detailed in your user manual. Ensure that all non
+essential peripherals - such as cartridges, printers, etc. are disconnected.
+Failure to do so may cause loading difficulties.
+
+If you are using your ZX Spectrum, Spectrum+, Spectrum 48K, Spectrum 128K,
+Spectrum +2 with the cassette version of LAST NINJA II...
+
+Connect your cassette player to your Spectrum as advised in the user manual.
+
+If you are using a joystick then insert the necessary interfaces NOW.
+
+Switch your TV/monitor, cassette player and computer ON. If your Spectrum now
+displays a menu screen you may select 48K or 128K Basic.
+
+Insert the LAST NINJA II cassette into the cassette player, with the cassette
+label marked side one facing upwards. Ensure that the cassette is fully rewound.
+
+Type LOAD"" and then hit the ENTER key. Now press the PLAY button on your
+cassette player. The game should now load.
+
+Refer to the multi-load instruction section of this Avengers' Handbook.
+
+
+MULTI-LOAD INSTRUCTIONS
+
+LAST NINJA II is a multi-load game. Each level will be loaded as you complete
+the previous one. This means that to enjoy continuous play you MUST keep your
+LAST NINJA II cassette in your data cassette player, or your LAST NINJA II disk
+in your disk drive, at all times during a session with the game. On screen
+prompts will appear when you complete a level, telling you what to do next.
+
+When loading cassette versions of the game you will be prompted to turn over the
+tape, rewind fully and load the next level.
+
+
+KEYBOARD CONTROLS
+
+FOR SPECTRUM AND AMSTRAD OWNERS
+
+Enter/Shift     - Cycle through Ninja's inventory.
+Space Bar       - Cycle through Ninja's weapons.
+P               - Pick up object.
+Q               - Kill the Ninja.
+H               - Pause game.
+J               - Select joystick orientation. Pressing the J key will rotate
+                  the joystick's positions through 45 degrees each time you
+                  press it.
+                  Select the positions you feel most comfortable to play with. 3
+                  modes: mode 2 is normal. This mode applies to the movement of
+                  the Ninja, not the fighting manoeuvres.
+
+This game can only be played with a joystick. For Spectrum owners you should
+plug the joystick into a standard interface.
+
+It is important to understand that, unlike most fighting games, the Ninja
+character is capable of movement in three dimensions. This means that all the
+moves you can make are relative to the direction the Ninja is facing on the
+screen.
+
+
+BASIC MOVEMENT
+
+To change the direction the Ninja is facing, roll the joystick handle through
+all the positions until you are facing the direction you want.
+
+Commodore, Spectrum and Amstrad owners all use the same joystick positions.
+
+To walk forward - push the joystick in the direction the Ninja is facing.
+
+To step backwards - pull the joystick in the opposite direction to the one the
+Ninja is facing.
+
+To drift across the path - push the joystick in the direction you want him to
+veer (this applies to walking forwards and backwards).
+
+
+SPECIAL MOVEMENTS
+
+Collecting items
+
+FOR SPECTRUM AND AMSTRAD OWNERS
+
+To activate the pick up, press 'P' on the keyboard, or pull the joystick to
+bottom left with the button held down. To pick up an item from the pathway or
+the background you first have to position the Ninja correctly. The Ninja must be
+facing the object you want to collect and be close enough so that when he bends
+down, his hands will be touching the object. Once the Ninja's hands have touched
+the object it will be automatically picked up and displayed in the status area.
+It is then added to the Ninja's inventory.
+
+
+SOMERSAULTING
+
+COMMODORE, SPECTRUM AND AMSTRAD OWNERS
+
+All use the same joystick positions.
+
+To make the Ninja somersault, either to avoid attack or to overcome some hazard,
+such as jumping from one wall to another, you should make the Ninja run in the
+direction you want him to somersault, and while he is moving press the fire
+button. Because the Ninja can move in three dimensions, he will jump along the
+path or across the path depending on which direction you push the joystick:
+diagonal up - across and up the path, sideways - across the path horizontally
+(the Ninja can only somersault forwards).
+
+
+FIGHTING MOVEMENTS
+
+The following is a list of all the moves, both unarmed and armed, that the Ninja
+can carry out. To activate the fighting moves the Ninja should be stationary and
+the fire button should be pressed.
+
+FOR SPECTRUM AND AMSTRAD OWNERS
+
+Unarmed moves:
+Kick          -     left, or up-left
+Punch         -     up, up-right or right
+Duck          -     down-right
+Pick          -     down-left
+
+Armed moves (sword, nunchakus and staff):
+High Stab     -     up, up-left
+Stab          -     right, up-right
+Slash         -     left
+Kick          -     down
+Pick          -     down-left
+Duck          -     down-right
+
+Throwing moves (shiraken, etc.):
+
+Throw         -     up
+
+
+GENERAL TIPS
+
+The first aspects of the game you should master are the joystick controls. The
+highly interactive nature of the game is required because of some of the complex
+moves the Ninja character has to perform. A high level of competence at the
+controls will enhance your game play considerably.
+
+Because of the adventure elements our second suggestion is that you should get
+into the habit of recording what happens on each screen. This will enable you to
+obtain higher scores with repeated play.
+
+The last point is, never take anything for granted - some things are not as they
+appear. Be curious, nosey, etc. and examine everything.
+
+
+CLUES
+
+The following are clues to some of the objects and hazards you may come across
+in your travels. They are listed in the 'load' order, not necessarily the order
+in which you have to find them. In the spirit of all good adventures...we have
+not told you the whole story.
+
+KEYS:                There are grate keys and not so grate keys. In the
+                     beginning they are a hard bunch to find.
+
+TRAP DOOR:           Get a good grip and punch your way through this problem.
+
+MAP:                 This map is a bit flash, it can reveal a lot.
+
+NUNCHAKUS:           Pulling off this two part problem could make you flushed
+                     with success.
+
+SHURIKEN:            You'll have to box clever to reach the stars.
+
+STAFF:               Reaching new heights, these staff will do well.
+
+BOTTLE:              Wino(t) tramp around the streets and grab a drink while you
+                     can.
+
+SWORD:               Shop around for the best buy, it could be a real steel.
+
+HAMBURGER:           (quote) 'Greater love hath no man than this, that he lay
+                     down his extra hamburger for a friend'.
+
+CREDIT CARD:         You'll get extended credit when you gain access. It will
+                     really lift your spirits.
+
+COMPUTER TERMINAL:   Your number's up if you don't act like an elephant.
+
+THE FINAL PROBLEM IS ALWAYS IN THE PICTURE, SAFELY
+
+
+The game is played in a variety of environments. The following are a few cryptic
+clues as to the sort of places you will be visiting.
+
+LOAD ONE: CENTRAL PARK
+
+The key to success is to gain new heights then go for a frolic on the river.
+
+LOAD TWO: DOWNTOWN MANHATTAN
+
+The busy streets can be paved with danger. Stepping out before your time could
+really flip you out. If you're really sophisticated, you can get down to it and
+make a grate exit.
+
+LOAD THREE: SEWERS
+
+Typically deep, dark and dank. There'll be no torch carrying here, you'll just
+need lotsa bottle.
+
+LOAD FOUR: OPIUM FACTORY
+
+Meat a real cool cat, but be careful, you might get a shock along the way. Tread
+carefully before taking a quick dip.
+
+LOAD FIVE: OFFICE BLOCK
+
+Entrance here is no big secret. You could become a real terminal case before you
+get to meet your biggest fan and become star struck.
+
+LOAD SIX: SHOGUN'S RETREAT
+
+Drop in to see your arch enemy. If you're dumb enough it might not be too
+alarming. After that it's full steam ahead. Careful, if you get cornered you
+might have to do a six point turn.

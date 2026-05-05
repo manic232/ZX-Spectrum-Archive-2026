@@ -1,0 +1,85 @@
+﻿Blinky's Scary School
+=====================
+
+Everyone knows that castles are for haunting but that old rascal 
+Ghostbuster Red Laird McTavish cleared Drumtrochie Castle of all 
+the Ghosties exactly one century ago. Now Blinky, the star pupil 
+from the Scary School for young ghosts has from sunset to sunrise 
+to penetrate the castle Ghost proof defences. Guide him through 
+the cunning traps, help him evade the nasties with the help of 
+the spirit potions he has brewed himself.
+
+Awaken evil Hamish McTavish, the present Laird and condemn him to 
+a lifetime of haunting.
+
+Enough is enough!!! Hamish McTavish had told his favourite story 
+once too often. It was exactly one hundred years since the most 
+famous ghostbuster of oll time - Red Laird McTavish had rid 
+Drumtrochie Castle of it's ancestral ghosts.
+
+Now the head Spectre had ordered that no castle should be without 
+it's ghost - so it's spirits ho and a haunting we will go! 
+
+The task to retake the castle for haunting capers has fallen to
+Blinky - the star pupil from the School for young ghosts - and it 
+is his first assignment!
+
+He has one night to get to Hamish and awaken him by using his 
+ghostly wiles. Failure to do so between sunset and sunrise will 
+see Blinky banished from haunting duties and returned to the 
+ghost school for another century, to await there next available 
+mystic night. Another hundred years at school - UGH!! he must 
+succeed - but it won't be easy! The creepies and slimies that 
+inhabit the castle don't like intruders and hamish has set Ghost 
+busting traps which he learned from his forefathers.
+
+The energy sucking defenders won't give up easily but even their 
+powers to exterminate wispy infiltrators can be overcome. Blinky 
+must find and consume the magic potions, using all his supernatural 
+powers to collect the powerful artifacts.
+
+Hamish, who is busy putting on his nightcap before blowing out his 
+candle, may be in for quite a rude awakening. Blinky has one night 
+to arouse Hamish from his sweet dreams and tonight is the night.
+
+
+CONTROLS
+
+You may use one of the following control methods: 
+Sinclair 	Kempston 	Keyboard
+
+   JOYSTICK OPTION                KEYBOARD OPTION
+
+
+  JUMP         JUMP                 
+  LEFT   UP    RIGHT              Q&O    Q    Q&P
+       \  |  /                        \  |  /
+        \ | /                          \ | /
+         \|/                            \|/
+  LEFT ---*--- RIGHT                O ---*--- P
+          |                              |
+          |                              |
+          |                              |
+        DOWN                             A
+
+"FIRE" - Picks up an object  SPACE - Picks up an object 
+                   H - Quits the game
+
+
+SPECTRUM LOADING INSTRUCTIONS
+
+Type LOAD"" then press enter. 
+Press PLAY on tape.
+
+
+Programming: JIMMY PARR 
+Graphics: DAVID TAYLOR 
+Musk & FX: JIMMY PARR & COLIN BESTFORD 
+Game Design: RIK & TINK
+
+
+The program code, graphics, music and artwork of this game are 
+the copyright of Zeppelin Games and may not be reproduced, stored 
+or hired without the written permission of Zeppelin Games Limited.
+
+© 1990 Zeppelin Games Ltd.

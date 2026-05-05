@@ -1,0 +1,81 @@
+Thanatos (c) 1986 Durell Software Ltd 
+-------------------------------------
+
+THANATOS by Mike Richardson
+
+Compatible with Kempston, Protek, and Interface Joysticks
+
+LOADING
+
+Place cassette in tape recorder. Rewind to start. Check cassette recorder is
+connected to Spectrum (EAR sockets) and that recorder is set to maximum
+treble and half volume. Type LOAD"" on Spectrum, press ENTER key, then PLAY
+on tape.
+
+STANDARD CONTROLS
+
+A     Joystick UP    HIGHER (or aim up when breathing flame)
+Z     Joystick DOWN  LOWER (or aim down when breathing flame)
+M     Joystick RIGHT FASTER going right (or slower going left)
+N     Joystick LEFT  SLOWER going right (or faster going right)
+SPACE Joystick FIRE  FIRE flame (or DROP when carrying object)
+P                    Pauses game
+
+NB:   SLOWER + SPACE turns dragon around
+      SKILL LEVEL 1 is easiest
+      Dragon must be moving before it can take-off
+
+QUICK START INSTRUCTIONS
+
+Fly to the right till you get to a castle, then land and walk up to the
+castle gate. Use flame from close range to burn down gate. If you run out of
+flame go back and find a witch tied between two stakes and eat her (just
+walk up to her slowly). This will refill your energy shown by glass (on the
+bottom right of the screen). In the first castle land near the girl (who
+will coloured green, and will be waving with both arms), and allow her to
+climb onto your neck (ie: just land nearby and wait). Fly onto the next
+castle. When you find the book of spells, land and let the girl collect
+them. Fly to the last castle where you will find the cauldron in which the
+girl can cast her spell. Land nearby.
+
+
+GENERAL PLAYING TIPS
+
+You can pick up foreground object (eg: knights, horses, rocks, and soldiers)
+by flying over them and touching them with your open claw. You can then take
+them up high and drop them (on other objects, if you wish!). You can also
+burn foreground objects with your breath. If you get attacked by the
+knights, dragons, rockfalls, etc, your heart (shown on the bottom left of
+the screen) will beat faster, eventually flickering blue just before you
+die. To slow down your heart rate you must land and stand still (or walk
+slowly - especially when in the caves!) without being attacked. To win the
+game you must carry the girl all the way to the cauldron. If you turn around
+quickly she may fall off, and you will have to pick her up again.
+
+CHANGING CONTROL KEYS & JOYSTICKS
+
+If you have a Kempston joystick interface, select the REDEFINE KEYS option,
+and press Y when asked. If you wish to use different keys, or if you wish to
+set-up or or adjust the "cursor key" type joystick interface (eg: Protek and
+Interface 2), then select the REDEFINE KEYS option, answer N to the Kempston
+joystick question, then press the joystick keys of your choice in response
+to the prompts.
+
+SCORE
+
+Select the VIEW SCORES option to check your position on the high score
+table. You score bonus points for wiping-out entire attack waves in a single
+pass, and you get double points for killing the enemy by dropping objects on
+their heads.
+
+OTHER GAMES BY DURREL
+
+£9.95  BIG4: Turbo Esprit, Saboteur, Combat Lynx, Critical Mass
+£9.95  DEEP STRIKE
+£9.95  FAT WORM BLOWS A SPARKY
+£2.95  HARRIER ATTACK
+£2.95  SCUBA DIVE
+ 
+----------------------------------------------------------------------------
+
+Complete Instructions typed in by Paul Thompson, March 2003

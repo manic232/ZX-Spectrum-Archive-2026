@@ -1,0 +1,127 @@
+=============
+Critical Mass
+=============
+Document created by rstuart@ukonline.co.uk on 12th August 2000 for
+World of Spectrum: http://www.void.jump.org
+
+From the box:
+=============
+Durell software, Castle Lodge, Castle Green, Taunton, Somerset TA1 4AB.
+
+An outlying system of the Terra Federation has set up an advanced anti-matter
+conversion plant on a centrally positioned asteroid to supply the local
+colonists with energy. A surprise attack by alien forces has successfully
+overcome the asteroid's defences and the aliens are now threatening to
+self-destruct the power plant unless the colonists offer an unconditional
+surrender. The self-destruction process would effectively turn the power
+plant into a massive black hole that would wipe out the entire planetary
+system along with a number of nearby stars. Unconditional surrender offers
+an equally horrific prospect. Your mission is to infiltrate the enemy
+position and disable the anti-matter plant before the aliens achieve CRITICAL
+MASS.
+
+(C) Durell Software 1985. This computer game is sold subject to the condition
+that it is for home use only. All other rights reserved.
+Illustration and Design by Tim Hayward
+
+Instructions:
+=============
+Critical Mass by Simon Francis
+------------------------------
+Compatible with Kempston, Protek and most other joystick interfaces.
+
+Loading Instructions
+--------------------
+Place the cassette in the tape recorder and rewind. Make sure the recorder is
+properly adjusted and connected to the computer. Type LOAD "" and press the
+ENTER key.
+
+Standard Controls
+-----------------
+Z   Joystick LEFT   Rotate left
+X   Joystick RIGHT  Rotate right
+Q   Joystick UP     Accelerate
+A   Joystick FIRE   Fire
+
+Screen Displays
+---------------
+Four counters and gauges are displayed at the bottom left of the playing
+screen, along with a pointer that indicates either the direction of the
+nearest enemy or the direction of the nearest replacement vehicle. The
+counters and gauges are:
+
+Top Left            Score
+Bottom Left         Energy
+Top Right           Time till Critical Mass
+Bottom Right        Distance till end of zone
+
+Quick Start Instructions
+------------------------
+Keep flying towards the right of the screen. Avoid all rocks and mines. Watch
+the pointer to find the direction of incoming aliens and shoot to kill, but
+don't waste energy. If your craft gets destroyed follow the pointer till you
+find a new ship in a replacement pod. When you come to the wall shoot the
+turret in between the two force gates and then move through quickly. When
+you get to the anti-matter converter shoot the top of the pyramid shaped
+energy concentrator before you get sucked-in and vapourised.
+
+Your Mission
+------------
+You will be deposited on the asteroid at a considerable distance west of
+the power plant. You must proceed east at maximum speed to enter and disable
+the anti-matter converter before it reaches critical mass.
+
+Your craft is of the rocket-propelled hover type, allowing high speed strike
+capability, without fear of either radar or seismic detection through contact
+with the surface. However the very fact that it does not have contact with
+the surface restricts its manoeuvrability, and only a skilled pilot will be
+able to guide it at speeds through the rocky terrain without blowing its
+force field. This force field protection system will cusion its impact when
+in collision with rocks, and will then slowly regenerate itself to full
+power. However it will collapse if over-used and implode on your strike
+craft. The force field is also effective against attacks by the aliens and
+local life-forms within the same limitations.
+
+A further protection system is built into your craft that will detect such
+implosition just before it occurs and automatocally eject you. You should
+then use your emergency jet-pack to fly to a new ship in one of the dome-
+shaped replacement pods that will be sending out a homing signal indicated
+by your screen pointer. You will be unprotected while using the jet-pack so
+keep away from the worm-like local life forms, and avoid all rocks and mines.
+
+Your craft is armed with a high-density light phasor that can penetrate all
+known energy protection shields, though this too is linked to your craft's
+energy banks and will cause implosion if heavily over-used.
+
+The alien forces are dispersed around the power plant, and in the early zones
+you will only encounter their long distance raiders and unfused mines. As you
+proceed through the zones you will face increasingly hostile opposition,
+plus fused and guided mines. As you pass through the zones you will recieve
+updated intelligence reports on your CMC screen.
+
+The power plant is heavily guarded by a protective wall, fused mines and
+amorphous clouds of molecular disorientation. To enter the power plant zone
+you will have to fly towards the force gates, which you will be able to
+briefly disable and pass through by shooting at the front of the turret in
+the middle of the two gates. This would take considerable skill even without
+the clouds which are likely to send you spinning against the mines.
+
+Once inside the power plant zone you will be drawn in towards the energy
+transfer beam which you must destroy by shooting the top centre of the
+pyramid-shaped energy concentrator in the middle of the device. If you fail
+to hit your target quickly you will be drawn into the beam and vapourised.
+
+Skill Levels
+------------
+The easiest is skill level 1. These levels affect the following:-
+
+    Number of replacement pods
+    Rate at which energy is used
+
+Score
+-----
+Your score will increase according to a formula which allows for the type of
+alien hit, and the number of aliens already destroyed.
+
+Bonus points will be awarded on your CMC screen for the total number of
+aliens destroyed on completion of a zone.

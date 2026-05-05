@@ -1,0 +1,96 @@
+*** HYPER SPORTS
+
+Its program code, graphic representation, and artwork - are the
+copyright of Imagine Software (1984) Limited and may not, be
+reproduced, stored, hired or broadcast in any form whatsoever without
+the written permission of Imagine Software (1984) Limited. All rights
+reserved.
+
+CONTROLS
+
+Keyboard (redefinable):
+O - Left
+P - Right
+Q - Fire
+Joystick - Kempston, Cursor, Interface 2
+Note: In the case of difficulty experienced in joystick control the
+keyboard controls may be used at any time during play, even if
+joystick has been used.
+
+PLAYING
+
+Pit your skills and agility against the computer and the clock - in
+order to progress to the next event you must qualify (ie achieve game
+- scoring hints are as follows and we would be interested to hear from
+any player with high marks (100,000 and up is good).
+
+SWIMMING
+
+Wait for the starting gun - racing dive into the pool (by pressing the
+fire button). Your swimming speed is determined by continous
+left/right controls, but remember in order to swim you must breath so
+wait for the prompt and then press the fire button. If you breathe at
+the wrong time you'll swallow water and if you forget to breathe
+you'll gradually slow and stop.
+
+Your opponents have different swimming skills and are controlled by
+the computer if you can beat them all you're on the way to becoming a
+true champion.
+
+SKEET SHOOTING
+
+Computer controlled sights home in on the skeet and marksmanship
+depends on fast reaction on the left/right controls. Good shooting
+gives bonus skeets with higher points but as your shooting improves
+the rate hots up!
+
+Good shooting.
+
+LONG HORSE
+
+Now test your abilit as a gymnast - press the fire button to run the
+springboard, then again when you're on it - Now when you reach the
+hard stand position press it again to launch into the Somersaults
+(these are controlled by the left/right movememnt). The total score is
+made up on the distance you get up the springboard, the length of time
+on the horse, the number of Spins you can achieve and the perfection
+of your landing. Like the real event you must perform well right
+through for maximum marks!
+
+ARCHERY
+
+The target moves accross your field of vision and you must judge wind
+speed and the angle of your shot to hit bullseye. First press the fire
+button for wind speed/direction, then press fire again to shoot one of
+your eight arrows at the passing target. (Keeping the fire button
+pressed indicates the height of the arrow. Hint:- try to get as close
+to a 5 degree angle as possible.
+
+TRIPLE JUMP
+
+Co-ordination is the key to success in this event, approach speed is
+automatic, press the fire button as close to the take off line as
+possible.  For each part of the jump keep the fire button pressed to
+increase the angle of the trajectory and release as close to 45
+degrees as possible.  Your score is a combination of the correct
+speed, angle and distance.
+
+WEIGHT LIFTING
+
+Now for the final test - a test of strength and stamina. Select the
+weight, type and then use the LEFT/RIGHT controls to increase the
+weight lifter's power. Press the fire button when WEIGHTS flashes to
+give the "Powerlift" Continue with power until all three judges
+acknowledge the feat. Your points score is based on weights.
+
+Congratulations you've completed all the events now check your score
+and see if you can do better next time - Good luck.
+
+(c) Konami
+(c) 1986 Imagine Software (1984) Limited
+Produced by D. C. Ward
+
+==========================================================
+Taken from Project 64 http://project64.c64.org
+Readapted for the Spectrum in 2001 AD by Alessandro Grussu
+http://www.ag-online.da.ru

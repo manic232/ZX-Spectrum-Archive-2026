@@ -1,0 +1,89 @@
+Cobra - Stallone
+from OCEAN
+
+            Crime is a disease. He's the cure.
+
+The Cobra strikes!
+""""""""""""""""""
+As vigilante cop, Marion Cobretti of the 'Zombie Squad', you must
+rescue top fashion model Ingrid Knutsen from an army of psychotic
+killers and the evil clutches of 'The Night Slasher'.
+
+The Game
+""""""""
+Thsi is where the law stops ... and you start
+
+Advance through three playfields.
+CITY SCENE (night-time), RURAL AREA (day-time) and FACTORY. Use
+platforms and levels to locate and protect Ingrid from her attackers
+in each stage.
+Use 'HEAD-BUTT' feature to defend yourself and collect limited weapons
+hidden inside BEEF BURGERS to thwart the attack, beware - each weapon
+only lasts a short while!
+
+Weapons are: INVINCIBLILITY PILL
+             KNIFE
+             PISTOL
+             LASER SIGHTED MACHINE GUN
+To move to the next section ou must:
+  1. Collect 'all four' beef burger weapons.
+  2. Rescue Ingrid (she will follow you if you touch her).
+  3. Clear the section of killers.
+
+Be careful, Ingrid gets upset, if you try to kill her she may wander
+away. She may also get abducted by the enemy.
+
+Once the factory has been cleared you will have to confront
+The Night Slasher himself.
+
+            Crime is the disease ... You're the cure!
+
+Controls
+""""""""
+The program is controlled by either joystick or keyboard which is
+redefinable. Most types of interface are compatable and on screen
+instructions indicate correct procedure.
+
+Note
+""""
+If using a Sinclair Plus 2 computer, select the joystick option,
+"Sinclair" when using an Amstrad or Cheetah + joystick.
+
+You unleash the Cobra as follows using a combination of
+                UP, DOWN, LEFT and RIGHT.
+
+Joystick
+                         Jump
+        Jump Left                    Jump Right
+                         \ | /
+             Left        -   -       Right
+                         / | \
+        Duck Left                    Duck Right
+                         Duck
+
+Press the FIRE button to use the current weapon type.
+
+Status and scoring
+""""""""""""""""""
+On screen information show cureent score and lives remaining (boxing
+gloves) at the bottom left of the screen.
+
+Any weapons you may be carrying are graphically displayed at the
+bottom right of the screen.
+
+When using a weapon the 'QUACKOMETER' is displayed in the lower
+central part of the screen. This realistically indicates the time
+remaining before losing that weapon.
+
+You begin your mission with 3 lives and gain bonus lives at 10,000
+points and every 20,000 points thereafter.
+
+Hints and Tips
+""""""""""""""
+- Avoid hurting Ingrid, she runs away.
+- Duck down to avoid flying objects.
+- Remember the location of each beefburger and the weapon type it
+  contains.
+- Save 'the best' weapon till last as the action heats up towards
+  the end.
+- Don't stay in an one place too long!

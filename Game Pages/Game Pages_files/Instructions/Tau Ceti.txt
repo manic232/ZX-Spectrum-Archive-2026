@@ -1,0 +1,358 @@
+                    TAU CETI
+
+The story begins in 2047 with the invention
+of the Interstellar drive. Using hydrogen
+scoops mankind could collect fuel from the
+thin spread of hydrogen between the stars.
+This made it possible for the exploration and
+colonisation of nearby systems.
+
+    In 2050 the first wave of colonists left
+Earth for four nearby G type stars, Alpha
+Centauri, Tau Ceti, Van Maanen's Star and
+Beta Hydri. Seven months later the first wave
+of colonists arrived at Tau Ceti and began to
+build a civilization on the third planet, an
+inhospitable desert world with very little life. 
+For over 90 years the colony grew and
+prospered. The Cetans built over 30 cities
+across the planet and a strong trade based on
+mining, robot technology and hydroponics.
+
+    Then, in 2150, disaster struck this and
+one other of mankinds four growing
+colonies. A vicious plague, Encke's
+syndrome, swept across the planet.  Once
+contracted the disease was invariably fatal
+and as it swept from city to city the few
+remaining colonists finally admitted defeat
+and fled, leaving the planet to the robot
+maintenance systems.
+
+   Two years passed and on Earth a cure for
+the disease was found, and links between the
+two remaining colonies, Alpha Centauri and
+Beta Hydri, were resumed.  About this time
+all radio contact was lost with the automatic
+systems remaining on Tau Ceti III as a
+massive meteor smashed into the planet.
+
+   As the remaining starbases recovered
+from the loss it was decided to recolonise Tau
+Ceti and Van Maanen's Star. In 2164 the first
+expedition left for Tau Ceti. A single
+ramscoop entered the system and safely
+landed on the planets surface. Minutes later,
+a mayday message was received, followed by
+total silence. Experts decided that the robots,
+so skillfully designed by the first colonists,
+had run amok after the meteor impact. After
+seven years, and the successful
+recolonisation of Van Maanen's Star, a
+second expedition was organised. The only
+way to stop the defence systems without
+destroying the remaining buildings was to
+send in an armoured ground-skimmer to shut
+down the massive Fusion reactor in the
+planet's capital city, Centralis. A single
+skilled pilot might be able to succeed where
+fifty would surely fail, and like a fool, you
+volunteered!!!
+
+        CONTROLLING THE SKIMMER
+
+The Gal-Corp armed skimmer is a
+powerful and dangerous craft and
+challenging for even the most experienced
+pilots. The skimmer is equipped with....
+
+    A single mounted ruby laser
+
+    Defensive shields
+
+    Eight (8) heat seeking missiles + target-
+      ing system
+
+    Eight Anti missile missiles (AMM's)
+
+    Eight starlight flares
+
+    Infra-red night sights
+
+    A Hoffman 360 degree scanner and 4-
+      way selectable viewscreen to avoid
+      blind spots
+
+    Planetary compass and computer ADF
+     (automatic direction finding) beacons
+
+    A JCN command computer (guaranteed
+      fully debugged for normal use)
+
+On loading the program you will be
+presented with a view of the skimmer's
+instrument panel. The screen is divided into
+three areas. The large window on the left is
+your viewscreen, below that is a long blue
+area. This is your contact with the skimmer's
+powerful built-in computer. Finally on the
+right of the screen are five information
+windows. At the top is a compass and real-
+time clock along with a message showing the
+view selected, the city you are in and the
+ship's flight state. Below that is the scanner,
+and below that three more smaller windows. 
+The first gives the pilot's name and the
+scanners complement of missiles/AMM's
+and flares. The second shows speed, shield
+energy, fuel remaining, laser temperature
+and height and the third displays 2 ADF's: -
+the upper one locked onto the city and the
+lower onto your LANDER (if in the same city).
+
+    The skimmer operates in two modes,
+flight mode and ground mode. In flight mode
+control of the program is via single keys or a
+joystick. In ground mode you are in direct
+communication with the crafts computer via
+the computer window. On loading, the
+program will go into a demo sequence. To
+stop the demo press BREAK.
+
+    The commands available are given
+below along with a short description.
+
+HELP
+    Lists commands as below.
+
+LAUNCH
+    Normally ground mode is only active
+when docked.  Launch will send the
+skimmer out onto the planets surface and
+activate flight mode.
+
+MAP
+    The computer will display a map of the
+planet showing information about the cities.
+Use Left, Right, Up, Down and Fire keys to
+move the cursor over the map and fire to
+select a function.
+
+RODS
+    This will allow you to assemble cooling
+rods found throughout your mission.
+
+REACTOR
+    When docked with the Main Central
+Reactor on Centralis will give you access to
+the reactor room.
+
+LOOK
+    Shows a view inside the building. Also
+any objects of use there.
+
+WAIT
+    Waits 5 Earth minutes (about 1/12 of a
+Cetan "spin")
+
+STATUS
+    Gives a damage and progress report
+(also available in flight)
+
+EQUIP
+    Allows access to building repair,
+refuelling and rearming facilities (if any).
+
+NAME
+    Used at the start of the game to give the
+computer a pilot's name.
+
+PAD
+    An on-screen note pad. Allows you to
+make notes of progress etc.
+
+NEW PAD
+    Selects a fresh page in the note pad
+
+SAVE
+    Saves game to tape
+
+LOAD
+    Loads a game from tape
+
+KEYS
+    Allows you to totally redefine the single
+key commands in flight mode
+
+QUIT
+    Abandons a game
+
+SCORE
+    Gives a rating of your progress so far
+
+PAUSE
+    Freezes the game (fire restarts)
+
+SIGHTS ON
+SIGHTS OFF
+
+    To start the game type LAUNCH (and
+press ENTER).
+
+    Your skimmer will leave the safety of the
+lander and venture onto the surface of the
+planet.
+
+    Exploration of the planet is carried out in
+FLIGHT MODE. When first loaded the
+following keys are used (but you may
+redefine any or all of these for your own
+preference/Kempston or cursor joysticks
+etc.).
+
+Left.....                     O
+Right.....                    P
+Increase thrust               S
+Decrease thrust               X
+Fire laser                    N
+Fire missiles                 M
+Fire flare                    F
+Fire AMM                      A
+Status report                 R
+Infra red on/off              I
+Increase height               H
+Decrease height               G
+Jump (if near jump pad)       J
+Land                          L
+Pause  BREAK (Fire restarts)      
+
+
+A MESSAGE FROM GAL-CORP CENTRAL
+TAU-CETI III GENERAL INFORMATION
+
+The planets day.
+----------------
+
+Tau Ceti III has a very short day,
+approximately equal to one Earth hour.
+The cetans call this period a 'SPIN' and
+group 16 spins to a "DAY". As the planet
+has no moon you will have to use the
+Infra-red equipment to see anything after
+sunset.
+
+Docking on the planet.
+----------------------
+
+    Many of the buildings on the planet's
+surface are equipped with DFP's latest
+model energy screened airlock,
+recognisable by the characteristic
+flickering pattern, and your craft will
+allow you to dock with these buildings if
+you wait for the airlock to open to full
+aperture and fly in SLOWLY!
+Once inside a building the computer will
+return you to ground mode giving you full
+access to any facilities available.
+
+Navigation on Ceti III
+----------------------
+
+    The planet has the now standard
+system of JUMP PADS to allow easy
+transport from one city to the next.
+Unfortunately the pads are of the old non-
+programmable 'Super Traveller' type and
+each pad is mapped to a single destination.
+Luckily your ships computer has a
+complete map of the jump network, to
+jump from one city to the next simply find
+the correct jump-pad (they are found at
+the NORTH, SOUTH, EAST and WEST ends
+of the city) and press J.
+Gal-Corp recommends caution on exit
+from a jump as reports indicate that small
+'sand hoppers', a native life-form, tend to
+cluster around the feeder pipes of jump
+pads and lives have been lost in the past
+due to collisions.
+
+Defence estimates.
+------------------
+
+It is known that many of the cities will be
+defended by late-model robot hunters
+marks I, II and III, sophisticated and well
+armed hunter-killers and reports indicate
+that land-based guardian crawlers and
+heavily armoured fortresses may be found
+in larger cities. Radar scans also detect the
+presence of proximity mines. An identi-
+fication chart for known robot defences is
+given at the end of this report...
+
+[The original document have diagrams at this
+point. They're a bit difficult to re-create
+in ASCII, so the following are _rough_
+outline versions...]
+
+        /^\
+      _/   \_                     _-=-_
+     /       \                   /     \
+    /         \                 /       \
+MAIN CENTRAL REACTOR        REACTOR SUBSTATION
+
+                                    |
+      _--"--_                    _--^--_
+      \     /                    \     /
+       \   /                      \   /
+SUPPLY CENTRE (CIVILIAN)    SUPPLY CENTRE (MILITARY)
+
+     ____^____
+    (____ ____)                    _==_
+     ___| |___                     \  / 
+    (____ ____)                     \/
+     ___| |___                      ||
+    (____ ____)                     ||
+        | |                         ||
+     FORTRESS                 CONTROL TOWER
+
+
+      _---_
+     /     \
+    (       )
+     \     /
+      DOME                       SPHERE 
+
+     
+      ____                        __
+  ___/    \___              __---/  \---__
+ (____________)               ---____---
+   HUNTER MK I               HUNTER MK II
+
+                                        ||
+                                        ||
+      _____                             ||
+ ____/     \____              ________  ||
+/_______________\            /        \ ||
+  HUNTER MK III            JUMP PAD COMPLEX
+
+
+FINALLY A PERSONAL MESSAGE FROM
+OUR CHAIRWOMAN....
+
+Please try to avoid wanton destruction of
+unarmed buildings. Gal-Corp central do
+want to COLONISE this world after you've
+finished with it and each undamaged
+dwelling will save millions on next
+years budget!!
+
+GOOD LUCK
+
+.....................
+Message ends.
+
+----------------------------------------------------------------------------------------
+Re-edited Alessandro Grussu's work with correct instructions by Frode Tennebø, 20061202.

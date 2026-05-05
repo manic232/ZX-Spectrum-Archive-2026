@@ -1,0 +1,361 @@
+THE SPECTRUM GAMES DATABASE
+
+NIGHTSHADE
+
+PUBLISHER
+Ultimate Play The Game (ACG)
+
+AUTHORS
+Chris and Tim Stamper
+
+YEAR OF RELEASE
+October 1985
+
+CATEGORY
+Arcade Adventure
+
+DESCRIPTION
+Nightshade is a scrolling, isometric 3D arcade adventure set in
+an ancient city.
+
+CONTROLS
+            CONTROLLING
+          YOUR ADVENTURER
+LEFT Your Adventurer will turn Left using the X, V or N keys.
+
+RIGHT Your Adventurer will turn Right using the C, B or M keys.
+
+MOVE FORWARD Your Adventurer will Move Forward using the A, S,
+D, F or G keys etc.
+
+PAUSE The whole game can be continuously paused using the CAPS 
+
+SHIFT or BREAK SPACE keys.
+
+FIRE Your Adventurer will Fire his antibodies using the Q, W, E,
+R, or T keys etc.
+
+JOYSTICK CONTROLS
+Your Adventurer can be fully controlled by using the KEMPSTON
+INTERFACE, CURSOR CONTROL INTERFACE or the SINCLAIR INTERFACE II
+or any JOYSTICK, by replacing the LEFT, RIGHT, UP, DOWN and FIRE
+controls.
+
+INSTRUCTIONS
+The object of the game is to collect a number of magical items
+which are scattered around the play area and then use these to
+destroy the ghouls which are running rampant around the town.
+
+CHEATS
+
+SEQUELS/PREQUELS
+In game style but not story-wise, Nightshade is the prequel to
+the other scrolling isometric 3D game, Gunfright.
+
+
+INLAY CARD TEXT
+
+               THE LOST VALLEY
+
+Somewhere between the purple mountains, and the seas of the Seven
+Islands lies a hidden valley, a land that time has not touched.
+
+All remained peacful and tranquil, until darkness descended upon
+the land, light and freedom were banished from its homely hills,
+and the evil set seed.
+
+Death and hunger spread, and all who remained within the walls
+of the village became stricken or hag ridden with haunted evil.
+All who had deserted the village sought refuge elsewhere.  The
+village was now in complete control by darkness.
+
+              THE PLAGUES
+
+The remaining people, weak and afflicted were unable to leave and
+soon became enveloped by the vicious evil force, transmuted by
+some terrible disease into the most hideously foul creatures.
+They wander their once peaceful village, producing deadly
+plagues, and fall fouls, to enslave anyone who dares trespass
+into the village, to try to defeat the evil overlord.
+
+              THE STORY TELLER
+
+Many years had passed since the village became over-run, and soon
+the knowledge of the village slipped into legend.
+
+Songs were sung and tales were told of brave adventurers who
+ventured into the valley to find and destroy the evil force and
+never to return, of the riches that could be gained from the
+successful adventure, and the evil which lay in wait for anyone
+who dared to set foot in the evil enchanted NIGHTSHADE village.
+
+The old story teller's eyes widen into fiery gems as he recalls
+and re-lives the tale of battle with the force of evil at work
+in the NIGHTSHADE village.
+
+"Tales of ghosts and mad monks enslaved by evil forces to do
+their bidding and of plagues and foul demons let loose on the
+village. Even death itself was imprisoned within the village of
+NIGHTSHADE as an un-invited guest of the evil one."
+
+The old man continues:
+  
+"Skeletons with rotting flesh dripping with the blood of the long
+dead, waiting, prowling the now empty village for live prey."
+
+"Hideous demons" he croaks, "and terrible ailments and spells
+waiting to absorb any who dares anger the evil force."
+
+"Lift the darkness and the Kingdom of NIGHTSHADE shall be yours
+forever!"
+
+The old man slumps back exhausted into the tall carved wooden
+chair.  You extract as much information as you possibly can from
+him, but he can tell you little more than where to find the
+village.  You set off down the valley and enter the forbidden
+NIGHTSHADE village.
+
+This story is continued by playing this most Advanced Home
+Computer Action Adventure simulation.
+
+          FARE THEE WELL
+
+   CONTROLLING YOUR ADVENTURER
+
+LEFT Your Adventurer will turn Left using the X, V or N keys.
+RIGHT Your Adventurer will turn Right using the C, B or M keys.
+MOVE FORWARD Your Adventurer will Move Forward using the A, S,
+D, F, or G keys etc.
+PAUSE The whole game can be continuously paused using the CAPS
+SHIFT or BREAK SPACE keys.
+FIRE Your Adventurer will fire his antibodies using the Q, W, E,
+R or T keys etc.
+
+JOYSTICK CONTROLS
+Your Adventurer can be fully controlled by using the KEMPSTON
+INTERFACE, CURSOR CONTROL INTERFACE or the SINCLAIR INTERFACE II
+or any JOYSTICK, by replacing the LEFT, RIGHT, UP DOWN and FIRE
+controls.
+
+(Due to the enormous complexity and nature of the interactive
+NIGHTSHADE G.A.S. adventure software, it is almost impossible to
+guarantee continuous and error-free operation. Although, should
+any fault prevail, please contact ourselves, enabling the
+correction of any future versions.)
+
+       NIGHTSHADE FEATURES
+       -------------------
+
+NIGHTSHADE features the latest development of the Filmation
+process called Filmation II, this is a unique software
+development which generates and maintains a realistic moving 3
+Dimensional Scenario Background, giving NIGHTSHADE the unequalled
+realistic feel of a true player participant Film Adventure.
+
+
+Filmation II (C)    Bible
+3D Movement         Hammer
+Continuous Pause    Cross
+Demons              Egg Timer
+Ghosts              Fire Button
+Plagues             Run/Walk
+Antibodies          Game Selection
+Weapon Stack        Tunes
+Spikers             3 Dimensional View
+Gremlins            Village
+Blobs               Extra Lives
+Skeletons           Superb Graphics
+Mad Monks           Amazing Animation
+Mr Grimreaper       Multi Lives
+Acid Pools          Rotational/Directional
+Bubbles             Joystick Select
+Germs               Superb Sound Effects
+Spirals             Monsters
+Spinners            Bacteria
+Globes              Gargoyles
+Spinners            Goblins
+Globes              Streets
+Gooks               Windows
+Roads               Rooms
+Doors               Houses
+Cottages            Rooms
+Log Cabins          Houses
+Churches            Look Out Towers
+Walls               Barns
+
+All Software, Graphics and Audio Visual by
+RARE LTD. for ULTIMATE PLAY THE GAME
+Trade Name of Ashby Computers & graphics Ltd.
+Made in England
+481014
+
+
+
+SCORES
+Crash, Issue: 21, Page: 10, 91%
+
+REVIEWS
+
+Review of _Nightshade_ from Sinclair User No.43, October 1985
+
+HERE COMES Ultimate once more with the continuing saga of Sabre
+Man.   _Nightshade_ is, as you might have begun to suspect, more
+of the same - the brilliant 3D graphics system of _Knight Lore_
+and _Alien 8_ juiced up and improved to simulate a mediaeval
+village. Somehow the programmers have managed to get colour into
+the screens.  In order to see your little hero in the narrow
+village lanes one or two walls drop out of the picture, remaining
+as white lines on the screen.  That system does, however, allow
+for some wonderfully detailed views of inns, barns and the like. 
+As usual with Ultimate there is little information on what you
+are supposed to do. The village is said to have been possessed
+by a great evil, which turned the inhabitants into werewolves and
+other hideous creatures.  Those monsters are some of the best
+yet, coming in a tremendous variety of shapes.  Your weapons lie
+in the village rooms and you collect various missiles to stock
+up your ammunition. Some will not do you much good - there are
+monsters which transmute into others if hit, or split into two,
+and it's going to take you some time to establish which does what
+to whom.  Meanwhile, there are four hypernasties - a mad monk,
+a skeleton, a ghost, and Mr Grimreaper, death himself. They are
+scattered about the village, and must, we suppose, be sought out
+and destroyed, presumably with four special objects, the
+eggtimer, Bible, Hammer and Cross.  The game is well-paced - very
+much an arcade-style production compared to the logic puzzles of
+the two earlier Filmation games.  On the other hand, there is a
+sense of deja vu creeping into Ultimate games. It's now well over
+a year since Sabre Man first appeared, and the concept is wearing
+a little thin.  _Nightshade_ looks a lot different from _Knight
+Lore_ and _Alien 8_, but not so different as to stifle doubts
+that Ultimate may be running out of steam. Or dare we hope for
+something really special this side of Christmas?
+
+                                   Chris Bourne
+
+Publisher: Ultimate
+Price: =A39.95
+Memory: 48K
+Joystick: Sinclair, Cursor, Kempston
+Rating: ***** (out of 5, meaning: 24 carat. Buy it.)
+
+
+SNAPSHOTS/URLS:
+ftp.dcc.uchile.cl/pub/OS/sinclair/snapshots/n/nightsha.zip
+
+GENERAL FACTS
+Nightshade was the first game produced by Ultimate which feature
+the "Filmation II" process, a unique software development which
+generates and maintains a realistic moving 3 Dimensional
+Scenarion Background, giving NIGHTSHADE the unequalled realistic
+feel of a true player participant "Film Adventure".  Well, thats
+what the manual said anyway!
+
+NOTES
+Nightshade was released on the Mastertronic budget label
+"Ricochet" in 1987 for the paltry sum of 1.99.
+
+_Nightshade_, published in 1985, was the 11th Spectrum game
+coming from cult publisher Ultimate Play The Game. Like many
+other Ultimate games, this one stars the character of Sabre Man.
+
+Historical Notes
+This game was maybe the last from Ultimate having some authentic
+original charme. At the time, Ultimate was beginning to loose its
+edge as the best game company for 8-bit computers, while some
+other companies finally learnt how to make good graphics on a
+Spectrum. When _Nightshade_ came out, a new company called Rare
+Ltd. had been founded by the Stamper brothers, original founders
+of Ultimate. As far as I know, _Nightshade_ was the first game
+to be acknowledged to Rare (which, under the guide of the
+Stampers, was to become the leading software developer for
+Nintendo systems ten years after, with best-selling products such
+as _Donkey Kong Country_ and _Killer Instinct_).
+
+_Nightshade_ didn't meet the enthusiastic reviews and comments
+of previous Ultimate's masterpieces, and many people started to
+criticize the company for making games too similar to each other.
+Paul Bond's review of Hewson's game _Paradroid_ on Your Sinclair
+n.11/5, November 1985, closed with the following sentence:
+
+  "Hewson has come up with the goods just when some of its
+  fellow little league colleagues seem to be just nightshades
+  of their former selves".
+
+But Ultimate was declining - the algorithms used in _Nightshade_
+were also used in the following game _Gunfright_, which can be
+described as an arcade version of _Nightshade_ set in the Old
+West. The company was then sold to U.S. Gold, and the games later
+published under the Ultimate label (_Cyberrun_ and _Pentagram_,
+later followed by _Martianoids_ and _Bubbler_) did little or
+nothing to revive the company's reputation.
+
+Description of the Game
+The game uses a technique derived from the Filmation algorithm
+used by Ultimate in its legendary game _Knight Lore_, and later
+in _Alien 8_ and _Pentagram_. This new technique was
+appropriately called Filmation II, and thanks to it the game is
+set in a 3-dimensional scrolling environment (a mediaeval
+village), where nearest walls disappear allowing you to see the
+Sabre Man moving around and shooting nasties - well, it's all
+easier to understand if you play the game and look for yourself.
+In my humble opinion, the original Filmation technique was
+better, allowing more flexibility and full-screen action against
+the window-sized games developed with Filmation II.
+
+The aim of the game is to collect four objects and to use them
+to kill the four evil lords that are walking around in the
+village. Meanwhile, you must collect self-spawning projectiles
+(antibodies) to defend yourself agains the ever-present monsters.
+There are many kinds of antibodies and monsters, and each
+antibody has a different effect on different monsters. There are
+also lesser monsters (the ones that can move diagonally), and a
+fire monster that haunts you if you stay too long in the same
+place - these can be killed with any kind of antibody.
+
+How to play the game
+_Nightshade_ is more difficult than previous Ultimate
+arcade-adventures. The village is big and difficult to map, and
+the starting positions of the objects seem to change every time
+you play, without any recognisable pattern - it's difficult to
+be sure, though, because the evil lords move around while you
+play. It all becomes much easier when played with an emulator,
+saving the position soon after starting the game so that you
+don't have to start from scratch when looking around for the four
+objects. _Nightshade_ was the first Ultimate game that I didn't
+finish the right way - I had to cheat saving the initial position
+with a snapshot cartridge. Let me know if you finish the game
+without cheating or saving.
+
+Available Material
+Somewhere on the Internet you can find a good map of the village
+in JPG format, scanned from a magazine. This also includes a
+couple of small tables that explain the effects of antibodies and
+objects on monsters. At the time of writing (december, 1995) this
+map is available on nvg.unit.no.  You should also find a scan of
+the game cover in a near directory, and a BMP file containing the
+opening screens of this and other Ultimate games ready for use
+as a background for your desktop.
+
+Comments
+The best point of the game are the graphics - very good, as was
+usual with Ultimate. One or two of the monsters are very nice
+(look for the ''booer'' following you with its arms risen). But
+there is nothing new to see as you go deeper into the game... No
+new monsters appearing, or anything like that.  When you've seen
+the four evil lords and the objects you need yo kill them, you've
+seen it all. Everything is correctly done, but seems to lack the
+unbound imagination of previous Ultimate games.
+
+_Nightshade_ is more action-oriented than _Knight Lore_, but the
+action can become irritating. Your character, for example, can't
+move diagonally, while many enemies can - this makes for awkward
+playability.
+
+While graphics and playability where strictly bound together in
+the majority of previous Ultimate games, _Nightshade_ looks a bit
+like a very primitive shoot-'em-up turned into a very
+cosmetically-enhanced arcade-adventure. Nevertheless, if you did
+enjoy other Sabre Man games (and you should), you'll probably
+feel compelled to play this one too...  Regardless of criticism,
+it has that strange ''Ultimate'' feeling that makes you want to
+play it to the end.

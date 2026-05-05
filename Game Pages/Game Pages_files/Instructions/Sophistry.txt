@@ -1,0 +1,362 @@
+THE SPECTRUM GAMES DATABASE
+
+SOPHISTRY
+
+PUBLISHER
+CRL, distributed by Electronic Arts
+
+AUTHORS
+TFMG and TEBS
+
+YEAR
+Original Release, May 1988
+Re-released on Crash magazine tape - Issue 63, April 89
+
+DESCRIPTION
+A unique arcade/puzzle game.
+
+CONTROLS
+Keys/Kempston/Sinclair/Cursor
+
+On menu screen: Left/Right = highlight main option
+                          Up/Down = highlight sub-option
+                          Fire = select option/sub-option
+                          Fire held down = return to main menu
+
+In game: Up/Down/Left/Right = move pod
+               Fire = Use upper
+               Fire held down = Pause (fire again to unpause)
+
+Game defaults to Cursor when originally loaded.
+
+INSTRUCTIONS
+The map of Sophistry comprises 21 levels. Each of these
+levels is made up of many interlocking 'boards', which are
+the 3D screens which have to be solved one at a time.
+
+At the start of the game, only 20% of the entire map is
+'open' - the rest is inaccessable because of locks present
+between the levels. Your objective is to obtain all 64 keys
+needed to unlock them, and they can be obtained either by
+setting out to find them (they are all scattered throughout
+the complex) or by amassing enough points to buy them.
+
+To do this, you control a little pod who makes his way
+through the complex by 'solving' each screen. He is only able
+to jump in four directions, and release 'uppers' (more on
+that later), but special tiles and screens can alter his
+actions.
+
+The main game screen (or 'board')
+Select the little picture of the joystick on the menu and 
+press fire to get a look at this.
+
+Each 3D screen is made up of lots of little blocks. The most
+common are the simple Scoring blocks, which have a Specrum
+UDG shapes on them, and jumping onto them will give you a
+score relative to whichever shape is on the particular tile.
+(Full information on this can be accessed from in the game)
+There is also a 'Joker' tile, which has an empty rectangle
+upon it. This is worth no points, and cannot be 'altered' by
+DEC, TRACK or Uppers (see later).
+
+Scoring blocks can be jumped on in various sequences to gain
+bonus points. Experimentation is best here, but one such is
+the jumping on of identical-valued blocks in sequence.
+These multiple-block actions will also award the player with 
+Bonuses (denoted by the first two-digit number on the status
+line, underneath the picture of the joystick), which will be
+traded for Uppers upon the completion of a board.
+
+Uppers are denoted on the game screen by the number
+next to the upwards-pointing arrow. Tapping the fire button
+on a board will cause all the Scoring blocks to increment by
+one, up to a maximum of the block which scores 9. The joker
+is not affected. These Uppers come in very useful depending 
+on the type of board being played.
+
+Remember that score is a very important aspect to this game.
+Points can be used to buy keys, as well as lives and uppers,
+so it is advisable to obtain as many points as possible on
+screens where it is easy to do so.
+
+Another important block is the TARGET block, which has a 
+thick circle on it. This plays a part in the puzzles on many
+screens, and its function is specific to the type of screen -
+see the instructions for each screen type for details. Once
+you have landed on it, it will move to another position on
+the board.
+
+The filled in blocks with the split rectangles upon them are
+the exits to other boards. The edge of the board upon which
+the exit lies determines which direction it is an exit to,
+and to use it, simply jump off in that direction. So, to go
+'east', jump onto the exit on the right-hand edge of the
+board and jump right. If there are two or more exits on one
+edge of a board, they will all take the player to the same 
+screen, but remember that not all blocks on any one screen
+are accesible from any one exit.
+
+The blocks looking like holes are 'vertical' exits to other
+levels. There is one type which will take the player up a
+level, and another which allows travel down a level. They are
+subtley different - see the main program to have a look at
+them. Remember that some of these exits will be permanently
+locked until you have found or bought the keys needed to open
+them.
+
+Wormholes look like vertical exits, but act like
+'transporters', taking the player to another board, maybe on
+a different vertical level, and almost certainly not at the 
+same horizontal position. They are not random, however.
+
+The top-left of the screen shows a 3D representation of the
+exits available, with stalks showing the exits which can be
+used. This may change depending on the type of screen being
+played, for example if a certain amount of time must elapse
+before an exit opens. Trying to use an exit without it being
+open will result in loss of life, as will attempting to jump
+off a board at an unmarked exit, or jumping to where there
+isn't a block. The block to the right of the 'exit-map'
+simply shows the block which the pod is currently sitting on.
+
+You will also encounter blocks with question marks on, which
+will perform a random action, such as giving score or
+stripping the player of all current Bonuses. The action
+performed will be scrolled across the bottom of the screen
+when the block is jumped on.
+
+Lastly, Key blocks hold one of the 64 keys needed to complete
+the game. They are always in the same place throughout the
+complex, but may not always be easily accessible. Remember
+that keys can be bought as well as found. If you find a key,
+jumping on it will collect it and tell you what lock it is
+relevant to.
+
+As well as the specific actions of each type of board, there
+are also three variables to each board, shown by the text
+beneath the game screen. 
+
+DEC shows the Decrement Status. If this is ON, each time the
+pod jumps off a block, that block will decrease in point
+value by one, and it's UDG shape will change correspondingly.
+If the pod jumps off a block with a points value of 0 (i.e. a
+blank block), that block will disappear. However, it can be
+retrieved by using an upper, which will force it back to a
+value of 0. Jokers are not affected by DEC. If the Decrement 
+Status is off, point values are unaffected by the pod.
+
+TRACK shows the Tracking Status. If this is ON, when the pod
+jumps off a block, that block will sink, meaning that if the
+pod tries to jump on it again, a life will be lost. Jokers,
+exits and Bonus blocks are not affected. In fact, jumping 
+on the Bonus block will cause all sunken blocks to revert 
+back to their original position, making them accesible again.
+
+The LOCKED status details when and if the exits on the board
+will be unlocked, as shown by the 3D symbol in the top-left
+corner. 
+UNLOCKED - all exits are unlocked for as long as the pod
+           remains on the board.
+SCORELOCKED - a certain number of points need to be amassed
+                 before the exits will be opened. Usually this
+                 is cumulative - exits are opened one at a time,
+                 and the 'most useful' exits are normally the
+                 last to open.
+TIMELOCKED - a certain amount of time needs to pass before
+                     each exit is opened.
+
+On certain boards, if the pod remains for too long without
+exiting, a Seeker will be released, which will attempt to
+collide with the pod and destroy it, resulting in the loss of
+a life. However, points can be used to restrict the
+activities of the Seekers.
+
+
+
+
+However, the main obstacles to the pods progression are the
+different types of board it will come across. These are all
+described fully in the game, but here is a brief description
+of each one:
+
+FREEWAY - No restrictions.
+COUNTDOWN - Limited amount of time to exit board.
+REPULSION - After a certain amount of time, movement in each 
+               of the four directions will be prevented.
+STOPWATCH - Stopwatch counts down, when it reaches zero, you
+               must have either exited, be on the Target block,
+               or not have moved.
+JUMPY - The blocks around you will alternately sink. You can
+            only jump onto a block that is currently sunk.
+REACTION - Jumping off a block will cause it to move as far
+            as it can in the opposite direction. The distance
+            it moves will be the distance you jump.
+CHAIN - A chain of low blocks follows you around. Contact 
+            results in loss of a life.
+HI-LO - A minimum or maximum points total is shown, which you
+            must keep within before jumping on the Target block.
+            Failure means loss of life.
+NO RETURN - Jumping off a block means it will disappear
+               forever.
+INERTIA - You cannot stop moving unless you land on the
+           Target block.
+RATIONS - You are limited to landing on the Target block a
+                certain number of times.
+
+Usually, all these types of board are combined with the DEC,
+TRACK and LOCK status, to make the board as difficult as
+possible to complete.
+
+
+THE MENU SCREEN
+At the start of the game, and upon losing a life or exiting a
+board, you will be returned to the menu screen. This is to
+allow you to access information about the next board and/or
+the map as a whole, exchange points for uppers or extra
+lives, or quit the game. It should be pointed out here that
+losing all lives will not result in the game automatically
+restarting, instead this has to be done from the Menu Screen.
+This is to allow you to buy a life even if your current quota
+of lives is nil.
+
+The bottom of the screen tells you how much of the structure
+is open at the moment, and a 100% open structure means you
+can proceed to Level 21 to complete the game.
+
+The five main menu options are shown at the top-left of the
+screen, and can be selected by moving the joystick left and
+right to highlight the relevant option, and then tapping
+fire.
+
+PLAY BOARD (Joystick symbol)
+Selecting this will take you to the current board.
+
+HALT
+This is the Pause option, and can only be selected from 
+within the actual game, by holding down fire. 
+
+INSTRUCTION MANUAL
+Selecting this will present you with a list of things to call
+up information about (do this by moving up/down to select it,
+and press fire. Pressing fire again will return you to the
+main list). The NEXT BOARD option will tell you what type of
+board to expect next, the BOARD SYMBOLS tells you general
+information about all the different types of block, and the
+rest of the options are information about all the different
+type of board.
+Hold down fire at any time to return to the main Menu Screen.
+
+MAP
+Selecting this will give you a simple representation of the
+structure of the level you are on, as well as a cursor which
+can be moved about on the map. Depending on how well you
+are doing, you will be shown information about each board on
+the map, as determined by your Information Access Level. At
+the start of the game however, you will only be able to see
+the general structure of the level.  Hold down fire to return to
+the main Menu Screen.
+
+MAIN CONTROL
+Selecting this will give you control over just about
+everything. The letter and number on this icon (the small
+monitor and 'TEC' written below it) tells you your
+Information Access Level (starting at D8, which correlates to
+level 1, and ranging up to A1). Many options within this
+option will be disabled depending on your Access Level.
+
+The sub-options here are:- (hold down fire at any time to
+return to the Main Menu)
+
+- CONTROLS, allows you to select a control method, selecting
+                    keys will let you define the keys. 
+
+- TAPE, allows you to save/load the current game.
+
+- SOUND, lets you turn the sound on or off.
+
+- DATA, gives you information about the various aspects of
+            the board and map, the most important being the
+            current status of the locks, and which keys you have
+            collected.
+            Much of this may be restricted depending on your
+            Information Access Level.
+
+- XCHANGE, allows you to exchange points for various things.
+            To do this, simply select it and you will be told
+            if you have insufficent score or if your Access 
+            Level is too low to do so. The DATA option will
+            tell you how many points each key needs to be
+            exchanged for.
+
+- RESTART, restarts the whole game from scratch.
+
+HINTS/CHEATS
+Most of the CHAIN boards are time-locked with DEC and/or
+TRACK on, and it gets a bit dull avoiding the chain for 
+several minutes. So, decide which exit you want to use, and
+jump between it and all the blocks which surround it, thus
+DECing them out and preventing the chain from reaching you.
+Then, wait around for the exit to open!
+
+RELATED GAMES
+None.
+
+INLAY CARD TEXT
+
+SCORES
+Crash, Issue 52 (May 88), p85, 90% (CRASH SMASH) - 'Complex, 
+compelling and original'
+SU, May 88, p43, 8/10 - 'Well crucial strategy bouncy thingy,
+shame about the funny name' [SU with more typically intelligent
+comment]
+Your Sinclair, Issue 30 (Jun 88), p47, 9/10 (MEGAGAME) - 'A 
+cracker'
+
+
+URL
+ftp://ftp.nvg.unit.no/pub/sinclair/snaps/games/by-letter/s/
+sophistr.zip
+
+FACTS
+It's impossible to travel to Level 1, as for some reason it's
+corrupted. Any screen you go to has the wrong information
+about LOCK status, and any exits which do open do not exist.
+You can also often start the board on a non-existent block,
+and each board has a very 'random' feel to it, especially as
+there are many blocks you can't get to.  This is obviously not
+a problem, as any Keys which are supposed to be there can be
+bought with points, but it's an annoying defect in what is
+otherwise an excellent game.
+
+NOTES
+It is interesting that most of the magazines expressed
+surprise that such an original and entertaining game could
+come from the CRL stable, and presumably the public couldn't
+stem it's disbelief either, as the game was sold barely a
+year later to Crash to put on their covertape, suggesting
+that full-price sales were less than awe-inspiring.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

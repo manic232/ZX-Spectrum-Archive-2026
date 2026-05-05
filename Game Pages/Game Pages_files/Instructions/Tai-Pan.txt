@@ -1,0 +1,417 @@
+THE SPECTRUM GAME DATABASE
+
+TAI-PAN 
+
+PUBLISHER
+Ocean Software Limited 
+
+AUTHOR
+Sentient SW Ltd.
+
+YEAR
+1987
+
+CATEGORY
+
+
+CONTROLS
+Joystick: 				Keyboard: 	
+Kempston, Sinclair, Cursor.
+					Q     -UP
+                 UP                     Z     -DOWN 
+                /|\                     I     -LEFT 
+                 |                      P     -RIGHT 
+      LEFT  <----+----> RIGHT           N     -FIRE 
+                 |                      SPACE -TOGGLE ICONS 
+                \|/                   
+               DOWN                   
+
+FIRE - FIRE
+SPACE - TOGGLE ICONS
+
+SCORES RECEIVED
+93% (CRASH #43, August 1987)
+
+
+INSTRUCTIONS
+
+STORY
+-----
+The year is 1841 . . . The traders of Britain, Europe and America 
+are sailing the waters of east in search of their fortunes.
+
+Twenty years earlier the Emperor of China had decreed that the
+purchase of China's goods could only be paid with silver bullion. 
+The demand for Tea, Silk and Jade was causing a massive balance of 
+trade deficit almost bankrupting the Trading Nations. Then a lone 
+ship "The Vagrant Star" under the construction of The East India 
+Company sailed to Canton with a cargo of illicit contraband. The 
+Chinese traders bought the cargo and paid for it in silver bullion. 
+A way had been found to reduce the deficit. Over the twenty years 
+the trade in contraband grew so much that the revenue from its sale 
+outstripped the need for silver bullion to buy legitimate goods.
+
+Trade was once more balanced. The independent traders began to amass
+great fortunes and fleets of ships and the leader formed their own
+trading companies and began to monopolise the trade. The chinese 
+named these men Tai-Pan (Supreme Leaders) and the greates of these 
+was THE TAI-PAN.
+
+The waters of the China seas were hostile, with both weather and
+pirates taking their toll of the traders ship and profits. The 
+weather held its own dangers; at certain times of the year TAI-FUNG 
+(Supreme Winds), known to the traders as Typhoons became terror 
+incarnate. There was a little or no escape form the raging winds, 
+the driving rain and waves in excess of hundred feet. Ships were 
+thrown off course, battered to pieces on the merciless, hazardous 
+coastline or just swept under, never to be seen again.
+
+As trade between the many ports in the China seas was increasing all
+the time, the merchants used the natives and their towns as safe
+havens from the terrible storms and scondary trading posts between
+Europe and the Far East . . .
+
+Now the stage is set for you to make your fortune and become the
+Merchant Prince . . . THE TAI-PAN.
+
+
+THE GAME
+--------
+You enter the game penniless, no money, no ships, no assets. Your
+ambition is to become THE TAI-PAN. You begin in the town of 
+Guangzhou and must try to find someone to lend you enough money to 
+buy and equip a ship and still leave you enough to get a crew and 
+buy goods to trade. The money lent to you must be repaid within six 
+months or your benefactor will lose face and you will lose your 
+head!
+
+Your assets an status are displayed in the message window beneath 
+the icons.
+
+This area is also reserved for displaying the current item in your
+possession.
+
+SHIP
+You have one follower, your son, he will fetch and carry things for
+you but you must do everything else. You must wander the town to try
+to find a friendly benefactor, havin raised a lon of $ 300,000 you
+must go to the bank and buy a ship. You will be given a choice of
+three :
+
+LORCHA - $ 150,000 - a smugglers ship, (fast), cargo space = 10 
+units, 2 cannons, 6 crew
+
+CLIPPER - $ 250,000 - Standard traders ship, (moderate), cargo 
+space = 30 units, 4 cannons, 12 crew
+
+FRIGGATE - $ 400,000 - Gunship, used by the Navy and the Pirates,
+(slow), cargo space = 30 units, 8 cannons, 24 crew members
+
+The way you wish to fulfil your ambitions should determine your 
+choice of ship. If you wish to smuggle contraband, then you should 
+choose the Lorcha.
+
+If you wish to trade peacefully with the Law (appart from the
+indiscreption), you should choose the Clipper. If you wish to 
+become a Privateer, then you should choose the Friggate. You can 
+still pirate in any of the ships but because of the lack of fire 
+power in the two smaller ships, it is advisable that you use the 
+Friggate. Conversely you can use the Friggate for trading or the 
+Clipper for smuggling but their lack of speed makes them unsuitable 
+for these tasks.
+
+CREW
+Once you have purchased your ship, you must find a crew. These can
+either be emploued (found in the Inns) or if you wish to conserve 
+your money, they may be press-ganged. Remember, paid crew is liable 
+to be more loyal to you than a forced crew.
+
+To be successful at press-ganging it is suggested you only attempt 
+it on drunks and exhausted men, with a truncheon. If you attempt it 
+on a fit man he is liable to fight back or call the Bannermen.
+
+If you are arrested by the Bannermen you wil have to spend 30 days 
+in jail and if you are caught three times you will be beheaded.
+
+When you are successful in the press-ganging, your follower(s), your
+son at the beginning, will take them to the ship. If you do not 
+have a follower with you then you will be unable to press-gang as 
+carrying the body will prove impossible alone. Once you have enough 
+crew to sail your ship, you must buy stores, arms and goods to 
+trade with. These can be bought at the differing locations in the 
+town.
+
+GAMBLING 
+You may find a gambling den (in certain buildings) and be invited to
+take part. The game is based on a reace between the chinese mythical
+beings represented by their years. These are: Deer, Horse, Fish, 
+Cow, Sheep and Dragon. The tiles represent the different creatures 
+and odds are given on each of the creatures gaining enough of the 
+tiles to win the race.
+
+When you enter the Den you will be asked if you wish to play; if you
+agree, then you will be asked to choose which creatures you wish to
+back (the odds are displayed beneath each tile), moving the joystick
+left or right will highlight the options and pressing will make you
+choice. You will then be asked the amount of stake you wish to 
+place. A counter will start at $ 10 up to $ 1000. Pressing fire 
+will stake the bet and also start the race.
+
+The tiles at the top of the screen will rotate and stop randomly, 
+each time they stop the tile shown will be added to the pile of that
+creatures tile.
+
+Then one of the piles reaches 10 tiles they are the winner. If you
+have won you will be credited with your winnings and asked if you 
+want to continue playing. If you say yes you will be able to choose 
+again, if you say no, you will be placed outside the building.
+
+SMUGGLERS
+You might be approached by smugglers within the towns, or you could
+discover a smugglers den. They might try to sell you contraband, 
+this is very dangerous to trade in but very profitable. If the 
+police catch you with contraband you will be imprisoned and your 
+goods forefitted. The smugglers price is fixed for buying and 
+selling when in town but marked changes will vary the price at each 
+port visited.
+
+CARGO
+Certain items you have to buy will also take up cargo space. 1 unit 
+of cargo space = 1 unit of food (20 man weeks supply, you cannot 
+split the units) 1 unit of cargo space = 1 unit of cannon shots (12 
+shots)
+
+Once you have your supplies and goods you must find your ship and 
+set sail.
+
+When on board you will be able to choose your course, assuming you
+have bought the equipment and maps, to travel to the myriad of ports
+available to you to trade.
+
+SHIPPING ROUTES
+When choosing your shipping routes you should take note of the time 
+of year (the weather) and the safety of certain routes. If you 
+follow the safest routes there is little chance of meeting pirates 
+but the less safe the route the more chance of being attacked.
+
+The safer routes are longer and these routes only allow you to trade
+along the coasts. To trade further afield you must accept the 
+possible consequences of sailing across the seas. When using the 
+map, as long as your ship follows a shipping route, time will be 
+represented as passing quicker (as shown on the calendar). This is 
+to avoid long stretches of time when little is happening. If the 
+wind direction changes or the weather alters or ship enters a play 
+area, you will be returned to real time.
+
+To start sailing, press space and select RAISE/LOWER SAILS icon, 
+raise the sail and that's it! To speed up or slow your ship down 
+you must select the sails icon by pressing fire, then moving your 
+joystick up/ down will raise or lower sails as necessary. This will 
+affect you travel time when using the map.
+
+To steer your ship you must be in steering mode (Ships weel icon, 
+this is the default). When in this mode moving left or right will 
+make the ship turn.
+
+Remember these are sailing ships and therfore to gain their maximum
+speed they must have the wind at their stern.
+
+ISLANDS
+You will be able to land on an Island when at sea. (These will not 
+be shown on the maps but will show up on the screen when in plan 
+mode). Sail into the islands and deposit goods which may not be 
+wise to carry (i.e.  contraband to one of the ports that will not 
+tolerate it), or arrange to meet smuggler there to arrange larger 
+deals.
+
+FOOD SUPPLIES
+You must feed your crew throughout the journey, this is done by
+selecting the "feed" icon. When you will be presented with a menu,
+telling you your current food stocks and your crew numbers. You will
+be asked to choose the level of rations you wish to issue. (Remember
+to maintain full stamina levels your crew should be fully fed; If 
+you do not feed your crew, there is a possibility that they may 
+mutiny). If you have underestimated your travelling time, it may be 
+necessary to give reduced rations towards the end of a journey, but 
+this should be done sparingly. Food is not transferable from one 
+journey.
+
+COMBAT
+If you choose to become a Privateer you will be able to sail the 
+seas and pick and choose the ships you wish to attack, which is 
+achieved by selecting the combat icon. Then when some other ship is 
+near (in sight) you can press fire. This will give you control of 
+your cannons as you sail your ship into an attack position. Then by 
+pressing fire, the screen will clear and you will be shown a 
+display depicting your cannons and the enemy ship on the horizon, 
+by moving left or right you will be able to choose the cannon you 
+wish to fire, by moving the joystick up and down you will be able 
+to alter the evelation of the cannon, pressing fire to shoot from 
+the nominated cannon. As this shot travels you will be able to 
+prepare another cannon (if you have more than 1 on that side) and 
+will be able to fire a broadside of shot using this method.
+
+If the ship moves out of range, pressing space will drop you into 
+plan mode to allow you to manoeuvre to continue the attack. When 
+you have disabled the vessel or it has stopped of its own accord 
+you'll be able to board, (remember if you wish to capture the ship 
+intact to increase your assets you should be careful with your 
+shooting).
+
+BOARDING
+Boarding is accomplished by sailing alone-side, when you are close
+enough you will be place on the boarding screen and the object is to
+secure the ship, by killin the Captain. You will represent each 
+member of your crew, as you lose a life you will lose one of your 
+crew members, lose too many and you will be unable to sail your 
+own ship. Each crew of the opposing ship is a representative of 
+that ships total, therefore the less crew you kill the more chance 
+you have of leaving a crew to man the ship for you (once you have 
+captured the ship, if you spare their lives they will be loyal to 
+you).
+
+If you capture the ship intact you will be able to command it to go 
+to port on your behalf and its assets and worth become your 
+property. If you have severely damaged it or killed to many crew 
+members for it to be sailed, then you will be able to offload the 
+cargo, and anything else you can carry onto your ship. If U are 
+being defeated on the enemy ship you will be able to retreat to 
+your own ship and by selecting the QUIT icon (represented by a 
+ship) you will abandon the attack.
+
+When you are fighting you will have a choice of 2 weapons (assuming
+you have purchased muskets and shot). The sword (which cannot be 
+lost) is used in hand to hand fighting and the musket for long 
+range shots (the amount of musket shot you can use is dependant of 
+the amount you bought when in port). As you fight you will lose 
+stamina (represented by the bar on the screen), when you run out of 
+stamina your man dies. If you have not fed your men poperly this 
+will show on their stamina rating.
+
+NOTE
+When you capture a ship and send it to port, there is a possibility
+that the ship may be lost in bad weather or it might be attacked by
+another ship, this is a gamble you will have to accept if you wish 
+to increase your assets.
+
+There is a possibility that you may be attacked by other ships, they
+could shoot at you and also if they have a faster ship they could 
+pull along side and attempt to board you. When they attempt to 
+board you, you must endeavour to kill as many of the enemy as 
+possible, if you manage to eliminate a major part of the crew then 
+you will have repelled the boarders and they will leave. If they 
+manage to over-run your ship you will have lost. If this is your 
+only ship the game will end, if you have more than one ship a 
+random element "JOSS" (luck) will decide whether you survive.
+
+PORT
+To enter port after a voyage you will see Harbours on the sea 
+screen, by sailing into these harbours you will be taken into port. 
+Once in Port you must find the warehouse and bank to trade the 
+goods and ships you have acquired on your voyage. Then you must 
+re-stock and set sail. If you have more than one ship in port when 
+you return to Macau, you will be able to choose the ship you wish 
+to sail next and then send the ohter ships to sea.
+
+They will trade in legitimate cargo and their purchases and sales 
+will be debited and credited to your account as they trade.
+
+Remember even if you do not send the ships to sea they will continue
+to cost your wages and food bills.
+
+When the loan is due, you will return to Guangzhou where you must 
+repay it all or lose your head. Now with your own assets, set sail 
+again and endeavour to your increase your wealth and status until 
+you reach the pinnacle of your ambition. . . to become THE TAI-PAN.
+
+
+PLAYING HINTS
+-------------
+Tai-Pan can be played in a variety of ways, depending on your 
+wishes. It can be played as a straight game, by concentrating on 
+the trading element and avoiding all other contact. It can be 
+played as an arcade adventure with all the relevant puzzle solving 
+or it can also be operated virtually as a shoot-em-up, by buying a 
+Clipper, press-ganging a crew and pirating the seas.
+
+Tai-Pan is best enjoyed as a mixture of all these elements. When in
+port at the start of the game we suggest that you purchase the
+sextant, compass, maps and telescope, otherwise various options will
+not be open to you and sailing will take a long period of time.
+
+When partaking of the ports delights it may be worth while 
+remembering that if you become drunk or exhausted you may also be 
+liable to be press-ganged and end the game.
+
+When you buy your first ship we suggest you buy the Lorcha. If you
+attempt to trade with the Clipper you will be unable to buy stocks 
+and the only way to amass stores will be to pirate other ships.
+
+STATUS
+When you end the game, either by choice or by getting killed, you 
+will be informed of your final status, which is determined by the 
+amount of cash and assets in your possession at that time.
+
+In ascending order these are:
+Slave - Drunk - Bankrupt- Peasant - Cabin Boy - Oarsman
+Rigger ($ 100,000) - Deckhand ($ 150,000) - Lookout ($ 200,000) -
+Steersman ($ 300,000) - Cadet ($ 350,000) - 2nd Mate ($ 400,000) -
+1 st Mate ($ 500,000) 	       - Captain($ 600,000) -
+Shipowner ($ 750,000) 	       - Trader ($ 1,000.000) - 
+Merchant($ 2,000.000) 	       - Master Merchant ($ 4,000.000) - 
+Merchant Prince ($ 5,000.000)  - TAI-PAN ($6,000.000+)
+
+
+TOWN SCENE ICONS
+
+BUY               - Money bag down with down arrow
+SELL              - Money bag up with down arrow
+PICK UP/DROP      - Hand with arrow
+SAVE              - Tape with down arrow
+LOAD              - Tape with up arrow
+
+
+SAILING SCENE ICONS
+
+MAP               - A map
+COMBAT *          - A cannon
+RAISE/LOWER SAILS - A ship with sail
+FEED CREW         - Big Chicken
+TELESCOPE         - Sort of pipeline in 3D
+WIND DIRECTION    - Text "WIND" and an arrow
+STEER *           - A steering wheel
+
+* combat/steer icons alters each other
+
+
+COMBAT SCENE ICONS
+
+SWORD             - A sword
+MUSKET            - A musket
+ABANDON BATTLE    - Big ship with cannon at ocean next to another.
+
+
+TAI-PAN
+This software product has been carefully developed and manufactured 
+to the highest quality standards. Please read carefully the 
+instructions for loading, IF FOR ANY REASON YOU HAVE DIFFICULTY IN 
+RUNNING THE PROGRAM, AND BELIEVE THAT THE PRODUCT IS DEFECTIVE, 
+PLEASE RETURN IT DIRECT TO:  MR. YATES, OCEAN SOFTWARE LIMITED, 
+6 CENTRAL STREET, MANCHESTER M2 5NS.
+
+Our quality control department will test the product and supply an
+immediate replacement if we find a fault. If we cannot find a fault
+the product will be returned to you at no charge. Please note that
+this does not affect your statutory rights.
+
+*********
+The instructions are taken from "The Project 64" page (yep, that's 
+c64 site, sometimes these people can be usefull ;-) 
+'Speccy adaptation' is done by Aleksandar Lukic, alexlux@eunet.yu . 
+
+
+The Project 64 etext of the ~TAI-PAN manual~, converted to etext by
+Mikkel Hastrup <rkufm5@algonet.se>.
+
+TAIPAN10.TXT, May 1997, etext #231#
+*********

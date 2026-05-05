@@ -1,0 +1,140 @@
+THE SPECTRUM GAMES DATABASE
+
+CYBERUN
+
+PUBLISHER
+Ultimate Play The Game (ACG)
+
+AUTHORS
+US Gold in House Team
+
+YEAR OF RELEASE
+May 1986
+
+
+DESCRIPTION
+Cyberun is a "Thrust" type game in as much as you control a
+spacecraft of one form or another and have to explore a planet's
+surface and also explore beneath it.  The object of the game is
+to construct your spacecraft and mine ores.
+
+INSTRUCTIONS
+Find the correct pieces of your craft that are littered around
+the game area and connect them to your spacecraft.
+
+CONTROLS
+
+CYBERUN KEYBOARD CONTROLS
+
+LEFT Your Spaceship will Move Left using the Z, C, B and M keys.
+
+RIGHT Your Spaceship will Move Right using the X, V N and SYMBOL
+SHIFT keys.
+
+THRUST UP Your Spaceship will be Thrusted Up using A, S, D, F row
+etc.
+
+LASER/PHOTON TORPEDO You can use your Laser/Photon torpedo using
+Q, W, E, R, T row etc.
+
+PLASMA RAY You can use your Plasma Ray using the 1-0 keys.
+
+PAUSE The Whole game can be continuously paused using the CAPS
+SHIFT or BREAK SPACE keys.
+
+
+CHEATS
+
+
+SEQUELS/PREQUELS
+
+
+INLAY CARD TEXT
+
+CYBERUN
+
+In the dark reaches of the Amobeus Nebula stands the isolated
+series of stars and planets, the Beta Gamma System.  But to those
+who have taken the Space, the Zebarema.  A tightly bound cluster
+of planets and dark stars, totally unique in the Whole Universe,
+bound together by a lattice of Plasmic Energy, extending between
+one and all Planets in the System.  Each planet is composed of
+Anti-element Cybertron, it is the only known source in the whole
+universe and such is its value that many such civilisations have
+devoted their entire resources to prying off one of the smaller
+outer planets from the main cluster, in a futile bid to gain
+access to the untold wealth it would bring, once free from the 
+Antiplasmic Lattice, and becomes exposed to positive matter
+space, it crystalises to form Cybernite, the hardest substance
+in the known universe, resistant to all forms of heat and energy,
+allowing the weilders to mine the greatest form of energy ever,
+the stars. For who can control the Zebarema, can control the
+Galaxy.  But the Beta Gamma System "Zebarema" is reluctant to
+give up its Cybernite Crystals and exerts an almost unbeatable
+magnetronic pull on all matter trying to escape its protective
+envelope.
+
+Thus the undertaking of construction of an enormous carrier of
+The precious Cargo, the Crystal Ship.  Many years and many lives
+have been spent on this vast Space Sailer and the time draws
+near, for the ship'a destined function, for only the Superlative
+Power of one such vessel can resist the magnetronic pull exerted
+by the system on any leaving body.  Due to its immense size, the
+ship has been constructed in stages which have already been
+shipped out to the Zebarema System.  These propulsion units are
+of little use elsewhere in the Galaxy and have been constructed
+solely for use as escape Engines and Auxilliaries which obey the
+strange physical laws particular to the Beta Gamma System.
+
+The command module is ready and awaits only the pre-launch
+computer checks to secure Lift Off.  The Crystal Ship has been
+equipped with military lasers, as the Legendary Hourney is sure
+to be opposed by the murdering barbaric inhabitants of nearby
+Galaxies, perhaps they may have constructed a Space Cruiser to
+utilise the mining and thrus equipment already in the Zebarema
+System.
+
+Who could have forseen their production of the Mark III Crystal
+Ship and its earlier unscheduled arrival on the Cybertron Planet? 
+And so begins the greatest journey of all time, the race through
+Space for command of the Universe, THE CYBERUN...
+
+
+SCORES/REVIEWS
+Crash, issue 28 (May 1986), page 26, 90 percent.
+
+SNAPSHOTS/URLS
+ftp.dcc.uchile.cl/pub/OS/sinclair/snapshots/c/cyberun.zip
+
+FACTS ABOUT THE GAME
+The only post "Knightlore" game that wasn't in their
+ever-so-poular and over used, isometric 3D format.
+
+
+NOTES
+For some (sane) reason, Cyberun DOESN'T feature a silly list of
+daft and irrelevantly LONG list of all the game's features - Phew!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

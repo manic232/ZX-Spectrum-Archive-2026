@@ -1,0 +1,181 @@
+Red Moon
+from Level 9 Computing
+
+A Magical adventure game with 200 pictures on most micros
+(check the gold label):
+
+  Level 9 Computing specialise in big adventures with over 200
+locations, detailed scenery and interesting storylines. Thins means
+more enjoyment for you and we'll send a free cluesheet if you get
+stuck.
+
+  All adventures have SAVE and RESTORE commands for the state of play
+and graphic games have PICTURES and WORDS to turn graphics on and off.
+This game has graphics on most micros, but don't worry if the version
+for your micro is pure-text. The puzzles are the same and there is
+more room for longer messages.
+
+  The game, Red Moon, re-enacts a tale from the time where Magik still
+worked and when mythical monsters guarded fabulous treasure.
+  You have the use of many weapons and a dozen different magical
+spells to help you rescue the Red Moon Crystal, only source of Magik
+in the land.
+  For more about the game, read the other side of this cover sheet.
+
+Here's what reviewers hae said about Level 9.
+"the ultimate adventure house"
+             - Computing with the Amstrad
+"The appearance of a new program from Level 9 is a flag day for all
+aspiring aventurers"
+             - Popular Computing Weekly
+"You really can't go wrong with any Level 9 game as they are all
+brilliant"
+             - Crash
+
+Other Games
+"""""""""""
+Red Moon is Level 9's third true graphical adventure, following
+Emerald Isle and Erik the Viking. It has pictures on most computers,
+even the BBC micro. Out other games are basically pure-text, sometimes
+with pictures on larger micros. The full range is (June 85):
+ 1) Colossal Adventure   "Middle Earth" Trilogy
+ 2) Adventure Quest
+ 3) Dungeon Adventure
+ 4) Snowball             "Silicon Dream" Trilogy
+ 5) Return to Eden
+ 6) The Worm in Paradise (designed by Pete Austin and now being coded)
+ 7) Lords of Time
+10) Erik the Viking      (with Terry Jones / Mosaic Publishing)
+11) Emerald Isle
+12) Red Moon
+
+                        RED MOON
+                        """"""""
+  The old storyteller shuffles to her place in the market, noting with
+satisfaction that a crowd has already gathered. She sits, takes a sip
+from the leather flask at her side, and begins.
+  "Once upon a time, when the moon was still red, there lived a
+magician. He, or she, for you can never be quite sure when sorcery is
+involved, was not the best magician in the world. But it was alread
+the age of failing powers when simple spells worked best. This is the
+tale of how that magician kept Magik alive.
+  "When the World was new, gods walked upon the Earth and even animals
+could talk. Magicians were powerful then. Death, or "time", as some
+call it, had not been invented.
+  "Magik needs the moon as plants need the sun, and people need both,
+for thought is magical and all flesh is grass. Then, in the first days
+of Earth, the moon was not dim as now but glowed with a cold crimson
+light: the colour of Magik and as bright as the sun. There was so much
+power that spells were easy as blinking, and so it went for a thousand
+years.
+  "Overhead, the hot sun and the cold moon circled through the skies,
+each throwing its own kind of light on the World. But, every so often,
+their paths crossed.
+  "Even today, whenever the moon blocks the sun, their fighting hurls
+dragons into space, and their early battles were a thousand times
+fiercer. Anyway, after each battle the Moon was weaker and paler -
+until now it's scarred and charred like grey and white ash. And its
+moonlight is white with little power.
+  "Magik faded with the moon. First to go were the gods, and no one
+minded that much. You had to watch your language very carefully, I'm
+told, when they were around, and gods were very insistent indeed about
+being worshipped properly. Then the mythical beasts, which once
+ventured abroad by day, became restricted to the night when the moon
+was stronger. Now they are only seen at full moon.
+  "Well, the conservationists made a fuss, of course, but no one
+listened. Then, one day at midday, all the cloud castles of all the
+Magicians fell out of the sky: their spells had failed. And because
+there was no magical power left to replay events, their inhabitants
+could not be saved.
+  "When the moon rose that evening, its weak light restoring Magik to
+the World, the surviving Magicians met to decide their future. I'll
+tell the story of that gathering another day. They found that Magik of
+the level needed to revive the moon was no longer possible. Even a
+brave attempt by Wavyhill and The Warlock to use the power of the last
+god on Earth could not succeed, but that's for another day as well.
+  "What could be done, though not easily, was to build a new moon. And
+so the 'Red Moon Crystal' was made as a new source of Magik. While
+much, much too weak to illuminate the whole World, this crystal was
+mounted in the Moon Tower in Baskalos to shine out over the kingdom.
+  "So Baskalos remained as island of Magik and enlightened
+civilisation. And so it is still, especially under the rule of our
+noble King, even now when the moon is grey and the Dark Ages have
+overtaken the Earth.
+  "But, to return to my story, Baskalos nearly fell to barbarism with
+the rest, for the moon crystal was stolen. My story today is of the
+Magician who recovered it and saved out country.
+  "Now, if you'll each put a coin in the hat which my assistant is
+carrying among you, I'll tell you the tale ..."
+
+Magik
+"""""
+To cast a spell, enter: CAST  spell-name  optional-target
+For example:            CAST  ESCAPE  or  CAST SNOOP NORTH
+
+Spell        Focus        Action
+"""""        """""        """"""
+BOUNCE       BLACK BALL   Reverse fall
+ESCAPE       DULCIMER     Teleport to/from start
+EXTINGUISH   FAN          Put out fire
+FIND         LAMP         Locate object
+MAGIC        MEDALLION    Is object magic?
+RESTORE      none         Restoe
+SAVE         none         Save
+SHIELD       CLOAK        Ward off attacks for a while
+SNOOP        PEARL        Look into nearby room
+STRONG       SPICES       Become stronger for a while
+TREASURE     GLOVES       Is object valuble?
+ZAP          DAGGER       Attack enemy magically
+
+Playing the game
+""""""""""""""""
+  The adventure asks "What now?" (or something similar) whenever it
+expects you to type another command. Simply type a short English
+phrase, followed by ENTER or RETURN, to tell it what you want to do
+next.
+  If the game stops dead for no apparant reason, then it is probably
+printing a very long message and has paused to let you read the first
+part of the text before it scrolls off the top of the screen. When
+you've read it, press SHIFT or RETURN and the game will continue.
+  The game understands hundreds of words, many of which can be
+abbreviated (e.g. NORTH to N and NORTHEAST to NE). Here are some
+useful words known by Level 9 adventures - most will work in this
+game: TAKE, GET, WEAR, DROP, the 8 main compass directions, IN, OUT,
+UP, DOWN, LEFT, RIGHT, CLIMB, LOOK, LISTEN, LOOK AT, EXAMINE, FILL,
+OPEN, CLOSE, LIGHT, SCORE, QUIT, TAKE or DROP EVERYTHING, SAVE and
+RESTORE (see above), AGAIN (repeat previous command), INVENTORY (list
+what is carried, and WORDS and PICTURES (turn pictures off/on in a
+graphics game).
+  Level 9 games use many words in descriptions that they will not
+understand in your sentences. For example, you might read
+"Black clouds hide the sun, plunging the world into twilight."
+However, if the game doesn't understand the words SUN or CLOUDS in
+your input, you can assume that they are not important for completing
+the adventure, but are included only to enhance your mental picture
+of the scene.
+  The games try to be as helpful as possible. For example, if you are
+"deep in a narrow gully between walls of jagged rock" and try typing
+"TAKE ROCK", the game might reply "You can't see a space rocket". This
+looks odd at first sight, but it tells you that the game does not know
+the word ROCK (presumably it's just scenery), and also that there is a
+rocket elsewhere which does matter in the game and whose name can be
+abbreviated to save typing. Much better than responding "You can't see
+it"!
+  In general, the game should understand if you keep commands simple.
+If the program doesn't know what you mean then you are probably trying
+something which is not important in the story. It can be worth
+rephrasing commands, though, and with a little practise you'll
+discover the best words to use. Good adventuring!
+
+Combat
+""""""
+You may need to fight some of the creatures you find in this
+adventure. If you do attack something, consider carrying a weapon and
+wearing armour first. Magik may help.
+
+Scoring
+"""""""
+The main aim of the game is to recover the Red Moon Crystal, and you
+score points for making progress towards this goal. In addition, you
+score 50 points for collecting each of 9 treasures which you should
+find along the way. Naturally, you should avoid getting killed.

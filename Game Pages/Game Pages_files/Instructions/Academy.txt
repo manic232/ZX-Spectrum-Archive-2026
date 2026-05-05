@@ -1,0 +1,512 @@
+THE SPECTRUM GAMES DATABASE
+
+ACADEMY
+
+PUBLISHER
+CRL
+
+AUTHOR
+Pete Cooke
+
+YEAR
+1987
+
+CATEGORY
+Arcade Strategy
+
+CONTROLS
+Keyboard, Kempston
+
+KEYS: Redefinable, or:
+
+Left              -  O             (or joystick).
+Right             -  P             (or joystick).
+Accelerate        -  S             (or joystick).
+Decelerate        -  X             (or joystick).
+Fire Lasers       -  N/Space       (or joystick).
+Missile           -  M             Launch missile if carried.
+Amm               -  A             Launch Anti missile missile
+                                   if carried.
+Flare             -  F             Fire Flare if carried.
+Bomb              -  B             Drop delay bomb if carried.
+View              -  V             Switch view-forward/left/
+                                   right/rear.
+Height+           -  H             Take skimmer up.
+Height-           -  G             Take skimmer down.
+Jump              -  J             Allows skimmer to use jump
+                                   pads.
+Land              -  L             Return  to Ground  Mode (the
+                                   skimmer must be on the ground
+                                   to land).
+Infra-red         -  I             If carried.
+Status Report     -  R             As in ground mode.
+
+
+INSTRUCTIONS
+Academy (Tau Ceti II)
+
+
+Written by Pete Cooke
+
+1.   Loading the program
+
+	Spectrum 48k     	Type LOAD " " Academy will load and run 
+			automatically.
+
+	Spectrum 128k    	Select 48k mode from the initial menu and
+	and Spectrum +2  	type LOAD (J key) " " and Enter.
+
+After loading you will see the title page appear on the screen with the message 
+'Press Fire or Joystick Button to continue'.
+
+If you have a Kempston Joystick the fire button will select this as the control 
+method.  Otherwise press N or Space to select the fire key.
+(Rubber Keyed 48k owners will probably prefer N).
+
+You will now see the Main Menu for Academy appear with seven options:-
+
+		Accept Mission.
+		Select a Mission.
+		Select a Skimmer.
+		Progress Report.
+		Tape Menu.
+		Enter a New Cadet.
+		View/Redefine Keys.
+
+To the right of the menu is a small arrow. The keys 0, P, S and X (or joystick) 
+will move this about the screen. To make a choice simply point the arrow to the 
+choice (it will be shown in inverse) and press FIRE.
+
+
+
+2.  About the Academy
+
+After an incident on 61 Cygnus in 2197 when a rookie pilot selected the wrong 
+gear when docking with the main central reactor and reduced half the planet to 
+molten lava, Gal-Corp decided that a special training facility was needed to 
+provide an elite corps of pilots for the advanced military skimmers used in 
+colonisation and reconnaisance work.
+
+The Galcorp Academy for Advanced Skimmer Pilots (GASP) was founded in 2213 
+to meet this requirement. With an intake of over a hundred would be skimmer 
+pilots a year, only a few meet the exacting requirement of flying and combat 
+skills.
+
+In order to graduate from the Academy cadets must complete 20 missions, grouped 
+in five levels of four, successfully.
+
+
+
+3.  A run through the menu's
+
+The first thing to do after loading is to enter your name. Move the pointer to 
+'Enter a New Cadet' and press FIRE. The screen will clear to the New Cadet sub 
+menu. Type on your name followed by ENTER and your date of birth. When the 
+program asks 'Restart Game from Level I' press 'Y'. 'FIRE' returns you to the 
+main menu.
+
+Having entered your name the next task is to choose one of the four level I 
+missions. Move the pointer to 'Select a Mission' and press fire. The screen will 
+clear to the 'Select a Mission' sub menu.
+
+A list of four missions will be shown:-
+
+	I 	If it moves . . .
+	II    	Red Dawn.
+	III   	Meltdown.
+	IV   	Softly Softly.
+
+The mission selected at present is marked with a tick. To select another mission 
+simply move the pointer to it and press 'FIRE'.
+
+Below the mission list is a set of three options:-
+
+	Info on this mission.
+	Load in Next Level.
+	Selection Complete.
+
+'Info on this mission' will explain the task required and ships and buildings 
+that you are likely to meet on a mission (System support means repair and 
+refuelling centres). You can also call up information on theplanetary system 
+where the mission is set to find out about conditions onthe surface. The program 
+will also recommend a suitable skimmer for the mission.
+
+'Load in Next Level' will be marked with a cross and cannot be selected until 
+you have an average score of over 90% on the first four missions and are ready 
+to load in another set of four.
+
+'Selection Complete' returns you to the Main Menu.
+
+Select the first mission ('If it moves . . .') and call up the information on 
+the mission and system. When you have finished move the pointer to 'Selection 
+Complete' and press FIRE to return to the Main Menu.
+
+Having chosen a mission you will need to choose a skimmer for that mission. Move 
+the pointer to 'Select a Skimmer, and press FIRE. The screen will clear to the 
+'Skimmer' sub menu.
+
+A list of six skimmers will be shown at the top of the screen:-
+
+	GCS Lenin.
+	GCS Lincoln.
+	GCS Wilson.
+	unused.
+	unused.
+	unused.
+
+The last three skimmers are not defined and cannot be selected yet (see 'Design 
+and Skimmer' below). The skimmer selected at present will be marked with a tick. 
+To select another skimmer move the pointer to it and press FIRE.
+
+Below the list of skimmers are four options:-
+
+	Info on this Skimmer.
+	View Panel.
+	Design a New Skimmer.
+	Selection Complete.
+
+'Info on this Skimmer' gives a tist of the equipment carried on the Skimmer (See 
+Section 6 for more information on this).
+
+'View Panel' allows you to see the panel layout. Press FIRE to return to the 
+menu.
+
+'Design Skimmer' allows you to put together a customised craft for a particular 
+mission or group of missions.
+
+'Selection Complete' will return you to the Main Menu.
+
+The recommended skimmer for 'If it Moves . . .' is GCS Lenin so select this 
+skimmer and move the pointer to 'Selection Complete' to return to the Main Menu.
+
+Having selected a mission and a ship you are ready to try a mission. Move the 
+pointer to 'Accept Mission' and press FIRE.
+
+
+
+4.  On to a Mission
+
+The screen will clear to show the Skimmer's instrument panel. On the top line is 
+a 'Status bar' which will show the ships state (Docked), the mission score 
+(000%) and the mission time (00:00:00). Below this is the Viewscreen, various 
+gauges and dials and a small blue rectangle – the computer window. The message 
+'Skimmer Ready. Type help or some other command' will appear followed by an 
+input prompt.
+
+You are now in one of the two game modes, called ground mode, and can 
+communucate with the skimmer's computer by typing in one of a list of commands:-
+
+	HELP              	Lists all commands available.
+	SIGHTS ON         	Turns on skimmer's sights.
+	SIGHTS OFF 	Turns off skimmer's sights.
+	PAUSE             	Freezes the clock ('FIRE' continues).
+	WAIT              	Advances clock by five minutes.
+	EQUIP             	If docked allows you to refuel and repair the 	
+			skimmer.
+	STATUS            	Shows equipment status (whether damaged or not).
+	CODES             	Allows you to manipulate any code pieces found in 
+			a mission.
+	LOOK              	If docked with building gives information on same.
+	DEAF              	Allows practice on D.E.A.F. unit.
+	QUIT              	Abandons the mission in progress and updates 	
+			scores.
+	LAUNCH            	Sends the skimmer out onto the planets surface.
+
+
+
+5. Flight mode
+
+Having launched, the skimmer is controlled by single key/joystick presses. The 
+default keys are as follows, but may be redefined from the main menu :-
+
+	Left              	0	(or joystick).
+	Right             	P 	(or joystick).
+	Accelerate       	S 	(or Joystick).
+	Decelerate       	X 	(or joystick).
+	Fire Lasers    	N/Space 	(or joystick
+	Missile          	M 	Launch missile if carried.
+	Amm               	A 	Launch Anti missile missile if carried.
+	Flare            	F 	Fire Flare if carried.
+	Bomb              	B 	Drop delay bomb if carried.
+	View             	V 	Switch view-
+				forward/left/right/rear.
+	Height +         	H 	Take skimmer up.
+	Height -        	G 	Take skimmer down.
+	Jump             	J 	Allows skimmer to use jump pads.
+	Land             	L 	Return to Ground Mode (the skimmer 
+				must be on the ground to land).
+	Infra-red        	I 	If carried.
+	Status Report 	R 	As in ground mode.
+
+
+
+6.  About the equipment
+
+The skimmer can have several differing items of equipment and armoury for a 
+particular mission.
+
+	Shields		All skimmers are equipped with shields but they may
+			have differing strengths.
+
+	Lasers            	Again, always equipped but three types are available.
+
+	Scanner           	Optional. Very useful piece of equipment which gives a 
+			360 degree radar scan of the area around the skimmer.
+
+	Missiles          	Optional. Missiles will home in on a selected target and 
+			are much more destructive than lasers but only a limited 
+			number may be carried.
+
+	Flares            	Optional. On all but one-face worlds the sun will set after 
+			a period of time and the view will become dark. Flares will 
+			provide light for a short period.
+
+	Amm's             	Optional. Anti missile missiles will destroy any incoming 
+			enemy missiles. Unfortunately they will also short circuit 
+			any missiles that you may have fired.
+
+	Delay Bombs       	Optional. A recent addition to skimmer weaponry, delay 
+			bombs are extremely powerful over a short range. Once 
+			dropped the internal timer allows roughly ten seconds for 
+			the skimmer to escape before detonation. Most useful 
+			against large stationary objects.
+
+	Infra-Red         	Optional. Infra red provides a method (at a loss of some 
+			clarity) of viewing the planets surface at night.
+
+	Compass/ADF 	Optional. The compass will give the craft's heading and the 
+	unit		Automatic Direction Finder is usually locked on to the 
+			Galcorp Landing Vehicle (G.L.V.). Very useful on planets 
+			where navigation is tricky.
+
+	Jump/Door 	Optional. Jump pads are often found in larger colonies and 
+	Activator		cities and allow ships to jump from one pad to another saving 
+			much time in travelling. The Jump unit will activate these 	
+			pads, allowing the skimmer to use them.
+			Many of the larger buildings may have docking facilities, the 
+			door unit will provide the correct decoding sequence to allow 
+			the skimmer to dock with these buildings (an airlock can be 
+			recognised by it's characteristic shimmer).
+			Docking at high speeds is not recommended and the docking unit 
+			will show red if the skimmer is travelling too fast.
+
+	Target/Tracking 	Optional. When the ships lasers are targeted with a vessel the 
+	unit 		upper bar will show red. The central bar shows red if your 	
+			skimmer is being radar tracked by an enemy ship and the lower 
+			bar lights if your shield unit power is being drained.
+
+	Gauges          	All skimmers are equipped with gauges showing Laser 		
+			Temperature (lasers are prone to overheat if used 		
+			continuously). Shield strength. Fuel remaining, Height and 	
+			Speed.
+
+
+
+7.   Completing a mission
+
+When a mission is completed (a score of 90% or over) docking with the Galcorp 
+Landing Vehicle will terminate the session. The display will return to the Main 
+Menu. N.B. If your ship is destroyed your score will not be recorded.
+
+While on the Main Menu you can access your rating on each of the missions by 
+selecting the 'Progress Report' option. This will display the four missions 
+available on the level along with a score for each mission and an average score 
+overall.
+
+
+
+8.   Designing a Skimmer
+
+Apart from the three skimmers in the program, it is possible to design and equip 
+your own ship for any mission. To do this go to the 'Select a Skimmer' option 
+from the main menu and select 'Design New Skimmer' option. The screen will clear 
+to the select equipment page.
+
+On the left is a list of possible equipment and in the centre are two or three 
+boxes showing whether the skimmer has the equipment/how many items the skimmer 
+has/what strength the unit has. The present value is marked with a tick and on 
+the right is a value for the weight of 
+he equipment.
+
+	Scanner Unit		No		Yes
+	Compass/Adf Unit        No   		Yes
+	Target/Track Unit       No   		Yes
+	Jump/Door Unit        	No   		Yes
+	Infra-Red Unit         	No    		Yes
+	Missiles          	None  		4		8
+	Amm's                  	None  		4   		8
+	Flares            	None  		4    		8
+	Delay Bombs            	None 		4    		8
+	Laser Power Level      	Low 		Med   		High
+	Main Drive Power       	Low		Med 		High
+	Shield Power Unit      	Low 		Med    		High
+	Steering Power         	Low		Med    		High
+
+To alter the equipment level, move the pointer to the correct box and press 
+FIRE. For example, to equip your skimmer with a Scanner Unit, find the line 
+'Scanner Unit', move the pointer across to the box marked 'Yes'and press FIRE. A 
+tick will appear against the Yes box indicating that the item has been selected 
+(It's a good idea to set all equipment to it's lowest level first and work up 
+from there).
+
+The two main limitations in equipping a ship are the weight of equipment and the 
+total cost, both show in cyan towards the bottom of the page. The basic skimmer 
+hull will not carry a weight of over 100 Galactic Megatons and Gal-Corp's budget 
+will not stretch to designs costing over 100M credits. If either of the two 
+figures are over the limit they will show red and you will need to remove some 
+items of equipment before continuing.
+
+When you are happy with the equipment selected, move the pointer to the 'Design 
+Complete' option near the bottom of the page and press FIRE. This will take you 
+into the 'Design Panel' section, where you can design the Skimmer 's Panel 
+layout.
+
+Choose a background texture and colour from the list and select 'Place 
+Instruments' to actually lay out the panel.
+
+The screen will clear to the panel texture and colour and a window will appear 
+in the top left hand corner with the options:-
+
+	Place Viewscreen.
+	Undo last step.
+
+Move the pointer to 'Place Viewscreen' and press FIRE. The pointer will 
+disappear and be replaced by a large white rectangle representing the 
+viewscreen. Move this to the position you want and press FIRE to place it. (you 
+can go back to the previous menu at any time by moving up into the top line 
+where the block will turn back into a pointer and selecting the Menu option).
+
+Having placed the viewscreen the pointer will return, move it onto the menu bar 
+and press FIRE to place the next item. (N.B. you cannot place an item over the 
+top of another, the item block will show yellow when an overlap would occur).
+
+If you have chosen a large complement of equipment for a skimmer design you may 
+find it a little tricky to fit all the items in the available screen space, a 
+useful hint here is to tuck the viewscreen away in a corner of the display to 
+allow you the place dials or gauges off to one side of it.
+
+After all the equipment has been placed select the 'Design Complete' option and 
+press FIRE. Finally choose a name for your skimmer and type it in followed by 
+ENTER. The display will return to the 'Select Ship' page with the new skimmer 
+shown below the three built in designs.
+
+If you have already filled the three custom design slots you can select
+which design to replace by marking it before going to the 'Design New
+Skimmer' sub menu, otherwise the program will automatically replace the
+last design with any new one.
+
+
+
+9.   Loading in the next level
+
+In order to progress to the next level and the next block of four missions you 
+must have an AVERAGE score of 90% or over. To load in the next block of mission 
+data, move to the 'Select a Mission' sub menu from the Main Menu. The option 
+'Load Next Level' should now be marked with a tick. Move the pointer to this and 
+press FIRE.
+
+The five blocks of mission data are stored on the second cassette in the 
+package. Levels I, II and III  are on the first side of the cassette and levels 
+IV and V on the second. Wind the cassette to approximately the right place and 
+press FIRE. When the computer finds a mission data block it will print 'Found 
+xxxxx' and when the correct block is found 'Loading xxxx'. The load can be 
+aborted at any time by pressing SPACE without losing your present rating.
+
+
+
+10. Saving the Game
+
+You can save your total game position at any time from the main menu by 
+selecting the 'Tape Menu' option 'Save Game File'. Place a blank cassette, (Not 
+the Academy Game or Data tape) in the cassette player and press FIRE. To reload 
+a saved game select the 'Load Game File' option from the same menu. Any user 
+defined keys are saved with the data but note that you cannot save the game 
+while in a mission. N.B. if Kempston option is selected for keys, then Kempston 
+Joystick must be connected when game is reloaded.
+
+It is also possible to save any Skimmers you have defined using the 'Save Ship 
+Designs' option. All three custom-designs (if used) are saved to tape.
+
+
+
+11. The View/Redefine Keys Menu
+
+This menu allows you to alter any or all of the keys used in Flight Mode on the 
+planets surface. A list of the present keys is given, followed by three 
+options:-
+
+	Alter keys.
+	Kempston Joystick.
+	Return to Main Menu.
+
+When the program loads in it will check for the presence of a Kempston 
+Interface, if one is not detected then the Kempston option will be marked with a 
+cross and cannot be selected.
+
+To alter the keys (for a Sinclair/Protek joystick or other move the pointer to 
+the 'Alter Keys' option and press FIRE.
+
+A question mark will replace the key for 'left' in the keys list. Just press the 
+key you wish to use for Left, Right, etc. in sequence. If you make a mistake or 
+choose impossible keys you can always return to the default key setup by 
+pressing 'BREAK'.
+
+
+
+12.  Identification chart
+
+Below* is a copy of the standard issue identification chart given to all new 
+cadets to the Academy.
+
+(*Note - to see the scanned chart open file - Chart.jpg)
+
+
+
+13.  The Missions
+
+Below are listed the current training missions in use at the Academy.
+
+	... at the O.K. Corral.
+	Ceti Revisited.
+	Cipher.
+	Don't Panic.
+	Hades II.
+	Hide and Seek.
+	if it moves . . .
+	Laserium.
+	Meltdown.
+	Mission Improbable.
+	Needle in a Haystack.
+	Out of the frying pan . . .
+	Paz!
+	Protector.
+	Red Dawn.
+	Softly Softly.
+	The coal mine.
+	The Sands of Time.
+	The Shepherd.
+	Where to Guv?
+
+
+
+14.  A bonus
+
+After Academy on the program tape is a short 'bonus' program - 'Starmap'. 
+Type LOAD " " and wind the tape to just over half-way to load this in. The 
+program shows some of the brightest and closest stars visible from Earth.
+
+GOOD LUCK. May the Gal-Corp Budget be with you !!!
+
+
+SEQUELS/PREQUELS
+Academy was prequelled by Tau Ceti, a similar game.
+
+SCORES RECEIVED
+Crash: RATING: 92% (CRASH #36, January 1987)
+
+
+NOTES
+This game is only really playable on the registered version of
+"Z80", since it makes use of .TAP files. (You can play level 1
+on other emulators but you won't be able to load in the following
+levels).

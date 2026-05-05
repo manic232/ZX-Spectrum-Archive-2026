@@ -1,0 +1,76 @@
+HIGHWAY ENCOUNTER
+=================
+
+    THE ALIENS have invaded earth.
+    There's only one road left to travel, before
+they reach their final goal - total world
+domination.
+    Your mission, to halt their advance.
+And ultimately destroy their alien stronghold,
+'Zone Zero'.
+    Under your control are five Vortons. And the
+'Lasertron' - the world's most advanced
+weapon syste, which must be taken to Zone
+Zero to complete your mission.
+    Fail. And face the deadly consequences as
+the future of earth rests in your hands.
+    So prepare yourself for battle... Prepare
+yourself for the Highway Encounter.
+
+LOADING HIGHWAY ENCOUNTER
+-------------------------
+
+1   Reset the computer by disconnecting and
+reconnecting the power supply
+
+2   Connect the ear socket of the Spectrum to
+the ear socket of your cassette recorder.
+
+3   Rewind the tape and set the volume and
+tone controls to a suitable level.
+
+4   Type LOAD"" the press ENTER
+
+5   Start the cassette recorder.
+
+6   One loaded Highway Encounter will run
+automatically.
+
+KEYBOARD CONTROL
+----------------
+
+1    ACCELERATE
+Q    DECELERATE
+O    LEFT
+P    RIGHT
+     (SPACE) FIRE
+H    HOLD
+A/G  ABORT GAME
+
+JOYSTICK CONTROL
+----------------
+Push forward to accelerate
+
+Pull back to decelerate
+
+Move either side to turn
+left or right
+
+Other functions use the
+keyboard
+
+Compatible with:
+ZX INTERFACE TWO
+KEMPSTON-PROTEK/AGF
+
+
+HIGHWAY ENCOUNTER WRITTEN BY COSTA PANAYI
+ILLUSTRATION BY WIL ROWLANDS
+Printed by MTD Graphics Lts. Heap Bridge,Bury,Lancs.
+
+(c)COPYRIGHT 1985 VORTEX SOFTWARE (SALES) LTD
+All rights of the owner, producer and the work being
+produced are reserved. Unauthorised copying, lending, hiring,
+public performance and broadcasting of this cassette is
+strictly prohibited. The publisher assumes no responsibility,
+for errors, nor liability for damage arising from its use.

@@ -1,0 +1,198 @@
+                          The Addams Family
+                          -----------------
+
+SCENARIO
+--------
+
+Creepy, Kooky, Ooky, Spooky.
+
+The Addams Family has been imprisoned!
+
+Only  Gomez  can save  the day  by freeing his  wife Morticia, his son
+Pugsley,  his daughter  Wednesday, Granny,  Lurch and  Thing. He  must
+search  the Addams Family Mansion, grounds and subterranean vaults and
+rescue  them one  by one.  Strange creatures  and crazy  monsters lurk
+around  every  corner and  in every  crevice with  only one thought in
+mind,  "Stop Gomez!"  Only his innate agility will aid him as he leaps
+and bounds around the Mansion.
+
+
+Loading
+-------
+
+SPECTRUM CASSETTE 128K ONLY
+
+Place  the cassette in the recorder ensuring that it is fully rewound.
+Select  LOADER  option  and  press  RETURN key.  Press  PLAY  on  your
+recorder - the game will now load automatically.
+
+
+AMSTRAD CASSETTE 128K ONLY
+
+CPC 6128
+
+Connect  a  suitable cassette tape  recorder ensuring that the correct
+leads  are attached  as defined in the User Instruction Booklet. Place
+the  rewound tape  in the cassette recorder and type | TAPE then press
+the  ENTER/RETURN key.  Then type RUN" and press the ENTER/RETURN key.
+Follow the on-screen instructions.
+
+DISK
+
+Insert the program disk into the drive with the A side facing upwards.
+Type  | DISC  and press  the ENTER/RETURN  key to  make sure  that the
+machine   can   access  the   drive.  Now   type  RUN"DISC  and  press
+ENTER/RETURN, the game will load automatically.
+
+
+COMMODORE CASSETTE
+
+Position  the cassette in you Commodore recorder with the printed side
+upwards  and  make sure  that it  is rewound  to the beginning. Ensure
+that  all  the leads  are  connected.  Press  the  SHIFT key  and  the
+RUN/STOP  key  simultaneously.  Follow the  on-screen  instructions  -
+PRESS  PLAY  ON TAPE.  This program will  then load automatically. For
+C128 loading type GO 64 (RETURN), then follow C64 instruction.
+
+PLEASE  NOTE: This  game loads in a number of parts - follow on-screen
+instructions.
+
+DISK
+
+Select  64 mode  (if using  Commodore 128).  Turn on  the disk  drive,
+insert the program into the drive with the label facing upwards.
+
+Type LOAD "*",8,1 (RETURN) the introductory screen will appear and the
+program will then load automatically.
+
+
+Controls
+--------
+
+SPECTRUM/AMSTRAD
+
+This is a one player game controlled by joystick and keyboard which is
+fully redefinable.
+
+PRESET KEYS
+
+O          MOVE LEFT
+P          MOVE RIGHT
+SPACE      JUMP/SWIM
+Q          GO THROUGH BACKGROUND DOOR
+A          GO THROUGH FOREGROUND DOOR
+R          PAUSE GAME
+
+To keep afloat under water hold down the Jump/Swim key.
+
+
+C64
+
+This is a one player game controlled by joystick only.
+
+P          PAUSE GAME
+RESTORE    ABORT GAME
+
+
+Status and Scoring
+------------------
+
+The status panel displays from left to right:-
+
+Hostages:         Displays members of the Addams Family who still have
+(Spectrum only)   to be rescued.
+
+Stamina:          Displays six hearts which shrink in size with time.
+                  These can be replenished by collecting hearts.
+                  When all the hearts have gone Gomez loses a life.
+
+Lives:            Displays the number of lives Gomez has remaining.
+
+Score:            Displays current score.
+
+Keys:             Each time Gomez collects one of the six different
+                  coloured keys it will be displayed here.
+
+
+SCORING
+
+Points  are awarded  for each character destroyed and each time a key,
+heart or extra life icon is collected.
+
+
+Gameplay
+--------
+
+To  rescue the six members of the Addams Family Gomez must explore the
+house,  its  grounds and  finally the  subterranean labyrinth which is
+overrun   by  a   variety   of  ghouls,   monsters  and   supernatural
+manifestations.  Some  of these can be  destroyed by jumping on top of
+them but others are to be avoided as they are invulnerable and contact
+other than by a well aimed stamping means trouble for Gomez!
+
+To explore the house and its surroundings fully, Gomez will need to go
+through  the doors that  are behind and in front of him. To go forward
+Gomez  must  stand behind  a foreground  doorway and  press "A", to go
+backward he must stand in front of a background doorway and press "Q".
+(C64 push joystick up or down respectively).
+
+Some  of the doorways are blocked by coloured locked doors and to open
+them  Gomez  must find the same  coloured key. Once a coloured key has
+been collected all doors of that colour will be opened.
+
+Scattered throughout the game are many useful items such as extra life
+trophies, stamina hearts and keys.  To find and release the members of
+his family Gomez will need to find the location of many of these.
+
+Once  Gomez  has located a family  member they will set him a survival
+test to prove that he is not an imposter.
+
+When  all six  members of the family have been rescued and their tests
+completed they will all be able to return to their abnormal lives!
+
+
+Hints and Tips
+--------------
+
+1.  If a ledge seems out of reach try jumping from the head of a
+    creature below it.
+    
+2.  Don't try rushing through an area of evil creatures as their
+    tortuous movement may take some thought to overcome.
+
+3.  Try not to collect stamina hearts unless you really need them -
+    you may need them later.
+    
+
+
+
+
+THE ADDAMS FAMILY
+
+Its  program  code is the copyright  of Ocean Software Limited and may
+not  be reproduced,  stored, hired or broadcast in any form whatsoever
+without  the written  permission of Ocean Software Limited. All rights
+are reserved worldwide.
+
+THIS SOFTWARE PRODUCT HAS BEEN CAREFULLY DEVELOPED AND MANUFACTURED TO
+THE  HIGHEST  QUALITY  STANDARDS.  PLEASE READ  THE  INSTRUCTIONS  FOR
+LOADING, CAREFULLY.
+
+This game has been tested and checked for viruses.
+
+Please  do not use  any form of disc utility with any Ocean product as
+it may corrupt the data and render the disc unusable.
+
+
+CREDITS
+
+The  Addams  Family &  ©1991 Paramount  Pictures. All Rights Reserved.
+The Addams  Family logo  is a trademark  of Paramount Pictures.  Ocean
+Software Limited authorized user.
+
+Programming by Andrew Deakin
+Graphics and Design by Ivan Horn
+Music by Jonathan Dunn
+C64 Conversion by Twilight
+Produced by Jon Woods
+©1992 Ocean Software Limited.

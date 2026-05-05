@@ -1,0 +1,115 @@
+The Aim of the Game
+
+The war in the air is reaching a peak. Never before have your skills as an ace
+fighter pilot been so crucial to the battle.
+
+To take off, taxi until your airspeed is above 83 Knots (full flaps) or 87 knots
+(no flaps). At that point if you pull back the joystick the plane will begin to
+climb. Look at the map to find out where the enemy bases are located. Also
+included in the map screen is the status report showing damage and the amount of
+ammunition used. The objective is to destroy the enemy bases and protect your
+own from the enemy aircraft.
+
+The map symbols have the following meanings:
+ 
+If the position of the two planes is the same at any time then the symbols will
+be overlayed and will appear red. It should be noted that at the start of the
+mission there is an enemy aircraft within radar range, which will overlay your
+symbol on the map screen.
+
+Plane damage is indicated by the amount of plane on the left of the screen that
+is coloured red. When the plane is completely red you are destroyed.
+
+The number of bombs and bullets are shown on the right.
+
+When you have located the enemy bases and have decided which one to attack, fly
+in that direction. Watch out for enemy planes attacking your bases because if
+they are all destroyed you will not be able to land and refuel etc.
+
+When an enemy aircraft is in range you can try to shoot it down using your 20mm
+cannon. The border will flash yellow when you hit the enemy and red when you are
+hit.
+
+It takes seven direct hits for a plane to be shot down.
+
+When you are over an enemy base press ENTER to drop a bomb. Aim carefully with
+your bombs because you have only one bomb for each enemy base.
+
+When you are damaged, running low on fuel or out of ammunition you can land
+close to one of your own bases to be repaired, refueled and re-armed.
+
+LANDING
+
+To land successfully you must have a vertical speed (VS) of less than 15ft/sec.
+If your speed is between 15 and 60ft/sec your plane will bounce, if it is
+greater than 60ft/sec your plane will be destroyed.
+
+Your speed should be less than 200 knots and ideally around 100 knots, so flaps
+should be down to prevent stalling. The angle of attack should be less than 22%,
+which is equivalent to 2 notches on the Artificial Horizon, below the central
+line. The plane should not be banked and the undercarriage must be down.
+
+To be refueled, repaired and re-armed you must land within a ½ mile of the base
+and be stationary (no thrust). If you have not landed close enough to your base
+you can taxi up to it.
+
+CONTROL PANEL
+ 
+a - Altitude in feet
+b - Brake Indicator (above VS). Can be used on the ground and in the air.
+c - VSI (Vertical Speed Indicator). This shows the rate at which you are
+    climbing or diving in ft/sec.
+d - Thrust (left of fuel gauge).
+e - Fuel Gauge.
+f - Airspeed In knots.
+g - Stall Warning (right of fuel gauge).
+h - Vertical Position Indicator. This is, in effect, a radar in the vertical
+    plane, the range of which corresponds to the range of radar currently
+    selected. Each blip on the radar has an equivalent one on the VPI. The
+    centre line of this instrument's display represents your current altitude,
+    so anything above the line is flying higher than you.
+i - Radar. The central dot represents your plane and the other dots represent
+    enemy planes or bases within range. The radar (and VPI) can be operated in
+    short or long range mode, which correspond to 4 and 16 miles respectively.
+    Pressing R changes the mode. Anything appearing above the central dot is
+    ahead of you, anything below is behind you.
+j - Artificial horizon, this consists of two parts;
+    (i) A bar showing the current pitch angle.
+    (ii) The roll angle is shown to the right.
+k - Compass. This shows the current bearing of your plane and is used for
+    navigating to enemy bases etc. North on the map screen is directly up.
+l - Flaps. This shows how much flap you are using from zero to full flaps. Its
+    function is to help avoid stalling at low speeds, which is essential when
+    landing.
+m - Bomb indicator is green when you can bomb, red when you have just dropped a
+    bomb or when you do not have any left.
+n - Undercarriage indicator is green when undercarriage is down and red when it
+    is up. Do not travel at more than 320 knots with the undercarriage down.
+
+CONTROLS
+Keys:   Joystick:
+I       - Left   Sinclair
+P       - Right  Kempston
+Q       - Up     Fuller
+Z       - Down   AGF/Protek
+U       - Undercarriage up or down
+M       - Map
+ENTER   - Drop bomb
+B       - Air brakes
+T       - Increase throttle
+G       - Decrease throttle
+F       - Flaps up
+V       - Flaps down
+R       - Change radar range
+S       - Music on/off
+
+Two player option Side 2
+To use this option, both players will require:
+Spectrum Interface 1.
+A tape recorder, connected to only one of the Spectrums.
+Two televisions, placed so that a player can only see his own screen.
+Load the program as follows:
+1) Ensure the units are properly connected and that all the units are turned on.
+2) On the Spectrum without the tape recorder type:- LOAD*"n";1 (then press
+   ENTER).
+3) On the spectrum with the tape recorder type:- LOAD"" (press ENTER).

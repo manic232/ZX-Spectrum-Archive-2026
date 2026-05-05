@@ -1,0 +1,109 @@
+BACK TO SKOOL
+
+Having managed to steal your report during the last few skooldaze of
+term, you've spent the whole holiday forging teachers' signatures and
+handwriting to make yourself look like the brightest, sweetest
+natured, most helpful little soul ever to carry a satchel.
+
+Now all you've got to do is get it back into the Head's safe...
+
+A couple of years ago, your elder brother had exactly the same problem
+and has lent you his old copy of the School Rules, on which he's
+scribbled some notes in invisible ink. Holding the paper over a
+bonfire made from the swot's cap, you can just make out the following:
+
+* Key to safe round nek of gurls hedmistris. She hates frogs.
+* Put frog in cup in gurls kitchin so you can nock it down onto her hed.
+* Remmember the bike.
+* Frogs ar kept in laked siense lab star room. Combernasion letters held
+  by masters - get them drunk
+* Sherry in hedmistris's cubord - only unloked wen sheez shure all the
+  boys ar back in skoal.
+* Fill water pistle by jumping up to botel. Put sherry in skoal cups and
+  use catapult to nock cups onto masters.
+* Stink boms - Hed will open window if you drop one wen heez near.
+* Cairtaker - if you nock him out with a conker by firing catapult from
+  top window of skoal, yool be able to get passed him.
+* Bike - chaned to conker tree - 4 number combernasion has to be ritten
+  on blackbord to relees it. Each master nose 1 number - sake them
+  with water by nocking water-filled cups with catapult wilst they
+  ar under.
+* Water pistle and stink boms - hidden in desks. Remmember there ar
+  desks in the gurls skoal too.
+* Water makes flours grow.
+* Catching mice is fun. Letting them go in the gurls skoal is even
+  funier.
+* If you get lots of lines to do, try being ekstra nice to your
+  gurlfrend!
+* Only the Hed can open the study dare - yool have to jump up to reech
+  the safe.
+
+Microsphere Computer Services Ltd. 72, Rosebery Road, London N10 2LA.
+
+KEYS AND JOYSTICKS
+
+Q -up
+A -down
+O -left
+P - right
+Press Q, A, O, P + CAPS shift to move faster.
+F - fire catapult (or press 'FIRE' button on joystick)
+C - catch mouse/frog
+D/U - drop stink bomb (if you have any)
+G - shoot water pistol
+H - hit
+J/L - jump/leap
+M - mount bicycle
+R - release mouse (only works in girls school)
+S - sit/stand
+T - throw away water pistol
+W - write
+
+To pedal bike, use the O & P keys, or waggle the joystick. Q (up) lets
+you stand on the saddle; A (down) lets you get off the bike. You can
+jump up whilst standing on the saddle.
+
+Press 'O' when sitting at a desk to open it and find out what, if
+anything, is inside.
+
+'W' lets you start writing on the blackboard.
+When you finish, press ENTER.
+
+The program is set up to use the keyboard and suggested names for the
+characters have been included. You are given the opportunity to select
+one of several types of joystick, and to alter the names immediately
+after the game has loaded. If you want to make changes, you should
+press any letter key whilst the 10 second countdown is going on.
+
+LOADING THE PROGRAM
+To load 'Back to Skool':
+
+1. Important. Unplug your computer and reconnect it, to clear it
+   completely.
+2. Set the volume control on your cassette recorder to somewhere near
+   the middle. Rewind the cassette to the beginning of the tape.
+3. Connect the EAR socket of the cassette recorder to the EAR socket
+   of the Spectrum. Make sure that there is nothing in the MIC socket
+   of the recorder.
+4. Type in LOAD "".
+5. Press ENTER and start your cassette recorder playing.
+
+If the tape fails to load, try again with different volume levels. The
+program is recorded on both sides of the tape, so if one side fails to
+load you should try the other side. The program is recorded in two
+slightly different ways to allow for the full range of cassette
+players.
+
+If it still fails to load, return it to the shop it was bought from in
+the first instance. If this is not possible, send it back to
+MICROSPHERE at the above address, with proof of purchase and stating
+when and where it was bought, for a replacement. Replacements will
+only be given to the original purchaser upon satisfactory proof of
+purchase.
+
+This program and documentation, its content game principles and
+graphical presentation are copyright Microsphere Computer Services
+Ltd. They may not be reproduced, in part or in whole by any means or
+in any form without the express permission of the copyright holder.
+Penalties for infringement of copyright are high. This program is sold
+subject to the condition that it will not be lent or hired out.

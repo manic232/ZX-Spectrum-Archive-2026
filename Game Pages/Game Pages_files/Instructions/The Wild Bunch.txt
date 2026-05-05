@@ -1,0 +1,45 @@
+THE SPECTRUM GAME DATABASE
+
+THE WILD BUNCH
+
+PUBLISHER
+Firebird
+
+AUTHOR
+Kevin Smith
+
+YEAR
+1984
+
+DESCRIPTION
+Menu-based text adventure based on the Wild West
+
+CONTROLS:
+Simply input options as prompted on the main screen
+
+INSTRUCTIONS
+A man has been shot and you were discovered on the scene.  You
+manage to take a note of the desciption of the real killer, and
+make a getaway before being arrested.  But the sheriff has put
+a Pinkerton Agent on your trail, so you must find and arrest the
+real killer before the agent arrests you.  You must keep your
+strength up by buying equipment and drinking in the tavern.
+
+CHEATS
+With the use of snapshotting available on the emulators, it is
+easy enough to challenge everybody, and if they turn out to be
+innocent, simply reload the saved snapshot. It the are one of the
+wild Bunch, shoot `em!!
+
+SEQUELS
+None
+
+SCORES RECEIVED
+
+
+URL
+
+
+NOTES
+Original menu based adventure which although it can be reptitive,
+is still quite enjoyable today. 

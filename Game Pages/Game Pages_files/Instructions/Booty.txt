@@ -1,0 +1,72 @@
+THE SPECTRUM GAME DATABASE
+
+BOOTY
+
+PUBLISHER
+Firebird Software
+
+AUTHOR
+John F Cain
+
+YEAR
+1984
+
+DESCRIPTION
+Platform game where a certain amount of Booty must be collected
+from the ship.  This involves collecting keys to open locked
+doors. 
+
+CONTROLS:
+Keyboard controls are redefinable / Joysticks
+
+INSTRUCTIONS
+Jim the Cabin Boy has to collect all the items of Booty from the
+ship by collecting keys that open locked doors. Hazards include
+the pirates who patrol the rooms, rats which crawl along the deck
+and the ships parrot which flys around the ship. Also some booty
+is booby trapped and explodes when Jim trys to collect it. Once
+all the booty is collected, Jim has 45 seconds to find the key
+to the next pile of booty!
+
+CHEATS
+Here's how to access the hidden game: At the Booty title page,
+enter the pokes: 52796,32 and 52798,58.  Then select your
+controls and start the game as normal.
+
+SEQUELS
+Moonlight Madness use a virtually identical gam engine, although
+story-wise it is completely different.
+
+SCORES RECEIVED
+93% - Crash 10 (October 1984)
+
+URL
+
+
+NOTES
+Classic Game, just as fun today.  One annoying bug occurs when
+Jim falls of a ledge and the game can sometime freeze up.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

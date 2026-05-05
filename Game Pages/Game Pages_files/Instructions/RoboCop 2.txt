@@ -1,0 +1,151 @@
+ROBOCOP - OCEAN
+
+SCENARIO 
+
+Become Robocop and battle your way through seven levels of unique action that
+will test your reflexes, your brain-power and your co-ordination. Improve your
+skills in all these fields. Only then, will you stand a chance against your
+greatest enemy - Robocop 2!
+
+LOADING
+CASSETE 128K ONLY
+ 
+Place the cassette in the recorder ensuring that it is fully rewound. Select
+LOADER option and press RETURN key. Press PLAY on your recorder - the game will
+now load automatically.
+
+SPECTRUM +3 DISK 
+
+Set up system and switch on as described in your instruction manual. Insert
+disk and press ENTER to choose 'LOADER' option. This program will then load
+automatically.
+
+CONTROLS
+ 
+This is a one player game controlled by joystick or keyboard which is fully
+redefinable.
+
+
+LEVELS 1,4 and 7
+
+O - WALK LEFT 
+P - WALK RIGHT JUMP/UP 
+Q - JUMP/UP
+A - CROUCH/DOWN SHOOT 
+
+Pressing down and fire in front of a door will allow you to go through the door
+between the front and back levels.
+
+R - PAUSE GAME
+ 
+JOYSTICK
+ 
+N - JUMP/UP 
+NE - POINT GUN UP RIGHT
+E - WALK RIGHT
+S - CROUCH/DOWN
+W - WALK LEFT
+NW - POINT GUN UP LEFT
+
+LEVELS 2 AND 5
+ 
+To move the cursor press in the required direction. To shift a row on the
+circuit board to the left or right press fire button and simultaneously push
+left/right. To shift a row on the circuit board up or down press fire button
+and simultaneously push up or down.
+
+LEVELS 3 AND 6
+
+To move Robocop's gunsights press in the required direction. Fire button fires
+his gun.
+
+GAMEPLAY
+
+LEVELS 1, 4 AND 7
+ 
+Your mission begins in the River Rouge Sludge Plant. Locate the Nuke Lab - but
+watch out for trouble! You will encounter several unarmed "Arrest Subjects" -
+when arrest flashes at the top left of the screen so will the subject, and you
+must walk into him - if you shoot him time will be reduced.
+
+LEVELS 2 & 5
+
+Robocop also faces an inner battle. After encountering the desperate Nuke
+gangs, OCP managed to implant hundreds of confusing directives into the
+captured Robocop. The only chance of regaining his full capability is to find
+the memory chips recording his human past. Move the cursor around the tracks of
+each circuit board collecting 32 to complete the picture on 4 boards. But
+remember that once a track has been "burnt' it cannot be re-crossed, Also, do
+not cross the directive chips, otherwise you will have to restart your current
+circuit board.
+
+LEVELS 3 AND 6
+
+Robocop will have two sessions at the Detroit Police Shooting Range to test and
+improve his targeting skills. He will have one minute in which to shoot as many
+armed criminal targets as possible. Whilst avoiding the civilian targets.
+Robocop's performance will affect his shooting in the following level. i.e. he
+will need more shots to kill an enemy if his rating on the gallery is poor.
+
+LEVEL 4
+ 
+Having improved his skills, Robocop must then proceed to the Tokugawa Brewery
+where he must first recover a "Nuke" cannister from one of the taller storage
+tanks and then locate and destroy Nuke storage vaults before returning to the
+OCP laboratories for repair and reprogramming. He must now find memory chips
+recording his wife's past.
+
+LEVEL 7
+
+This is it!! OCP's Civic Centrum. Within this imposing building is a walking
+fortress - Robocop 2!
+
+STATUS AND SCORING
+ 
+The status panel informs you of the number of subjects arrested, score, amount
+of special weapon ammo remaining and lives left. At the top of the playing area
+is a bar indicator which displays how much enery Robocop has left. You will
+receive points for shooting armed enemy gangs and criminal targets on the range
+and for collecting all icons and memory chips. Bonus points are awarded at the
+end of each scrolling level for the number of subjects arrested Top scores can
+be entered onto the high-score table.
+
+HINTS AND TIPS
+
+* Think before you shoot or you may shoot someone unarmed! 
+* Take time to plan your route on the memory puzzles. 
+* On the scrolling levels be careful where you tread - the floors can be
+  treacherous!
+* Explore the scrolling levels fully to find the route to your goal. 
+* Beware on the firing range - shooting civilians will reduce your rating. 
+* Watch out for "power-ups" that will provide benefits such as extra energy,
+  extra lives, a temporary invincibili1y shield plus extra ammunition.
+
+
+ROBOCOP 2
+
+Its program code, graphic representation and artwork are the copyright of Ocean
+Software Limited and may not be reproduced, stored, hired or broadcast in any
+form whatsoever without the written permission of Ocean Software Limited. All
+rights are reserved worldwide. THIS SOFlWARE PRODUCT HAS BEEN CAREFULLY
+DEVELOPED AND MANUFACTURED TO THE HIGHEST QUALITY STANDARDS. PLEASE READ
+CAREFULLY THE INSTRUCTIONS FOR LOADING. If for any reason you have difficulty
+in running the program you may contact our Ocean Helpline direct by telephoning
+0626332533. However if you believe that the product is defective, please return
+it direct to: Mr. Yates, Ocean Software Limited, 6 Central Street, Manchester
+M2 5NS. Our quality control department will test the product and supply an
+immediate replacement if we find a fault. If we cannot find a fault the product
+will be returned to you at no charge. Please note that this does not affect
+your statutory rights.
+
+CREDITS
+
+ROBOCOP 2 TM & (c) 1990 Orion Pictures Corporation. All Rights Reserved. 
+Programming by Andrew Deokin Graphics by Ivan Horn 
+Music/Sound FX by Matthew Cannon Produced by Jon Woods 
+@ 1990 Ocean Software Ltd. 
+
+Childline Childline is the free national helpline for children and young people
+in trouble or danger. It provides a confidential counselling service for any
+child with any problem, 24 hours a day, every day of the year. Childline
+listens, comforts and protects. 0800 1111

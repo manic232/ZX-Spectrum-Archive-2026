@@ -1,0 +1,161 @@
+MARAUDER - HEWSON CONSULTANTS PLC
+
+SCENARIO
+
+In aeons past a cruel and despotic civilisation stole the Jewels of
+Ozymandias and buried them deep beneath the multiple defences on the
+planet Mergatron where they have remained pulsating strangely to the
+present day.
+
+Now with the crude civilisation long decayed and cracked the creaking
+auto-defences of Mergatron swept low with the sands of time wind
+thunderously into action at any hint of intrusion. And you, Captain C.
+T. Cobra with your lone Marauder Battlecar are determined to retrieve
+the Jewels from eternity's remorseless grip.
+
+Airborne drones scream low overhead, their bouncing bombs pitching and
+blasting. The desert sand kicks in your face as your Marauder skids
+squat and ugly, its massive laser cannon crash-firing the defences to
+oblivion. Spinning eyepods close you down and electro-hoverers spit
+fire as seeker missiles shudder over the horizon. Wheels spin and
+screech as your Battlecar heaves to confront the pursuers.
+
+With energy levels dropping you scan desperately beyond the aliens.
+You spot a distant weapon beacon. Can you battle to the beacon to
+recharge your besieged craft?
+
+LOADING INSTRUCTIONS
+
+Spectrum Cassette
+
+48K ZX Spectrum, ZX Spectrum Plus or ZX Spectrum 128 with cassette
+player, ZX Spectrum +2
+
+You are advised to disconnect all hardware from the rear edge
+connector with the exception of your joystick interface (it any). When
+using a Sinclair Interface 2 or the ZX Spectrum +2 plug the
+appropriate joystick into port 1. Unless using a ZX Spectrum +2
+connect a cassette player to the computer in the usual manner. Rewind
+the cassette it necessary, enter LOAD "" on the computer keyboard and
+press the ENTER key. Press the Play key on the cassette player. The
+game takes a few minutes to load.
+
+Spectrum Disc
+
+ZX Spectrum + 3
+
+You are advised to disconnect all hardware from the rear edge
+connector with the exception of your joystick interface (it any).
+Place the disc in the drive and press the ENTER key.
+
+Amstrad Cassette
+
+Amstrad CPC 464
+
+Amstrad CPC 664 or Amstrad CPC 6128 with cassette player and suitable
+leads.
+
+Amstrad CPC 664 and CPC 6128 users should connect a cassette player to
+the computer and enter tape and press the ENTER key. Place the
+cassette in the player, rewind if necessary and press the CTRL and
+ENTER keys. Press the Play key on the cassette player and then any key
+on the computer keyboard. The game takes a few minutes to load.
+
+Amstrad Disc
+
+Amstrad CPC 6128 or Amstrad CPC 664
+
+Amstrad CPC 464 with disc drive
+
+Amstrad CPC 464 users should connect a disc drive to the computer and
+enter disc and press the ENTER key. Place the disc in the drive and
+enter run "disc and press the ENTER or RETURN key. The game takes a
+few seconds to load.
+
+Commodore Cassette
+
+Commodore 64 or Commodore 128 with suitable cassette player.
+
+You are advised to disconnect all hardware from your computer. Connect
+the cassette player to the computer, place the cassette in the player
+and rewind if necessary. Press the SHIFT and RUN/STOP keys on the
+computer keyboard and press the Play key on the cassette player. The
+game takes a few minutes to load.
+
+Commodore Disc
+
+Commodore 64 or Commodore 128 with disc drive.
+
+You are advised to disconnect all hardware from your computer. Connect
+the disc drive to the computer and place the disc in the drive. Enter
+LOAD "*",8,1 and press the RETURN key. The game takes a few seconds to
+load.
+
+CONTROLS
+
+Commodore:      Joystick only
+Spectrum:       Keyboard or Kempston, Sinclair or Cursor joystick
+                (auto detected when FIRE pressed).
+Amstrad:        Use either keys or joystick.
+
+Title page:     Select music or sound FX - F1 (Commodore and Amstrad)
+                or 1 (Spectrum)
+
+During Game:    Joystick        Keys    Action
+
+                Left    O       Move left
+                Right   P       Move right
+                Up      Q       Move up
+                Down    A       Move down
+                Fire    M       Fire laser cannon
+                Space   Space   Activate smart bomb 
+
+To pause:       RUN/STOP (Commodore) or ENTER (Spectrum and Amstrad)
+
+To quit game:   Q (Commodore) or 0 (Spectrum)
+
+GAMEPLAY
+
+Manoeuvre your Battlecar through each zone destroying as many of the
+defence systems as you can while avoiding the flak from the Atomic
+disruptors and Molotov cocktails and dodging deadly winder missiles
+and other destructive devices. You start the game with 3 smart bombs
+which are activated by pressing the space bar.
+
+Along the way you will come across the glowing defence beacons which
+when shot will either help or hinder your progress depending on the
+colour they are when hit. The colours are:
+
+RED:    Extra smart bomb - destroys all ships on the screen
+YELLOW: Shields - your ship is invincible for 10 seconds
+CYAN:   Win a life
+BLUE:   Control reversal
+PURPLE: Lose a life
+GREEN:  Laser jammed - you are defenceless for 10 seconds
+
+At the end of each level the defences throw everything they've got at
+you. It you survive you are transported to the next zone.
+
+CREDITS
+
+Game designed and programmed by Arcanum Software Developments.
+Spectrum and Amstrad versions by Keith Burkhill, Graphics by Steve
+Crow (Commodore) and Rory Green (Spectrum and Amstrad). Music by Barry
+Leitch (Commodore) and Dave Rodgers (Spectrum and Amstrad).
+
+(c) Hewson Consultants 1988.
+
+The program and data are copyright and may not be reproduced in part
+or in total by any means without the written permission of Hewson
+Consultants Ltd. All rights reserved. No responsibility is accepted
+for any errors.
+
+Our policy is one of constant improvement. Therefore, we reserve the
+right to modify any product without notice.
+
+Hewson Consultants Ltd
+56B Milton Park
+Milton
+Abingdon
+Oxon
+OX14 4RX

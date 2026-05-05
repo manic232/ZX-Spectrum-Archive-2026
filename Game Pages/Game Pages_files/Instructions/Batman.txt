@@ -1,0 +1,100 @@
+BATMAN - OCEAN SOFTWARE LTD
+
+[ These obviously incomplete instructions taken from the Hit Squad
+  re-release ]
+
+Step (c) Press all keys required for control (they will be printed on
+the current line as they are pressed). If you want to use the ENTER
+key then press it first. N.B. If you accidentally press the wrong key
+at this point go on to Step (d) and then back to (b). [This involves
+pressing ENTER twice].
+
+Step (d) When all keys are selected press ENTER.
+
+Step (e) If you want to change more controls then start again at Step
+(a), otherwise press SHIFT and return to Main Menu.
+
+CONTROL SENSITIVITY MENU
+
+This enables skill in control to be built up - the main difference
+being the way diagonal control is interpreted. The default value is on
+Low Sensitivity and is recommended for beginners.
+
+The default controls have been defined as follows:
+
+LEFT    O       6       Joystick - Left
+RIGHT   P       7       Joystick - Right
+DOWN    A       8       Joystick - Down
+UP      Q       9       Joystick - UP
+FIRE    SPACE, SYMBOL SHIFT, M, N, B, 0, Joystick - Fire
+CARRY   SPACE, CAPS SHIFT, Z, X, C, V
+PAUSE   1       1
+
+NOTE
+
+  (i) The Joystick controls use the port selected on the Joystick Menu.
+ (ii) The Sinclair Interface II Right Joystick is pre-defined above.
+(iii) *Important* Space is defined as JUMP and CARRY, this allows both
+      actions with a single key depression and is essential for expert
+      control.
+ (iv) Abort feature is available by pressing PAUSE. Screen message will
+      then appear.
+
+BAT EQUIPMENT
+
+These 4 items must be collected before Batman can begin his task. They
+are indicated at the bottom right of the playing screen and will
+automatically be highlighted when collected.
+
+BATBOOTS - These will allow Batman to jump.
+BATBAG - This enables Batman to pick up and carry items around a
+         location - Press Carry again to drop them. (Note: items may
+         not be moved from the location they start in).
+BAT-THRUSTER - This lets Batman have horizontal control when falling,
+               but has no effect on the speed of his descent.
+BATBELT - This is a low gravity device which halves the speed of
+          descent.
+
+EXTRA POWERS
+
+Batman is able to collect extra powers on his journey. These powers
+are not everlasting but will help Batman do battle with the henchmen.
+There are four extra powers and a fifth neutralizing power which
+Batman must try and avoid:
+
+EXTRA LIFE - This increases the number of lives.
+ENERGY - Collecting one of these enables Batman to travel at greatly
+         increased speed for a short time.
+SHIELDS - These make Batman invulnerable for a short time.
+JUMP - These enable Batman to jump twice the normal height.
+NEUTRALIZER - These should be avoided. Collecting one of these will
+              cancel all Batman's extra powers.
+
+BAT-SIGNALS
+
+Distributed at several locations are Bat-Signals. Touch one and it
+will vanish - as it does, it will store the state of play (number of
+lives left, Batcraft parts collected etc). This allows one to restart
+the game at this point (see MAIN MENU - PLAY THE GAME) should you lose
+all your lives - this feature is nested so each time a Bat-Signal is
+located the state of play is stored for future use.
+
+BATMAN
+
+Its program code and graphic representation are the copyright of Ocean
+Software Limited and may not be reproduced, stored, hired or broadcast
+in any form whatsoever without the written permission of Ocean
+Software Limited. All rights reserved worldwide.
+
+(c) 1986 Ocean Software Limited.
+
+BATMAN, and all characters, slogans, logos, and related indicia are
+trademarks of DC Comics Inc.
+
+(c) 1986 DC Comics Inc. All Rights Reserved.
+
+The Hit Squad,
+P.O. Box 350
+Manchester M60 2LX
+
+[ Advert for World Series Baseball - Sports Collection 4 ]

@@ -1,0 +1,182 @@
+LEMMINGS
+
+Contents
+
+The Cast - Page 2
+Story - Page 3
+Loading Instructions - Page 9
+The Game - Page 10
+Before Play Commences - Page 11
+Controls - Page 12
+Some Points to Note - Page 14
+
+This product is copyright. The product Lemmings, it's program code, manuals and all associated product materials are copyright Psygnosis Ltd., who reserve all rights therein.
+
+Psygnosis (R) and associated logos are registered trademarks of Psygnosis Limited.
+
+LEMMINGS and associated logo is a trademark of Psygnosis Limited.
+The LEMMINGS cover illustration and poster Copyright (c) 1991 Psygnosis Ltd.
+AmigaTM is a registered trasdemark of Commodore Amiga Inc.
+
+PSYGNOSIS LIMITED
+South Harrington Building, Sefron Street, Liverpool, United Kingdom L3 4BQ
+Telephone: 051-709 5755
+
+USA Office: 29 Saint Mary's Court, Brookline, MA 02146
+Telephone (617) 731-3553
+
+COPYRIGHT (C) 1991 by PSYGNOSIS LTD. ALL RIGHTS RESERVED
+
+
+Loading Instructions
+
+Always switch off your machien for at least 30 seconds before loading the gaem. Failure to do so may result in virus contamination of the LEMMINGS disks. See the virus warning and the warranty notice on the inside front cover for furth information.
+
+AMIGA VERSION
+Switch the computer on. Insert Kickstart disk if necessary. When Workbench is requested, insert the LEMMINGS disc into the internal drive.
+LEMMINGS is played with a mouse plugged into the mouse port.
+A second mouse plugged into the joystick port is required for a two-player game.
+
+LOADING TIPS
+Should the title screen not appear within 45 seconds there may be a problem with your computer system. Check your computer connections and that the above instructions have been followed correctly. If you are sure your computer is working correctly (i.e other software loads successully) and are still unable to load LEMMINGS then you may have a faulty disk in which case you can obtain a free replacemnet from Psygnosis Ltd. All Psygnosis products are vully guaranteed.
+
+VIRUS WARNING
+This product is guaranteed by Psygnosis to be virus free. Psygnosis Ltd accept no responsibility for damage caused to this product through virus infection.
+
+To avoid virus infection always ensure that your machine is switched off for at least 30 seconds before trying to load this game.
+
+If disks have been destroyed by a VIRUS then please return the disks directly to Psygnosis Ltd and enclose £2.50 to cover replacemnet costs.
+
+Psygnosis Ltd will replace free of charge any disks which have manugacturing or duplication defects. These disks should be returned directly to Psygnosis Ltd for immediate replacement.
+
+Lemmings
+
+The Game
+
+An intriguing game in whcih you help hoares of mindless but delightful creatures - known as Lemmings - to escape hostile environments in over 100 play levels.
+
+Lemmings drop through a trapdoor in each level and, as they are creatures of very little brain, they need all the help they can get to survive the dangers that lie within.
+
+Lemmigns are very cute but also very dumb. They will mindlessly walk off cliffs, into water, hazards and traps or they will mill around bumping into walls or other obstacles unless you help them get their act together. You can assist them by giving them certain skills and powers that will help them get through each level of the game. Once you have asigned skills (shown as icons on the bottom of the screen in each level) to certain Lemmings they can use those skills to help them and their fellow Lemmings cope with the dangers that surround them. Each level of the game is an increasingly difficult enviroments that the Lemmings must navigate. At each level, you have a different number of skills available for assignment; you have different times available for mastering that level and you have varing numbers of Lemmings you must save to complate that particular level.
+
+A quick brain, the ability to plan ahead and lifetime's dedication to the Save A Lemming Campaign are required to get the right Lemming to perform the right action at the right time. A forgotten Blocker, a rogue Miner or a misplaced bridge could spell disaster for every Lemming on screen.
+
+Before Play Commences
+
+Load Lemmings, as per the instructions on page 9, until you see the Main Menu screen.
+
+Lemmings is organised into four increasingly difficult game categories: FUN, TRICKY, TAXING and MAYHEM. The FU category consists of 30 levels and is designed to familiarize you with the game concept and how to work with Lemmings skill attributes. You don't have to start with this category. You can go directly to any of the higher skill categories but we suggest that you being with at least a few of the levels in the FUN category to get the feel of the game before proceeding to the more difficult categories. TRICKY, TAXING and MAYHEM increase in difficulty, with the MAYHEM level being the msot difficult. Each of the game categories has 30 levels.
+
+PASSWORDS
+After you complete each level, you are shown a password on screen. Make a note of it as you wil be able to go directly to that level when you play Lemmings again and don't wish to re-play a level you have already mastered.
+
+Main Menu Screen:
+
+Click on the One-Player icon to begin a one-player game
+
+click on the Two-Player icon to begin a two-player game
+
+Click on the New Level icon to select a level that you've reached before. Enter the password then select a one- or two-player game.
+
+Click on the Music/FX icon to toggle between playing Lemmings with music and limited sound effects or no music but full sound effects.
+
+Click on the up/down arrows icon (on the right-hand side of the screen) to select the category of play: FUN, TRICKY, TAXING or MAYHEM.
+
+Categories have no effect in a two-player game.
+
+A two-player game consists of it's own levels which increase in difficulty as play progresses.
+
+Game Controls
+
+Mouse (A second mouse is required for a two player game)
+
+Point and click on your chosen icon (or use Z, X or the cursor keys) to highlight it then - if required - point and click on selected Lemming.
+
+Pushing your mouse left or right to the screen edge scrolls the play area - simultaneously holding the right mouse button scrolls faster. You may also scroll the screen by dragging the cursor over the small map (right of icon panel) or instantly zoom to any area of the level by clicking in the map.
+
+P pauses the game.
+
+Each level displays an access password when completed.
+
+Icons (from left to right):
+
+1 *Decrease the flow of Lemmings on the level
+2 *Increase the flow of Lemmings on the level
+
+The following are skills you can give to Lemmings
+
+3 Climber - climbs vertical surfaces
+4 Floater - A brolly (umbrella) opens to ensure a safe descent
+5 Bomb to dispatch single Lemmings (one way to get rid of Blockers)
+6 Blocker - stands with arms outstretched to block the passage of fellow Lemmings
+7 Bridge Builder - builds bridges, each builder has only twelve building bricks. When a Builder had laid his twelfth brick he turns to look at you for an instant ... if you click on him again, he will lay another twelve bricks (if you have any Builders remaining) and so on until you run out of Builders. If you don't click on him after he lays his twelfth brick he becomes a Walker again.
+8 Basher - digs horizontally, will only dig when a suitable surface is directly ahead of him
+9 Minter - uses a pick to dig diagonally down
+10 Digger - burrows vertically
+11 *Pause - gives you time to think
+12 Nuke 'Em destroys all Lemmings - should you find yourself in a 'no-win' situation (double click to activate)
+
+The green display to the right of the icons depicts the whole level.
+The square curor on that display depicts the current area shown on screen.
+Each skill may only be used a limited number of times (shown above each icon).
+* (One-player mode only)
+
+Directly above the icon panel are (left to right):
+Lemming identifier, plys the number of Lemmings currently under the cursor
+Number of Lemmings currently occcupying the level
+% of rescued Lemmings
+Time remaining to complete level
+
+The Two-Player Game
+
+In two-player mode, the screen is vertically divided in two by a Lemming level indictor. This indicator displays the amount of Lemmings wach player has successfully rescued from each level.
+
+The left player controls blue Lemmings, the right, green. Each player has his own exit and competes to get as many Lemmings (either his or his opponents) safely through it.
+
+Each player has 40 Lemmigns in his team on the first level but on later levels this number is dependent on how many Lemmings were saved by individual players in the previous level.
+
+i.e. Lemmings saved are added to players' initial 40 for the next level.
+
+Lemmings instinctievely head off in the direction of their own exit as soon as they enter the level.
+
+Each player has his own set of skill icons.
+
+Pressing the 'P' key pauses the game.
+
+Both players have to click on Nuke 'Em for Lemming annihilation to take place.
+
+The two-player game consists of 20 levels and is played until both players fail to rescue any Lemmings.
+
+Some Points to Note
+
+Metal (shown as square plates and usually used to contain liquids) cannot be dug through or exploded away.
+
+Builders stop constructing briges:
+(i) When they run out of bricks
+
+(ii) If the bridge hits a solid object
+
+(iii) If the Lemming hits his head while building.
+
+Miners and Diggers keep digging until they dig through an earth layer after which they fall through the bottom of the earth layer.
+
+Bashers keep digging until there is no more material in front of them to dig.
+
+A Lemming designated a Climber or Floater retains these skills until the current level is ended or he dies. A Lemming given both these skills is referred to as an Athlete.
+
+All other skill icons take effect as soon as you click on a Lemming - make sure that there is something to dig in front of a Basher or he will give up right away and you will have wasted a skill.
+
+CREDITS
+
+Lemmings by DMA Design
+Amiga by David Jones
+Animation by Gary Timmons
+Graphics by Scott Johnston
+Music by Brian Johnston and Tim Wright
+Paintings by Adrian Powell
+Manual Text by Nik Wild
+Printed by Hesketh Data
+
+COPYRIGHT (C) 1991 by PSYGNOSIS LTD.
+
+

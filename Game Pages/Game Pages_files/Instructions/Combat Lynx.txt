@@ -1,0 +1,361 @@
+===========
+Combat Lynx
+===========
+Document created by rstuart@ukonline.co.uk on 14th August 2000 for
+World of Spectrum: http://www.void.jump.org
+
+
+Combat Lynx Air to Ground Battle Simulation
+-------------------------------------------
+Pure machine code
+Technical support from Westland Helicopters
+Durell Software, Castle Lodge, Castle Green, Taunton, Somerset, TA1 4AB.
+DURELL software Ltd 1985
+This computer game is sold subject to the condition that is is for home
+use only. All other rights reserved.
+Illustration & Design by Tim Hayward
+
+Combat Lynx
+-----------
+Compatible with KEMPSTON, INTERFACE 2, PROTEK and DOWNSWAY joystick
+interfaces. May not run on some Spectrums with the Interface 1 attached.
+
+Generally
+---------
+This is probably the most comprehensive 'real-time' battle simulation program
+ever written for a home computer. It can be played on a simple level as a
+'shoot-them-up' game, or a more stealthy player can make use of the
+intelligence map to locate and destroy selected targets. The most skilled
+players will be able to protect their bases with mines, support forward bases
+under attack with air cover and fresh troops, and also intercept and destroy
+enemy vehicles (land and air) while in flight between bases. A game could
+last five seconds or five hours depending on the dexterity and tactical skill
+of the player.
+
+The Controls
+------------
+In these instructions words or numbers in angle brackets, such as <LOAD> or
+<6>, are keys on your Spectrum. The function of these keys is shown in
+capitals, for example the <6> or DOWN key. Here is a list of the standard
+key settings:
+
+IN FLIGHT
+<3>....................................................................SLOWER
+<4>....................................................................FASTER
+<5>......................................................................LEFT
+<6>......................................................................DOWN
+<7>........................................................................UP
+<8>.....................................................................RIGHT
+
+INTELLIGENCE MAP
+<M>.......................................................ENABLE MAP (ON/OFF)
+<5>......................................................................WEST
+<6>.....................................................................SOUTH
+<7>.....................................................................NORTH
+<8>......................................................................EAST
+<0> + < >............................................MOVE IN DIRECTION FASTER
+
+ARMING WEAPONS SYSTEMS
+<6>..........when you land at a base.....................ENTER ARMING SCREENS
+<SPACE>...................................................EXIT ARMING SCREENS
+<+>........................................................INCREASE ARMS LOAD
+<->........................................................DECREASE ARMS LOAD
+<ENTER>............................................MOVE TO NEXT ARMING SCREEN
+
+FIRING WEAPONS SYSTEMS
+<2>..........SELECT WEAPON...........................................ARM LEFT
+<9>..........SELECT WEAPON..........................................ARM RIGHT
+<ENTER>................................................WEAPON SIGHTS (ON/OFF)
+<0>...............................................................FIRE WEAPON
+<5>, <6>, <7>, <8>........................WEAPON SIGHTS LEFT, DOWN, UP, RIGHT
+
+MICRO-SCREEN MESSAGES
+<1>..........when micro-screen screen flashes...................START MESSAGE
+<1>..........held down during message...................MESSAGE COMES QUICKLY
+<CAPS SHIFT> + <Q>, <W>, <E>........................POSITION OF BASES 1, 2, 3
+<CAPS SHIFT> + <R>, <T> or <P>......................POSITION OF BASES 4, 5, 0
+<SYMBOL SHIFT> + <Q>, <W>, <E>.....................PERSONNEL AT BASES 1, 2, 3
+<SYMBOL SHIFT> + <R>, <T> or <P>...................PERSONNEL AT BASES 4, 5, 0
+
+GENERAL GAME CONTROLS
+<S> during play................................................SOUND (ON/OFF)
+<H> during play............................................HALT PLAY (ON/OFF)
+<K> before selecting skill...................KEYS TO OWN CHOICE or JOYSTICK/S
+<D> before selecting skill........................SAVE KEY DEFINITION ON TAPE
+<S> before selecting skill...........................SAVE SCORE TABLE ON TAPE
+<L> before selecting skill.......................LOAD SCORE OR KEYS FROM TAPE
+<1> to <4>....at start of game.....................SKILL LEVEL (4 is hardest)
+
+Loading
+-------
+If you wish to use a joystick (or two joysticks) make sure the joystick
+interface is connected to your Spectrum before switching on. Place the
+cassette in the tape recorder, and rewind it to the beginning of the tape.
+Set the cassette recorder to maximum treble if it has a tone control, and
+half volume. Check that the ends of the same wire of the Spectrum's cassette
+cable are connected to the EAR sockets on the Spectrum and the tape recorder.
+Press the keyword <LOAD> on the Spectrum, followed by two pairs of inverted
+commas <"> (press <SYMBOL SHIFT> and <P> at the same time to get one pair
+of inverted commas) and then press the <ENTER> key. Next press the <PLAY>
+key on the tape recorder, and then wait for about five minutes while the game
+loads.
+
+Starting Play
+-------------
+After loading you can start play by pressing <1> to <4> to set the skill
+level (4 is the most difficult), or if you wish to reset the controls to
+the keys (or joystick/s) of your own choice proceed as follows:
+
+To reset the keys to your own choice:
+Press <K> before selecting the skill level. A list of controls will then
+appear on the screen one at a time (eg: UP) under headings (eg: LYNX
+CONTROL). After each one tap the key that you wish to use for that control.
+Note that some keys should be used for the same control (eg: <5>=LEFT and
+WEST and SIGHT LEFT). The last three prompts that you will be given are BASE
+MANNING. BASE POSITION, and BASE NUMBER. For BASE MANNING the normal key is
+<SYMBOL SHIFT>, for BASE POSITION the normal key is <CAPS SHIFT> and for
+BASE NUMBER the normal setting is ANY of the keys in the row starting
+QWERTY. For example if instead of this row you choose to press any key in
+the row starting ASDFG in response to the BASE NUMBER prompt, then <CAPS
+SHIFT> + <A> will give the position of base 1, and <SYMBOL SHIFT> + <ENTER>
+will give you the manning at BASE 0. If you make a mistake while redefining
+the keys you can press <K> at the end of it all and start again. You can
+save your new keyboard definition onto a blank tape by pressing <D> while
+the high score table is on your screen, and reload it at a later date by
+pressing <L>. You can save the high score table onto a blank tape by
+pressing <S>.
+
+For PROTEK, INTERFACE 2, DOWNSWAY joystick interfaces:
+If you are only using a single joystick this will automatically be set to
+read the direction keys and the FIRE key (ie: keys 5, 6, 7, 8 and 0) so there
+is no need to redefine the keys. If you are using two joysticks then follow
+the procedure for reading the keyboard (above) except that you should tap
+the joystick instead of the keyboard for those controls you wish to use a
+joystick. We recommend you set your first joystick to UP, DOWN, LEFT, RIGHT
+and FIRE, and the second joystick to FASTER, SLOWER, ARM LEFT, MAP on/off,
+and SIGHTS on/off.
+
+For KEMPSTON joystick interfaces:
+Stop the tape IMMEDIATELY the game had loaded (ie: when the lynx's rotor
+blades start moving). Then when you will see the high score table before
+selecting the skill level you should press <L> to load in the joystick
+controls from the tape recorder. As soon as this is loaded you should again
+stop the tape IMMEDIATELY you see the high score table reappear. The
+keyboard controls will be as normal except that you can now use your joystick
+in place of:
+
+LYNX..............................................LEFT, RIGHT, FASTER, SLOWER
+MAP..................................................WEST, EAST, NORTH, SOUTH
+WEAPONS.................................................LEFT, RIGHT, UP, DOWN
+FIRE BUTTON..................................FIRE WEAPON and FAST SCAN ON MAP
+
+If you don't like this definition press <L> again to load the next definition
+from your tape recorder, which differs from the first definition in so
+much as FASTER and SLOWER become LYNX UP and LYNX DOWN.
+
+Your Mission
+------------
+Depending on the skill level that you have selected you will have from three
+to six bases which you must support with troops and air cover. Base 0 has
+an endless supply of fuel and weapons, and the ability to instantly
+revitalise injured troops brought back from other bases. All the bases start
+with 30 able bodied soldiers. Allied land vehicles move around the
+battlefield independently of your control. You provide the only allied air
+support. Enemy land vehicles will slowly converge on your bases unless
+stopped by the allied land vehicles (these independent battles can
+ocasionally be seen on the intelligence map or flight screen), by mines that
+you have dropped, or by the other weapons of your COMBAT LYNX helicopter.
+You may attack any aircraft that you see, and all land vehicles that do not
+appear with circles around them on the intelligence map (the circles show
+that they are allied). Your bases may get instantly wiped out in direct
+attacks by enemy tanks, or just suffer a number of casualties as the result
+of passing or minor attacks. If not stopped, eventually the enemy forces will
+all move to attack base 0, after which you will almost certainly lose the
+battle. You are allowed three 'lives' before the game is reset with a
+completely new battlefield.
+
+Arming The Helicopter
+---------------------
+Each time you land at a base you will immediately be presented with a set
+of screens that will allow you to select weapons and troops to be carried on
+your next sortie. At the start of the game the helicopter is hovering just
+above Base 0, so to move into the arming screens you must lightly tap the <6>
+or DOWN key to make your first 'landing'. When landing watch your height
+gauge carefully and land very gently.
+
+The first arming screen allows you to load up with ABLE BODIED PERSONNEL
+(armed soldiers). Each time you press the <+> key (you don't need to press
+<SYMBOL SHIFT> with the <+> key) another soldier will be included in your
+load. You will see the total weight increase with each soldier until you
+reach the maximum load that you can carry. If you wish to reduce your load
+press the <-> key. Each press of the <-> key will reduce the load by one
+soldier. When you are satisfied with your load press the <ENTER> key and you
+will move on to the next arming screen, which will be for INJURED PERSONNEL.
+There won't be any injured soldiers at the start of the game (or at Base 0
+at any other time) so just press the <ENTER> key again to move on to the
+next arming screen, which will for STRAFING ROCKETS. Like the CANNON and
+MACHINE GUN PODS these rockets have no guidance systems, and will just fire
+in the direction that the helicopter is pointing. Also they will be less
+effective against tanks, and should only be selected for use against lorries
+and gun emplacements. Note that as you increase your load of weapons you
+will (automatically) be able to carry less fuel, and may be unable to reach
+the other bases. Of course you can always return to Base 0 to reload and
+refuel, but remember to watch your fuel gauge. Base 0 is the only one at
+the start of the game with fuel supplies. Provided you have first carried
+some weapon loads to the other bases, you will then be able to deposit fuel
+at those bases by re-loading with the weapons there to such an extent that
+some of your fuel is automatically discarded. Generally though, you should
+consider Base 0 as your helicopter support base, and the other bases as
+forward troop positions. On the next arming screen the HOT missiles are
+wire-guided anti-tank weapons, which can be armed independently of the
+direction of the helicopter. After that there are heat-seeking ANTI-AIRCRAFT
+missiles, which will hit most aircraft in front of the LYNX without the
+need for aiming. Finally there are MINES which are carried in a container
+below the helicopter, which may be usefully deployed around your bases to
+prevent them being destroyed by enemy tanks. Be careful not to drop mines on
+your own bases! To get out of the arming screens press the <SPACE> key.
+Please note that in this game you are allowed to carry more weapons than
+would be possible in reality.
+
+The Intelligence Map
+--------------------
+At any time you can inspect the intelligence map by pressing the <M> key.
+A second press of the <M> key will return you to the normal flight screen.
+The map shows the battlefield in relief, ie: the low ground is in white
+squares, high ground is in gren squares, with the rest in yellow. Vehicles
+and bases are shown on the map by black symbols. To move around the map
+use <5>, <6>, <7> and <8> cursor keys. If you hold down the <0> FIRE WEAPON
+key at the same time as the cursor key you will be able to scan the map
+more quickly. Allied vehicles are represented by symbols in circles so try
+to avoid blowing them up! The following symbols are used:
+
+CAPITAL 'T'..............................................................Tank
+CAPITAL 'H'..............................................................Base
+CAPITAL 'H' ON ITS SIDE.................................................Lorry
+CAPITAL 'Y' UPSIDE DOWN.......................................Gun emplacement
+CAPITAL 'X'.........................................................Your LYNX
+FLASHING BLACK SQUARE..............................................Mined area
+CIRCLES AROUND SYMBOLS........................................Allied vehicles
+
+The co-ordinate position of any point on the intelligence map may be taken
+from the North co-ordinates at the side of the map, and the East co-ordinates
+above or below the map. As soon as you turn off the map it is reset to your
+LYNX'S current position. You will be able to note your own co-ordinate
+position and be able to change your direction to make contact with a vehicle
+that you have seen on the map. Unfortunately the intelligence map is only as
+good as the latest information - you may search in vain for a vehicle that
+has recently moved away from its last reported position on the map. Generally
+though, the map is very useful, especially for landing, when you will be
+able to see your LYNX move into position directly above the base, as you
+come in to land very slowly, then hover over the base before descending.
+Note that you cannot control the LYNX while looking at the map.
+
+The Message Micro-Screen & Base Reports
+---------------------------------------
+Just below the height gauge on the normal flight screen there is a green
+micro-screen with a capital M on it, which will flash when a message has
+been sent to you. To read the message press the <1> key. To make the message
+appear more quickly keep on pressing the <1> key. You can also use the
+micro-screen to find the co-ordinate positions of the other bases, along with
+information about how many troops are injured at those bases. For the
+co-ordinate positions press <CAPS SHIFT> plus the letter key that is below
+the number key which has the same number as the base, ie: the <Q> key is
+below key <1>, so for the co-ordinates of Base 1 press <CAPS SHIFT> and <Q>.
+For base 2 press <CAPS SHIFT> and key <W>. To find the number of injured
+and uninhured soldiers at the base press the <SYMBOL SHIFT> key instead of
+the <CAPS SHIFT>. Note that if you hold down key <1> the reports will speed
+up. If you can manage to return injured personnel to base 0 they are
+instantly restored to full active service and may then be re-deployed. When
+any of your bases are attacked the number ofinjured personnel there
+increases. A base that has no able-bodied personnel left which gets even
+lightly attacked will be wiped out.
+
+Flight Controls
+---------------
+Your helicopter is seen from behind. You can see it fly straight (forwards
+or backwards) and at an angle of up to 45 degrees to the right or left of
+the four points of the compass (N, S, E, W). As this angle increases beyond
+45 degrees the 'direction of view' will flick from one point of the compass
+to the next, eg: from North to West. This may appear confusing at first,
+especially as the helicopter will be seen from the right when the North is
+the 'direction of view' and then be seen from the left as you flick through
+to West as the new 'direction of view'. To keep track of your flight path
+watch the compass and your flight co-ordinates next to the compass. At the
+bottom left of your normal flight screen you will see three gauges marked
+'TEMP' for engine temperature (nb: twin engines), 'SPEED' for speed (nb:
+forwards and backwards). and 'FUEL' for fuel. Be careful not to overheat
+your engines, or run out of fuel. When landing you must use the intelligence
+map to check that you are directly above a base, the speed gauge to check
+that you are hovering or moving very very slowly, and the height gauge to
+check that you are coming down gently.
+
+Firing Weapons
+--------------
+This is a two or three stage process. First you must select the weapon system
+that you wish to fire by pressing the <2> or the <9> key. As you press these
+keys a small WEAPONS SELECT cursor will move right for <9> or left for <2>
+across the top of the six 'weapons status' gauges at the bottom centre of
+the normal flight screen. These gauges are marked as follows:
+
+R............Rocket, multiple strafing type..........................unguided
+G............Gun pods, machine-gun type..............................unguided
+C............Cannon, 20mm Oelikeron..................................unguided
+T............Tank attack, H, O, T, missiles.......................wire guided
+A............Air attack, Sidewinder missiles.....................heat-seeking
+M............Mines, underslung for air release........................dropped
+
+You can only fire one weapon system at a time. The active system is the one
+with the WEAPONS SELECT cursor just above it. If you select mines or heat-
+seeking missiles you can release them simply by pressing the <0> FIRE key.
+The heat-seeking missiles will be ineffective at long range, at a wide angle,
+or against very fast jets. Dropped mines can be seen on the intelligence map,
+and are effective against all enemy land vehicles. You can have a maximum of
+sixty mined squares on the intelligence map at any one time. A mined square
+will be affective against two enemy vehicles, afterwhich you will be sent a
+message that the minefield has been breached and is no longer effective.
+The unguided weapons fire in the same direction as the helicopter, and should
+first be sighted by pressing the <ENTER> or WEAPONS SIGHT key (this is not
+compulsary, but you will be unlikely to hit anything without the sights up).
+A small black cross will then appear on the screen, to show where the
+weapons are pointing. The sight can be turned off by a second press of the
+<ENTER> key. These unguided weapons are less effective than the HOT missiles
+against tanks, though they may destroy a tank if you are lucky. Of the
+unguided weapon systems the most effective is the STRAFING ROCKETS followed
+by the CANNON, and the leat effective is the MACHINE GUN POD. To successfully
+target them you will have to change height and the angle of your flight
+path. The HOT anti-tank missiles can also be fired without the sights up,
+but are likely to be a complete waste of time unless yo have first pressed
+the <ENTER> key to get the SIGHTS ON. Once the sight has been switched on it
+can be guided by the <5> <6> <7> <8> cursor keys independently of the
+LYNX. Remember to press the <ENTER> key after firing to turn the sight off
+again, and restore normal flight control. Also remember that the enemy will
+be firing back at you, so don't hang around!
+
+Skill Levels
+------------
+The skill level affects the number of bases that you have to support (from
+three bases at level 1 to six bases at level 4), the total number of enemy
+vehicles (which are in proportion with the number of bases), the rate at
+which your fuel is used up, and the accuracy of the enemy missiles. At level
+1 you will be able to fly high at all times without much fear of being hit
+by enemy missiles, though unfortunately there will always be a small chance
+of being hit. As the skill level increases you will have to fly progressively
+lower, as the enemy missiles will prove deadly at high altitude.
+
+Score
+-----
+Jet Plane.................................................................500
+Helicopter................................................................400
+Tank......................................................................300
+Lorry.....................................................................250
+Gun emplacement...........................................................350
+
+You will also recieve an efficiency rating on the score table which takes
+account of the number of bases destroyed, troops lost, allied vehicles lost,
+ammunition used, and the number of targets hit.
+
+Note
+----
+In this version of COMBAT LYNX you will find that a limited supply of fuel
+and weapons will be available to you at all the bases except base 0 which has
+an unlimited supply. This is an additional feature and is not a bug.

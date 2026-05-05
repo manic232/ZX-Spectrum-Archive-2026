@@ -1,0 +1,174 @@
+BATTLE COMMAND 
+Spectrum 128k, Amstrad CPC Disk
+
+INTRODUCTION
+Set in a near future alternate reality, Battle Command is an arcade/strategy game which allows 
+you to command a single Mauler assault tank in one of a series of scenarios (Missions) in the 
+Ultra War, fought between the two dominant races in the New World.
+
+The latest phase of the North/South war has been going on for over 10 years, with a World War 1 
+situation eventually developing - a standoff between armies massed over a long duo-in battle 
+front.
+
+Such are the defensive capabilities of each side, full scale attacks are suicidal, so any offensive 
+moves are, by necessity, small "behind the lines" actions performed by elite troops in specially 
+designed vehicles.
+
+The Mauler is the latest such machine - an Armoured Fighting Machine capable of being lifted in 
+and out of hostile territory by a fast Stealth Chopper (the Helicarrier) and armed with the most 
+advanced weaponry science can devise.
+
+Try reading through the Your First Mission section to get the hang of how to play Battle 
+Command. Above all, remember that you're fighting behind enemy lines on your own, with only 
+quick thinking and several millions of Credits worth of military hardware to protect you.
+
+LOADING
+Amstrad Disk
+Place the disk in the drive with the side labelled 'BOOT DISK' facing up. Type RWDISK and press 
+return. When the game asks for the "MISSION DISK" please turn the "BOOT DISK" over.
+
+Spectrum Tape +2/+3
+Place the tape fully rewound with side 1 facing upwards in the cassette deck. Press RETURM on 
+the computer, and when prompted press PLAY on the cassette deck. When the game asks for 
+the "MISSION TAPE" please turn the cassette over and rewind it to the start of side 2. Click on 
+the 'START GAME' icon and set the tape running. The clock cursor will become a pointer when 
+the mission directory has been loaded. The relevant mission can no be located on the tape by 
+clicking on the 'SEARCH' icon whilst in mission selection. When a mission has been located its 
+relevant indicator will flash on the mission menu. To load that mission, click on the'SELECT' icon.
+
+Save Game Option
+To save your current mission(s) select STATUS and then select SAVE option. You will then be 
+given a code (write this code down). After the game has been saved the game may then be 
+continued. To load a previously saved game select LOAD at the start of the game and then type 
+in your code, then press ENTER/RETURN and then select START.
+
+PLAYING THE MISSIONS
+In order to get the best out of this game it is suggested that you read the following sections of the 
+enclosed manual for the ST/Amiga/PC
+
+Page              	Section Title 
+5		The World 
+5		Playing Battle Command 
+7-18		The Mauler 
+24-30             	Your First Mission.
+
+
+and then refer to the differences as indicated below. However, if you wish to take the plunge 
+immediately, read the following section to familiarize yourself with the controls, or alternatively 
+use the quick reference card as you play the first mission.
+
+Spectrum/Amstrad Control Guide 
+The cursor can be moved with the joystick or with the keys Q (up), A (down), 0 (left), P (right) and 
+Space as the fire/select button.
+
+The tank is controlled by the same system using UP for acceleration, DOWN for deceleration, 
+and LEFT and RIGHT steering the tank in the appropriate direction.
+
+Pressing the keys 1, 2, 3 or 4 will activate the appropriate weapon slot. The active weapon slot 
+will then be highlighted in the upper console display. The different weapon types are controlled as 
+follows:-
+
+Pulveriser:      		Press fire to launch a single shell. Cannon:
+
+Skeet Bomb:    	Press fire to launch a single skeet.
+
+Cluster         		Press fire to launch a cluster bomb. 
+Bomb:
+
+Surface to       		First sight your target, then press fire to obtain 
+Surface         		lock on. The cursor will flash to indicate this. 
+Missiles:        		Pressing fire again will now launch the missile.
+
+Dragonfly:      		Use fire to launch. When the missile has been 
+			launched, its main display will show a view from
+			just behind the Dragonfly. This missile is 
+			controlled using the same method as the tank. 
+			Pressing fire a second time will result in control 
+			switching back to the Mauler.
+
+The following weapons are controlled using two extra keys. These are referred to as the upper 
+and lower module buttons and are activated by the keys J and K respectively.
+
+Surface to 		First sight your target, using the tank left and
+Air Missiles  		right controls and the upper and lower module 
+			buttons to adjust the elevation of the sight. 
+			Then press fire to obtain lock on.
+			The cursor will flash to indicate this. Pressing 
+			fire again will now launch the missile.
+
+Mortar:         		Use upper module button to increase the 
+			elevation angle and the lower module button
+ 			to decrease the angle. Press fire to launch 
+			a mortar shell.
+
+Sleeper         		Use the module buttons to adjust the time delay, 
+Mine:           		pressing fire drops the mine.
+
+Spectre         		Press fire to launch a single flare or use the 
+Flares:         		module buttons to switch automatic mode off or
+			on.
+
+Phantom        		Press fire to launch a burst of chaff or use the 
+Chaff:          		module buttons to switch automatic mode off or
+			on.
+
+SLAM Laser:    	Use the module buttons to switch this weapon 
+			on or off. It only operates in automatic mode.
+
+The other equipment is operated as follows: 
+	
+Nightsight:      		Pressing N toggles this view mode on or off.
+
+Binoculars:      		Pressing B toggles this view mode on or off. 
+			Press Z for zoom mode. this alters the 
+			magnification level.
+
+Rear View:      		Pressing R toggles this view mode on or off.
+
+Helicarrier:      		Pressing H toggles the Helicarrier request 
+			transmission on or off.
+
+The various game screens are accessed by the following methods:
+
+Review          		Pressing M will enter this screen. Key B displays 
+Briefing:        		the briefing text and pressing M again returns to
+			the map screen.
+			On the map display a flashing cursor indicates 
+			the Mauler's current position. The letter P marks 
+			the helicarrier pickup point and a letter T shows 
+			the main target.
+
+Damage        		Pressing D enters this screen. The various levels 
+Screen:        		of damage to the Mauler and equipment are
+			displayed.
+
+The main console view is returned to by pressing key C. Please refer to the keyboard refRrenc'e 
+chart for this information.
+     
+Pause          		Pressing E enters pause mode. Play is 
+Screen:         		suspended until the player either quits the
+			current mission or continues by choosing key Y
+			or N respectively.
+
+BATTLE COMMAND
+Its program code. graphic representation and artwork are the copyright of Ocean Software 
+Limited and may not be reproduced. stored, hired or broadcast in any form whatsoever without 
+the written permission of Ocean Software Limited, All rights reserved worldwide.
+
+THIS SOFTWARE PRODUCT HAS BEEN CAREFULLY DEVELOPED AMD MANUFACTURED 
+TO THE HIGHEST QUALITY STANDARDS. PLEASE READ THE INSTRUCTIONS FOR 
+LOADING. CAREFULLY.
+
+If for any reason you have difficulty in running the program you may contact our Ocean Helpline 
+direct by telephoning 0626 332533. However if you believe that the product is defective please 
+return it direct to: Mr. Yates. Ocean Software Limited, 6 Central Street, Manchester, M2 5MS. Our 
+quality control department will test the product and supply a replacement if we find a fault. If we 
+cannot find a fault the product will be returned to you at no extra charge. Please note that this 
+does not affect your statutory rights.
+
+CREDITS
+Amstrad and Spectrum programmed by Stephen Hey. 
+Music by Jonathan Dunn 
+Produced by D.C. Ward 
+©1991 Ocean Software Ltd.
+

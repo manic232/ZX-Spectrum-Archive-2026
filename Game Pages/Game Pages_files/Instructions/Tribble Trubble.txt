@@ -1,0 +1,94 @@
+Tribble Trouble (c) 1984 Software Projects Ltd 
+----------------------------------------------
+
+INTRODUCTION
+
+Brian Skywalker is a tribble farmer on the planet Noom. When
+on a mission to round up wild tribbles to increase his
+stock, his Noomrover runs out of fuel and Brian is forced to
+herd his captured tribble back to base on foot. Luckily,
+tribbles are (fairly) obedient and if they are close to
+Brian they will go in the direction he is facing. Brian
+himself is pratically indestructible, but various
+tribble-zapping hazards must be overcome before the pair can
+return safely to base.
+
+SHEET 1 Brian is stranded at the foot of Firebug mountains.
+Firebugs eat tribbles. So dump the tribble in the top of the
+Noom rover, dig for magic gems. Look for then when they
+sparkle (press '0') to reveal rocks, kick the waterfall,
+don't let the tribble down.
+
+SHEET 2 Goofer Desert. Tribbles eat goofers but are killed
+by cacti. Eat all goofers as they pop up; don't let tribble
+hit cacti; watch out for Brian, he may get caught up on the
+cactus spines.
+
+SHEET 3 Spheroids Cave. Spheroids eat tribbles. You can
+burst Spheroids with tin-tacks (press '0'): descend through
+levels and escape.
+
+SHEET 4 Snappers Lair. Tribbles eat spinning mushrooms but
+Snappers eat tribbles. Can you get the tribble to eat all
+the mushrooms while avoiding the Snappers.
+
+SHEET 5 On returning to base, Brian finds that his whole
+stock of tribbles has escaped. You must return all the
+tribbles to their pen before the air supply runs out.
+
+LOADING INSTRUCTIONS
+
+1.  Connect lead to ear socket of Spectrum from ear socket
+    on recorder.
+2.  Rewind tape to beginning.
+3.  Set Volume Control to the required level.
+4.  Type LOAD "" or LOAD "TRIBBLE".
+5.  Press key marked enter on your Spectrum.
+6.  Press play on your cassette recorder.
+7.  Your program will now load.
+
+If the program does not load first time, repeat instructions
+but try a different volume setting. Loading time approx two
+minutes.
+
+TO MOVE USE KEYS
+
+P = RIGHT
+O = LEFT
+Q = UP
+Z - DOWN
+0 - DIG/PLACE TACK
+
+Also compatible with Kempston joystick interface.
+
+Author: Jim Scarlett
+
+Software Projects are always looking for new and original
+games. If you have written one then why not send it to us
+for free evaluation with no obligation by either party. We
+pay good royalties or you have the option of an outright
+payment, whichever suits you. Interested? Send a sample of
+your game or 'phone.
+
+Software Projects
+Bear Brand Complex
+Allerton Road
+Woolton
+Liverpool L25 7SF                              051-428 7990
+
+------------------------------------------------------------
+
+TRIBBLE TROUBLE (c) Copyright 1984 by Software Projects Ltd.
+ Unauthorised copying, lending, hiring, public brodcasting,
+ transmission or distribution is prohibited without express
+       written permission of Software Projects Ld.
+
+ TRIBBLE TROUBLE may not be hired or offered to sale on any
+  optional buy back basis without prior written consent of
+                    Software Projects Ld.
+
+       All rights of the Author are reserved worldwide.
+
+------------------------------------------------------------
+
+Complete Instructions typed in by Paul Thompson, April 2003

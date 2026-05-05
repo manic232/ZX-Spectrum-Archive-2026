@@ -1,0 +1,212 @@
+STARION - MELBOURNE HOUSE
+
+1. INTRODUCTION
+
+Starion is a multi-dimensional 243-zone space-time travel simulation requiring
+reflex skills, analytical powers, stamina and a keen sense of adventure.
+The game utilises the most advanced vector graphics system ever developed for a
+home computer and will run on any 48K ZX Spectrum or Spectrum+. Control may be
+either the keyboard or any popular joystick. The ZX printer may also be used
+for making copies of the screen.
+
+2. LOADING INSTRUCTIONS
+
+1. Place the cassette in your player making sure that it is rewound to the
+   start and that the EAR socket of your Spectrum or Spectrum+ is connected to
+   that of the tape player, as detailed in the spectrum manual.
+2. Enter the command Load"STARION" or just Load"" then press the ENTER key.
+3. Start the tape player. The game will load automatically.
+4. In case of difficulty alter the volume level and consult your Spectrum
+   manual.
+
+3. SCENARIO
+
+The year is 2010 and your name is Starion. Fresh out of Space Academy, you have
+been selected as their brightest pupil to pilot the world's first timeship, the
+S.S. Stardate. Your mission: to boldly go back in time and correct the
+devastation wrought in the Space-Time continuum by evil aliens from all the
+other worlds that have achieved time travel before you.
+As you progress through the game, your ability as a pilot increases. You are
+rewarded with promotion through the ranks from Novice to Supreme Commander. If
+and when you finally reach 'Event Zero' before the beginning of time (event
+one), then you become the earliest thing to exist and must by default assume the
+ultimate title of CREATOR of all that follows.
+
+4. CONTROLS
+
+The main controls for your ship are as follows:
+I=Bank left             P=Bank right
+W=Dive                  C=Climb
+E=Accelerate            Q=Decelerate
+N=Fire Laser
+In addition the following controls might be useful:
+T=Target sights on/off
+S=Sound on/off
+Z=Copy screen to ZX Printer
+H=Pause/Continue
+R=Status report
+CAPS+SPACE=Abort game
+
+Keys are redefinable or you can use a joystick.
+
+5. THE NATURE OF SPACE-TIME
+
+The space-time continuum is constructed of 3 'time blocks' and each time block
+is a 3x3 array of 'time grids'. Each time grid is a 3x3 arrangement of time
+zones. Taking into account the 3 dimensions of space itself, there are thus 243
+time zones in 8 dimensions.
+Each time zone represents the state of the observable universe during a given
+year in Earth history. The timetravelling aliens have wrought havoc on your past
+by removing items of historical significance from their correct time zone to one
+of the eight neighbouring time-zones in the local time grid, by means of their
+heavily-armed timeships.
+
+6. THIS IS WHAT YOU DO
+
+To save the universe from chaotic collapse you must proceed as follows ...
+Engage and destroy the enemy ship in your time zone by space to space combat.
+The dead alien's cargo will materialise in the form of an alphabetical letter.
+Collect this letter by coming to a complete halt in its centre. It will be
+stowed in your hold and attacks will continue until you have destroyed the enemy
+fleet and collected all the letters.
+The on-ship computer will now ask you to unscramble the letters to identify the
+original cargo dislodged in time by the enemy. Having done this, you must locate
+the entrance to a time warp and fly into it. The time-grid will be displayed.
+Now decide which of the eight neighbouring time zones is the year in which your
+cargo belongs.
+The jump is made and you appear in a new time-zone. Your first task is to land
+on earth (fly straight into it) and see if your cargo will solve the historical
+problem. If you have the correct cargo, then it will be ejected, your oxygen and
+fuel will be replenished and you may do battle with a new breed of enemy for the
+next item.
+If you have jumped to the wrong time zone, then you will still have to destroy
+enough ships, mines and enemy missiles to liberate sufficient energy to create a
+new time warp, but no enemy cargo will appear. Only then will you be able to
+escape, still carrying the same cargo.
+Once you have corrected history in all nine zones in the time-grid, the time
+warp formed after the next battle will take you to one of the eight neighbouring
+time-grids in the current time-block. You must take the first letter of each of
+the nine items you have moved and unscramble THESE to form a password, which,
+when entered into the flight computer will convince it that you are capable of
+inter-grid time travel.
+Having completed all nine time-grids in the current block, you must unscramble
+the initial letters of the nine grid passwords to form the password for
+inter-block time travel down the next time warp. At this stage just one third
+of history has been corrected.
+When all three time blocks (and hence all 27 time-grids and all 243 time
+zones) have been corrected, you will have three inter-block passwords. Take the
+first and last letters of each, unscramble them, and you will have the six
+letter master password which will permit exit from the space-time continuum.
+You will then yourself become event zero, and have achieved the title of:
+
+                               CREATOR
+
+7. RANKINGS
+
+Your achievements for mankind are rewarded with ascending rank as follows:
+
+  ACHIEVEMENTS:                    RANK:
+
+  None                             Novice
+  One complete time zone           Chronotourist
+  Line of 3 time zones             Trizoner
+  One complete time-grid           Grid Master
+  Line of 3 time grids             Triple Grid Master
+  One complete time block          Space Admiral
+  Two complete blocks              Supreme Commander
+  Three blocks and Event Zero      CREATOR
+
+8. INSTRUMENTS
+
+Looking from left to right at your instrument panel, you will see: the
+speedometer, measuring the magnitude of your velocity. Next, the hull
+thermometer. This registers higher at high speeds, and the hull is also heated
+by excessive laser fire.
+Next there is a display of the letters in your cargo hold, followed by the
+essential biplanar scanners, which provide all-round detection.
+The first (X-Z) scanner gives a view around you in the horizontal plane in which
+you are flying. You are in the centre and flying 'up' the screen, so an enemy a
+long way to your left and behind would be in the bottom-left corner of the
+display.
+The second (Y-Z) scanner lets you know how far above or below you the enemy is,
+by providing a view around you in the vertical plane, in which you are flying at
+centre towards the right. Thus an enemy ahead and above would be towards the
+top-right corner of the scanner.
+Enemies are indicated by plus (+) signs, their missiles and mines by dots (.),
+while everything else is indicated with minus(-)signs. With practice you will
+become skilful enough to locate anything anywhere in 3-D space just by glancing
+at the scanners.
+Adjacent to the scanners you will see a set of pitch/yaw/roll indicators, and
+above them a calendar giving the year of the current time-zone. The final two
+gauges give your fuel (hydrox) and oxygen levels, and below them you will find
+a display of the remaining hulls on your ship.
+Your ship is a multi-hulled vessel, and impacts with mines, rocks and missiles
+will increase the outer hull temperature. The more potent weapons will destroy
+a hull completely.
+
+9. PLAYING TIPS
+As with most arcade games, your ability to control the S.S. Stardate, your
+combat skills, and your sense of position will improve with practice.
+Rocks, binary rocks and other space debris will not be destroyed by laser fire,
+so you must avoid them.
+As your historical knowledge grows, you will soon be able to take the fastest
+route around each time-grid, in nine steps, thereby gaining points for conserved
+fuel and oxygen. You will also gain points for destroying enemy ships, mines and
+missiles.
+
+10. ABOUT DAVID WEBB
+
+Starion was the result of over nine months of intensive part-time programming by
+David Webb, a nineteen year-old undergraduate in Mathematics at Exeter College,
+Oxford. He is also the author of two books on the ZX Spectrum; "Supercharge Your
+Spectrum", a collection of machine language routines for basic programmers, and
+"Advanced Spectrum Machine Language", for experienced machine language
+programmers. Both were published by Melbourne House.
+
+[ Cassette inlay from Jim Grimwood <jimg@globalnet.co.uk> and Simon Rooney ]
+
+INFORMATION
+The original release of the game was impossible to complete. You were supposed
+to be able to refuel your ship by either:
+a) landing on a planet; or
+b) reaching a sufficiently high score to get a new ship.
+Option a) didn't work, and option b) was impossibly high - so you couldn't make
+much progress.
+A subsequent release fixed these bugs but left in another one which wouldn't be
+found until right near the end, as one of the anagram solutions used 12 letters
+(OBERAMMERGAU), one more than the maximum the program could handle, so it
+crashed when it was entered. Melbourne House provided a patch to fix that. This
+patch is only useful with the final release of the game (after the other bugs
+had been fixed).
+
+STARION FIX
+ 10  CLEAR 65471
+ 20  LET BASE=65472
+ 30  LET CHK=0
+ 40  FOR A=0 TO 51
+ 50  READ B
+ 60  POKE BASE+A,B
+ 70  LET CHK=CHK+B
+ 80  NEXT A
+ 90  IF CHK <> 5408 THEN PRINT "DATA WRONG. CHECK LINES 130-200": STOP
+100  PRINT "PLAY STARION TAPE FROM START"
+110  LOAD "" CODE
+120  RANDOMIZE USR BASE
+125  REM
+130  DATA 221,33,0,64,17,208,191
+140  DATA 62,255,55,49,0,0,205
+150  DATA 86,5,33,47,169,52,17
+160  DATA 54,169,33,233,255,1,5
+170  DATA 0,237,176,14,6,17,79
+180  DATA 200,237,176,195,67,128
+190  DATA 200,65,195,79,200,54
+200  DATA 61,35,16,251,201
+
+Now type RUN. If you get a "DATA WRONG" message then check the numbers in lines
+130-200 until they are correct. Otherwise you will be asked to put the Starion
+tape in your player and play it as normal. The game will then be loaded and
+altered, ready to play.
+
+SOURCES
+cassette inlay                                   (controls/instructions)
+Melbourne House         1985                     (fix)

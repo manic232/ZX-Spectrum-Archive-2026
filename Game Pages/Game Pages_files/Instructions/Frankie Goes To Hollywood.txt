@@ -1,0 +1,193 @@
+FRANKIE GOES TO HOLLYWOOD - OCEAN SOFTWARE LTD
+
+Frankie have sent you over 60 tasks in your journey from Mundanesville
+through the Pleasure Dome. Tasks ranging from the trivial, to heroic
+feats of skill and intelligence. Whenever you complete these
+challenges a bar-chart will show your increase in the various elements
+of your personality and Pleasure points will be awarded.
+
+Your goal is to become a complete person and to achieve this you must
+reach the top on the Bar Charts (when the letters BANG will appear
+above the personality factors) and achieve a score of 99,000 Pleasure
+Points. This combination awards you the minimum requirement (99% a
+complete person) to search for the Special Door - the Door to the
+Ultimate Experience - the heart of the Pleasure Dome.
+
+KEYBOARD
+
+User definable keys.
+
+Study the joystick controls for the full repertoire of movements
+available. All these movements can be obtained by using the relevant
+combination of keys.
+
+JOYSTICK
+
+[Graphic: Joystick right = walk right]
+
+PUSH JOYSTICK IN OPPOSITE DIRECTION TO WALK LEFT.
+
+[Graphic: Joystick right+fire = raise arm]
+
+REACH - WAIST HEIGHT
+
+[Graphic: Joystick right/up+fire = raise arm higher]
+
+REACH - SHOULDER HEIGHT
+
+THESE MOVEMENTS CAN ALSO BE USED TO 'ZAP' WHEN REQUIRED
+
+[Graphic: player sprite facing the front of the screen]
+
+A short 'stab' on the joystick/keyboard in opposite direction to which figure
+is facing will achieve this position.
+
+TO ENTER A DOOR ETC. YOU MUST BE IN THIS POSITION THEN PUSH
+JOYSTICK/KEYBOARD 'UP'
+
+TO CLOSE 'INVENTORY' WINDOW OR ANY WINDOW IN WHICH THE 'CURSOR FINGER'
+IS USED, MOVE 'CURSOR FINGER' TO 'QUIT' ICON AND PRESS 'FIRE'.
+
+TO PICK UP OBJECTS EITHER TOUCH OR STAND OVER OBJECT AND PRESS 'FIRE'
+BUTTON AND 'UP'.
+
+Your 'INVENTORY' window can be accessed by pressing FIRE button and
+joystick/keyboard 'DOWN'. You may then use object/objects you are
+carrying moving 'CURSOR FINGER' to chosen object and pressing 'FIRE'
+button.
+
+You begin your adventure devoid of personality in an environment of
+suburban boredom, but don't be put off by ennui, all may not be as it
+appears! There are different streets and different houses, take
+nothing for granted. Touch everything, explore, probe, experiment -
+your curiosity will be rewarded. Pick up objects - some of these will
+help you now, others you will need to survive and succeed in the
+Pleasure Dome.
+
+Remember you can only carry 8 objects at a time so you need to be
+selective about the items you take with you, once abandoned they may
+not be used again.
+
+YOUR INVENTORY
+
+You may check your inventory at any time by pressing the FIRE button
+and moving the joystick downwards. To resume play immediately use the
+QUIT icon to close window.
+
+As you explore the aspects of everyday life, keep your wits about you
+as sooner or later you will stumble upon the...
+
+MURDER MYSTERY
+
+You will come across a body... who is the killer? Solve the mystery by
+a process of elimination:- Find all the clues which appear in windows
+(23 facts in all). Return to the scene of the crime, walk into the
+window showing the suspects and point to the killer.
+
+CAUTION: You will need to restart the game if you're wrong.
+
+TAKE A TIP: A system of noting the clues may help your investigation.
+
+In the quest to form your personality you must use what has been
+gleaned from everyday life to complete all the 'Arcade Elements'.
+These elements are linked within the Dome by a conduit, the...
+
+CORRIDORS OF POWER
+
+This Labyrinth enables you to move at will within the Dome and
+connects with Mundanesville (though other routes may also be
+discovered).
+
+It can be mapped by observing the colour of manhole covers located
+along its path. Fireballs emerge from the manholes, Zap them and you
+will create additional exits.
+
+The entrances will appear as the game is played. Learn to use the
+Corridors well, they will help you succeed in elements that follow and
+within them (when your personality is completed) will be revealed the
+door to the very centre of the Pleasure Dome... The Ultimate Screen.
+
+THE PLEASURE DOME
+
+Inside the Pleasure Dome are a variety of games and puzzles which must
+all be completed to gain sufficient points to form your personality.
+Through experience and inspiration you WILL succeed. There are
+principal entrances into this world of the mind (one from each
+street), however others can be found but only used once, so be
+prepared.
+
+These entrances and the ones which will become evident in the
+Corridors of Power give access to the...
+
+ARCADE ELEMENTS
+
+THE TERMINAL ROOM
+
+You must use information to complete this task - pay close attention
+to your inventory and the objects on the screen.
+
+TIP - If your inventory is incomplete the lift may aid your escape.
+
+SEA OF HOLES
+
+Go in and out of time and space to reach the floor beneath you.
+
+HINT - There's more here than meets the eye.
+
+CYBERNETIC BREAKOUT
+
+One game must be completed for each symbol (guide the symbol into the
+spark).
+
+HINT - What you are carrying could halve your pain or double your pleasure!
+
+RAID OVER MERSEYSIDE
+
+Stop the bombers destroying Merseyside and its shipping. You have a
+time limit to survive or destroy the enemy (multiple hits on the
+planes).
+
+SHOOTING GALLERY
+
+Take pot shots at famous personalities.
+
+PLAYING TIP - You must reload to fire (allow the sights to fall to the
+bottom of the screen).
+
+THE ZTT ROOM
+
+Break down the wall to enter the control section and then solve the
+puzzle. Use the Power of Zap to fire but be careful to dodge the
+bullets. (Remember you must complete the puzzle to win.)
+
+HINT - You may bring protection from the rooms of the Mundane, quite
+appropriate to cover this task.
+
+TIP - Locate the key which switches pieces on and not off
+
+WAR ROOM
+
+Shoot the symbols in this final Arcade task to obtain Pleasure Points.
+(There is one game for each symbol).
+
+HINT - The power of love may be of great help here.
+
+TALKING HEADS
+
+This dialogue between World leaders can get nasty. A counter tells you
+how many (political) lives you have left.
+
+CONTROL PLAN
+
+As you become more familiar with the Pleasure Dome and its interface
+with the ordinary World, you will begin to learn the layout of the
+Game and be able to move quickly from one element to the next using
+the Corridors of Power or other methods you will discover. REMEMBER,
+to develop your personality completely you must finish all the tasks,
+for only then will the opportunity arise, to re-enter the maze and
+search for that Door behind which lies the secret of self discovery Go
+for it!
+
+Game design
+
+OCEAN/DENTON DESIGNS

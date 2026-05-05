@@ -1,0 +1,171 @@
+THE SPECTRUM GAMES DATABASE
+
+PAPERBOY
+
+PUBLISHER
+Elite
+
+AUTHOR
+Unknown
+
+YEAR
+1985
+
+CATEGORY
+Arcade conversion
+
+DESCRIPTION
+Amusing scrolling shoot/avoid-em-up with a suburban twist!
+
+CONTROLS
+Keyboard (Q,A,O,P,SPACE), Kempston, Sinclair, Cursor
+
+INSTRUCTIONS
+You are the Paperboy and must deliver the newspaper to your
+customers on a daily basis. Being set in the USA, this entails
+riding your bike down a different street every day, throwing
+newspapers into the mailboxes or onto the doorsteps of your
+subscribers. If a person doesn't get his paper, he'll cancel his
+subscription - and no subscriptions means no job!
+
+Papers can be handy for other things though.... There are various
+obstacles in your way which will try to knock you off you bike.
+A well-aimed newspaper makes a handy weapon against these
+hazards! Also, there's no harm in encouraging people who don't
+subscribe to your paper to think again about their decision -
+whack a few papers through their windows for extra points! And
+while you're at it, why not aim a few at their bird tables and
+dustbins? Or ride your bike over their flower beds? Mind you
+don't run out of papers though! You can only carry ten at a time,
+but supplies are left at various points along your route for you
+to pick up.
+
+You are given a number of lives to complete as many days as
+possible.  You lose a life if anything knocks you off your bike,
+but the game will end immediately should you run out of
+subscribers! Get to the end of the day and you can complete an
+assault course for extra points!
+
+
+INLAY CARD TEXT
+Pick up your old Push Bike, put on your peaked cap and imagine yourself braving 
+the streets of an American suburb.  Only superb riding skills and a steady 
+throwing arm can get you through your seven day week of hilarious action.  
+Avoid cars, workmen, drunkards and lawnmowers all out to obstruct you in your 
+pursuit of excellence.  Score points by delivering to all your usual customers, 
+but you can get sneaky bonuses by breaking the windows of non-subscribers.  
+It's a difficult task but your employer believes that practice makes perfect 
+and generously provides a practice track where you can score valuable extra 
+points.  Get ready for the ride of your life.
+
+
+LOADING INSTRUCTIONS
+Spectrum (Cassette)
+LOAD ""
+Amstrad/Schneider (Cassette)
+RUN"ELITE"
+Amstrad/Schneider (Disc)
+RUN"ELITE"
+Commodore 64/128 (Cassette)
+Shift+Run/Stop
+Commodore 64/128 (Disc)
+LOAD"*",8,1
+Commodore C16 (Cassette)
+LOAD"ELITE"
+BBC/Electron (Cassette)
+CHAIN ""
+BBC (Disc)
+Shift+Break
+
+
+
+PLAYING INSTRUCTIONS
+Spectrum
+  Accelerate      -Q
+  Brake           -A
+  Turn left       -O
+  Turn right      -P
+  Throw Paper     -N
+Amstrad/Schneider
+  Accelerate      -User Definable
+  Brake           -User Definable
+  Turn left       -User Definable
+  Turn right      -User Definable
+  Throw Paper     -User Definable
+Commodore 16/64/+4/128
+  Joystick Port 2
+BBC/Electron
+  Accelerate      -*
+  Brake           -?
+  Turn left       -Z
+  Turn right      -X
+  Throw Paper     -Return
+MSX
+  Accelerate      -Cursor Up
+  Brake           -Cursor Down
+  Turn left       -Cursor Left
+  Turn right      -Cursor Right
+  Throw Paper     -Space Bar
+
+
+
+(c)-Elite Systems Ltd.-1986
+  All rights reserved worldwide.  Unauthorised copying, lending, broadcasting or
+resale without the express written permission from Elite Systems Ltd. is 
+strictly prohibited.
+  Guarantee: This software product has been carefully developed and manufactured
+to the highest quality standards.  Please read carefully the instructions for 
+loading which are included.  If for any reason you have difficulty in running 
+the program, please return it directly to the following address:
+   
+  Customer Services Dept.,
+  Elite Systems Ltd.,
+  Anchor House,
+  Anchor Road,
+  Aldridge, Walsall,
+  WS9 8PW, England.
+  Telex: 336130 ELITE G
+   
+  Our Quality Control Department will test the product and supply an immediate replacement at no extra cost.  Please note that this does not affect your statutory rights."
+
+(c)-1984 Atari Games, Inc.  All rights reserved
+
+
+CHEATS
+POKE 50495,201 to become invincible
+POKE 49263,0   for infinite papers
+POKE 50577,190 for infinite lives
+
+SEQUELS/PREQUELS
+Paperboy 2 was released by Mindscape (I think) many years later.
+It's not as good.
+
+SCORES RECEIVED
+Unknown, but quite good. Not classic status, though.
+
+URL
+ftp://ftp.nvg.unit.no/pub/sinclair/snaps/games/unsorted/p/pape
+rboy.zip
+ftp://ftp.nvg.unit.no/pub/sinclair/snaps/games/unsorted/p/papr
+boy2.zip
+
+GENERAL FACTS
+You can tell which houses are subscribers and which aren't
+without remembering them from the map at the start of the level.
+Houses which are subscribers look light, and houses which aren't
+subscribers look dark. Check out the windows!
+
+The high score table features a border effect! This looks like
+a set of handlebars and is pretty good. Unfortunately, it only
+works properly on a REAL 48k Spectrum. On the emulators or any
+128k machine, it looks all skewed and horrid.
+
+The original Atari arcade machine had a real set of handlebars
+on the from which you used to steer the Paperboy. The Speccy
+version doesn't attempt to emulate this (you'll be pleased to
+hear).
+
+NOTES
+Not a bad conversion, but not amazing. I still come back to play
+this occasionally, so I guess it's stood the test of time pretty
+well. 

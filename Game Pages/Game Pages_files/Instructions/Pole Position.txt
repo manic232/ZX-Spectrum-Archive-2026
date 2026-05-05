@@ -1,0 +1,108 @@
+=============
+Pole Position
+=============
+Document created by rstuart@ukonline.co.uk on 7th Jan 00 for
+World of Spectrum: http://www.void.demon.nl/spectrum.html
+
+Taken from the U.S. Gold compilation 'The Gold Collection II'.
+
+Pole Position
+-------------
+Experience the thrill of high-performance racing. Feel the excitement and
+nerve-shattering danger as you race against the clock and take the lead.
+Your skills and endurance are put to the ultimate test on a race track built
+for the best drivers and the fastest Formula 1 racers.
+
+Capture the pole position, turbo-charge your way past the competition, and
+be the first to reach the checkered flag!
+
+Loading Instructions
+--------------------
+Ensure cassette is fully rewound. Zeroise tape counter. Type LOAD"" and
+press ENTER. Press PLAY on the recorder. The required programme will then
+load automatically. In the event of 2 games on one side of the cassette
+stop the recorder after the 1st game has loaded. Switch off the computer and
+then on again and repeat loading procedure. You may find it worthwhile to
+make a note of the counter reference on the cassette player for quick
+reference.
+
+Produced under liscence by U.S. Gold Ltd., Units 2/3 Holford Way, Holford,
+Birmingham B6 7AX.
+Copyright subsists on this program. All rights of the producer reserved.
+
+Keyboard
+--------
+When using your keyboard you can move your Racer with the following keys:-
+
+  O ................. LEFT
+  P ................ RIGHT
+  Q .............. BRAKING
+  A ........ GEAR CHANGING
+
+Joystick
+--------
+Steer your Racer by moving your Joystick to the left or to the right. Move
+your Joystick to the forward position to put your car in gear. To give your
+car extra boots, shift the Joystick from the forware position (LO Gear) to
+the back position (HI Gear).
+
+To Begin
+--------
+Press the 'S' key to start the game.
+
+Pause
+-----
+Pressing the 'H' kay pauses the game. To resume the game press the 'H' key
+again.
+
+Restart
+-------
+To restart the game at any time press the 'S' key.
+
+Game Play
+---------
+Here's your chance to prove you've got the skill to be a professional race
+car driver, as you pit yourself against the clock and the world's top
+Formula 1 race cars.
+You have 90 driving seconds in the qualifying run, but must achieve a lap
+time of 73' or better to qualify for the race. After you qualify the real
+race begins!
+If you hit another car, your car will explode, costing you precious time.
+No matter how many times you crash, you'll recieve another car until your
+time runs out.
+
+Game Strategy
+-------------
+* MAKE A FAST START. In the qualifying lap, be prepared to take off as soon
+as your race car appears on the screen. In the real race, be ready to take
+off as soon as the green light flashes.
+
+* USE THE INSIDE TRACK. Stay in the inside lane as much as possible. You can
+travel faster and manoeuvre easily around other cars.
+
+* AVOID SKIDS. Skidding slows you down and gives other cars a chance to
+outdistance you. Remember, you earn 50 points for every car you pass.
+
+* USE THE GEARS. From a standing start, always select LO Gear. To optimise
+your acceleration, change to HI Gear before you reach 105 mph.
+
+Scoring
+-------
+Qualifying Lap Times Per Starting Position and Corresponding Bonus:
+STARTING POSITION    LAP TIME    BONUS
+        1              58"00      4000
+        2              60"00      2000
+        3              62"00      1400
+        4              64"00      1000
+        5              66"00       800
+        6              68"00       600
+        7              70"00       400
+        8              73"00       200
+Each five meters travelled          50
+Each car passed                     50
+Each second left on time clock
+after reaching the checkered flag  200
+
+Pole Position(R) (C) Data Soft Inc.
+(C) 1986 U.S. Gold Limited. All rights reserved.
+U.S. Gold Limited, Units 2/3 Holford Way, Holford, Birmingham B6 7AX

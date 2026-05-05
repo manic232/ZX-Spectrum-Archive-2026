@@ -1,0 +1,103 @@
+Cybernoid (c) 1987 Hewson Consultants Ltd
+-----------------------------------------
+
+LOADING INSTRUCTIONS
+
+Spectrum Cassette
+
+48K ZX Spectrum, ZX Spectrum Plus or ZX Spectrum 128 with cassette player,
+ZX Spectrum +2, Spectrum +3.
+
+You are advised to disconnect all hardware from the rear edge connector with
+the exception of your joystick interface (if any). When using a Sinclair
+Unterface 2 or the ZX Spectrum +2 plug the appropriate Joystick into port 1.
+Unless using a ZX Spectrum +2 connect a cassette player to the computer in
+the usual manner. ZX Spectrum +2/+3 and 128 users should select 48K mode.
+Rewind the cassette if necessary, enter LOAD"" on the computer keybopard and
+press the ENTER key. Press the PLAY key on the cassette player. The game
+takes a few minutes to load.
+
+Spectrum +3 Disc
+
+You are advised to disconnect all hardware from the rear edge connector with
+the exception of your joystick interface (if any). Place the disc into the
+drive and press the ENTER key.
+
+SCENARIO
+
+Federation storage depots have been raided by pirates, taking valuable
+minerals, jewals, ammunition and the latest battle weaponary. You have been
+commissioned by the Federation to retrieve the cargo and return it to a
+storage within a specified time limit. Extra points and an extra ship will
+be awarded if you succeed.
+
+The pirate craft have activated all planetary defence systems which you will
+have to negotiate as well as the pirates themselves. If you fail to reach
+the depot within the time limit or the value of your retrieved cargo is
+insufficent you must forfeit one of your Cybernoid ships.
+
+CONTROLS
+
+Default control keys are as follows or use a joystick:
+
+Left  - O
+Right - P
+Up    - Q
+Fire  - Space
+Pause - Press CAPS SHIFT & SYMBOL SHIFT
+
+To abort press 5, 6, 7, 8, 9 and 1 simultaneously.
+
+GAMEPLAY
+
+When a pirate craft has been destroyed it willdfrop its cargo of stolen
+objects. Manoeuvre your ship over the object to retrieve it. Certain objects
+will alter the appearance of your ship; these objects offer external
+weponary that can be utilised on difficult screens. Occasionally, when a
+pirate craft is detroyed it will drop a yellow canister. This canister when
+retrieved, will increase the amount of the currently selected weapon by one.
+
+DISPLAY PANEL
+
+From left to right the display panel selections are as follows:
+
+1. Displays the number of ships left.
+2. The top number shows your current score. The bottom number shows the
+   value of cargo you have retrieved on the current level.
+3. Displays the current weapon mode in text. Number on the left shows the
+   amount of the current weapon that you have. Number on the right is the
+   maximum storage capacity for the current weapon.
+4. The coloured graph gives an indication of how much time you have to reach
+   the end of level depot. When the graph has totally disappeared your time
+   limit has expired.
+
+WEAPON MODES
+
+Keys 1, 2, 3, 4 or 5 select your ships weapon modes:
+
+1 - BOMBS - Destroy large defence emplacements.
+2 - IMPACT MINES - When placed at strategic points halt any pirate craft.
+3 - DEFENCE SHIELD - Temporarily render your ship invincible.
+4 - BOUNCE BOMBS - Bounce around destroying any emplacements they touch.
+5 - SEEKER - Tracks down its quarry.
+
+Hold FIRE button down to activate the selected weapon.
+
+CREDITS
+
+(c) Hewson Consultants 1988. 
+
+The program and data are copyright and may not be reproduced in part or in
+total by any means without the written permission of Hewson Consultant Ltd.
+All rights reserved. No responsibility is accepted for any errors.
+
+Our policy is one of constant improvement. Therefore, we reserve the right
+to modify any product without notice.
+
+Hewson Consultants Ltd.
+56b Milton Park
+Milton
+Abingdon
+Oxon OX14 4RX
+
+Complete Instructions typed in by Paul Thompson, March 2003

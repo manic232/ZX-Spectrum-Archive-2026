@@ -1,0 +1,182 @@
+=======
+Top Gun
+=======
+Document created by rstuart@ukonline.co.uk on 30th Dec 99 for
+World of Spectrum: http://www.void.demon.nl/spectrum.html
+
+Taken from the Ocean compilation 'Live Ammo'.
+
+Top Gun
+-------
+The "TOP GUN" game puts you in the pilot's seat of an F-14 jet fighter.
+3-D vector graphics and split screen display allow one or two players to
+combat head to head or against the computer. Your armaments in this nerve-
+tingling aerial duel are heat seeking missiles and 20mm rapid fire cannon.
+Many skills have to be brought in to play such as reflexes, manoeuvering
+ability and accuracy to become the best of the best. "Top Gun" mavericks
+enter the danger zone!
+
+Top Gun
+-------
+It's program code, is the copyright of Ocean Software Limited. All other
+elements are the copyright of Paramount Pictures Corporation. All rights
+reserved.
+
+Loading
+-------
+1. Place the cassette in your recorder ensuring that it is fully rewound.
+2. Ensure that the MIC socket is disconnected and that the volume and tone
+   controls are set to the appropriate levels.
+3. If the computer is a Spectrum 48K or Spectrum + then load as follows.
+   Type LOAD"" (ENTER). (Note there is no space between the two quotes). The
+   " is obtained by pressing the SYMBOL SHIFT and P keys simultaneously.
+4. Press PLAY on your recorder and the game will load automatically. If you
+   have any problems try adjusting the volume and tone controls and
+   consulting Chapter 6 of the Spectrum manual.
+5. If the computer is a Spectrum 128K then follow the loading instructions
+   on-screen or in the accompanying manual.
+
+Controls
+--------
+The program is controlled by either joystick or keyboard.
+Joystick - Sinclair 1
+         - Sinclair 2 (2 player)
+         - Kempston
+         - Cursor
+
+NOTE
+If using a Sinclair Plus 2 computer, select the joystick option "Sinclair"
+when using an Amstrad or Cheetah + joystick.
+
+KEYBOARD (Redefinable)
+Player 1                   Player 2
+S - Climb                  K - Climb
+E - Bank Left              I - Dive
+T - Fire Selected Weapon   O - Bank Left
+W - Dive                   P - Bank Right
+R - Bank Right             ENTER - Fire
+
+JOYSTICK
+Player 1 and Player 2
+
+CLIMB/BANK LEFT    CLIMB    CLIMB/BANK RIGHT
+                \    |    /
+                  \  |  /
+                    \|/
+      BANK LEFT -----+----- BANK RIGHT
+                    /|\
+                  /  |  \
+                /    |    \
+ DIVE/BANK LEFT     DIVE    DIVE/BANK RIGHT
+
+FIRE - Fire selected weapon.
+
+Controls common to keyboard and joystick (set).
+Player 1                        Player 2
+A - Increse Thrust              L - Increase Thrust
+Z - Decrease Thrust             SYMBOL SHIFT - Decrease Thrust
+CAPS - Select Weapon            SPACE - Select Weapon
+
+Status And Scoring
+------------------
+DISPLAY SCREEN
+---------------------------------------
+|     ------------  ------------      |  KEY
+|     |    B     |  |     A    |      |  A - Air Speed
+|     ------------  ------------      |  B - Altitude
+|                                     |  C - Cannon Sight
+|                                     |  D - Weapon Select Indicator
+|                                     |  E - Enemy/Above/Below
+|                                     |  F - Plane Atitude Indicator
+|                 |                   |  G - Cannon Temperature
+|                 |C                  |  H - Damage Indicator
+|             ---- ----               |  I - Radar/Enemy Locked On/Warning
+|                 |                   |      Indicator
+|                 |                   |  J - Thrust
+|                                     |  K - Missile Locked On Countdown
+| L                                   |  L - Artificial Horizon
+|                                     | 
+|   F              E                  |
+| ----- -----     /\      ----- ----- |
+| |   | |   |-------------|   | |   | |
+| |   | |   |             |   | | D | |
+| ----- |   |             |   | ----- |
+| ----- |   |             |   | ----- |
+| |   | |   |             |   | |   | |
+| |   | |   |             |   | |   | |
+| |   | |   |             |   | |   | |
+| | G | | H |      I      | J | | K | |
+| |   | |   |             |   | |   | |
+| ----- ----------------------- ----- |
+---------------------------------------
+
+Each level comprises of 3 aircraft which has to be destroyed. Points are
+awarded on the number of aircraft shot down.
+
+Gameplay
+--------
+You are Maverick, a top fighter pilot. Your craft the F-14 fighter. It is
+a fast and deadly aeroplane equipped with different weapons and defence
+systems. Choose to combat against the computer controlled aircraft or go
+head to head and battle it out.
+
+In one player mode you must engage and destroy three enemy aircraft before
+progressing to your next mission - pitting you against faster and more
+manoeverable craft. With two players you each begin with 3 aircraft and the
+winner is the one left flying.
+
+In 2 player mode - out manoeuvre your opponent and shoot him down with a
+direct hit from one of the missiles or a succession of shots from the machine
+guns.
+
+Weapon Selection
+----------------
+There are 3 weapon types which are selected in weapon mode. This is denoted
+on screen by a variation in the shape of the sights on the main display and
+the relevant icon is highlighted on the console.
+  Cross Hair   - Machine Gun/Cannon
+  Square Sight - Side winder missile
+  No Sight     - Flare mode
+The radar readout indicates the relative position of your enemy aircraft and
+the arrow indicator denotes that it is above or below you.
+The radar display flashes red when an enemy missile has been launched.
+
+Machine Gun/Cannon
+------------------
+This can be operated when the enemy aircraft is in your sights - 25 direct
+hits are required to down it. A hit is denoted by a border flash and visual
+reference on the damage indicator. Heat levels of the weapon are displayed
+on the control panel.
+
+Sidewinder Missiles
+-------------------
+To fire a missile it is necessary to fix the opponent directly on your sight
+for 3 seconds which enables the heat seeing element to "Lock-On" to the
+aircraft. However one direct hit is fatal!
+
+Flares
+------
+The flare is used as a decoy and is your only defence to the side winders,
+they must be used skillfully and with precision timing or the effect will be
+lost. The flare must be launched so that the enemy missile 'thinks' the
+ultra high-heat magnesium flare is the jet exhaust, this way you can escape
+the deadly shot.
+Missiles can also be out manoeuvered by the skilful pilot (they "burn-out"
+after about 120 seconds) and a combination of moves and the astute use of
+flares should enable you to avoid destruction. Good luck as you enter the
+Danger Zone!
+
+Hints And Tips
+--------------
+1. Use the machine gun sparingly, they may overheat and jam if fired
+   continuously.
+2. Try to position your craft behind the enemy - this is when he is at the
+   most vulnerable and will find it difficult to shake you off.
+3. Use the machine guns for short range and the missiles for long range
+   attacks.
+4. When banking use climb to achieve a greater rate of turn.
+
+Credits
+-------
+TOP GUN TM & (c) 1986, 1987 Paramount Pictures Corporation. All Rights
+Reserved. Program code (c) 1987 Ocean Software Limited.

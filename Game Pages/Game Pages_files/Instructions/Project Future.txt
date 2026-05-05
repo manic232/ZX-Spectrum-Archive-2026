@@ -1,0 +1,136 @@
+THE SPECTRUM GAMES DATABASE
+
+PROJECT FUTURE
+
+PUBLISHER
+Micromania
+
+AUTHOR
+Code: Dominic Wood
+Graphics: Julian Wood
+
+YEAR
+1985
+
+DESCRIPTION
+Shoot/Collect-em-up in a maze, aptly described as 'Sabre
+Wulf in Space'
+
+CONTROLS
+Any Joystick/Keys...
+A-Up
+Z-Down
+N-Left
+M-Right
+Bottom Row-Fire
+
+INSTRUCTIONS
+Run about the jungle, attacking animals and looking for=20
+pieces of the amulet...oops.
+
+HINTS/CHEATS
+30147,255  -  255 Lives
+27662,0    -  No aliens, or...
+27662,2    -  Invincible
+
+RELATED GAMES
+No direct relations, but I'll give you a pointer:=20
+Sabre Wulf's a tad similar.
+
+INLAY CARD TEXT
+PROJECT FUTURE - Your mission to teleport aboard and activate
+the Self Destruct System, of the dreaded SS FUTURE. The SS
+FUTURE is a huge labarynth of a Space Ship, covering 256
+screens of the most amazing high resolution graphics yet seen
+on the Spectrum
+
+48K SPECTRUM
+
+PROJECT FUTURE Loading instructions
+1 Connect lead to EAR socket of Spectrum from EAR socket on
+     the tape recorder.
+2 Rewind tape to the beginning.
+3 Set Volume Control as per Sinclair manual
+4 Type LOAD"" and press ENTER key
+5 Press PLAY on your tape recorder
+6 PROJECT FUTURE will now LOAD and AUTO RUN.
+
+If the program does not load first time, repeat instructions
+but try a different volume setting.
+
+PROJECT FUTURE Playing Controls
+
+For use with AGF, PROTEK, KEMPSTON, INTERFACE II, RAM TURBO,
+and all other cursor key JOYSTICK INTERFACES
+
+KEYBOARD OPERATION, A-UP Z-DOWN N-LEFT M-RIGHT FIRE-Remaining
+keys on bottom row.
+
+PROJECT FUTURE Playing Instructions
+
+The SS FUTURE is a vast Space Ship, spread over 5 different
+decks. Hidden in the laborinth are 8 destruct codes which
+must be collected before the SELF DESTRUCT SYSTEM can be
+activated. Once the S.D.S. of SS FUTURE has been activated
+you must escape before detonation.
+
+Good Luck
+
+Written by Dominic Wood
+Graphics by Julian Wood
+
+FEATURES
+Amazing Animation
+Sound Effects/Tunes
+Incredible Graphic Space Ship
+Space Cadet
+Defence Droids/Clones
+Lasers
+Hyperblasters
+Space Scooters
+Energisers
+Internal Teleport System
+Detonator
+Destruct Codes
+Air Locks
+Status Display
+On Screen Time
+100% MC - 8 Way Direction
+
+
+PROJECT FUTURE =A9 1985 by Micromania. Unauthorised copying,
+lending, public broadcasting, transmission distribution is
+prohibited without the express permission of MICROMANIA, 14
+Lower Hill Rd, EPSOM, Surrey KT19 8LT.
+
+PROJECT FUTURE may not be hired or offered for sale on any
+optional buy back basis without written consent of
+MICROMANIA. All rights reserved worldwide.
+
+All characters and events contained in PROJECT FUTURE are
+fictitious and there is no intended reference to persons or
+events either past or present.
+
+MADE IN ENGLAND.
+
+
+SCORES
+Crash issue 14, 90%
+YS May 1985 (when they had 3 reviewers who'd each give a
+rating out of five and a jukebox-jury-style Hit/Miss rating)
+4/5 HIT, 3/5 HIT, 2/5 HIT. (average 60%)
+
+URL
+ftp://ftp.nvg.unit.no/pub/sinclair/snaps/games/by-letter/p/
+projectf.zip
+
+FACTS
+Don't try using the Kempston option - the programmers have
+got it all wrong and the up/down directions are reversed.
+
+NOTES
+Despite the similarity to Sabre Wulf, there were a lot of
+other games that attempted to emulate the most successful
+Ultimate creations, and Project Future is a nice game in its
+own right, with lovely graphics. Look out for the natty
+invincibility suit, and the jet-powered C5!

@@ -1,0 +1,239 @@
+THE SPECTRUM GAMES DATABASE
+
+LORDS OF MIDNIGHT
+
+PUBLISHER
+Beyond
+
+AUTHOR
+Mike Singleton
+
+YEAR
+1984
+
+DESCRIPTION
+Graphical Adventure Game, with single key stroke controls
+
+CONTROLS
+1-8  Look in direction (N-NE-E-SE-S-SW-W-NW)
+Q    Move in current direction
+E    Look in current direction
+R    Think
+T    Choose
+U    Night
+S    Save
+D    Load
+G    Yes
+J    No
+Z    Print (crashes most emulators)
+C    Select Luxor
+V    Select Morkin
+B    Select Corleth
+N    Select Rorthron
+M    Select 
+
+In Select
+1    The Lord of Gard
+2    The Lord of Marakith
+3    The Lord of Xajorkith
+4    The Lord of Gloom
+5    The Lord of Shimeril
+6    The Lord of Kumar
+7    The Lord of Ithrorn
+8    The Lord of Dawn
+9    The Lord of Dreams
+0    The Lord of Dregrim
+Q    Thrimrath the Fey
+W    The Lord of Whispers
+E    The Lord of Shadows
+R    The Lord of Lothoril
+T    Korinel the Fey
+Y    The Lord of Thrall
+U    Lord Brith
+I    Lord Rorath
+O    Lord Trorn
+P    The Lord of Morning
+A    Lord Athoril
+S    Lord Blood
+D    Lord Herath
+F    Lord Mitharg
+G    The Utarg of Utarg
+H    Fawkrin the Skulkrin
+J    Lorgrim the Wise
+K    Farflame the Dragonlord
+C    Luxor the Moonprince
+V    Morkin
+N    Corleth the Fey
+M    Rorthron the Wise
+
+
+INSTRUCTIONS
+The object of the game is to otherthrow the evil Witchking
+Doomdark, who controls the north half of the land of Midnight.
+Thus freeing the land of Doomdarks evil spell of cold that
+aflicts it.
+
+The game can be completed by completing one of two different
+tasks:
+
+1: Take control of Doomdarks Home Citadel of Ushgarak in the
+North
+2: Destroy the Icecrown the source of Doomdarks Power.  This is
+located in the Tower of Doom northwest of the Citadel of Ushgarak
+
+In order to do this you must assume the role of Luxor the
+Moonprince, who has the power of vision and command over those
+loyal to him by virtue of the moonring which he wears.  This
+allows you to control many different allies even though they may
+be spread across the land of midnight.  Also the moonring acts
+against the Ice fear of Doomdark which saps armies strenth and 
+morale.  At the start of the game you control 4 characters, Luxor
+the Moonprince, Morkin (Luxor's Son), Corleth the Fey and
+Rorthron the Wise.  Using these Characters you must attempt to
+defeat Doomdark.  Morkin will be central in ant attempt to destoy
+the Ice Crown as only he is immune to the ice fear and can get
+close enough to steal it without detection.  In order to conquer
+Ushgarak a large army must be ammassed by recuiting the Lord of
+the free in the South of Midnight.  The Fey will also help but
+must be persuaded by Corleth to join the cause.
+
+The hopes of the free will only be destoyed if Doomdark can
+suceed in either killing both Morkin and Luxor, or by killing
+Morkin and taking Xajorkith deep in the south of the lands of the
+free.  Should Luxor be killed and Morkin still live, you will
+loose control of all you other allies save Morkin.  Morkin must
+then retreive the Moon Ring from the site were Luxor fell and put
+on the moonring in order to gain its powers.  Unfortunatly as the
+Moonring radiates warth in order to ease the Icefear Doomdark can
+sense its wears location, thus making Morkin's quest for the
+icecrown almost impossible.
+
+Features of the Landscape
+
+Army 
+A friendly army will offer no hindrance to the traveller but a
+hostile army should be avoided or engaged in battle. 
+
+Cavern
+Can provide shelter from the weather or enemy, but it may have
+already done so for fouler creatures. 
+
+Citadel 
+A strongly fortified city which may harbour friendly or enemy
+forces.  Storming a citadel is a hard task.
+
+Down
+Slow down travellers slighly and may hide unseen dangers ahead. 
+
+Forest
+Home of the magical Fey.  Movement through a forest slows down
+all but the Fey.
+
+Frozen Wastes
+These surround the land of Midnight.  They cannot be crossed
+by anybody.
+
+Henge
+Possess strange powers which may help or hinder an army. 
+
+Keep
+The fortress of a minor Lord. They cannot resist a determined
+assault from an enemy for very long.
+
+Lake
+Often magical, these can have powers to revive and heal those
+who oppose Doomdark.
+
+Lith
+Ancient standing stones, often with strange magical powers. 
+
+Mountains
+Moving across a range of mountains takes many hours and leaves
+you exhausted.
+
+Ruin
+Abandoned fortresses of long-forgotten wars. May harbour dark
+creatures or lost treasures. 
+
+Snowhall
+Large structures which offer shelter to hundreds if need be. 
+
+Tower
+The refuges of the wise.  Although impregnable, help may be
+sought at these - it may not always be granted though.
+
+Village
+Can offer warmth and shelter if the people prove friendly. 
+
+CHEATS
+This is more a bug than a cheat.  If Luxor is killed you loose
+control of everyone other than Morkin.  However, Morkin can begin
+to re-recruit Lords without retrieving the Moonring from the site
+of Luxor's demise.
+
+As for tips:-
+
+The simplest way always seemed to be to send Morkin north to find
+Farflame and send to two of them straight to Ushgarak.  Farflame
+could usually manage to wipe out the few armies they would meet
+en-route and them could destroy the ice crown when they got
+there.
+
+Alternatively, the longer (and far more entertaining way) is to
+split your four main characters up at the start, each going in
+a different direction and recruiting as many people as possible
+then sending them all south to Xajorkith to wait for the enemy
+to arrive.  You may want to leave the northern Fey (sorry, can't
+remember their names now) at home rather than send them south,
+so that you have a large, spare army left for later use.  Don't
+bother trying to defend individual citidels, as you'll usually
+lose (take as many troops as you can and run before the enemy
+arrives).
+
+Try to recruit Lord Blood within the first few moves and leave
+him at his keep.  He will delay the oncoming armies giving the
+rest of the characters time to get going (you may want to pull
+him out before his armies get completely wiped out, as he's a
+very useful commander to have around - ie. he doesn't get scared
+easily, unlike some).
+
+You'll have to pick the route they each take fairly carefully,
+as the main characters have limits on who they can recruit.  Once
+Doomdark's troops arrive at Xajorkith you will have a number of
+rather large battles, but should win them all (Doomdark's armies
+are usually outnumbered).  After the onslaught stops, send your
+armies north (reclaiming keeps, etc. as you go) and fight your
+way into Ushgarak (meeting up with the northern Fey when you get
+there).
+
+
+SEQUELS/PREQUELS
+Followed by Doomdark's Revenge which uses similar control
+methods.  Was suposed to be the first part of a trilogy but part
+3 (The Eye of the Moon) was never completed (although some work
+had reportedly been done on it).  Recently Lords of Midnight: The
+Citadel has been released for the PC, this does not have the same
+scenario as Eye of the Moon was suposed to have, and uses a
+further advanced form of Landscaping (more like that found in
+Midwinter).  The story does continue on from Doomdark's Revenge.
+
+SCORES RECEIVED
+10/10 (CRASH #7, August 1984) 
+
+BOOKLET TEXT
+
+URLS
+ftp.dcc.uchile.cl/pub/OS/sinclair/snapshots/l/lordsmid.zip
+
+GENERAL FACTS
+The original game came with a keyboard overlay, designed to fit
+on a rubber-key Spectrum, which had all the keyboard commands
+written on it.
+
+You may also like to try the Lords of Midnight Web Page, at
+http://www.gatewest.net/~cpb/lom.html.
+
+NOTABLE FEATURES
+This was the first game to use 'Landscaping' to generate the view
+of the world of Midnight from the perspective each of the
+characters under your control. 

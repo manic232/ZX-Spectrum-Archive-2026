@@ -1,0 +1,117 @@
+THE SPECTRUM GAME DATABASE
+
+MICRONAUT ONE
+
+PUBLISHER
+Nexus
+
+YEAR
+1987
+
+CATEGORY
+Arcade Adventure
+
+DESCRIPTION
+Micronaught One is a 3D flying game, with some strategy thrown
+in.
+
+CONTROLS
+Keyboard, Kempston.  Keyboard controls are redefinable.
+
+INSTRUCTIONS
+Welcome to the Guild. Long live His Imperial Majesty Georgius IX.
+Now hear this: the Emperor has decreed that you, a member of our
+glorious Guild of Equalizers, shall do your utmost to maintain
+the Empire's Biocomputers and perform all the duties befitting
+a member of this, our Guild.  (Imperial Decree LXXVII, dated
+24.5.1290 A.O.)
+ 
+As a member of the Guild of Equalizers, the biotechnicians
+responsible for maintaining the huge, asteroid-based
+Biocomputers, it's your job to keep these fragile organic
+machines from damage inflicted by parasites and simple entropy.
+The parasites in question are the Scrim, the mutated descendants
+of fruit flies which were accidentally introduced centuries ago.
+Now the tunnels of your Biocomputer are infested with Scrim eggs,
+larvae and their ultimate product, the Jellyfly...
+
+Your craft is a sort of bidirectional skimmer which can zoom up
+and down the winding corridors of the Biocomputer. You've got a
+map to help you, and you can set up markers on it to act as
+homing points for your craft's Navigational Locking System. You
+can't actually turn round (not enough room in the tunnel);
+instead, slow to a halt and press down to switch to the rear view
+(or rather, the front view now).  You can then go on as normal.
+Note though that you can _only_ switch direction if you stop
+first!
+
+You have two main problems: the Scrim, obviously, and the energy
+levels of the computer. Being parasites, the Scrim feed off the
+energy of the biomachine, which tends to cause serious energy
+imbalances in the circuits. Your craft is equipped with an
+accumulator which allows you to drain off surplus energy or
+otherwise top up the computer. You do this at one of the Energy
+Transfer Units (ETUs), which look rather like large winking eyes
+behind transparent sliding doors. The levels of the four ETUs
+(including the one at which you're currently at) are shown when
+you stop in front of the eye. Red is danger; green is safe. If
+the level of the current ETU is too low or too high, you can
+increase or reduce it. If the ETU level gets too low or too high,
+the computer will explode. You can only alter the level of the
+ETU at which you're currently "docked".
+
+Your craft is equipped with an anti-Scrim weapon, a sort of giant
+Van der Graaf generator which spits out tendrils of energy. This,
+naturally, uses up a good deal of energy (which could leave you
+with too little to top up an ETU). However, you can recover this
+loss either by draining an ETU (not recommended) or catching one
+of the sparkling clouds of energy particles that coalesce in the
+corridors. Your weapon's power level is shown on the console of
+your skimmer (the second of the three bars), while above it is
+the craft's speed and below it a scrolling message bar gives
+information about the Biocomputer.
+
+Your main enemy, the Scrim, have a three-stage lifecycle. (You
+can get more information on this in the INFO menu - having
+started the game, it's a good idea to explore the menu system a
+little. VIEW will take you to the action). The three stages, plus
+the accompanying webs, are as follows:
+
+1) Egg
+          - Small but growing ovoids, impervious to your fire. 
+          There's nothing you can do about these. Laid by
+          Jellyfly.
+2) Larvae - Huge and disgusting grubs that mulch their way along
+           the corridors. Can be destroyed but they need a lot
+           of energy to zap. It's best to kill them before they
+           turn into the next stage:
+3) Jellyfly    - The adult Scrim. Looks rather like a high-speed
+           umbrella. Zooms up and down the corridors looking for
+           an open section of tunnel, and then lays a couple of
+           eggs and an energy-gathering web which permanently
+           blocks the tunnel (_not_ good news). Kill, kill, kill.
+4) Web         - A secreted organic structure which spans a
+           tunnel and blocks it. Can be destroyed if you get to
+           it before it's completed.
+
+Too many webs can be fatal - you can be blocked in, or equally
+badly an ETU entrance can be sealed off. Either way, you'll be
+unable to correct the computer's energy imbalances. It's possible
+to get rid of a web if you can get to it before it's complete,
+but afterwards it's impervious to your efforts. You'll be
+informed of where a web has been strung - make a note of it on
+the built-in pad and program your NLS to guide you there before
+it's too late. The game is thus a constant race against the ETUs'
+energy fluctuations and the Scrims' lifecycle. To complete a
+level, you have to clear out all the Scrim on that level.
+
+There's a built-in bonus game - a series of races against a
+computer-controlled robot (actually a maintenance droid, quite
+harmless, in the "real" game). To get to this, tick the RACE
+option on the SETUP menu (off the main menu) and go to PLAY.
+You'll get the chance to choose a track, pacer and speed, and
+race against the clock.
+
+SCORES RECEIVED:
+Crash: "Original, visually stunning, very playable and addictive".
+92% (CRASH #43, August 1987)

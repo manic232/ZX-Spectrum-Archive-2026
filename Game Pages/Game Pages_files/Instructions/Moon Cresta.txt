@@ -1,0 +1,84 @@
+Moon Cresta
+-----------
+
+Select game for 1 or 2 players. Use joystick or keyboard to move Rocket
+Ships (1-3). Shoot and avoid the onslaught of attacking Kamikaze Aliens but
+beware as their tactics and formulations will change as your skill
+increases. Bonus is given at 30,000 points. Gams is over when all Rocket
+Ships are destroyed.
+
+
+BONUS DOCKING
+
+Use Rocket controls to make a docking-pass fire for Retrofiring. The quicker
+the docking the higher the Bonus. When docking is complete-greater fire
+power is achieved. Name registration for best 5 scores.
+
+ENJOY THE TRIP!
+
+
+SCORE
+
+Cold Eye - 50 points
+Supper Fly - 30 points
+Four-D - 60 points
+Meteo - 200 points
+Atomic Pile - 100 points
+
+DOCKING
+
+Points vary. The quicker the docking the higher the score.
+
+
+CONTROL OPTIONS
+
+Moon Cresta can be played via the keyboard (option 3) or with a joystick
+(option 4).
+
+Keyboard Control:
+Keys of the players choice may be selected - see option 5. (When loaded
+keys = Caps shift - Left, Z - Right and Space - Fire)
+
+Joystick Control:
+Select option 4 to select Kempston Joystick control. For other Joysticks
+select Keyboard control and define keys (option 5) as shown below.
+
+Sinclair Define Left = 6, Right = 7 & Fire = 0
+AGF Define Left = 5, Right = 8 & Fire = 0
+Protek Define Left = 5, Right = 8 & Fire = 0
+
+
+Spectrum Plus Only
+
+There are several additional keys on the Spectrum Plus. If you wish to play
+using any of these extra keys - define the controls (option 5) as per the
+table below.
+
+To use          Define As
+----------------------------
+TRUE VIDEO      3
+INV VIDEO       4
+DELETE          0
+GRAPH           9
+EXTENDED MODE   SYMBOL SHIFT
+EDIT            1
+;               0
+"               P
+Left            5
+Right           8
+Up              7
+Down            6
+.               M
+,               N
+BREAK           SPACE
+
+
+(C) COPYRIGHT 1985 INCENTIVE SOFTWARE Ltd.
+Moon Cresta is exclusively licensed to Incentive Software Ltd. from
+Nichibutsu.
+SPECTRUM MOON CRESTA
+Authors: Tim Walter and Philip Taglione
+Cover and Loading Screen: Pete Carter
+Produced by Ian Andrew
+
+(Transcribed by Robin Stuart)

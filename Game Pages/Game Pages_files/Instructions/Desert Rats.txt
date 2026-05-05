@@ -1,0 +1,1273 @@
+
+DESERT RATS
+The North Africa Campaign
+
+Cases Computer Simulations
+R.T. Smith
+
+CONTENTS
+Section Nos					Page No.
+1	Introduction				3
+2	The Main Menu				3
+3	The Scenarios				4
+4	Malta Status				5
+5	The Display				5
+6	Units					6
+7	Sequence of Play			7
+8	Ordering Units				7
+9	Reports					9
+10	Combat					9
+11	Supply					10
+12	Reinforcement, Withdrawal & Replacement	11
+13	Terrain					12
+14	Unit Types				13
+15	Player's Notes				14
+16	Historical Background			16
+17	Enter Rommel				18
+18	Operation Battleaxe			20
+19	Operation Crusader			21
+20	Battle of Gazala			24
+21	Curtain Raiser				28
+22	El Alamein				30
+	Designer's Notes		Inside back cover
+
+Illustrations
+     -	Playing Area				2
+     -	Screen Layout				5
+     -	Unit Symbols				6
+     -	Terrain Symbols				12
+     -	Photograph - "When in Doubt"		15
+     -	Map - "North African Theatre"		17
+     -	Photograph - "Rommel"			19
+     -	Map - "Operation Crusader"		23
+	Map - "Gazala"				25
+     -	Map - "German Map of Tobruk"		26
+     -	Photograph - German & British tanks	27
+     -	Photograph - "Montgomery"		29
+     -	Map - "El Alamein"			31
+
+
+All photographs reproduced by the kind permission of the Imperial War Museum.
+
+
+
+ADDITIONAL INSTRUCTIONS FOR
+SPECTRUM 128K USERS
+
+The 128K version has been expanded to include two additional scenarios and a
+number of improved features. The instructions have therefore been updated for
+the 128K users.
+
+LOADING
+Select TAPE LOADER from menu and key ENTER instead of keying LOAD "".
+
+1.	INTRODUCTION
+The game now covers the period from the first British offensive against the Italians
+in December 1940 to the defeat of the Afrika Korps at the battle of El Alamein and
+their subsequent withdrawal from Libya at the end of 1942.
+
+2.	MAIN MENU
+There is a joystick option and Kempston, Protek and Sinclair joystick interfaces
+can be used.
+
+Keying 0 when selecting the number of players will result in the computer going
+into demo mode. This can be escaped by holding the "M" key down until the end
+of a turn.
+
+
+
+3.	THE SCENARIOS
+There are eight scenarios:-
+
+1)	Operation Compass - this scenario covers the first British offensive from its
+beginning until the capture of Tobruk. The scenario lasts 45 turns from 9th
+December 1940 to 22nd January 1941. The British player must endeavour
+to capture Bardia and Tobruk whilst the Italian player must try to maintain
+his position in Egypt and should not allow the British player to capture
+Derna.
+
+2)	Beda Fomm - this scenario covers the period from the fall of Tobruk until
+the surrender of the Italian Tenth Army. It lasts 15 turns from 24th January to
+7th February 1941. The British player's aim is to capture Benghazi and to
+destroy the Italian army.
+The Italian player should try to frustrate those aims whilst holding as much
+territory as possible.
+
+3)	Enter Rommel - as before.
+
+4)	Battleaxe - as before.
+
+5)	Operation Crusader - as before.
+
+6)	The Battle of Gazala - as before.
+
+7)	El Alamein - as before.
+
+8)	The Desert War - this scenario now starts with the first British offensive in
+December 1940 until Rommel's withdrawal from El Agheila in December
+1942. It lasts 736 turns from 9th December 1940 to 14th December 1942.
+
+6.	UNITS
+Note that whilst "Libyan" and "Blackshirt" Divisions are nominally divisions, they
+are treated as brigades in the game because they are weak and therefore they
+require a HQ unit to supply them.
+
+8.	ORDERING UNITS
+Stacking points have been reduced from 13 to 10 in a square.
+
+11.	SUPPLY
+Supply range has been increased from 7 to 10 squares and from 5 to 7 diagonally.
+
+
+
+LOADING INSTRUCTIONS
+
+The procedure for loading a program into your computer is given in your manual.
+Please follow these steps for loading the program.
+
+1.	Connect the EAR socket of the computer to the EAR socket of your tape recorder.
+2.	Set the volume control as per your manual.
+3.	Adjust the tone control to maximum.
+4.	Type LOAD "" (Spectrum) RUN " (Amstrad)
+5.	Start the tape recorder. The program will RUN automatically once loaded.
+
+Note that for the Amstrad 664 and 6128 you will need to key | TAPE first. (The | symbol is
+obtained by keying SHIFT @ before TAPE)
+
+
+
+
+) 1985 R. T. Smith
+
+Copies of this recording may only be made for the sole use of the purchaser
+unless written permission is obtained from the publisher.
+
+
+
+CASES COMPUTER SIMULATIONS LTD.
+14 Langton Way, London, SE3 7TL
+Tel: 01-858 0763
+
+
+
+THE PLAYING AREA 
+
+[DRmap02.GIF]
+
+
+
+1.INTRODUCTION
+Desert Rats is a 1 or 2 player wargame depicting the campaign in the "Western
+Desert" from the arrival of the Afrika Korps in the Spring of 1941, until their defeat
+at the battle of Alamein and subsequent withdrawal from Libya at the end of 1942.
+	Players may choose to fight the whole campaign or one of the major battles.
+One player commands the British (Allied) forces, and the other player the German
+and Italian (Axis) forces. In the one player game, the computer may control either
+side.
+
+
+2.	THE MAIN MENU
+Upon loading "Desert Rats" you will be presented with the main menu. There are
+several options available here, although not all are available at once. They are:
+
+-	Begin New Game
+-	Continue Play
+-	Load New Game
+		This loads a previously saved game, from tape.
+-	Save Game
+		This saves the current state of play to tape, so that the game may be
+	continued later.
+-	Alter Number of Players
+		The player may change to playing against the computer instead of
+		another player or vice versa.
+-	Abandon Game
+		This abandons the current game, and allows a new one to be
+		started.
+
+When a scenario has finished the following option is also available:
+
+
+-	Extend Game
+		Selecting this option enables play to continue up to the final turn of
+	the next scenario.
+e.g. You select scenario 1 ("Enter Rommel"), and play on until it finishes on
+the April 30th turn and if you then select the "Extend Game" option, you will
+be able to continue play until June 21st, which is the end of scenario 2. The
+winner will then be decided, according to the victory conditions for
+scenario 2. You may then of course extend the game further until the end of
+scenario 3.
+
+
+
+3.	THE SCENARIOS
+When you begin a new game, you must choose a scenario to play. There are a
+total of six. They are:
+
+1)	Enter Rommel
+This scenario covers the Afrika Korp's first offensive. It lasts 31 turns, from
+31st March 1941 until 30th April 1941.
+	To win the Axis player must either capture Tobruk, or cut the road
+route leading to it. The British player wins if he prevents this.
+
+2)	Battleaxe
+This is an introductory scenario, that covers the British offensive
+codenamed Battleaxe. It lasts 7 turns from June 15th 1941 to June 21st
+1941.
+	To win the British player must clear the road to Tobruk, of enemy
+units. The Axis player wins if he prevents this.
+
+3)	Operation Crusader
+This covers the 2nd major British offensive to relieve the siege of Tobruk. It
+covers the period from the beginning of the offensive until the Axis
+withdrawal to El Agheila. The scenario lasts for 45 turns from 18th
+November 1941 to January 1st 1942.
+	To win the British player must clear the road to Tobruk and/or inflict
+heavy casualties on the Axis forces. The Axis player must attempt to keep
+Tobruk besieged and hold his position at the Egyptian border.
+
+4)	The Battle of Gazala
+This covers the period from the beginning of the battle of Gazala until the
+Afrika Korp's advance was halted at the first battle of Alamein. The scenario
+lasts 39 turns, from May 26th 1942 until July 3rd 1942.
+	To win the Axis player must capture Tobruk and advance as far
+forwards as possible. The British player wins if he maintains his position at
+Gazala, or inflicts heavy enough losses on the Axis forces.
+
+5)	El Alamein
+This scenario covers the defeat of the Afrika Korps at the second battle of
+Alamein. It lasts 19 turns, from October 23rd 1942 until November 10th
+1942.
+	To win, the British player must advance to the Libyan / Egyptian
+border, and inflict heavy losses on the Axis. The Axis player must try to hold
+his position as far forwards as possible.
+
+6)	The Desert War
+This scenario covers the war in the desert from Rommel's first attack in the
+Spring of 1941 until his withdrawal from El Agheila at the end of 1942. The
+scenario lasts 624 turns, from 31st March 1941 until 14th December 1942.
+	The only way to win is to destroy all your opponent's units.
+
+
+In all scenarios it is necessary to achieve the victory conditions, without taking
+excessive losses. If a player attains his victory conditions, but the computer
+judges that his losses have been too severe, then the game will be declared a
+draw.
+
+
+
+4.	MALTA STATUS
+There are no skill levels as such in "Desert Rats". Instead the "Malta Status" is
+used to alter the balance of play.
+		British Air and Naval forces operating from Malta destroyed large
+quantities of Axis supplies greatly impairing the effectiveness of their ground
+forces. It is therefore possible to choose how effectively the Axis forces operate.
+There are three options.
+
+1)	Historical. This recreates the historical situation with regard to the Axis
+	supplies.
+
+2)	Operation Herkules. This option assumes that the plan to capture Malta
+	in the Summer of 1942 was successfully carried out. If this option is chosen
+	then the Axis player will receive greatly increased amounts of supply
+	during the latter half of 1942.
+
+3)	Not used as Base. This option assumes that Malta was not used by the
+	British as a naval base or that the Axis powers made a much greater effort
+	to suppress its effectiveness. If chosen, Axis supplies will increase
+	throughout the game.
+
+
+
+5.	THE DISPLAY
+The screen display consists of four sections (see diagram). Section one is a
+window onto the map; shown on page two over which the game is played. Section
+two shows the date of the current turn, and section three shows the identity of the
+unit being ordered. Section four is the "menu window" and is used to show
+options available when giving orders, and for displaying reports and messages.
+
+[DRdia05.GIF]
+
+
+
+6.	UNITS
+The various military formations that took part in the campaign are termed units.
+British units are coloured Blue (Spectrum) Magenta (Amstrad), German
+ones Black (Spectrum and Amstrad), and Italian units are Magenta (Spectrum)
+Green (Amstrad).
+	The presence of a unit is indicated, either by a symbol showing its type, or
+by an "unidentified unit" symbol showing that it has not been identified by the
+other side.
+	For the convenience of those playing in "black and white", Axis units are
+shown facing right, and filled in solid, whereas British units face left, and are
+shown in outline.
+	Units come in four sizes; divisions, brigades, battalions, and HQs. Only
+Italian units are division size.
+	Brigades, battalions and HQs may belong to a division. If so then the
+division name is given with the unit name in section three of the display when the
+unit is being ordered. The division a unit belongs to is important for supply
+purposes and when giving orders.
+	Units that do not belong to any division, are termed "independent units".
+Independent HQs are termed "Corps HQs".
+
+UNIT SYMBOLS
+
+[DRusymA.GIF]	MEDIUM TANK		[DRusymB.GIF]	ANTI-TANK
+
+[     "     ]	LIGHT TANK		[     "     ]	ARTILLERY
+
+[     "     ]	INFANTRY TANK		[     "     ]	HQ
+
+[     "     ]	RECCE			[     "     ]	DUG IN UNIT
+
+[     "     ]	MOTORISED INFANTRY	[     "     ]	FORTIFIED UNIT
+
+[     "     ]	INFANTRY		[     "     ]	UNIDENTIFIED UNIT
+
+[     "     ]	SUPPORT GROUP
+
+
+
+7.	SEQUENCE OF PLAY
+The game is played in a series of turns. Each normal turn represents one day. The
+order in which activities occur during each turn is as follows:-
+
+- Each player gives orders to his units, the British player first. All units then move
+to carry out their orders simultaneously - both sides moving at the same time.
+
+- After units have moved combat occurs between adjacent units. - Those units
+forced to retreat as a result of combat then move and the units that they were
+blocking may continue to move towards their objective.
+
+- The next turn then begins.
+
+	Each scenario begins with an offensive by one side or the other. To
+recreate the surprise achieved, only the attacking side is allowed to give orders
+during the first turn of each scenario.
+	It would be very tedious to play the whole campaign in turns of one day
+each. Therefore when nothing much is happening, eg. both sides are resting in
+preparation for the next offensive, the turn length is increased to six days. These
+longer turns are termed "reorganisation phases".
+	Whilst the computer is executing orders, players may scroll the map using
+the arrow keys.
+
+
+
+8.	ORDERING UNITS
+Units must be given orders at the start of each turn. If playing with two players, then
+only the player actually giving orders should look at the screen.
+	The program prompts each unit in turn to be given orders by highlighting
+the unit and showing the options available to it. The unit's identification will be
+shown at the bottom of the screen together with a symbol showing its type.
+	If the division's name is followed by the number of units in it, the order will
+apply to all the units. It is however, still possible to order the units separately (see D
+Divide below).
+	When satisfied that a unit's orders are correct key 'ENTER' to move on to the
+next unit. (Note that the program moves on automatically if some orders are
+selected). If you key 'ENTER' without changing the order or moving the cursor,
+then the unit will continue with its old orders. Thus it is possible to give an order
+that will take several turns to complete and doing so will save time when giving
+orders. If you move the cursor accidentally or change your mind, then moving it
+back over the unit, will enable the unit to continue with its old orders.
+
+NOTE THAT FOR THE AMSTRAD a joystick can be used for the cursor movements
+using the fire button to end commands instead of using ENTER/RETURN key.
+
+The following orders may be given:
+
+M	MOVE. This order instructs a unit to move to another location. Use the
+arrow keys to move the flashing cursor to the desired destination and press
+'ENTER'. If a unit already has "Move" orders then moving the cursor will
+redefine its destination. If a unit has "Hold" or "Fortify" orders then it will
+automatically be given "Move" orders if the cursor is not over the unit when
+'ENTER' is pressed.
+
+A	ASSAULT. This is similar to "Move" and the order is given in the same
+way. However, "Assault" instructs a unit to be more aggressive in trying to
+get to its objective. Thus if it meets an enemy unit, it will inflict more damage
+in combat than a unit with "Move" orders, although it will suffer more itself.
+
+H	HOLD. This order instructs a unit to stay where it is. The unit will "dig in"
+which will protect it in combat particularly against armour. Units with
+"Hold" orders also recover from fatigue. (Efficiency)
+
+T	TRAVEL. This order instructs a unit to move along the road at four times
+normal speed. It may only be given if the unit is on the road and not next to
+an enemy unit. Units travelling are very vulnerable to attack, and may not
+themselves attack. To give the order, press "T", then move the cursor to a
+destination on the road. If a unit already has "Travel" orders, and you wish
+to change its destination, then you must select the "Travel" order again by
+pressing "T".
+
+P	GO TO PORT. One British unit per turn, may move between Alexandria
+and Tobruk, or vice versa by sea. This order instructs a unit to do so. It may
+only be given if Tobruk is occupied by a British unit.
+
+F	FORTIFY. This order instructs a unit to strengthen its position by digging
+fox holes, laying mines etc. The longer a unit is at this task the more
+effective will be the result. Units may only fortify if they are already "dug in"
+ie. have selected "Hold" the previous turn. Tank units may not fortify. If a
+unit moves then it loses all benefits from its fortifications.
+
+D	DIVIDE. This command does not count as an order but causes a unit that
+is stacked with other units of its division to be split off temporarily, so that it
+may be ordered separately.
+
+R	REPORT. This command does not count as an order but gives a report on
+the current unit. See below for details.
+
+
+NOTE:	It is possible to have more than one unit in a square. This is referred to as
+stacking. Divisions count as 7 stacking points, brigades as 3 and HQs and
+battalions as 1. It is possible to have up to 13 stacking points in one square. As a
+rule of thumb, players should assume that they can stack all the units of one
+division together.
+
+
+
+9.	REPORTS
+When a report is requested, the following information is given:-
+
+STR    Strength. This gives an indication of the unit's strength either in men
+	or in tanks.
+MPS	Moves per Turn. This gives an indication of how far a unit may move.
+	The number given is the number of squares it may move in one turn,
+	over clear terrain. It will go slower over rough terrain.
+SUP	Supplies. This gives an indication of the supply level of the unit. Units
+	with very low supply may not attack, and units with none suffer double
+	damage when attacked. When a [tick] is shown the unit is able to receive
+	supplies.
+MOR	Morale. This gives the morale of a unit. The higher it is, the less likely it
+	is to retreat after combat.
+A/M	Attack Modifier. This is the unit's attack modifier. The higher it is, the
+	more effective the unit is at attacking.
+EFF	Efficiency. This is the unit's efficiency level. It is reduced due to
+	fatigue, when a unit is in combat. Some units enter the game with low
+	efficiency level, to reflect lack of training. A unit may recover from
+	fatigue when it has "Hold" orders. (ie. it is resting or training).
+FRT	Fortification. The number given. is the number of days that a unit has
+	been "Fortifying" for, ie. the effectiveness of its defences.
+
+In addition the report shows for each side the number of supply points being
+received per turn, together with the number of replacements available in men and
+tanks. These are used to replace losses. (Replenishments for Germans and
+Italians are shown separately).
+
+
+
+10.	COMBAT
+Combat occurs between units that end their movement adjacent to each other.
+For each attacking unit, the computer flashes the attacked units and makes a
+sound the length of which is related to the greatest damage done to any of the
+attacked units. However, if a unit is dug in it will not attack the enemy units which
+are also dug in.
+	The effectiveness of an attack is determined by a number of factors. a) The
+unit types of the defender and attacker; b) their strengths; c) their orders (eg. move,
+assault; d) the terrain; e) the attacking unit's attack modifier and efficiency level; f)
+the defending unit's supply level (ie. units with no supplies take double damage); g)
+whether the defender is dug in, or fortified); h) the other units stacked with the
+defending units; i) the effectiveness of an attack is also reduced if the attacking
+unit is on an escarpment square and attacking uphill (ie. away from the sea).
+	If sufficient damage is inflicted on a unit in combat, it will have to retreat.
+
+
+
+11.	SUPPLY
+Supply played an important part in the Desert War, not only was the outcome of a
+battle decided by who had the greater reserves of fuel and ammunition, but
+individual units often ran out of petrol at inconvenient moments. To reflect this the
+supply rules in "Desert Rats" are quite complex.
+	Each unit carries supplies with it and these are used up when a unit moves,
+fortifies or attacks. In addition each side has a pool of supplies off the map from
+which units may replenish their own stocks.
+	There are two separate sets of rules for replenishing supplies, one for
+battalion and brigade sized units and another for HQ units and division sized units
+which contain their own divisional HQs.
+
+
+Brigades and Battalions
+These units can only draw supplies if they are next to, or overlapping an HQ unit.
+Any unit may draw supplies from a Corps HQ unit. In addition, independent units
+may draw supplies from any HQ. Otherwise units may only draw supplies from
+their own divisional HQ.
+
+
+Divisions and HQs
+The supply rules for Divisions and HQs are quite different to those for Brigade and
+Battalions. In particular, no HQ may draw supplies from another HQ.
+	These units draw supplies by being within seven squares (five diagonally)
+of a road square, provided that the road is clear of enemy units all the way back to
+the edge of the map. (Left hand edge for Axis units, and right hand edge for British
+units). Supplies can be blocked if an enemy unit is between the unit and the road.
+	Supplies may also be drawn from a track, in the same way as from a road,
+provided that a clear route exists back along the track to the road, and thence to
+the map edge.
+	Supplies may also be drawn from a port in the same way as from a road
+square. Benghazi and Tobruk are ports.
+	In all the above cases, in order to draw supplies, a unit must be on the same
+vertical, horizontal or diagonal line, as the supply source. It may sometimes be
+necessary to move units' positions a little to get them in supply. A tick against Sup
+in the Report will indicate that unit may receive supplies.
+	Transporting the supplies also uses them up. The further along the road a
+unit is, the greater will be this loss, and the less will be available to the unit. Losses
+of supplies going through a port, are greater than for those going by road.
+Usually supplies are drawn from the off map pool.
+	The amount of supplies used by a unit are dependent on its size, and its
+actions. A division uses more supplies than a brigade, which in turn uses more
+than a battalion or HQ. Units use supplies when they move, fortify or engage in
+combat. When in combat units with "Assault" orders use twice as many supplies
+as those with "Move" orders. Units with "Hold" orders use very few supplies in
+combat. Units with insufficient supplies may not attack.
+
+
+
+12.	REINFORCEMENTS, WITHDRAWALS and REPLACEMENTS
+From time to time, players will receive new units, and old ones will be withdrawn.
+This will happen automatically, although warning will be given of an impending
+withdrawal.
+	Replacements are used to replace losses suffered in combat. They are
+divided into two types, armour for tank units, and infantry for other types.
+Replacements are distributed automatically to under strength units, but only units
+with "Hold" orders may receive them. If enough replacements are accumulated,
+then previously destroyed units may be rebuilt. Players receive replacements
+every month.
+	Other changes may happen to units during the course of the game when
+playing scenario 6, or an extended scenario. A unit's type may change as may its
+designation and the division it belongs to. These changes reflect historical ones
+although they have been simplified to avoid confusion to players.
+
+
+
+13.	TERRAIN
+There are many different types of terrain in "Desert Rats". Any symbols not shown
+on the terrain chart, are purely decorative.
+	Sea, salt marsh, and steep escarpment squares, are impassable, whilst
+escarpment, ridge, and rough squares slow down movement, and also give some
+protection in combat. Escarpments provide the best protection of the three, but to
+benefit, a unit must be behind the escarpment, not on it.
+	The best protection is provided by a fort or fortification square. A unit must
+be actually on the square rather than behind it to get the benefit. Forts and
+fortifications around some towns are considered the same, but provide different
+benefits to the "fortify" order.
+
+
+TERRAIN SYMBOLS
+
+[DRtsym.GIF]	ESCARPMENT (RED)
+
+[     "     ]	STEEP ESCARPMENT (BLACK)
+
+[     "     ]	ROUGH (RED)
+
+[     "     ]	RIDGE (BLUE)
+
+[     "     ]	FORTIFICATION (BLACK)
+
+[     "     ]	FORT (BLACK)
+
+[     "     ]	ROAD (BLACK)
+
+[     "     ]	TRACK (BLACK)
+
+[     "     ]	TOWN (BLACK)
+
+[     "     ]	SALT MARSH (WHITE)
+
+[     "     ]	SEA (BLUE)
+
+
+
+14.	UNIT TYPES
+The following is a brief resume of the types of units in the game.
+
+Medium Tanks	These are very powerful, both against other tanks and
+		particularly against infantry. They are however much less
+		effective against units that are dug in. Tanks are
+		vulnerable to HQs, artillery and anti-tank units.
+Light Tanks	These are similar to medium tanks, but slightly less
+		powerful and more vulnerable. They are slightly faster.
+Infantry Tanks	These are very slow, and not particularly powerful against
+		other tanks, but are even more powerful against infantry.
+		They are hard to kill in combat.
+Recce		Recce units do little damage in combat, and take very little
+		themselves. They are very fast. They are useful for cutting
+		off retreats, cutting supply lines, and generally being a
+		nuisance. However, they will usually retreat when attacked.
+Motorised Infantry  These are not particularly powerful when attacking and, if
+		not dug in, are very vulnerable to tanks. They can however
+		fortify their positions, making them difficult to capture.
+		They are better than tanks at attacking fortified, or dug in
+		positions.
+Foot Infantry	These are similar to motorised infantry, but move more
+		slowly.
+Support Groups   These are a mixture of infantry and artillery. They are
+		more effective against tanks than infantry units, but are
+		less effective against infantry.
+Artillery	Artillery is useful against tanks, but vulnerable to attack by
+		infantry.
+Anti-Tank	Anti-tank units are effective against tanks, but not against
+		anything else. They are vulnerable to attack by infantry.
+HQs		These represent, not only administration units, but also a
+		division's artillery. They are thus useful against tanks.
+		They are very vulnerable to attack and should always be
+		supported.
+
+
+
+15.	PLAYER'S NOTES
+As with any game of any complexity it requires experience to master the tactics
+needed to play "Desert Rats". However, a few general points are listed that should
+help players through their first games. Ideas for strategies can be gleaned from the
+historical notes.
+	One of the most important points for the players to master is deciding how
+to go about attacking the enemy. The obvious method would be to order your units
+to the same square as is occupied by the enemy unit you wish to attack. However,
+in many cases this is not a good approach, because the enemy may well have
+moved away before your units arrive, and your attack will fail. A better method is to
+decide on an "axis of advance" for your units, and set their objective at some point
+behind the enemy lines. This will allow your units to pursue if the enemy retreats
+and if it holds its ground to attack. If it is forced to retreat or destroyed, then your
+units will be able to continue advancing behind enemy lines. Adopting this
+approach will also speed up the game as units can continue on the same axis for
+several turns, negating the need to give them new orders each turn.
+	Another useful strategy which the attacker should adopt is to make good
+use of the "assault" order. By doing so the effectiveness of the attacks will
+increase and result in resistance being overcome quickly. However, using the
+"assault" order all the time will not only be expensive in supply terms, but will leave
+your units rather vulnerable if met by unexpected resistance, or a counter-attack.
+	A defending player should not attempt to be too active but should
+concentrate his units to make each stack as strong as possible, making use of the
+benefits of being dug in, particularly if the unit is infantry when tanks are about to
+attack. Let the attacker use up his supply and be on the alert for opportunities to
+counter-attack units that are separated from the main attacking force or who are
+running short of supply.
+	Whether attacking or defending, it is vital to keep a close eye on the supply
+situation. Particularly important is to prevent enemy units from cutting your supply
+lines. If this occurs, your operations will quickly grind to a halt. Recce units are
+particularly effective at cutting supply lines and can often divert much larger
+enemy forces. If any substantial enemy forces get behind your lines, the forces cut
+off could be in serious trouble as they may not be able to dislodge it before their
+supplies run out.
+	The general level of supply in your army is also important especially when
+conducting an offensive. If supplies are running short then it is wise to get your
+units back to safe positions rather than let them be stranded on the battlefield
+where they will be sitting ducks for enemy counter attacks. It is best to avoid
+attacking until all units have a reasonable level of supply.
+	Players should also bear in mind, that "fortifying" uses supply. If many units
+are fortifying, then this can be a drain on your supplies. Since any benefits are lost
+if a unit moves it is usually not worth fortifying, whilst waiting to amass sufficient
+supply for an offensive. The Axis player receives less supplies than the British
+player and so must use them with particular care.
+
+
+
+[DRpic15.JPG]
+
+
+
+16.	HISTORICAL BACKGROUND
+The North African Campaign was important not only because of North Africa's
+strategic situation, but also because it enabled Allied Forces and Commanders to
+gain valuable battle experience for the European Theatre and enabled Operation
+Overlord to be successfully executed in 1944.
+	When Britain declared war on Germany on 3rd September 1939 as a result
+of Germany invading Poland, the North African situation was as illustrated on map
+opposite. At that time the Italians were neutral but were favourable to Germany.
+France and her North African possessions were Britains' most important ally. The
+"Phoney War" went on until 21st April 1940 when Germany invaded Norway. Then
+in June as a result of France falling the balance of power in North Africa changed.
+On 11th June Italy joined with Germany and declared war on the United Kingdom
+and on 24th June the French Vichy Government signed an armistice with
+Germany, and Algeria, Morocco, Tunisia and Syria all followed suit. Only French
+Equatorial Africa declared for the Free French under De Gaulle. (This enabled the
+Allies to supply their forces in North Africa from the Gold Coast and Nigeria by
+using the Trans-African route (see map opposite). In August 1939 Germany
+signed a Non-Aggression Pact with the Russians, thus the way was clear for the
+Germans to attack the Middle East via the Balkans and Turkey.
+	The initial skirmishes by the British with the Italians on land and sea were
+very successful inflicting losses of 3,500 men in the first 3 months. Mussolini was
+under intense pressure from Hitler to invade Egypt and on 13th September he
+ordered Graziani to attack. The small British frontier force fell back and allowed
+Graziani to advance to Sidi Barrani. Graziani was reluctant to advance further as
+his supply lines were fully stretched.
+	The Allies used October and November in which to consolidate and plan
+the counter attack. The Royal Navy scored a spectacular success at Taranto
+disabling a large number of the Italian ships. These losses so demoralised the
+Italian Navy that they then ceased to be a threat to the Royal Navy.
+	In December 1940 the British counter attacked at Sidi Barrani. The attack
+was a complete success and the Italians were driven back to Sollum. The attack
+came as a surprise to the Italians and was carried out in text book style. Later they
+fell back to Bardia and Tobruk. Further successes on land were achieved by the
+Allies in January 1941. The Australians breeched the Italian defences of Bardia
+and the town fell and 40,000 Italian prisoners were taken. This success was
+followed up in early February 1941 by the 6th Australian Division and the 7th
+Armoured Division (the Desert Rats) taking Benghazi in the West of Libya. These
+two Divisions had overwhelmed the nine Divisions of the Italian Tenth Army!
+
+
+
+[DRmap17.GIF]
+
+
+
+	There was a price to be paid for the successes and some historians state
+that the North African Campaign would have been shorter if the British had taken
+more time to demolish the Italians. When Sidi Barrani fell Hitler authorised
+"Mittelmeer" the intervention of the Luftwaffe in the Mediterranean. Later when
+Bardia fell he authorised "Sonnenblume" (Sunflower) the transfer to North Africa of
+the 5th Light Motorised Division which was commanded by Rommel. In January
+as a result of Mittelmeer the Royal Navy had lost their supremacy in the
+Mediterranean. The Luftwaffe so seriously damaged "H.M.S. Illustrious" the
+aircraft carrier, that she had to flee through the Suez Canal to be repaired in the
+U.S.A. Malta was no longer a safe haven to have one of the Royal Navy's capital
+ships repaired.
+	Meanwhile in Abyssinia (Ethiopia) British and Allied Troops fought a
+determined campaign and although outnumbered 10 to 1, obtained the Italians
+surrender by 19th May 1941. This success enabled much needed British
+Divisions to be diverted to North Africa.
+	However in spite of the British victories the balance of power in North Africa
+swung against the Allies in March when Sonnenblume was launched and four
+Allied Divisions were transferred to Greece to counter the Balkan threat.
+
+
+
+17.	ENTER ROMMEL - 31st March to 30th April 1941
+In March Hitler launched Operation Sunflower. German troops under the
+command of Erwin Rommel landed in Tripoli. In order to impress the Allies
+Rommel held a huge march past in which nearly every German was on parade,
+some groups marching past the saluting base more than once! Rommel also had
+200 dummy tanks made of wood and fixed to old car chassis, strategically placed
+in the desert to confuse the enemy. This was however all in vain as the Allies had
+no agents in Tripoli and therefore the first reports of Germans were not until a
+border reconnaissance unit saw some eight-wheeler trucks near El Agheila some
+weeks after they had landed. Even so the Allies were reluctant to accept that the
+Germans had landed a substantial number of troops from the Afrika Korps and
+under pressure from Churchill, transferred four divisions from North Africa to
+Greece in March.
+	Later in March further German troops were landed at Tripoli including
+8,000 men of the 5th Light Division equipped with powerful Panzer III and IV tanks.
+At the end of March Rommel attacked and took El Agheila. This attack was
+followed up on 31st March by taking the well defended Mersa el Brega gap by
+attacking the British right flank at night with a well trained machine gun battalion.
+The professionalism of the Germans surprised the British Commanders who
+decided to withdraw their troops from Benghazi. Rommel broke all the rules of
+logistics and split his forces. One group headed across the desert to Mechili and
+the other headed along the coastal road to Benghazi.
+	By 7th April the Germans had taken both Derna and Mechili. What started
+as an orderly withdrawal ended in a rout. A week later on 15th April the Allies were
+back where they had started holding a defence line at Sollum, the border between
+Egypt and Libya which was marked by a 12 ft barbed wire fence. However, in spite
+of Rommel's blitzkreig tactics, he could not dislodge the Australians holding
+Tobruk and he was to fail again when he made another attempt on 30th April.
+Tobruk was to remain a thorn in his side for the whole of the North African
+campaign.
+
+
+
+[DRpic19.JPG]
+
+
+
+18.	OPERATION BATTLEAXE - 15th June - 21st June 1941
+Allied defeats in both Greece and Crete resulted in losses of heavy equipment and
+men. Nevertheless 16,500 men were brought back to Egypt from Greece.
+	By June, Churchill was thirsting for a decisive victory on the battlefield. He
+personally supervised the transportation of 180 Heavy Matildas and 127 Cruiser
+tanks, insisting that they were sent using the dangerous Mediterranean route. The
+operation was called "Tiger" and the tanks became known as "Tiger Cubs". In the
+event only one ship was sunk and 250 Tiger cubs got through to Alexandria.
+Churchill was getting accurate reports of Rommel's supply difficulties from Ultra
+(a section of British Intelligence which had broken the German code and therefore
+was able to decode all Rommel's messages). Churchill therefore urged General
+Wavell to launch Battleaxe as soon as possible using the 250 "Tiger Cubs" which
+he had just received. The tanks had not arrived in very good shape and it took
+some time to make them operational. Therefore very little time was left for the tank
+crews to train on the new equipment
+	On 15th June Operation Battleaxe was launched by the British. A regiment
+of Matildas with the 4th Armoured Brigade attacked the Halfaya Pass while the 7th
+Armoured Brigade attacked Point 206 and Fort Capuzzo and the 7th Armoured
+Division attacked the Hafid Ridge. The Germans had heavily fortified the Halfaya
+Pass and dug in a battery of eighty-eight guns. The Matildas were picked off like
+ducks in a fairground shooting range. Meanwhile the Matildas in the 7th
+Armoured Brigade fared better against eighty-eights at Fort Capuzzo and the
+constant Stuka attacks and finally overran the German position at Fort Capuzzo.
+Meanwhile the 7th Armoured Division was making steady progress against the
+garrison on Hafid Ridge in spite of heavy losses in Cruiser tanks. The garrison on
+Hafid Ridge was nearly out of ammunition when they were reinforced by the 5th
+Light Division which resulted in the 7th Armoured Division withdrawing to the
+South.
+	The next day the 15th Panzer Division attacked the British at Fort Capuzzo
+and the 5th Light Division pressed their attack towards Sidi Omar. In both actions
+the German losses were heavy but the Germans had managed to counter the
+Allied attacks and push the British back.
+	On the 17th June the 5th Light and the 15th Panzer Divisions pressed their
+attacks towards the Sidi Suleiman area. The 22nd Guards Brigade and the
+Matilda brigade who were holding Fort Capuzzo decided to withdraw to avoid
+being encircled.
+	Fortunately the Panzers did not attack the Matildas as they withdrew and
+most of the tanks got through to Mersa Matruh. The Allies were back where they
+had started. Operation Battleaxe had failed. The British had lost 99 tanks and the
+Germans had lost only 12.
+
+
+
+19.	OPERATION CRUSADER - 18th November 1941 - 1st January 1942
+Crusader was a very complex battle. It was fought in a vast gravel desert area of
+100 x 40 miles. Large escarpments parallel with the coast traverse this area which
+rise in steps from the coastal strip to the desert plateau. There was one road via
+Balbia between the coast and the Northern escarpment and a desert track Trigh el
+Capuzzo which ran between the Northern and Southern escarpments. There was
+no clearly defined front line and the British forces criss-crossed each other
+fighting individual battles. The Generals on both sides found great difficulty in
+co-ordinating their troops. Communications were poor because radio sets suffered
+from interference from electric storms and the range of sets was reduced at dawn
+and dusk. At the time the British were planning Operation Crusader Rommel was
+also planning a major offensive against Tobruk and was moving his forces into
+position at the same time as the British were moving their XXX Corps across the
+Libyan frontier at Fort Maddelana. The Allied tanks were disguised as trucks and
+because the bad weather prevented reconnaissance the British reached their
+objective without alerting the Germans. The next day the British advance
+continued to their objective at Sidi Rezegh.
+	The Allies achieved some successes on the first day. The 22nd Armoured
+Brigade destroyed 34 Italian tanks with a loss of 25 of their own, the 7th Armoured
+Brigade overran Sidi Rezegh's airfield destroying 19 Axis aircraft, the 4th
+Armoured Brigade held off the 21st Panzer Division's 5th Regiment south of
+Bardia.
+	During the 20th November the British built up their forces at Sidi Rezegh
+and prepared for the breakout from Tobruk. Cruwell (Rommel's No.1) decided to
+stage an attack on the 4th Armoured Brigade at Gabr Saleh with the 15th Panzer
+Division supported by the 21st Panzer Division when it had finished refuelling. The
+22nd Armoured Brigade came too late to support the 4th Armoured Brigade and
+the battle resulted in the losses of 26 more British tanks. The position of the 7th
+Armoured Division at Sidi Rezegh was being made uncomfortable by the Afrika
+Division which had infiltrated along the escarpment which overlooked the airfield.
+	On the 21st November Rommel withdrew his 15th and 21st Panzer
+Divisions from Gabr Saleh to attack the 7th Armoured Brigade at Sidi Rezegh to
+stop the British breaking out of Tobruk. (See map on page 23). The Scobie breakout
+from Tobruk started successfully but could not be supported by the 7th Armoured
+Brigade which was under attack. During the day the 7th Armoured Brigade held
+on but suffered heavy losses. The 21st Panzer Division virtually destroyed the 7th
+Hussars which lost all but 10 of their tanks. The 22nd and 4th Armoured Brigade
+pursued the 15th and 21st Panzer Divisions to Sidi Rezegh. Thus the stage was set
+for a major battle, the outcome of which would decisively influence the North
+African Campaign.
+
+
+
+	On the 22nd November the Germans overran the airfield at Sidi Rezegh.
+The Allied Forces retreated south. British tank losses were severe and by the end
+of the day the Germans had won a numerical superiority in tanks. The following
+day the Germans consolidated their position further by encircling the 5th South
+Africa Brigade and the remnants of the 22nd and 7th Armoured Brigade. Cruwell
+formed up the Panzer Divisions to the South of the 5th South African Brigade to
+stage the Battle of Tottensonntag. However, he suffered many losses before the
+attack began as the 1st South Africa Brigade engaged him in probing attacks.
+Nevertheless Cruwell achieved his objective and of the 5,700 South African
+Brigade only 2,300 managed to escape back to the South African Division. The
+Germans suffered heavy losses of tanks and senior officers; 72 out of 162 tanks
+were destroyed.
+	Cruwell's success encouraged Rommel to launch his most imaginative
+attack on the 24th November. The 21st and 15th Panzer Divisions were instructed
+to "Dash for the Wire"; ie. to attack Sidi Omar on the Egyptian border and relieve the
+Axis forces in Sollum and Bardia, thus cutting off the Allied troops from their
+supply lines. He had over-estimated the British losses and he was to fail in his
+objective. As the German advance passed between the Allied Forces they
+suffered losses from attacks by the 1st South African Brigade in the South and the
+7th Armoured Brigade in the North. Although the column passed through many of
+the British Headquarters which were situated on the Trigh el Abd very few losses
+were suffered by the astonished Allied Forces. The RAF were also successful in
+depleting this column which did not have air support. By 26th November little had
+been achieved by the German Panzer Divisions and as they were nearly out of fuel
+they withdrew to Bardia to refuel. Meanwhile the 2nd New Zealand Division took
+Belhamed (5 miles Northwest of Sidi Rezegh) from the Afrika Division. As the 21st
+Panzer Division was no longer a threat to Scobie's Tobruk Garrison, he took the
+opportunity of consolidating the breakout and took Ed Duda (5 miles North of Sidi
+Rezegh) joining up with the forces of the 2nd New Zealand Division.
+	On the 27th November Rommel decided that he would use the 15th and
+21st Panzer Divisions to stop the breakout from Tobruk. The Panzer Divisions
+were sent along the Trigh Capuzzo to retake Belhamed and El Duda. This they
+achieved but suffered heavy casualties. On the 29th November the 15th Panzer
+Division encircled Sidi Rezegh and drove the 6th New Zealand Brigade out. The
+Afrika Korps were victorious for the second time in seven days on the battlefield of
+Sidi Rezegh. Nevertheless the victories had been won expensively and when
+Rommel was told that he could not expect further reinforcements or supplies of
+equipment and stores before the end of December, he decided that he had no
+alternative but to withdraw to El Agheila (the frontier between Tripolitania and
+Cyrenaica). The withdrawal started on the 8th December and was completed by
+the 1st January 1942. The Allies had lost the battle on the battlefield but won the
+battle overall on logistics.
+
+
+
+[DRmap23.GIF]
+
+
+
+20.	BATTLE OF GAZALA - 26th May 1942 - 3rd July 1942
+
+Summary of Equipment on 26th May 1942
+		Allies			Axis
+					Forces
+Medium Tanks	424	German		282
+Light Tanks	425     Italian		228
+			German		50
+Aircraft
+Forward Area	190			497
+Within Range	749			1000
+
+The Allied Forces had fortified the "Gazala Line" with extensive minefields along
+the line with "boxes" at intervals of well dug in troops supported by artillery.
+Rommel conceived his operation "Venezia". The plan was for the 15th and 21st
+Panzer Divisions supported by the 90th Light Division and the Italian Ariete
+Division to sweep 60 miles southwards to Bir Hacheim and thereby avoid the
+fortified Gazala Line. On 27th May the operation started and the Axis Forces
+penetrated deep behind the Allied lines. (See map opposite). The 15th and 21st
+Panzer Divisions nearly reached Via Balbia before they again turned South to Bir
+el Harmat. The 90th Light were stopped short of El Adem where there was a RAF
+airfield. The Allied response was to move troops to close the southern route to
+ensure that the Germans would be cut off from their supplies. The next day
+Rommel ordered the 90th Light and the Ariete to give up their positions and move
+towards Bir el Harmat. The Pavia and Trieste Divisions of the Ariete were to clear
+the route through the mine fields, so that Rommel could use the Trigh Capuzzo
+and Trigh el Abd to supply his forces from the West. Rommel's objectives were
+mostly achieved but with heavy losses of tanks and men. The British Commander
+Richies response was operation "Aberdeen" which was intended to take the
+initiative from Rommel by using the 22nd and 9th Armoured Brigades to attack the
+Axis position in the Cauldron (which consisted of a series of high ridges to the
+North of Bir el Harmat) in order to plug the gaps in the Gazala Line which had been
+made by the Trieste Division. Meanwhile Rommel had sent the 90th Light west to
+Bir el Harmat to consolidate his tanks in the Cauldron. The 90th Light Division met
+strong resistance from the 4th Armoured Brigade and they had to "hedgehog"
+behind their anti-tank guns to achieve their objective. The Ariete also reached Bir
+el Harmat and set up an anti-tank screen to cover the supply column along the
+Trigh el Abd. The Battle of the Cauldron was a British military disaster. It
+commenced at 0250 hrs. on 5th June and the 10th Indian Brigade attacked the
+strongly defended Cauldron. Their attack was co-ordinated with that of the 32nd
+Army Tank Brigade from the North on the 21st Panzer Division. Both attacks failed
+and heavy losses of tanks, equipment and men resulted. Rommel capitalised on the
+situation and sent the 15th Panzer Division South East through a gap in the British
+minefields to attack Bir el Harmat which he had given up only days before to
+withdraw his forces into the Cauldron and overran the two Divisional
+Headquarters and the two Indian Brigade Group Headquarters. Control broke
+
+
+
+[DRmap25.GIF]
+
+
+
+down and Rommel again inflicted serious losses on the Allied Forces. The RAF
+and Luftwaffe were only able to give limited support to their forces in this battle
+due to the difficulty in identifying the enemy as both sides were using captured
+equipment.
+	The decisive "Battle of Knightsbridge" opened on 12th June. The
+Commander of the 2nd and 4th Armoured Brigades ran into the 90th Light and had
+to hide to avoid capture, thus leaving the 2nd and 4th Armoured Brigades without
+precise orders and this resulted in them being heavily mauled by the 15th and 21st
+Panzer Divisions. The 22nd Armoured Brigade dashed Eastwards to assist but
+arrived too late. The British suffered losses of 100 tanks and again found
+themselves outnumbered by the Axis tanks.
+	Still indecision plagued the British forces and the order to withdraw the XIII
+Corps from the Gazala Line was delayed 24 hours. What started as a withdrawal
+ended in a rout. An old contingency plan Operation "Freeborn" was resurrected
+and adapted. The 1st South Africa Division was to withdraw Eastwards towards
+Tobruk whereas the 50th Division was ordered to break out southwards through
+the Italian lines. The withdrawal started well and most of the 1st South Africa
+Division had cleared the minefield before Rommel realised what was happening
+and sent his 15th Panzer Division North to intercept the 1st South Africa Division.
+Most of the 50th Division successfully broke through the Italian lines. At first the
+British Commanders attempted to hold a line West of Tobruk but by 18th June
+most of the British Forces were in retreat without sufficient tanks with which to
+fight a rearguard action. Thus the British were forced to retreat East of Tobruk and
+the Garrison of 32,000 in Tobruk were again cut off from the main British Forces.
+Rommel followed up his two successes on the 18th June and two days later he
+
+
+
+[DRmap26.GIF]
+
+
+
+[DRpic27.JPG]
+
+
+
+[DRpid27.JPG]
+
+
+
+turned the 21st and 15th Panzer Divisions from their advance eastwards, 180[degrees] to
+attack Tobruk together with the Ariete and Trieste Divisions. By 21st June after
+fierce fighting Tobruk had fallen yielding valuable stores including 500,000
+gallons of gasoline. A brilliant manoeuvre executed at speed had caught the
+British Commanders off their guard! The Allied Forces continued to withdraw and
+Ritchie decided to hold a line from Mersa Matruh southwest along the Siwa Track.
+Defences were prepared and minefields hurriedly laid. By the end ot June
+Rommel was ready to mount another major offensive. He decided to use the same
+tactics to attack Mersa Matruh as he had used to take Tobruk. He decided to drive
+a wedge between the forces holding Mersa Matruh and the rest of the Allied
+Forces. On 27th June he used his Afrika Korps and the 90th Light Division and
+attacked astride of the Northern Escarpment. The 90th Light then swept North to
+the coast to cut off the 50th Division. Meanwhile the 21st Panzer Division swept
+between the Northern and Southern Escarpments turning southwards at Minqar
+Qaim to attack the 2nd New Zealand Division. The 15th Panzer Division also
+proceeded eastwards but was checked by the 4th and 22nd Armoured Brigades.
+The Allies fiercely resisted but due to poor communications the British
+Commander Goff concluded that the battle was going against the Allies and
+ordered the Allied Forces to retreat to the Alamein line. Fortunately the 10th Indian
+Division was able to break out of Mersa Matruh and the 50th Division fought their
+way Eastwards to rejoin the Allied Forces.
+
+
+
+21.	CURTAIN RAISER - 13th August 1942 - 3rd September 1942
+(Not covered by a separate scenario)
+Montgomery took command of the Eighth Army on 13th August 1942. He
+immediately set about strengthening the defences, visiting troops in each part of
+the battlefield to improve morale. He scrapped all contingency plans for further
+withdrawal and deployed transport vehicles from the front line to the rear. He
+decided that the gap between the high ridges of Alam Nayil and Alim el Halfa
+should be fortified, thus providing natural defences from an attack from the South.
+By 30th August he had deployed the 22nd Armoured Brigade between the ridge
+with the 23rd Armoured Division held in reserve.
+	His strategy was to build up the anti-tank guns along these ridges and wait
+for Rommel, picking off his tanks one by one! He also set in motion the
+development of the X Corps which would be a rival to the Afrika Korps consisting
+of three Armoured Divisions and one Infantry Division to form a "Corps de Chasse".
+	Air reconnaissance on the 30th August detected the forming up of a large
+force. The 90th Light Division to the North, the Italian XX Mobile Corps and the
+Ariete Divisions in the centre with the Afrika Korps including 200 tanks of the 15th
+and 21st Panzer Divisions, in the south. As Montgomery had predicted this force
+made its attack across the Southern minefield defended by the 7th Armoured
+Division and intended to swing north around the Alam el Halfa ridge. The battle
+started at 0200 hrs. on 31st August. The 7th Armoured Division resisted strongly
+and delayed the 15th and 21st Panzer Divisions sufficiently so that they were
+behind their schedule. They swung North towards Alam Halfa instead of around
+it. At 1530 hrs. the German Panzer Divisions closed on the hidden anti-tank guns
+of the 23rd Armoured Brigade. The Germans suffered very high losses, but as
+there were so many tanks some tanks broke through and overran several gun
+positions. As soon as Montgomery was certain that all the Axis Forces were
+
+
+
+committed he released the 23rd Armoured Brigade to support the 22nd. The
+Panzer Division had been so effectively countered that they withdrew from the
+battlefield to leaguer. During the night the RAF carried out extensive bombing on
+the Axis Forces causing further casualties. Montgomery deployed the 2nd New
+Zealand Division Southwards to close the gap and the 7th Armoured Division
+were ordered to work their way eastwards along the top of the Qattara Depression
+to encircle the Axis Forces. He also deployed some of the XXX Corps Forces
+holding the northern sector of the line to form a reserve force.
+	The 1st September opened with the 21st Panzer Division short of fuel and
+the 15th Panzer Division trying to edge its way round the 22nd Armoured Brigade.
+In so doing it clashed with the newly formed 8th Armoured Brigade which was
+annihilated by the anti-tank screen of the 15th Panzer Division.
+	The RAF continued its intensive bombing of the Axis Forces throughout the
+day and the following night. Rommel decided to withdraw his forces which by 4th
+September had managed to fight their way back westwards. Although losses of
+tanks and planes by the Allies were more than those suffered by the Axis Forces,
+the Battle of Alam el Halfa was significant because it demonstrated that the British
+could halt Rommel.
+	Malta had been resupplied with aircraft in July and now provided effective
+air cover for supply convoys to the British and more importantly were able to stop
+the Axis convoys from supplying Rommel. The British could therefore afford
+losses but the Germans could not. Montgomery also demonstrated to his troops
+that if they had the will they could beat Rommel.
+
+
+
+[DRpic29.JPG]
+
+
+
+22.	EL ALAMEIN - 23rd October - 10th November 1942
+In spite of El Alamein being regarded as a triumphant victory and a watershed in
+the fortunes of the Allies ("before Alamein we never had a victory. After Alamein
+we never had a defeat" - Churchill) the battle was logistically won by the Allies
+before the first shot was ever fired. Whereas Rommel was being starved of
+supplies and equipment, Montgomery was receiving 2,500 tons of equipment,
+ammunition and supplies each day using the railway from Alexandria. His strategy
+was therefore to launch an offensive which would last at least 12 days knowing
+that by that time Rommel would be out of fuel and ammunition! Montgomery also
+had a 2:1 advantage in equipment, tanks and men over the Axis forces.
+	The line held at El Alamein was fortified along its 40 miles between the
+coast at El Alamein and the Qattara Depression in the south. When the Allies first
+fell back onto this line, the fortifications were far from satisfactory but Montgomery
+soon set about strengthening the Allies position. Between the Axis and Allied
+position there were over 500,000 mines! (See map opposite).
+	Montgomery needed the period between the Battle of Alam el Halfa and
+Alamein to re-equip and train his troops. His planning was meticulous and
+training exercises were developed that simulated the exact conditions that the
+troops would encounter once the battle had begun. The time was also used to
+develop the procedures necessary to clear a path through the minefields,
+co-ordinating the sappers role with flail tanks and gap marking parties. A system of
+traffic control was necessary to ensure that the tanks, equipment and infantry
+moved through the narrow gaps in the minefields as quickly as possible.
+	The battle was fought in four distinct phases.
+	- the break-in
+	- the crumbling process
+	- Operation Supercharge
+	- the break-out
+	The first phase, the "break-in" began on the night of 23rd/24th October,
+chosen because it was a full moon. Following an impressive barrage and
+bombardment, four Divisions of XXX Corps made rapid progress through the
+eastern minefields until they met the "Devil's Gardens" (randomly laid minefields of
+anti-tank and anti-personnel mines with booby traps).
+	The X Corps followed the XXX Corps through the gap which had been
+made in the minefield to press the attack towards Kidney Ridge. Progress was
+much slower than expected and the Allies were suffering expensive losses in
+troops and tanks and the Divisional Commanders were of the opinion that the
+advance should be abandoned. A midnight conference with Montgomery was
+arranged at which he made it clear that the advance should continue as it was
+important for the Armoured Divisions to get out into the open country which was
+west of the minefields. After severe losses a wedge six miles wide and five miles
+deep was driven into the Axis defences. The German reaction to the attack must
+have been hampered by the death of General Stumme from a heart attack in the
+
+
+
+[DRmap31.GIF]
+
+
+
+middle of the battle. On 25th October Rommel returned from Germany to take
+charge ot the battle. His return co-incided with Montgomery actioning phase two
+of his plan, the "crumbling process", by using the New Zealanders to attack Kidney
+Ridge. However, this operation was halted and the 9th Australian Division was
+ordered to "crumble" northwards towards the coast to take point 29.
+	On the 27th October Rommel launched a counter-attack against the 1st
+Armoured Division and the 51st Highland Division holding the area around Kidney
+Ridge. The attack was repelled by Colonel Turner's 2nd Battalion who inflicted
+serious losses on the 8th Panzer Regiment and for his courage and tenacity
+Colonel Turner was awarded the Victoria Cross.
+	The crumbling process was succeeding. Rommel had to throw all his
+forces into the front line and now had no reserves with which to plug and new
+gaps in his front line.
+	On 1st November Operation "Supercharge" was launched (a replica of
+Operation "Lightfoot" on a smaller scale). The objective was to press home the
+attack Westwards to Tel el Aqqaqir which is on the Rahman Track. This was a well
+fortified anti-tank position. The assault was led by the 151st and 152nd Infantry
+Brigades with two Regiments of Valentine tanks. Following them was the 9th
+Armoured Brigade consisting of the Wiltshire and Warwickshire Regiments and
+the 3rd Hussars. Behind the 9th Armoured Brigade was the 1st Armoured Division.
+The attack was co-ordinated with diversionary attacks by the Australian Division
+northwestwards towards the 90th Light Division. Heavy losses were incurred by
+the Allied Forces. The 9th Armoured Brigade lost 75% of its tanks and 50% of its
+crews but they achieved their objective and had fractured Rommel's containing
+screen.
+	The next morning Rommel re-deployed the Panzer Divisions supporting
+the 90th Light Division's southwards to check the advance of the 1st Armoured
+Division but both his attacks at 1100 hrs. and 1400 hrs. were repulsed with the loss
+of 117 tanks.
+	Montgomery sensing that Rommel was nearing defeat ordered the 51st
+Highland Division to attack southwestwards towards the position held by the
+Trieste Division.
+	The breakout was underway and Rommel decided that if he was to save the
+Panzerarmees he would have to withdraw to the "Fuka Line" and abandon his
+Italian Infantry. Of 100,000 Axis Forces which were engaged in the Battle of El
+Alamein about 40,000 were taken prisoner and about 20,000 were casualties and
+the Panzerarmees had left 1,000 guns and 400 tanks on the battlefield. The Allies
+lost 13,500 men killed and wounded, and 100 guns and 150 tanks were destroyed.
+
+
+
+23.	OPERATION COMPASS - 9th December 1940 - 22nd January 1941
+At the beginning of December 1940, the Italian Tenth Army in Egypt consisted of
+around 80,000 men, whereas the British forces opposing them numbered only
+36,000. Nevertheless, it was the British under General O'Connor who assumed the
+offensive. The Italians were grouped around Sidi Barani in a series of fortified
+camps with a gap between them and the troops further back towards the border. It
+was this gap that General O'Connor planned to exploit in his attack.
+	The assault began on December 9th with the 7th Armoured Division
+moving into position in the gap whilst the 4th Indian Division stormed the Italian
+camps at Nibeiwa and Tummar. These camps were overrun quickly, mainly due to
+the presence of forty-eight Matilda tanks of the 7th Royal Tank Regiment. Whilst
+these tanks were rather slow, they were very well armoured and the Italians had
+no weapons effective against them. These successes trapped the Italian forces
+nearer the sea and these were in turn destroyed.
+	The remainder of the Italian army retreated to the fortress of Bardia with the
+British troops following closely to invest them. However, O'Connor could do no
+more as the Indian Division had been withdrawn to fight in Ethiopia. They were
+replaced at the end of the month by the 6th Australian Division.
+	The assault on Bardia began on January 3rd 1941. Despite being a well
+fortified position, defended by 45,000 men, the Australians stormed it in two days
+heavy fighting. Even before its fall O'Connor had despatched the tanks of the 7th
+Armoured Division to prevent the escape of the Italians in Tobruk. This fortress
+was itself stormed on January 21st.
+
+
+
+24.	BEDA FOMM - 24th January - 7th February 1941
+Despite the heavy losses suffered, the Italian army in Cyrenaica was still
+considerable, holding a line from Derna to Mechili. An attempt was made to
+surround the armoured brigade in the south, but they managed to retreat back
+northwards. The Australians then moved up to face the Italian positions at Derna.
+However, before they could mount an assault the Italians withdrew.
+	Due to the speed of the withdrawal O'Connor feared that the Italian army
+would get away. He therefore dispatched the 4th Armoured Brigade, together with
+the 11th Hussars and part of the Support Group, in a madcap dash to try to cut the
+coast road south of Benghazi. The Hussars reached the road at midday on
+February 5th near the village of Beda Fomm only a couple of hours ahead of the
+first Italian convoys.
+	Throughout the evening and the following day the Support Group
+prevented Italian attempts to break through, whilst the tanks harried the flanks of
+the Italian column despite being outnumbered by the Italian tanks. On the morning
+of February 7th the Italians launched one final attack which was only narrowly
+
+
+
+repulsed. Then, because they assumed the British forces to be much more
+numerous than they were and with the Australians closing in behind them, they
+surrendered.
+	In ten weeks O'Connor's two divisions had advanced five hundred miles,
+captured 130,000 prisoners, 180 medium tanks and over 800 pieces of artillery.
+The Italian Tenth Army had been totally destroyed and the way cleared for the
+complete conquest of Libya. This though was not to be, as the best of the Allied
+troops were withdrawn to fight in Greece, leaving only a handful of raw troops to
+hold the recent gains. This respite enabled the Axis powers to reinforce Africa
+with both Italian and German troops.
+
+
+
+DESIGNER'S NOTES
+Players of "Arnhem", will immediately recognise the style of this game, but should
+not assume that it is merely "Arnhem" in yellow. It took longer to write, is far more
+wide ranging, and has more involved mechanics, whilst being easier to play.
+	I have retained the "order/move" system for "Desert Rats", rather than
+making it a "real time wargame" which are popular in some quarters. This is for
+three reasons. Firstly, I do not believe in the premise that a general has to make his
+decisions in real time. Any high level commander has hours, rather than seconds
+to reach a decision. Secondly, when a player is rushing around trying to move all
+his units as quickly as he can, he is unable to watch his units moving and fighting
+thus losing the element of suspense. The third reason is that the need for the
+computer to be able to run the game quickly may mean that compromises have to
+be made in the game design.
+	I have however, dropped the somewhat cumbersome "three phase"
+system used in "Arnhem". Its purpose was to divide up the time spent giving
+orders, and the time spent watching them being carried out, but because of the
+improvements in the mechanics of giving orders, and because there are usually
+fewer units in play, in "Desert Rats" this is no longer necessary. Moreover, having
+both players giving orders in one phase and evaluating them simultaneously,
+helps recreate the confused battles that were so characteristic of the fighting in
+the desert.
+	Another feature of the desert fighting, was the problem posed by supply.
+"Desert Rats" used a method to simulate these problems which reflects the way
+that the daily volume of supplies reached an army and determined how active it
+could be, and also allows for the possibility of individual units running out of petrol
+or ammunition. Whilst units occasionally ran short of food or water, generally
+petrol and ammunition were most likely to be scarce. Therefore, units only use
+supply when they move or fight.
+	As I have been interested in the "Desert War" for some time, I was
+particularly anxious to make "Desert Rats" as accurate historically as possible. I
+feel that I have largely succeeded in this aim, and that those areas where the game
+falls short, are due to memory restrictions. The area that suffers most from limited
+memory, is the map. Whilst it is on a large enough scale to depict the more mobile
+battles, scenario 5 (El Alamein) would have benefited from using a larger scale.
+Nevertheless, it reflects the overall trends of the battle, even if the details are not as
+well depicted as in the other scenarios.
+
+	If you have not yet played my other wargame "Arnhem - The Market Garden
+Operation", it is available from CCS at #8.95 and will give you many hours of
+enjoyment.
+
+
+R.T. Smith

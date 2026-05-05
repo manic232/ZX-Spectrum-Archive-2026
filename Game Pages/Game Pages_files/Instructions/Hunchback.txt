@@ -1,0 +1,29 @@
+Hunchback
+from OCEAN
+
+The object of the game is to rescue Esmerelda from her castle keep,
+avoiding all the obstacles in Quasimodo's path. The program runs on
+the 48K ZX Spectrum.
+
+Playing
+"""""""
+QUASIMODO must rescue the imprisoned Esmerelda from the castle
+stronghold. Jump along the Ramparts, swing over the fiery pit, dodge
+the Arrows and Fireballs and remember to keep ahead of the chasing
+Knight. 15 Screens each one more difficult than the last. A
+Demonstration Mode is available to view the competed game - GOOD LUCK!
+
+Status and Scoring
+""""""""""""""""""
+On screen scoring shows current score, number of lives remaining and
+Super Bonus. Points are awarded at the end of each completed screen
+and bonus points if no lives are lost. Hall of Fames feature for best
+score.
+
+Controls
+""""""""
+Left  - Q
+Right - W
+Jump  - SYMBOL SHIFT
+
+Follow screen menu for demonstration or type of Joystick interface.

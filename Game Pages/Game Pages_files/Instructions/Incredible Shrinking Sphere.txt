@@ -1,0 +1,404 @@
+                          INCREDIBLE SHRINKING SPHERE
+                                 PLAYERS GUIDE
+
+                                   OBJECTIVE
+The planet Sangfalmadore is the Sphere Corps' battle training arena, also
+called the DEATH RUN.
+
+Colonel-in-Chief Matt Ridley, a frustrated desk bound officer of the Corps
+Elite, decided to test his skills behind the controls of a FIGHTER SPHERE and
+attempted to complete the DEATH RUN.
+
+Ridley couldn't handle it! His FIGHTER SPHERE has been disabled by ASSASSIN
+SPHERES and he's now stranded somewhere within the RUN.
+
+Your task aboard a FIGHTER SPHERE is to find a route through the traps and
+assassins of DEATH RUN and locate Ridley. This will enable an automatic Shuttle
+Sphere rescue. Sounds easy, but can YOU handle it?
+
+                                  LOADING ISS
+
+1. Set-up your Computer System as detailed in the instruction booklets that
+accompany your Computer, and connect to your TV or monitor. Ensure that any
+cartridges or peripherals (such as disk drives, cassette players, printers,
+etc.) are disconnected from your computer. Failure to do so may cause loading
+difficulties. (If your computer has a built in disk or cassette drive you will
+not be able to disconnect the built-in item, but ensure that any other
+peripherals are disconnected).
+2. If you are using a COMMODORE 64 or COMMODORE 128 with the CASSETTE ISS ...
+a)  Connect your data cassette to your Commodore 64 or 128, and switch your
+    TV/monitor can Computer ON.
+    (Commodore 128 owners should now select 64 mode by typing GO64 and pressing
+    RETURN, then Y and pressing RETURN).
+b   Insert your ISS cassette into the data cassette, ensuring that SIDE A faces
+    upwards. Ensure the cassette is fully rewound.
+c)  Hold down the SHIFT and RUN/STOP keys on the Computer together. Then press
+    the PLAY key on the datacassette.
+3. If you are using a COMMODORE 64 or COMMODORE 128 with the DISKETTE.
+a)  Connect your disk drive to your Commodore 64 or 128, and switch your
+    TV/monitor, Computer and Disk Drive ON.
+    (Commodore 128 owners should now select 64 mode by typing GO64 and pressing
+    RETURN, then Y and pressing RETURN).
+b)  Insert the ISS diskette into the disk drive, side 1 up.
+c)  Type LOAD "*" 8,1, and press RETURN.
+4. If your are using an AMSTRAD CP464, 664 or 6128 with the CASSETTE ISS...
+a)  Switch your TV/monitor and computer ON.
+b)  If your computer has a built-in disk drive you should now connect a
+    compatible cassette player to your computer, and then type: TAPE and press
+    RETURN. This sets your computer ready to load from cassette.
+c)  Insert your ISS cassette into the cassette player, ensuring that SIDE A
+    faces upwards. Ensure the cassette is fully rewound.
+d)  Press CTRL and the small ENTER key then press PLAY key on the cassette
+    recorder.
+5. If you are using an AMSTRAD CPC 464, CPC 664, CPC 6128 with the DISKETTE ISS
+...
+a)  Switch your TV/monitor and Computer ON.
+b)  If your computer has a built-in cassette player you should switch your
+    computer OFF and connect a compatible disk drive to your computer. Now
+    switch the disk drive and computer ON and type: DISC and press RETURN. This
+    sets your computer ready to load from diskette.
+c)  Insert the ISS diskette into the disk drive, side 1 up.
+d)  Type RUN "DISC" then press the ENTER key.
+6. If you are using a SINCLAIR ZX SPECTRUM, SPECTRUM +, SPECTRUM 128, SPECTRUM
++2 or SPECTRUM +3 with the CASSETTE ISS....
+a)  Connect your cassette player to your Spectrum computer in the usual manner.
+    (If your computer features a built-in cassette player this is already
+    done).
+b)  If you wish to use a joystick, insert the necessary interface now. If your
+    computer has a built-in joystick port then connect a suitable joystick now.
+    (See Control Notes for details of compatible joysticks).
+c)  Switch your TV/monitor, cassette player and computer ON. (If you are using
+    a 128K computer, select 48K mode).
+d)  Insert the ISS cassette into the cassette player, ensuring that SIDE A
+    faces upwards. Ensure the cassette is fully rewound.
+e)  Type LOAD "" then press the ENTER key.
+7. If you are using an ATAR ST computer with the DISKETTE ISS ...
+a)  Connect your disk drive to your Computer (if your computer features a
+    built-in disk drive you will not need to do this).
+b)  Insert the ISS diskette "A" into disk drive A, label side up.
+c)  Switch your TV/monitor, Computer and disk drive ON.
+d)  When prompted by the Computer insert DISKETTE "B" into disk drive A, label
+    side up.
+8. If you are using a COMMODORE AMIGA computer with the DISKETTE ISS ...
+a)  Insert the ISS diskette into disk drive A, label side up.
+b)  Switch your TV/monitor and computer ON.
+
+JOYSTICK AND KEYBOARD CONTROL NOTES ...
+
+1)  Commodore 64 owners may use any compatible joystick, plugged into port 2.
+2)  Amstrad CPC owners may use any compatible joystick plugged into the port.
+    Equivalent control is also available from the keyboard keys.
+3)  Spectrum owners may use Kempston, Interface 2, cursor compatible joysticks
+    (Sinclair joystick). Equivalent control is also available from the keyboard
+    keys.
+4)  Atari ST users may use any compatible joystick plugged into port 1.
+5)  Commodore Amiga users may use any compatible joystick plugged into port 1.
+
+                              LOADING DIFFICULTIES
+
+We are always seeking to improve the quality of our product range, and have
+developed high standards of quality control to bring you this product.
+Therefore, in the event that you experience any difficulties whilst loading, it
+is unlikely to be a fault with the product itself. We suggest that you switch
+OFF your computer and repeat the loading instructions carefully, checking that
+you are using the correct set of instructions for your computer and software.
+If you still have problems, consult the User handbook that accompanied your
+computer or consult your software dealer for advice. In the case of continued
+difficulty, and have checked all of your hardware for possible faults, may we
+suggest that you contact your Customer Advice Department in writing for
+assistance.
+                        Activision Customer Advice (ISS)
+                                  Blake House
+                               Manor Farm Estate
+                                Manor Farm Road
+                                    Reading
+                                   Berkshire
+Your letter should clearly state the following:
+-  your name and address
+-  a daytime telephone number (if available)
+-  the name of the product you are having difficulty with
+-  whether it is on cassette or diskette
+-  the computer system you are using and any peripherals, joysticks, etc. you
+   use with the software in question
+   where and when you bought the product
+   a detailed description of the difficulty you are having.
+
+                                    CONTROLS
+
+COMMODORE 64
+
+The game uses either joystick or keyboard for fighter sphere control, the
+joystick plugs into port 2 (rear port) the direction of the joystick movement
+can be selected as normal North or Isometric North according to preference.
+(See below).
+
+KEYBOARD
+
+PAUSE  RUN/STOP (Move joystick or hit keys to restart)
+QUIT   RUN/STOP when press "Q"
+F1/F7  Change Joystick Directional Control
+       (Arrow on title screen shows Joystick NORTH)
+
+As an alternative to the Joystick the following keys may be used:
+
+FIRE   RETURN (Also used for placing ammo dumps)
+NORTH  ;
+SOUTH  /
+WEST   X
+EAST   C
+
+The SPACE BAR is used to EXIT from the PLACE AMMO DUMPS screen.
+
+SPECTRUM/AMSTRAD CPC
+
+The game uses either joystick or keyboard for fighter sphere control, the
+joystick on the Spectrum can be either Sinclair 1 or Kempston. (See below).
+
+KEYBOARD
+
+On Title Screen press SPACE BAR to START.
+
+Joystick Selected with "J" = SINCLAIR (Spectrum Only)
+                       "K" = KEMPSTON (Spectrum Only)
+
+PAUSE  P
+QUIT   Q      (When the game is already paused)
+FIRE   ENTER/RETURN
+NORTH  K
+SOUTH  M
+WEST   Z
+EAST   X
+
+SPACE BAR used to go through the plates for ammo dump placement and the "S" Key
+is used to start the game.
+
+ATARI ST AND AMIGA
+
+JOYSTICK AND TV OR COLOUR MONITOR REQUIRED.
+
+The game uses JOYSTICK ONLY for fighter sphere control, the joystick plugs into
+port 2. The direction of the joystick movement can be selected as normal North
+or Isometric North according to preference. This option is only given on first
+loading of the game.
+
+KEYBOARD
+
+PAUSE      F10   (Toggle pause on Atari ST)
+UNPAUSE    F9    (Amiga only)
+QUIT       Escape Key
+SPACE BAR  Exit Ammo Dump Placement Screen
+
+                            HOW TO PLAY - NO FRILLS!
+
+For those who don't like reading long instructions before playing!
+
+PLACING AMMUNITION DUMPS
+
+At the beginning of the game, or on reaching a new level, the player has the
+option of placing ammo dumps almost anywhere within the current level.
+
+There are four PLATE maps to each level, you can install up to 4 ammunition
+dumps on EMPTY tiles throughout the level.
+
+1. Move Joystick UP/DOWN to CHOOSE PLATE and press FIRE or use the keyboard as
+   mentioned.
+2. A cursor appears over the mini map for that PLATE. Move cursor to required
+   position over an unoccupied tile and press FIRE to place AMMO DUMPS. The
+   letter "A" will appear on the map if you have chosen an allowable tile.
+   (Amiga and ST has the option of deleting a dump by pressing fire over a
+   placed dump).
+3. Place cursor on any SIDE EDGE of the PLATE MAP and press FIRE to return to
+   the CHOOSE PLATE option.
+4. PRESS SPACE to EXIT into DEATH RUN at any time.
+
+You can now attempt to play ISS. GOOD LUCK, without reading the rest of the
+instructions you'll need it!
+
+                               HOW TO PLAY BETTER
+
+THE TRAINING ARENA
+
+The PLATES within the training arena are in tiers, four deep. The plates
+consist of numerous TECTRONIC TILES, these effect you FIGHTER SPHERE control.
+Fighter sphere also effect tiles, most tiles have their own timer, once a
+fighter sphere passes over one, a countdown begins before the tile changes into
+deadly FIGHTER SPHERE VAPOURISER! So don't hang around and remember the deeper
+the level the faster the TIMERS!
+
+There are a few exceptions, one is Wall-Supporting Tiles these don't change, so
+on some PLATES 'hugging' the walls could be your only chance of survival.
+
+FIGHTER SPHERE
+
+The INCREDIBLE SHRINKING SPHERE or fighter sphere, armed with a 70mm Cannon is
+able, with the help of tiles, to alter its Molecular Structure.
+
+Fighter Sphere MASS, VOLUME and VELOCITY is affected by contact with the
+various TECTONIC TILES. Sphere velocity is also affected by the sphere's Mass,
+the heavier you are the slower your acceleration.
+
+The ability to negotiate the hazards of DEATH RUN depend upon skilled control
+of this weapon. Watch out for the sphere's momentum, learn how to 'contain' the
+inertia!
+
+TECTONIC TILE EFFECTS
+
+On the title screen move Joystick (not fire), or touch direction key to start a
+demo summary of the tectonic tiles. (Due to memory restrictions this option is
+not available on the Spectrum or Amstrad).
+
+TITLE NAME                TECTONIC EFFECT
+ISMO ASSASSIN GENERATORS  Avoid them, they manufacture Assassin Spheres -
+                          Deadly!
+SPEED TRAPS               Alter Sphere speed, not always wanted!
+DECREASE MASS             Decrease Sphere's Mass or weight. A LIGHTER sphere is
+                          able to traverse damaged tiles and prevent ramp
+                          collapse - increases sphere's manoeuvrability!
+INCREASE MASS             Increase Sphere's Mass or weight. If HEAVY avoid
+                          damaged tiles - high mass and speed needed for
+                          opening MOVING WALLS - sphere less responsibe!
+INCREASE VOLUME           Increase sphere's size or volume. Sphere navigation
+                          more difficult through narrow channels.
+DECREASE VOLUME           Decrease sphere's size or volume. Easier to navigate
+                          narrow channels, sometimes essential!
+MASS, VOLUME OR INERTIA   This is a CHANCE, anything may change! Risky but can
+                          be worth it ito short-cut the RUN.
+CHAOTIC BOUNCE            Sphere repelled at speed!
+SHIELDS                   Provides short-term photon protection, from the
+                          Assassin Spheres, essential if you want to survive!
+                          Sphere glows and hums when shield is a active. The
+                          shield's humming sound changes just before it
+                          dissipates! Remember where shield icons are placed
+                          and keep topping up!
+REVOLVER                  If caught your sphere will start to spin at
+                          increasing speed. Once top speed is reach your score
+                          will reduce! PRESS FIRE to be released.
+AMMUNITION SUPPLY DUMPS   Once the route through a plate is learnt use less or
+                          NO DUMPS for increased bonus! Dumps have infinite
+                          supplies of ammo! A higher bonus is awarded for
+                          placement on deeper plates - Plate four deepest.
+REWARD                    Easy score increase toward extra lives! Don't be too
+                          greedy, remember the TIMER!
+PENALTY                   An easy way to loose score!
+BLACK HOLES               These provide access to deeper plates within a level.
+                          They have no TIMERS.
+WHITE HOLES               These provide access UP through the plates in a
+                          level. No TIMERS.
+EXIT                      This is the exit to the next LEVEL. If a life is lost
+                          you will return to the start of the current level.
+BINARY REBOUND BOOSTER    Rebound at full speed in opposite entry direction. On
+                          deeper levels this tile is needed to gain enough
+                          speed to open MOVING WALLS! Generally this tile is
+                          trouble!
+PRISON                    If you pass too close you will be caught and the
+                          sphere will be immobilised for a time. This could
+                          mean death!
+DAMAGED TILE              If you are too heavy damaged tiles will collapse
+                          changing into Fighter Sphere Vapourisers. Deadly!
+RAMP                      On deeper levels the only route to a level EXIT is
+                          via the RAMPS. These allow the sphere to JUMP the
+                          walls. The ramps need to be approached at speed and
+                          the sphere must not be too HEAVY if the RAMP isn't to
+                          collapse!
+SHORT-CUT                 These are the MOVING WALLS. These sections of the
+                          walls can be pushed open if at high speed and mass.
+                          Using these walls could be your only way to complete
+                          a level!
+
+                                 CONTROL PANEL
+The control panel on the bottom of the screen shows the sphere's SPEED,
+AMMUNITION and MASS or weight in addition to your SCORE.
+
+Speed is shown on the left hand side of the screen, weight on the right. The
+bigger the sphere is in the control panel the heavier you are!
+
+The sphere's VOLUME is shown by your FIGHTER SPHERE changing size on the
+screen.
+
+                                     Score
+
+Bonus points are awarded for ammo dumps placed on deeper plates, the less ammo
+dumps you use also increases the bonus.
+
+Points are awarded for the destruction of assassin or the DEATH SNAKE on the
+deeper levels.
+
+Completion of a level gives big bonuses, on GAME COMPLETION there is the option
+of playing on with a new scenario and your present score is retained, however,
+you may find things a little more fraught on this new mission!
+
+New sphere are given every 50,000 points upto a maximum of 7 spheres can be
+held in reserve.
+
+                                    Credits
+
+Incredible Shrinking Sphere was designed and created by Fours Fiels. Credit is
+given to the key people involved in the project on the credits screen, many
+more 'behind the scenes' people also helped and I thank them all.
+
+Special thanks must go to ALL at Software Studios for their help and enthusiasm
+with this project and to Activision generally whose support made the
+development and distribution of this game possible!
+
+I hope you enjoy playing Incredible Shrinking Sphere as much as we enjoyed
+creating it!
+                                Stefan Ufnowski
+
+
+                          ---------------------------
+                          INCREDIBLE SHRINKING SPHERE
+                          ---------------------------
+                             C O M P E T I T I O N
+
+
+Win a Tomy Omnibot 2000 voice-controlled robot!
+Use your free "write on wipe off" planisphere along with your skill and
+judgement and you could be the lucky winner of a Tomy Omnibot 2000 voice
+controlled robot or one of twenty five runners up to receive a limited edition
+Incredible Shrinking Sphere poster! The grids overleaf represent the four
+plates of level seven.Simply fill in the quickest route through each of these
+plates, remembering to include walls and holes etc. Then complete the tie
+breaker in no more than twenty words, fill in your name and address and return
+this official entry form to:- Customer Relations, Activision (UK) Ltd., Blake
+House, Manor Farm Road, Reading RG2 0JN. (To arrive no later than Saturday 25th
+February 1989).
+Complete the following in no more than 20 words:-
+I would like to see the following features included in Incredible Shrinking
+Sphere
+
+        ...............................................................
+
+        ...............................................................
+
+        ...............................................................
+
+        ...............................................................
+
+        ...............................................................
+
+        ...............................................................
+
+
+                                      WIN
+                                       A
+                                      TOMY
+                                VOICE CONTROLLED
+                                     ROBOT!
+
+        Name ..........................................................
+        Address .......................................................
+        ...............................................................
+
+RULES
+1. All winners in the competition will be deemed to have read and agreed to
+abide by the rules of which the entry instructions and prize details form part.
+2. The first 26 correct entries opened after the closing date of Saturday 25th
+February 1989 will be deemed winners.
+3. The organisers of the competition reserve the right to alter dates, times
+and structure to ensure the smooth running and completion of the competition.
+4. No cash alternatives will be offered.
+5. Only one entry per person allowed.
+6. The competition is open to residents of the EEC only.
+7. No correspondence will be entered into.
+8. Employees and their relatives of participating companies in the promotion
+are not eligible to enter.

@@ -1,0 +1,115 @@
+RICK DANGEROUS 2
+================
+
+LOADING INSTRUCTIONS
+Insert tape in cassette player. Type LOAD "" and 
+press ENTER. Press PLAY on your cassettte 
+player.
+
+THE ADVENTURE CONTINUES...
+Back in a Flash and as fearless as ever!
+Rick Dangerous, intrepid Super Hero and part-
+time stamp collector is back after having tackled
+the Fat Man in his first great adventure. The Fat 
+Man has returned and Rick must once again do
+battle to save the Earth from villainous aliens. If
+he survives the first part of the mission in the
+space shit at Hyde Park, London, Rick will face 
+new hazards in the Ice Caverns of Freezia, the
+Forests of Vegatablia, the Atomic Mud Mines 
+and, finally, confront the Fat Man at his head-
+quarters on the planet Barf.
+
+ELECTRONIC DETONATORS
+These may be dropped in order to trigger traps,
+blow away walls, enemies and generally do lots
+of damage, allowing our hero to continue his
+quest. Being very dangerous, Rick must get 
+away from them if he is to avoid being blown up!
+These have the added advantage of being able
+to be slid by Rick across the floor and over 
+ledges.
+
+THE BIG PUNCH
+Rick has his two fists, guaranteed to momentari-
+ly stun any enemy. He can also punch switches
+on walls to trigger lifts, open trap doors and
+switch off lasers.
+
+TRAPS
+To avoid traps be resourceful. The traps are
+devious. Rick may need a punch, ray gun, elec-
+tronic detonator or simply his wits to survive, 
+depending on the nature of the trap. There are
+no instructions as to how each trap is triggered
+or avoided so be careful and think ahead.
+Things are not always as they seem.....
+
+THE RAYGUN
+.....this fires laser bolts!
+There is a limit to the number of shots the 
+gun holds. There will be the occasional contain-
+er the Rick can pick up, enabling him to replen-
+ish his supply. Use the ammunition wisely.
+Remember that the ray gun can be used to acti-
+vate some traps as well as to shoot the enemy.
+
+ANTI GRAVITY BIKE
+Occasionally, Rick will come across an Anti 
+Gravity Bike Park. Rick and then jump on an
+Anti Gravity Bike and float around the corridors, 
+avoiding traps on the way. The Anti Gravity Bike
+is equipped with a forward firing laser cannon
+with which Rick can despatch aliens and trigger 
+traps.
+
+One last thing.... Once he manages to complete
+a level, Rick's supply of laser bolts and electron-
+ic detonators will be automatically replenished 
+and Rick will gain an extra life before starting the
+next level.
+
+
+JOYSTICK CONTROLS
+
+ Without Fire Button Pressed
+
+            climb
+            /jump 
+  jump up    up     jump up
+     left \   |   / right
+            \ | /
+walk left - - + - - walk right
+            / | \ 
+          /   |   \ 
+    crawl   climb   crawl 
+    left    down/   right
+            duck
+
+
+ With Fire Button Pressed
+
+            Shoot
+           Ray Gun   
+              |   
+              | 
+    Punch - - + - - Punch
+            / | \ 
+          /   |   \ 
+  Arm and   Drop    Arm and 
+   slide  Detonator  slide
+            
+
+KEYBOARD CONTROLS
+
+Up or Jump ............................ O
+Down or Crawl ......................... K
+Walk Left ............................. Z
+Walk Right ............................ X
+Fire .................... Space Bar/ENTER
+Pause ON/Off .......................... P
+Quit to Start ......................... E
+
+
+Copyright (c) 1990 Core Design Ltd. Licensed 
+to Kixx. All rights reserved.

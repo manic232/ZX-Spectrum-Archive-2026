@@ -1,0 +1,134 @@
+[INCOMPLETE INSTRUCTIONS]
+                               SCOTT ADAMS
+
+				 presents
+
+			A MARVEL COMICS ADVENTURE
+
+			  
+			  THE QUESTPROBE SERIES
+
+		       #1 THE INCREDIBLE HULK (TM)
+
+                              by SCOTT ADAMS
+
+
+                               Published by
+                         Adventure International
+                     A Division of Scott Adams, Inc.
+
+                        ADVENTURE INTERNATIONAL U.K.
+                119 John Bright Street, Birmingham B1 1BE
+
+               Copyright May, 1984, Adventure International
+                            ALL RIGHTS RESERVED
+
+
+The Hulk, Ant-Man, Doctor Strange, Ultron, Nightmare, and the Chief Examiner
+and the distinctive likenesses thereof are trademarks of the Marvel Comics
+Group and are used with permission. The characters are copyright 1984, Marvel
+Comics Group, a division of Cadence Industries Corporation.
+                            ALL RIGHTS RESERVED
+
+
+
+..........................................................................
+
+Climb	Examine	  Leave	  Move	Quit	Say
+Drop    Go        Light   Pull  Read    Take
+Enter   Help      Look    Push  Save    Hit
+
+One-Letter Commands
+"""""""""""""""""""
+You may use the following single keys to perform a variety of tasks and to
+expedite playing time. Type the letter for  the function you wish to use and
+press RETURN.
+
+C  	      - Turn on/off lowercase (Apple only)
+V             - Turn on/off optional Votrax speech unit (or printer output
+              on Apple & Atari only)
+Z             - Turn on/off Graphics mode
+RETURN        - Review text window
+N,S,E,W,U,D   - Go North, South, East, West, Up or Down
+I             - Display Inventory of items on your person
+O             - Output to Printer (Atari only)
+A             - Atari character set (Atari only
+B             - Script-style character set (Atari only)
+L             - Look
+
+Graphics Mode On/Off
+""""""""""""""""""""
+If you are playing a version of The Hulk (TM) that features graphics, you 
+may cancel the graphics if you so choose. Turning the graphics off speeds up
+play, so you may wish to proceed sans pgraphics while moving through 
+familiar territory.
+
+To cancel the graphics, press Z. Press Z again to restore the pictures to
+the screen.
+
+Reviewing Text-Window (Graphic Versions Only)
+"""""""""""""""""""""""""""""""""""""""""""""
+The text window continually updates as you move through the Adventure. 
+Often, valuable clues appear in the text window, so you'll want to check 
+this area often.
+
+Press RETURN at any time during play to display the text window. Note: This
+feature is not available on Commodore versions.
+
+Saving Your Adventure For Later Play
+""""""""""""""""""""""""""""""""""""
+An adventure will often last far longer than the time available in a single
+sitting. You may save the game you are playing and return later to take up 
+where you left off. To save a game in progress, type SAVE GAME at any time,
+the WHAT SHALL I DO? message appears on your screen. You will be asked to
+specify A, B, C, or D. This will allow you to assign a code letter to your 
+game so that you might restore it at a later time.
+
+To restore a saved game, type LOAD GAME before you begin a new game. The 
+computer will ask: DO YOU WISH TO RESTORE A SAVED GAME? Type YES, and type
+the correct code letter (A, B, C, or D). The Adventure will resume at the
+point which you saved it. Note: Before you attempt to load or save a game,
+consult the loading instructions under your individual computer system as
+listed in this manual.
+
+To end a game in progress, type QUIT. If you intend to continue the game 
+later, be sure to save it before using this command.
+
+Description of Marvel Characters You May Meet
+"""""""""""""""""""""""""""""""""""""""""""""
+HULK - Friend
+Real Name: Robert Bruce Banner
+Occupation: Ex-Physicist
+Indentity: Publicly known
+
+..........................................................................
+
+BBC MODEL B
+
+1. Place cassette in recorder and rewind
+2. Type CHAIN "" and hit RETURN
+3. Press play on tape recorder. Program will load and run automatically.
+If program fails to load, adjust tone and volume levels and try again.
+
+ATARI 32K Tape
+
+1. Remove all cartridges (i.e. BASIC/STAR RAIDERS etc.)
+2. Place cassette in recorder and rewind
+3. Switch off machine
+4. Switch on machine while holding down START key **
+5. Computer will beep once: Press return and program will load and run
+automatically
+** XL users must hold down both START and OPTION keys together.
+
+ATARI 48K
+
+Disk Loading Instructions
+1. Remove all cartridges
+2. Place disk in drive 1
+3. Switch machine off and then on again
+4. After a short while further instructions will appear on the screen, 
+follow these.
+
+
+Scott Adams, Inc. reserves the right to make changes or improvements in
+this product without notice. 

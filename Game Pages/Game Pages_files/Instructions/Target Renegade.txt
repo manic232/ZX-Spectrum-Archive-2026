@@ -1,0 +1,106 @@
+TARGET RENEGADE - THE HIT SQUAD
+
+He's back - meaner, tougher and thirsting for revenge!
+
+LOADING
+
+Type LOAD"" (ENTER)
+
+CONTROLS
+
+The game may be controlled by joystick or keyboard
+
+JOYSTICK - Kempston or Sinclair, port 1 or 2 with the fire button pressed
+           (facing right)
+
+N - JUMP KICK
+NW - JUMP KICK LEFT
+NE - JUMP KICK RIGHT
+W - BACK KICK
+E - PUNCH/GRAB HOLD OF OPPONENT
+S - ATTACK FLOORED OPPONENT
+FIRE - PUNCH/KNEE/USE WEAPON/PICK UP WEAPON
+
+Please note these movements are reversed when you are facing left.
+
+Without the fire button pressed.
+
+N - UP
+NW - UP LEFT
+NE - UPRIGHT
+W - LEFT
+E - RIGHT
+SW - DOWN LEFT
+SE - DOWN RIGHT
+S - DOWN
+
+KEYBOARD - fully redefinable
+
+Player 1      Player 2
+
+LEFT - K      LEFT - 6
+RIGHT - L     RIGHT - 7
+UP - Q        UP - 9
+DOWN - A      DOWN - 8
+FIRE - SPACE  FIRE - 0
+
+Press S to pause the game.
+
+This game has a two player option. If this option is selected it meons you can
+be aided by a companion in your attempts throughout the levels. Each section
+you go through however will be consequently more difficult, but you will have
+twice the manpower with which to defend your self. Learn to co-operate with
+your partner rather than just trying to overcame opponents separately.
+
+
+GAMEPLAY
+
+This game tokes place in the seedy city of Scumville. You have five
+environments to progress through each of which is harder than the lost. In each
+scene you will encounter a different type of villain who will try and subdue
+you in variety of lethal fashions and at the end of each level is a doorway
+leading to the next scene. By a combination of punching, kicking and with Mr.
+Big. Weapons can be obtained by subduing an opponent who is carrying a club or
+simply by picking up an item from the ground
+
+
+Scene 1 - Multi-storey car park.
+
+Here you will meet a gang of motor cyclists who will attempt to either run you
+over or strike you with their weapons. The mounted cyclists must first be
+kicked off their bikes, but this will only render them unconscious for a very
+short time. Beware too, of the members of the gang and their friends who will
+creep up on you unawares in their attempt to smash you.
+
+
+Scene 2 - Seedy Street at night.
+
+You will be confronted by the "ladies of the night" who will try to beat you in
+the most unladylike manner. Additionally, the lady's "boss" will be on hand to
+make sure you are not victorious. Armed with a gun, and a limited number of
+bullets, he will attempt to shoot you and you must take evasive action until
+his ammunition has run out, then you can attack him man to man.
+
+
+Scene 3 - The Park.
+
+Here, a number of undesirable skin-heads will attempt to beat you to pulp. Pure
+punching, kicking etc. is the only way you will be able to progress to the next
+level. Using weapons that can be found an the ground you must fight your way
+through to the final confrontation
+
+
+Scene 4 - The Shopping Mall.
+
+The Beasty Boys are in town and some of their most ardent fans have congregated
+in the shopping mall, aware that your progress towards Mr. Big has almost
+reached its conclusion. Together with their canine friends they will attempt in
+a variety as ways to make sure this is your last level.
+
+
+Scene 5 - The Bar.
+
+Before you are allowed to confront Mr Big on his home ground, you must first
+subdue his vicious bodyguards who will stop at nothing to ensure you do not
+threaten their leader (Warning - when you do manage to overcome these thugs,
+Mr. Big himself is a major force to be reckoned with)!

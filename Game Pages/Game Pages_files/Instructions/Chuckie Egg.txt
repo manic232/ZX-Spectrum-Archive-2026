@@ -1,0 +1,28 @@
+Chuckie Egg
+
+PUBLISHER
+A&F Software Ltd
+
+Year
+1984
+
+ARCADE STYLE GAME
+Who'd have thought a country farmyard could be so stressful? You must collect
+the eggs before the nasties get out and eat up all your corn. Watch out for the
+crazy duck - if she gets out of the cage, you're in real trouble!
+
+CONTROLS
+Select your own keys or joystick.
+
+PLAYERS
+Up to 4 players can compete against one another.
+
+LOADING
+To load the program use:- LOAD""
+
+INSTRUCTIONS
+Full instructions are included within the program.
+
+
+
+Typed by Mike Winn, Jan 2003.

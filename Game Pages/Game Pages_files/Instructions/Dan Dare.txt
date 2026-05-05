@@ -1,0 +1,140 @@
+Dan Dare: Pilot of the Future (c) 1986 Virgin Games Ltd
+-------------------------------------------------------
+
+Dan Dare the original Super Hero was being featured on the Earth Broadcasting
+Corporation "This is Your Life" programme.
+
+The invited guests who spoke glowingly of Dan's achievements, his bravery and
+compassion, included his faithful friend Digby who had shared so many of
+Dan's adventures, Professor Peabody, Fleet Commander Sir Hubert Guest, Sondor
+the Venusian ambassador along with his equivalent from every planet in the
+known universe. It seemed that the whole world had turned out to honour Dan.
+
+Dan Dare, embarrassed but deeply moved by these accolades, stepped forward to
+speak, suddenly the picture on every Vidi-screen in the solar system changed
+into a series of multi-coloured horizontal stripes, slowly clearing to reveal
+none other than the evil green face of the Mekon.
+
+The Mekon proceeded to tell of his dastardly plan to propel a hollowed out
+asteriod the size of a minor planet on a collision course with Earth. If the
+powers that be did not give into his terms Earth would be eliminated!
+
+If they agreed the asteriod would be harmlessly detonated, earth would be
+safe and the Mekon would take over as commander of the universe.
+
+They could not give in to the Mekon's threats but what was the alternative?
+In the studio the assembled gathering turned their gaze to one man, Colonel
+DAN DARE knew what he had to do...!!
+
+(c) 1986 IPC/DAN DARE Ltd
+Part of the Dan Dare Nostalgia Collection licensed Worldwide by Dan Dare Ltd
+
+Taking Digby as co-pilot. Dan heads for Spacefleet HQ and his trusty
+spaceship, the Anastasia. Soon, they are flying towards the Asteroid, leaving
+an anxious Earth behind them.
+
+As they approacg the Asteriod, they see pieces of machinery and small
+building upon its surface. Is it inhabited?
+
+With only two hours to go before the Asteroid reaches the point of no return,
+they arrive at the Asteroid. Dan asks Digby to stay with the ship, in case he
+needs to make a quick getaway.
+
+A few tests reveal there is a supply of oxygen surrounding the Asteroid so
+Digby lowers Dan to the surface, and his solitary quest begins. As he lands
+gently on the surface, he notices a disguarded laser gun lying nearby. It
+works! Dan takes it...just in case.
+
+Suddenly, as if from nowhere, a laser blast shoots past Dan. He looks up...a
+Treen, one of the Mekon's faithful followers, stands poised to shoot again.
+Dan returns the fire, hitting the Treen squarely on the chest. The Treen
+vanishes. Not far away, Dan can see some sort of entry point into the
+Asteroid. Dan heads for this, not knowing what lies before him...and only two
+hours to go...
+
+It is your task to guide Dan around the Asteriod from the moment of his
+arrival, in order to initiate the self-destruct sequence and escape back to
+the Anastasia. There are 5 parts to be collected and inserted into a control
+panel to do this. These Dan will find in various parts of the Asteroid.
+
+You can make Dan run left and right, make him leap gaps, or duck beneath
+laser bolts fired by the Treens. You can also make him fire back, but be
+careful as the laser gun is not too accurate.
+
+The Treens have devastating effects on Dan if they catch him. Some will
+merely sap his strength, some will take him to prison. However, the Asteroid
+has been damaged in its travels. The prison door mechanism has completely
+shut down, so Dan cas easily escape if captured. But most likely, the Treen
+that caotures him will knock him unconscious, and Dan will lose vital
+minutes. And the Treens are not Dan's only problem...the Mekon may be here
+too...and what else?
+
+SPECTRUM LOADING INSTRUCTIONS
+
+The game will load by the usual LOAD ""
+
+Once loaded, the title screen will be displayed. Pressing '1' on this screen
+allows selection of the following control options.
+
+1) Keyboard...Q up A down O left P right and any key from the following to
+   fire...b n m Symbol-Shift Space.
+
+2) Cursor keys (5, 6, 7, 8) and 0 to fire, also compatible with any cursor
+   type joystick.
+
+3) Standard Kempston Joystick.
+
+After selecting 1, 2, or 3, press ENTER to return to the title screen.
+
+Pressing FIRE will start the game.
+
+The key/joystick controls are...
+
+                                UP/JUMP
+                                   |   
+                                   |
+                                   |
+                       LEFT--------+---------RIGHT
+                                   |
+                                   | 
+                                   |
+                               DOWN/DUCK
+
+The game can be paused at any point, by pressing CAPS-SHIFT and SPACE (also
+called BREAK) and the game can be aborted by pressing CAPS-SHIFT and 3 (also
+called TRUE-VIDEO).
+
+Scattered around the Asteroid. Dan will find some useful objects, such as a
+re-charger to keep the laser gun at full power, and energy booster pills to
+build his strength. These are picked up by jumping on them. As Dan finds
+them, he can decide either to take them or leave them until later if he is
+not in need of them at the time.
+
+The five pieces of self-destruct mechanism must be assembled one at a time,
+in the control room. You will recognise this as it will show five empty
+sockets at the start. As Dan returns each piece to this location, he can
+insert it into the correct socket, and it will start to glow. Doing this also
+opens a door leading to the next place of the mechanism.
+
+Eventually, Dan will have collected the five pieces, and must make his way
+back to the surface where Digby will be waiting. Note that this may not be
+the same place as where he first landed.
+
+Good luck...the Earth is depending on you...
+
+DEDICATION
+
+This game is dedicated to the memory of Frank Hampson, the creator of Dan
+Dare who sadly died on 8th July 1985. We hope he would have approved of our
+treatment of his characters.
+
+All rights of the producer and the owner of the work being produced are
+reserved. Unauthorised copying, hiring, lending, public performance and
+broadcasting of this cassette is prohibited. The publisher assumes no
+responsibility for errors, nor liability for damage arising from its use.
+
+WARNING These programs are sold accordinf to VIRGIN GAMES LTD'S terms of
+trade and conditions of sale. Copies of which are available on request
+(p) 1986 VIRGIN GAMES LTD, (c) 1986 VIRGIN GAMES LTD
+
+Complete Instructions typed in by Paul Thompson, March 2003

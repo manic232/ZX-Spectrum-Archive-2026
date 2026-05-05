@@ -1,0 +1,305 @@
+Questprobe 2: Spiderman
+by Adventure International
+
+Instructions
+
+
+So - there is more to come. In fact, the complete
+storyline spreads across the entire series of 12
+comic-strip adventures, all involving different Marvel
+characters, and each story launches you into a
+separate and complete QUESTPROBE computer
+game. So, without further ado, let's get straight to
+this story's adventure.
+
+
+WHAT IS AN ADVENTURE?
+
+If you have never played an adventure game before then you are in for a
+real treat. Adventuring permits the player to move at will within the
+game environment, and to examine objects for clues that will help reach
+the objective of the game.
+For example, an adventure might start thus:
+
+I'M IN A ROOM. VISIBLE OBJECTS ARE A RUBY-ENCRUSTED BOX AND
+A CLOSED DOOR. TELL ME WHAT TO DO.
+
+You may want to start by entering a direction (North, South, up, down
+etc.) to see if you can leave the room. Chances are, though, that you will
+have to find a way to get through the door. So, let's try something
+simple. You type:
+
+OPEN THE DOOR
+
+But the computer answers in no uncertain terms:
+
+SORRY, IT'S LOCKED. WHAT SHALL I DO?
+
+Since the ruby encrusted box appears to be the only other object in the
+room, let's take a closer look. You type:
+
+TAKE THE RUBY-ENCRUSTED BOX
+
+However, the computer responds with:
+
+SORRY, I JUST DON'T UNDERSTAND
+
+Don't despair, Pilgrim. The nature of adventuring is such that the
+computer will generally not understand adjectives, so we must simplify
+our command. Try again, and type:
+
+TAKE THE BOX
+
+This time the computer says:
+
+O.K.
+
+By saying O.K. the computer is telling you that it has understood your
+command and the box has now been taken. To check this you can type:
+
+INVENTORY
+
+The computer now responds with:
+
+I AM CARRYING: A RUBY-ENCRUSTED BOX
+
+Now let's take a look inside:
+
+OPEN THE BOX
+
+O.K.
+
+EXAMINE THE BOX
+
+O.K. THERE IS A KEY AND A RARE POSTAGE STAMP.
+
+TAKE THE KEY
+
+Then:
+
+UNLOCK THE DOOR
+
+Computer responds:
+
+O.K. THE DOOR OPENS
+
+At last we are out and the first obstacle has been successfully overcome.
+You are on your way.
+
+
+SOME USEFUL NEW FEATURES
+
+There are several new features which have been introduced in Spider-
+Man to help you interact more easily with your computer.
+
+
+1) Stringing together of more than one command using 'Then' or a
+   comma (,), eg.
+   GET THE BOX, OPEN THE BOX THEN TAKE THE KEY
+2) The use of full full sentences, eg.
+   GO ALL THE WAY UP.
+   TAKE THE GEM FROM THE AQUARIUM.
+   TALK TO MADAME WEB.
+3) The ability to take or drop more than one object at a time, eg.
+   TAKE EVERYTHING
+   DROP THE GEMS
+   DROP ALL
+
+
+SOME HELPFUL WORDS
+
+Although, the vocabulary accepted by your computer is extensive, you
+may find the words listed below to be of some use as you set about your
+adventure. Remember these are just a few of the many words available.
+CLIMB	MOVE	TALK	TAKE	PUSH	DROP   EXAMINE
+GO	ENTER	READ	LEAVE	QUIT	SAVE   LOOK
+OPEN	TURN	PULL	RAISE	DIG	LISTEN JUMP
+Finally, the computer can understand much more than you may think,
+so experiment.
+
+
+ONE LETTER COMMANDS
+
+You may use the following single keys to perform a variety of tasks and
+to expedite playing time. Type the letter for the function you want then
+hit return.
+C	-turn on/off lower case (Apple only)
+V	-turn on/off optional Vortrax speech unit (or printer output
+	 on Apple or Atari only)
+Z	-turn on/off graphics mode (Graphic disk versions only)
+ENTER	-review text window (Graphic disk versions only)
+N,S,E,W,U,D-go north, south, east, west, up or down
+O	-output to printer (Atari only)
+A	-Atari character set (Atari only)
+B	-script-style character set (Atari only)
+L	-look
+I	-take inventory of items carried
+
+
+DESCRIPTIONS OF MARVEL CHARACTERS
+YOU MAY MEET
+
+Spider-Man - Friend.
+Real name: Peter Parker.
+Occupation: Freelance photographer, adventurer.
+Identity: Secret.
+Base of operations: New York City.
+Origin:	Parker was bitten by a massively irradiated spider and as a result, soon
+found that he had gained the abilities of a spider and hugely increased strength.
+Using his new-found powers, Parker started a short-lived show-business career
+that was soon given up in favour of crime-fighting. Peter Parker now works for
+the Daily Bugle as a freelance photographer, mainly selling photographs of
+Spider-Man in action.
+Height: 5'10"	Weight: 165 lbs.
+Eyes: Brown	Hair: Brown
+Powers:	Spider-Man possesses superhuman strength, reflexes and equilibrium,
+the ability to cling to almost any kind of surface, and a subconscious
+danger sense (Spider-sense). He can lift up to 10 tons, and his reflexes are on
+average 15 times faster than a normal man.
+Weapons: Spider-Man has developed a spider-like web-spinning device and a
+silk-like compound that mimics a spider's natural abilities.
+
+Madame Web - Friend.
+Real name: Cassandra Webb.
+Occupation: Professional medium.
+Identity: Publicly known.
+Base of operations: New York City.
+Origin:	Cassandra Webb has been blind since birth but discovered at an early
+age that she possessed clairvoyant abilities. She became a professional
+medium later in life but was stricken by a disease of the nervous system which
+left her totally dependent upon a large spider-web like life support system
+equipped with robot arms that take the place of her useless limbs.
+Height: 5'6"	Weight: 110 lbs
+Eyes: Pale grey	Hair: Black and silver
+Powers:	Madame Web possesses a number of psychic sensory powers. With
+great concentration she is able to scan peoples' thoughts or project her own
+thoughts into the minds of others. She also has the ability, to a limited extent, to
+predict future events.
+
+Electro - Foe.
+Real name: Maxwell Dillon.
+Occupation: Professional criminal.
+Identity: Publicly known.
+Base of operations: Mobile.
+Origin:	While working for an electrical power company, Dillon was struck by
+lightning which caused a mutagenic change in his nervous system. This
+resulted in him becoming a human electrical capacitor.
+Height: 5'11"	Weight: 165 lbs
+Eyes: Blue	Hair: Red-brown
+Powers:	Electro has the ability to generate electrostatic energy (up to 1,000 volts
+per minute) and is able to store up to 100,000 volts at any time. This can be
+discharged at a controlled rate, with anything from one volt, to the full 100,000
+being released at a time (capable of killing a man at a range of ten feet). He can
+release a bolt of lightning which can travel up to 100 feet at a speed of 1,100 feet
+per second. Electro is also capable of travelling at great speed along electrical
+power lines simply by creating imbalances in his magnetic field, and he can
+manipulate certain electronic devices to a limited extent.
+
+Sandman - Foe.
+Real name: William Baker.
+Occupation: Former professional criminal.
+Identity: Publicly known.
+Base of operations: Mobile.
+Origin:	Baker was on the run from the police after escaping from prison in New
+York. He sheltered in a nuclear testing site where he was exposed to a massive
+dose of radiation. This caused his body to take on the properties of animated
+sand.
+Height: 6'1"	Eyes: Brown	Weight: 450 lbs	Hair: Brown
+Powers:	Sandman can convert all or part of his body to sand, compact his body
+to make it as hard as sandstone or loosen it to make him invulnerable to physical
+attack.
+
+Mysterio - Foe.
+Real name: Quentin Beck.
+Occupation: Former Hollywood special effects designer, now professional
+criminal.
+Identity: Known to the police, secret to the public.
+Base of operations: Mobile.
+Origin:	Beck was an extremely accomplished stunt man and special effects
+designer before he set himself the task of killing Spider-Man and taking his
+place, but as Mysterio, he was defeated and ended up in prison.
+Height: 5'11"	Eyes: Blue	Weight: 175 lbs	Hair: Black
+Powers:	Mysterio is a skilled fighter and athlete, a master hypnotist and
+illusionist. He wears a 'fishbowl' type helmet with an oxygen supply; carries
+portable projectors for the creation of large-scale illusions, and has canisters
+attached to his back which emit a thick gas which not only obscures vision but
+also acts against Spider-Man's spider-sense.
+
+Ringmaster - Foe.
+Real name: Maynard Tiboldt.
+Occupation: Circus ringmaster and professional criminal.
+Identity: Publicly known.
+Base of operations: Mobile.
+Origin:	Born into a circus family in Austria, Tiboldt became the master of his
+own circus after the second world war and came to America. However he soon
+discovered that his small circus could not make profits while in competition with
+huge American circus troupes, so he turned to crime. He now runs an outfit
+called the 'Circus of Crime' which travels across America hypnotising and
+robbing its audiences.
+Height: 6'1"	Eyes: Green	Weight: 190 lbs	Hair: Grey-black
+Powers: Ringmaster has some skill in acrobatics and hand-to-hand combat but
+his main skills lie in hypnosis through the 'nullatron' device, concealed in his top
+hat. The hat is also equipped with projectors which transmit bright lights
+through a spinning disc mounted on the front. These lights can daze and
+disorient potential victims, making them less able to resist his mind-control.
+
+Doctor Octopus - Foe.
+Real name: Otto Octavius.
+Occupation: Ex-atomic research consultant, criminal mastermind.
+Identity: Publicly known.
+Base of operations: New York City.
+Origin: Octavius constructed a chest harness with four tentacle-like arms to
+enable him to manipulate radioactive substances at a safe distance. In a freak
+accident the harness became bonded to his skin and nervous system due to
+exposure to radiation.
+Height: 5'9"	Eyes: Brown	Weight: 245 lbs	Hair: Brown
+Powers: Dr.Octopus can mentally control his four electronically powered
+telescopic limbs to great effect. Each tentacle is five inches in diameter, can be
+extended from a length of six feet up to a maximum of twenty-four feet. The
+arms each end in three pincers capable of gripping with a force of up to 175
+pounds per square inch, and rotating a full 360 degrees in a screwdriver-like
+fashion. Each tentacle can lift 3 tons and travel at speeds of up to 90 feet per
+second. By spinning his arms like a giant fan Dr Octopus can create a wind of up
+to 50 miles per hour. The limbs can be separated from their harness and
+controlled by Octopus at distances up to 900 miles.
+
+Lizard - Foe.
+Real name: Dr.Curtis Conners.
+Occupation: Research biologist.
+Identity: Secret.
+Base of operations: New York City and West Palm Beach, Florida.
+Origin: Conners was an army surgeon until his arm was amputated following a
+wound in the Korean war. He turned to the study of reptiles and became a
+leading authority. He discovered the chemical that allows reptiles to regenerate,
+and when he applied it to himself he found that not only was his arm
+regenerated but his whole body took the form of a reptilian-humanoid.
+Height: 5'11"	Eyes: Blue	Weight: 175 lbs	Hair: Brown
+Powers: The Lizard can lift up to 12 tons, jump over 18 feet, and run at 45 miles
+per hour. His reactions are about twice the speed of a normal man, and his 6'6"
+tail can be moved at a speed of 100 feet per second.
+
+Hydro-Man - Foe.
+Real name: Morrie Bench.
+A man who can transform all or part of his body into water.
+
+Chief Examiner -?
+The mysterious overseer of the QUESTPROBE Series, as yet very little is known
+about him.
+
+
+SAVING YOUR ADVENTURE FOR LATER PLAY
+
+An adventure will often last longer than the time available in a single sitting. You
+may save the game you are playing and return later to take up where you left off.
+To save a game in progress, type SAVE GAME at any time; you can save to tape
+or to disk.
+	To load a saved game simply answer YES to the question WANT TO LOAD
+A PREVIOUSLY SAVED GAME? at the start of the adventure.
+	To end a game in progress, type QUIT. If you intend to continue the game at a
+later date be sure to save the game before using this command.
+
+
+--
+Another Fine Product transcribed by:
+Jim Grimwood, Weardale, England
+--

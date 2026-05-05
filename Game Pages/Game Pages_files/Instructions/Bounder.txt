@@ -1,0 +1,79 @@
+THE SPECTRUM GAMES DATABASE
+
+BOUNDER
+
+PUBLISHER
+Gremlin Graphics
+
+AUTHOR(S)
+In-house
+
+YEAR
+1985
+
+CATALOGUE NUMBER
+None
+
+CATEGORY
+Overhead view 'puzzle' arcade thing.
+
+DESCRIPTION
+
+CONTROLS
+Q - Left  W - Right M - Pause On/Off
+L - Up    P - Down
+BREAK - Return to title page
+
+Joystick: Kempston or Sinclair Interface II auto-selects when
+interface attached
+
+INSTRUCTIONS
+
+ORIGINAL INLAY CARD TEXT
+Move Bounder ( tennis ball ) around screen, bouncing on hexagonal
+slabs only.  If you miss, you fall to your death. Be sure to
+identify mountains and walls as you can't go over them, you must
+go around. Any collision means you lose  a life.
+
+As a rule: IF IT ISN'T HEXAGONAL, THEN AVOID IT!
+
+These aliens destroy you:
+
+     Binoculoids    Stickits  Moscita Birds
+     Chomper Domes  Pterries  Coins     Exocets &c
+
+Useful aliens are:
+
+     Teleports Jump Bonuses
+     Bonus Bugs     Copyright Cans Moving Platforms
+
+Trial and error will help you identify which ones are which.
+
+Slabs with arrows give you just over twice the time in the air.
+This allows you to make longer jumps, and if you feel inclined,
+a few fancy aerobatics (Not recommended for beginners )
+
+Slabs with question marks give you a mystery bonus, some good,
+some fair, but most of 'em bad. Careful planning and the use of
+a map are essential. Use the pause control to help you map the
+screens.
+
+After each level, there is a bonus stage. Bounce on as many
+question marks as possible. Clearing all question marks will earn
+you a bonus. Each jump unused adds to your bonus score.
+
+HINTS/CHEATS
+
+SEQUELS/PREQUELS
+
+SCORES RECEIVED
+
+URLS
+
+GENERAL FACTS
+
+NOTES
+
+
+
+

@@ -1,0 +1,588 @@
+ONLY THE BRAVEST FLY....
+TOMAHAWK(tm)
+TOMAHAWK is a real-time flight simulation based upon the
+U.S. Army AH-64A APACHE  Advanced Attack Helicopter -- the
+meanest, deadliest combat helicopter ever to rule the skies!
+ Its specialised job is to hunt tanks and destroy anything
+that gets in its way.  The Apache was built specifically to
+fight and survive, night and day, in the thick of the
+battlefield. Flying a real helicopter is a demanding task
+requiring training and practice -- particularly ground
+attack.  TOMAHAWK gives you this challenge.  Climb into your
+cockpit and prepare for take-off......
+
+Features of TOMAHAWK:
+* Spectacular 3D real world display
+* Fully aerobatic (within limitations of real helicopter)
+* Ground attack and air-to-air interception
+* Over 7000 ground features
+* Day/night vision systems
+* Cloudy conditions, crosswinds & turbulence
+* Doppler navigation and target tracking system
+* Laser guided missiles, plus rockets and 30mm chain gun
+* Selection of training and combat missions
+* Impressive sound effects
+* Pilot ratings -- Trainee to Ace
+* Twin joystick option
+
+   LOAD ""
+
+Follow LENSLOCK procedure for security code entry.
+
+3D real-world display:
+Features include landing pads, buildings, trees,
+transmission pylons, mountains, enemy tanks, field guns and
+helicopters.  Ground texture is visible when flying below
+500 feet to enhance the sensation of speed.  It is possible,
+with practice, to fly between trees and mountain peaks.
+
+MENU OPTIONS
+MISSION 1 -- FLYING TRAINING -- used for helicopter
+familiarisation & developing ground attack skills.  Enemy
+ground forces will not return fire.
+MISSION 2 -- COMBAT -- a short mission to destroy invading
+ground forces and return to base.
+MISSION 3 -- COMBAT -- Surrounded totally by enemy territory,
+your task is to liberate the entire map from enemy
+occupation.  Each hostile sector becomes allied when enemy
+forces destroyed.
+MISSION 4 -- COMBAT -- A strategic battle for occupation of
+the entire map.  your task is to support allied ground
+forces in their battle along the front line.
+2.  DAY OR NIGHT -- Daytime: blue or overcast sky, green
+ground Nighttime: no horizon, computer-enhanced infra-red
+imaging.  (Pilots' Night Vision System.)
+3.  CLEAR OR CLOUDY -- option for overcast sky with
+selectable cloudbase for instrument flying.
+4.  CLOUDBASE -- selectable from 50 ft to 1000 ft.
+5.  CROSSWINDS & TURBULENCE -- for the experienced pilot! 
+Variable crosswind & turbulence effects.
+6.  SOUND -- selectable ON or OFF.
+
+7.  PILOT RATING -- 	TRAINEE
+	SQUADRON
+		INSTRUCTOR
+	ACE
+The pilot rating is equivalent to difficulty level and
+varies potency of enemy.  With each increase in pilot
+rating, the enemy's accuracy doubles!
+8.  CONTROLS -- keyboard or joystick options.
+
+INSTRUMENT PANEL LAYOUT
+Bar scales, from left:
+Collective level position indicator -- COL
+Engine Torque -- TORQ 0 to 130%
+  (power demanded from engines)
+Turbine & Rotor RPM -- 0 to 120%
+Throttle position indicator -- T
+Fuel
+Engine temperature
+
+WEAPONS:
+AMMO -- 1200 rounds 30mm ammunition, 750 rounds/min, 38
+unguided rockets (19 each side), 8 Hellfire missiles -- laser
+guided, auto-tracking
+Failure status lights:  engines, weapons, nav. computer, TADS
+
+INSTRUMENTS:  (left to right)
+TADS
+Target Acquisition & Designation System -- 
+(small instrument above fuel indicator).  Used to identify
+and track tanks, field guns and helicopters. Red = hostile,
+green = friendly.  Includes range readout in feet when
+target is less than 10,000 feet away.
+
+VDU -- Visual Display Unit
+Speed, in knots (yellow = forwards, cyan = backwards)
+Altitude, feet
+VSI -- Vertical Speed, ft/sec (arrow UP = climb, arrow DOWN = descent)
+TIME -- Time to reach target, in hours and minutes (hashed if
+greater than 4 hrs, zero if less than 1 minute)
+Ground position -- autoranging navigation computer
+Within 0.1 mls: resolution in feet
+Within 4.9 mls: resolution in 0.1 mls
+Over 5 mls: resolution 1 mile
+ARTIFICIAL HORIZON
+Roll symbol & roll angle readout
+Pitch indicator -- nose up/down attitude
+Sideslip indicator -- sideways "drift"
+
+DOPPLER NAVIGATION/COMPASS -- (rightmost instrument)
+Readout of Heading, Bearing & Track.
+Heading: direction in which the helicopter is pointing.
+Track: flight path direction.
+Bearing: heading required to point at objective.
+Note: a helicopter can be pointing in one direction
+(Heading) but moving in a different direction (Track) e.g.
+sideways!  Match the heading to the target bearing to
+intercept target.  The flashing cross indicates relative
+bearing of target.
+Four modes:
+B: Beacon navigation (8 beacons)
+H: Landing Pad (4 pads per sector)
+T: Ground target tracking (8 targets per sector)
+Lightning symbol: enemy helicopter interception
+Flashing symbol warns of approaching enemy helicopter.
+
+CONTROLS
+THROTTLE -- 	key W to open throttle
+	key S to close throttle
+Controls engine/turbine rpm.  Normally set to fully open
+unless practising engine-off landings.  Assisted in flight
+by computerised autothrottle control.
+
+COLLECTIVE LEVER -- key Q increases lift
+	       key A decreases lift
+This is basically a vertical lift control used for take-off
+to the hover, and forward thrust control in straight and
+level flight.
+
+CYCLIC CONTROL
+joystick forward (cursor key 7) tilts nose down
+joystick back (cursor key 6) tilts nose up
+joystick right (cursor key 8) to roll right
+joystick left (cursor key 5) to roll left
+
+RUDDER --	key Z to yaw right
+	key CAPS SHIFT to yaw left
+
+TWIN JOYSTICK OPTION
+Interface 2 (and equivalent joystick interfaces) have an
+optional twin joystick mode for enhanced helicopter control:
+
+right hand joystick = cyclic control & weapon release
+left hand joystick:
+forward = key A = decrease collective
+back = key Q = increase collective
+right = key Z = rudder right
+left = CAPS SHIFT = rudder left
+fire button = key N, select next objective
+
+DOPPLER MODE
+Key C selects between beacon mode (B), landing pad mode (H),
+ground attack mode (T) or air-to-air mode (lightning symbol)
+on DOPPLER/COMPASS instrument.
+key N selects "next objective" in each mode:
+	8 beacons (0 to 7)
+	4 landing pads per sector (0 to 3)
+	8 enemy targets per sector (0 to 7)
+	1 enemy helicopter
+Press CAPS SHIFT and SPACE together to abort mission and return to the menu.
+
+WEAPON SYSTEMS AND TARGET  ATTACK
+When in ground attack or air-to-air mode, the weapons
+systems are activated.  The helicopter must be airborne to
+fire its weapons.  Select between gun, rockets or missiles
+using key P.  The gun & rockets are manual tracking only
+i.e. the target must be in the sights when the weapon is
+launched or for the TADS system to operate.  The missile
+system locks on to any hostile target passing through the
+sights & lock-on is depicted by the dashed square becoming a
+solid outline.  Tracking is automatic if the target remains
+on screen.
+
+GUN -- diagonal sights -- range 2000 ft
+ROCKET -- vert/horiz sights -- range 4000 ft
+MISSILES -- square sights range 3.1 mls
+Fire button = key 0 or fire button on cyclic joystick.
+The time for a weapon to reach a target will depend on how
+far the target is away.  It it possible to locate and
+destroy enemy targets in both map mode and in cloud, but the
+weapon sights will not be displayed. During combat, enemy
+fire is indicated by a flashing border.  The whole display
+will flash if your helicopter is hit and also when ground
+forces destroy each other (Mission 4 only).  Damage to
+helicopter systems is indicated on the failure status panel
+and structural damage is shown by the Doppler helicopter
+symbol turning red.  A third structural hit is fatal!  The
+chances of being hit by the enemy are decreased by swerving
+during the attack.  You have a total of 3 helicopters per
+mission.  Study the mission report for crash evaluation and
+performance report. 
+If an enemy helicopter is approaching, a
+warning symbol will be flashed on the Doppler instrument if
+you are not in air-to-air combat mode.  You are advised to
+select air-to-air combat mode and
+destroy the enemy helicopter before he gets too close!
+
+Scoring Scheme
+Weapon 		Target
+Used	Field gun	 Tank	Helicopter
+Gun	20	-	100
+Rockets	10	20	50
+Missiles	5	10	25
+		Points Scored
+
+It is not possible to destroy a tank with the chain gun. 
+Destruction of allied forces will result in total loss of
+score.  Although it is much easier to hit a target with a
+missile, fewer points will be scored.  The enemy will begin
+to fire back at a range of between 4000 and 5000 feet,
+making it much more dangerous to use guns (range 2000 ft!)
+but the points scored will be higher.
+
+MAP
+Use key M to select map or to return to normal display. 
+Your helicopter is shown by the flashing symbol with a tail.
+Enemy helicopters are shown without a tailplane.  Beacons 0
+to 7 are used for navigation purposes.  by selecting the MAP
+mode when sitting on any allied pad, the helicopter may be
+moved to another allied sector by using the cursor keys 5,
+6, 7 or 8 (or joystick).  This feature eliminates the need
+to lengthy straight and level flight to visit each sector.
+When training (Mission 1), all sectors are allied and any
+landing pad may be used for refuelling, rearming or repairs.
+ All sectors contain enemy tanks and field guns for target
+practice. In combat mission, territory is distinguished by
+blue (Allied) sectors and red (Hostile sectors. A flashing
+blue sector indicates the presence of enemy forces in Allied
+territory.  Likewise, a flashing red sector indicates the
+presence of allied forces in hostile territory.  You will be
+capture by the enemy
+if you touchdown in hostile territory. The destruction of
+all enemy forces in a hostile sector will result in the
+sector becoming allied.  Likewise, if all allied forces in a
+sector are destroyed, the sector becomes hostile. The map is
+designed to wrap around at the edges i.e., when flying off
+the map, the helicopter will reappear at the opposite edge.
+
+COMPLETION OF MISSION
+A mission is completed when all enemy ground forces have
+been destroyed and you have returned safely to a landing
+pad.  After touchdown, close the throttle to bring the
+turbine and rotor rpm to zero.  A complimentary mission
+report will follow.
+
+PILOT'S NOTES
+The controls in a real helicopter are "proportional", i.e.
+their effect is proportional to the displacement from
+centre.  It is not possible to implement this feature on the
+Spectrum joystick since it contains simple on/off
+microswitches.  by making the effect of each control
+proportional to how long the joystick is held, a simple
+approximation to "real" controls has been achieved, i.e.
+momentary operation of the joystick for fine control, and
+hold to build up a rapid rate.  This does however mean that
+the joystick must be operated repeatedly for steady turn or
+to hold a pitch angle. Helicopters are naturally unstable
+and difficult to fly without autostabilisation.  The Apache
+is fitted with Digital Automatic Stabilisation Equipment
+(DASE) making it far easier to fly than most modern
+helicopters.
+
+Take-off procedure:
+1  Ensure that collective indicator at minimum.
+2  Select full throttle -- key W -- hold pressed until
+throttle indicator at maximum.
+3  Wait for turbine rpm and motor rpm to reach 100%.
+4  Increase collective pitch by pressing key Q until
+lift-off occurs.  VSI indicates vertical speed in ft/sec.
+5  Reduce collective (key A) to achieve hover i.e. VSI = 0. 
+The helicopter is now hovering above the helipad.
+6  Turning on the spot is accomplished by applying left or
+right rudder (CAPS SHIFT or key Z).
+
+Transition to forward flight from hover
+1  Increase collective (key Q) to between 80% to 100%
+Torque.  Reduce collective (key A) if overtorque warning
+sounds.
+2  Tilt nose of helicopter downwards (key 7 or joystick
+forward) to between 15 and 30 degrees.
+3  Speed will be seen to increase.  Autostabilisers will
+slowly raise the nose of the helicopter to a level attitude.
+4  Reduce collective (key A) to adjust for VSI = 0 ft/sec
+i.e. not climbing or descending.
+The helicopter will now be cruising at a steady forward
+speed. The Apache is a very agile helicopter.  From a stable
+hover, it can reach 100 kts in approx. 6 seconds by pulling
+100% torque and tilting the nose downwards to approx. 30
+deg.
+
+Straight & Level Flight
+Forward speed is related primarily to the torque setting &
+hence the collective lever setting, assuming the helicopter
+is not autorotating (explained later).  Typical speed/torque
+settings are as follows:
+    Torque	Speed
+    44%     60 kts
+    60%     119 kts
+    75%     147 kts
+    100%    159 kts
+These values will vary slightly with altitude and changes in
+helicopter weight resulting from fuel consumption and weapon
+release.  The Apache is fitted with computer-controlled
+stabilator which enable the helicopter to cruise at any
+speed with the fuselage level.
+
+Turning Flight Providing that the forward speed is greater
+than 60 kts, turning is achieved by simply banking left or
+right.  Some vertical lift will be lost by banking and the
+helicopter will begin to descend.  This may be counteracted
+by increasing the collective setting.  The helicopter will
+begin to slow down in a turn unless the pilot dives to
+sacrifice height to maintain speed. At speeds under 60 kts,
+the helicopter will tend to "drift" in the turn, shown by
+the sideslip ball at the bottom of the artificial horizon. 
+Turns may be assisted by applying the rudder, but this will
+reduce forward speed. Fluctuations in rotor rpm occur during
+a turn because of g force effects.  The autothrottle will
+adjust the turbine rpm accordingly to keep the rotor rpm at
+approximately 100%.
+
+Slowing down and returning to the hover
+1  Gently raise the nose of the helicopter by pulling back
+on the joystick(key 6).  The aircraft will begin to slow
+down and also climb.  Maintain the nose-up attitude by
+repeatedly pulling back on the joystick (gently!).
+2  Reduce the rate of climb by reducing the collective (key
+A) to keep VSI to approximately zero.  As the forward speed
+drops below 60 kts, increase collective (key Q or 2nd
+joystick back) to counteract sink rate.  Allow nose of
+helicopter to return to level flight as speed approaches zero.
+3  Adjust collective as required to achieve a VSI of zero. 
+The helicopter should now be in a stable hover.
+4  The helicopter will also slow down when turning, provided
+that it is not in a dive.  Banking repeatedly left and right
+is another common method of slowing down.
+5  Providing that the forward speed is less than 60 knots,
+the pilot may apply rudder to increase sideslip (sideways
+drift).  The helicopter will slow down dramatically as a
+result of the large drag forces generated.
+
+Landing
+The helicopter may be landed from the hover (vertical
+descent) or at forward speeds of less than 60 kts.
+
+(a)  From hover: Lower the collective lever to maintain a
+steady rate of descent.  Maximum VSI at touchdown = 12 ft/s.
+ Ground cushion effect will be experienced below 30 ft,
+resulting in reduction of descent rate.
+
+(b)  Rolling touchdown: With a forward speed of less than 60
+kts, gently lower the collective lever to begin descent. 
+Maximum VSI at touchdown  = 12 ft/s.  After touchdown, the
+helicopter will slow down and eventually stop.  Steer on the
+ground by using rudder control.
+
+Taxiing on ground
+The helicopter may be taxied on the ground, up to a maximum
+speed of 60 kts, providing that the engine/rotor rpm are at
+100%.  Assuming that the helicopter is stationary, raise the
+collective lever to produce 20% torque.  Pushing forward on
+the main joystick will accelerate the aircraft, and likewise
+pilling back will decelerate and eventually stop.  Steer by 
+using the rudder.
+
+Refuelling/Rearming/Repairs
+By landing or taxiing onto a helipad (not an enemy one!) the
+aircraft may refuel, reload with weapons, and be repaired. 
+Once on the pad, close the throttle to bring turbine & rotor
+rpm to zero.  The helicopter will be serviced and prepared
+for the next take-off immediately. 
+
+Backward & Sideways Flight
+Starting from the hover, the helicopter may be flown
+backwards by raising the collective lever and raising the
+nose to approximately 10 deg.  The peed readout will turn
+blue to denote backward flight.  Keep the nose of the
+helicopter pitched up to sustain speed.  Likewise, the
+helicopter may be flown sideways by rolling left or right
+and raising the collective lever.  The speed readout does
+not show sideways speed and the pilot must watch the
+sideslip indicator on the artificial horizon in order to
+monitor sideways drift.
+
+Torque Turn
+This manoeuvre allows the pilot to perform a 180 deg turn
+with a dramatic climb and simultaneous turn.
+
+With a forward speed of 100 kts or more, pull the nose of
+the aircraft up to approx 70 deg pitch.  Hold this nose-up
+attitude until the speed drops to approx 60 kts.  Release
+joystick & apply rudder until heading has changed by approx
+160 deg.  Release rudder, adjust roll to zero if necessary
+and accelerate with nose down attitude.  During the
+manoeuvre, the helicopter will roll, pitch & yaw
+simultaneously, pulling down on a reciprocal heading.
+
+Aerobatics
+The Apache may be flown safely within the following limits
+	Pitch	±	90	deg
+	Roll	±	100	deg
+Control response may become unpredictable outside these
+limits i.e. loops & rolls are NOT recommended!
+
+Autorotation
+Autorotation is equivalent to the helicopter "gliding"
+through the air and is used when the pilot wishes to descend
+rapidly or after engine failure.
+During autorotation, the rotor blades are being driven by
+airflow through the rotor disc as the helicopter descends. 
+This reduces the power required from the engines and the
+engine RPM is automatically reduced to maintain 100% rotor
+speed and the "split" between turbine rpm and rotor rpm can
+be seen on the bar scales.  Autorotation is best performed
+at approximately 60 kts. and above 500 ft.  Entry in
+autorotation is made by gently lowering the collective
+lever:
+
+(a) Engines active
+As the descent rate builds up, the automatic throttle
+control will be seen to reduce the turbine rpm.  Any
+fluctuations in rotor rpm will be compensated automatically
+by the autothrottle.  As the altitude falls below 200 feet,
+the pilot should begin to pull the collective lever up to
+reduce the rate of descent, accompanied by raising the nose
+of the helicopter if he wishes to slow down.  With practice,
+the pilot co-ordinate increasing the collective and
+adjusting the pitch angle in order to slow down to the hover
+just a few feet above the ground.
+
+(b) Engine-off landings
+In the event of failure of both engines or if the pilot
+deliberately closes the throttle in flight, engine rpm will
+reduce to zero.  The pilot must respond quickly by lowering
+the collective lever before the rotor blades slow down too
+much.  Rotor rpm is controlled during the descent by careful
+adjustment of the collective lever.  Keeping the helicopter
+level and the speed between 50 & 60 kts, raise the
+collective lever just before touchdown to bring the rate of
+descent to below 12 ft/sec.
+
+Warnings -- limits worth noting!
+1.  The maximum permissible speed of the Apache is 197 kts,
+in a dive.  I f the speed should rise above this, the speed
+readout will flash red and the pilot
+will get an audible warning.  If he continues to increase
+his speed, the helicopter will shed a rotor blade at 210
+kts, resulting in catastrophic loss of control!
+
+2.  If the pilot demands too much power from the engines
+(overtorque), the torque readout will be in the red, the
+engine temperature will rise into the red, and an audible
+warning will occur.  If this warning is ignored, the engines
+will overheat and eventually fail.  It is possible to hover
+and fly on one engine but flying time is limited if both
+engines have failed!
+
+HELICOPTER AERODYNAMICS
+The following description is intended only as an
+introduction to the subject.  We recommend the following
+book for further reading: "The Helicopter--history, piloting
+& how it flies" by John Fay, Published by David & Charles
+The rotor blades of a helicopter force air downwards as they
+pass through the air.  This results in an upward lifting
+force.  The pilot may increase this force by "collectively"
+increasing the "angle of attack" of all the rotor blades and
+the helicopter will rise.  In order to move forwards, the
+rotor blades are tilted forwards, thereby using part of the
+lift to accelerate the helicopter. The amount of lift
+generated by the rotor blades increases with helicopter
+speed.  This is called translational lift and results in the
+pilot requiring less collective as his speed increases. 
+however, as the helicopter continues to accelerate, this
+extra lift is offset by the build up of large drag forces
+which in turn must be overcome with higher collective
+settings.  This variation in "operating efficiency" can be
+visualised as a curve, with its peak at approximately 60
+kts.  A helicopter requires much more power for a vertical
+climb than it does for the same rate of climb with forward
+speed.  Its hovering ceiling is much lower than its ceiling
+with forward speed.  Both of these effects are due to 
+translational lift.
+
+TECHNICAL DATA
+
+Performance:
+Maximum speed 197 kts
+Maximum cruise speed 162 kts
+Maximum vertical rate of climb: 1450 ft/min.
+Service ceiling 20,000 ft.
+Endurance: 1 hr 50 min to 2 hr 30 min, according to weapon
+load and mission profile.
+
+Engines: Two General Electric T700-GE-701 turboshaft engines
+Each rated at 1695 shp
+
+Weight: Empty: 11, 015 lb (4996 kg)
+Primary mission gross weight: 14,694 lb (6665 kg)
+Maximum take-off weight: 17,650 lb (8006 kg)
+
+Armament:
+One Hughes M230A1 chain gun 30 mm automatic cannon with up
+to 1200 rounds, rate of fire 750 rnds/min.  Four underwing
+strongpoints to carry up to 16 Rockwell AGM-114A Hellfire
+laser-seeking anti-armour missiles or up to 76 2.75 inch
+rockets
+
+Dimensions:
+Rotor diameter 48 ft, tail rotor diameter 9 ft 2 in
+Overall length 58 ft 3 in
+Overall height 15 ft 3 in
+
+Crew:
+Co-pilot/gunner and pilot in tandem
+
+History:
+First flight (YAH 64) 30th September 1975
+Entered service with US Army in 1984
+
+SUMMARY OF CONTROLS
+RH = right hand, LH = left hand
+5	roll left	(RH joystick left)
+6	pitch UP	(RH joystick back)
+7	pitch DOWN	(RH joystick forward)
+8	roll RIGHT	(RH joystick right)
+CAPS SHIFT
+	LEFT rudder	(LH joystick left)
+Z	RIGHT rudder	(LH joystick right)
+C	change mode of Doppler
+N	Next objective	(LH joystick fire button)
+
+
+INSTRUMENT PANEL NOTATION
+[requires reference diagram]
+
+P	Select weapon systems
+0	FIRE button	(RH joystick fire button)
+Q	increase collective	 (LH joystick back)
+A	decrease collective	(LH joystick forward)
+W	open THROTTLE
+S	close THROTTLE
+M	MAP
+H	Pause
+J	Continue
+CAPS SHIFT and SPACE together to Abort mission & return to menu.
+
+
+
+INSTRUMENT PANEL NOTATION, cont'd
+[requires reference diagram]
+
+
+Acknowledgments
+Digital Integration would like to thank McDonnell Douglas
+Helicopters for  their technical assistance during the
+design of TOMAHAWK.  We would also like to thank the many
+pilots who kindly assisted during the evaluation of this
+product.
+
+All information stated herein is accurate to the best of our
+knowledge.  Although considerable effort has been given to
+achieving a realistic simulation, approximations have been
+made due to the limitations of the computer and certain
+technical data not being available to the public.
+
+© 1985 DIGITAL INTEGRATION LTD
+TOMAHAWK is protected by national and international
+copyright laws.  Its duplication, sale or use are intended
+for the original purchaser only, on the specified computer. 
+It may not be transmitted, copied, lent, hired or sold on
+any optional buy-back basis without the written permission
+of DIGITAL INTEGRATION LTD.
+
+DIGITAL INTEGRATION
+DIGITAL INTEGRATION LTD.,
+WATCHMOOR TRADE CENTRE,
+WATCHMOOR ROAD, CAMBERLEY,
+SURREY, GU15 3AJ. (0276) 684959

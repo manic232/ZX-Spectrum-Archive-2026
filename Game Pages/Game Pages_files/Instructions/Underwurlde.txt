@@ -1,0 +1,183 @@
+THE SPECTRUM GAMES DATABASE
+
+UNDERWURLDE
+
+PUBLISHER
+Ultimate Play The Game (ACG)
+
+AUTHORS
+Chris and Tim Stamper
+
+YEAR OF RELEASE
+December 1984
+
+CATEGORY
+Arcade Adventure
+
+INSTRUCTIONS
+Underwurlde is a fast, action packed arcade adventure platform
+game.  The game is set deep underground in the Underwurlde.
+Creatures attack from every angle and rather than kill you they
+merely bounce you around.  This make make the game sound easy,
+but oh no!  The enemies bounce you off cliffs, off ropes and into
+deep chasms, dropping to your doom.
+
+The object of the game is to guide Sabreman out of the
+Underwurlde and back out of castle.  This is easier said than
+done.  The game features 597 screens and also large monsters
+blocking your way.  These need to be destroyed by a particular
+weapon before you can continue on your journey.
+
+CONTROLS
+
+          UNDERWURLDE
+CONTROLLING YOUR ADVENTURER
+
+KEYBOARD CONTROLS
+
+LEFT Your Adventurer will move left using the Q key.
+
+RIGHT Your Adventurer will move right using the W key.
+
+UP Your Adventurer will move up and jump using the R key.
+
+DOWN Your Adenturer will move down using the E key.
+
+FIRE Your Adventurer will use his weapon when the T key is
+pressed.
+
+DROP FROM ROPE Your Adventurer will drop from the rope when the
+CAPS SHIFT, Z, X, C or V key is pressed.
+
+PICK UP/DROP your Adventurer can pick up or drop a weapon using
+the B, N, M SYMBOL SHIFT and SPACE keys.
+
+PAUSE The whole game can be paused by using the ENTER key.
+
+JOYSTICK CONTROLS
+
+Your Adventurer can be fully controlled by using the KEMPSTON
+INTERFACE, CURSOR CONTROLLED INTERFACE, or the SINCLAIR INTERFACE
+II and joystick, by replacing the LEFT, RIGHT, UP, DOWN and FIRE
+commands.
+
+
+INLAY CARD TEXT
+
+           THE BLACK VOID
+
+Long dark paths have I travelled, through caverns and hidden
+labyrinths, my path grown darker...  Deathly chill as I approach
+the "Well of Evil"...  guarding the UNDERWURLDE.
+
+I approach, fix my rope, and with a firm leap, swing down into
+the depths of THE BLACK VOID.  The air rushes past as I decend
+down into the dark dank hollow, disturbing the dust, a debris of
+long-since fought battles and struggles.
+
+            WINGED HARPIES AND GARGOYLES
+
+Silent fossilised creatures stir, emerging from centuries of
+hibernation, awakened by my echoing gropes and thuds. Their
+dormant evil, hungry from ages past sparks itself into life.
+
+Suddenly the whole cavern erupts into a scurrying slithering
+sadowy grave of beating wings and desperate gnashing jaws.
+
+Winged Harpies soar and swoop down with beakswide and talons
+spread. Hungry monsters and reptiles desperate not to lose their
+first meal in eons, batter and punish me until I can take no
+more, waiting for me to fail.
+
+            SIRENS OF THE UNDERWURLDE
+
+All about are strange sparkling plants "Sirens of the
+Underwurlde", waving their poisnous gnashing deadly tendrils,
+beckoning me on toward them, their stifling odours a prelude to
+their vision of hideous ugliness.  To touch their sticky putrid
+foliage would mean certain death.
+
+            BEWARE
+
+  ALL YOU NEED IS THERE TO TAKE
+LOCATE THE WEAPONS, THEN TO MAKE
+A JOURNEY ON IF YOU WOULD DARE
+TO FIND THE DEVIL IN HIS LAIR
+THE LONG DARK PALACE, SEEK YOU WILL
+THE GEMS YOUR POCKETS WILL NOT FILL
+THO' ENERGY THEY'LL MAKE YOU FAST
+AND GARGOYLES THEN YOU WILL GET PAST
+UP AND DOWN, THE JOURNEY'S SLOW
+SO DOWN IS FIRST THE WAY TO GO.
+
+The old travellers words still singing in my head.
+
+
+            UNDERWURLDE VOLCANOS
+
+In the distance the low rumbling of UNDERWURLDE volcanoes can be
+heard. Huge plumes of poisonous sulphurous devilish gases roll
+along the cavern roofs.  As the enourmous bubbles of inert plasma
+ascend the natural chimney stack causeways, eroded and forged
+from centuries of ancient fires and flames.  My journey has only
+just begun.  I must travel on through this deadly labyrinth of
+the UNDERWURLDE to find the ULTIMATE place of darkness, in which
+lies the way to my escape.
+
+
+            UNDERWURLDE FEATURES
+            --------------------
+
+
+Sabreman            Chest Of Drawers
+Volcanic Bubbles    Caves
+Rocks               Castle
+Poisonous Plants    Guardians
+Eagles              Falling Stalactites
+Bows                Gremlins
+Arrows              Multi-Lives
+Catapult            Superb Graphics
+Daggers             Statues
+Torches             Extra Lives
+Fireballs           Explosions
+Magic Gems          Weapon Select Button
+Volcanic Craters    Realistic Jumps
+Rope Swings         Continuous Pause
+Ledges              Amazing Animation
+Jumps               Keyboard/Joystick Select
+Ducks               Bookshelves
+Pictures            Pick Up/Drop
+Tables
+
+
+SEQUELS/PREQUELS
+Underwurlde is the sequal to Sabrewulf. Once Sabreman reaches the
+cave in Sabrewulf he finds himself in the Underwurlde. There are
+3 exits out of the Underwurlde. One takes the player to
+Knightlore, the other to Pentagram, and the third was supposed
+to take you to Mire Mare, but as most Spec-Chums know, this was
+never released.
+
+
+SCORES/REVIEWS
+Crash, Issue: 12, Page: 17, Percentage: 92%
+
+CHEATS
+Infinite lives      59376,0
+Stay cyan           38043,0
+                    45019,201
+                    59591,0
+
+
+GENERAL FACTS
+Underwurlde, and Knightlore, released at the same time, were the
+first Ultimate games to feature the fast but hard to run,
+hyperload. This was introduced to speed up loading times and
+reduce software piracy.
+
+Underwurlde was featured in a Crash "Map the Game" competition.
+The prize for the best map was a fantastic pickaxe and shovel
+trophey.
+
+
+NOTES

@@ -1,0 +1,81 @@
+                                               Sinclair Spectrum 16K or 48K RAM
+        HORACE GOES SKIING
+        ------------------
+
+        from PSION
+        with MELBOURNE HOUSE
+
+
+HORACE GOES SKIING is a sequel to the very successful HUNGRY HORACE. The HORACE
+series pioneers the idea of inter-active cartoons. Help Horace to slalom down
+the mountain course between the flags and avoiding the trees -- but first he
+must cross the busy roads to get to the ski slopes. A complex, colourful and
+outstanding computer game.
+
+Load and run by typing:
+
+        LOAD "skiing"  [ENTER]
+
+Before Horace can get to the ski-slopes he must fetch his skis from a hut on
+the other side of the busy road. Horace will move in one of four directions
+according to the keys you press:-
+
+UP: "Q" key, DOWN: "Z" key,
+LEFT: "I" key, RIGHT: "P" key
+
+At the beginning of the game Horace has $40 to spend. If he is knocked down it
+will cost him $10 in ambulance fees. After Horace has successfully crossed the
+road, guide him into the door of the hut where he will fetch his skis. The
+charge for ski hire is $10. Horace should not enter the ski hut unless he can
+afford the hire charge. If Horace has spent all his money on ambulance fees,
+then he can accumulate points and money by crossing the road repeatedly. At
+every 1000 points boundary, Horace receives a $10 bonus. Horace should not
+linger on the road longer than necessary since the traffic becomes
+progressively more conjested. After fetching his skis Horace must return across
+the road to the ski slopes.
+
+In the second part of the game Horace must ski down the Hannekon run avoiding
+the trees and slaloming between the red and blue pairs of flags. If Horace
+fails to pass between the flags a warning note is sounded and Horace will lose
+points. Horace can parallel left or right with the "I" and "P" keys as above
+respectively. Horace increases his points by passing between the flags and he
+can also receive a 100 points bonus by passing through the finish barrier. As
+in the highway section, there is a $10 bonus at every 1000 point boundary. If
+Horace should hit a tree then he can continue on the slope provided that his
+skis do not break. If his skis do break then Horace must again cross the road
+for a new set of skis and then return across the road to the ski slopes. If
+Horace successfully completes the course with his skis intact then he must
+cross the road once with his skis to the next slope.
+
+You can pause the game at any time by pressing key 'S' and subsequently
+continue by pressing any key along the bottom row. A game can be aborted and a
+new game started by pressing keys 'G' and 'H' together.
+
+
+Horace Goes Skiing includes sound effects. To amplify the sound from the
+Spectrum, insert the lead between the microphone sockets of the Spectrum and
+tape recorder. Ensure that there is no cassette in your recorder. Try setting
+your recorder to record, or play, and in many cases the sound from the
+Spectrum will be amplified through the loudspeaker of the recorder.
+
+(c) Beam Software 1982
+Made in U.K.
+
+
+        LOADING THE PROGRAM
+
+The procedure for loading a program is described in chapter 20 of the Spectrum
+manual. The steps are summarised below.
+
+1. Connect the ear socket on your Spectrum to the ear socket on your cassette
+   recorder.
+2. Position the tape before the beginning of the program that you wish to load.
+3. Turn the volume control to 3/4 of maximum or to a level which you have found
+   to be reliable on your recorder.
+4. Type LOAD "skiing" and press the ENTER key.
+5. Start the cassette recorder playing.
+
+Psion cassettes for the Sinclair ZX Spectrum are designed to load over a very
+wide range of volume and tone settings on your tape recorder. If you have any
+difficulty, ensure that the head and pinch-roller of your tape recorder are
+quite clean. Cleaning kits for this purpose are widely available.

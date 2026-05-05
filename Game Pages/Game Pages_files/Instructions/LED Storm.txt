@@ -1,0 +1,92 @@
+================
+L.E.D. Storm(TM)
+================
+Document created by rstuart@ukonline.co.uk on 18th Jan 00 for
+World of Spectrum: http://www.void.demon.nl/spectrum.html
+
+Taken from the U.S. Gold compilation 'Winners!'.
+
+The road race game of the year puts you in control of high powered
+futeristic vehicle through 9 fast, furious and hazardous stages designed to
+stop you dead in your tracks. Playing is believing in this CAPCOM classic.
+(c)* 1988, 1989 Capcom Co. Ltd
+
+Loading Instructions
+--------------------
+CBM 64/128 Cassette
+Press SHIFT and RUN/STOP keys simultaneously. Press PLAY on your cassette
+recorder.
+
+CBM 64/128 Disk
+Type LOAD "*",8,1 and press RETURN. Refer to DISK LABELS for running order.
+
+Spectrum 48/128K, +2 Cassette
+Type LOAD"" and press PLAY on your cassette recorder.
+
+Spectrum +3
+Turn on computer, insert disk and press RETURN.
+
+Amstrad CPC Cassette
+Press CTRL and small ENTER keys simultaneously. Press PLAY on your cassette
+recorder.
+
+Amstrad CPC Disk
+Type RUN"DISK and press ENTER. Follow on screen prompts.
+
+Atari ST
+Insert required disk, turn on computer and games will load and run
+automatically.
+
+CBM Amiga
+Insert required disk, turn on computer and game will load and run
+automatically.
+
+Joystick/Keyboard Controls
+--------------------------
+FORWARD - Accelerate; BACKWARD - Decelerate; LEFT - Left; RIGHT - Right;
+FIRE - Jump; FIRE & BACK - Change to motor bike.
+Follow screen prompts.
+
+Collectable Items
+-----------------
+Jerry Cans
+Driving over these objects causes individual letters of the word 'Energy'
+(displayed on the right hand side of the screen) to be illuminated. Once the
+final letter has been lit, you will recieve a large fuel bonus.
+
+Ground Symbols
+These are dropped by passing space ships and if picked up will aid your
+journey. There are three different types:
+E - Energy * B - Barrier * P - Points
+
+Energy pods
+Jump to catch them as they float above you on parachutes.
+
+Hints And Tips
+--------------
+MANIC FROGS - these creatures grab hold of your car, slowing you down
+hampering your jumping ability. Move your joystick rapidly from left to right
+to shake them off.
+
+COMPUTER CAR - This is your main adversary. Avoid where possible because it
+will do its utmost to send you into oblivion. To destroy the computer car
+jump into the air and land on it.
+
+TNT LORRY - Due to the nature of their load, these vehicles are impervious
+to any sort of collision so avoid them at all costs.
+
+MINE DROPPERS - This adversary, as his name suggests, drops high explosive
+mines in your path. Dodge the mines and overtake him or jump on him.
+
+CRATES & OIL SLICKS - These appear from time to time strewn over the road.
+Avoid these as best you can as crashing into them will spin you and slow
+you down, wasting time.
+
+Note:
+SPECTRUM/AMSTRAD
+Keys are user definable.
+
+(c) 1988 Capcom Co. Ltd. All rights reserved.
+This game has been manufactured under liscence from CAPCOM Co. Ltd., Japan
+and L.E.D. Storm(TM) and CAPCOM(TM) or CAPCOM(R) are trademarks of CAPCOM CO.
+LTD.

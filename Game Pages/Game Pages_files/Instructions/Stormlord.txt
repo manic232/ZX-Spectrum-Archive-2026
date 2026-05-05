@@ -1,0 +1,171 @@
+STORMLORD - HEWSON CONSULTANTS LTD
+
+[ Stormlord logo ]
+
+By Raffaele Cecco and Nick Jones
+
+48K ZX Spectrum, ZX Spectrum Plus, ZX Spectrum 128, +2, +3, Amstrad
+CPC 464, CPC 664 and CPC 6128, Commodore 64 and 128
+
+LOADING INSTRUCTIONS
+
+Spectrum Cassette
+
+48K ZX Spectrum, ZX Spectrum Plus or ZX Spectrum 128 with cassette
+player, ZX Spectrum +2
+
+You are advised to disconnect all hardware from the rear edge
+connector with the exception of your joystick interface (if any). When
+using a Sinclair Interface 2 or the ZX Spectrum +2 plug the
+appropriate joystick into port 1. Unless using a ZX Spectrum +2
+connect a cassette player to the computer in the usual manner. ZX
+Spectrum +2 and 128 users should select 48K mode. Rewind the cassette
+if necessary, enter LOAD "" on the computer keyboard and press ENTER
+key. Press the Play key on the cassette player. The game takes a few
+minutes to load.
+
+Amstrad Cassette
+
+Amstrad CPC 464
+Amstrad CPC 664 or Amstrad CPC 6128 with cassette player and suitable
+leads.
+
+Amstrad CPC 664 and CPC 6128 users should connect a cassette player to
+the computer and enter |tape and press the ENTER key. Press the
+cassette in the player, rewind if necessary and press the CTRL and
+ENTER keys. Press the Play on the cassette player and then any key on
+the computer keyboard. The game takes a few minutes to load.
+
+Amstrad Disc
+
+Amstrad CPC 6128 or Amstrad CPC 664
+Amstrad CPC 464 with disc drive
+
+Amstrad CPC 464 users should connect a disc drive to the computer and
+enter |disc and press the ENTER key. Place the disc in the drive and
+enter RUN "disc and press the RETURN or ENTER key. The game takes a
+few seconds to load.
+
+Commodore Cassette
+
+Commodore 64 or Commodore 128 with suitable cassette player.
+
+You are advised to disconnect all hardware from your computer. Connect
+the cassette player to the computer, place the cassette in the player
+and rewind if necessary. Press the SHIFT and RUN/STOP keys on the
+computer keyboard and press the Play key on the cassette player. The
+game takes a few minutes to load.
+
+Commodore Disc
+
+Commodore 64 or Commodore 128 with disc drive.
+
+You are advised to disconnect all hardware from your computer. Connect
+the disc drive to the computer and place the disc in the drive. Enter
+LOAD "", 8, 1 and press the RETURN key. The game takes a few seconds
+to load.
+
+SCENARIO
+
+Free the imprisoned fairy folk before they are obliterated by an evil
+Queen. She stoops to conquer the land Stormlord inhabits, destroying
+the peaceful euphoria with each annihilation.
+
+Stormlord's mission - free the captured and defend the peace and
+tranquility of his realm. Unfortunately, he must repel the wicked
+monarch, but should he fail, the evil Queen and her dark sovereignty
+will reign forever...
+
+PLAYING STORMLORD
+
+The game objective is to release the impounded fairies before time
+runs out. Each level of the game has a small number of fairies that
+must be released before you can progress onto the next level.
+
+Scattered about Stormlord's world are various objects that must be
+used intelligently to free the fairies and help get through certain
+parts of the world. To pick up an object or to swap an already held
+object with one on the ground, simply walk into it. Only time and
+practice will grace you with the knowledge of where to use certain
+objects and in what order they should be used, etc.
+
+You will encounter Venus fly traps, huge worms, flies, dragons and
+many more foes on your travels. All of these must either be destroyed
+or avoided at all costs.
+
+To gain access to far and remote parts of the world, powerful
+spring-boards can be used to cover large distances in a few
+seconds. To use a spring-board, simply step onto the middle of it and
+you will be propelled into the air.
+
+END OF LEVEL SUB-GAME
+
+When all the fairies have been released, Stormlord will take part in a
+mini game in order to try and gain an extra life. The object of this
+sub-game is to capture as many tears as possible within the allocated
+time. An extra life is awarded when more than 10 tears have been
+collected.
+
+Instead of throwing thunder bolts and swords as normal, Stormlord will
+now blow a limited number of kisses, represented by red hearts, at the
+flying fairies. If a heart should touch a fairy, she will fall in
+love, drop a tear for Stormlord to collect, and then fly away. But be
+quick as the tears will dissolve into the ground quite soon after
+landing.
+
+CONTROL KEYS
+
+The first five of the following keys can be redefined to suit personal
+taste (or use joystick instead.)
+
+O     Left
+P     Right
+Q     Jump - The longer it's held down the higher the jump
+A     Crouch
+SPACE Fire - The longer it's held down the further bolts go
+             When held down for the maximum amount of time, a more
+             powerful sword will be thrown instead (use these for
+             larger foes on later levels.)
+
+To pause the game or frame advance it, press CAPS SHIFT and SYMBOL
+SHIFT simultaneously.
+
+To abort the game, press Y, U, I, O and P simultaneously.
+
+INFORMATION PANEL
+
+From left to right the panel sections are as follows:
+
+1) Lives left
+2) Elapsed time represented by a sun that changes to a moon
+3) Score
+4) Currently held object (When blank nothing is held.)
+5) 1st digit = fairies so far found.
+   2nd digit = total amount of fairies to be found on the current
+   level.
+
+CREDITS
+
+Designed and written by Rafaelle Cecco and Nick Jones.
+
+Graphics by Hugh Binns.
+Music by Dave Rogers (Spectrum and Amstrad) and The Maniacs of Noise
+(C64).
+
+Produced by Paul Chamberlain.
+
+(c) Hewson Consultants 1989.
+
+The program and data are copyright and may not be reproduced in part
+or in total by any means without the written permission of Hewson
+Consultants Ltd. All rights reserved. No responsibility is accepted
+for any errors.
+
+Our policy is one of constant improvement. Therefore, we reserve the
+right to modify and product without notice.
+
+Hewson Consultants Ltd                  [ Hewson logo ]
+56B Milton Park
+Milton
+Abingdon
+Oxon

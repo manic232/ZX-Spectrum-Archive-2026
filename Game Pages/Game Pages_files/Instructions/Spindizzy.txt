@@ -1,0 +1,183 @@
+-----------------------------------------------------
+			SPINDIZZY
+-----------------------------------------------------
+	Designed and written by Paul Shirley
+
+   As we all know, working for the corporation is a
+hard life and the mission you are to be sent on this
+time is far from the usual run of the mill stuff. The
+back room boys have discovered a new dimension
+that contains a strange artificial world hanging in
+space.
+
+   Of course, they want it mapped and as Trainee
+Assistant Cartographer for Unknown Worlds, the job
+has fallen to you. Because of the Company's far from
+noble motivations (it's all government sponsored
+work you know), time is money. The more time you
+spend out there the more money the company can
+claim. The Remote Scout Craft you are given is an old
+fashioned Geographic Environmental
+Reconnaissance Land-Mapping Device, known as
+GERALD. The craft is expensive to maintain to your
+time is limited. If you do not move fast the mission
+will be terminated.
+
+   The ships computer holds the initial radar map of
+the surface and your task is to explore each area,
+collecting energy in the form of jewels, for which you
+will be rewarded with extra time.
+
+   Since this world is hung in the infinity of space,
+falling off is not a good idea. Should you lose or
+destroy your craft it will be re-created and beamed
+back to the last location visited, but this will cause an
+enormous power drain resulting in the loss of
+valuable time.
+
+   So there you have it - do a good job and the
+rewards will be great, otherwise... well, you don't
+want to be a Trainee Assistant Cartographer all your
+life - do you?
+
+
+-----------------------------------------------------
+		LOADING INSTRUCTIONS
+-----------------------------------------------------
+
+COMMODORE 64 CASSETTE:-
+Press 'SHIFT' and 'RUN/STOP' keys simultaneously
+and press 'PLAY' on your cassette recorder.
+
+COMMODORE 64 DISC:-
+Type LOAD "*",8,1 and then press 'RETURN'.
+
+SPECTRUM 48K CASSETTE:-
+Type LOAD "" and then press 'ENTER'.
+
+AMSTRAD/SCHNEIDER CASSETTE:-
+CASSETTE BASED COMPUTER (ie CPC-464)
+- Press 'CTRL' and the small 'ENTER' keys
+simultaneously.
+
+DISC BASED COMPUTER WITH ADDITIONAL
+CASSETTE PLAYER (ie CPC-6128)
+- Type | TAPE and press 'RETURN' then press
+'CTRL' and the small 'ENTER' keys simultaneously.
+
+AMSTRAD/SCHNEIDER DISC:-
+CASSETTE BASED COMPUTER WITH ADDITIONAL
+DISC DRIVE (ie CPC-464)
+- Type | DISC and press 'RETURN then type
+RUN"DISC and press 'RETURN'.
+
+DISC BASED COMPUTER (ie CPC-6128)
+- Type RUN"DISC and press 'RETURN'.
+
+All programs will RUN automatically after LOADING is
+complete.
+
+In case of LOADING difficulties please refer to the
+chapter on LOADING and SAVING programs in your
+computer's User Manual.
+
+
+-----------------------------------------------------
+		     INSTRUCTIONS
+-----------------------------------------------------
+
+When   prompted   to   press   EXT   use   the
+EXTEND MODE key or hold CAPS SHIFT and
+press SYMBOL SHIFT.
+
+This program supports the kempston joystick
+interface.
+
+Use the joystick or the direction keys to
+control GERALD. Pressing FIRE gives extra
+speed.
+
+Pressing the FREEZE key will stop your craft
+on any frictional surface.
+
+MAP
+Press "M" to display the map.
+
+SCORE
+Press "S" to display your current score at any
+time during the game.
+
+VIEWPOINT
+Pressing 1,2,3 and 4 will alter your
+viewpoint. The compass in the lower right-
+hand corner of the screen points North at all
+times to help with orientation.
+
+ABORT MISSION
+Press EXTEND MODE or CAPS
+SHIFT/SYMBOL SHIFT to abort your
+mission.
+
+PAUSE
+Press "P" to pause the game. Whilst paused
+the border will flash.   Any other key will
+restart the game.
+
+EYE STRAIN
+Press "C" to alter GERALDS shape.
+
+STATUS DISPLAY
+At the top of the screen, the time left to play,
+the areas left to visit and the number of
+jewels collected are displayed.
+
+Activated switches will appear in the lower
+left-hand corner of the screen.
+
+HINTS
+Due East of the starting screen is a beginners section.
+In this area are simple demonstrations of some
+playing techniques. Time will run slowly in this
+section allowing you time to experiment.
+
+Some screens will give a clue as to a switch to
+activate. This will cause some features to appear or
+disappear. Occasionally two switches may need to be
+used together. The clue appears in the bottom left
+hand corner of the screen.
+
+Lifts may be used but may need to be switched on.
+Ice is slippery and trampolines are bouncy!
+Make a map; it will help you to find short-cuts (there
+are quite a few).
+
+DESIGNED AND WRITTEN BY PAUL SHIRLEY
+
+STORY BY GARG
+
+© ELECTRIC DREAMS SOFTWARE 1986
+
+
+
+In the unlikely event of a faulty product, please return
+it to the original place of purchase.
+
+ARE YOU THE BRIGHT SPARK WE ARE LOOKING
+FOR?
+
+If you have written any software in Assembler/
+Machine Code which is of a high commercial
+standard then please contact Paul Cooper for an
+informal discussion on Southampton (0703) 229694.
+
+Unauthorised copying, hiring, lending, public
+performance and broadcasting of this cassette is
+prohibited. These programs are sold according to
+Electric Dreams Software's terms of trade and
+conditions of sale, copies of which are available on
+request.
+
+		ELECTRIC DREAMS SOFTWARE
+		  31 CARLTON CRESCENT
+		SOUTHAMPTON, HAMPSHIRE
+		       SO1 2EW

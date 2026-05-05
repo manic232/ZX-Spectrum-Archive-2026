@@ -1,0 +1,247 @@
+===============
+Trivial Pursuit
+===============
+Document produced by rstuart@ukonline.co.uk on 17th Oct 1999 for
+World of Spectrum: http://www.void.demon.nl/spectrum.html
+
+---------------
+Trivial Pursuit
+---------------
+"What mighty contests rise from trivial things." Alexander Pope
+
+Here at last - the world's most fashionable Board Game officially comes
+alive on your computer. You have in your hands the result of many months
+co-operation between the originators of Trivial Pursuit and a team of young,
+highly qualified programmers based at Oxford University.
+
+What makes the computer version of Trivial Pursuit so special?
+
+* Sound and music questions - can you name THAT tune? - played backwards!
+* Graphical questions to puzzle and ponder over.
+* Text questions (many linked to graphics and music) to tase and amuse you.
+* The Dice is thrown and all possible moves flash automatically.
+* Over 3,000 questions and "Uniload (TM)" additional question packs available.
+* Play Trivial Pursuit on your own or with your friends!
+
+What it retains is the pure good fun of pursuing trivia that the whole family
+(Mum and Dad included!) enjoy enormously.
+
+* What is Desperate Dan's favourite food?
+* Do frozen peas float?
+* What is Triskaidekaphobia?
+* Which members of the Royal Family can vote?
+* How many golf balls are there on the moon?
+
+Do you know the answers to these questions? If not - who cares? It's all part
+of Trivial Pursuit!
+
+ISBN 1-85160-039-6
+(C) 1983 Horn Abbot International
+Programmed by Oxford Digital Enterprises
+Domark Limited, Tel:01-947 5624
+
+-------------------------------------------------------
+Trivial Pursuit (TM) - The Computer Game - Instructions
+-------------------------------------------------------
+
+Introduction
+------------
+The computer game version of Trivial Pursuit is a faithful reproduction of
+the origional board game But with many enhancements and features to make
+it even more fun to play. The rules for playing Trivial Pursuit are outlined
+below for those who have never played the board game, followed by an
+explanation of the way the computer game works. Clearly, if you are
+familiar with Trivial Pursuit, the latter is the important section for you.
+In any event, the program has been designed to be as friendly as possible
+and is largely self-explanatory. So, follow the loading instructions and
+prepare yourself for Trivial Pursuit coming alive on your computer.
+
+Object of the Game
+------------------
+The winner is the plyer who first returns to the central hub and correctly
+answer a question in a category chosen by the other players. Before
+attempting a game winning question, a player must land in each of the six
+cetegory headquaters and correctly answer a quesion.
+
+How to play Trivial Pursuit
+---------------------------
+The order of play is determined by the order of names typed in before
+starting the game.
+     Players "throw the dart" to choose random numbers (this replaces the
+use of dice) and starting from the central hub they move their token to
+whichever spaces are highlighted on the board. (You will notice that the
+subject categories below are highlighted in accordance with the colour code
+to help you choose the preferred square). When the token lands on a square,
+the player is then asked a question in that particular category.
+     If the player answers correctly their turn continues. If the answer is
+wrong the turn moves to the next person in the list.
+     When the player is in a category headquaters (at the end of the spoke)
+and answers correctly they are given the appropriately coloured scoring
+"wedge" which is entered in the playing "token".
+     If the player lands on the grey "throw again" spaces, then a further
+throw is given.
+     If a token lands on the hub before it's full of wedges, then the player
+may choose any category of question. This is done by moving the joystick
+and highlighting the subject below.
+     Once a player has their token full of six wedges, they make their way
+towards the central hub, and must land exactly on the hub. Once there, the
+other players choose the category of question to be answered, and to win,
+this question must be answered correctly.
+
+Start of Play
+-------------
+The first thing to do is type in each players name, you have 1-6 players. Now
+press ENTER/RETURN without entering a name and the "Highlight" will move to
+"New Game" on the menu. At this point you have a number of options. You can
+edit names (If you've made a mistake or someone joins, leaves or wishes to
+continue the game), set a time allowance for answering questions (between 5
+seconds and 9 minutes), and decide whether or not to include "TP" (the little
+chap who is the Question Master) within the game. Sound effects can be turned
+on and off (this won't affect music questions), you can load automatically a
+new block of questions and importantly, check the performance of each player
+on the source screen. These can be chosen by moving the highlight bar up or
+down and then pressing the fire button.
+     Once you have decided on your options simply highlight the "New Game"
+choice on the menu and press fire to end the game.
+     You will find yourself on the board screen with TP (if he is awake)
+waiting for you. From here onwards movement through the game is controlled
+by the joystick or keys. To move on in the game you have only to press the
+button. At several points in the game you are asked to make choices. Just
+move the joystick or press the keys in the required direction and press
+fire to continue.
+     REMEMBER: If nothing appears to be happening just press fire to continue
+to the next stage.
+
+Questions
+---------
+Whether "TP" asks you a text, music or graphics question there is no need to
+type in the answer. Simply say your answer out loud and press the fire button
+to see if you were correct. Just as in the board game, it is up to all the
+players to decide whether the answer is near enough.
+
+Main Menu Screen
+----------------
+ENTER NAMES: This choice calls up a sub-menu (see below).
+CONTINUE GAME: If you have stopped the game for any reason this choice allows
+     you to carry on from where you left off.
+START GAME: Starts the game from the beginning (a sub-menu gives you the
+     option to cancel this if you change your mind).
+TIMER: This sets how long you have to answer a question. It may be from 5
+     seconds to 9 minutes. If set to off you may take as long as you like!
+TP IS AWAKE/ASLEEP: Would you like to give TP a chance to catch up on his
+     beauty sleep? Use this choice to send him to bed!!
+SOUND FX ON/OFF: For playing late at night (this does not affect the music
+     questions).
+LOAD QUESTIONS: Use this when you have exhausted the questions in memory
+     to give you more puzzles. You will be asked to start the tape.
+SCORE CHART: Find out how you and your friends are doing!
+
+Player Menu Screen
+------------------
+NEW PLAYER: Did somebody arrive late and wants to join in? You can add them
+     to the game easily using this option.
+PLAYER QUIT: If Dad has to be at work early and has to leave the game you can
+     cut him out with this choice.
+PLAYER PAUSE: Use this if Mum wants to make a cup of tea and your friend
+     can't take the excitement and wants to rest for a short while!
+PLAYER RETURN: Bring the paused players back into the game.
+EXIT: Leaves the menu.
+
+The Board
+---------
+REPRESENTATION OF PLAYING TOKEN: On each players turn this will show which
+     of the scoring wedges they have already won.
+THE PLAYING TOKEN: This shows the position of the player on the board. Only
+     the current players token is shown.
+THE HUB: The aim of all the players!
+STATUS BOARD: You can see how everyone is getting on from the board. The
+     colours correspond to the colours on the name list.
+T.P.: The star of the show!!
+CATEGORY HEADQUATERS: Get a question right when your token is on one of these
+     and you get the appropriately coloured wedge.
+
+The Score Chart
+---------------
+GRAPHICAL REPRESENTATION OF ANSWERS: The green area shows the number of
+     correct answers. The red area shows those answered incorrectly.
+SCORE: This shows how many questions you have right compared to how many you
+     have been asked.
+
+The Question Screen
+-------------------
+THE QUESTION WINDOW: Gives you questions and useful messages (except CBM).
+GRAPHICAL QUESTIONS SCREEN
+HOW LONG HAVE YOU BEEN PLAYING? (Shown on clock)
+TIMING CANDLE: Shows how long you have left to answer the question. (Set by
+     the option on the menu screen).
+
+Loading Instructions (Spectrum cassette tape version)
+-----------------------------------------------------
+Inside your pack you will find two tapes. One marked "Genus (TM) Edition"
+and the other marked "Question Pack" (this contains the questions only).
+     Insert the rewound "Genus (TM) Edition" tape into your cassette
+recorder, and follow the instructions below:
+
+Spectrum 48K: Type LOAD "" press ENTER key, then start tape. IMPORTANT: To
+     make the music questions clearer take out the cassette once it has
+     loaded, connect the "EAR" lead to the "RECORD" socket on your tape
+     player. Press "RECORD + PLAY" and turn up the volume. (Note: this may
+     not work with every tape recorder)
+Spectrum 128K: Choose 48K option from main menu then follow 48K instructions.
+
+When the program has finished loading, the game will contain the first block
+of questions.
+     The Question Tapes contain a number of question blocks, which you load
+as reqired once each new block has exhausted its question data. Follow the
+instructions on screen as they appear. These tapes contain over 3,000
+questions in all, but further question tapes will be available.
+
+For those without a joystick
+----------------------------
+Spectrum 48/128K - Q=Up, A=Down, O=Left, P=Right, Space=Fire
+
+Question Hints
+--------------
+When the question contained in the main program are used up you can use
+new questions from the "Uniload (TM) Questions Pack" on tape/disk. Follow
+the screen instructions for loading a new block of questions.
+     As you play, note the tape counter number at the start of each block,
+for future use.
+     If "Loading Error" appears on your screen rewind the "Uniload (TM)
+Question Pack" to the start of the block and press "Play".
+
+Special Feature
+---------------
+One feature of the computer game that does not appear in the board game is
+the Score Chart. Before throwing a dart you can return to the option menu
+and by choosing "Score Chart" you can find out how you are doing. Are you
+answering more questions than your friend? Is he or she better at sport
+questions than you? All this is worked out and shown to you by the computer.
+     When it gets to the point that one of the players has arrived at the
+center hub you can, by pressing the option key, see their analysis chart
+and pick their worst subject for them to answer!
+     But don't forget that they can do the same for you!
+
+One Player Mode
+---------------
+If you enter only one name into the list at the beginning you are
+automatically in the one player mode. You must answer the questions as
+quickly as you can (no cheating now, TP wil be watching you!) and try to
+complete the game. The computer will time you and keep a record of your
+answers. At the end you will be given a score based on your performance.
+     We have left it up to you whether or not you are entirely truthful while
+playing the game but remember, cheats never prosper!!!!
+
+Future Trivial Pursuit editions
+-------------------------------
+We hope this game will keep you amused for many hours.
+
+Coming soon: YOUNG PLAYERS (TM) EDITION
+             BABY BOOMER (TM) EDITION
+             GENUS II (TM) EDITION
+
+TRIVIAL PURSUIT is a Trade Mark owned and liscenced by Horn Abbot
+International Ltd.
+Published by Domark Limited, 204 Worple Road, London SW20 8PN.
+The software program remains the copyright of Domark Ltd.
+Trivial Pursuit was programmed by Oxford Digital Enterprises.

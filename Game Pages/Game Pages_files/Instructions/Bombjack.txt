@@ -1,0 +1,67 @@
+THE SPECTRUM GAME DATABASE
+
+BOMBJACK
+
+PUBLISHER
+Elite Systems
+
+AUTHOR
+
+YEAR
+1986
+
+CATEGORY
+Arcade Conversion
+
+DESCRIPTION
+Bomb Jack is a sied view single screen platform game.
+
+CONTROLS
+Keyboard, Kempston, Interface 2
+
+ KEYS : Up         - Q
+        Down       - A
+        Left       - N
+        Right      - M
+        Jump       - X
+        Turbo Jump - Up + Jump
+
+INSTRUCTIONS
+Collect the bombs and defeat the various enemies around the
+screen.
+
+HINTS/CHEATS
+Collect 23 fizzling bombs for a massive 50,000 point bonus.  
+Every so often a disk bearing the letter P arrives heralded by
+a siren sound; collecting this immobilises the enemies and turns
+them into smiling faces which can be collected for more points.
+An E disk adds an extra life, while a B adds points and increases
+the value of subsequent bombs collected.
+
+SCORES RECEIVED
+Crash: "A great arcade conversion, don't miss it!" RATING : 92%
+(CRASH #27, April 1986)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

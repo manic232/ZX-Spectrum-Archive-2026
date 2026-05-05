@@ -1,0 +1,405 @@
+                     The Dragontorc of Avalon
+                     for the ZX Spectrum 48K
+                           INTRODUCTION
+
+Welcome to the World of Adventure Movies. If you are familiar
+with the Spectrum then load the game, pass the security system
+and start playing. You will probably soon master the keyboard/
+joystick controls but if you have difficulty please refer to the
+relevant section of the Detailed Instructions.
+
+DRAGONTORC is inhabited by a cascade of people and creatures
+for you to meet and match - Werewolves in Wolfwood, Wraiths
+in the Cursed Crypt, Dwarfs on Dreamdown and Bats in
+Hellsmouth Caverns. It will probably take you several hours of
+play before you meet them all. Good luck!
+
+Hints to Get You Started
+
+You start off in Wispwood with the spells MOVE, SERVANT and
+BANE at your command. To select a spell use Up or Down to wind
+the scroll. When the arrow indicates the spell you need, press Fire
+once to select it and a second time to activate it.
+
+Notice that it is Maroc's astral projection which moves away - his
+body is left behind. We suggest that you take the Seal of Merlyn
+because you'll need it later on. The Wispwood is inhabited by
+Wisps and Elves. You can sample the arcade style features of
+Dragontorc by selecting BANE and attacking the Wisps but be
+careful of your energy level.
+
+Explore the wood to collect the MISSILE spell. Find the stone and
+use the Seal to get under it and into the Lost Vaults of Locris.
+Attack the Skeletons in the vaults with MISSILE - collecting
+further spells as you go. When you have completed Wispwood
+and the Vaults you'll get a message from Merlyn telling you
+where to go next.
+
+Hints for Experienced Users
+
+ 1) Dragontorc is not just a sequel to Avalon - it's a whole new
+    world of experience. There are peoples and creatures who
+    have lives of their own. How to deal with them is crucial to
+    your progress.
+ 2) You can now select the MOVE spell very quickly by hitting
+    Left or Right whilst in the "scroll" mode.
+ 3) Other creatures are often unfriendly and may try to kill you.
+    You will have to overpower them. Some, like the Elves, are
+    fairly harmless. If you trade with them you will win their con-
+    fidence and they will become more useful to you.
+ 4) The characters of the other creatures will change as you
+    progress depending on how you treat them: You may be able
+    to win over the most dastardly enemies if you try hard
+    enough - but you may get killed off several times in the pro-
+    cess!
+ 5) Each stone circle is a separate explorable area. Some circles
+    have underground levels which are accessible through trap-
+    doors etc.
+ 6) If you are killed you return to the beginning of your current
+    area. The objects that you were carrying remain at the place
+    where you were killed although they may be picked up by
+    one of the creatures in the game.
+ 7) Leylines connect each area - mark them on the map as you
+    discover them.
+ 8) Make a note of Merlyn's messages as they appear because
+    they usually only appear once.
+ 9) Your score increases as you discover objects or spells, when
+    you defeat enemies or unlock doors etc.
+10) Your current rank is displayed posthumously when you are
+    killed.
+
+                       DETAILED INSTRUCTIONS
+
+This game has a number of features you will not have
+previously encountered and though you will quickly
+become accustomed to them, these detailed instructions
+are necessarily lengthy. If you get stuck you are advised
+to read the relevant instructions carefully.
+
+Basic Control
+
+The controls for Dragontorc are very straightforward -
+Up, Down, Left, Right and Fire. You are asked to select
+your keyboard/joystick preference before the game
+begins.
+
+No other commands are necessary during play although
+the P and O keys freeze and unfreeze the game respec-
+tively and the Save and Load keys (S and J) can be used
+to SAVE the current game and LOAD it at a later date.
+
+Loading a New Game
+
+If you have a joystick then plug it into the edge connector
+at the read of you Spectrum. Connect your cassette
+player to the Spectrum in the usual way. Place the cas-
+sette in the player, rewind if necessary and press the Play
+button. Type LOAD "" on the Spectrum keyboard and
+press the Enter key. Wait a few minutes and choose the
+joystick or keyboard option followed by Enter.
+
+Winding the Scroll
+
+When Dragontorc has loaded and the initial screens are
+completed you will be presented with a view of a forest
+clearing with a pathway on the right hand side. Maroc
+sits cross-legged in the centre and a large scroll is dis-
+played at the bottom of the screen on which the words
+MOVE, SERVANT and BANE are written (these are
+spells). A large arrow points to the spell which will be
+selected when the 'fire' button is pressed. Moving the
+joystick up or down scrolls the lists of spells slowly at first,
+then quickly. To scroll very slowly, just repeatedly touch
+the joystick up and down and the scroll will move one pos-
+ition at a time. When you have many spells it is best to
+fast scroll until you see the spell you need and then stop.
+Adjust up or down by the one touch method until the
+arrow points to the right place.
+
+Selecting the MOVE spell
+
+To move, first align the MOVE spell with the arrow. Press
+the FIRE button once and the scroll changes to display
+MOVE in the top left of the scroll - this is the spell you
+have selected. Three M's to the right of MOVE tell you
+you have three or more uses of the spell left. On the far
+right is a staff - this is the carrier of the MOVE spell and
+you will notice that Maroc is carrying a staff in his right
+hand. Underneath is the phrase 'project thy soul' which
+is a clue to the effect of the MOVE spell.
+
+Press the FIRE button again and the staff on the scroll will
+flash. This tells you that the MOVE spell is now activated.
+Pressing the FIRE button again de-activates the spell and
+the scroll returns.
+
+There is a second, emergency method for selecting
+MOVE. Deselect your current spell by pressing Fire and
+hit Left or Right. Move is selected immediately.
+
+Try selecting and deselecting MOVE by either method a
+few times. When you have finished make sure the staff
+on the scroll is flashing.
+
+Energy Level
+
+Across the bottom of the scroll is a flame. This is a dis-
+play of the energy you have left. The longer the flame the
+more your energy.
+
+Moving around
+
+You can now use the keyboard or joystick (depending on
+which was originally selected) to move the wizard
+around. Notice the wizard cannot pass through the trees
+but he can move down the gravel paths (represented by
+dots on the "ground") to an adjacent location.
+
+Explore the Wispwood Forest. There are magic items for
+you to collect by moving Maroc so that he passes over
+them. You will encounter Wisps and Elves as you move
+around.
+
+Below the Forest are the Lost Vaults of Locris. Each loca-
+tion in the Lost Vaults is separated by a door. To open the
+door take Maroc (the wizard) up to the door knob and the
+door will open. Now take Maroc through the door. This
+operation will take a little practice but you will soon mas-
+ter it.
+
+Collecting Spells
+
+If Maroc collects a magic item the demon at the top of the
+screen flashes. When this occurs, turn off the MOVE spell
+by pressing the Fire button. You will usually see that a
+new spell has been added to your Spell List. Sometimes
+you will collect a duplicate of a spell which you already
+have in which case your Spell List will be unchanged.
+However you will now be able to use the spell more
+times. For example, if you collect more than one copy of
+the MISSILE spell you will be able to fire it more times
+before it becomes exhausted.
+
+The SERVANT Spell
+
+The SERVANT spell gives you control of a sprite who can
+pick objects up, give them to you or to other characters
+by way of trade, take things from your sack, throw
+objects, hit things with objects, etc. He is moved with the
+control keys or joystick. He cannot release an object
+unless he is switched off by moving him off the bottom of
+the screen, or unless Maroc or someone else takes the
+object. The name of the object appears on the scroll.
+
+The sack on Maroc's back can hold a small number of
+objects. When you have collected a few objects using the
+SERVANT and placed them in the sack, find a quiet place
+and experiment taking things from the sack and replac-
+ing them. When taking an object from the sack steer it
+away from Maroc or he will take it back again. You will be
+able to use the SERVANT to look through the objects in
+the sack by moving the sprite to and from the sack.
+
+Exploring Dragontorc
+
+As you move about you will encounter various people
+and creatures, some friendly who may help you, some
+unfriendly and dangerous. If they attack you they will
+drain your energy. You can deal with them by attacking
+with a spell or object, running away and escaping
+through a leyline, frightening them, or making friends
+with them. They may have objects to give you or they
+may steal objects from the place you are in. You may be
+able to trade with them.
+
+Dragontorc is very complex. There are over 250 rooms,
+forest clearings, caves, crypts and stone circles to
+explore, connected by magical leylines. Just like an ordi-
+nary adventure you must do the correct sequence of
+things to progress in the game. Here are some clues to
+help you:
+
+* Almost all significant objects are coloured differently
+  from the location in which they are found.
+
+* Some exits are locked and you must find the key.
+
+* Some exits are invisible until you solve a problem.
+
+* There are some spells and objects to help you main-
+  tain your energy as you penetrate further.
+
+* Merlyn will give you instructions whenever he can.
+  This will usually be when you find an artifact with
+  energy - enabling him to transmit his thoughts to you.
+  His instructions will appear on the scroll and you will
+  need to write them down as they may only appear
+  once.
+
+Making a Map
+
+If you wish to pause to make a map or for any other
+reason press the 'P' key to freeze the game and the 'O'
+key to unfreeze it.
+
+Each stone circle on the map is the location of a separate
+explorable area. A separate map can be made for each
+area. Some areas have underground levels that overlap
+the ground level requiring two maps.
+
+Leylines
+
+As you discover leylines mark them in on the map of
+Britain.
+
+Spell Display
+
+At the top of the spell display is the spell name which is
+a clue to the spell's use, and a number of magic tokens.
+This part of the scroll is replaced by the name of the part
+of the underground citadel you have reached whenever
+you pass into a new room.
+
+Magic Tokens
+
+The number of tokens indicates how many more times
+the spell may be used. When there are three tokens, the
+spell may be used three or more times more. When only
+two tokens appears it warns that you can only use the
+spell twice more. On the spell's last use, only one token
+is displayed.
+
+Energy Display
+
+On the lower half of the spell display is a dragon's tongue
+of flame. This is a visual display of your remaining
+energy. When the flame grows short and disappears you
+will die and be returned to the beginning of your current
+area. An audible bleep can be heard every time you lose
+or gain energy. The higher the beep, the more energy
+you have.
+
+Background Spells e.g. BANE
+
+Background spells when activated last until you switch
+them off. You are allowed to select another spell while
+these spells are running, for instance, you can MOVE
+whilst UNSEEN. When activated, the spell list is dis-
+played. The background spell name, shown on the small
+scroll on the bottom right of the screen, reminds you that
+you have a background spell running. Energy used by the
+spell will be deducted every few seconds. To turn
+background spells off, reselect the spell and press Fire.
+
+Foreground Spells e.g. ENERGISE
+
+These have an instant effect when activated after which
+the spell scroll is redisplayed.
+
+Cursor Spells e.g. SERVANT
+
+These display some form of object whilst active and the
+object can be directed with the keyboard controls or
+joystick. To switch the spell off, press Fire or move the
+object off the bottom of the screen.
+
+Missile Spells e.g. MISSILE
+
+These are rather like cursor spells. The spell energy is
+fired from Maroc to the cursor by pressing Fire and
+switches off automatically after firing. The spell may also
+be switched off without firing by moving the cursor off
+the bottom of the screen.
+
+Scoring
+
+A digital score is updated every time you acquire spells,
+useful objects, defeat enemies, unlock doors, etc. Each
+time your energy is depleted and you return to the first
+location your current rank is displayed. In this game
+Maroc starts as a Magician. There are eight ranks he can
+master, each divided into eight stages:
+
+STAGES                         RANKS
+
+Apprentice                     Magician
+Minor                          Sage
+Lesser                         Lore Master
+Learned                        Warlock
+Master                         Wizard
+Chief                          Sorceror
+High                           Guardian of Lore
+Supreme                        Lore Lord
+
+You start the game as an Apprentice Magician. It is not
+possible to go down in rank in this game.
+
+Saving and Loading an Old Game
+
+The game may be saved in its current state at any time by
+pressing 'P' to freeze the game, placing a blank cassette
+in your recorder and pressing the Save key. On comple-
+tion, or if an error is detected or Break is pressed, press
+'O' to restart the game.
+
+An old game can be reloaded by first LOADing the origi-
+nal "Dragontorc" cassette and then pressing the Load
+key and LOADing the cassette on which you saved your
+previous game. If an error is detected or Break is pressed
+then the game resets for you to try to LOAD your saved
+game again.
+
+© Copyright. Hewson Consultants Ltd. 1985
+The program and data on this cassette are copyright
+and many not be reproduced in part or in whole by any
+means without the written permission of Hewson Con-
+sultants Ltd. All right reserved. No responsibility is
+accepted for any errors.
+
+Our policy is one of constant improvement. Therefore
+we reserve the right to modify any product without
+notice.
+
+Other product for the ZX Spectrum from Hewson
+Consultants:
+
+CASSETTES:
+
+Technician Ted                  48K     £5.95
+Avalon                          48K     £7.95
+3D Space Wars               16K/48K     £5.95
+3D Seiddab Attack           16K/48K     £5.95
+3D Lunattack                    48K     £7.95
+DiLithium Lift              16K/48K     £5.95
+Nightflite II               16K/48K     £7.95
+Heathrow International
+  Air Traffic Control           48K     £7.95
+Countries of the World      16K/48K     £5.95
+Fantasia Diamond                48K     £7.95
+Quest Adventure                 48K     £5.95
+Backgammon                  16K/48K     £5.95
+Knight Driver                   48K     £5.95
+
+BOOKS:
+
+20 Best Programs for the ZX Spectrum
+    by Andrew Hewson                    £5.95
+40 Best Machine Code Routines
+for the ZX Spectrum
+    by Andrew Hewson and John Hardman   £5.95
+Machine Code Extensions
+for Spectrum Basic
+    by Rob Banks                        £5.95
+
+Hewson Consultants Ltd.
+Hewson House
+56B Milton Trading Estate
+Milton
+ABINGDON
+Oxon, OX14 4RX
+-----------------------------------------------------------------------------------------
+[Original inlay card re-typed in 2004 AD
+by Alessandro Grussu - http://www.ag-online.da.ru
+Please note: Typographical errors are the same as
+in the original!]
+Re-edited (Hewson version) with correct Spectrum instructions by Frode Tennebø, 20070408.

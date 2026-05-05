@@ -1,0 +1,34 @@
+The Boggit (c) 1986 CRL Group PLC
+---------------------------------
+
+In which Bimbo Faggins sets the ball rolling for the events
+chronicled in "Bored of the Rings".
+
+Bimbo's quest is split into 3 parts. Each part is loaded
+separately (instructions on the cassette side label) and
+data can be saved from one part and loaded into the next to
+progress through the game. You can move backwards as well
+as forwards through the parts.
+
+Commands can be typed in English (eg. OPEN THE ROUND GREEN
+DOOR) but may be shortened to a simple verb+noun format
+(eg. OPEN DOOR). To chat to characters enter the command,
+TALK TO (name of character), followed by HELLO or whatever
+profound utterance you feel would be appropriate.
+
+Other somewhat useful commands are - RAM SAVE & RAM LOAD -
+saves a game position to buffer in memory and reloads the
+previous saved position. GRAPHICS ON & GRAPHICS OFF -
+switch the pictures on and off (Amazing!). TEXT -
+redescribes a location without redrawing the picture. QUIT
+ends the game.
+
+The Boggit was produced by DELTA 4 Software for CRL GROUP
+and if anyone disagrees, we'll send the Jester and his
+Knife collection round to see them! Our grateful thanks to
+Gilsoft for the use of the Quill and the Illustrator
+without who we would have been in deep you know what.
+
+-----------------------------------------------------------
+Complete Instructions typed in by Paul Thompson, April 2003
+

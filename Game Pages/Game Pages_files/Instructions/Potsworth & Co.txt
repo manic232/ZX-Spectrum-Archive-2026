@@ -1,0 +1,393 @@
+﻿Potsworth & Co
+==============
+
+You might not know it, but whilst people everywhere snuggle down and their 
+sleep filled eyes are closing, their dreams, thoughts and fantasies, whether 
+good or bad, become reality in the Dream Zone. Potsworth and his human friends; 
+Carter Keiko, Rosie and Nick are no exception, and each night, once asleep, 
+they join forces in the Dream Zone to experience fantastic adventures together.
+
+The snoozing ruler of the Dream Zone, the Grand Dozer, has a big problem, for 
+try as he might he just cannot sleep, and he's putting the Dream Zone in 
+terrible jeopardy, for it will surely disappear his slumber cannot continue. 
+The Dozer's arch-enemy, the Nightmare Prince possesses the only solution, "The 
+Potion of Slumber". The question is, just how to get this potion to the Grand 
+Dozer before it's too late. ... Enter Potsworth & Co., for it's time for action 
+on a mission that could bring sweet dreams or a nightmarish end. So wake up and 
+help our famous TV cartoon canine Potsworth and his four friends in this superb 
+computer game. Go on - make it a 'dog's tail' with a happy ending. 
+
+Features
+- 5 brain-tingling, 8 way scrolling levels. 
+- Massive playing areas. 
+- Plagues of fiendish enemies to defeat. 
+- Fast moving puzzles to test your wits and your fingers.
+- 5 different characters to lead through their very own hazardous dream. 
+- Animated interludes to explain your quests (16-Bit only) 
+- Funky background music, in-game tunes.
+
+
+LEVEL ONE - ROSIE
+-----------------
+
+Rosie, our girl with an attitude, has been thrown into the cave zone. The giant 
+warehouse where all the dream props are stored. In order to escape from this 
+nightmare, Rosie must first free the Stone Giant who has been frozen in ice 
+along with the key to the exit, by the evil Nightmare Prince.
+
+To free the Giant, Rosie must search through the cave negotiating any obstacles 
+that bar her way, along her travels she must collect 5 parts of a ghetto blaster, 
+these are:
+
+The left speaker, the right speaker, the main tape deck, two batteries.
+
+Most important of all Rosie must collect the ancient moon rock; with its 
+properties of drowsiness it should help send the Grand Dozer to sleep.
+
+Once all these items have been collected, Rosie must; (8-Bit) return to the 
+start, (16-Bit) again find the Giant to complete the level and then shatter 
+the ice that has entombed him.
+
+HINTS & TIPS
+
+TRAP DOORS: These crumble from underneath your feet when trod on.
+
+LIFTS: Next to each lift there will be a button, jumping on this vili raise 
+the lift but you'll have to be pretty damn quick to catch the lift going up. 
+Why not try and push something onto the button e.g. a crate to hold it down, 
+then jump onto the lift.
+
+CONVEYOR BELTS: First switch them on, then jump on and ride them. Watch out 
+for the low hanging machinery.
+
+CONTROL METHOD
+
+    WITHOUT FIRE                    WITH FIRE
+
+                               JUMP          JUMP
+  JUMP         JUMP            LEFT   JUMP   RIGHT
+  LEFT  JUMP   RIGHT           &FIRE  &FIRE  &FIRE
+       \  |  /                       \  |  /
+        \ | /                         \ | /
+         \|/                           \|/
+  MOVE ---*--- MOVE             FIRE ---*--- FIRE
+  LEFT   /|\   RIGHT            LEFT   /|\   RIGHT
+        / | \                         / | \
+       /  |  \                	     /  |  \
+ CRAWL  DUCK   CRAWL  	       CRAWL  DUCK   CRAWL
+ LEFT          RIGHT           LEFT   &FIRE  RIGHT
+                               &FIRE         &FIRE
+
+Fire is used for shooting at the enemy to stun them. Rosie can also land 
+on the enemies heads.
+
+BEWARE OF: Toy Robots, Walking Pop Guns, Pigmi Bats.
+
+
+LEVEL TWO - NICK
+----------------
+
+"Super Duper Man" or Nick as he is earthly know, has been chosen to search 
+"The Super Zone". His task? To reach the top of the "Suspire State Building"
+where the warp to the nightmare castle lies. On his way he must collect the 
+magic poppy, which is one of the 5 objects needed to put the Grand Dozer to 
+sleep.
+
+The journey to the top is long and perilous. Great skill and fast reflexes 
+will be needed to complete your task. Some objects can be collected for points, 
+others can be lifted above Nicks head, where he can use them to defeat enemies 
+by throwing the objects at them. Also he can use these objects to hold switches 
+down.
+
+When Nick reaches the top, a swirling ball of light awaits him (8-Bit: Nick will 
+find a doorway). Leaping into this will warp him to the castle to wait for the 
+others.
+
+HINTS & TIPS
+
+SEE SAWS (16-Bit only): Even Super Nick can only leap so high. Why not pick up 
+something heavy, drop it on the see saw and catapult yourself high into the air 
+onto otherwise unreachable platforms. 
+
+LIFTS (8-Bit only): See Level One.
+
+SWINGING GIRDERS: First activate the button in the usual fashion and watch the 
+girder start to swing, jump on and you're away.
+
+PIPES: When you're underneath or standing on a pipe entrance, pushing up or 
+down respectively will send Nick through the pipe and out the other end.
+
+CONTROL METHOD
+
+    WITHOUT FIRE                     WITH FIRE
+
+  JUMP         JUMP           
+  LEFT  JUMP   RIGHT         
+       \  |  /                        \  |  /
+        \ | /                          \ | /
+         \|/                    THROW   \|/   THROW
+  MOVE ---*--- MOVE            OBJECT ---*--- OBJECT
+  LEFT   /|\   RIGHT             LEFT   /|\   RIGHT
+        / | \                          / | \
+       /  |  \                	      /  |  \
+  DUCK  DUCK   DUCK  	       
+  LEFT         RIGHT          
+                             
+FIRE on its own will pick up or drop an object. If the fire button is pressed 
+whilst Nick is in the air, he will flap his cape to carry him higher into 
+the air.
+
+BEWARE OF: Super People (16-Bit only), Nosey Parkers, Chain Saws.
+
+
+LEVEL THREE - POTSWORTH
+-----------------------
+
+The star of the show "Potsworth" has landed himself in every kiddies' dream 
+"The Candy Zone". In this paradise of cakes, giant ice creams and chocolate 
+bars, Potsworth must find and pick up (8-Bit) 6 cocoa beans, (16-Bit) 20 cocoa 
+beans, then take them to the cocoa cup. The end result is drinking chocolate 
+to help the Grand Dozer.
+
+16-Bit only: Some of them have fallen into the jelly pots, bouncing on the 
+jelly will force the beans out of the pot and into the air for you to collect. 
+BEWARE!! You can't see the beans inside the pot so jump on them all. Standing 
+on the jelly will make Potsworth start to sink, so keep bouncing.
+
+In his task, Potsworth will encounter many weird and wonderful obstacles. 
+Giant cakes that sink when trod on, rivers of cream, getting across these is 
+made easier by jumping the floating wafers (16-Bit only: or throwing an object 
+in the river and jumping on it before it sinks).
+
+HINTS & TIPS
+
+GIANT CAKES: These are seen throughout the map, they float on the river and 
+can be jumped on. BEWARE!! They will sink if trod on for too long.
+
+SHERBET FOUNTAINS: Jumping on these will send Potsworth high into the air.
+
+SKI JUMPS (16-Bit only): Push an object onto the button to open the barrier to 
+the jump, then off you go high into the air.
+
+CONTROL METHOD
+
+    WITHOUT FIRE                  
+
+  JUMP         JUMP           
+  LEFT  JUMP   RIGHT         
+       \  |  /                      
+        \ | /                         
+         \|/                    
+  MOVE ---*--- MOVE           
+  LEFT   /|\   RIGHT            
+        / | \                         
+       /  |  \                	      
+  DUCK  DUCK   DUCK  	       
+  LEFT         RIGHT    
+
+BEWARE OF: Candy Canes, Giant Ice Lollies, Chocolate Mice.
+
+
+LEVEL FOUR - CARTER
+-------------------
+
+Carter, the world's greatest artist, makes his appearance in this zone 
+"The Rainbow Zone". His mission, to paint a sleepy picture which will, 
+"we hope", send the Grand Dozer into a distant slumber. 16-Bit versions 
+(Amiga, Atari ST, IBM PC) - for Carter to do this, he must first find a 
+bucket, then fill the bucket with colour from the magic rainbow taps. He 
+must then take the filled bucket to the blank picture in the centre of 
+the map. For 8-Bit versions (Spectrum, Amstrad, CBM 64) - he must collect 
+the pieces of the jigsaw puzzle to build up a picture.
+
+THE TAPS (16-Bit only): In more detail, Carter must collect 6 drops, 1 from 
+each tap, which represent each colour of the rainbow. Once he has got all 
+the colours he can then paint the picture by returning to the easel and 
+pressing fire.
+
+PAINTING LEDGES: Carter's special power is to draw anything and make it come 
+to life. In this mission he can paint ledges to either side of himself, then 
+by jumping onto the ledges he can reach otherwise impossible places.
+
+HINTS & TIPS
+
+ELECTRIC BARRIER: To get past the barrier Carter must build a platform on the 
+switch which will in turn remove the barrier.
+
+CLOUD PLATFORMS: Bounce when Carter lands on them, then after a few seconds 
+drop out of the sky.
+
+TRAMPOLINES: Carter can use these to reach high places. The more he bounces 
+the higher he goes.
+
+CONTROL METHOD
+
+    WITHOUT FIRE                     WITH FIRE
+
+  JUMP         JUMP           
+  LEFT  JUMP   RIGHT         
+       \  |  /                        \  |  /
+        \ | /                          \ | /
+         \|/                            \|/   
+  MOVE ---*--- MOVE             PAINT ---*--- PAINT
+  LEFT   /|\   RIGHT             LEFT   /|\   RIGHT
+        / | \                          / | \
+       /  |  \                	      /  |  \
+  DUCK  DUCK   DUCK  	       
+  LEFT         RIGHT     
+
+Fire only creates platforms on this level. Carter can also jump on the 
+nasties' heads.
+
+BEWARE OF: Wellington Men, Flying Umbrellas, Butterflies.
+
+
+LEVEL FIVE - KEIKO
+------------------
+
+Keiko, skateboard wizard, has journeyed into "The Carnival Zone". Her mission: 
+to collect 5 mystical arrows and a dollar bill. When she has collected these, 
+she must take them to the Indian shoot-out, where she will be rewarded with 
+a giant teddy bear for the Grand Dozer to cuddle.
+
+Keiko will have to use the various fairground rides to help her collect the 
+arrows. To do this she will first need to switch on the fairground by moving 
+a lever, then she will have to switch on the individual rides as she needs 
+them by pushing weights onto the buttons. 
+
+To move around "The Carnival Zone" Keiko must keep her skateboard flying by 
+collecting energy pick-ups. If she has no energy in the skateboard it becomes 
+normal again.
+
+DROPPING STARS: Keiko's mode of attack is to drop stars from the back of her 
+skateboard. These stars hang in mid-air for a few seconds before disappearing.
+
+FAIRGROUND RIDES - HINTS & TIPS
+
+THE BIG WHEEL: Which, when switched on, starts to rotate around a central 
+point. Keiko can use the carriages to get across the gap occupied by 
+the big wheel. 
+
+SWINGING SHIP: This is a single carriage which swings in an arc from left to 
+right then back again. Keiko will have to use it to get across gaps when she 
+cannot fly. 
+
+WALTZERS & DODGEMS: These move from left, right and back again at great speed. 
+Keiko will have to time her jump perfectly as the floor is electrified!!! 
+
+CABLE CARS & LOG FLUME: Once Keiko has moved the switch, the cable car/log 
+flume starts to move so Keiko will have to be quick or she'll have to wait for 
+it to return. 
+
+CONTROL METHOD
+
+    WITHOUT ENERGY                  WITH ENERGY
+
+                                FLOAT         FLOAT
+   JUMP  JUMP   JUMP             UP    FLOAT   UP
+   LEFT   UP    RIGHT           &LEFT   UP    &RIGHT
+        \  |  /                       \  |  /
+         \ | /                         \ | /
+          \|/                           \|/
+   MOVE ---*--- MOVE            FLOAT ---*--- FLOAT
+   LEFT   /|\   RIGHT           LEFT    /|\   RIGHT
+         / | \                         / | \
+        /  |  \                	      /  |  \
+ CROUCH  DUCK   CROUCH        DESCEND DESCEND DESCEND
+  LEFT   DOWN   RIGHT          LEFT    DOWN   RIGHT
+                              
+Pressing fire allows Keiko to leave trails of stars.
+
+BEWARE OF: Hot Dogs, Killer Clowns, Mutant Candy Floss.
+
+
+FINAL CONFRONTATION (16-BIT ONLY)
+---------------------------------
+
+In this ending our hero "Potsworth" must defeat the evil Nightmare Prince. 
+Potsworth will have one attempt and, depending on how many levels were 
+successfully completed, he will have the same amount of bonus attempts to 
+snatch the potion of slumber from the Nightmare Prince! If all attempts fail, 
+the Nightmare Prince becomes the new ruler of the Dream Zone. The same fate 
+occurs if you run out of "continuations" and "dreams". 
+
+To defeat the Nightmare Prince, Potsworth must throw bones at his head (20 
+times), eventually knocking him out and snatching the potion of slumber. There 
+is a time limit so don't hang around. To make things worse the Nightmare Prince 
+has strapped 2 tanks of slumber potion onto his back and is armed with a long 
+range water pistol. Also while the Nightmare Prince is firing at Potsworth he 
+is unable to move. If Potsworth is repeatedly hit with the squirted potion it 
+will have a reverse effect on him and wake him up!
+
+CONTROL METHOD (16 Bit only)
+
+    WITHOUT FIRE                    WITH FIRE
+
+                                JUMP         JUMP
+  JUMP         JUMP             FIRE   JUMP  FIRE
+  LEFT  JUMP   RIGHT            LEFT  &FIRE  RIGHT
+       \  |  /                       \  |  /
+        \ | /                         \ | /
+         \|/                           \|/
+  MOVE ---*--- MOVE             FIRE ---*--- FIRE
+  LEFT   /|\   RIGHT            LEFT   /|\   RIGHT
+        / | \                         / | \
+       /  |  \                	     /  |  \
+  DUCK  DUCK   DUCK             DUCK  DUCK   DUCK
+  LEFT         RIGHT            FIRE  FIRE   FIRE
+                                LEFT         RIGHT
+
+Potsworth can fire bones at the nasties on this level, also he too can jump 
+on the nasties' heads.
+
+
+LOADING INSTRUCTIONS
+
+
+
+AMIGA & ATARI ST	Insert the disk in the disk drive then reset the computer.
+			JOYSTICK ONLY
+Additional Keys:	P 	Pause
+			Escape 	Quit
+	
+CBM 64 (Tape)		Press SHIFT & RUN/STOP keys together
+CBM 64 (Disk)		Type LOAD "*",8,1 RUN
+(Tape & Disk)		JOYSTICK ONLY
+	Keys:		Run/Stop Pause
+			Fire 	 Restart
+	
+SPECTRUM		Type LOAD"" then press ENTER
+			Keys are redefinable or use Sinclair or Kempston Joystick.
+			F 	Freeze 		0 	Left
+			Fire 	Restart 	P 	Right
+			Q 	Up 		Space 	Fire
+			A 	Down
+	
+AMSTRAD (Tape)		464 - Press CTRL & small ENTER keys together
+			6128 - Type I Tape (ENTER)
+			Press CTRL & small ENTER keys together
+AMSTRAD (Disk)		RUN "POTSWORTH"
+ (Tape & Disk)		Keys are redefinable or use Joystick.
+			F 	Freeze 		0 	Left
+			Fire 	Restart 	P 	Right
+			Q 	Up 		Space 	Fire
+			A 	Down
+
+
+PROGRAMMING, GAME DESIGN & GRAPHICS BY VISUAL IMPACT & PAL DEVELOPMENTS 
+
+INLAY DESIGN & PRINT BY MARKETING ADVERTISING DESIGN 
+
+© 1992 Hanna-Barbera Productions Inc., & Sleepy Kids Pic. All rights reserved. 
+
+© PROGRAM PAL DEVELOPMENTS 1992 Published under license by Hi-TEC Software Ltd.
+
+All rights reserved. No part of this software or printed material may be 
+reproduced in any way, or transmitted, in any form or by any means, electronic, 
+mechanical, photocopying, recording, or otherwise without prior permission in 
+writing from Hi-TEC software Ltd, except by reviewers, who may quote brief 
+passages to be printed in a magazine or newspaper.
+
+HiTEC SOFTWARE LTD 
+P.O. BOX 299 • SHEFFIELD • S7 2EZ 
+FAX: 0742 580547

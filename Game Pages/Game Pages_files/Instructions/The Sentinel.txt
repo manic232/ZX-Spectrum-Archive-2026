@@ -1,0 +1,121 @@
+The Sentinel (c) 1986 Firebird Software
+---------------------------------------
+
+The object of the game is to absorb the Sentinel and replace him as ruler of
+the landscape. Once achieved, you may hyperspsce into a new world to begin
+the struggle afresh.
+
+Once you have loaded the game, the title screen will be displayed. Press any
+key and you will be asked to input a landscape number from 0000 to 9999. 
+
+After you have entered the landscape number and hit return, you will be
+prompted for an 8-digit secret entry code, unless you choose landscape 0000,
+which does not require an entry code.
+
+After a short delay you will be shown an aerial view of the selected
+landscape which shows the relative positions of the Sentinel (standing on
+the tower - he may be a little difficult to spot, owing to the monochrome
+graphics!) and the Sentries, if any. Pressing any key will take you onto the
+landscape's surface. The Sentinel and sentries will be inactive until you
+expend or absorb energy. This allows you to have a look around and plan your
+assault on the Sentinel.
+
+Once activated, the Sentinel and Sentries slowly rotate, scanning the
+landscape for squares which contain more than 1 unit of energy. If they can
+clearly see such a square, the Sentinel/sentry will reduce the energy to 1
+unit by absorbing 1 unit at a time and creating a tree randomly on the
+landscape. Therefore a robot becomes a boulder and a boulder becomes a tree.
+
+You absorb things and create things by turning on your sights and centering
+them on the square surface below the objects to be absorbed/created.
+Boulders, however, act as an extension of the square surface, ans sights
+should be aimed at the side of the boulder. Boulders can be stacked and have
+things placed on top of them.
+
+The amount of energy you have is shown at the top left of the screen in the
+form of Robot, Boulders and Tree icons. A coloured (non-blue) Robot icon is
+worth 15 energy units.
+
+To move around the landscape, you must create a Robot and then, with the
+sights still on, press the transfer key. You will now be in the new Robot,
+facing your old Robot, which you can now absorb.
+
+The indicator on the top right of the screen is the scan warning. If a
+Sentinel/Sentry spots you, this indicator will be filled with specks. You
+have about 5 seconds to move out of view before your energy is drained 1
+point at a time. Once all of your energy has been drained, then you have
+been absorbed and the game ends.
+
+The total amount of energy in a landscape remains constant, so if a unit of
+your engery is absorbed, a tree will be tandomly placed on the landscape.
+
+If the Scan warning indicator is only half-filled with specks, this means
+that the Sentinel/sentry can see you, but cannot see the square that you are
+standing on: so it cannot absorb your energy. In this situation, it looks
+for a Tree near you and transforms it into a Meanie.
+
+The Meanies' job is to flush you out, which it does by forcing you to
+Hyperspace. The Meanie rotates quickly, making a low clicking sound, until
+it can see you. You will then Hyperspace to a new location.
+
+Hyperspacing effectively wastes 3 units of energy, because it creates a new
+Robot in a random position and automatically transfers you to it, leaving
+your old Robot behind. You are likely to end up at the same height or lower
+but never on your original square. If you Hyperspace will less than 3 units
+of energy, you are destroyed.
+
+Once the Sentinel has been absorbed, you can no longer absorb energy,
+although you can still create objects and transfer to other Robots. 
+
+Once you Hyperspace, while standing on the Sentinel's tower, you will be
+given the 8-digit entry code for a new landscape. The landcape that you are
+given = Present landcape number + Energy after the Hyperspace.
+
+KEYS :   
+
+Pan left        S         Hyperspace      H
+Pan right       D         U-turn          U
+Pan up          K         Absorb          A
+Pan down        M         Transfer        Q
+Create Tree     T         Quit            BREAK
+Create Boulder  B         Pause           P
+Create Robot    R         Unpause         ENTER
+Sights on/off   SPACE     Music on/off    Z
+
+ENGERY VALUES
+
+Tree    1       Sentry  4
+Boulder 2       Sentry  4
+Robot   3       Meanie  1
+
+LOADING INSTRUCTIONS
+
+Type LOAD"" Press the ENTER key and then press the PLAY button on your
+recorder.
+
+Program design by Geoff Crammond
+Spectrum version programmed by Software Creations
+Cover illustration by David Rowe
+
+GUARANTEE
+
+If this program is faulty and fails to load, please return it to the
+address below and it will be replaced free of charge and postage refunded.
+This offer does not effect your statutory consumer rights.
+
+No part of this book may be reproduced by any means without the prior
+consent of the copyright holder. The only exceptions are as provided for by
+the Copyright (photocopying) Act or for the purpose of review.
+
+COPYRIGHT NOTICE
+
+Copyright subsists in all Firebird Software, documentation and artwork. All
+right reserved. No part of this software may be copied, transmitted in any
+form or by any means. This software is sold on the condition that it shall
+not be hired out without the express permission of the publisher.
+
+Firebird is a Registered Trade Mark of British Telecommunications, plc.
+
+(c) Britsish Telecommunications plc, 1986
+
+Complete Instructions typed in by Paul Thompson, March 2003

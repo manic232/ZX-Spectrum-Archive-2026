@@ -1,0 +1,98 @@
+THE SPECTRUM GAME DATABASE
+
+BUBBLE BOBBLE
+
+PUBLISHER
+Firebird
+
+AUTHOR
+?
+
+YEAR
+1987.
+
+DESCRIPTION
+Bubble Bobble is a 2 player single screen Platform shoot'em'up
+and puzzle game.
+
+CONTROLS:
+Sinclair, Cursor or Kempston joysticks
+
+INSTRUCTIONS
+Bub and Bob are little dinosaurs who can blow bubbles and jump
+around a lot.  The idea of the game is to jump around the screen
+catching the baddies in bubbles and then popping them, turning
+the baddies into fruit or other such pick-upable item. 
+
+To catch a baddy inside a bubble, simply shoot the bubble into
+the baddy.  The bubbles have limited range so you have to move
+in quite close.  To pop the bubbles, simply walk into them or
+jump on top of them.
+
+If you take too long, the indestructable Baron Von-Blubba (?)
+would appear and kill you after a little chase around the screen.
+The only way to get rid of him is to complete the level.. or to
+die.. 
+
+
+CHEATS
+When you pick up the umbrella and start to skip levels, pull
+RIGHT on the joystick. This *should* make you skip more levels
+than usual.
+
+Multiface pokes:
+
+Level n: 34313,n
+Immortal: 43835,150   43836,195
+
++2A/+3 owners may need to patch the game when loading in 128K
+mode: if you find that it crashes shortly after the controls have
+been selected, then, during control selection, poke 23399,4.
+
+
+SEQUELS
+Bubble Bobble was followed by two more games (Rainbow Islands and
+Parasol Stars) but only Rainbow Islands appeared on the Spectrum.
+
+There is also another game called New Zealand Story which is
+often associated with the games.
+
+
+SCORES RECEIVED
+Bubble Bobble scored 8/19 in Sinclair User.
+
+URL
+ftp://ftp.dcc.uchile.cl/pub/OS/sinclair/snapshots/b/????????.zip
+
+GENERAL FACTS
+The main characters, Bub and Bob, who were little dinosaur things
+obtained almost cult status and were in almost every single
+computer mag at the time.
+
+NOTES
+This is one of the best 2 player games for the spectrum, although
+playing 2 player on 2 sinclair joysticks on a +2 or +3 caused
+some control problems for player 2.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

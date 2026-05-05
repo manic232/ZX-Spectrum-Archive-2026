@@ -1,0 +1,89 @@
+THE SPECTRUM GAMES DATABASE
+
+GYROSCOPE
+
+PUBLISHER
+Melbourne House
+
+AUTHOR(S)
+Catalyst Coders: Steve Lamb & Tony Mack
+
+YEAR
+1985
+
+CATALOGUE NUMBER
+MH 237
+
+CATEGORY
+Marble Madness-a-like
+
+DESCRIPTION
+You control a gyroscope trying to keep it on the surfaces on
+screen. If you navigate off a surface you fall off and lose a
+life. You have to successfully navigate numerous levels in the
+game in this way. It uses a slightly odd-looking 3d view. Things
+get more complicated in later levels as aliens attempt to knock
+you off the ledges, or kill on contact.
+
+CONTROLS
+Q = Up         Z = Down
+I = Left  P = Right
+O = Abort Game ( keyboard or joystick )
+
+Either the cursor keys or those outlined above should be chosen
+from the main menu which appearson the screen before the start
+of the game
+
+Gyroscope is compatible with Kempston, Sinclair Interface 2 and
+Cursor joysticks. To use the joystick you should make the
+appropriate selection from the main menu which appears before the
+start of the game
+
+INSTRUCTIONS
+
+ORIGINAL INLAY CARD TEXT
+The player should manoeuvre the gyroscope from the top of each
+course to the bottom. There are four screens per course and five
+courses to negotiate in order to successfully complete the game.
+Five types of obstacles stand in the way of your progress:
+
+     Steep slopes
+     Slippery glass
+     Directional magnets
+     Aliens
+     Narrow ledges
+
+When you reach the end of the course you must move onto the
+character square which appears like this:
+
+     [ Drawing of a grid with a black blob on it ]
+
+Once the game has been successfully completed, there is a real
+surprise in
+store!
+
+               o0o
+
+The player has seven "lives" or gyroscopes with which to complete
+the course, with an extra life for every 1000 points. If he falls
+off the edge or hits an alien, the gyroscope will fall over and
+the player will lose a 'life'. At the top of the screen is a
+clock which ticks down. If this reaches zero, the gyroscope will
+stop spinning and fall over, with the loss of one "life".  Play
+will continue with a new gyroscope which will appear on the spot
+at which the previous one fell over.
+
+HINTS/CHEATS
+
+SEQUELS/PREQUELS
+
+SCORES RECEIVED
+
+URLS
+
+GENERAL FACTS
+
+NOTES
+Appeared around the same time as Bobby Bearing, Spindizzy.....and
+100 other Marble Madness clones. This ( IMHO ) was not one of the
+better ones.

@@ -1,0 +1,139 @@
+THE SPECTRUM GAMES DATABASE
+
+ROBIN OF THE WOOD
+
+PUBLISHER
+Odin Computer Graphics Ltd.
+
+AUTHOR(S)
+In-house
+
+YEAR
+1985
+
+CATEGORY
+Arcade adventure
+
+CONTROLS
+Keyboard Controls: You can define which keys you want to use. 
+Press 1.  Joystick Controls: Robin can be controlled by using the
+KEMPSTON INTERFACE, SINCLAIR INTERFACE II, CURSOR JOYSTICK
+INTERFACE, press 2, 3 or 4
+
+To Start Game: Press 0
+
+RUNNING:  Left and Right      Will move Robin left and right
+          Up and Down         Will make him run up or down
+FIGHTING: Fire                Puts Robin at the ready to strike
+          Fire plus L / R     And Robin goes into action.
+                              Will stab in that direction when
+                              Robin is using his sword
+ENTER:                        Pause game
+BREAK:( Caps Shift + Space )  Restart Game
+
+INSTRUCTIONS
+
+ORIGINAL INLAY CARD TEXT
+
+About Robin
+-----------
+
+From a time outside history -- before the language of the English
+was ever written down -- there come to us stories and legends of
+heroes and valiant folk. Amid battles and adventures, deeds of
+courage and of treachery, striving against tyranny, fighting for
+the weak against the strong -- stealing from the rich so that the
+poor might be fed, stands a young man dressed in Lincoln green;
+a bowman, a poacher, and notorious outlaw; a Saxon...
+
+'Robin of the Wood'
+-------------------
+
+England was in the grip of tyranny, brought by William and his
+conquering Norman hordes. Saxon nobles were dispossessed and
+often killed, lowly villagers taxed to the point of starvation.
+The only ray of hope for the future of the Saxons of England lay
+in the strong arms and keen eye of Robin.
+
+Robin, the very spirit of the Ancient Forest which covered this
+fair land.
+
+'Robin of the Wood' was the whispered reply to bullying Normans
+when asked from whence came the side of venison on which the poor
+of a small Saxon village were feeding.
+
+'Robin of the Wood' was the cry, as hated tax collectors stripped
+bare the fields of Saxon smallholders.
+
+'Robin of the Wood' the people cheered, as the bruised, battered
+and bewildered Norman brutes staggered bleeding and beaten from
+the bowers of the ancient forest.
+
+Game Scenario
+-------------
+The Sheriff had in his possession a certain arrow, made of solid
+silver, engraved with characters as ancient as the very forest.
+It was indeed the 'Shaft of Power' of the Saxon nation, symbol
+of freedom and peace, more precious than the crown of the Kingdom
+itself to the Saxons. Yet it was with this arrow as bait that the
+Sheriff planned to capture this mysterious 'Robin of the Wood'.
+He well knew of the importance of the Silver Arrow to the
+peasants of his domain, indeed to offer it as a prize, as though
+it were a mere trinket or bauble, appealed to him as a prime
+insult to the serfs, and worthwhile simply for that reason. It
+was when he realised that such a prize, while meaningless to
+himself, would be certain to attract Robin to the contestm that
+he finally decided. There was to be a great archery contest
+-- the prize was to be the Silver Arrow -- and for the Sheriff,
+the main prize was to be the death or capture of Robin.
+
+On the day of the contest the woods were swarming with Norman
+soldiers -- the Sheriff's men. They had orders to shoot on sight,
+and shoot to kill.
+
+Robin of the Wood -- The Challenge
+----------------------------------
+A Proclamation by his Lordship the Sheriff of Nottingham.
+
+"Let it be known that on the third Sunday of this month at the
+castle of Nottingham, there shall be a grand tournament of
+archery.  Come all who may to try and win, for he who shoots
+straightest shall be hailed as the best archer in all of England,
+and to him shall be presented an arrow, crafted in solid silver
+of inestimable value and antiquity.
+
+    Long live Prince John, Regent of all England"
+
+Robin
+-----
+As you must go alone to take up the challenge issued by the
+Sheriff, Scarlett and I have hidden quivers of arrows in secret
+places around the forest to help you overcome the foe.  There are
+witches about at this time of the year so be wary -- if you
+should meet one it would be well if you could pay tribute to her.
+Fortunately there are many kinds of woodland plant which they
+often seek and are always glad of.  There dwells in the greenwood
+an ancient hermit, who though thou be near death can cure thee
+of all ails -- but be warned that this saintly man will allow no
+weapons near his home.  Your sword and trusty bow are in the
+keeping of the old Forest Ent along with 3 charmed arrows which
+will ensure that you are not recognised at the Tournament. You
+must give him 3 bags of gold for each weapon so that he may
+redistribute to the poor of the parish the tithes stolen from the
+holychurch by the evil Bishop of Peterborough.
+Good luck Robin.
+
+John Little.
+
+
+HINTS/CHEATS
+
+SEQUELS/PREQUELS
+
+SCORES RECEIVED
+
+URLS
+
+GENERAL FACTS
+
+NOTES

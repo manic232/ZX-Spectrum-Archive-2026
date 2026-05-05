@@ -1,0 +1,77 @@
+TOTAL RECALL
+(Ocean / Hit Squad)
+
+
+SCENARIO
+Quaid, after a terrifying visit to "Rekall" and an unsuccessful
+"memory implant", discovers that his life is a lie.
+His past is fiction and his true identity is shrouded in mystery. A
+mystery whose solution lies on the Red Planet of Mars.
+
+LOADING
+128K ONLY - Select LOADER option and press RETURN key.
+
+CONTROLS
+This is a one-player game controlled by joystick only.
+FIRE and DOWN will toggle between armed and unarmed combat.
+P - Pause game (press Fire to resume)
+To QUIT the game press BREAK.
+SPACE BAR - Sound FX on/off
+
+CAR CHASE SECTION
+Push the joystick in the appropriate direction to steer the car.
+
+GAMEPLAY
+
+LEVEL ONE
+Quaid must get from his hotel to a phone box on the far side of the
+city where he will receive further instructions. Along the way he must
+collect five vital objects to help him in his quest: a briefcase,
+passport, ticket to Mars, disguise and a surgical instrument for
+removal of an implanted homing device.
+
+LEVEL TWO
+Having received his instructions Quaid commandeers a "Johnny Cab" and
+must make his way to the derelict warehouse area where he can utilise
+the briefcase-video and learn further information regarding his past.
+
+LEVEL THREE
+A startling revelation lies within the video-briefcase. It appears
+that the full answers to his questions lie on Mars. Now he must escape
+from the warehouse to the Spaceport to begin his journey.
+
+LEVEL FOUR
+Melina and Quaid meet Benny, a taxi driver who helps them escape from
+the pursuing forces. They must negotiate a dangerous route through the
+caverns of Mars until they discover the way to the Rebel hideout.
+
+LEVEL FIVE
+Their taxi discarded, Melina and Quaid must proceed on foot back
+through 'Venusville', down into the caverns to meet Kuato the rebel
+leader. 
+Along the route are switches that must be activated to open the doors
+into the alien reactor that is the heart of Quaid's dilemma. Finding
+Kuato, Quaid will be given the key to the core room within the heart
+of the reactor. Between Quaid and his final confrontation are the last
+vestiges of Richter's armed forces.
+Fight your way through, then battle Richter himself on the lift up to
+the core room. Emerge victorious and within you will find the villain
+behind your strife, Cohaagen. Here in the core room, he has planted a
+bomb which will destroy the reactor and Mars' only chance of
+salvation.
+Extra energy will be awarded at 50,000 points and every 100,000 points
+thereafter. If energy is full, ammo will be awarded.
+You only have one life; once your energy is depleted the game will be
+over.
+
+PLEASE NOTE:
+Throughout Levels One, Three and Five, there are colour coded
+switches, that when operated will remove (or add, where necessary)
+walls and platforms which are colour coded to one particular switch.
+Also in the above mentioned levels, by standing on 'PAD' (Spectrum) or
+'P' (Amstrad), you can turn off a particular type of laser for several
+seconds, although the time may vary depending on the level played.
+
+
+(c) 1990 Carolco Pictures Inc.
+(c) 1990 Ocean Software Limited.

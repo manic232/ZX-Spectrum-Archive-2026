@@ -1,0 +1,521 @@
+*********
+
+The Project 64 etext of the ~North South manual~, converted to etext
+by Martin Brunner <martinb@finwds01.tu-graz.ac.at>.
+
+NORSOU10.TXT, April 1997, etext #229#
+
+Readapted for the Spectrum in 2001 AD by Alessandro Grussu
+http://www.ag-online.da.ru
+
+*********
+
+With the famous comic strip heroes from 'LES TUNIQUES BLEUES' (The
+Blue Jackets), imagined by LAMBIL, designed by CAUVIN and published by
+EDITIONS DUPUIS, re-live the American Civil War with a little bit of
+historical realism and a lot of humour!
+
+Your objective is ensure victory for your side (North or South) by
+eliminating all the enemy armies. You will be controlling armies
+across all the combat zones of the Civil War.  You may respect history
+or not, as you like.
+
+********************
+* LOADING THE GAME *
+********************
+
+[C64 loading instructions omitted]
+
+GLOSSARY OF GAME TERMS
+======================
+
+- SIDE:.......The SOUTH (Confederacy) or the NORTH (Union).
+- TERRITORY:..Geographical representation of States on the
+              strategic map.
+- CLICK:......Press the space bar or the fire button. This action is
+              used to confirm according to cursor position.
+- CURSOR:.....This is a screen pointer which you can move around on
+              the strategic map using joystick or P,L,Z,X keys on the
+              keyboard.
+- FIRE:.......Press the space bar or fire button.
+- ARMY:.......A force made up of a number of units represented by a
+              soldier on the strategic map.
+- UNIT:...... The basic element of an army. There are three types of
+              units: Cavalry, Infantry and Artillery.
+
+
+JOYSTICK OR KEYBOARD
+====================
+
+JOYSTICK/KEYBOARD:
+                             UP/P
+                        LEFT/Z  RIGHT/X
+                            DOWN/L
+
+Other keys: Press H to pause the game.
+
+[Spectrum: Choose Keyboard, Kempston, Sinclair 1, Sinclair 2 or Cursor.
+Keyboard is fully redefinable]
+
+************
+* THE MENU *
+************
+
+lf you want to start playing immediately, use your cursor and click on
+the case marked "GO".
+- You are playing at CAPTAIN level.  You play Captain STARK against a
+  Confederate Corporal played by the computer. The start year is 1861
+  and no catastrophe is activated. North plays first.
+
+lf you want to alter the current configuration, you may act on the
+following parameters:
+- 1 or 2 players.
+- Change difficulty level.
+- Change start year.
+- Activate (or not) all or some of the catastrophes and events.
+- Play (or not) in strategic mode (no arcade) only.
+The order given here is only an example; you need not respect it.
+
+
+1. SELECTING 1 OR 2 PLAYERS
+===========================
+
+Click on the Window flag behind the character; a computer will appear,
+signalling that your computer will play that side. Reclick on the
+computer to switch to human mode.
+
+
+2. DIFFICULTY LEVEL
+===================
+
+Click on the character head in the window.
+CORPORALS: BLUTCH for the Union, MATHIAS for the Confederacy.
+SERGEANTS: CHESTERFIELD for the Union and CANCRELAT for the
+           Confederacy.
+CAPTAINS: STARK for the North and PHILIP for the South.
+
+CORPORAL is the most difficult, CAPTAIN the easiest game level.
+
+
+3. CHANGE START YEAR
+====================
+
+To choose the year when your game begins, click on the calendar to
+scroll the years from 1861 to 1864. 1865 is not available, since the
+situation was too unfavourable for the South. Each year corresponds to
+a certain number of armies and territories owned by each side; the
+situation reflects actual historical conditions for that year.
+
+
+4. DISASTERS
+============
+
+These options are available in order to allow you to create some of
+the elements that fans of the comic book series know very well. These
+disasters will modify the strategic situation.
+
+To activate a disaster, just click on it.
+When in play, you will not be able to cancel the disaster.
+
+a) - Indians:
+     They occasionally attack armies in neighbouring territories. When
+     the Indians have spotted their prey, they send smoke signals
+     before launching their attack. The army thus attacked may lose
+     only some of its units or could be completely wiped out.
+
+   - Mexicans:
+     If you have activated the Indian mode, the Mexican will also be
+     present. Irritated at being so unceremoniously torn from a much
+     needed snooze following a refreshing siesta, he will throw a bomb
+     on the State of Texas, just to calm down whatever army happens to
+     be there at the time. The poor army will lose some or all its
+     units.
+
+b) Storms:
+   A storm cloud travels around above the map. Any army under the
+   cloud is unable to move until the cloud leaves the territory.
+
+c) European Reinforcements:
+   Both sides in the Civil War were diplomatically very active in
+   Europe. The side who owns South Virginia will receive a ship
+   containing reinforcements. Once on dry land, they will constitute
+   an army (1 Cannon unit, 3 Cavalry units and 6 Infantry units) if
+   there is no army currently in that territory; if there is already
+   an army, then the newcomers from over the ocean will reinforce that
+   army up to maximum limits (3 Cannon, 9 Cavairy and 18 Infantry).
+   Any extras are lost.
+
+
+5. STRATEGIC OR ARCADE MODE
+===========================
+
+Click on the Arcade icon to disactivate the Strategic mode and
+vice-versa. In the Arcade mode there are three challenges to face:
+the battle, the train and the fort.
+
+In the Strategic mode, these three arcade challenges are replaced by
+an automatic system for determining the outcome of each challenge,
+using a random decision based on the respective strength of the
+opposing forces.  This option caters for those players who prefer to
+concentrate on the purely strategic aspects of the simulation.
+
+When you have decided on all the parameters above, in whatever order
+suits you, you can click on 'GO' to start play.
+
+
+************
+* THE GAME *
+************
+
+STRATEGIC MAP AND GAME
+======================
+
+According to the start year chosen, the number and positions of armies
+vary.  Here is a map of the States over which your armies will move.
+What is an ARMY in the game?
+
+An army is made up of a number of units of Infantry, Cavalry and
+Cannon. According to the number of units in an army, the soldier who
+represents that army or the screen map has a greater or lesser number
+of cannon balls at his feet.
+
+
+ARMY MOVEMENT
+=============
+
+Play is organized into Game Turns. Players play one after the other.
+When each has played his turn, the Game Turn is then completed. During
+each of his turns a player may move some or all his armies; he may move
+each army from its current territory to a neighbouring territory
+(a territory sharing a border with it). Here are a few examples:
+
+1. Moving to another territory
+   - Click on the unit you want to move
+   - The possible territories where your chosen unit may move will
+     flash.
+   - Click on the territory you wish the unit to move to.
+     The unit moves to the selected territory. That unit may not move
+     again until the next Game Turn.
+
+2. Cancel a move so that another unit may first be moved
+   - Click on a non-flashing territory.
+   - The army will stay on its territory and may still be moved this
+     Turn.
+   - You may also click on the original territory.
+
+3. You decide not to move one, or several particular units
+     This operation may ONLY be done when ALL movement has been
+     played. When one or more armies remain which you don't want to
+     move, to finish your turn, click on the Months and Years band at
+     the bottom of the screen. lt is now your opponent's turn to play.
+
+4. lt you have moved all your units, your turn ends automatically.
+
+
+CONQUERING A TERRITORY
+======================
+
+6 cases are possible when a unit moves into a territory
+
+1. The territory is VIRGIN.
+   - The territory is owned by the first player
+     to move an army onto it.
+   - If the army moves away from the territory, then the player's
+     flag will appear in it.
+
+2. The territory is enemy-owned but currently unoccupied by
+   an enemy army.
+   - The new army conquers the territory
+     and the enemy flag disappears.
+   - When the new army leaves, the owning side's flag appears.
+
+3. The territory is already occupied by an enemy unit.
+   - In this case there will be a battle. lf the attacker wins, then
+     the territory will change sides.
+
+4. The territory is already owned by the player. Nothing changes.
+
+5. The territory has a town and is occupied by an enemy army.
+   - The enemy army must then be defeated in the battle
+     or forced to retreat.
+   - You must then win the fight in the fort.
+   - If you win in the fort, your army may stay in the territory. If
+     not, it will stay in its original territory.
+
+6. The territory has a town and is enemy-owned but no enemy
+   army is prosent.
+   - You must win the fort game to conquer the territory.
+   - If you fail, your attacking army will remain in its
+     original territory.
+
+
+FUSING TWO ARMIES TOGETHER
+==========================
+
+It can sometimes be a good idea to fuse two or more armies into one
+big force. This is done during movernent:
+- Click on an army.
+- Move that army to an adjacent territory containing an allied army
+  in order to be fused with.
+- You now have a new reinforced army which you'll be able to move
+  next turn.
+
+NOTE: The same system of maximum possible force as with European
+Reinforcement is used here. You cannot have an army greater in
+strength than 18 Infantry, 9 Cavalary and 3 Cannon.
+
+
+ATTACKING AN ENEMY ARMY
+=======================
+
+- Click on the army you want to use.
+- Click on the territory containing the enemy unit you wish to attack.
+- The two opposing armies will now switch to the arcade 'Battle' mode,
+  unless the players are in strategic mode only.
+
+
+ATTACKING AN ENEMY ARMY WITH SEVERAL ARMIES
+===========================================
+
+If several allied neighbour units can move onto the same enemy-
+occupied territory, then they may attack that enemy at the same time.
+- Click on one of your attacking armies.
+- Click on the enemy territory.
+- All allied armies which can attack that enemy will automatically
+  move to the enemy territory.
+
+NOTE : Remember that the sum of attacking armies may not exceed the
+maximum of 18 Infantry, 9 Cavalry and 3 Cannon. lf, after this fusion,
+there are extra units, they will remain as an army in one of the
+original territories. The computer is supreme judge in tricky cases!
+
+
+RETREATS
+========
+
+If the battle situation seems grave enough to suggest an orderly
+retreat, in arcade mode, the joystick/keyboard 1 player should press
+the E key; the joystick 2 player should press  [arrow pointing up].
+If you have taken the decision to retreat, there are two possible
+cases:
+- You are the attacker: your army moves to its territory of origin.
+- You are the defender and the computer moves your army back from the
+  front line to one of your territories.  In both cases the retreating
+  army loses an artillery unit.
+- If none of your territories are available to move back to, then the
+  retreat won't be possible and the retreat keys (E and ) will be
+  inactive.
+
+
+THE SUPPLY PHASE OR GETTING NEW ARMIES
+======================================
+
+At the end of each Game Turn, according to the number of territories
+you possess, you should receive a certain number of bags of gold.
+
+You will only receive the gold, however, if two of your towns are
+connected by a railroad crossing only territories of your own.
+
+
+Getting the gold
+----------------
+If two towns are correctly connected, a train will travel at the end
+of your turn from one to the other. The bags of gold will then be
+deposited in the players central Bank.
+
+
+Getting new armies
+------------------
+When a player has 5 bags of gold in his bank, a new army is created in
+exchange for the 5 bags. The new army will flash at the bottom left of
+the map.
+
+To move the new army into play, click on a flashing territory. The new
+army (6 Infantry, 3 Cavalry and 1 Cannon) can only move to a territory
+containing no other army and which lies on a railroad line that
+belongs entirely to the new army's player. The available territories
+will flash.
+
+
+What happens lf you cannot move a new army into play.
+-----------------------------------------------------
+lf no appropriate territory is available, the bags of gold will remain
+in your Bank until you are able to move a new army onto the playing map.
+
+
+How to collect your enemy's taxes.
+----------------------------------
+-You must block the line between the two enemy towns by capturing one
+ of the territories along the line.
+-No link between another two enemy towns must be possible (otherwise
+ the train will always take the safest route, the one with no hostile
+ army present).
+-Once and once only, the enemy train will try to get through (if no
+ other possible line exists). You will then switch to the Train arcade
+ sequence. lf you win the arcade (or strategic) sequence, the enemy's
+ taxes will arrive in your Bank.
+
+
+THE TRAIN SEQUENCE: ARCADE MODE
+===============================
+
+The character you control is on the ground. First you must climb up
+the back end ofthe passing wagons onto the roof of the train. lf you
+fail to climb on, then your interception attempt is over.
+
+                                          Keyboard        Joystick
+
+How to climb ontd a wagon,                   P               UP
+How to move on the wagon                  Z     X        LEFT  RIGHT
+How to jump trom one wagon to the next       P               UP
+
+Your objective is to reach the front of the train in order to stop it
+and overcome the driver.
+
+
+To defeat your enemies:
+-----------------------
+- Space bar or Fire button: you throw a knife at your enemy, unless
+  you are in hand to hand combat.
+- Space bar or Fire button: you punch your enemy in hand to hand
+  combat.
+
+NOTE : The number of knives available is limited by the difficulty
+level.
+
+
+The race against time:
+----------------------
+The amount of time availabie varies according to the difficulty level.
+Time is symbolized by a clock and your progress towards the locomotive
+is represented by a boot. You must get there before your time runs
+out; your boot must reach the right edge before the clock. lt an enemy
+pushes you off the train, you must climb back on as fast as you can
+before the train gets away!
+
+
+2-Player version:
+-----------------
+The player who owns the train, and who detends it against the
+attacking player, can send men onto the roof to fight off the attack.
+- To send a man up to the roof: Direction UP or DOWN.
+- To throw a knife or give a punch (in hand to hand combat), press the
+  Fire button.
+
+NOTE : The man moves by himself from right to left. The defending
+player controls the moment when the soldier appears and fires.
+
+
+THE FORT SEQUENCE
+=================
+
+Possession of at least two towns connected by a railroad link is vital
+for both players. These towns are protected by forts. To capture an
+enemy territory containing a fort, the player must defeat any enemy
+army present in the territory (in Battle mode) and also win the fort
+game. If no enemy army currently occupies the territory, the attacking
+player will still have to take the fort in order to capture the
+territory. lf the attack fails, then the attacking army stays where it
+was at the start of the turn. A failure has no other consequences.
+
+
+The arcade game:
+----------------
+Time is limited; the more difficult the level, the less time you have.
+Once again, a boot symbolizes your progross in the fort.  Your
+objective is the enemy flag situated at the far end of the fort. lf
+you get there in time, the enemy flag will come down, to be replaced
+by yours. You have captured the town.
+
+You move and fight according to the same principle as in the Train
+sequence. Some of the obstacles can only be got over by climbing a
+ladder. Guard-dogs will appear from time to time and try to stop the
+attacker. lf the attacker steps on a box of explosives, he will be
+stunned for several seconds.
+
+
+2-Player version:
+-----------------
+The same commands are used as in the Train sequence.
+NOTE : lf the defender uses DOWN direction to bring on a soldier, he
+will arrive at ground level. Using UP direction will bring the soldier
+into play on the ramparts.
+
+
+THE PITCHED BATTLE
+==================
+A battle is fought when two opposing armies occupy the same territory.
+The aim is to eliminate the enemy force or force it to retreat. The
+winner keeps the territory where the battle is fought.
+
+
+Battle play:
+------------
+
+1. Choose the unit which is to move or fire:
+   Player 1: ........ press RUN/STOP,
+   Player 2: ........ press F5.
+   [Spectrum: press the SELECT key]
+   The selected unit is represented by its symbol. It is displayed at
+   top left screen for the Union player and top right screen for the
+   Confederate player.
+
+2. Moving the unit
+   Use the directions provided by Keyboard or joystick to move your
+   units.
+   - Artillery moves only UP or DOWN.
+   - Cavalry begins facing the enemy, either RIGHT or LEFT. Backward
+     movement is impossible for horses; the most they can do is stay
+     where they are.
+   - Infantry can move in any directon.
+
+3. Firing and Charging
+   - Artillery 1 player : Press Fire or Space bar.
+     2 players  Fire button.
+     Keep the Space bar or Fire button pressed; a gauge will display
+     at the top of the screen. The fuller the gauge, the greater the
+     range. When the gauge reaches the bottom, you reach the end of
+     the enemy screen.
+     To fire, release the Space bar or Fire button, The cannon balls
+     will land at a distance corresponding to the gauge level.
+
+     NOTE : The cannons possess only 9 cannon balls. When the
+     artillery has exhausted its ammunition, it will automatically
+     leave the field of battie.
+
+   - Cavalry: The same principie applies to commands. The first
+     FIRE-press positions the charge, facing the enemy.
+     Further FIRE pressing is used for sabre-slashing the enemy
+     troops. When the Cavalry reaches the opposite screen edge, it
+     will go round the battle field and return to its original
+     position, assuming of course that there are survivors!
+     Changing formation: To switch Cavalrymen to normal or to
+     single-file formation, direct them once in the opposite direction
+     to the direction of their charge (RIGHT or LEFT). This particular
+     manoeuvre is vital for crossing bridges and canyons!
+
+   - Infantry: The same command principle applies. The first press
+     places the footsoldiers into firing position. Further pressing
+     will make the firers shoot straight ahead. Changing formation:
+     To return to the original formation, just direct them once in
+     the direction opposite to their marching direction (LEFT or
+     RIGHT). lf you continue taking that direction, the formation will
+     move back.
+
+
+SURROUNDING THE ENEMY
+=====================
+
+To capture a territory without fighting a battle, you can encircle it.
+When enemy territories with no armies stationed in them are encircled
+by several of your armies, those territories change sides.
+You cannot 'surround' a territory which has a town.
+
+
+GENTLEMEN, DRAW SABRES!
+
+*********
+
+End of the Project 64 etext of the (North South) manual.
+
+*********

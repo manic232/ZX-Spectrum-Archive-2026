@@ -1,0 +1,77 @@
+WORSE THINGS HAPPEN AT SEA - SILVERSOFT
+
+On your first journey you will find your ship in reasonably sound condition;
+the only small problem being a slighty leaky hull. Under your control, your
+waterproofed and capable old C-Droid helper grinds from compartment to
+compartment applying patches to the ever increasing number of leaks.
+
+When you complete your journey the profits from selling your cargo will be
+decreased by the cost of pumping out the hull, the cost of replacing any spoilt
+cargo, and the cost of buying new C-Droids to replace the ones you've wiped
+out. The second journey sees you with fresh cargo, and a ship that not only
+leaks, but also suffers from a tendency to wander off course. Apart from
+patching the hull, therefore, your C-Droid will also have to return to the
+wheel occasionally to keep the old tub on course. Watch that course indicator!!
+On the third journey there's even more to do.
+
+LOADING INSTRUCTIONS
+
+Loading: Type LOAD "" and press ENTER and the game will run automatically.
+
+KEY OPTIONS
+
+To select the desired option press the numeric key that corresponds to your
+choice:
+
+Selection No: 1 2 3 4 5 6
+LEFT:         Q 5 Z O Q 6
+RIGHT:        W 8 X P W 7
+DOWN:         E 6 M A L 8
+UP:           R 7 K Q P 9
+DOOR/TAKE:    T 0 L M M 0
+PUMP/POWER:   X 9 A X X M
+
+START/RESTART: S 
+HOLD: H
+
+FOR EXAMPLE: Option 5
+
+Q - Left 
+W - Right
+L - Down 
+P - Up
+X - Recharge Power/Pump Water
+M - Take/Drop Objects: Open/Close Doors or Hatches
+
+NOTE OPTIONS 5 AND 2 CORRESPOND TO THE SINCLAIR AND AGF JOYSTICKS RESPECTIVELY
+
+FOR SUPA-STEP PRESS POWER KEY WHILST MOVING
+
+HINTS AND TIPS DEPARTMENT:
+
+PLAYING THE GAME
+
+Try to arrive at your next port of call with the water level inside the ship
+lower than the water level outside it. Apart from anything else, a dry cargo is
+worth more than a wet one.
+
+Supa-step means that you can get around the top deck quickly, and without
+opening bulkheads and spreading the flooding. This does tire out the C-Droids
+though - get back to the recharge chamber from time to time.
+
+When the engine starts to overheat, look around for those oilcans!
+
+Flooding will spread more quickly if bulkhead doors and hatches are left open.
+Close them after you pass through!
+
+REMEMBER Excess water in the ship's hold:
+
+- DAMAGES CARGO
+- SLOWS THE SHIP
+- STRAINS THE MOTORS
+- DRAINS ROBOT POWER
+- INACTIVATES THE RECHARGE CHAMBER
+
+and don't forget...
+
+EVEN WORSE THINGS HAPPEN TO SOFTWARE PIRATES

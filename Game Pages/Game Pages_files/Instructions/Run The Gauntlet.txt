@@ -1,0 +1,102 @@
+RUN THE GAUNTLET
+
+SPECTRUM 48/128/+2/+3
+
+The Hit Squad,
+P.O. Box 350,
+Manchester.
+M60 2LX
+
+Compete as one of the teams in the "Run the Gauntlet" contest.
+
+THE CHALLENGE
+
+The "Run the Gauntlet" challenge is divided into three events, which
+are picked at random from the many in store. Each event consists of
+three segments, which can be either on land, water or the hill
+(assault course). Complete the challenge with the best score and
+you'll be awarded the "Run the Gauntlet" trophy. The vehicles you will
+be competing with are fast and exciting.
+
+VEHICLE CHARACTERISTICS
+
+HOVERCRAFT - TRICKY TO HANDLE
+SPEEDBOATS - VERY FAST AND MANOEUVRABLE
+JET SKIS - FAST WITH VERY TIGHT TURNS
+INFLATABLES - MODERATE SPEED
+
+METEORS - VERY FAST 2 MAN BUGGY
+BUGGYS - FAST 1 MAN BUGGY
+QUADS - FAST 4 WHEEL BIKES
+SUPERCATS - AMPHIBIOUS 6 WHEEL ALL-TERRAIN VEHICLE
+
+LOADING
+
+Type LOAD"" (ENTER).
+
+YOU WILL BE TOLD WHEN TO PLAY OR REWIND TAPE TO LOAD THE DIFFERENT 
+SECTIONS. AFTER EACH SECTION HAS LOADED STOP THE TAPE.
+
+N.B. Spectrum +2 and +3 users - If you are disqualified from an event
+after using selection menu, you are then asked to load. Rewind
+cassette to beginning then press play.
+
+NOTE: Do not stop tape unless told to do so. Loading could take
+several minutes due to each event being selected randomly.
+
+GAMEPLAY AND CONTROLS
+
+SPC or 0 - FIRE
+       Q - LEFT
+       W - RIGHT
+       P - UP
+       L - DOWN
+       H - PAUSE GAME/CHANGE
+
+JOYSTICK
+
+You may select joystick/keyboard during the game. This is done by:
+
+1. Pause the game (press 'H').
+
+2. Select the joystick required by pressing keys 1 - 5 
+   1: Keyboard
+   2: Kempston
+   3: Cursor
+   4: Sinclair
+   5: Cheetah special.
+
+3. Restart the Game (press 'H').
+
+WATER COURSE
+
+Craft Types: - Hovercraft, Speedboats, Jet Skis, and Inflatables.
+
+Each craft has a different course to navigate. Press up to accelerate.
+Press left/right to rotate the craft in either direction. A flashing
+point on the map indicates your position on the course. The other two
+points are the pacer positions.
+
+OFF ROAD COURSE
+
+Craft Type: - Meteors, Quads, Buggies, Supercats.
+
+Normal Ground (Running)
+
+Press left/right without fire to move left/right. Press fire and up to
+jump over logs/walls etc. Hold fire and waggle left/right to increase
+power.
+
+In the Water
+
+You must sway left and right to advance through water or mud. You must
+sway fully to each side in turn to make any progress!
+
+On the Climbing Net
+
+To make the player climb you must repeat the following sequence
+
+RIGHT/LEFT/DOWN/UP
+
+(c) 1989 Ocean Software Limited
+(c) Creative Action Limited

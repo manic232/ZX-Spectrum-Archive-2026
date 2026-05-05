@@ -1,0 +1,104 @@
+THE SPECTRUM GAMES DATABASE
+
+PYRACURSE
+
+PUBLISHER
+Hewson
+
+AUTHOR
+
+YEAR
+1986
+
+CONTROLS
+Keyboard, Kempston. (This game is best played using a joystick
+rotated clockwise by 45 degrees).
+
+ KEYS : A to G          - Up/Left               - Joystick left
+        H to L, ENTER   - Up/Right              - Joystick up
+        B to M, SPACE   - Down/Left             - Joystick down
+        Z to V          - Down/Right            - Joystick right
+        Y to P          - Fire                  - Joystick fire
+
+        0/9                     - Pause/Unpause
+        Fire while moving       - Throw/Discard object
+        Fire while stationary   - Display menu
+
+
+INSTRUCTIONS
+Pyracurse features the adventures of a team of three people and
+a dog called Frozbie who explore an ancient Sinu city based in
+the forests of South America in search of the missing
+archaeologist Sir Pericles Pemberton-Smythe. There are a host of
+fearful creatures for them to meet and match but with your help
+they can overcome all...
+
+You will see a view of the entrance to the ruined city, in front
+of which are standing the four characters, each of which have
+their own personalities and abilities. These are:
+
+1. Daphne Pemberton-Smythe (good at finding things)
+2. Professor Roger Kite (good at using things, but rather naive
+   - may need to be resuced from time to time)
+ 3. Patrick "Legless" O'Donnell (strong, but rather clumsy)
+ 4. Frozbie the dog (good at digging up buried objects)
+
+At the top of the screen is a window showing your current mode.
+You start in Mobile Mode. To the left a coloured band indicates
+the energy status of your current character; if this falls to
+zero your character will die. At the bottom centre of the screen
+is an information window which initially reads
+
+                         ANTECHAMBER
+                          O'DONNELL
+                            SOLO
+
+This shows you that you are in the Antechamber of the tomb and
+that your current character is O'Donnell operating in Solo Mode.
+At the bottom right is a window which displays your current
+character or object. Initially O'Donnell is displayed there. At
+the bottom left is a picture of Xipe Totec, the ancient god of
+the Sinu people. Other Sinu items are displayed as a border round
+the edge of the screen.
+
+If you press the fire key whilst you are stationary in Mobile
+Mode the display in the information window changes to show the
+Selection Menu which consists of:
+
+ 1. SOLO        - control only the current character
+ 2. CHARACTER   - select a character
+ 3. INVENTORY   - display inventory of current character
+ 4. LEAD        - lead characters; they must be in the immediate
+                 vicinity to be led by the current character
+
+There are many items for you to collect and use scattered around
+the tomb. To pick up an object select Mobile Mode and walk up to
+the item you require. As you collect it the graphic window will
+flash and show a picture of the item. Each character may carry
+up to three items at a time. Not all characters can pick up all
+objects.
+
+If you wish to unlock a chest or activate a key plate with a key
+collected previously select the character who has the correct key
+and place him adjacent to the chest or plate. Select the
+appropriate key or item from the inventory part of the Selection
+Menu.
+
+Later in the game you may come across weapons which can be thrown
+at monsters to destroy them. To use such a weapon you must first
+collect it and then make sure it is highlighted in the
+information window when the inventory is selected. Return to
+Mobile Mode; if you now press fire whilst you are moving the
+weapon will be flung in the direction of travel. You will find
+that Daphne cannot throw as far as the Professor or O'Donnell.
+Pressing fire whilst moving in Mobile Mode is also the way to
+discard an ordinary object such as a key; such an object will not
+be thrown but instead simply dropped.
+
+
+SCORES RECEIVED
+"A rewarding arcade adventure." 90% (CRASH #31, August 1986)
+
+GENERAL FACTS
+
+NOTES

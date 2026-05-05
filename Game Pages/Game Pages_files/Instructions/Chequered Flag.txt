@@ -1,0 +1,193 @@
+THE SPECTRUM GAME DATABASE
+
+CHEQUERED FLAG
+
+PUBLISHER
+Psion
+
+AUTHOR
+Stephen Kelly
+Stephen Townsend (Put in the Engine)
+
+YEAR
+1984
+
+DESCRIPTION
+A formula 1 racing simulator.
+
+CONTROLS:
+Accelerator:            key "0"
+Brake:                  key "I"
+Gear change up:         key "M" or any key right of M
+Gear change down:       key "N" or any key left of N
+Steering fast left:     key "A"
+         slow left:     key "S"
+         slow right:    key "D"
+         fast right:    key "F"
+Pause:                  key "H" Press again to continue
+Abort the race:         key "H" and "T" together
+
+
+INSTRUCTIONS
+Please see the inlay card text.
+
+CHEATS
+None
+
+SEQUELS
+None
+
+INLAY CARD TEXT
+Chequered flag is a fast moving motor racing simulation in which
+you have to negotiate some of the worlds famous racing circuits.
+From behind the wheel of your thoroughbred formula 1 racing car,
+you have a dinamic view of the outside world flashing past and
+of continuously changing instuments on your dashboard display.
+Watch the various landmarsk appear over the horizon and snake
+towards you - trees, milestones, rocks and warning arrows, a lake
+etc..  There are even hills to climb and descend. Keep and eye
+on your instruments to achieve maximum performance and avoid
+skidding or overheating.
+Your car has been carefully programmed to model accurately the
+dinamics of a real racing car and you even have a choice of cars. 
+Peak power will be delivered at the appropriate revs, and drag
+and road traction are all evaluated.  In order to achieve maximum
+performance you will need to change up and down the gears to keep
+the revs at the optimum level, and if you take the corners too
+fast you will start to slip sideways. But don't worry, to make
+things easier you can opt for a car with an automatic gearbox -
+at the cost of a little power of course.
+Your dashboard display features full analogue speedometer, rev
+counter, fuel and temperature gauges along with a gear selection
+indicator - plus lap timer and lap counter. The steering wheel
+is also visible and turns in response to your commands.
+Driving a racing car is a very skilled business, and apart from
+keeping on the road and trying to establish new lap or race
+records, you will have to avoid various hazards and look after
+your car.
+
+OIL/WATER - driving over oil and water on the road will
+dramatically reduce your grip and induce a skid if you try to
+turn.
+
+OFF THE ROAD - if you put a tire off the road your ride will get
+rather bumpy and the car's performance will be impaired. Don't
+go too far off the road or you'll crash!
+
+GLASS - running over glass on the road will cause a tyre to
+burst, inducing a dramatic wobble and serious loss of
+performance. You must limp round to the pits to have a new tire
+fitted. 
+
+OVERHEATING - Constantly over-revving will cause you temperature
+to rise, resulting in a blown up engine if you dont take it easy.
+a visit to the pits will cool you down quickly. take care that
+you don't change down a gear at high revs because this is also
+likely to cause sever overheating.
+
+FUEL - If you undertake a very long race, you will have to watch
+the fuel gauge. Stopping at the pits will refuel the car. 
+
+PITSTOP - Just pull over to the side of the road by the pits and
+come to a halt. A full service will be performed, including new
+tires, fuel and some engine cooling.
+
+All that remains now is for you to select the circuit, car and
+number of laps, and there you are, on the grid waiting for the
+light to turn green....
+
+[the keys]
+
+THE CIRCUITS
+Ten circuits have been programmed into chequered flag, most of
+them modelled on world famous Grand Prix circuits. Your choice
+is between:
+
+Brands Hatch                    Monaco
+Psion Park                      Cambridge Ring
+Silverstone                     Paul Ricard (France)
+Microdrive                      Saturn sands
+Osterreichring (Austria)        Monza
+
+THE CARS
+
+FERRETI TURBO
+Immensly powerful, this turbo charged car develops 640 BHP
+between 8000-10000 revs giving it super acceleration. A very
+difficult car to handle, and only recommended to the more
+experienced racing drivers.
+
+PSION PEGASUS
+A new car feturing the latest technology and the highest
+standards of engineering. Develops 560 BHP between 5000-10000
+revs and has an exceptionally low-drag coefficient. A very fast
+car which is also reasonably easy to drive.
+
+MCFASTER SPECIAL
+This car has an automatic gearbox, making it the ideal choice for
+the more inexperienced driver. Nevertheless, it is still very
+fast and reliable, devloping 500 BHP.
+
+Psion cassettes for the Sinclair ZX Spectrum are designed to load
+over a very wide range of volume and tone settings on your tape
+recorder.  If you have any difficulty, ensure that the head and
+pinch-roller of your tape recorder are quite clean.  Cleaning
+kits for this purpose are widely available.
+
+SINCLAIR(R) & ZX Spectrum(R)
+are the Registered Trade Marks of 
+Sinclair Research Limited.
+
+BACK BLURB:
+Ever wanted to drive a Formula 1 racing car flat out round a
+circuit?  CHEQUERED FLAG places you behind the steering wheel. 
+You'll need one eye on the road and one on the dashboard as you
+steer and brake to avoid hazards and work your way through the
+gears in search of a lap record.  An exciting full colour machine
+code game.
+
+
+SCORES RECEIVED
+71% - Crash 3 (April 1984)
+NR - Your Spectrum 1 (Jan 1984)
+
+URL
+
+
+NOTES
+This game took 10 weeks to write.  The game was also released in
+a Spanish and a Timex version. There was also a ROM verison
+produced for the Spectrum interface (I can't remember if it was
+ever released).
+
+Stephen Kelly also wrote Frogs, SuperGlooper and Tempest on the
+ZX81 and did the graphical front end for Scrabble, Backgammon and
+converted Match Point onto the Spectrum for Psion.  He went on
+to be a founder member of The Bitmap Brothers.
+
+Stephen Townsend wrote a number of games for MikroGen and is
+still at PSION working on the Series 3.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,115 @@
+WIZARD'S LAIR
+-------------
+
+Bubble Bus Software
+87 High Street, Tonbridge
+Kent TN9 1RX, England
+Telephone: 0732 355962
+Telex: 95151
+
+--------------------------------------------------
+
+THE LEGEND OF THE CAVE
+
+Tis a legend told long ago
+About dark caves far down below,
+Where deep within a Wizard dwells,
+Bespaking doom and casting spells.
+If this lair thou dost uncover,
+Four pieces of lion thou must discover.
+Only then may you escape
+Past the lion that guards the gate.
+So heed this warning and beware
+Never venture into 'Wizard's Lair'.
+
+--------------------------------------------------
+
+LOADING
+
+1. Connect the EAR plug on the computer to the EAR
+plug on the cassette player. Disconnect the MIC lead.
+2. Place the cassette in the player and rewind.
+3. Type in LOAD "" then press ENTER.
+4. WIZARD'S LAIR will now automatically load. Several
+seconds later the WIZARD'S LAIR loading screen will
+appear. If it does not load successfully, adjust the
+volume control on your cassette player and repeat the
+instructions. For complete loading instructions consult
+your Spectrum manual.
+
+--------------------------------------------------
+
+PLAY
+
+Trapped in an underground cave 'Pothole' Pete stumbles
+across the WIZARD'S LAIR - a massive subterranean network
+of interconnecting caves, rooms and passages. His only
+chance of escape is to find the four pieces of the Golden
+Lion which are spread over several levels of the cave.
+There are many items and strange creatures to help and
+hinder Pete in his quest to escape.
+
+--------------------------------------------------
+
+FEATURES
+
+Caves - Rooms - Tunnels - Passages
+Secret passages - Doors - Trap doors
+
+Underground rivers - Lakes
+Waterfalls - Wells
+
+Subterraneous undergrowth
+
+Dozens of species of monsters
+inhabiting the lair
+
+Knights - Executioners
+
+Weapon throwing
+
+Gold - Food - Drink - Armour - Weapons
+Wings - Crosses - Rings - Diamonds
+Keys and spells to be collected
+
+Snakes - Tables - Gargoyles - Skulls
+Shields - Tiger rugs - Lamps - Longcase
+clocks - Dressers - Pictures
+
+Pothole Pete
+
+Wardrobe lifts - Magic lifts
+
+Seven levels of the lair
+
+Bonus lives
+
+User definable keys - Joystick and Pause
+options
+
+--------------------------------------------------
+
+Either Kempston or Sinclair 2 joystick compatible or
+user definable keys for keyboard operation.
+
+PAUSE The game may be paused during play by pressing
+the BREAK/SPACE key. Any key or joystick action will
+restart it.
+
+--------------------------------------------------
+
+Copyright (C) 1985 Bubble Bus Software
+All rights reserved
+No part of this program may be duplicated, copied,
+transmitted, hired, or reproduced in any form or by
+any means without the prior written permission of
+Bubble Bus Software.
+
+--------------------------------------------------
+
+Have you written a program - then contact Bubble Bus
+Software - GOOD rates for good programs.
+
+--------------------------------------------------
+
+Instructions typed up by Steven Kirby, November 2003

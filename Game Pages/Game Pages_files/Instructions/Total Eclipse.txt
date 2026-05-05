@@ -1,0 +1,196 @@
+                                              TOTAL
+                                             ECLIPSE
+
+                           FEATURING FREESCAPE BY MAJOR DEVELOPMENTS
+                                            SPECTRUM
+
+                                         WELCOME TO EGYPT.
+
+BACKGROUND
+     It is written that, in the heart of ancient Egypt hundreds of years ago, the High Priest
+of the day had become annoyed. His people were revolting and refused to continue the
+sacrifices to Re the God of the Sun. His anger had erupted so he set an ominous curse as
+punishment to the people.
+     A great pyramid was erected and at the topmost chamber a shrine was built for Re
+the Sun-God. The curse was set. Should anything ever block the sun's rays during daylight
+hours it would be destroyed.
+     It is now 26th October. 1930 and in just 2 hours the moon will totally eclipse the sun,
+triggering the curse of Re, causing the offending moon to explode showering the Earth with
+colossal meteorites thus upsetting the ecological balance and plunging civilisation into a
+dark age of starvation and conflict.
+
+YOUR MISSION
+     It is 8 o'clock, you have just landed your bi-plane next to the great pyramid. Your
+mission is to reach and destroy the shrine of the Sun-God Re, which is located at the apex
+of the pyramid.
+
+TREASURE
+     Collect as much as possible - you're gonna be rich! First day's target £125,000.
+
+YOUR EQUIPMENT
+A revolver           - plus an ample supply of bullets.
+Your wrist watch     - the eclipse is due just before 10 o'clock.
+A water bottle       - keep this topped up - it is very hot! It is not healthy to be without
+                       water for long periods.
+Your trusty compass  - an essential item for successful orientation.
+
+THE SCREEN DISPLAY
+Top left             - Ankhs collected.
+Top middle           - Value of treasure collected.
+Top right            - Current state of the eclipse.
+Main window          - Freescape 3D generated view of your present surroundings.
+Message display      - (Under main window). This normally indicates your current location
+                       plus the height of this chamber above sea level shown in cubits eg.
+                       24c = 24 cubits. The entrance to the shrine is at a height of 72 cubits.
+Bottom left to right - Wrist watch, water bottle, heart beat, compass.
+
+
+26th OCTOBER 1930, EGYPT...
+     After a three day journey involving most methods of transport one can think of, and a
+few one probably would not like to, I arrived at Ankh-Arah village. It was a fairly typical North
+African town, with dry dirt streets, square whitewashed houses, and a stone well in the main
+square.
+     I jumped clumsily down from my "taxi" and payed the camel driver his money. Doing a
+quick calculation in my head I came up with the same answer as when I started the journey
+- five shillings and sixpence for a six mile camel ride. Captive markets such as helpless
+English Archaeologists obviously lend themselves to exploitation by the locals ... oh, well.
+At least I had learned the knack of getting off a camel without landing on my head, and that
+probably lowered the price by sixpence or so.
+     The driver unstrapped my two cases and let them drop to the ground. Without any ado
+he spurred his camel, turned about and was gone, leaving me looking rather lost in a slowly
+settling cloud of dust.
+     I retrieved my cases and set off in searcn of somewhere to stay.
+     It took me twenty minutes to find the only inn in the village: a small sandstone building
+like all the others, with two bedrooms, a hole in the ground for a latrine and enough insect
+life to set the whole English population scratching themselves. One of these was the owner,
+who charged in similar vein to the camel driver, and grudgingly showed me my room.
+     Although the straw-stuffed bed was scratchy and lumpy, I fell asleep almost
+immediately, intending to get up early the next day in order to start my exploration of the
+gigantic pyramid, which stood in the dried up river valley a couple of miles to the south of the
+village. That should give me a few hours at least before the eclipse.
+     As I drifted off to sleep, I dreamily wished that I had brought an alarm clock.
+
+     I need not have worried. The innkeeper's cockerel awoke me far too early in the
+morning for my liking. Silently cursing it and the population of bedbugs in the mattress, I
+dressed and packed my equipment for the day. In a sudden fit of self-reflection, I noted how
+calmly I was taking it all. The End of the World is, after all, not your normal run-of-the-mill
+sort of problem. Panicking would have achieved little, so I held back the urge to do so.
+     The sun was just creeping sleepily over the horizon as I left the hotel and turned south
+along the little-used track that ran to the only airfield within twenty miles.
+     The mechanic who seemed to be the only inhabitant of the place showed me to their
+only plane. "Tiny" had called ahead and arranged everything in advance, so all I had to do
+was pay for it. Again.
+     It was a clapped-out Sopwith Camel. As I climbed into the cockpit, I reflected that, in
+Egypt, you tend to find yourself travelling by Camel most of the time. The mechanic heaved
+on the propellor several times before the plane's engine spluttered into life, and only just
+managed to jump clear of the blades as I rolled forward. I am not an experienced aviator and
+had no real idea as to the practical value of chocks.
+     Still, he seemed unharmed and gave me a friendly wave as I passed overhead.
+     At least, I think it was friendly.
+     It was still early morning by the time I reached the pyramid, and I stood in awe at its
+base, looking up at its silhouette against the sky. By squinting into the sun I could just make
+out the tiniest sliver of crescent moon, which would soon eclipse the sun.
+     All the other exploration work I had conducted had been very much smaller than this,
+and took months of painstaking effort, researching and training.
+     It was too big. I would never make it in time. The shrine that "Tiny" had identified was
+right at the apex.
+     Skirting the base of the pyramid, I saw the door into the ante-chamber ...
+
+
+LOADING                                   SPECTRUM
+                           CASSETTE - SPECTRUM 48K and SPECTRUM PLUS
+                                   LOAD "" then press ENTER
+                      CASSETTE-SPECTRUM 128K, SPECTRUM +2 and SPECTRUM +3
+                           Select 48K Mode. LOAD "" then press ENTER
+                                      DISC - SPECTRUM +3
+                            Insert disc into drive then press ENTER
+
+CONTROLS
+
+Move Forward /\ or O          Step Size Change  S                     Look Up  P
+                          SLOW, MEDIUM OR FAST
+
+   Move Back \/ or K              Angle Change  A                   Look Down  L
+                          SMALL, MEDIUM OR BIG
+
+                          FOR CURRENT STATE SEE
+                              HEIROGLYPHICS                      Face Forward  F
+   Turn Left  < or Q         ABOVE THE WATCH          USEFUL IF DISORIENTATED
+
+                                        U Turn  U
+   Turn Right > or W                                            Height Change  H
+                                                              STAND OR CROUCH
+ THESE CONTROLS ABOVE           Draw Gun /
+ ALSO MOVES SIGHTS IF          Replace Gun  Space
+     GUN IS DRAWN
+
+                                                              Interrupt Game  I
+              Rest R                                    SAVE, LOAD AND ABORT
+   HOLDING R CALMS                    Fire Gun  0                OPTIONS
+      THE HEART
+
+
+ACKNOWLEDGEMENTS
+   Total Eclipse has been designed and programmed by Major Developments.
+Chris Andrew, Ian Andrew, Sean Ellis & Paul Gregory. Cover Artwork by Steinar
+Lund. Additional Artwork & Design by Peter Carter. Additional contributions by
+Kim Carpentier, Helen Andrew, Andy Tait & Mary Moy.
+
+WARRANTY
+   If Total Eclipse fails to load, please return the actual disc or tape only, ensuring it
+is protected in the post to the address below and it will be replaced free of charge.
+This offer does not affect your Statutory rights; Incentive Software Ltd, Zephyr One,
+Calleva Park, Aldermaston, Berks, RG7 4QW
+
+NOTICE
+   ©1988 Incentive Software Ltd
+   The enclosed software product, all associated artwork and documentation is
+copyrighted. All rights are reserved by Incentive Software Limited. Unauthorised
+copying, hiring, lending, performance and broadcasting are strictly prohibited.
+FREESCAPE (TM) is a trademark of Incentive Software Limited.
+
+ALSO
+   Also from Incentive - Driller featuring Freescape,TM price £14.95 cassette, or
+£17.95 disc and Dark Side price £9.95 cassette, £14.95 disc. Available from all
+leading retailers or direct from Incentive POST FREE.
+
+
+INFORMATION
+
+      TREASURE
+      Touch treasure to collect.
+
+                                                        ANKHS
+                                                        Look out for and
+                                                        collect the Ankhs
+                                                        - the symbols of life.
+                 LOCKED                                 Use to remove
+                 CHAMBER                                some barriers on
+                 BARRIERS                               locked chambers.
+                 Touch barrier to                       Touch Ankh to
+                 open Requires                          collect it.
+                 one Ankh.
+
+                                               WATER
+                                               THOUGHS
+                                               Touch trough to
+                                               collect water.
+
+
+ There are many unsolved mysteries, and undiscovered chambers. Watch out for
+ poison darts, many previous explorers have perished by these!
+
+ HINTS
+ 1. Heart. Keep your heart beat slow. If this gets dangerously fast you may have a
+    heart attack, so it is best to REST (See Controls).
+ 2. Watch Your Feet. Look before you walk - ensure there is steady ground in front
+    of you by loading down, especially when entering a new area.
+ 3. Entry to the shrine is via the Shabaka Chamber at a height of 72 cubits (72C).
+ 4. Disorientated? Use the face forward control key for quick re-orientation.
+ 5. Leave no stone unturned! Explore everywhere, look around, under and behind
+    everything. Making a map of your travels could be helpful.
+ 6. If all else fails try shooting it.
+
+
+                                     THE ONLY WAY IS UP!
+                                         GOOD LUCK.

@@ -1,0 +1,122 @@
+==============
+Spy Hunter(TM)
+==============
+Document created by rstuart@ukonline.co.uk on 6th April 2000 for
+World of Spectrum: http://www.void.demon.nl/spectrum.html
+
+Bally Midway Spy Hunter(TM) - Official Arcade Game - Spectrum 48K
+=================================================================
+You are a world class spy driving for your life in your ultra-equipped
+turbo-charged spy mobile. The road is crawling with Enemy Agents bent on
+your destruction. They'll stop at nothing...so neither can you!
+Manoeuvre your car with all the speed and skill you can, always watching
+for the Road Lord, the Switch Blade, the Enforcer and other Enemy Agents
+as they try to stop you cold on land and water. You must destroy them before
+they destroy you!
+
+Loading
+-------
+Position the cassette in your tape recorder with the printed side upwards
+and make sure that it is rewound to the beginning. Ensure that the connection
+lead goes from the EAR socket on the recorder to the EAR socket on the
+Spectrum and that the MIC socket is disconnected.
+Type LOAD "" <ENTER> (Note there is no space between the two quotes) the "
+is obtained by pressing SYMBOL SHIFT and the P keys simultaneously. For
+further instructions consult the section on loading in your manual.
+Now press PLAY on the recorder. The screen message should appear and the game
+will load automatically. If this does not happen try adjusting the volume and
+tone controls until loading takes place.
+
+Using Your Controls
+===================
+Keyboard Control
+----------------
+User defined - see main menu.
+
+Joystick Control
+----------------
+Compatible with a variety of joystick interfaces. Without use of FIRE button,
+joystick movements are:
+UP: Forward, up the screen, accelerating to maximum speed.
+LEFT and RIGHT: Moves vehicle to left and right.
+DOWN: Down the screen, decelerating until car stops.
+
+FIRE button initiates weapons systems selection. The joystick movements below
+select and discharge particular weapons, if collected, but do not control
+vehicle direction or speed until FIRE button is released.
+
+UP/DOWN       [ Machine gun, or Rocket if it has been collected and
+UP/DOWN LEFT  [ helicopter is in close proximity of Spy Hunter car.
+UP/DOWN RIGHT [
+MIDDLE:       Waits for weapons choice
+LEFT:         Oil Slick
+RIGHT:        Smoke Screen
+
+How To Play
+===========
+Screen And Gameplay
+-------------------
+Your Spy Hunter adventure game starts as the Weapons Van rolls up from the
+bottom of the screen and pulls over to the shoulder of the road. The van
+stops and your Spy Car rolls out of the back, armed with machine guns. You
+then manoeuvre your car onto the road as the action begins.
+The road will branch and fork as you go. You must be careful as you dodge
+and chase enemy agents not to swerve off the road. If you do, you'll lose one
+of your Spy Cars. When you lose a Spy Car and you still have Spy Cars in
+reserve, a Weapons Van appears from the bottom of the screen and pulls over
+to the road shoulder to let the new Spy Car roll out of the back onto the
+road for more action. If you have no remaining Spy Cars, the game is over.
+The terrain will change as you traverse the course. Screen backgrounds will
+change colour as indication of a new terrain. As the course continues, you'll
+come to a waterway. Here your Spy Car enters a boathouse and automatically
+becomes amphibious and skims along the surface of the water. Don't think
+you're safe. The water is teeming with other Enemy Agents.
+There is also a stretch of bridges and a stretch of Icy Road in other
+screens.
+
+Weapons
+-------
+A Weapons Van appears on the road, ready to supply your Spy Car with the
+appropriate new weapon. To gain access to the new weapons, you must "dock"
+with the Weapons Van. To do this, allow the Van to pass you, then get
+behind it and drive up into it. The Van will automatically let the Spy Car
+roll out once the weapons have been transferred.
+The weapons you have available to you at any given time are displayed at the
+bottom right of the screen.
+You can also use your Spy Car to destroy some enemy agents by ramming them
+off the road for points.
+
+Enemy Agents
+------------
+The Spy Car faces various Enemy Agents along the course. Each Enemy Agent,
+except the Road Lord, has its own uniquie weaponry. They are:
+  The Road Lord (bulletproof): Must be rammed off the road by Spy Car
+  Switch Blade: Extended buzz-saw hubcaps to slach cars
+  Barrel Dumper: Dumps barrels in water ahead of Spy Boat
+  The Enforcer: Fires a shotgun
+  The Copter (Mad Bomber) Drops bombs onto Spy Car.
+  Doctor Torpedo: Fires torpedoes at Spy Boat
+Running off the road, or running into a screen boundry, at any time will also
+cost you a Spy Car.
+
+Scoring
+=======
+You will lose points if you destroy any of the innocent civilian vehicles.
+The player's score is displayed at the bottom left corner of the screen.
+Current High Score is displayed on the menu screen. Here's how the score adds
+up:
+Travelling on the water.........15 points for every 1/4 of screen
+Travelling on the road..........25 points for every 1/4 of screen
+If you destroy:
+The Road Lord..........................................150 points
+Switch Blade...........................................150 points
+The Enforcer...........................................500 points
+The Copter (Mad Bomber)................................700 points
+Barrel Dumper..........................................150 points
+Doctor Torpedo.........................................500 points
+Each time you enter or exit the boathouse, as you move from land to water and
+back again, you earn 1500 points.
+
+SEGA is manufactired and distributed in the U.K. by U.S. GOLD LTD., Unit 10,
+The Parkway Industrial Centre, Birmingham B7 4LY.
+SPY HUNTER is a trademark of Bally Midway Mfg. Co.

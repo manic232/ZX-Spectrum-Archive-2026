@@ -1,0 +1,120 @@
+Hero Quest - Return of the Witch Lord
+=====================================
+
+The Witch Lord has returned to the fallen city of Kalos 
+and now sits on the throne watching the Plaiins of Death, 
+seeing anyone who dares approach. You must make the journey
+to Kalos and search out the Witch Lord of the Empire
+could fall to his evil minions.
+
+The adventures in Return of the Witch Lord are played 
+in the same ways as the adventures in Hero Quest. There 
+is, however, one main difference. Players should note 
+that the quests are much more difficult than the first 
+quests, and so they should be played with a character 
+created and built up over the first quests.
+
+
+Return of the Witch Lord
+
+Mentor's head hung low as he entered the room. There was 
+a sadness in his voice when he spoke.
+
+Worthy companions, the Witch Lord is not dead. We must 
+act fast, for his power grow s with the passing of each 
+day. It will not be long before he has recovered from 
+his imprisonment. Once his power has fully awoken he 
+will raise again the legions of the dead. These warriors 
+are a fearsome foe. Only men of great courage, or those 
+with powerful magic can stand against them. They know 
+no fear and will fight relentlessly until they are 
+destroyed.
+
+Loretome has shown me that the Witch Lord has moved from 
+Barak Tor to the fallen city of Kalos. Long ago the city 
+was destroyed by Morcar and given to the Witch Lord to 
+rule. Beneath the ruins the Witch Lord built for himself 
+a great stronghold, for the light of day was too pure for 
+his foul creatures to endure. When he was defeated, the 
+stronghold's gates were shut and no one ventured in or 
+out. Now he has returned.
+
+As he sits upon the high throne of Kalos, the Witch Lord 
+may look upon the Plains of Death and see any who approach: 
+none can escape his gaze. The high throne is one of three 
+thrones that wait for those who would also preside over 
+the court of the Dead. If the Witch Lord is not stopped 
+soon, the other thrones will be taken: one by Skulmar 
+the Captain of the dead Host: the other by Kessandria 
+the Witch Queen. When these two sit alongside the Witch 
+Lord, it is said that the bones of all fallen warriors 
+will be summoned together under the Black Banner.
+
+Many days of travel have brought you across the Plains 
+of Death. The journey has been hard, for the Land is 
+barren, scorched by the relentless sun. Throughout your 
+journey you have felt an uneasy presence. Ever since you 
+entered the Plains, the Witch Lord has watched your 
+progress, awaiting your arrival. Finally, you have 
+reached the great ruins. The skeletal remains of a 
+once resplendent city that rose from rich and fertile 
+land now lies parched and dust-clogged.
+
+
+Loading Instructions ST/Amiga
+
+1. Load Hero Quest as instructed.
+
+2. Click on 'Load Other', making sure you insert your 
+   Hero Quest Expansion disk first.
+
+3. Follow the further on-screen loading instructions.
+
+
+C64/Spectrum/Amstrad Disk
+
+1. Load Hero Quest as instructed.
+
+2. Select 'Load Other', making sure you insert your 
+   Hero Quest Expansion disk first.
+
+3. Follow the on-screen loading instructions.
+
+
+Spectrum/Amstrad/C64 Cassette
+
+1. Load Hero Quest as instructed.
+
+2. Select 'Load Other'.
+
+3. Follow the on-screen loading instructions.
+
+All other commands are implemented in exatcly the same way 
+as the original Hero Quest computer game.
+
+
+Any Problems?
+
+If you have any problems with Hero Quest, you can telephone 
+the Gremlin helpline on 0742 753 423 between the hours of 
+2.00 pm and 4.00 pm GMT on any weekday. If the software 
+proves to be faulty, then please return it to the place 
+where it was purchased, or to Gremlin Graphics at Carver 
+House, 2-4 Carver Street, Sheffield S1 4FS.
+
+
+Copyright Notice
+
+© Gremlin Graphics 1991
+
+This manual and all the information contained on the floppy 
+disks are copyrighted by Gremlin Graphics Limited. The owner 
+of this product is entitled to use the product for his or 
+her own personal use only. No one may transfer, give or 
+sell any part of the manual, or the information on the 
+disk without the prior permission of Gremlin Graphics 
+Software Limited. Any person or persons reproducing any 
+part of the program, in any media, for any reason, shall 
+be guilty of copyright violation and subject to civil 
+liability at the discretion of the copyright holder.
+

@@ -1,0 +1,668 @@
+GAUNTLET 3 - THE FINAL QUEST
+============================
+
+First there was Gauntlet, a dangerous adventure against powerful adversaries. Then 
+there was Gauntlet II, the challenging expedition to cleanse a mighty dungeon of 
+its terrible inhabitants. Now comes Gauntlet 3 - The Final Quest.
+
+Enter the mystical world of Capra, the land of eight kingdoms and battle against 
+the forces of evil unleashed by a demon king. Each kingdom must be freed from the 
+legions of darkness before you can confront the demon king himself in a battle 
+where there can only be ONE survivor....
+
+The whole island of Capra is emperilled by the powerful Lord of Decay, Capricorn, 
+who threatens to unleash the most awesome war. Only the bravest adventurers can 
+halt him... if they're lucky.
+
+
+
+THE FINAL QUEST
+
+The ancient World of Gauntlet has many mysteries and dangers. Amidst its storm-
+tossed oceans, legends speak of one land which surpasses all others - Capra, home 
+of the Eight Kingdoms, Island of Magnus the Wizard-Peacekeeper.
+
+Capra has seen many wars in its history, fought between the denizens of its lands,
+mountains and forests. Death and misery wrought their harvests, and there appeared 
+no end in sight to the suffering and agony. Then, seyeral centuries ago, a Wizard 
+came, to counsel the rulers of those Kingdoms which remained, and bring them to 
+peace. When all disputes were solved, and the borders redrawn, the Wizard said 
+thus:
+
+"I have brought peace, and peace there shall remain. From each of the remaining 
+Kingdoms, I shall take a small portion, and thereof make my own Kingdom, the 
+Kingdom of Magic. I shall build Gates there, between this world and the dark 
+dimensions which would devour it. Then let this be my Law, the Law of Magnus 
+the Wizard-Eternal, the Wizard-Peacekeeper. Should there be war ever again 
+between the Kingdoms of this land, then shall those Gates be opened, and all 
+the foul creatures of darkness let forth. This be the Final Peace; for if it is 
+broken, all Capra will be at the mercy of the devourers."
+
+The Kingdoms' rulers had little choice but to accept this truce, and so it was 
+agreed - seven Kingdoms should become eight. In the wake of this agreement, peace 
+came at last to Capra. It prospered, and creatures who were once enemies became 
+friends. For three centuries, all was well. Then the Velcrons came.
+
+Legends spoke of sleek war-galleys that skimmed the boiling oceans, and others of 
+vast caves that broke open on the surface of the land. Whatever their origin, the 
+Velcrons were the servants of those grim entities who chafed behind the Gates. 
+Their purpose was singular, to bring the Eight Kingdoms to mad war once more, and 
+cause all to be extinguished.
+
+Insidious and lore-wise, the Velcrons sowed seeds of doubt and mistrust in the 
+peoples of Capra. They brought the spectre of violent death back to the land, and 
+gave false counsel to Kings and Nobles. Finally, they achieved their aim. For one 
+brief week - before fear and reason combined cried hold - the armies of the Tree 
+Kingdom marched against those of the Swamp Lands. Quickly, the other Kings rushed 
+to establish peace once more, casting anxious eyes towards the Magic Kingdom, 
+fearing the worst. When, for a while, there was no sign of the horrors foretold, 
+all gave thanks to the Gods for their deliverance.
+
+But, as the months went by, a curse descended on the land. The rivers which flowed 
+out from the Magic Kingdom became foul, polluted and lifeless. New courses evolved, 
+spreading more of the killing ooze. And the wind, wherever it blew, carried the 
+stench of decay and death.
+
+Those brave enough to venture within the Magic Kingdom - at least those few who 
+returned - spoke of a new King there, a being whose flesh was studded with the 
+features of those he had devoured; a being of corruption. He was known as 
+Capricorn, and - somehow - he had made Magnus his captive, and taken his throne. 
+Wise men deliberated and carne to their conclusions. During the brief hours of 
+madness that had almost brought two Kingdoms to war, this being had passed the 
+Gates. Capricorn was the harbinger of doom.
+
+Thus Capra encompassed its ruin. Crops failed. Pestilence ensued. The poor were 
+struck down by Disease and Plague. Worse, though, the peoples of the Eight 
+Kingdoms began to whisper hatred against each other once more, and plots were 
+hatched for war!
+
+So the call has come to the bravest champions of all Capra. Eight are now gathered
+for this, the greatest challenge in the Gauntlet saga. Will they prevail against 
+Capricorn, and drive back his hordes beyond the Gates? Can they prevail, even 
+though the very food they eat may be poisoned, even though there are few they dare
+trust? For the sake of all Capra, we must hope so...
+
+
+
+THE HEROES
+
+THOR, THE WARRIOR
+
+Of all men, none are mightier than Thor, the Warrior. He hails from the Volcanic 
+Kingdom, a fierce, inhospitable place, which moulds great fighting-men. For a 
+decade, his mighty battle-axe has struck aside the enemies of Capra, and pursued 
+those who would fracture the fragile peace the island enjoys. Possessed of 
+thunderous endurance and a strength matched by none, Thor's grim battle-charge 
+strikes fear into all! 
+
+ARMOUR: 	Tough Skin (Excellent) 
+SHOT POWER: 	Throwing Axe (Good) 
+HAND-TO-HAND:	Battle Axe (Excellent) 
+MAGIC:		Poor 
+SHOT SPEED:	Poor
+
+
+THYRA, THE VALKYRIE
+
+The Valkyries' Kingdom is the Lost City, a drowned land in which only those 
+possessed of great strength and magical power survive. Thyra is one such. Many 
+years ago, she left her home to go forth in search of adventure and treasure. Of 
+all the Valkyries there have ever been, none has been more vaunted than copper-
+skinned Thyra; her gleaming sword and rune-carved shield have carved a path 
+throughout Capra. She is a legend, even among her own people.
+
+ARMOUR:		Shield (Excellent)
+SHOT POWER: 	Dagger (Poor) 
+HAND-TO-HAND:	Sivord (Good) 
+MAGIC:		Poor
+SHOT SPEED: 	Good
+
+
+MERLIN THE WIZARD
+
+Few have studied under Magnus, and of them none was a greater adept than Merlin. 
+During his time in the Magic Kingdom, he learned almost everything his Master 
+could teach him. He also came to understand that magic could not master every 
+situation, and left his studies at the last to travel the world in search of 
+other secrets. Now, added to his arcane knowledge are great fighting skills and 
+vast courage.
+
+ARMOUR: 	None (Poor)
+SHOT POWER: 	Spells (Poor) 
+HAND-TO-HAND: 	Dagger (Poor) 
+MAGIC: 		Excellent 
+SHOT SPEED: 	Excellent
+
+
+QUESTOR THE ELF
+
+Once the elves were a race apart, living in what is now the Forest Kingdom and 
+along the shores of the Sea Kingdom. But the ancient wars destroyed this proud 
+people, and scattered them throughout Capra. Slowly, their isolated villages 
+died off, and by the time peace came, they were already beyond all hope. Questor 
+became the last of his people a decade ago, when he burned his home in the Forest,
+along with the bodies of his family and friends, killed in ambush.
+
+ARMOUR: 	Leather (Good)
+SHOT POWER: 	Bow (Poor) 
+HAND-TO-HAND: 	Dagger (Poor) 
+MAGIC: 		Poor 
+SHOT SPEED: 	Excellent
+
+
+PETRAS THE ROCKMAN
+
+As the first men were said to be made from clay, so came to Capra a race of living
+rock, who made their home in mountain eyries, and lived their millenia-long lives 
+in peace. But during the wars that shook the island, even their remote homes were 
+not safe, and they were forced to defend themselves. Now, their warriors are among
+the most feared of all, and Petras is first among them, a giant of living granite.
+
+ARMOUR: 	Hard Skin (Excellent) 
+SHOT POWER: 	Rocks (Good) 
+HAND-TO-HAND: 	Stone Club (Excellent) 
+MAG1C: 		Poor 
+SHOT SPEED: 	Poor
+
+
+DRACOLIS THE LIZARD MAN
+
+Once, Dracolis was a thief and renegade, despised for his sly ways, as are many 
+of his Swamp-dwelling people. After escaping prison, Dracolis turned over a new 
+leaf, and has been a friend to the poor ever since. Some say he can afford to be, 
+since he always seems to know where there is treasure to be found, and his 
+greatest acts of bravery have always been followed by a healthy increase in his 
+bank balance...
+
+ARMOUR: 	Chain (Good)
+SHOT POWER: 	Fire (Good) 
+HAND-TO-HAND: 	Dagger (Poor) 
+MAGIC: 		Poor 
+SHOT SPEED: 	Moderate
+
+
+BLIZZARD THE ICE MAN
+
+What motivates this redoubtable warrior, who can say? His crystalline face betrays 
+no emotion, nor does he ever show fear or doubt. Instead, he is always in the 
+forefront of the fight against evil, a warrior dedicated to destroying those who 
+would break Magnus Peace. His greatest weapon is the long-knife he carries 
+permanently, the slightest touch of which chills an enemy to the bone...
+
+ARMOUR: 	Ice-hard Skin (Excellent)
+SHOT POWER:	Frost (Poor) 
+HAND-TO-HAND:	Dagger (Poor) 
+MAGIC:		Poor 
+SHOT SPEED:	Excellent
+
+
+NEPTUNE THE MERMAN
+
+The Mermen of the Sea Kingdom, a proud and haughty people were involved in many 
+of the wars before Magnus came. Since the Peace, however, they have recognised 
+their faults. It is now part of their tradition that each Prince of the Blood 
+should journey among the other lands, to understand their peoples, and bring them 
+aid where he can. Neptune, the greatest of all Princes, made such a journey, and 
+never returned from it. To him, the best way he can serve his people is to destroy their
+enemies far from the wind-swept waters of their homeland.
+
+ARMOUR: 	Robes (Poor)
+SHOT POWER: 	Spell (Excellent) 
+HAND-TO-HAND: 	Trident (Poor) 
+MAGIC: 		Poor 
+SHOT SPEED:	Good
+
+
+
+KINGDOMS
+
+
+THE THREE KINGDOM
+
+The Tree Kingdom was founded by the tree-dwellers of the great forests. These 
+creatures are normally peaceful, keeping small herd animals in pens on the ground, 
+and gathering fruit and nuts, but the contagion from the Magic Kingdom has spread 
+among them. Even some of the plants have now taken on a sinister new form, and 
+the Emerald Crawlers which infest the land are deadly.
+
+The center of Capricorn's malice in this land is a vast graveyard, within which 
+there is an ancient temple. Somewhere within lies the means to defeat Capricorns' 
+minions in the forests, if only it can be found...
+
+
+THE MOUNTAIN KINGDOM
+
+High above a yawning abyss, fragile pathways and swaying bridges wind their way to 
+the heart of the Mountain Kingdom. There, it is said, lies a great treasure. For 
+many who have walked these paths before, that treasure was the passport to death. 
+For the Heroes of Gauntlet, it leads to the defeat of Capricorn in this part of 
+Capra.
+
+But it is a dangerous road. Stirred by necromancers and the accursed Velcron, 
+ghosts, zombies will rise up to attack. This is a land to be hurried through, for 
+those who stay for but a little while remain forever.
+
+
+THE SWAMP KINGDOM
+
+The Swamp Kingdom is an inhospitable region. Only those who know all its intricate 
+paths and secret ways can hope to survive long, for the marshes are deadly, and 
+inhabited with foul, pestilence-infected creatures. Worms, Emerald Crawlers, 
+Plague Dogs and others prey on those who stray from the islands.
+
+Deep within the Swamp is a Palace, wherein the people of this dank place have 
+stored their greatest treasures. Among them, it is said, is the third part of the 
+key to Capricorn's defeat. However, there is also much danger here, particularly 
+where Death stalks the corridors.
+
+
+THE VOLCANIC KINGDOM
+
+Of all the terrors Capricorn has unleashed upon Capra, the greatest of all are 
+the Fire Dragons. In this land above all they have made their home, and bar the 
+way to success.
+
+The Volcanic Kingdom is a violent place, where the magma from the world's core 
+erupts onto the face of the planet, killing everything it touches. The Lizard Men 
+who dwell here made their living by hunting for precious stones among the cooling 
+magma, and riches are there for the taking. But the Fire Dragons covet the 
+treasures of the Volcanic Kingdom for themselves, and will not easily part with it.
+
+
+THE SEA KINGDOM
+
+This Kingdom's treacherous coasts and sand-bars have brought many ships to grief. 
+Wrecks dominate the landscape. Equally tragic is the sight of the great ruined 
+city of the Mermen, who ruled the seas about Capra during the Age of Wars, but 
+have suffered greatly at the hands of the Velcrons.
+
+Throughout their realm, the influence of Capricorn's minions can be felt. Beneath 
+the sand there lurks the mutated sea-weed known as Quickvine. Jellyfish stalk 
+along the beaches, and Sharkmen, the most deadly of all the creatures of the deep,
+have brought havoc to the land.
+
+
+THE LOST CITY
+
+The Lost City stands abandoned and shunned by all. Only fool-hardy treasure 
+seekers have dared to enter, and few of them have returned. Those that did spoke 
+of its guardian statues, the many traps and snares for the unwary, and its new 
+citizens - Rock Vines, Sorcerers, Plague Dogs and Mummies.
+
+Once this City was a shining jewel, and its men of science and learning ruled 
+supreme. That is why it was destroyed. Surely the Lost City will provide some part 
+of what is needed for the final victory.
+
+
+THE ICE KINGDOM
+
+The Bleak steppes and snow-fields of the Ice Kingdom are treacherous and deadly. 
+The inhabitants of these wastelands are equally harmful. Emerald Crawlers scuttle 
+from rock to rock, looking for food, and fierce Dragons use their powerful 
+freezing-breath to trap food. Great sorcerers live here too, seeking the isolation 
+they need to prepare their grim necromancies and wizardry.
+
+The conditions are always cold and difficult, but the hazards of snow, ice and 
+sudden ice-slides can make even simple travel a nightmare. Whatever clue to the 
+defeat of Capricorn lies here will be dearly earned.
+
+
+THE MAGIC KINGDOM
+
+The Kingdom of Magnus, the Wizard-Eternal, is strange indeed. Its people live in 
+gingerbread cottages, and yellow brick roads lead to an endless gallery of 
+entertainments. Finally, he built a fantastic castle, both as monument to the 
+Peace, and as his home.
+
+There he placed the great bar to the dark dimensions, and sealed it with a bronze 
+key and a promise. Should there ever be war on Capra again, the bar would be 
+removed, and all the evil beyond would spill out to consume Capra.
+
+Somehow, this dreadful fate has come to pass, and Capricorn now sits upon Magnus' 
+throne, protected by Sorcerers, Zombies, Worms, Sharkmen and other evils, 
+The Final Quest ends here, in either glorious success, or shattering defeat...
+
+
+
+THE MONSTERS
+
+GHOSTS
+
+Wherever the Gauntlet adventurers roam, they will find the haunts of the undead. 
+Ghosts will rise from their graves, seeking vengeance on anything that still 
+lives! Even though they disappear after draining energy from their victims, Ghosts 
+are best avoided, or shot at from a distance.
+
+
+POLTERGEISTS
+
+Minor spirits have also been animated by the presence of the Lord of Decay. 
+Poltergeists have many ways of attacking the living, but it is part of their 
+wicked sense of humour that they enjoy inhabiting large boots, and driving them 
+to kick out at their victims...
+
+
+EMERALD CRAWLERS
+
+These beasts once lived only in the forests of the Tree Kingdom. Now they hunger 
+for flesh, and can be found in many other places as well. The smaller ones are 
+bad enough, having a dangerous bite. The larger ones, on the other hand, walk 
+virtually upright, and have been given armour and weapons by the Velcrons. They 
+are slightly more intelligent, and have proved their courage in battle. Only one 
+thing still shows their close relationship with the smaller Crawlers - their 
+powerful mandibles, with which they strip through the armour of fallen opponents, 
+to feast on the flesh beneath.
+
+
+SORCERERS
+
+Legions of Sorcerers have dedicated themselves to serve the Lord of Decay, and 
+they have brought much misery to Capra's innocent peoples. Their fire-spells are 
+deadly, even to a well-armoured opponent. Apprentice sorcerers wear a hooded cowl, 
+and learn the art of walking through walls. Once they have mastered this art, they 
+become Mages, and wear a pointed hat in recognition of their rank. Sorcerer-Mages 
+can teleport, seeming to appear and disappear at will, firing their bolts of 
+plasma and then vanishing again. When they attack en masse, it is difficult to be 
+sure how many there are as they shift from place to place faster than a man can 
+blink.
+
+
+KILLER PLANTS
+
+Throughout Capra, there are huge plants which feed on unwary travellers. The 
+Gauntlet Heroes are high on their list of favorite foods! The Venus Man Trap waits 
+for its victim to come close enough, then strikes with great speed. Several types 
+of deadly Vines can actually move across - or through the ground, and coil around 
+their prey. Quickvine actually kills its victims by pulling them under the sand of 
+the Sea Kingdom and drowns them there. Ice Vines, on the other hand, strike by 
+suddenly thrusting icicle-like fronds through the ground when they sense the warm 
+presence of prey. Other types of Vine are equally deadly...
+
+
+ZOMBIES
+
+Capricorn has awakened many re-animated bodies to plague Capra. Zombies are 
+particularly dangerous since they feel no pain, and have to be completely 
+destroyed before they are defeated. Even more grisly are those who never rise 
+from the ground, but who reach up with clawing hands, trying to drag the living 
+into the grave... There are many Zombies in the Mountain and Swamp Kingdoms, and 
+in the Magic Kingdom, close to the source of Capricorn's power.
+
+In the Mountain Kingdom, Capricorn has also raised the most villainous criminals 
+of bygone ages, who return to this dimension filled with a deep hatred for all 
+living things. The tonch of death remains on all Mummies, and their talons cause 
+terrible wounds.
+
+
+MUD MONSTERS
+
+Foul creatures have risen up from the earth of Capra, made of mud or snow. What 
+motivates such beings, what drives them to attack creatures of normal flesh and 
+blood, no-one knows. Nothing dissuaded them from their purpose, and they can take 
+tremendous punishment before they finally crumble.
+
+They attack in a bizarre fashion by firing off small, living parts of themselves, 
+which attack the victim and feed on his flesh until they are gorged, and return 
+to the host body.
+
+
+DRAGONS
+
+When the first humans came to Capra, the Dragons were hunted into near-extinction. 
+Only two types remain. Fiery Dragons live amidst the firé and magma of the 
+Volcanic Kingdom, and their fiery breath can turn a Hero to ashes in seconds. 
+The Ice Dragons dwell in the remotest parts of the Kingdom of Ice, and their 
+breath is so cold it turns flesh and blood into fragile crystal. In the earlier 
+Gauntlet Quests, Dragons were often found blocking vital passages, their awesome 
+power capable of slaying the greatest Hero in a single moment. Now, in the open 
+air, they are even more fearsome. Who can stand against such beasts?
+
+
+WORMS
+
+Spawned in the depths of the world, Worms are hideous creatures with a ravenous 
+appetite. Worms relish the prospect of a complete snack on two legs, and many men 
+have turned to jelly when faced with such a grim death.
+
+And, if the ordinary Worm evokes such fear, imagine the terrifying aspect of the 
+semi-liquid Lava Worm, as much magma as flesh. Their hot clutches are something 
+no sane man would ever wish to fall into...
+
+
+BARBARIANS
+
+Armed with crude spears, these poor wretches have been possessed by Capricorn. 
+Nothing human remains within them, and they fight like automatons, capable only 
+of killing or being killed.
+
+
+CRABS
+
+The Giant Crab has been given a new lease of Ufe by the pollution Capricorn has 
+unleashed into the seas around Capra. Bolder now than ever before, they have been 
+sighted further and further inshore, scuttling in to attack with their deadly 
+claws.
+
+
+JELLYFISH
+
+Another sea creature which has become more dangerous since the advent of Capricorn 
+is the Jellyfish. It's deadly sting has always been feared - it can pierce even 
+the toughest armour. However, Jellyfish have never existed in such numbers before 
+now, and have never been so hateful towards mankind.
+
+
+PLAGUE DOGS
+
+These are huge mastiffs, with matted, patchy green fur, and they carry a host of 
+vile contagions. Immune to all disease themselves, they are still victim to a 
+particular madness, and become frenzied with blood-lust when they attack.
+
+
+PIXIES
+
+Pixies have always enjoyed taunting the inhabitants of the Eight Kingdoms, being 
+keenly fond of tricks and senseless pranks. Small and fast-moving, Pixies are hard 
+to defeat. They avoid direct combat, preferring to ambush their victims. Woe 
+betide those who fall helpless into their hands, for the Pixie takes the greatest 
+delight in torturing their captives before they find release in death...
+
+
+SHARKMEN
+
+Sharkmen are the cruellest, most senseless killers in the world. They fought many 
+wars until they were finally defeated, and the Sharkmen have not forgotten the 
+shame of that defeat. Capricorn has offered them the chance to be great once 
+again. Some serve him directly in the Magic Kingdom, others have made their way 
+to the Sea Kingdom, to renew the struggle.
+
+They know the art of many weapons, but the true killing-pleasure for a Sharkman 
+comes only when he can bring those endless rows of razor-sharp teeth into action. 
+The Blood Kiss of a Sharkman is something few survive.
+
+
+DEATH
+
+The Velcrons are a race accursed. Their meddlings in best-forgotten arcane rituals 
+have brought misery to millions, but - in many ways - they themselves suffered the 
+worst. Once they were tall warriors, but their experiments with dark magic 
+extinguished their strength. Then, one final mad experiment taught them how to 
+suck the very life-force from other beings, and how to teleport to the dark 
+dimensions instantly, to rest and feed on that which they had stolen.
+
+The Velcrons are the greatest of all Capricorn's allies. They are immune to all 
+physical challenge - only magic can dissolve them. Their touch is Death and by 
+that name they are also known. It is only to be expected that Capricorn will have 
+many Velcrons guarding the most precious of his possessions.
+
+
+
+THE TREASURES
+
+Though the Final Quest is filled with dangers, some aid can be found along the 
+way. Chiefly, of course, the Heroes must have Food to survive, but the path to 
+victory is made all the easier if they can find the magical aids which exist in 
+profusion on Capra.
+
+Capran magic depends for its potency on distilled essence from the dark dimensions. 
+Properly concocted, this essence loses its evil power, and becomes a tool of a 
+purer magic.
+
+Alchemists brew the essence into potions, and these grant the power to castgreat 
+magics. Of course, one trained in the lore of magic will make better use of this 
+power than one untrained. The potion can either be drunk, for maximum effect, or 
+just destroyed, so that the distilled essence acts immediately on whatever 
+creatures are within range.
+
+Capricorn's mad genius has found a way to corrupt some potions, so that they 
+disable anyone who drinks them. On the other hand, there are potions which grant 
+greater powers than normal. By combining arcane essence with other ingredients, 
+such as dragons-wing, alchemists have created Potions which improve a Hero's 
+fighting powers. A Potion concocted from essence and eagle's feathers, for 
+example, grants the user lightning-fast Shot Speed, while another, distilled from 
+essence, lion's blood and turtle shells, can make even a weak fighting man into 
+a mighty warrior.
+
+Other potions grant the power to manipulate even greater sums of magical energy, 
+or to fire massive missiles at the foe... These special Potions grant their powers 
+for only a little while, but they are an important aid in the fight against 
+Capricorn, whose agents will seek to destroy them when they can.
+
+Some other powerful magical devices can be found, although the lore about them is 
+not well-known. Once, magical items of great power were common-place, but they 
+have dwindled over the years. A few may remain to be discovered during the Quest. 
+The most likely to be found are Amulets, inscribed with powerful Runes, carved 
+with a stylus dipped in essence. These Amulets can grant great power - such as 
+Invisibility. Handle them with care!
+
+Of course, no Gauntlet Hero could survive long without regular meals. Endless 
+conflict with the forces of evil can wear down even the strongest frame, and then 
+only a flask of cider or a hunk of meat can revive the mighty. Capra's wealth 
+ensures that there is always plenty of food to revitalise the Heroes. However, it 
+can very easily be destroyed in a fight. Also, Capricorn has added a new and 
+sinister weapon to the armory of those who oppose the Heroes... some of the most 
+enticing meals have been poisoned...
+
+Finally, one thing guaranteed to generate interest is the sight of a Treasure 
+Chest. As they have looted Capra, much of this treasure has found its way into 
+the hands of the Monsters. It is the solemn duty of all Heroes to liberate as 
+much of it as they can.
+
+Many chests are left wide open, and their wealth is free to take. Others are 
+locked, and require the same Keys that open so much else on the island. A locked 
+chest can contain Food, Potions, Treasure... and a great many other things which 
+will be of value. They can also conceal cunning traps - so be warned. The Velcrons 
+themselves take particular delight in hiding within some chests...
+
+This then, is the tale of The Final Quest. At the end of the road, will peace have 
+returned to Capra, or will the triumph of Capricorn be complete? The answer lies 
+squarely in your hands, O Hero. Press FIRE, and the challenge will begin with the 
+word "Welcome..."
+
+
+
+GETTING STARTED 
+
+CBM 64/128 CASSETTE
+Press SHIFT and RUN/STOP keys together. Press PLAY on the cassette recorder and 
+follow screen prompts.
+
+CBM 64/128 DISK
+Type LOAD"*",8,1 and press RETURN. The game will load and run automatically, 
+follow screen prompts.
+
+SPECTRUM 128K
+Place Cassette/Disk in Computer, switch on then press ENTER.
+
+AMSTRAD/SCHNEIDER CPC CASSETTE
+Press the CTRL and small ENTER keys together. Press PLAY on the cassette recorder.
+
+AMSTRAD/SCHNEIDER CPC DISK
+Type RUN"DISK and press ENTER. The game will load and run automatically.
+
+AMIGA/ATARI ST
+Insert disk and turn on computer. The game will now load and run automatically.
+
+COPY PROTECTION (ATARI ST & AMIGA ONEY)
+When you first start playing and sometimes at the beginning of a section of the 
+game, you will see a picture of the code wheel which is included within the 
+packaging of this game.
+
+On-screen you will see two digits in the range 0-9, A-Z followed by a number in 
+the range 1-18. It will look something like this:
+
+				X - G - 15
+
+Locate the first digit (in this case X) on the outer ring of the wheel. Now move 
+the inner wheel so that the second digit (in this case G) is aligned under the 
+first. Now look on the surface of the inner wheel for a small window labelled 
+with the third number in the sequence (in this case 15). Inside the window you 
+will see a single digit in the range 0-9, A-Z which vqu should type on the 
+keyboard of your computer. Be aware that you may be required to input more than 
+one digit.
+
+
+
+CONTROLS
+
+
+ST/AMIGA
+
+	From credits screen...
+
+		[Fl]		-	Select one player
+		[F2]		-	Select two players
+		Change character using joystick then press fire when ready.
+
+	During game...
+
+		P		-	Pause game
+		[HELP]		-	Repeat last message
+		Left [SHIFT] 	-	Player one magic
+		Right [SHIFT] 	-	Player two magic
+		[ESC]		-	Abortgame
+		Joystick 1 	-	Player one
+		Joystick 0 	-	Player two
+
+
+CBM 64
+
+	From credits screen...
+
+		Fire button 1 	-	select one player
+		Fire button 0 	-	select two players
+		Change character using joystick then press fire when ready.
+
+	During game...
+
+		[SPACE]		-	Pause game
+		[RUN/STOP] 	-	Repeat last message
+		Left [SHIFT] 	-	Player one magic
+		Right [SHIFT] 	-	Player two magic
+		[Fl]		-	Abort game (In pause mode)
+		[F3]		-	Sound On/Off (In pause mode)
+		Joystick 1 	-	Player one
+		Joystick 0	-	Player two
+
+
+SPECTRUM
+
+	All controls redefinable except the following... 
+		[BREAK] 	-	Pause
+		[Q]		-	Quit (In pause mode)
+		[ENTER] 	- 	Continue (In pause mode)
+
+
+AMSTRAD
+
+	All controls redefinable except the following... 
+		[ESC]		-	Pause
+		[Q]		-	Quit (In pause mode)
+		[ENTER] 	- 	Continue (In pause mode) 
+
+
+
+GAUNTLET III © 1991 TENGEN INC. All rights reserved. * Atari Games Corporation. 
+Published by U.S. Gold Ltd, Units 2/3 Holford Way, Holford, Birmingham B6 7AX. 
+Tel: 021 625 3366. Copyright subsists on this program. Unauthorised copying, 
+lending or resale by any means strictly prohibited.

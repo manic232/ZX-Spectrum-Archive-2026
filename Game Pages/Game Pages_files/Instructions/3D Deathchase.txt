@@ -1,0 +1,34 @@
+DEATHCHASE by M J Estcourt
+
+To load press 'J' key and, holding down red symbol shift, press 'P' key 
+twice. Screen should show LOAD "". Press ENTER key and start tape - let
+tape run to end.
+
+CONTROLS: When loaded, press '1' for keyboard control. The keys for play
+are then '1' - steer left; '0' - steer right; '8' - decelerate; '9' -
+accelerate; any key on bottom row - fire photon bolt.
+Kempston joystick control is selected by pressing '2' instead of '1' when
+loaded.
+
+THE STORY SO FAR
+
+It is 2501, 100 years after the Great War. The North American continent is
+ruled by mighty warlords in constant conflict over forest territory. You
+are one of the elite mercenaries, Riders of the Big Bikes. It's a quick
+way to get rich - and a quicker way to die. You patrol your forest day and
+night, chasing enemy Riders and destroying them with your guided photon 
+bolts for $1000 a time. You may find helicopters and tanks too - your 
+masters reward you particularly well if you destroy these.
+
+You can only fire at the other Riders when at top speed and cannot hit 
+them unless you are close enough - your range indicator will flash when 
+you are in range and your purse increases as long as your are in such
+hot pursuit.
+
+It is said that the greatest reward is kept for the Rider who can 
+penetrate 8 sectors - you will need every ounce of skill to find out...
+
+
+This program is protected by copyright. Unauthorised copying, lending or
+hiring is prohibited.
+Micromega, 230-236 Lavender Hill, London SW11 1LE 

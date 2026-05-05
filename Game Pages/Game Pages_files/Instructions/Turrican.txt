@@ -1,0 +1,216 @@
+Turrican
+--------
+
+PROLOGUE
+
+A story of times long gone by, tells us of the three-headed Morgul,
+who lives a secluded life in his kingdom. This Morgul is the cause of
+all the fears and nightmares of mankind. It is furthermore said, that
+in ancient times he was banished to an unknown dimension by the hero
+Devolon. Fear and sleepless nights disappeared out of the people's
+lives.
+
+For some time now people have again been tormented by nightmares and
+suffer from a serious state of dread and fear. Hardly anybody dares to
+set a foot onto the streets at night and a dreadful fear that Morgul
+has returned to his kingdom is alive in the people's minds again. As
+the only man on earth whose courage has not yet deserved him, you are
+sent off, once again to free human kind from its burdon of fear. You
+have been armed with the latest weapons and technical equipment for
+this mission. Find Morgul in his kingdom, and destroy him for once and
+for all.
+
+
+THE GAME
+
+In Turrican you will guide your hero through five different worlds, in
+which he will be confronted by various perils. Three of these worlds
+extend over three levels, the remaining two worlds over two levels.
+Ever changing enemies, will constantly try to destroy you. You will
+have to use your weapons skilfully in order to survive the varied
+levels. To aid you in battle, you may gather up weapons and other
+extras on your way, e.g. forceshields and extra lives.
+
+Examine every level closely you will find new surprises and useful
+items everywhere. 
+
+[This is referring to the invisible 'bonus squares' scattered around
+which spew lots of goodies when jumped through (they're always in the
+air, I think). Go left and up from the starting position on the very
+first level to find one, and a bonus life.]
+
+
+HOW TO WORK THE GAME
+
+General information: The game is played with joystick and keys. This
+is explained below.
+
+Moving
+
+[The keys for the 'joystick' are Q, A, O, P, Space.]
+
+Joystick up:
+Player jumps. If he is the gyroscope, he will transform back to normal
+again.
+
+Joystick down:
+Player ducks away, e.g. from enemies.
+
+Joystick down and press Enter:
+The player will transform into a gyroscope. While in this state the
+player is invincible [but not to falling down pits!] and will destroy
+enemies on touch. The gyroscope spins automatically, and can only be
+directed to move left or right with the joystick. This shape also
+allows you to pass through narrow corridors. The player may transform
+into a gyroscope 3 times in every life.
+
+Joystick left/right
+Moves player left/right.
+
+Fire
+
+Pressing fire button [space] briefly:
+Player fires. If you have already collected the multiple shot or the
+laser, the according weapon will be used. The multiple shot can be
+extended in up to two degrees by collecting the right symbols.
+
+In the first degree (basic equipment) the player fires 9 horizontal
+shots. [I don't quite understand this - you only fire one. Maybe they
+mean nine onscreen at once?]
+
+In the second degree 3 savlos are fired simultaneously: 3 shots in a
+30-degree angle upwards, 3 shots horizontally and 3 shots in a
+30-degree angle downwards.
+
+The third degree resembles the second, except that the angle changes
+to 45 degrees.
+
+The laser fires horizontally, and can be extended by gathering up the
+corresponding symbols. Its length extends from an eighth to half of
+the width of the screen. The laser has a high penetration rate, making
+it very effective when fighting against several enemies
+simultaneously.
+
+
+Activate a mine
+
+Joystick down while holding the firebutton:
+
+The player activates a mine. The mine is placed on the ground and
+explodes shortly afterwards. Various enemies walking the ground can be
+dealt with in this manner.
+
+
+Activate a flash
+
+Holding firebutton:
+
+The player can activate a flash of lightning [hmmm... looks more like
+a directable beam weapon of some kind, actually] and may direct it (as
+long as the firebutton is held), by moving the joystick left
+(lightning rotates anti-clockwise) or right (lightning rotates
+clockwise). The lightning can take on different lengths. At the
+begining of the game it stretches over half the width of the screen.
+By gathering up extras it can be extended to stretch over the whole
+width of the screen.
+
+
+Pressing ENTER:
+
+Activates two energy lines, moving right and left at the full height
+of the screen. All enemies in range will be destroyed. However, if an
+obstacle bars the way then the line will be stopped.
+
+
+Pressing CAPS SHIFT: [shift on xzx]
+
+The player throws a grenade. Hitting an obstacle or an end-level-
+monster has the effect of a startbomb, killing every enemy on the
+screen. Against other enemies it works like a shot with high
+penetration.
+
+Pressing H:
+
+Pauses game. Press H again to continue.
+
+[There's also some combination of keys which quit the game. The manual
+doesn't mention it, and I can't seem to work out what it is.]
+
+During his mission the player will find different symbols with useful
+functions. Here's a listing:
+
+Red:
+activates multiple shot; if already active, it will be extended.
+
+Green:
+activates laser; if already active, it will be extended.
+
+Blue:
+extends lightning
+
+Light blue:
+activates force shield, making the payer invincible for a short 
+duration. Enemies will be destroyed on touch during this time.
+
+Yellow 'P':
+recharges vitality
+
+White 'G':
+the player gains a grenade
+
+White 'M':
+the player gains a mine
+
+White 'L':
+the player gains an energy line
+
+Grey '1 up': [actually yellow, I think]
+the player gains an extra life
+
+Diamonds:
+once the player has gathered up 300 diamonds, he recieves another 
+'CONTINUE', i.e. having the chance of continuing a game after all 
+lives have been lost. [This is worthless; see earlier.]
+
+The player has 3 lives at the start of each game. He can lose them in
+three ways:
+
+1. Time, indicated on the display, runs out. The screen display will 
+announce TIME OUT.
+
+2. The player has lost all of his vitality. A loss of vitality occurs 
+every time the player touches an enemy or is hit by enemy fire.
+
+3. The player falls into an abyss.
+
+If you lose a life the number of gyroscopes, mines, energy lines and
+grenades will be reset to 3. Lightning, multiple shot and laser will
+be reduced, if not already to minimum strength.
+
+
+THE DISPLAY
+
+The player can gain the following information from the display (from 
+left to right):
+
+Number of lives
+
+Number of gyroscopes (below the lives-indicator)
+
+Number of CONTINUES
+
+Time
+
+Number of diamonds
+
+Number of grenades
+
+Number of mines
+
+Number of energy lines
+
+Score
+
+Vitality (above score)
+
+- Russell Marks (mr216@gre.ac.uk).

@@ -1,0 +1,146 @@
+FRANK BRUNO'S BOXING
+--------------------
+
+Game Features
+* Eight firey opponents, each with their own distincive fighting style.
+* Smooth-scrolling camera action, giving the best view of the fight at all
+  times.
+* Furious three minute rounds with 'knock-down' and 'knock out' features.
+* Warm-Up and 'Autoplay' sequences.
+* K.O. Meter, Best K.O. Time, Score and Bonus displayed on screen.
+* Additional boxers to load from tape.
+* Hall of fame.
+* Endorsed by Heavy-weight Champion - Frank Bruno.
+
+PLAY THE BIG FIST
+
+Now, meet eight of the world's most unlikely heavyweight contenders in the
+boxing simulation to beat 'em all!
+
+1. CANADIAN CRUSHER
+   CANADA
+   The big, plodding, lumber-jack from Canada, with the beauty of a grizzly
+   bear and the speed of an elephant.
+
+2. FLING LONG CHOP
+   JAPAN
+   All the way from the land of the rising Hi-Fi is Fling Long Chop, a
+   martial arts master of No-Can-Do.
+
+3. ANDRA PUNCHEREDOV
+   USSR
+   Andra is a fast, dancing Russian who goes to your head faster than a
+   neat glass of Vodka.
+
+4. TRIBAL TROUBLE
+   AFRICA
+   Tribal means trouble for anyone, he has a temper that gets the better of
+   you! Landing the punches with unnerving accuracy.
+
+5. FRENCHIE
+   FRANCE
+   Frenchie may appear to be cool, but this deceptive facade hides a rather
+   menacing individual, ready to make you see stars.
+
+6. RAVIOLI MAFIOSI
+   ITALY
+   Ravioli is not a man to mess with. He knows all the dirty tricks, and uses
+   them without a care in the world.
+
+7. ANTIPODEAN ANDY
+   AUSTRALIA
+   Fed on a diet of empty larger cans, this man feels no pain. Pure
+   un-interrupted punch power.
+
+8. PETER PERFECT
+   USA
+   World Famous, World Champion Peter Perfect. The most neat and accurate
+   boxer in history is set to drive his engine of glory all over you. Could
+   anyone be a match for macho man?
+
+Introduction
+The sport of boxing is probably the most fearsome contact sport practiced
+today. It holds a strange, almost sadistic fascination with sports fans around
+the world. Boxing has been the subject of films, documentaries, and
+controversy. If combines physical skills such as stamina, strength, courage
+and endurance to produce an immensely exciting sport. Now you can experience
+the fast and furious sport without risking life or limb, because Frank Bruno,
+one of the World's greatest ever boxers, presents the World's Greatest
+Boxing Game.
+
+Instructions
+On the first side of the cassette is the game program. To load this:
+1. Ensure side A is fully rewound.
+2. Press LOAD"" (Enter).
+3. Press play on the cassette player.
+
+Once the game has loaded, you will be presented with an "Attack Mode" which
+consists of: The Options Page, Game Demonstration, Best K.O. Times and Frank
+Bruno's Hall of Fame.
+
+The options page allows you to select keyboard or joystick, and to start
+the game.
+
+The Game
+After pressing the R key from the Options page, you will be asked to input a
+three letter name. Once you have pressed enter then the game will start.
+
+Controls
+Guard Up                1               Dodge Left              U
+Duck                    Q               Left Punch              I
+Guard Down              A               Right Punch             O
+Right Hook/Uppercut     BOTTOM ROW      Dodge Right             P
+
+Body Blows are made by punching while Bruno's guards are down.
+Head Blows are made by punching while Bruno's guards are up.
+Uppercuts can be thrown while Bruno's guards are down.
+Right Hooks can be thrown while Bruno's guards are up.
+Right Hooks and Uppercuts can only be thrown when the K.O. indicator is
+flashing. See below. Game Abort = Caps Shift/Space
+
+Object
+The object of the game is to defeat eitht boxers in succession in persuit of
+the Heavyweight Championship of the World. Fighting styles of each of the
+boxers are different, each one more intelligent than the last. To defeat an
+opponent 'Bruno' mush achieve a 'Knock Out' by knocking him down three times
+during a single three minute round, to do this Bruno must reduce his
+opponent's 'Status' to zero, by avoiding the blows made by the opponent and
+punching the opponent when his body or head is unprotected. By making repeated
+successful blows, Bruno's Punch Power increases. The KO indicator flashes when
+100% punch power is achieved, this allows you to use the Right Hook/Uppercut.
+
+The game screen is divided in two, the top half is the score and information
+board, the bottom half is a perspective view of the ring.
+
+If you win the bout!
+If you win the bout then you are issued with your own personal 'Elite Video
+Boxing Association' Membership Code. You will notice in the inlay that we
+have provided you with a EVBA Membership card for your own use. Write the
+code in Pencil, alongside the name of the next boxer. So, if you have just
+beaten the first boxer, write the code in the space next to 'Fling Long
+Chop'. You may use the code to load the next boxer off tape now, or at a
+later date. To load a boxer:
+
+1. Ensure the cassette is on side B.
+2. Press 'L' on the options page.
+3. Enter your three letter name.
+4. Enter your Membership Code (just press enter without typing anything if
+   you wish to load the first boxer back in).
+5. Press play on the cassette player.
+
+The program will tell you what boxer it has found on the tape. If it finds a
+boxer comes before the one it is searching for, then you should fast forward
+the tape a little bit. Conversely, if it finds a boxer that comes after the
+one it is searching for, then you should rewind the tape a little bit.
+
+Your Membership Code is valid for all versions of Frank Bruno's Boxing
+provided it is used with the same three letter name that you have used.
+
+If you lose the bout!
+You can rebout the current boxer whether you have won, lost or just loaded
+the game. Press 'R' on the options page to do this.
+
+ELITE SYSTEMS LIMITED, ANCHOR HOUSE, ANCHOR ROAD, ALDRIDGE, WALSALL, WEST
+MIDLANDS, ENGLAND. Telex 335622 SPETEL G
+
+(Transcribed by Robin Stuart)

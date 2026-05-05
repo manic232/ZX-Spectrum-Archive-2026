@@ -1,0 +1,268 @@
+THE SPECTRUM GAMES DATABASE
+
+GYRON
+
+PUBLISHER
+Firebird (British Telecom Software)
+
+AUTHORS
+P. Mochan, R.J.M. Pinto, D.M.N. Prior and M. Wighton (Torus)
+
+YEAR
+1985
+
+DESCRIPTION
+A 3D first-person perspective maze game. Strong tactical/puzzle
+solving element.
+
+CONTROLS
+Use SYMBOL SHIFT-SPACE to define keys and BREAK to start the
+game.  There is no pause function and no save game facility.  If
+you die, you have to start again.
+
+The keys default as the usual cursor keys (5, 6, 7, 8 and 0).
+
+
+INSTRUCTIONS
+There are two parts to Gyron:  The Atrium and the Necropolis. 
+The Atrium is a training area to learn the game skills, and
+has a fairly linear path from the start to the end of the maze. 
+The Necropolis is a much more complex maze with a non-linear
+arrangement.  The objective is to reach the "Place of Wisdom"
+which is a small cul-de-sac located in a very obscure corner of
+the maze.  It is impossible to reach it without deactivating the
+towers which guard it, and this is achieved by penetrating all
+the other zones of the maze and shooting various towers.  It is
+not an easy task to determine the effects of your explorations,
+and the overall puzzle is a very tough objective. 
+
+The snapshot file "gyron_in.zip" has a trainer for Gyron which
+gives full instructions for the controls of the game.  Red
+indicators at the sides indicate position of side passages, green
+squares at the side represent the position of the craft.  The
+green square must overlap the red bar by two squares before you
+can turn into the passage.  The green square along the bottom
+indicates the crafts position from left to right in a passage. 
+The colour of the spinning icosahedron indicats which zone you
+are in in the maze.  The radar indicator shows walls, balls and
+towers.  Towers can only shoot you in the direction they are
+facing, and cannot get you if you hug the wall of the trench
+directly below them.  They can only be shot from the rear, and
+shooting them can have varied effects.  Balls cannot be
+influenced in any way, and contact is instantly fatal.  They move
+in fixed patterns with strict timing, and these can be quite
+complex.  Some of the hardest obstacles in the maze involve
+sneaking past several balls moving in complex combinations of
+patterns. 
+
+
+CHEATS
+Tower shots move at a fixed (but rapid) speed.  Once you hear the
+shot sound, back off quick round a corner, and you might just
+escape the shot if the tower is distant enough.  There is a POKE
+to disable the towers, but it totally defeats the point of the
+game.
+
+
+URL  
+Since there are three seperate parts to the program, there are
+three different URL's:
+
+Trainer: 
+ftp.dcc.uchile.cl:pub/OS/sinclair/snapshots/g/gyron_in.zip
+Atrium:  
+ftp.dcc.uchile.cl:pub/OS/sinclair/snapshots/a/atrium.zip
+Necropolis:
+ftp.dcc.uchile.cl:pub/OS/sinclair/snapshots/n/necropol.zip
+
+
+INLAY CARD TEXT
+These docs come from the Firebird Gold Edition, probably from
+1984/5 since the competition closing date was November 1985.
+
+
+THE SORCERER-SCIENTIST
+
+Many eons ago, when men lived in fear of their gods and made
+human sacrifices to them, one man - a sorcerer and scientist -
+decided to change that order.
+
+He sought to become Quetzalcoatl, God of the Wind, bearer of
+civilisation and creator of the calendar.
+
+He worked tirelessly in his quest for mastery of the Laws of
+Physics and the Spirit Forces that a God must possess. But his
+mortal life was too short to complete the task and he vowed to
+store his wisdom - until he could return in a future life to
+reclaim it - by entombing it with him. To do that, he created the
+Gyron . . .
+
+THE GYRON
+
+Inside the Gyron are two intricate Labyrinths, one within the
+other; each contains all of Space and Time.
+
+The outer Labyrinth, the Atrium, and the inner, called the
+Necropolis, are cosmic calendar clocks.
+
+Space is contained in the 12 parts of the Zodiac, represented by
+12 zones, while Time exists in the configuration of an
+interactive defence system - the Celestial Spheres and the Towers
+of Silence.
+
+Seekers may choose to enter the Atrium first, a less dangerous
+place in which to test the reflexes - it's entered through the
+Calendarstone, the face of the Sundisc. Another Sundisc (the
+Atrium's 12th zone) inside the Atrium Labyrinth is the entrance
+to the Necropolis.
+
+The solutions to finding the inner entrance and the PLACE OF
+WISDOM depend on the layout of the Labyrinths, the configuration
+of the Towers and the Spheres' time-cycles.
+
+The CELESTIAL SPHERES roll in predetermined motions around the
+Labyrinths: in the Necropolis Labyrinth the combined cycles of
+the 55 spheres there repeat once in every 15 billion years - the
+lifespan of the Universe. Contact with the Spheres is fatal.
+
+The TOWERS OF SILENCE radiate a destructive energy field in one
+of the four alignments of the Labyrinth. They can be attacked by
+laser from behind: but they interact with each other. An attack
+on a Tower may cause it to turn, vanish, reappear elsewhere, or
+to re-orientate another Tower. A blind spot to an energy field
+exists against the trench wall below the Tower.
+
+THE MISSION
+
+Your objective is to enter the Gyron and locate the hidden PLACE
+OF WISDOM . To accomplish this, you have full control of a craft
+called the HEDROID. This has:
+
+* full multi-channel sensory ability
+* precise manoeuvrability in left, forward and right directions
+* ability to reverse through a 180 degrees flip instantaneously
+* a targetable high-energy laser
+
+The control and instrumentation of the HEDROID are described
+below.
+
+You may embark on this mission by entering the Atrium (side 1 of
+the cassette), and searching for the inner entrance to the
+Necropolis, or by entering the Necropolis directly (side 2 of the
+cassette). The Atrium Labyrinth is easier, and recommended for
+practice.
+
+LOADING
+1 ) Connect the EAR socket of your Spectrum to the EAR socket of
+your tape recorder
+2) Choose which version of GYRON you wish to play, insert the
+cassette accordingly in the tape recorder, and rewind to the
+beginning.
+3) Type LOAD""CODE and press ENTER on your Spectrum. (CODE is
+accessed by pressing I in extended mode)
+4) Press PLAY/LOAD on your recorder.
+
+After loading, the screen displays the HEDROID entering a
+Labyrinth through the Sundisc. The game then enters the demo
+mode.
+
+CONTROL
+
+The HEDROID has four directional controls and FIRE. The mission
+is commenced as follows:
+
+KEMPSTON JOYSTICK; press FIRE to start.
+
+ALL OTHER JOYSTICKS OR KEYBOARD CONTROL: 
+Keys are initially set to Cursor control with O to fire.
+
+A Cursor Joystick will work without redefining Keys -
+press CAPS SHIFT and BREAK (just BREAK on Spectrum + ) to start
+each play.
+
+Redefine Keys or Joystick control by pressing CAPS SHIFT and
+SYMBOL SHIFT (EXTEND MODE on Spectrum + ) while the game is in
+demonstration mode. A FIRE symbol will appear on the screen -
+press the FIRE button or the chosen key. As the up, down, left
+and right arrows appear, select control by using the Joystick
+or pressing the required keys. Press CAPS SHIFT and BREAK (just
+BREAK on Spectrum + ) to start each play.
+
+MOVEMENT is effected by the four directional controls. Forward
+movement is inertial, i.e. when the HEDROID is moved forward, it
+will continue in this direction until the reverse control is
+applied. When the HEDROID is stationary, the reverse control will
+flip it through 180 degrees.
+
+FIRING is continuous while FIRE is pressed.  Targetting is with
+respective directional keys. The laser has uninterrupted power.
+
+The game will continue to play until the HEDROID can no longer
+operate, and no lines remain on the Viability Indicator.
+
+INSTRUMENTATION
+
+THE MAIN SCREEN displays the forward view of the HEDROID in
+3-dimensional perspective.
+
+THE RADAR SCAN displays an area of the Labyrinth centred on the
+HEDROID, orientated to its forward view. It reveals the motions
+of Spheres and the orientation of Towers.
+
+THE VIABILITY INDICATOR has a number of lines, which are
+proportional to the survival capacity of the HEDROID. This is
+reduced by damage, incurred when the HEDROID impacts against a
+trench wall.
+
+POSITION INDICATORS
+
+THE SIDE-PASSAGE INDICATORS correspond to side-
+openings in the trench. When the green POSITION INDICATORS lie
+at least two squares within the red bands, it is possible to turn
+the HEDROID into a side passage.
+
+THE TIMER is synchronised to the motion of the Spheres.
+
+THE ZONE INDICATOR displays one of twelve colours which
+correspond to each of the twelve Zones of the Labyrinth.
+
+THE LATERAL INDICATORS shows the HEDROID position
+across the eight-track width of a Labyrinth trench.
+
+
+GENERAL FACTS
+The Atrium is a pleasant, linear game which is easily solved and
+provides a good grounding in the game mechanics.  Necropolis 
+is really, really hard: not least because it is not at all
+obvious which zones you should go to first, and what effects
+shooting the towers has on other areas of the map (the radar map
+only covers a 5x5 square area).  Some towers are obvious, others
+cannot be altered, others flip round and kill you.  The Place of
+Wisdom is not at all easily accessed.
+
+NOTES
+When the game was released, a prize of a brand new Porsche was 
+offered to whoever solved the game first.  (When you enter the
+Place of Wisdom, the game prints a verification code which was
+your entry for the competition).  In the event, about 60 or so
+people solved it, and they ran a play-off in Spain using a
+specially designed Gyron maze (the Arena).  The winner solved the
+Arena in 15 minutes flat.
+
+It is possible to walk between balls which have a single space
+between them, but requires good timing.  It is also possible to
+walk very closely behind a ball if you stick to the left or right
+side.  Since balls block tower fire as long as a single pixel of
+the ball remains in front of you, you can use this to sneak up
+on towers without being shot.
+
+The game is almost totally silent apart from the tower shot
+sound.  If you've spent the last hour patiently negotiating the
+maze to creep cautiously into a new area, that sound is one of
+the most horrible things you will ever hear.....  
+
+Richard Pinto, one of the authors, went on to work for the
+Assembly Line, and was one of the chief architects of "Cybercon
+III" for the Amiga.  The influence of Gyron, IMHO, can clearly
+be seen in this game, which is a vast 3D polygon complex filled
+with robots moving in patterns..... 

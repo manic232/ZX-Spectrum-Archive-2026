@@ -1,0 +1,441 @@
+Combat School instructions
+Converted to text by Gerard Sweeney (www.the-tipshop.co.uk) for World
+of Spectrum (www.worldofspectrum.org), 03/02/05.
+
+I do NOT give permission for this text reproduction to be used/stored
+on "commercial" or profit-making medium such as CD-ROMs. Frankly,
+we in the Speccy community are all sick of leechers making money out
+of our hard work.
+
+From original full-price release by Ocean.
+
+
+
+SPECTRUM * COMMODORE * AMSTRAD
+
+COMBAT
+SCHOOL
+
+KONAMI OCEAN
+
+
+
+                                GRYZOR DEMO
+
+AMSTRAD
+Following Combat School on side B of the tape there is a short
+playable demonstration of the Konami coin-op hit Gryzor. To load,
+follow the loading instructions as normal -the demonstration can be
+played with joystick only.
+
+DISK
+To load the demo type RUN"DEMO and press return.
+
+
+SPECTRUM
+Following the 128K version of Combat School on side B of this tape
+there is a short playable demonstration of the Konami coin-op hit
+Gryzor. To load, follow the loading instructions as normal - the
+demonstration can be played with joystick or keyboard.
+
+DISK
+To load the demo select 128K basic on the menu screen and type
+LOAD "DEMO" and press return.
+
+
+COMMODORE
+Following Combat School on side B of the tape there is a short
+demonstration of the Konami coin-op hit Gryzor. To load, follow the
+loading instructions as normal - the demonstration can be played
+with joystick only.
+
+DISK (side B)
+To load the demo type LOAD "*",8,1 and press return.
+
+
+
+COMBAT SCHOOL
+
+Chin-up! Chest out!
+
+You have enlisted with the elite marine corps -the U.S.A.'s finest. A
+barrage of tough, gruelling, physically demanding events face you if
+you are to become a crack trooper. Your objective is to graduate, but
+your mettle will be severely tested as the toughest course of training
+events are presented to you.
+
+It may not end there! If you do graduate, there's a good chance you
+will be sent on a crucial mission - one that will examine your physical
+capabilities to the full!
+
+To graduate is your ambition, but will you even survive?
+
+
+AMSTRAD
+
+LOADING
+
+CPC 464
+Place the rewound cassette in the cassette deck type RUN" and then
+press ENTER key. Follow the instructions as they appear on screen. If
+there is a disk drive attached then type |TAPE then press ENTER key.
+Then type RUN" and press ENTER key.
+(The | symbol is obtained by holding shift and pressing the @ key).
+
+CPC 664 and 6128
+Connect a suitable cassette tape recorder ensuring that the correct
+leads are attached as defined in the User Instruction Booklet. Place
+the rewound tape in the cassette recorder and type |Tape then press
+ENTER key. Then type RUN" and press ENTER key follow the
+instructions as they appear on screen.
+
+NOTE:
+On a 464 or 664 computer, the program loads each new section off
+tape. On a 6128 or 464/664 with memory expansion the program
+loads all of the sections in at once.
+
+DISK
+Insert the program disk into the drive with the A side facing upwards.
+Type |DISC and press ENTER to make sure the machine can access
+the disk drive. Now type RUN" DISC and press ENTER the game will
+now load automatically.
+
+
+CONTROLS
+The game is controlled by joystick, compatible for one or two players
+or keyboard.
+
+KEYBOARD		     JOYSTICK
+
+Q	- Up			UP
+A	- Down			|
+O	- Left		LEFT ------- RIGHT
+P	- Right			|
+SPACE	- Fire			DOWN
+
+
+NOTE:
+To "waggle" in the following events the keys Q, W, O and P can be
+used to build up your speed - obstacle course, arm wrestling and
+chin-ups. For building up on iron man race you can use Q and W only
+for waggling - O and P are to be used to move left and right.
+
+
+SPECTRUM
+
+LOADING
+1.	Place the cassette in your recorder ensuring that it is fully
+rewound.
+2.	Ensure that the MIC socket is disconnected and that the volume
+and tone controls are set to the appropriate levels.
+3.	If the computer is a Spectrum 48K or Spectrum + then load as
+follows. Type LOAD"" (ENTER). (Note there is no space between the
+two quotes). The " is obtained by pressing the SYMBOL SHIFT and P
+keys simultaneously.
+4.	Press PLAY on your recorder and the game will load
+automatically. If you have any problems try adjusting the volume
+and tone controls and consulting Chapter 6 of the Spectrum manual.
+5.	If the computer is a Spectrum 128K then follow the loading
+instructions on-screen or in the accompanying manual.
+
+SPECTRUM 48K
+The labelled side of the tape contains a 48K version. This game loads
+in a number of parts. Once the 1st part has loaded, stop/pause the
+tape player. When you have completed all of the levels in that
+particular load, a message will appear requesting you to start the
+tape again. When this part has loaded continue as above.
+
+NOTE
+Once you have loaded any level after the 1st load and subsequently
+lost your lives, to start again from the beginning, rewind the tape and
+begin as above.
+
+SPECTRUM 128K
+The unlabelled side of the tape contains a 128K version. The
+complete game will load as a single loader.
+
+SPECTRUM +3 DISC
+Set up system and switch on as described in your instruction
+manual. Insert disk and press ENTER to choose 'LOADER' option.
+After a short delay a game selection screen will appear.
+
+CONTROLS
+The game may be controlled by Joystick (Kempston Sinclair or
+Cursor), or keyboard which is fully redefinable.
+
+JOYSTICK
+
+	UP
+	|
+LEFT ------- RIGHT
+	|
+	DOWN
+
+
+COMMODORE
+
+LOADING
+Position the cassette in your Commodore recorder with the printed
+side upwards and make sure that it is rewound to the beginning.
+Ensure that all the leads are connected. Press the SHIFT key and the
+RUN/STOP key simultaneously. Follow the screen instruction -
+PRESS PLAY ON TAPE. This program will then load automatically.
+For C128 loading type GO 64 (RETURN), then follow C64 instruction.
+
+DISK
+Select 64 mode. Turn on the disk drive insert the program into the
+drive with the label facing upwards type LOAD "*",8,1 (RETURN) the
+introductory screen will appear Press FIRE and the program will
+then load automatically.
+
+CONTROLS
+The game is controlled by joystick only, player one - port 1, player
+two-port 2.
+
+NOTE:
+To start the game if FIRE button on joystick in port 1 is pressed then
+this will select one player game, if FIRE button on joystick in port 2 is
+pressed this will select two player game.
+
+JOYSTICK
+
+	UP
+	|
+LEFT ------- RIGHT
+	|
+	DOWN
+
+
+CONTROL FOR DIFFERENT EVENT
+
+ASSAULT COURSE
+Waggle left and right to build-up and maintain speed. Press FIRE to
+jump over walls and onto horizontal ladder: continue waggling.
+
+FIRING RANGE ONE
+Use up, down, left, right to control your cursor and FIRE to fire your
+weapon.
+
+IRON MAN RACE
+Waggle joystick up and down to build-up and maintain speed, move
+joystick left and right to move left and right. Press FIRE to jump over
+any obstacles.
+
+FIRING RANGE TWO
+Move left and right to move your man in the appropriate direction
+and press FIRE to fire your weapon.
+
+ARM WRESTLING
+Waggle left and right to build-up and maintain maximum power.
+
+NOTE:
+AMSTRAD ONLY. In two player mode, if no joysticks are being used,
+then player one is to use O and P and player 2 is to use Z and X to
+control their men in this event.
+
+FIRING RANGE THREE
+Move left and right to move your cursor in the appropriate direction
+and press FIRE to fire your weapon.
+
+WITHOUT FIRE PRESSED                            WITH FIRE PRESSED
+
+KICK UP						        JUMP
+       \					 PUNCH  |
+WALK----|----WALK				 UP    \|
+LEFT   /|\   RIGHT				        |
+      / | \					       /|
+  MID   |   KICK				      / |
+  KICK  |					 PUNCH  |
+        DUCK					 DOWN   |
+						        JUMP KICK
+
+
+COMBAT WITH INSTRUCTOR
+Left and right as normal, up to jump and FIRE to punch/kick.
+
+CHIN-UPS
+Waggle left and right.
+
+
+THE MISSION
+
+       JUMP
+        |
+WALK----|----WALK
+LEFT         RIGHT
+
+FIRE - KICK
+
+
+GAME PLAY
+
+There are seven taxing events which will call upon every skill you can
+muster. To be the supreme fighting machine and graduate from the
+Combat School you must ensure that all events are completed in the
+specified time.
+
+ASSAULT COURSE
+The first gruelling test guaranteed to tax your muscles to the full! By
+waggling the joystick, you must build-up and maintain your running
+speed whilst jumping over the numerous fences. Towards the end of
+this event you will be confronted with a horizontal ladder; jump onto
+this ladder and waggle as fast as possible to complete this course.
+You are against the clock and thus have a limited time to complete,
+however, if you manage a good time you will be awarded with a
+bonus. This time bonus will be added on to the time allowed for the
+next event.
+
+FIRING RANGE ONE
+Various targets appear at random throughout this event and you
+must move your cursor and shoot as many as possible within the
+allotted time. You have a minimum number of targets to hit and
+again, if you exceed this quota you may be allotted a time bonus as
+above.
+
+IRON MAN RACE
+Possible one of the most gruelling events that Combat School has to
+offer. You must build-up and maintain your maximum running speed
+whilst avoiding the various obstacles such as rocks and mines as you
+try and negotiate this hazardous terrain. Jumping is permitted, but
+be careful you don't land on anything that could make you trip and
+lose valuable time. Having negotiated the land, you will then be
+confronted with a fast moving river which you must swim across,
+find a canoe and paddle like crazy to the opposite bank whilst
+avoiding the treacherous logs which float across your path. Upon
+reaching the opposite bank you must sprint to the finishing line
+before the time is up. As before, a time bonus is invoked if you
+complete the course ahead of schedule.
+
+FIRING RANGE TWO
+In contrast to the fixed gun emplacements you had in the first firing
+range, this event presents you with a chance to practice your skills
+with a hand-held machine gun. Robot tanks will descend at random
+from the top of the screen and you must knock-out as many as
+possible in the alloted time. As before, there is a minimum quota of
+tanks to hit and the usual time bonus if you shoot more than the
+allocated number.
+
+ARM WRESTLING
+This calls upon your full "joystick waggling" powers as you try and
+build-up and maintain maximum power to defeat your opponent. In
+the one player game you will be pitted against the computer, whilst
+in the two player game you'll be competing one on one. This event is
+purely for a time bonus and you will not be drummed out of the
+School if you fail!
+
+FIRING RANGE THREE
+This is similar in control to the first firing range, but you must avoid
+shooting any of the red targets. If you do inadvertantly hit one of
+these then your cursor will freeze until the next batch of targets
+appear, thus preventing you from shooting any of the true targets.
+This is the hardest firing range of all and you will be called upon to
+use all your firing prowess that you have learned in the previous
+rounds. Time is short so shoot wisely and carefully! The usual time
+bonus situation applies.
+
+COMBAT WITH INSTRUCTOR
+The most difficult event of all. Here you are one on one against your
+instructor and must use all your martial arts and combat skills to
+defeat him. You can only incur a maximum number of hits within the
+given time (as can your instructor). The object is to subdue your
+opponent within the given time or you will not graduate! Using a
+combination of movement left and right, you can also jump up and
+kick or punch. Much practice is required to perfect your technique
+and don't forget - your instructor has more experience than you!
+
+CHIN-UPS
+If you fail to qualify in the fist six events by a very narrow margin, you
+will be given a second chance to continue. This will take the form of
+a number of chin-ups that need to be performed in a specific time.
+This is a "joystick waggler" and you must build-up and maintain
+power for as long as possible to complete the necessary number:
+only if you do complete the required amount can you move on to the
+next event. If you fail in any of the above events you will be drummed
+out of the Combat School and will have to start from scratch.
+
+THE MISSION
+If you eventually graduate, you will be sent on a top secret mission to
+rescue a hostage in the American Embassy. This mission will call
+upon all the powers you have learned in training. The actual
+execution of the mission, however, is classified and very few details
+are available. All that is known is that your assailants will be heavily
+armed and must be both avoided and subdued before they have time
+to use their weaponry. Good luck and don't be a chicken!
+
+
+STATUS AND SCORING
+
+Points are scored within the different stages depending on how
+efficiently you complete that event. On timed events, if you complete
+before the time runs out you may be awarded a time bonus, to be
+carried forward to the next level. Similarly, on the shooting events if
+you manage to achieve the set number of hits in the specified time
+and continue hitting your targets before the time is up, you will be
+again awarded a time bonus depending on the number of extra hits
+you have accumulated.
+
+The points work on an accumulative basis and if you graduate the tot;
+points earned will have an effect on the ranking you achieve. There is
+no rank awarded if you fail to graduate from the Combat School but
+a high score, if earned, will be displayed
+
+
+HINTS AND TIPS
+
+* Learn to pace yourself- if your power level shows you operating
+on full speed then it is pointless to exert more effort as this will make
+no difference to your performance.
+
+* Try and collect as much time bonus as possible in the various
+stages as this will have an accumulative effect on successive events.
+
+* There are many strategies for combat with the instructor, but one
+of the most effective is to jump towards him, strike quickly, and jump
+back again out of range.
+
+* You do not have to be the victor in the arm wrestling contest to
+continue in Combat School - this is only a bonus event which will
+enable you to pick up a time bonus for the third firing range, however
+this is very useful.
+
+* If you do manage to progress to the mission stage bear in mind
+this is not against the clock and it may be prudent to wait in various
+areas for the right moment to strike.
+
+
+
+COMBAT SCHOOL
+
+Its program code, graphic representation and artwork are the
+copyright of Ocean Software Limited and may not be reproduced,
+stored, hired or broadcast in any form whatsoever without the
+written permission of Ocean Software Limited. All rights reserved
+worldwide.
+
+This software product has been carefully developed and
+manufactured to the highest quality standards. Please read carefully
+the instructions for loading. IF FOR ANY REASON YOU HAVE
+DIFFICULTY IN RUNNING THE PROGRAMME, AND BELIEVE THAT
+THE PRODUCT IS DEFECTIVE, PLEASE RETURN IT DIRECT TO:
+MR. YATES, OCEAN SOFTWARE LIMITED, 6 CENTRAL STREET, MANCHESTER M2 5NS.
+Our quality control department will test the product and supply an
+immediate replacement if we find a fault. If we cannot find a fault the
+product will be returned to you at no charge. Please note that this
+does not affect your statutory rights.
+
+AMSTRAD
+Coding by James Higgins and Mike Lamb. Graphics by Ronnie
+Fowles. Music/effects by David Whittaker.
+
+SPECTRUM
+Coding by Andrew Deakin and Mike Lamb. Graphics by Ivan Horn
+Music/effects by David Whittaker.
+
+COMMODORE
+Coding by David Collier and Allan Shortt Graphics by Simon Butler
+and Sean Ridings. Music/effects by Martin Galway.
+
+Produced by D. C. Ward. © 1987 Ocean Software Limited.
+
+COMBAT SCHOOL TM and Konami ©
+are trademarks of KONAMI. © KONAMI 1987

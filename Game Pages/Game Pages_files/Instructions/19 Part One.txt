@@ -1,0 +1,310 @@
+﻿NIENTEEN PART ONE - BOOT CAMP
+
+
+INTRUCTIONS DE CHARGEMENT:
+
+ SPECTRUM 48: Réembobinez la cassette pour commencer face A (côté étiquette), tapez LOAD "", et appuyez
+ sur ENTER. Puis, mettez l'appareil en marche.
+
+ SPECTRUM 128/+2: Réembobinez la cassette pour commencer face A (côté étiquette), choisissez le menu de
+ chargement et appuyez sur ENTER. Puis mettez lappareil en marche.
+
+ **Note aux utilisateurs de Spectrum: Suivez les messages-écrans avec attention. Lors du message "stop
+ the tape", n'appuyez ni sur REWIND ni sur FASTFORWARD.
+
+ COMMODORE 64 Version Disquette: Insérez la disquette étiquette vers le haut. Tapez LOAD"*",8,! puis 
+ appuyez sur RETURN.
+
+ COMMODORE 64 Cassette: Réembobinez la cassette pour commencer face A (côté étiquette), tout en maintenant
+ SHIFT, appuyez sur RUN/STOP. Puis mettez l'apparell en marche.
+
+
+ENROLEMENT
+
+ Il vous sera demandé combien de recures (joueurs) sont nécessaires - une á quatre recrues peuvent être
+ entrainées á chaque fois. Appuyez sur SPACE pour choisir le nombre, appuyez sur ENTER/RETURN une fois choisi.
+
+ Appuyez sur "Y" ou "N" au message "Are you sure?". Avec "N", vous purrez resélectionner le nombre de recrues
+ nécessaires. Avec "Y", vous continuez l'enrôlement.
+
+ Les recrues doivent ensuite introduire leurs noms. Une fois le nom entré, appuyez sur ENTER/RETURN. La
+ recure reçoit son numéro de contingent.
+
+
+UTILISATEURS DE SPECTRUM
+
+ Choisissez le contrôle du jeu par SPACE, puis appuyez sur ENTER:
+ Interface Kempston                        Joystick Sinclair port 1
+ Clavier - Q A O P Rangée du bas           T - Musique/pas de musique
+ BREAK - Pause/pas de pause. Si le jeu est en pause, vous pouvez appuyer "R" pour interrompre. Cela vous 
+ permettra de recommencer le jeu au début er rechargeant la sélection du contigent.
+
+UTILISATEURS DE COMMODORE
+
+ Connectez le joystick au port 2; RUN/STOP - Pause
+ F7 - Interruption. Vous pouvez alors recommencer le jeu á partir de la section "Enrôlement".
+
+
+COORDINATION, ENDURANCE, MORAL
+
+ Au fur et á mesure que vous avancez dans votre entrainement, on vous testera ces capacités sans cesse.
+ Cotre précision de sauts d'obstacles, de tir, de conduite et de combat á mains détermineront votre co-
+ ordination. Votre endurance est calculée selon le temps de résistance á chaque épreuve et votre moral est
+ basé sur toute votre performance. Les résultats de coordination et d'endurance affecteront ceux du moral.
+
+ Une fois que les recrues ont échoué ou réussi l'entrainement, les résultats obtenus s'affichent. Ceux-ci
+ tiendront compte de votre performance dans l'épreuve que vous venez d'effectuer, plus toutes les épruoves
+ précédentes réussies jusqu'a présent.
+
+ Les résultats sont comme suit:
+ 1. Désastreux  2. Minable  3. Nul  4. Pauvre  5. Moyen  6. OK  7. Assez bon  8. Bon  9. Excellent
+ 10. Expectionnel.
+
+ Lorque les 4 épreuves sont achevées, les recrues pourront sauvegarder leurs résultats sur cassette/disquette.
+ Ils peuvent être chargés dans "19" Part 2 - Zone de Combat afin que le joueur puisse commencer le jeu avec
+ l'avantage de s'être entrainé dans la 1ére partie.
+
+
+PARCOURS DU COMBATTANT
+
+ Cette épreuve consiste en 8 parcours du combattant devant être terminés en un temps limite.
+
+ Utilisez les commandes de gauche et de droite pour courir; pour sauter, grimper ou plonger, la commande
+ de mise á feu pour amener l'indicateur dans la 3éme section de la barre de puissance slutée au bas de l'écran.
+ Avant de tenter un obstacle, assurez que l'indicateur soit dans la bonne position et que vous soyez bien
+ placé devant l'obstacle. Puis, relâchez le bouton de mise á feu: si vous avez bien le programmé la manoeuvre,
+ vous réussirez á aurmonter l'obstacle sans probléme.
+
+ Mur de briques       Relâchez le bouton feu pour grimper
+ Cheval d'arçons      Relâchez le bouton feu pour sauter
+ Piquets              Relâchez le bouton feu pour surmonter les piquets
+ Barres de singe      Relâchez le bouton feu pour sauter les barres, 
+                      commandes de gauche et de droite pour se balancer. Ne vous susperndez pas trop longtemps
+                      á une barre, ou vous bras se fatiguent
+ Haies                Relâchez le bouton feu pour les sauter
+ Saut d'arbre         Relâchez le bouton feu pour grimper l'échelle, et pour franchir le fossé
+ Poutre               Relâchez le bouton feu pour feu grimper l'échelle, commande de droite pour glisser vos
+                      pieds. Ne restez pas immobile trop longtemps ou vous perdrez votre équilibre; ne marchez
+                      pas trop vite, ou vous glisserez
+ Buse                 Relâchez le bouton feu pour plonger dans la buse, commandes de droite et de gauche pour
+                      ramper.
+ Rochers              Relâchez le bouton feu pour sauter
+ Caniveau             Relâchez le bouton feu pour le franchir
+
+ Réussite d'un obstacle:
+ 1ére tentative - 3000 points.            3éme tentative - 1000 points.
+ 2éme tentative - 2000 points.            4 tentatives ou plus - Aucun point.
+
+ Si cous parvenez a réussir un parcours en temps donné, vous recevrez un bonus de temps.
+
+
+STAND DE TIR
+
+ Cette épreuve consiste en 8 tirs de fusil. Vous vous qualifierez en complétant l'objectif. A chaque tir, 
+ vous avez 2 minutes et demi pour battre ou égaliser le se score de qualification qui augment en même temps
+ que le tir. Les points de récompense pour des cilbes légales (soldats) s'étalent entre 100 et 500 selon
+ l'endroit touché. Plus vous êtes proche du centre de la cible, plus vous recevrez de points. Votre score 
+ diminue de 1000 points si vous touchez une femme, un enfant ou un bébé.
+
+
+ENTRAINEMENT EN JEEP
+
+ Cette épreuvre consiste en 8 pistes que vous devez utiliser en un temps limite. Plus vous allez vitte, plus
+ votre score augmentera en proportion.
+
+ Casque, bottes, munitions, plaques militaires, jerry cans, étoiles: Ramassez ces bonus.
+
+ Bottes de foins, cônes, pneus, barriéres: Limitez les dégâts en évitant tout obstacle qui endommagerait votre
+ jeep davantage et réduirait temporairement voitre vitesse. Conduire sur les côtés de la piste réduit aussi
+ votre vitesse.
+
+ Rochers, troncs, souches, bidons d'huile: Ces obstacles infligent de nombreux dégâts a votre jeep et vous
+ immobilise temporairement.
+
+ Au fur er a mesure que les dégâts augmentent, votre vitesse maximale possible diminue. Trop de dégâts rendent
+ votre véhicule hors d'usage.
+
+ Contrôles: Vers le haut-accéléz. Vers le bars-freinez. Gauche/droite-tournez.
+
+
+COMBAT A MAINS NUES
+
+ Cette épreuve est constituée de 8 assauts pendant lesquels vous devez survivre á la compétence de
+ l'instructeur. A chaque assaut, le temps limite augmente.
+
+ Pour réussir un assaut, votre niveau d'énergie doit être égal ou supérieur au niveau d'énergie de 
+ l'instructeur K.O. Si votre énergie est inférieure á celle de l'instructeur, au moment ou le temps limite
+ est dépassé, ou si cous êtes mis K.O., vous perdez alors le combat.
+
+ Direct - 200 points.  Crochet - 600 points.  Genou - 1000 points.  Coup de pied - 400 points. 
+ Coup de tête - 800 points.
+
+Contrôles:
+
+   Sans bouton feu                         Avec bouton feu                   Feu seulement
+
+        Pied                                    Genou                            Direct
+
+Marche        Marche                     Détour        Crochet
+    
+       Esquive                               Coup de tête
+
+
+Attention á 19 2éme Partie - Zone de Combat. Cette fois-ci, c'est pour de vrai!
+---------------------------------------------------------------------------------------------------------
+
+NINETEEN PART 1 - BOOT CAMP
+
+
+LOADING INSTRCUTIONS:
+
+ SPECTRUM 48: Rewind tape to start of side A (labelled side), type LOAD "", and press ENTER. Then press play
+ on tape recorder.
+ 
+ SPECTRUM 128/+2: Rewind tape to start of side A (labelled side) select tape loader option, and press ENTER.
+ Then press play on tape recorder.
+
+ ** Spectrum users please note: Follow on-screen prompts carefully. When told to "stop the tape" do not press
+ rewind or fast forward.
+
+ COMMODORE 64 Disk: Insert disk labelled side up. Type LOAD"*",8,1 then press RETURN.
+
+ COMMODORE 64 Cassette: Rewind tape to start of side A (labelled side) hold down SHIFT, then press RUN/STOP.
+ Press play on tape recorder.
+
+
+DRAFTING
+
+ You will be asked how many recruits players are required - up to four recruits can train at any one time.
+ Press SPACE to select the correct number, press ENTER/RETURN when selected.
+
+ Press "Y" or "N" to the prompt "Are you sure?". "N" will allow you to re-select the required number of recruits,
+ "Y" will continue with the drafting.
+
+ The recruits will now be prompted to enter their names. When a name has been typed in press ENTER/RETURN. At
+ this point the recruit will be given his draft number.
+
+
+Spectrum Users
+ 
+ Select game control by pressing SPACE, then press ENTER when selected:
+ Kempston interface
+ Sinclair Joystick port 1
+ Keyboard - Q A O P Bottom row
+ T - Toggle music on/off
+ BREAK - Pause on/off. While game is paused you may press "R" to abort. This will allow you to restart the game 
+ at the beginning by reloading the drafting selection.
+
+Commodore Users
+
+ Connect joystick to port 2
+ RUN/STOP - Pause
+ F7 - Abort. This will allow you to restart the game from the drafting section.
+
+
+CO-ORDINATION, STAMINA, MORALE:
+
+ As you progress through your training you will continually assessed on these qualities. Your accuaracy of 
+ jumping obstacles, shooting targets, driving and unarmed combat will determine your co-ordination. Your stamina
+ is calculated by how long you endure each training event and your morale is based upon your overall performance.
+ The co-ordination and stamina ratings will also affect your morale rating.
+
+ When all recruits have either failed or successfully completed a training event the obtained ratings will be
+ displayed. These ratings will have taken into account your performance in the training event you have just
+ taken part in, plus any previous events so far completed.
+
+ Ratings are as follows:
+ 
+ 1. Abysmal.  2. Pathetic.  3. Lousy.  4. Poor.  5. Average.  6. OK.  7. Fairly good.  8. Good.  9. Excellent.
+ 10. Exceptional.
+
+ When all four training events have been completed the recuits will have the chance to save their ratings to 
+ tape/disk. These can be loaded into "19" Part 2 - Combat Zone so that the player can start the game with the
+ advantage of having trained in Part 1.
+
+
+ASSUALT COURSE
+
+ This training event consists of 8 assault courses to be completed within decreasing time limits.
+
+ Use left and right controls to run. To jump, climb or dive use the fire control to bring the indicator into
+ the third section of the power bar situated at the bottom of the screen. To attempt an obstacle first make
+ sure the indicator is in the correct position and second that you are correctly positioned in front of the
+ obstacle. At this point release the fire control - if you have timed the manoeuvre correctly you will success-
+ fully clear the obstacle.
+
+ Brick wall             Release fire to climb.
+ Vaulting horse         Release fire to vault.
+ Stepping posts         Release fire to run up posts.
+ Monkey bars            Release fire to jump up to the bars, left and right controls to swing. Don't hang 
+                        onto a bar too long or your arms will tire, and don't swing too fast or you will lose
+                        your grip.
+ Hurdles                Release fire to step over.
+ Tree jump              Release fire to climb ladder, release fire to jump gap.
+ Nudge bar              Release fire to climb ladder, right control to shuffle. Don't stand still too long or
+                        you will lose your balance and don't shuffle too fast or you will slip.
+ Concrete pipe          Release fire to dive into pipe, left and right controls to crawl.
+ Rocks                  Release fire to jump.
+ Ditch                  Release fire to jump.
+
+ Clearing an obstacle:
+
+ First attempt - 3000 points                       Third attempt - 1000 points
+ Second attempt - 2000 points                      Four attempts or more - No points
+
+ If you compete a course within the given time limit you will be awarded a time bonus.
+
+
+SHOOTING RANGE
+
+ This training event consists of 8 shooting ranges to be qualified by achieving the target score. On each range
+ you have 2 1/2 minuts to beat or equal the qualifying score, this score increases for each progressive range.
+
+ The points awarded for legitimate targets (soldiers) range from 100 to 500 depending on the area of the target
+ hit. The nearer to the centre of the target the higher the score you will be awarded. Hitting a woman, child
+ or baby will decrease your score by 1000 points.
+
+
+JEEP TRAINING
+
+ This training event consists of 8 tracks to be completed within decreasing time limits. The faster you drive the
+ proportionally higher your score will increase.
+ 
+ Helmet, Boot, Ammo Box, Dog Tags, Jerry Can, Star: Collect these for bonus points.
+
+ Haybales, Cones, Tyres, Fences: These obstacle will increase the damage to your jeep and temporarily decrease 
+ your speed. Driving off the sides of the track will also cut down your speed.
+
+ Rocks, Logs, Tree-stumps, Oil Drums: These obstacles will inflict increased amounts of damage to your jeep and 
+ bring you to a temporary standstill.
+
+ As the amount of damage increases, you available top speed will decrease. Full damage will render you jeep 
+ undrivable.
+
+ Controls: Up - Accelerate.  Down - Brake.  Left/right - Turn.
+
+
+UNARMED COMBAT
+
+ This training event consists of 8 bouts in which you have to survive the skill of the instructor. In each 
+ progressive bout the time limit is increased.
+
+ To win a bout your energy level need to equal, or be more than the instructor's energy level when the time 
+ limit runs out. Bonus points will be awarded if you manage to knock the instructor down. If your energy is
+ less than the instructor's when the time limit runs out, or if you get knocked down, you will lose the bout.
+
+ Jab - 200 points        Hook - 600 points            Knee - 1000 points            Kick - 400 points
+ Headbutt - 800 points
+
+ Controls:
+
+        Without fire                         With fire                     Fire only
+
+           Kick                                 Knee                          Jab
+
+     Walk         Walk                   Turn         Hook
+
+           Duck                               Headbutt
+
+
+Watch out for 19 Part 2 - Combat Zone. This time it's for real!

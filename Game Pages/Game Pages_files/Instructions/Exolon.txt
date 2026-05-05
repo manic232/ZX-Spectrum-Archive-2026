@@ -1,0 +1,101 @@
+Exolon (c) 1987 Hewson Consultants Ltd
+--------------------------------------
+
+SCENARIO
+
+As a heavily armed humanoid, you blast, battle, bound and blunder your way
+over more than hundred screens of blood curdling action. Release a deadly
+grenade to devastate a birth pod and shoot the hordes of aliens that slither
+and scramble to overwelm you. Rocket a gun emplacement and pneumatic hammers
+hurl you end over end back across the screen. And in a new twist, some of
+the screens can be played as a vulnerable but athletic Vitorc or as Exolon,
+a lumbering but powerful exoskeleton.
+
+LOADING
+
+Spectrum Cassette
+
+48K ZX Spectrum, ZX Spectrum Plus or ZX Spectrum 128 with cassette player,
+ZX Spectrum +2.
+
+You are advised to disconnect all hardware from the rear edge connector with
+the exception of your joystick interface (if any). When using a Sinclair
+Unterface 2 or the ZX Spectrum +2 plug the appropriate Joystick into port 1.
+Unless using a ZX Spectrum +2 connect a cassette player to the computer in
+the usual manner. ZX Spectrum +2 and 128 users should select 48K mode.
+Rewind the cassette if necessary, enter LOAD"" on the computer keybopard and
+press the ENTER key. Press the PLAY key on the cassette player. The game
+takes a few minutes to load.
+
+
+CONTROLS
+
+O = LEFT
+P = RIGHT
+Q = Jump
+A = Duck
+M = Fire
+
+Alternatively, a joystick may be used.
+
+PLAYING THE GAME
+
+With both keyboard and joystick, if the fire button is pressed rapidly, then
+blasters operate. If pressed and held for more than half a second then a
+grenade will be lobbed.
+
+Blaster
+Small hand blaster which destroys virtually all organic enemy life forms.
+Can penetrate thin armour with several direct hits, but is useless against
+'thick skinned' gun emplacements etc.
+
+Grenades
+In general, where your hand blaster is not effective use a grenade. Powerful
+enough to destroy heavily armoured battle machinary, grenades can penetrate
+thick walls and rock faces thus providing alternative routes through the
+battle zone.
+
+Hyper-alloy Exoskeleton
+A hydraulically manoeuvred exoskeleton which the main character wears
+enabling him to effortlessly wade through enemy hordes, protecting him from
+all but the most powerful of enemy guns and projectiles.
+
+SCORING
+
+Destroying obstacle with grenade    150 pts
+Large aliens                        150 pts
+Small pod aliens                     50 pts
+Missile shells                       50 pts
+Walking into double launcher       2000 pts
+Waling into combined launcher      3000 pts
+Detroying missile guidance module  1000 pts
+
+At the end of every level (25 screens) points are awarded as follows:
+
+Number of lives left multiplied by 1000
+If not wearing exoskeleton then 10000 points are also awarded.
+
+Extra life is given at the end of each level, unless nine lifes are still
+remaining.
+
+CREDITS
+
+Written for the Spectrum and Amstrad by Rafaelle Cecco and converted to the
+Commodore 64 by Nick Jones.
+
+(c) Hewson Consultants 1987
+
+The program and data are copyright and may not be reproduced in part or in
+total by any means without the written permission of Hewson Consultant Ltd.
+All rights reserved. No responsibility is accepted for any errors.
+
+Our policy is one of constant improvement. Therefore, we reserve the right
+to modify any product without notice.
+
+Hewson Consultants Ltd.
+56b Milton Park
+Milton
+Abingdon
+Oxon OX14 4RX
+
+Complete Instructions typed in by Paul Thompson, March 2003

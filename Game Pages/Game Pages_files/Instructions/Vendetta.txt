@@ -1,0 +1,450 @@
+                                    VENDETTA
+
+                                P L A Y E R ' S
+                                   G U I D E
+
+
+VENDETTA STORY
+
+
+The rain was playing its usual winter chorus on the dirt-ridden, cracked window
+and seemed to pound incessantly in time with the flickering neon lights which
+adorned the murky skies of the neighbourhood. A figure sits alone, rooted to
+this pathetic hovel he calls a home and runs a scarred hand through four days
+of stubbled nicotine-stained growth which clings to his stone-cut jaw. Its at
+times like these he remembers and sinks deeper into the comforting arms of a
+bottle of whiskey. The memories come flooding back as fast and as furious as
+the relentless raindrops, and his eyes seem blurred and somewhat confused with
+a combination of unanswerable questions and the inevitable alcohol.
+
+A one-time war hero, this guy put his unit on the map. He was the best and they
+knew it. If something had to be done, he did it. It was this loyalty to an
+unprecedented military career that impressed all around him and he found
+himself the enviable role model to all the young rookies, still wet behind the
+ears, who idolised his every manoeuvre, his every idea and his sometimes
+questionable solutions. It was his combat wisdom which brought about the
+downfall of a bloodthirsty terrorist group. Intent on a crusade to become the
+ultimate power syndicate they very nearly succeeded in Saigon, before the army
+played its trump card and a hero was born. The terrorist group were scattered,
+believed immobilised and obviously intent on revenge. His efficiency had been
+second to none but his type worried the men at the top. No mere combat soldier
+could possibly be seen to have a higher public profile than the bureaucratic
+leaders. He had to go, he had to learn to become a citizen all over again.
+
+A half-torn carrier bag containing his only wordly goods and a tongue-in-cheek
+pat on the back, seemed little consolation for what this man had done. The
+injustice, the unnecessary pain and the fear of having to live a seemingly
+futile existance, tore him in two and a now clouded understanding of his
+treatment pulled at his heart strings and questioned his loyalty to a
+government for whom he had once fought so proud.
+
+The police seemed to be niggling at him all the time, endlessly harassing him
+for any apparent reason, however trivial, trying to make him crack, trying to
+make him public enemy number one. A personality clash had developed between him
+and a General, way back in Saigon - a cowardly General, jealous of his herioc
+image and seemingly immortal status among the troops. Now was the time to get
+his own back. He had achieved numerous promotions throughout the police force
+and was now calling the shots.
+
+"Make his life hell" were the orders distributed through the system and the
+police endeavoured to do just that. Society was not allowed to accept him back
+under her motherly wing.
+
+He questioned himself time and time again, looking for an answer, looking for a
+way back, looking for days through that same cracked glass in the window frame
+which stood like a huge brick wall between him and the existance he so rightly
+deserved. Forced to live life as a virtual recluse, he draws comfort from what
+remains of a once tight family unit - his close brother and his lovely niece.
+His brother, a highly regarded professor who works for the Ministry of Defence,
+pulled him through his dilema and has strived to provide him with a new
+foundation upon which to build his life. He is himself a pillar of importance
+to the government, as the one man who can and has devised a precious formula
+for the creation of the ultimate military defence mechanism, which in the wrong
+hands, could be dramatically used for destruction on a colossal scale. How
+differently the government viewed two brothers who were second to none in their
+respective fields.
+
+"High risk" categorised the professor's work and he seemed somewhat oblivious
+to his obvious personal danger. It was therefore not surprising when the
+professor and his daughter went missing. There were signs of a struggle. Torn
+pieces of clothing littered his study and combined with occasional bullet
+shells and blood to outline a sinister atmosphere in the room which signified
+obvious terrorist activity.
+
+The confusion is still there, the burning desire to be accepted once again now
+takes second place to the worry that is twisting his mind. His brother, his
+niece - his only incoming love, were now in serious trouble.
+
+It had become apparent that his lethal adversaries from the Saigon days had
+taken them, were striving for bigger things again and therefore craved the
+professor's secret formula.
+
+His mind flicked over the terrorists' letter of demands, over and over again,
+and his fist clenched in defiance as he read that the two hostages were to be
+killed if the valuable formula was not delivered in time.
+
+It was obvious to him and the public that the police thought he was connected
+in some way. This was the old General's chance to put him away for good, the
+ultimate revenge.
+
+The tempo of the rain hammering against the window increased with his
+heartbeat, and the relentless thoughts staring through the window continued
+and swirled around his mind as he slowly drew conclusions to what he could and
+must do. His work in Saigon now seemed incomplete, loose ends from his last
+mission had to be tied up and it now seemed obvious he would have to clear his
+own name from being suspect number one. Perhaps he would be finally accepted by
+a public now craving for a new hero. He knew he had the right credentials, the
+best. He knew he had to save the only family he had and loved. It was pay-back
+time, it was his mission.
+
+This had become personal . . . this was now a VENDETTA.
+
+
+LOADING INSTRUCTIONS
+
+
+Set up your COMPUTER system as detailed in your user manual. Ensure that all
+non-essential peripherals - such as cartridges, printers, etc. are
+DISCONNECTED. Failure to do so may cause loading DIFFICULTIES.
+
+1   If you are using your Commodore 64/128 with the cassette version of
+    VENDETTA . . .
+
+    Connect your data cassette player and switch your computer and TV/monitor
+    on. C128 owners should now select C64 mode by typing GO64, pressing RETURN
+    then Y, then RETURN again.
+
+    Insert the VENDETTA cassette into the data cassette player, ensuring that
+    it is fully rewound.
+
+    Hold down the SHIFT and RUN/STOP keys on the computer together. Then press
+    the PLAY key on the data cassette player. The game should then load.
+
+2   If you are using your Commodore 64/128 with the disk version of
+    VENDETTA . . .
+
+    Connect your disk drive to your computer and switch the disk drive,
+    computer and TV/monitor on. C128 owners should now select C64 mode by
+    typing GO64, pressing RETURN, then Y, then RETURN again.
+
+    Insert the VENDETTA disk into the disk drive, label side up. Now type
+    LOAD"*",8,1 and hit RETURN. The game should then load.
+
+3   If you are using your Amstrad CPC 464, 664, or 6128 with the cassette
+    version of VENDETTA . . .
+
+    Switch your TV/monitor and computer ON.
+
+    If your computer has a bult-in disk-drive you should now connect a
+    compatible cassette player to your computer. Then type '|' symbol, press
+    the SHIFT key and @ key together.
+
+    Insert the VENDETTA cassette into the tape player. Ensure that the cassette
+    label marked side one is facing upwards and that the cassette is fully
+    rewound.
+
+    Press the CTRL and small ENTER keys together, then press the PLAY button on
+    your cassette player. The game should then load.
+
+4   If you are using your Amstrad CPC 464, 664 or 6128 with the diskette
+    version of VENDETTA . . .
+
+    If your computer has a built-in cassette player, first switch your computer
+    OFF and connect a compatible disk drive to your computer. Now switch the
+    disk drive and the computer ON. Then type "|"disc and hit RETURN. Now your
+    computer will be ready to load data from disk. To obtain the '|' symbol,
+    press the SHIFT key and '@' together.
+
+    Insert the VENDETTA diskette into your disk drive, label side up. Type
+    RUN"DISC then hit the ENTER key.
+
+5   If you are using your ZX Spectrum, Spectrum+, Spectrum 48K, Spectrum 128K,
+    Spectrum +2 with the cassette version of VENDETTA . . .
+
+    Connect your cassette player to your Spectrum as advised in the user
+    manual.
+
+    If you are using a joystick then insert the necessary interfaces NOW.
+
+    Switch your TV/monitor, cassette player and computer ON. If your Spectrum
+    now displays a menu screen you may select with 48K or 128K Basic.
+
+    Insert the VENDETTA cassette into the cassette player, with the cassette
+    label marked "side one" facing upwards. Ensure that the cassette is fully
+    rewound.
+
+    Type LOAD"" and then hit the ENTER key. Now press the PLAY button on your
+    cassette player. The game should now load.
+
+6   If you are using your Atari ST, Amiga or Spectrum +3 with the diskette
+    version of VENDETTA . . .
+
+    Connect your disk drive to your computer - if your computer features a
+    built-in disk drive you will not have do this.
+
+    Insert the VENDETTA diskette into the disk drive, label side up. Switch
+    your TV/monitor, computer and disk drive ON.
+
+    For ST and Amiga users the game will now load automatically. Spectrum +3
+    users should then press RETURN and the game will load automatically.
+
+
+MULTI-LOAD INSTRUCTIONS
+
+
+VENDETTA is a multi-load game. Each level will be loaded as you complete the
+previous one. This means that to enjoy continuous play you MUST keep your
+VENDETTA cassette in your data cassette player, or your VENDETTA disk in your
+disk drive, at all times during a session with the game. On screen, prompts
+will appear when you complete a level, telling you what to do next.
+
+When loading cassette versions of the game you will be prompted to turn over
+the tape, rewind fully and load the next level.
+
+
+KEYBOARD CONTROLS
+
+
+FOR C64, AMIGA AND ATARI ST OWNERS
+
+(a) Mission Section
+
+Space bar - Select weapon (start game with fist and knife).
+
+F1        - Activates camera film roll (used in conjunction with joystick to
+            scroll through objects held).
+
+F1        - Deactivates camera film roll (i.e. to get back into the game).
+
+P         - Pause the game.
+
+(b) Driving Section
+
+F1        - Ground-to-air missiles.
+
+F3        - Machine guns.
+
+F5        - Nitrous oxide (turbo) boost.
+
+          - Press again to deactivate.
+
+P         - Pause the game.
+
+NOTE      - Weapons, etc. can only be used if you have found the weapon
+            activating card!
+
+FOR SPECTRUM AND AMSTRAD OWNERS
+
+(a) Mission Section
+
+Q         - Up/accelerate car.
+
+A         - Down/accelerate car/deccelerate car.
+
+O         - Left.
+
+P         - Right.
+
+N         - Fire weapon.
+
+          - Pick-up (must be worked in conjunction with direction option, i.e.
+            On - if character is facing the left).
+
+          - Punch.
+
+ENTER     - Select object held (in conjunction with fire button)
+
+Space bar - Deactivates status area and selects weapon.
+
+H         - Pause.
+
+If these keys prove unsuitable to some games players, there is an option to
+define the keys at the beginning of the game.
+
+(b) Driving Section
+
+ENTER + N  - toggles between missiles and guns.
+
+N + Q      - Nitrous oxide (turbo) boost.
+
+H          - Pause the game.
+
+NOTE       - Weapons, etc., can only be used if you have found the weapon
+             activating card.
+
+
+BASIC MOVEMENT
+
+
+The hero automatically faces the direction you pull the joystick in.
+
+Commodore, Spectrum, Amstrad and Atari owners all use this same joystick move.
+
+TO WALK FORWARD - push the joystick in the direction you want to move, i.e. to
+move left, pull left, etc.
+
+
+FIGHTING MOVEMENT/SPECIAL MOVEMENT (JOYSTICK)
+
+For C64, Amiga and Atari ST owners
+
+
+                                   HIGH PUNCH
+                                     OR STAB
+           MID-PUNCH OR STAB            ^           MID-PUNCH OR STAB
+                             <          |         >
+                               \        |       /
+                                 \      |     /
+                                   \    |   /
+                                     \WITH/
+     KICK (if facing left) <----------FIRE----------> KICK (if facing right)
+                                     /  | \
+                                   /    |   \
+                                 /      |     \
+                               /        |       \
+                             <          |         >
+                                        v
+                                  CROUCH/PICK-UP
+
+NOTE  - Activate weapon held by pressing fire button and this includes throwing
+        grenades.
+
+JOYSTICK MOVEMENT FOR DRIVING
+
+For C64, Amiga and Atari ST owners
+
+
+       Accelerate while            Accelerate           Accelerate while
+   turning in this direction            ^           turning in this direction
+                             <          |         >
+                               \        |       /
+                                 \      |     /
+                                   \    |   /
+                                     WITHOUT
+                 TURN LEFT <----------FIRE----------> TURN RIGHT
+                                     /  | \
+                                   /    |   \
+                                 /      |     \
+                               /        |       \
+                             <          |         >
+                                        v
+                                Deccelerate/Brake
+
+NOTE  - Use fire button to activate weapons (only if the weapon system card has
+        been found).
+
+NOTE  - When stopped by police, up and down movement scrolls through evidence
+        held. Press fire to select
+
+
+FIGHTING MOVEMENT/SPECIAL MOVEMENT (JOYSTICK)
+
+For Spectrum and Amstrad owners
+
+Fighting - Press fire button in direction facing to activate punch or any
+           weapon held.
+
+Pick-up  - Work direction option in conjunction with fire button (i.e. pull
+           joystick to right and fire at same time picks up facing right).
+
+JOYSTICK MOVEMENT FOR DRIVING
+
+For Spectrum and Amstrad owners
+
+       Accelerate while            Accelerate           Accelerate while
+   turning in this direction            ^           turning in this direction
+                             <          |         >
+                               \        |       /
+                                 \      |     /
+                                   \    |   /
+                                     WITHOUT
+                 TURN LEFT <----------FIRE----------> TURN RIGHT
+                                     /  | \
+                                   /    |   \
+                                 /      |     \
+                               /        |       \
+                             <          |         >
+                                        v
+                                Deccelerate/Brake
+
+NOTE  - Refer back to keyboard controls for car weapons.
+
+NOTE  - Weapon system only activates if weapon card has been found.
+
+
+GENERAL TIPS
+
+
+The first aspects of the game you should MASTER are the JOYSTICK controls. The
+highly interactive nature of the game is required because of some of the
+COMPLEX MOVES the main character has to perform. A high level of competence at
+the controls will enhance your game play CONSIDERABLY.
+
+Because of the adventure elements, our second suggestion is that you should get
+into the habit of RECORDING what happens on each screen. This will enable you
+to obtain HIGHER SCORES with repeated play.
+
+The last point is, NEVER take anything FOR GRANTED - some things are not as
+they appear. Be curious, nosey, etc. and examine everything.
+
+
+GAMEPLAY HINTS
+
+
+The following are clues to some of the objects and hazards you may come across
+in your travels, and are not necessarily the order in which you have to find
+them.
+
+In the spirit of all good adventures . . .
+
+WE HAVE NOT TOLD YOU THE WHOLE STORY . . .
+
+Sear in mind that the game is against the clock. You have one hour to complete
+the game, solve the puzzles and finally relinquish the terrorist group once and
+for all, before the executions begin.
+
+As you get into the game, watch for flashing crosses (only in C64, Amiga and
+Atari ST versions) to help your mission unfold. Kick or punch doors to gain
+access into rooms which hide various weapons, ammunition, and bullet-proof
+vests to help combat the evil terrorists whose trousers are variously coloured
+to depict how strong they are (only in C64, Amiga and Atari ST versions).
+
+A crowbar helps you gain access to locked crates, etc. (only in Spectrum and
+Amstrad versions) and other tools may be vital to the gameplay later on.
+
+You start the game armed only with your fists and a knife, but your razor-sharp
+mind should have you exploring everything from video recorders, computers
+(which may need the help of floppy discs and log books) and "lived in" areas of
+the game that show where the hostages have been kept, moved on, and have
+consequently dropped VITAL EVIDENCE (necklace, shoes, etc.). Your Ferrari F40
+car is your only ally, but needs the correct "EXTRAS" to make it go and make it
+lethal.
+
+Don't forget, the police think you were involved in the crime, so be prepared
+for hassle. Make sure you collect enough evidence in case you are stopped and
+interrogated by the law.
+
+Good luck . . . you're going to need it!
+
+
+LOADING DIFFICULTIES
+
+
+We are always seeking to improve the quality of our product range, and have
+developed high standards of quality control to bring you this product. If you
+experience any difficulties whilst loading, it is likely to be a fault other
+than the product itself. We therefore suggest that you switch your computer off
+and repeat the loading instructions carefully, checking that you are using the
+correct set of instructions for your computer and software. If you still have
+problems, consult the User handbook that accompanied your computer or consult
+your software dealer for advice.
+
+IN THE CASE OF CONTINUED DIFFICULTY AND YOU HAVE CHECKED ALL OF YOUR HARDWARE
+FOR POSSIBLE FAULTS, MAY WE SUGGEST THAT YOU RETURN THE GAME TO THE PLACE OF
+PURCHASE.
+
+
+                                    System 3
+                         Blenheim House, Ashill Drive,
+                           Pinner, Middlesex HA5 2AG.
+                                Tel: 01 866 5692

@@ -1,0 +1,63 @@
+MIDNIGHT RESISTANCE
+
+SCENARIO
+A ruthless Commissar, leader of a vicious regime of megalomaniacs, has kidnapped
+your family, (including your Grandfather - a world famous scientist) in a
+desperate bid for dictatorial power over the earth.
+Can you rescue your relatives before the evil Commissar forces your Grandfather
+to use his superior weaponry research in order to enforce his own tyranny
+throughout the planet?
+Pit your wits against an obsessive army, their tortuous traps and a convoy of
+menacing machinery.
+
+LOADING
+
+SPECTRUM
+48K - Type LOAD"" (ENTER)
+128K -Use LOADER
+
+CONTROLS
+This is a one player game controlled by joystick and keyboard which is fully
+redefinable.
+
+PRESET KEYS
+Q           - UP
+A           - DOWN
+0           - LEFT
+P           - RIGHT
+M           - FIRE WEAPON
+SPACE BAR   - FIRE BACK PACK
+H           - PAUSE GAME
+Cursor keys may be used on the Spectrum with 0 to fire.
+
+JOYSTICK CONTROLS
+
+WITHOUT FIRE
+       JUMP/CLIMB UP 
+            |
+MOVE LEFT ----- MOVE RIGHT 
+            |
+      DUCK/CLIMB DOWN
+WITH FIRE
+          FIRE WEAPON & BACK PACK 
+                 CLIMB UP
+                     |
+FIRE WEAPON/ ________|______ FIRE WEAPON/
+MOVE LEFT            |       MOVE RIGHT
+                     |
+               FIRE WEAPON 
+             DUCK/CLIMB DOWN
+
+GAMEPLAY
+When destroyed, some of the enemies will drop keys which you may collect. You
+con only carry six. These may be used to buy extra weapons, back-packs and
+features from the weapon rooms.
+These are situated at the end of each level and contain six different types of
+weapon. However you have a limited budget so you must be careful when making
+your selection The weapons within your budget will flash as you walk post their
+cabinets and to make your purchase you must jump up and collect it as it falls.
+(c)1 990 Ocean Software Ltd
+The Hit Squad,
+RO. Box 350,
+Manchester.
+M602LX

@@ -1,0 +1,32 @@
+LOADING SPLAT
+
+Connect the ear socket on the spectrum to the ear socket on your cassette
+recorder.
+
+Insert the cassette label upwards into your cassette recorder and rewind
+to the beginning.
+
+Type LOAD "" and then press enter.
+
+Press play on your cassette recorder.
+
+The program will run automatically when loaded. If the program fails to 
+load, rewind the tape and adjust the volume level and try again.
+
+LOUDER SOUND
+
+To amplify the sound effects: connect the mic socket on the Spectrum to
+mic socket on your cassette recorder. Disconnect ear sockets. Remove 
+cassette and press play on your cassette recorder.
+
+
+SPLAT (C) COPYRIGHT 1983
+Incentive Software Ltd.
+ALL RIGHTS RESERVED WORLDWIDE.
+
+The game and name Splat and all of its Associated Software, Code, Listings,
+Audio Effects, graphics, illustrations and text are the exclusive property
+and copyright of Incentive Software Ltd and may not be copied, transferred,
+reproduced, transmitted, hired, lent, distributed, stored or modified in 
+any form in full or in part without the express written permission of
+Incentive Software Ltd, 54 London Street, Reading RG1 4SQ England.

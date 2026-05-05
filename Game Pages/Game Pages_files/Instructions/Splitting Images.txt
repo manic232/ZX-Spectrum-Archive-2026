@@ -1,0 +1,104 @@
+SPLITTING IMAGES
+(c) DOMARK 1986
+
+Loading Instructions:
+
+Load "" (enter)
+
+After the basic loader and short file have loaded the border 
+turns black, and it stays black during the rest of the 
+loading.  A "timer" will appear at the bottom of the screen 
+to show how much longer the program has to load.
+One side of the tape has a demo program recorded before the 
+main game.  This will show you how the game looks in action.
+
+Controls:
+Keyboard Controls:
+O = left
+P = right
+Q = up
+A = down
+Cap/shift to space = fire
+
+R+T = Abort Game
+H = Hold (Pause)
+J = Continue
+
+Joystick Options:
+2 Kempston
+3 Cursor, Protek or AGF
+4 Interface II
+
+5 = starts the game
+
+How to Play the Game
+The idea is simple - just build up a splitting image of the 
+character by arranging the squares in the right order.
+The spinning cursor is controlled with the direction 
+keys/joystick.  At the start of the game you'll find it in 
+the top lefthand corner under the arrow.
+You can make pieces of the picture or bonus items appear by 
+pressing fire while the cursor is in the box.  You'll have 
+noticed by now that the little screen on the righthand side 
+is lighting up as you pass over each piece of the picture.  
+This shows the correct position for the piece that the 
+cursor is spinning over.  If you want to move a piece or 
+item then put the spinning cursor on that particular piece
+hold down fire and press down whichever direction you wish
+to move it.  Notice you can only push a piece until it 
+either hits the wall or another square, watch out for the 
+black cracks in the border or you're in for a surprise.  
+Have you noticed that there are several little doors opening
+and closing automatically?  If they are closed, they act like
+the normal wall of the playing area, however, if they are 
+open then the moving piece will disappear through the hole.  
+If it is a piece of the picture then this is put to the end 
+of the "queue" of pieces waiting to be brought onto the 
+playing area.  If it is a bonus item then it disappears 
+forever. (tip: You'll find it helpful to get rid of the 
+pieces that are not required by throwing then through the
+little doors) When you have completed a level the computer
+waits until the fire button is pressed before continuing
+onto the next stage.  If you're in doubt try it out.
+
+Items and Their Meaning
+
+Bonus Score
+Each level has several items associated with the person
+whose picture you are trying to create.  If these are
+pushed together they will give you the bonus points.  
+However, if you push the wrong items together they will 
+both be destroyed with no bonus points being given.
+
+Clues
+1. The Bomb: Explodes after 5 seconds. Destroy it by
+pushing it away through one of the doors.
+2. Water tap: Push it against a bomb to destroy it and
+earn 5,000 bonus points.
+3. Diamond: Push it against another diamond and your
+time limit will be raised by a maximum of one minute.
+4. Fuel: Don't throw it against a match it's explosive.
+5. Match: Don't throw it against the fuel it's explosive.
+6. Pistol: Throw it against a bullet and your bonus points
+will be multiplied by two.
+7. Bullet: Throw it against a pistol and your bonus points
+will be multiplied by two.
+8. Hammer/Ice Cream/Cup of coffee: Mystery items!
+
+Remember if you throw the wrong item together they will 
+disappear with no bonus being given.
+
+Lives
+You have three lives during the whole game, these are
+shown by the black squares in the bottom righthand
+corner.  However: After an explosion of an item or if
+your time runs out (shown by the marker at the bottom of
+the screen) your lives will be decreased by one.
+If you reach a score of 100,000 you are awarded one extra
+life.
+
+Scoring
+If you complete a level within the time limit you will be
+awarded bonus points.
+Otherwise bonus points will be awarded from throwing the
+correct items together.

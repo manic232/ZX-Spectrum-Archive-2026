@@ -1,0 +1,108 @@
+FANTASY WORLD DIZZY
+-------------------
+
+DIZZY & DAISY strolled through the enchanted forest
+without a care in the world... BUT SUDDENLY the Evil
+King's troll seized poor Daisy! She was sent to Wizard
+Weird's Tallest Tower, while Dizzy was dragged away
+and thrown into the deepest, darkest, dankest, of the
+King's Dungeons in the bowels of Fantasy World. DIZZY
+was frightened! Who knew what fate awaited him... and
+he still hadn't done this week's homework! But then he
+remembered that he had a fresh green apple that he had
+planned to give to his teacher to escape detention, and
+he cheered up. And there was some bread and water on
+the table! A cunning plan began to brew in his mind...
+
+But DIZZY can't do everything on his own... you must
+help him!
+
+--------------------------------------------------
+
+LOADING: 128K users press ENTER
+48K users type LOAD "" press ENTER
+
+--------------------------------------------------
+
+CONTROLS
+
+KEYS      ACTION               JOYSTICK
+----      ------               --------
+SPACE     START GAME           FIRE
+Z         LEFT                 LEFT
+X         RIGHT                RIGHT
+SPACE     JUMP                 UP
+ENTER     PICK UP/DROP/USE     FIRE
+
+Use Z, X or K, M (or Joystick) to select an object in
+the inventory (list of what is being carried).
+
+PRESS Q TO QUIT THE GAME
+
+--------------------------------------------------
+
+HINTS
+
+The objective is to rescue Daisy, but as you'll discover
+there'll be a further mission should you complete that.
+
+You have 3 lives.
+
+Be careful in water - everyone knows that eggs are air
+breathers!
+
+Don't turn into a fried egg - avoid fire!
+
+The wildlife is dangerous - Dizzy looks tasty...
+
+--------------------------------------------------
+
+THE INVENTORY (LIST OF OBJECTS CARRIED)
+
+Pressing PICK-UP takes you to the inventory.
+
+If you were standing next to an object then Dizzy will
+automatically pick it up and assume you wish to leave
+the inventory without dropping anything.
+
+But if you were not standing next to an object then the
+top object being carried will be selected for dropping.
+
+Exit the inventory with the DROP/USE key which will drop
+or use the selected object.
+
+You can change the automatic selection by using left &
+right or up & down.
+
+GOOD LUCK - YOU'RE GOING TO NEED IT!
+
+--------------------------------------------------
+
+CODE MASTERS
+
+Programming       The Infamous Oliver Twins
+Graphics          Neil Adamson
+Music             David Whittaker
+Project Manager   David (Absolutely Brilliant! - Ed.) Darling
+Production        Steward Regan
+Illustration      Alastair Graham
+
+
+This program, including code, graphics, music, and
+artwork are the copyright of The Code Masters Software
+Co. Ltd and The Oliver Twins, and no part may be copied,
+stored, transmitted or reproduced in any form or by any
+means, hired or lent without the express permission of
+The Code Masters Software Co. Ltd and The Oliver Twins.
+
+MADE IN ENGLAND
+
+Code Masters are always on the look out for good machine
+code games programmers, and computer artists. If you have
+written a game which you think is publishable, or have a
+good graphics demo, please send it to: David Darling, Code
+Masters, P.O. Box 6, Southam, Warks, CV33 0SH. (England).
+
+--------------------------------------------------
+
+Instructions typed up by Steven Kirby, November 2003

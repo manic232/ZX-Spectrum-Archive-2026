@@ -1,0 +1,130 @@
+SPACE GUN
+Ocean
+
+
+SCENARIO
+
+In the year 2039AD man has begun deep space exploration. However, throughout
+the deep expanse of space there are many unknown dangers awaiting weary 
+travellers and explorers.
+From a crippled ship a distress call is transmitted. You have received the
+message. Will you be able to rescue the helpless hostages from the clutches of
+the astral hijackers?
+Travel through corridors and rooms packed with aliens of all sizes, searching
+for survivors, and out onto the planet surface to more dangerous regions.
+
+
+LOADING
+
+COMMODORE CASSETTE
+Position the cassette in your Commodore recorder with the printed side upwards
+and make sure that it is rewound to the beginning. Ensure that all the leads
+are connected. Press the SHIFT key and the RUN/STOP key simultaneously. Follow
+the on-screen instructions - PRESS PLAY ON TAPE. This program will then load
+automatically. For C128 loading type GO 64 (RETURN), then follow C64
+instructions.
+
+DISK
+Select 64 mode (if using Commodore 128). Turn on the disk drive, insert the
+program into the drive with the label facing upwards. Type LOAD "*",8,1
+(RETURN). The introductory screen will appear and the program will then load
+automatically.
+
+SPECTRUM 128/+2/+2A/+3 (128K ONLY) CASSETTE
+Place the cassette in the recorder, ensuring that it is fully rewound. Select
+LOADER option and press the ENTER key. Follow on-screen instructions.
+
+
+CONTROLS
+
+C64/CONSOLE
+This is a one-player game controlled by a joystick in Port 2. During the 
+titles use the joystick to select music or sound effects and press Fire to
+start the game.
+During the game the joystick will move the gunsight and the Fire button will
+fire. If a second fire button exists it will select a weapon from the 
+available arsenal.
+On a C64 the following keys are used:
+	SPACE        SELECT WEAPON
+	RUN/STOP     PAUSE (Fire to resume or Q to quit)
+
+SPECTRUM
+This is a one-player game playable with a Sinclair 2, Kempston or Cursor
+joystick. To use a Kempston joystick press K during the titles. If none of
+these joysticks is available the following keys can be used:
+	Q	UP
+	A	DOWN
+	O	LEFT
+	P	RIGHT
+	SPACE	FIRE
+The following keys are used with all joysticks and keyboard:
+	M	SELECT WEAPON
+	H	PAUSE GAME (H to resume)
+During the game the appropriate controller will move the gunsight and the fire
+button will fire. The M key will select a weapon from the available arsenal.
+
+
+GAMEPLAY
+
+Travel through the corridors of the spaceship and the barren planet surface
+searching for trapped hostages who must be rescued. As you pass walls
+flashing lights may appear and firing at these will produce one of the
+following pickups which can be collected by shooting them:
+
+a flame thrower - scorch those aliens!
+a grenade - blow 'em to smithereens!
+a blade - cut 'em in two!
+a freeze gun - leave 'em standing!
+body armour - protect yourself!
+red tube - refresh yourself with some energy units
+yellow tube - restore yourself to full energy
+
+If a weapon is continually fired its recharge rate will drop and its
+firepower will become less and less effective. The weapon's recharge rate
+will increase if firing is ceased.
+
+In some parts of the complex you will encounter large guardians which must
+be conquered before you can continue.
+
+You will fail in your mission if you lose all your energy or lose all
+your hostages.
+
+On some implementations you may have a choice of direction to travel at
+certain points in the complex. Select a direction by shooting the
+appropriate arrow which will appear.
+
+
+STATUS AND SCORING
+
+At the top of the screen are the scores for the players taking part, the
+time remaining to complete the current section of the complex and the number
+of hostages in that section. A hostage icon will be blank if they have not
+been found, filled if they have been rescued or crossed out if they have
+been killed.
+
+At the bottom of the screen is a radar display which will reveal some of the
+aliens in the vicinity and, for each player taking part, a display
+indicating the current number of special weapons in their arsenal and which
+weapon is currently selected, the current energy available to the player
+shown as a segmented bar and the current weapon recharge rate.
+
+
+HINTS AND TIPS
+
+Concentrate on large aliens first. Use special weapons on large groups for
+best results. Collect as many different weapons as possible. Remember that
+not all aliens will appear on the radar. Don't get the blues or life will
+become tricky!
+
+
+CREDITS
+
+(c) 1991 Taito Corp. All Rights Reserved.
+Conversion by Images Software Ltd.
+C64 Programmed by Tom Pinnock
+Graphics by Andy Pang, Chris Edwards
+Spectrum Programmed by Damian Stones
+Graphics by Steve B.
+Music by Sonic Projects
+Produced by D.C. Ward
+(c) 1992 Ocean Software Ltd.

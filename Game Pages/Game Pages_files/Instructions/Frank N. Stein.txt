@@ -1,0 +1,32 @@
+FRANK N. STEIN
+(P.S.S.)
+
+
+Have you got what it takes to build your very own monster?
+THE SETTING: Professor F.N. Stein's laboratory in his Castle in the
+Black Forest.
+THE TIME: 1884
+THE GAME: 50 Screens requiring timing, logic and planning to complete.
+THE OPPOSITION: Too many to list here, but featuring: snails, bats,
+ice (it makes you slip!), firemen's poles, man-eating pumpkins,
+spiders, slime (it slows you down), caterpillars, tanks, spring, light
+bulbs (they electrocute you), mice, lobsters, snakes, bumble bees,
+jack-in-the-box, etc.
+THE OBJECT: As you know, all the best monsters are hand built. Prof.
+Stein's life-long ambition has always been to build his own monster -
+but first he needs all the bits!
+You guide him around the dungeon picking up the bones - make sure you
+get the right order - then activate him by throwing the switch - the
+longer you take to complete each screen the higher will be the charge
+you give him - and the angrier he will become - so watch out!
+JOYSTICK COMPATIBILITY: The program will work with the following
+joysticks: AGF, Kempston, Protek, Sinclair Interface, Quickshot.
+Alternatively you can use the following keys:
+Z - MOVE LEFT     X - MOVE RIGHT
+SPACE - ACTIVATE (eg. when over a spring, pressing SPACE will make you
+jump)
+TO LOAD: Follow the instructions given in Chapter 20 of the Spectrum
+manual and use the command LOAD "".
+
+
+(c) MCMLXXXIV PSS.

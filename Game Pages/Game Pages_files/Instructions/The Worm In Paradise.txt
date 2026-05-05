@@ -1,0 +1,137 @@
+                 T H E   W O R M   I N   P A R A D I S E 
+                                 (Level 9)
+        (Later released as Part 3 of the 'Silicon Dreams Trilogy')
+
+
+Before  describing a 'solution' to this adventure, it must be accepted that
+there isn't a move-by-move solution from start to finish!
+Only the very early part of the adventure is constant, as far as a solution
+is concerned. This is due to two main features:
+
+   (1)THE EDEN TRANSPORT SYSTEM - which throws up different address
+                                  locations on each load of the game.
+
+   (2)THE FUZBOTS OF ENOCH - who could crop up anywhere at any time.
+
+These being, obviously, in addition to any normal problems you may generate
+by the wrong action. Other notable features are:
+
+   (3)The Enoch TIME system - be sure to be home before curfew is
+                              imposed, and do not attempt to start a
+                              job too late in the day or the
+                              Workplace Droid will reject you!
+
+   (4)Never be in debt - you cannot afford the fine AND complete
+                         the game, so keep an eye on your Creds by
+                         'EXAMINE TATTOO'.
+
+THE EDEN TRANSPORT SYSTEM: Refer to your maps for clarification!
+
+This consists of three 'ETS' Roundabouts, all accessible from the Northmost
+roundabout. They are uniquely colour-coded by the FIRST COLOUR mentioned on
+a grid location, as follows:
+
+                   RED........the ETS 'EAST'
+                   BROWN......the ETS 'NORTH'
+                   BLACK......the ETS 'WEST'
+
+When  entering  an  ETS  type  'JUMP' to reach the centre and 'SAY EXIT' to
+leave (then SOUTH).
+
+There are SIX important addresses on the ETS which you must visit, BUT they
+may differ on each loading of the game!
+
+                  1.YOUR HABIHOME
+                  2.THE SOCIALIST'S HABIHOME
+                  3.THE JOB CENTRE
+                  4.THE TRAVEL AGENTS
+                  5.THE FLORISTS
+                  6.THE HARDWARE WAREHOUSE
+
+The  first one (Your Habihome) is easy to find and you don't really need to
+remember  this  address  -  just  type 'SAY HOME' in open areas, other than
+exits  from  roundabouts  leading to an ETS, and you are deposited one move
+North  of  your  Habihome  (SOUTH to enter). On leaving your Habihome, type
+'SAY  EXIT'  then  'SOUTH'  and  you're  placed  somewhere on the Northmost
+Roundabout, depending on your 'home' address.
+
+The  second  one (Socialist's Habihome) is found by examining a brooch (see
+Solution).
+
+The  remaining  four  are  given  out  on  television  advertisements  (see
+Solution).
+The  different  addresses  found  so far may not provide for EVERY possible
+address but most codes are mentioned. They are as follows:
+
+A.SOCIALIST'S HABIHOME
+
+       CODE: RED/YELLOW/BROWN/BLUE/GREY/VIOLET/BROWN
+   EAST ETS: Route from centre is:- SE-SW-SE-S-SE-SW-SW-S-SW
+                                    -SW-SW-W-W-S- then SOUTH.
+
+       CODE: BLACK/GREEN/BROWN/ORANGE/WHITE/BLACK/ORANGE
+   WEST ETS: Route from centre is:- SW-S-SE-SW-SE-S-SW-SE-SW
+                                    -SW-SE-E-E-E-SW- then SOUTH.
+
+B.THE JOBCENTRE
+       CODE: BROWN/GREY/GREEN/VIOLET/GREY/YELLOW/RED
+  NORTH ETS: Route from centre is:- S-SW-SE-SW-SW-SE-S-S-S
+                                    -S-SW-S- then SOUTH.
+
+       CODE: RED/WHITE/GREEN/VIOLET/BROWN/BLUE/BROWN
+   EAST ETS: Route from centre is:- S-S-SW-SE-SW-SE-SE-SE-SW
+                                    -S-SE-E-E-SE- then SOUTH.
+
+       CODE: RED/VIOLET/GREEN/BROWN/BLACK/VIOLET/BROWN
+   EAST ETS: Route from centre is:- S-SW-SW-SW-SE-S-SE-SW-SW
+                                    -SW-SE-E-E-E-SW- then SOUTH.
+
+C.THE TRAVEL AGENTS
+       CODE: RED/VIOLET/YELLOW/ORANGE/BLUE/GREY/VIOLET
+   EAST ETS: Route from centre is:- S-SW-SW-SW-S-S-SW-SE-SE
+                                    -SW-SW-SE- then SOUTH.
+
+       CODE: BLACK/YELLOW/YELLOW/BLUE/BROWN/BLACK/BLACK
+   WEST ETS: Route from centre is:- SE-S-SW-SW-SW-S-S-S-SW
+                                    -SE-SE-E-E-W-S- then SOUTH.
+
+       CODE: BROWN/BROWN/YELLOW/GREY/YELLOW/GREEN/GREY
+  NORTH ETS: Route from centre is:- S-SE-S-SW-SW-SW-S-SW-S
+                                    -SW-SE-E-E-E-S- then SOUTH.
+
+D.THE FLORISTS
+       CODE: RED/BLUE/RED/BLUE/BROWN/BLUE/GREY
+   EAST ETS: Route from centre is:- SW-SE-S-SW-S-S-S-SE-SW
+                                    -SW-SE-E-E-SE- then SOUTH.
+
+       CODE: BLACK/BLACK/RED/YELLOW/GREEN/GREY/BROWN
+   WEST ETS: Route from centre is:- S-S-S-SE-SE-SW-SE-SW-S
+                                    -SE-SE-E-E-E-SW- then SOUTH.
+
+       CODE: RED/GREY/RED/BLACK/ORANGE/WHITE/BLACK
+   EAST ETS: Route from centre is:- S-SW-S-S-S-SW-S-SW-S-SW
+                                    -SW-W-W-E-S- then SOUTH.
+
+E.HARDWARE WAREHOUSE
+       CODE: BROWN/BLUE/ORANGE/ORANGE/RED/WHITE/BLACK
+  NORTH ETS: Route from centre is:- SW-SE-S-SW-SE-S-SE-S-S
+                                    -SW-SE-SE- then SOUTH.
+
+
+       CODE: RED/BLUE/ORANGE/BLACK/ORANGE/RED/ORANGE
+   EAST ETS: Route from centre is:- SW-SE-S-SW-SE-SW-S-S-SW-S
+                                    -SE-E-E-W-SE- then SOUTH.
+
+(Note:-  Do  not  'type  ahead'  too  far  in advance as the parser becomes
+confused!  If,  however,  you  become  'lost',  just  type 'JUMP' and start
+working through the appropriate sequence of directions again.)
+
+The  final  note before commencing the game is regarding the clock. It is a
+decimal  clock (0-10).....5 is Midday and 10 is Midnight. 'Curfew' is 10-3.
+Each 'hour' consists of 100 'minutes' - 'WAIT' command uses 10 minutes, any
+other single input uses 1 minute.
+
+It  is  wise  to  tackle  the adventure in 'day stages' but don't waste any
+'days'  because  after about a week the Fuzbots get fed up of you wandering
+about  and fine you for being a parasite of the state, irrespective of your
+work record!!

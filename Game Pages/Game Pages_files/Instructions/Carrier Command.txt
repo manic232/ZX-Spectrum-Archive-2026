@@ -1,0 +1,1484 @@
+CARRIER COMMAND - SPECTRUM 128/+3 GUIDE
+
+Before you load Carrier Command, you are advised to read the Mission Briefing.
+Once you have loaded the game, you should read the Carrier Operations Guide,
+trying out the various sections of the Carrier and familiarising yourself with
+the operational procedures.
+
+LOADING INSTRUCTIONS
+
+Spectrum 128k cassette users should insert the tape into the tape player and
+select LOADER then press Enter from the main menu. The game will now load
+automatically. Spectrum +3 disc users should insert the disc and select LOADER
+then press Enter from the main menu. The game will now load automatically.
+
+CONTROL DEVICES
+
+Carrier Command supports keyboard, joystick and (Kempston) mouse control.
+These can be chosen from the Options menu, which can be selected from the
+Front End screen.
+
+Control modes
+It is important to familiarise yourself with the two control modes that are
+used in the game: In "Pointer Mode", you move a pointer/cursor around the
+screen with the keys, joystick or mouse. This mode is used to click on icons
+by pressing the fire button. By pressing the defined control mode key, you are
+put into "Direct Control Mode", and in this mode the keys, joystick or mouse
+movements will actually control your Manta, Walrus, Carrier etc.
+
+STARTING THE GAME
+
+Once the game has loaded, you will be presented with the Front End screen.
+Click on Strategy Game if you want to begin a new game of Carrier Command, or
+Action Game if you wish to play a balanced mid game version to improve your
+combat skills. Selecting Options will allow you to select your game controls.
+
+SAVING THE GAME POSITION
+
+Save Game
+This option allows you to save your current game position to disk or tape, for
+later retrieval. To access this option from within the game, select the
+disc/tape icon. There are a number of file and game management options
+available here:
+
+Spectrum +3 disc users.
+You will need a blank (i.e. formatted) disc ready for saving your game
+position onto. Before saving for the first time, you will need to clear your
+disc and identify it as your Carrier Command save games disc. To do this,
+select the Zap Disc icon. Once the disc has been identified, you can then save
+onto it. You will not need to select Zap Disc again to save onto the disc in
+future.
+
+Spectrum 128k tape users.
+Tape users require a blank cassette to save game positions onto. If you do not
+wish to save a game position, you can continue by selecting any of the game
+icons available to reenter the game.
+
+Surrendering
+Selecting the surrender 'flag' icon allows you to abort the game - effectively
+surrendering to the enemy forces. To surrender, press 's' on the keyboard or
+select any other available game icon to continue.
+
+COLOUR CODING
+
+Spectrum Carrier Command uses the following colour
+coding for the three island alignments:-
+ 	Blue 		Friendly Island
+ 	Red 		Enemy Island
+ 	Green  		Neutral Island
+
+TIME LAPSE
+
+Spectrum Carrier Command includes a Time Lapse option, which effectively
+speeds up time whilst the icon Is selected and the fire button is pressed.
+This option is best used to speed up time whilst a vehicle (e.g Carrier) is on
+its way to a new destination. It can also be used to speed up the production
+of items to be shipped to the designated stockpile island. However, the time
+lapse will also have the same effect on the enemy forces.
+
+NB: The time lapse option does not effect the length of the time out on the
+messages screen, (please see the Carrier Command Operations Manual for further
+information on the message screen).
+
+------------------------------------------------------------------------------
+
+CARRIER COMMAND
+Copyright (c) Realtime Games Software Limited 1989
+
+MISSION BRIEFING & ACC EPSILON OPERATIONS GUIDE
+SPECTRUM VERSION
+
+
+Copyright subsists in all Rainbird Software, documentation and artwork. All
+rights reserved. No part of this software may be copied or transmitted in any
+form or by any means. This software is sold on the condition that it shall not
+be hired out without the express written permission of the publisher.
+Rainbird Software, Unit 1, Hampton Road, Tetbury, Gloucestershire.
+
+
+Page 2
+
+MISSION BRIEFING
+
+INCOMING SUB-ETHA FACSIMILE...
+
+FROM : FLEET ADMIRAL GEORGE H. WHITTAKER
+
+DATE: 4th June 2166
+TIME: 15:37
+
+ENTER OFFICIAL IDENTIFICATION SEQUENCE: *******
+ACCEPTED.
+
+DOCUMENT PROCEEDS:
+
+Commander, thank you for making yourself available at such short notice.
+
+The following information is of a highly confidential and sensitive nature and
+must not fall into the hands of dangerous and irresponsible persons. I am, of
+course, speaking of politicians and journalists. This document has been
+prepared by Commander Sherwood, and only he, you and myself are aware of the
+full extent of this sensitive situation...
+
+Document received 29 MAY 2166:
+
+It is a little known fact amongst the general populus of this nation that
+almost three years ago the ship SS Delta made an exciting and economically
+miraculous discovery whilst on a routine tour of duty in the Southern Ocean.
+
+The Delta is a member of our small fleet of Fuel Hunters -specially designed
+ships whose sole purpose is to scour the ocean bed, probing the silt and
+drilling into the rock, searching for the rarest commodities in the modern
+world - Fossil Fuels and essential industrial metals.
+
+Page 3
+
+Mineral Content of Island Lava diagram
+
+Page 4
+
+After reports of inconsistent air pressure and unpredictable tidal activity in
+an area 670 miles due west of Gamma Base, Delta discovered that a number of
+small volcanic islets had emerged from the sea and even more were emerging,
+due to a huge movement in the Treltor and Avapola tectonic plates which were
+not expected to separate for at least another six thousand years. A number of
+eminent scientists who were sent to investigate the phenomenon reached the
+conclusion that the movements were probably due to the multitude of
+underground nuclear weapon tests that were carried out in the late twentieth
+century, but the blame was never officially laid on any nation who had
+previously entertained a nuclear arsenal.
+
+The press and public were never informed of anything other than a 'minor
+geological fault' occurring in the area. However, the team of scientists who
+investigated the fault also put forward a theory suggesting that the stored
+energy trapped within the fault could be tapped and stored in a form suitable
+for shipping back home. The scientists' report put forward the following
+five-point plan:
+
+1. There should be a 'controlled' leak of the volcanic magma energy, to
+   produce a group of small islands similar to the ones already in existence,
+   but of a controllable size.
+
+2. The majority of the islands should be geologically encouraged to develop
+   volcanic activity, which could then be controlled.
+
+3. Some of the islands should have their volcanic activity inhibited, and
+   these islands could be used to house the various Power Stations and Command
+   Centres that would be necessary. All these facilities should be populated
+   by service droids.
+
+4. Two large vessels should be commissioned and developed. These ships would
+   carry a detachment of Aircraft and Amphibious Tanks which would transport
+   the Control Centre Builders (highly advanced self-constructing devices,
+   designed to build the Control Centres and their accompanying buildings),
+   collect raw materials, and also serve as a defence force, if need be.
+
+Page 5
+
+5. The Aircraft Carriers would start on opposite sides of the island
+   archipelago, and work towards 'populating' all the islands within a two
+   year period.
+
+With the whole planet in the midst of a colossal energy crisis, the government
+decided to keep the entire matter secret, whilst proceeding with the
+simultaneous design and construction of the two Carriers, and the controlled
+development of the archipelago of islands.
+
+The Carrier commission was given to the giant Draziw Industries Corporation,
+as they were the only contractor who were in a position to develop the
+aircraft, tanks, Command Centres, and ancillary service droids necessary for
+operation within the Carrier.
+
+The first carrier, the ACC Epsilon was completed eighteen months ago and set
+for sea trials in the Gamma Base area of the Southern Ocean. A number of
+significant modifications to the original design were made, and it was decided
+to make the Carrier totally computer and droid controlled, instead of having
+an on-board supervisory Commander as was originally intended.
+
+Unfortunately, time was of the essence, and many of the agreed modifications
+could only be incorporated in the second Carrier, ACC Omega before both
+Carriers were required to start their duties.
+
+Epsilon and Omega both set sail for the archipelago and anchored close to
+their designated "home islands", which had already been provided with a
+Command Centre, Power Station, a runway and a web of defensive weaponry,
+including ground to air missile launchers and high power chemical lasers. it
+was from the two home islands that the expanding network of occupied islands
+was to stem.
+
+It was during the final sea trials of the ACC Omega that Draziw Industries'
+Assistant Chief Engineer was found dead in his office. The initial post-mortem
+showed that he had died of a massive stroke, but following a tip-off from one
+of KA 6 section's agents, extensive tests showed that he had been injected
+with a previously undetected poison.
+
+Page 6
+
+Covert enquiries began amongst the members of the Technical Division at
+Draziw. Suspicion fell upon one of the programmers working on ACC Omega, and
+within a week, he had absconded. The following day, the Fleet Admiral received
+a document, a transcript of which is detailed below:
+
+"... Whittaker - Your agents managed to discover our fiendish plan, but it's
+too late to stop it now.
+
+The Control Computer software has been modified, and the ACC Omega is now
+under the direct control of the STANZA Organisation. Our demands are simple:
+If we do not receive payment of 15 Billion Dollars within 72 hours, the ACC
+Omega will be activated. It is now programmed to occupy and destroy all the
+islands, methodically ..."
+
+Our immediate action was to examine the control software of the ACC Omega. The
+software had indeed been modified, and the Omega could now be instructed to
+occupy an island using similar techniques originally developed for the
+planting of the Command Centre Builders. Once an island was occupied, the
+Omega would move on to another island, and gradually spread its network, using
+the Manta fighter planes and Walrus amphibious assault vehicles to support the
+Carrier. The software also contained numerous in-built time-key encrypted
+tamper proof routines, so modification of the code was impossible within the
+given time limit, even with the advanced new Ocran Socrates series of reduced
+laser-gate computers. The risks were all too apparent.
+
+The nuclear solution was rejected, since destroying the Omega would mean
+risking a greater disturbance of the geological plates, which could result in
+a major piariet-wide catastrophe.
+
+All the available agents in K-12 and K-16 sections were despatched to seek out
+members of Stanza, and following the capture and subsequent suicide of four
+Stanza associates, the deadline was cut by 24 hours. We now have until 12:00
+tomorrow to either pay the ransom (and hope that control
+
+Page 7
+
+of the ACC Omega will be returned to us) or face the consequences of losing
+our only hope in the race to provide a source of energy to the people of this
+nation.
+
+In the event of no solution being found by tomorrow, we may have a possible
+way of combating the destructive forces of the Omega:
+
+Our Chief programmer, Dr. Oliver Baird-Onions, believes that it may be
+possible to redirect the Omega's control system from its occupation task by
+engaging the Omega with the forces of the ACC Epsilon. It is hoped that the
+Omega's defensive systems will be activated, resulting in the island
+occupation slowing as it attempts to defend itself. Furthermore, it is highly
+likely that by occupying as many islands as possible using the ACC Epsilon,
+and taking control of Command Centres which have been constructed by the
+Omega's forces, the Omega will try to recapture islands, slowing its incessant
+spread.
+
+We have calculated that the only way to actually halt the Omega is to either
+destroy it (only possible by weakening its resources and power) or occupy all
+the islands in the complex, including the Omega's heavily defended base
+island.
+
+By modifying the Remote Reprogramming Pod, we have managed to create what is
+effectively a computer 'virus', suitable for dropping on Omega controlled
+Command Centres. The virus program will logically modify the Command Centre's
+operating system and turn an enemy controlled Command Centre into a friendly
+one.
+
+It should be possible to actually destroy an Omega controlled Command Centre
+if you need to resort to totally destructive measures, although this would
+mean that you would have to build your own Command Centre from scratch, which
+is obviously more time and resource consuming.
+
+Page 8
+
+There are three types of Automatic Command Centre Builder, each of which, when
+successfully deployed, will determine the island type that it develops. You
+will have to construct an island network which links to your Base island, and
+also define a Stockpile island to contain the weaponry, resources and
+equipment that your island network manufactures.
+
+The structure of your network will control the speed at which equipment is
+shipped to the stockpile island. It is also important to keep the Carrier
+relatively close to the stockpile island in order for equipement to be shipped
+to the Carrier as quickly as possible.
+
+At all times bear in mind the fact that the enemy Carrier will be trying to
+construct its own island network, and it will also try to break up your own
+network to prevent weaponry and equipment being supplied to your Carrier.
+
+I will leave the attack strategy entirely up to yourself, but the reports from
+the programming department indicate that it would be unwise to make an all-out
+assault upon the Omega, or its home island. The strategy most likely to
+succeed is based upon the principal of colonising a small group of islands
+around your home island, to create a 'safe area', then extend your network by
+creating protective clusters of islands, until your are in an advantageous
+position from which you can make an assault upon either the ACC Omega, or its
+home island.
+
+A full Carrier Operations Guide has been included with this document, and I
+suggest that you read it fully during your journey before you rendezvous with
+the ACC Epsilon.
+
+Good luck, Commander, and once again, thank you for accepting this challenging
+and dangerous mission.
+
+... TRANSMISSION ENDS.
+
+Page 9
+
+OPERATIONS GUIDE
+
+INTRODUCTION
+
+Before you read this Operations Guide, you are advised to study the Mission
+Briefing, and the machine specific User Guide, which will explain which
+control systems are available for your computer (e.g. joystick, mouse) and how
+to load the game.
+
+This Operations Guide is split into four main sections - each section relating
+to four of the five icons which are found on the left of the game screen
+display. The first section (file and program management) is described in the
+machine- specific user guide.
+
+Please note that this manual is laid out in the same way as the icons are
+ordered in the game, and it should be used as a reference manual, rather than
+reading it end-to-end.
+
+For each of the four major sections on the left of the screen, a bank of up to
+five related icons are displayed on the right hand side of the display. For
+instance, selecting AAV CONTROL results in the five icons for Direct Control,
+Navigation, AAV Fitting, AAV Launching and AAV information being displayed.
+
+For each of the five icon sections on the right of the display, a specialised
+control panel is displayed at the bottom of the screen.
+
+Every time a new icon is introduced, it is shown on the page as well as being
+described in the text.
+
+Page 10
+
+CARRIER CONTROL
+
+HELM
+
+ROTATING THE CARRIER
+The Helm is the Direct Control mode for the Carrier. By moving your control
+device left and right while in 'Control Mode', you are able rotate the Carrier
+note that it is a slow and un-manoeuvrable craft when at low speed.
+
+Clicking on the CENTRE UP icon will result in the Carrier ceasing to rotate.
+
+SPEED CONTROL
+The Carrier can move both in forward and reverse. The Speed indicator is split
+into four major divisions - any speed above the first quarter means that the
+Carrier is moving forward, and anything below this mark represents reverse. To
+change the speed, directly click on the Speed indicator itself to set the
+desired speed. Because the Carrier is a very large and heavy vessel, it moves
+comparatively slowly, and takes time to build up (and decrease) speed.
+Clicking on the AUTOPILOT icon twice will bring the Carrier to a halt.
+
+The top speed of the Carrier, when operating on full power with all drones
+docked, and in deep water is 178 knots. With drones on station, an aircraft
+landing, or while the Carrier is anchored off an island in shallow water, the
+top speed of the Carrier will be limited to around 40 knots, and its
+
+Page 11
+
+maximum speed in reverse is 22 knots. The Carrier's top speed is influenced
+directly by its damage status.
+
+AUTO-PILOT
+By clicking on the AUTOPILOT icon, the Carrier will be automatically set on
+course as defined in the Carrier's Map Command section.
+
+GROUNDING
+The Carrier is equipped with an automatic Anti-Grounding computer whose sole
+purpose is to prevent the Carrier from running aground. If the Carrier is in
+danger of grounding, its engines will be thrust into reverse to move the
+Carrier away from the island. Please note that the Anti-Grounding computer
+will not prevent the Carrier from colliding with other vessels or craft.
+
+RADAR
+Positioned in the bottom left-hand corner of the screen is the ship's
+Short-range scanner display. Quite simply, it shows all tangible ground, sea
+and air based detail within the proximity of the Carrier, including the shore
+line of the islands, when within range. To the right of the radar are two
+icons - these are ZOOM IN and ZOOM OUT, and they allow you to select the
+magnification level of the radar from the four available.
+
+LOCATION STATUS DISPLAY
+Situated in the bottom centre of the screen is the Carrier's Location Status
+Display, which contains information relating to the current position of the
+Carrier using the standard X,Y coordinate format, the current bearing of the
+Carrier in degrees, and the island (if any) of which the Carrier is in range.
+
+FUEL USAGE
+The Carrier's own fuel usage allows it to travel approximately 420 kilometres
+on a full complement of fuel. Additional refined fuel will be shipped back to
+the Carrier via the Resource Network, which will be your only salvation if you
+run low on fuel.
+
+Page 12
+
+CARRIER NAVIGATION
+
+The Carrier Navigation section is the main map control section within the
+Carrier environment. From within Carrier Navigation, you can plot and program
+the course of the Carrier, find out information about the islands the location
+of the enemy carrier and monitor the Resources network. At the beginning of
+the conflict, the Carrier is situated at the bottom left of the map, and the
+enemy Carrier is situated at the top right, both anchored off their Home Base
+islands.
+
+MAP MANIPULATION
+The Carrier's Advanced Navigation Computer is accessible from three sections
+of the Carrier's control system - Carrier Command, AAV Command, and Aircraft
+Command.
+
+Two modes of map manipulation are available in the Carrier Navigation section.
+The first is Strategy mode, which shows the location of the two Carriers, any
+programmed course for your Carrier, and geological island detail such as
+volcanoes and runways on islands. Strategy mode is selected by clicking on the
+STRATEGY icon, although this is always the default setting.
+
+There are three 'alignments' for each island, which are Neutral, Friendly, and
+Enemy. These are depicted by use of different colours. For a list of these
+colours, please refer to the machine specific User Guide.
+
+Page 13
+
+You can scroll the map in four directions by clicking on the four directional
+arrow icons. The map has eight different levels of resolution - at the lowest
+level of resolution, the whole map can be viewed, and at the highest level,
+surface detail on individual islands can be seen-To change the magnification
+level. click on the ZOOM IN and ZOOM OUT icons, situated to the right of the
+arrow cluster.
+
+By moving the arrow pointer anywhere on the map, you can zoom in and
+automatically centre the map by selecting direct control mode/Pointer mode
+(i.e. by pressing the second mouse button, or pressing the appropriate key).
+At the highest level of magnification, doing this will automatically centre
+the map on the cursor. At lower levels of magnification, doing this will
+centre the map on the island closest to the cursor.
+
+Page 14
+
+SETTING THE CARRIER'S COURSE
+To set the destination for the Carrier, firstly utilise the map manipulation
+icons to zoom in to the required resolution, and then click on your chosen
+destination point. A small diagonal cross-hair marker will be plotted at this
+point.
+
+Next, you should select the speed at which you wish the Carrier to travel, by
+clicking on the SPEED indicator situated at the bottom right of the screen.
+The speed of the carrier can be changed at any time on the map screen whilst
+it is following a programmed course. To program these settings into the
+Navigation Computer click on the PROG icon - the message DESTINATION
+PROGRAMMED is displayed on the message line. Provided the Carrier is on
+Autopilot, and not on a collision course for an island, it will immediately
+change its course and head for the programmed destination, automatically
+switching the Carrier to Autopilot mode. if you wish to clear a navigation
+program, click on the CLEAR icon.
+
+Clicking on the CENTRE ON VEHICLE icon jumps to the second highest resolution
+and centres the display on the Carrier.
+
+Page 15
+
+RESOURCE NETWORK
+
+Clicking on the RESOURCE icon puts you in Resource mode. The main map screen
+shows the island types (base/defence/factory/raw materials), but the Carriers
+are not visible. It is this network that determines the speed at which raw
+materials are shipped to Factory islands, where weaponry and other equipment
+are constructed, and then shipped to the Stockpile island via a fleet of
+submersible cargo drones, or submarines. The larger and more comprehensive the
+network, the more efficient the production and shipping of resources.
+
+As you take control of a number of islands your network will spread across the
+map, and islands displayed in the colour of your forces will show the extent
+of your network. Owing to volcanic ridges and other geological features, the
+network can only maintain itself between certain islands, so if you take
+control of two islands close to each other, the network may not be as
+effective at shipping supplies between them as between two other islands which
+are a greater distance apart.
+
+THE BASE ISLAND
+The Base island is where the Carrier is initially anchored when the conflict
+breaks out. This island is very important to you, as it is from here that you
+build up the Resource Network which serves your Carrier and other forces
+throughout the rest of the battle. The Base island already has a Command
+Centre constructed on it, and is capable of producing resources and equipment
+itself, at about one third of the rate of a Resource island and about one
+tenth of the rate of a Factory island. It is not advisable to ask the base
+island to manufacture items. You should have at least one factory island set
+up before you request items.
+
+Page 16
+
+The Base island is also initially designated as the Stockpile island (see
+later in this Operations Guide for more information). Most importantly, the
+Base island controls the flow of supplies throughout the whole network - if
+the Base island is taken over by the enemy, the whole network will 'freeze' -
+no new supplies will be shipped around the network, and submarines en route
+with already manufactured items will be lost.
+
+RESOURCE ISLAND
+Resource islands are constructed by planting Resource ACCB's (Automatic
+Command Centre Builders - see the AAV Direct Control section for more
+information) on unoccupied islands. Once the Command Centre has been built, it
+then constructs mines, rigs and ancillary buildings to store the mined raw
+materials. These raw resources are then shipped via the Resource Network to
+Factory islands, where they are used to manufacture weaponry, refined fuel,
+and other equipment required by the Carrier's forces. ACCB's must be dropped
+on unoccupied and totally unconstructed islands. Dropping an ACCB on a neutral
+island that is dismantling its buildings will result in losing the ACCB.
+
+Page 17
+
+FACTORY ISLANDS
+Factory islands are constructed by planting Factory ACCB's on unoccupied
+islands. A completed Command Centre then constructs factories to manufacture
+equipment and refine fuel for the Carrier's forces, which also act as
+warehouses for the storage of these supplies.
+
+The completed supplies are shipped to the Stockpile island via the Resource
+network.
+
+DEFENCE ISLANDS
+Defence islands are different from Resource and Factory islands in the sense
+that they do not primarily produce anything. They are constructed by planting
+Defence ACCB's on unoccupied islands.
+
+A completed Command Centre constructs defensive stations, including a Marauder
+unit (a squadron of droid-controlled flying drones which are extremely agile
+and are armed with deadly heat-seeking missiles), and runways on islands which
+are large enough, to enable you to refuel your Manta aircraft.
+
+Runways are arbitrarily built, so the island type (as selected by the ACCB)
+does not affect runway building in any way. Defence islands can produce
+resources at one eighth the rate of a dedicated Resource island.
+
+Page 18
+
+THE STOCKPILE ISLAND
+The Stockpile Island is the island where all constructed weaponry, fuel and
+equipment is shipped by the Resource Network. From there, a Supply Drone
+ferries the cargo back to the Carrier itself (providing there is room on the
+Carrier for the cargo). The Carrier must be near to the stockpile island for
+resource transfer to be affected. The CENTRE  ON VEHICLE icon will always
+centre the map on the Stockpile Island and zoom to a suitable resolution, if
+the map is in Resource mode.
+
+Any island under your command can be the Stockpile island, and it is advisable
+to make sure that it is well defended (i.e. make the adjacent islands
+Defensive).
+
+If the connection between the Stockpile island and the rest of the network is
+broken, resources will take a proportionately longer time to reach their
+destination, depending upon how many enemy islands are blocking the optimum
+route. Under these circumstances, you have a tactical decision to make. You
+can wait until the Supply drones have ferried the remaining en route cargo,
+and then instruct another island to become the Stockpile. Alternatively. you
+can immediately instruct another island to become the Stockpile to ensure that
+new resources are being shipped, in which case any resources on the old
+Stockpile island will be lost.
+
+To instruct a new island to become the Stockpile, select Resource map mode,
+centre the map on the chosen island, and then click on the PROG icon. If the
+selected island does not belong to you, the message ISLAND NOT VALID will be
+displayed. If the Stockpile island is taken, it reverts back to the Base
+island. If the Base island is also lost, then unless there is at least one of
+your own islands remaining that can be designated as the stockpile island, you
+will not be in a position to receive further stocks.
+
+Page 19
+
+DAMAGE CONTROL
+
+Owing to its cellular composition which is modelled on a similar structure to
+carbon-based life forms (the structural definition of the each section of the
+Carrier is stored within every cell), the Carrier is able to repair damage to
+itself automatically. The Damage Control Computer is the core of the repair
+system which is fundamental to the operation of the Carrier within a battle
+environment. It monitors the damage status of each section of the Carrier, and
+then instructs the Automatic Repair System to repair each section of the
+Carrier according to user-defined priorities.
+
+Selecting the Damage Status screen results in the computer displaying
+Elevation, View and Plan representations of the Carrier, below which is a row
+of icons, each assigned to one of the major sections of the Carrier. Selecting
+any of the eight icons will display the section name accompanied by a
+'functioning level' percentage value for the section in the message window,
+along with a graphic representation of the section highlighted within the
+three ship diagrams.
+
+Page 20
+
+By clicking on the SET PRIORITIES icon to the right of the Carrier section
+icons, you are able to select the repair priority for each section. The
+priorities available are HIGH, MEDIUM, and LOW.
+
+It is a good idea to always keep the Repair Systems setting on high, as this
+is the section which repairs the rest of the Carrier sections. The other
+priorities should be set according to your current combat state. For example,
+if the Carrier is stationary, but under attack from enemy aircraft it is
+beneficial to put the Laser Cannon and the missile systems on High Priority,
+and other sections such as the Engines on a lower priority.
+
+The Automatic Repair Computer will repair high priority sections first,
+spreading the repair time evenly between all the sections. Once these have
+been repaired it will set about repairing all medium priority sections. and
+then all low priority sections. Many sections will be operative when their
+repair level is over 50% - however, they will function with reduced power and
+efficiency.
+
+It is important to note that the superstructure and the laser turret are the
+essential parts of the Carrier. If either of these parts fall to a repair
+status of zero. then the Carrier is functionally useless and the game will
+terminate.
+
+Page 21
+
+STORES
+
+EQUIPMENT STORES
+The Carrier's Hold contains the stores and fuel supplies, and they are managed
+by the electronic Quartermaster computer.
+
+Each of the various types of weaponry, vehicles, fuel and other equipment
+contained in the stores are displayed, along with the quantity currently held
+on the Carrier, under the title of ACC QUANTITY.
+
+New equipment is manufactured on the various islands that are controlled by
+your forces, using the raw materials that are mined and refined on each
+island.
+
+STOCKPILE QUANTITIES
+Clicking on the STOCKPILE QUANTITY icon displays a screen showing a list of
+items that have been built, shipped back to the Stockpile island via the
+subaquatic shipping lines, and then stored until you return to refit your
+Carrier.
+
+Page 22
+
+PRODUCTION PRIORITIES
+Clicking on the PRIORITIES icon puts you in the SET PRODUCTION PRIORITY
+screen. This section is used to set the rate at which the Resource Network
+manufactures replacement weaponry and equipment.
+
+To the left of each item is its Priority Box, with the three setting HIGH,
+MEDIUM, and LOW. The Resource Network manufactures all equipment which is on
+High priority initially, and then builds anything on Medium priority, and
+finally anything on low priority. To set the priority level, simply click on
+the letters H, M, or L.
+
+PRODUCTION QUANTITIES
+Clicking on the QUANTITIES icon puts you in the SET PRODUCTION QUANTITY
+screen. Next to each item listed is the maximum quantity that is currently to
+be produced. initially all set to zero. To change this, click on the item you
+wish to set a quantity for, and it will highlight. Now click on the up or down
+arrows on the display to register a value between 0 and 99.
+
+Use the above procedure to set the priorities and quantities for all the
+equipment and fuel that you require. Once you have set these values, the Base
+island Command Centre assigns a Factory island to produce the items that have
+been set on high priority first, then those on medium priority and finally
+those on low priority.
+
+Manufactured supplies are shipped to the Stockpile island via the subaquatic
+network, and the quantities defined in the Set Production Priority section are
+always maintained whenever possible.
+
+Page 23
+
+SUPPLY TRANSFER
+All manufactured equipment is transferred from the Factory and Resource
+islands to the Stockpile Island, where it is immediately transferred to the
+Carrier. This section enables you to transfer supplies from the Stockpile
+Island to the Transfer Drone, which ferries the supplies to the Carrier.
+
+To transfer the supplies, the Carrier must be in range of the Stockpile
+island. If it is not in range, you will not be able to transfer supplies.
+
+Click on the appropriate quantity box to move one unit from the Stockpile
+Island via the Transfer Drone to the Carrier - you will be informed if you
+exceed the Carrier's Stores limit or if there are no more units available to
+transfer.
+
+Page 24
+
+MESSAGING
+
+The Carrier is equipped with a comprehensive message reporting facility. Every
+time an important message is generated by one of the Carrier's on-board
+computer systems it is displayed on the central message line or sent direct to
+the Messaging Computer. By selecting the Messaging icon, you are able to read
+the most recent messages received within the previous two minute period, as
+well as an indication of how long ago the message was reported. Some messages
+will be superseded by events rather than retained for the two minute duration.
+For example, "Manta destroyed" will supersede "Manta near comms limit".
+
+Page 25
+
+CARRIER DEFENCE
+
+TURRET GUN
+
+Mounted on top of the Carrier is a rotating turret supporting a high-power
+chemical laser and a surface missile launcher. The turret is manoeuvrable in
+two axes - it can rotate by 360 degrees, and also elevate up and down.
+
+The turret can be moved in direct control mode, simply by moving the selected
+control device left, right, up and down. Alternatively, you can select Pointer
+mode, which enables you to click on the four arrow icons to position the
+targeting sight, and click in the centre of the arrow cluster to fire the
+selected weapon.
+
+Situated to the right of the four arrows are the zoom control icons. These
+allow you to zoom in on a target, with four levels of magnification from x1 to
+x8. This is extremely useful when trying to search out island-based targets
+from the Carrier, although at higher magnifications the lasers are not as
+accurate.
+
+In the middle of the display is the standard information panel, which gives
+the current coordinates of the Carrier, along with its bearing and the name of
+the island of which it is within range. To the right of the information panel
+are the two icons which select either the laser gun or the surface missiles.
+
+Page 26
+
+LASER CANNON
+The laser itself is of the high power, long range dual beam variety, and since
+it is directly powered from the Carrier's neutron drives, it is extremely
+potent when used against almost all targets. The ultimate laser range is
+limited due to atmospheric ionisation.
+
+On the far right of the control panel is the laser temperature gauge. Every
+time the laser is fired, the laser mechanism generates a tremendous amount of
+heat - if the laser temperature rises too high, the laser will function
+firstly with less power, and finally it will fail. If the laser temperature
+rises into the danger area, you should allow it to cool sufficiently before
+using it again. Attempting to use an overheated laser will result in actual
+damage to the laser. Set the repair priority for the laser gun to High in the
+Damage Control screen, if it should fail to function.
+
+SURFACE MISSILE LAUNCHER
+Because of the Carrier's ability to anchor in very shallow water off an
+island, the revolutionary and technically advanced "Hammerhead" low flying
+remote surface-to-surface missile facility has been incorporated in the
+Carrier's defensive systems, in order for it to be able to attack island based
+defence stations and enemy shipping. The Hammerhead is the very latest of the
+intelligent heatsource seeking missiles. It has a short-burn plasma jet
+propellant, and is constructed from an extremely light and rigid
+carbon-fibre/titanium composite. The on-board guidance system locks on to the
+heat pattern of the target, and then keeps track of it until the target is out
+of range. or the missile's propellant is exhausted. Its main purpose is to
+destroy other air-based targets, although it can be used against ground
+installations.
+
+Select the MISSILE icon near the bottom right of the control panel. To aim a
+missile, move the sight over your prospective target and press the fire
+button. Providing the target is a legitimate one, the sight will flash
+rapidly, signalling that it is ready to launch a missile. Press the fire
+button again to launch the missile. If the fire button is not pressed within
+two seconds of the targeting system locking on, the target will be cancelled.
+
+There are a limited quantity of Hammerhead missiles available, although these
+can be replenished by directing the island network factories to manufacture
+replacements.
+
+Page 27
+
+DRONE POSITIONING
+
+Drones are inflatable decoy units designed to provide a sacrificial defence
+against enemy AAV and low-level missile attack. They are remotely controlled
+from the Carrier Defence Computer. Drones automatically follow the Carrier as
+it moves around and their configurations can be reprogrammed at any time.
+
+In the event of an enemy projectile entering close proximity of a drone, the
+drone will generate a heat field, as well as a surrounding shield of
+electromagnetic interference, in an attempt to convince the projectile's
+guidance system that it has reached its target, hopefully preventing any
+damage to the Carrier. Drone shields are reduced by 10% for each enemy missile
+they detonate.
+
+Any direct contact with a Drone will result in the immediate detonation of the
+highly-packed explosive which is encased within its inflatable shell. The
+pressure sensing mechanisms built into the Drone will prevent detonation if a
+large wave or sea creature were to come into contact with its surface.
+
+The Carrier may be equipped with two active Drones at a time. If a Drone is
+destroyed, it is automatically replaced from the stores. The Resources network
+can manufacture replacement drones and transport them back to the Stockpile
+island, depending upon the availability of raw materials throughout your
+island network.
+
+Page 28
+
+By selecting the Drone Positioning screen, you are able to move the Drones
+around into your own strategic positions.
+
+The main display shows the Carrier and the exclusion perimeter which defines
+the minimum distance that the Drones may be positioned at (any closer and they
+are in danger of being detonated by the Carrier itself).
+
+LAUNCHING DRONES
+To launch either a docked drone or a drone that is replacing one that has been
+destroyed, select either drone 1 or drone 2 by clicking on the appropriate
+icon, then click on the LAUNCH icon. The drone will be launched into a
+stationing position at the rear of the Carrier, and is depicted on the screen
+as a +.
+
+To send a drone to its programmed destination (shown as a x on the screen),
+click on the PROG icon (note that PROG programs both drones).
+
+By clicking on the main diagram, you can select an individual position to
+allow you to design custom defence patterns. Even while a drone is travelling
+to its new position, the moving drone may be clicked on, and a new destination
+set by clicking on the PROG icon. If you attempt to program a drone to travel
+to a destination within the proximity boundary, the destination will be
+automatically set for the rear of the Carrier.
+
+Page 29
+
+DOCKING DRONES
+By clicking on the DOCK icon, the drone will be sent to the rear of the
+Carrier, and then docked within the Carrier itself.
+
+While the drones are active, the top speed of the Carrier is reduced -
+therefore it is advisable to dock all drones if you wish the Carrier to travel
+at full speed.
+
+DRONE PATTERN LIBRARY
+Located next to the PROG icon is the Drone Pattern Library icon. By clicking
+on this icon, you are able to cycle through a selection of four pre-defined
+Drone patterns. Clicking on the PROG icon will result in the currently active
+Drones assuming the library pattern. Again, while the Drones are in transit,
+their destinations may be redefined.
+
+Page 30
+
+AMPHIBIOUS ASSAULT VEHICLE CONTROL
+
+DIRECT CONTROL
+
+The 'Walrus' (Water And Land Roving Utility Shuttle) class Amphibious Assault
+Vehicle (AAV) is a highly advanced and flexible all-terrain tank, with a
+variety of special functions which make it especially suitable for operating
+within the environment of the Carrier. It can be fitted with a number of
+versatile weapons including the Avatar heavy-duty chemical laser and the
+Harbinger surface missile, as well as a number of special cargo pods.
+
+The Carrier can store up to six AAV's, although only three can actually be
+active at a time. The active AWs are stored in the Carrier's Hold. Information
+regarding the Fitting, Course Plotting and Launching/Docking of the AAV's can
+be found in later sections of this Operations Guide.
+
+Once an AAV has been fitted and launched, select the DIRECT CONTROL icon, and
+then click on the appropriate AAV icon (1 to 3), located to the left of the
+control panel. The AAV will be in the vicinity of the Carrier (or the place
+where the Carrier was when the AAV was launched).
+
+To assume control of the AAV, select direct control mode.
+
+Page 31
+
+STEERING THE AAV
+Set your desired speed by clicking directly on the SPEED indicator - the speed
+will increase or decrease until the correct setting is reached. The maximum
+speed of the AAV on land is 184 kmh (115 mph), although its top speed is
+directly influenced by its repair state. In the water, the AAV's top speed is
+influenced by the turbulence of the water, but it is around 30% slower than
+when on land.
+
+To steer the AAV, simply move the control device left and right. The further
+you move it, the faster the AAV will rotate.
+
+The AAV has two rotation modes. The first is known as 'free rotation' and this
+means that the AAV will keep spinning unless the control device is moved in
+the opposite direction to neutralise the spin. To stop the AAV rotating, click
+on the CENTRE UP icon to enabled 'dampened rotation'. In this mode, the AAV
+will stop rotating after the control device has not been moved for a few
+seconds. To exit this mode, simply click on the icon again.
+
+AAV OPERATING RANGE
+The AAV has two factors which limit its operating range. The first is fuel -
+the AAV carries enough fuel to propel it for 264 km (165 miles). If your AAV
+runs out of fuel, it is basically stuck, unless you can bring your Carrier
+within range and use its tractor beams to dock the AAV (for which no fuel is
+required), otherwise you will have to send another AAV or a Manta to destroy
+it.
+
+Since the AAV is remotely controlled from the Carrier, its first-person view
+has to be transmitted from the AAV back to the Carrier using an encrypted
+video signal. Because of the nature of this signal, the range of the AAV is
+limited to a fixed distance from the Carrier. Once the AAV begins to become
+out of range (at around 20 kilometres), the telemetry signal weakens
+considerably and the picture quality worsens. If the AAV travels further from
+the Carrier (up to around 26 km), the signal is completely lost and the AAV
+self-destructs to avoid it falling into the hands of the enemy.
+
+Page 32
+
+AAV STATUS DISPLAY
+The centre of the AAV's Direct Control display, between the two groups of
+icons, contains the Status Display. This consists of a mini screen of
+information, which shows the following:
+
+POSITION This is the AWs current position, shown as two X,Y coordinates in
+relation to the centre of the map.
+
+BEARING This is the bearing of the AW shown as a standard compass value
+between 000 and 359.
+
+ISLAND This shows the name of the island of which the AAV is currently within
+range.
+
+Please refer to the AAV FITTING section for information concerning the
+addition of weaponry to the AAV's payload.
+
+WEAPONRY SYSTEMS
+
+The AAV can carry one of two weapon types at any one time, and they both have
+a limited usable life.
+
+AVATAR CHEMICAL LASER
+The Avatar laser is of the high power pulsed chemical variety. The unit
+contains its own power and reactant supply, which means that it can operate
+even if the AAV on which it is mounted has run out of fuel. However, its life
+is limited to forty shots, after which it has to be returned to the Carrier
+Stores to be automatically recharged.
+
+Select the LASER icon, and then select direct control mode. Press the fire
+button to release a twin bolt laser.
+
+Page 33
+
+HARBINGER SURFACE-TO-SURFACE MISSILE
+The Harbinger is a sophisticated operator controlled missile which was
+designed specifically for installation on the AW Using an advanced impact
+warhead, it is especially potent when used against close range ground or
+sea-based targets.
+
+Select the MISSILE icon at the bottom left of the panel. Point the AAV towards
+your target, press the fire button and a Harbinger missile will be launched at
+the target. Missiles can be directly controlled by the player (wire guided)
+until either they hit something or the propellant is exhausted.
+
+DROPPING CARGO PODS
+The AAV has a versatile cargo pod facility which enables it to carry a number
+of different types of cargo, although it can only carry one pod at a time.
+
+To release a cargo pod, click on the POD icon, whilst in pointer mode, and
+then to release it, press the fire button in direct control mode.
+
+The cargo pod type is selected during the Fitting stage, and is selected from
+one of the following:
+
+AUTOMATIC CONTROL CENTRE BUILDER (ACCB)
+The ACCB pod is the cornerstone of your assault on the island complex. It is a
+highly advanced computer and droid combination which, when deposited on an
+uncontrolled island, instigates the construction of the Command Centre, which
+from then on controls the island, and builds the island's defences and/or
+manufacturing units (e.g. fuel rigs, factories, etc). It is possible for the
+Command Centre to be destroyed while it is building.
+
+There are three ACCB variations, one for each island type which can be
+constructed. They are:
+
+Defence ACCB 		(for protecting the rest of the network)
+Resource ACCB  		(where raw materials are mined and refined)
+Factory ACCB		(where raw materials are used to build equipment)
+
+Page 34
+
+Only one ACCB can be successfully dropped on an island at a time, and once it
+starts to construct the Command Centre, dropping of further ACCB's by either
+your forces or the enemy's will have no effect. The construction of a Command
+Centre is unstoppable, and to recapture an island that has had an enemy ACCB
+planted on it, you will have to wait until construction of the Command Centre
+has been completed.
+
+if you wish to change the nature of an island (e.g. turn a Defensive island
+into a Factory island) you will have to destroy the Command Centre and drop a
+fresh ACCB. If a Command Centre is destroyed, the other objects on the island
+are dismantled, and their constituents are redeployed into the network as
+resources, although some of the resources are lost in the dismantling process.
+
+Page 35
+
+VIRUS BOMB
+Once an enemy-deployed ACCB has constructed a Command Centre on an island, it
+can be destroyed by the application of vast quantities of firepower (Command
+Centres are defended by extremely powerful Neutron Shields).
+
+Alternatively, you can equip an AAV with a Remote Reprogramming Virus Bomb
+which, when fired at the opening of a Command Centre will explode, and
+immediately infect and realign the Command Centre's control systems, so that
+its allegiance is changed to that of your forces, and the island becomes part
+of your network. When this happens, any defences, manufacturing plants, and
+other island-based features will work for your forces and against the enemy.
+
+The time taken between the virus being planted and the Command Centre being
+captured is dependent upon the island's position within the island complex -
+if it is an outpost island, it will be easier to capture than an island with a
+more centralised network position.
+
+Page 36
+
+AAV NAVIGATION
+The AAV Navigation section is your interface with the Carrier's advanced
+Navigation Computer. From this section, you are able to set an individual
+course for each AAV.
+
+To set a course, firstly click on the AAV that you wish to set the course for.
+The AAV must be either in the docking bay, or currently active. Use the map
+manipulation icons (as described in the Carrier Map Command section) to zoom
+in to the required resolution, and then click on your chosen destination
+point. A small diagonal cross-hair marker will be plotted at this point.
+
+Next, you should select the speed at which you wish the AAV to travel, by
+clicking on the speed indicator situated at the bottom right of the screen. To
+program the settings into the Navigation Computer, click on the PROG icon, and
+the message DESTINATION PROGRAMMED will be displayed. The AAV will immediately
+change its course and head for the programmed destination. If the AAV is not
+already on Autopilot, when you click on the PROG icon, it will engage
+Autopilot automatically. The speed of the AAV can be adjusted without its
+destination being re-programmed. If the AAV is in the docking bay of the
+Carrier, it will adhere to the course once it has been launched. If you wish
+to clear a course program, click on the CLEAR icon.
+
+Page 37
+
+It is important to always bear in mind the fact that AAVs have only a limited
+range, for two reasons. Firstly, their fuel tanks dictate their maximum
+travelling distance - and if an AAV runs of of fuel, the only way of
+recovering the vehicle is to take the Carrier to the AAV, position it so that
+the docking bay is covering it, and bring the AAV in under control of the
+Carrier. However, if the AAV is in the docking cone when it runs out of fuel,
+then you can still recall it. Secondly, the Carrier's remote AAV control
+systems have a limited telemetry range before they become susceptible to
+jamming by the enemy, and unless kept in range of the Carrier, the AAV
+telemetry signal will initially weaken, and then be totally lost. If this
+happens, the AAV will self-destruct, in order to avoid the possibility of its
+control being taken over by the enemy.
+
+Clicking on the CENTRE ON VEHICLE icon will jump to the second highest
+resolution and centre the display on either the currently selected AAV.
+
+Page 38
+
+AAV FITTING
+
+Prior to an AAV being launched from the Carrier, it needs to be refuelled and
+fitted with a supply of weaponry. When originally manufactured, the AAV does
+not contain any weapons, and whenever it is returned to the Carrier's hangar,
+all weapon systems are removed and returned to the stores, although the fuel
+tanks are not emptied.
+
+To fit an AAV it must be in the hangar (if an AAV is destroyed while in
+service, and a spare AAV is available in the Carrier's stores, you can click
+on the REPLACE VEHICLE icon). Click on one of the AAV icons to select which
+one you wish to fit.
+
+The right-hand side of the screen displays a side view of the AAV, with its
+two mounting points, a bar indicator to the left, showing how much fuel is
+on-board the AAV, and the maximum payload, shown in kilograms.
+
+REFUELLING
+To select the quantity of fuel for the AAV, click directly on the fuel
+indicator. In the bottom right corner of the screen is a bar indicator showing
+how much AAV fuel is stored on the Carrier.
+
+Page 39
+
+FITTING WEAPONS
+The left-hand side of the display contains the Payloads section. Cycle through
+the range of available weaponry by clicking on the + and - icons. For each
+weapon, you are told the quantity available in the stores, its weight, and a
+description of the weapon along with a graphical representation to the right,
+and a general weapon type graphic above.
+
+There are two types of equipment available for mounting on an AAV, one is a
+forward facing weapon such as a chemical laser or a missile, and the other is
+a pod-type cargo, which is dropped from the rear of the AAV. Once you have
+selected a piece of equipment, click on the mounting point on the AAV itself.
+If the equipment brings the payload weight of the AAV above its maximum limit,
+if the equipment is unsuitable for mounting in the selected position, or if
+there is simply no stock of the item, you will be informed with a suitable
+message.
+
+When the piece of equipment is successfully fitted on the AAV, the current
+payload total will be displayed in the message screen.
+
+Certain weapons, such as the Harbinger missile are able to be carried in
+multiple quantities. In cases such as these, different quantities of the
+weapon will be represented as separate weapon selections. The ACCB pods are
+also represented in a similar fashion.
+
+At any time, you are able to mount an alternative piece of equipment simply by
+clicking on the X icon, which removes all equipment from occupied mounting
+points.
+
+Page 40
+
+AAV TRAFFIC CONTROL
+
+LAUNCHING AN AAV
+
+Once an AAV has been refuelled, fitted with appropriate weaponry, and prepared
+for service, it is ready for launch. The Traffic Control screen shows a
+display from a camera mounted on the Carrier's deck, facing towards the stern.
+
+Page 41
+
+Select the AAV which you wish to launch by clicking on one of the AAV icons,
+then click on the LAUNCH icon. The bow door opens, and the AAV drives out and
+stops once it is safely clear of the docking cone area (unless it has a
+programmed course, in which case it will carry on to its destination). Once it
+has stopped moving, the AAV will change course and drive in a circular motion,
+maintaining a holding pattern until a new course is programmed or manual
+control is assumed.
+
+DOCKING AN AAV
+
+Providing an AAV is within the docking cone area at the rear of the Carrier,
+you can tell it to dock by clicking on the DOCK AAV icon. The AAV will be
+automatically switched to Autopilot mode. Once an AAV has docked, it is
+returned to the hold, and stripped of its weaponry, ready for re-fitting. If
+the AWs Repair State is below 75%, it will be automatically repaired before it
+is returned to fitting.
+
+To abort the docking procedure, click on the CLEAR icon.
+
+Note that only one AAV can be safely launched or docked at a time.
+
+Page 42
+
+AAV INFORMATION
+
+The AAV Information screen is a full screen display split into three sections,
+showing the current status of each of the AAV's. Each AAV has its current
+status displayed (e.g. IN DOCK, FITTING, LAUNCHING, ACTIVE, DESTROYED).
+Information such as its repair state, payload weight and an inventory of the
+current payload are displayed for each AAV.
+
+The repair state of the AAV is shown as a percentage. If the AAV sustains a
+number of hits, its speed and manoeuvrability are affected in direct
+proportion to its repair state. if the repair state drops below 12%, the AAV
+develops a fuel leak, in which case you have to dock with the Carrier for
+repairs before the AAV runs out of fuel. If the repair state becomes too low
+for the AAV's structure to contain, it will explode.
+
+Page 43
+
+AIRCRAFT CONTROL
+
+DIRECT CONTROL
+
+The 'Manta' (Multi-role Aircraft for Nautical Tactical Assault) class aircraft
+was developed especially for deployment on-board the Carrier, and as a result,
+it has a number of distinctive features, such as its ability to take off and
+land on the Carrier or an island-based runway, its variable combat speeds, and
+its ability to carry a wide range of different weaponry and equipment types.
+
+The Carrier can store up to six Mantas, although only three can actually be
+active at a time. If all six Mantas have been supplied to the Carrier, excess
+aircraft will be stored on the designated Stockpile island and shipped back
+when required. The active Mantas are stored in the Carrier's aircraft hangar,
+where they are fitted, refuelled, and repaired. Information regarding Flight
+Path plotting, Fitting, and Launching/Landing of the Mantas on the Carrier can
+be found in later sections of this Operations Guide.
+
+Once a Manta has been fitted, sent to the Flight Deck, and launched, select
+the Direct Control icon, and then click on the icon for the Manta which you
+want to take direct control of. The Manta will be flying in a holding pattern
+in the vicinity of the Carrier (or the place where the Carrier was when the
+Manta, was launched). To assume control of the Manta, disengage the AUTOPILOT
+facility, and select direct control mode.
+
+Page 44
+
+FLYING THE MANTA
+To control the Manta, move to the left and right to bank the plane (the
+further you move, the steeper the turn), and pull backwards/push forwards to
+pitch up and down to affect its altitude. The altimeter is located towards the
+bottom right of the control panel - it is highly advisable to check your
+altitude every few seconds when flying low over the sea or an island, as even
+a slight collision will result in damage of the Manta's underbody. When flying
+close to, or over a volcano, it is important to avoid colliding with the rocks
+that are discharged from the volcano's mouth.
+
+Near the bottom right of the panel is the CENTRE UP icon. By selecting this
+option, the Manta will always level out its angle of bank and pitch when you
+are not manoeuvring the plane. This is a very useful feature if you are
+controlling two or three Mantas simultaneously, as it helps to prevent them
+crashing if you have to keep switching between planes.
+
+The speedometer is also situated towards the bottom right of the control
+panel. Click directly on the desired speed on the meter - the Manta will then
+accelerate or decelerate until the defined speed is reached.
+
+The Manta has a top speed of 675 mph (1080 kmh) and a minimum flight speed of
+around 150 mph (240 kmh), below which, the Manta is prone to stalling.
+Fortunately, the plane has some highly reliable anti-stalling hardware
+installed, and this mechanism has never yet failed, even under the most
+arduous conditions.
+
+The Manta's top speed is directly related to its current repair state - if the
+Manta becomes damaged, the energy management computer will divert power away
+from the plane's plasma drive, in order to' energise the shields.
+
+MANTA OPERATING RANGE
+The Manta has two factors which limit its operating range. The first is its
+telemetry range. Since the Manta is remotely controlled from the Carrier, its
+first-person view has to be transmitted from
+
+Page 45
+
+the Manta back to the Carrier using an encrypted video signal. Because of the
+nature of this signal, the range of the Manta is limited to a fixed distance
+from the Carrier. Once the Manta begins to become out of range (at around 20
+kilometres), the telemetry signal weakens considerably and the picture quality
+worsens. If the Manta travels further from the Carrier (up to around 26 km),
+the signal is completely lost and the Manta self-destructs to avoid it falling
+into the hands of the enemy.
+
+The second limit on the aircraft's range is fuel consumption. The Manta's
+tanks contain enough fuel to keep it in the air for about 163 km (101 miles).
+If your Manta runs out of fuel, it will spiral downwards into the ground or
+sea. Great care should be taken to ensure that the Manta is always within
+refuelling range of the Carrier, or alternatively, within range of an island
+equipped with a runway and fuel supply.
+
+MANTA STATUS DISPLAY
+The centre of the Manta's Direct Control display, between the two groups of
+icons, contains the Status Display. This consists of a mini screen of
+information, which displays the following:
+
+POSITION This is the Manta's current position, shown as two X,Y coordinates in
+relation to the centre of the map.
+
+BEARING This is the bearing of the Manta, shown as a standard compass value
+between 000 and 359.
+
+ISLAND This shows the name of the island of which the Manta is currently
+within range.
+
+Please refer to the MANTA FITTING section for information concerning the
+addition of weaponry to the Manta's payload.
+
+Page 46
+
+LANDING ON A RUNWAY
+The Command Centres are programmed to build runways on some islands so that
+you can land your aircraft and refuel them.
+
+To land on a runway, you must approach it from the far end, flying towards the
+refuelling area. Keep your altitude low and decrease in speed as you near the
+runway. Most importantly, keep yourself as parallel to the ground as possible
+- the more acute your landing angle, the more chance you have of crashing.
+
+Once you make contact with the runway (and providing you haven't crashed), the
+Command Centre on the island will immediately take control of the aircraft,
+and taxi it to a refuelling bay. The Manta will be automatically refuelled,
+and readied for take-off.
+
+To launch the aircraft, click on the highlighted AUTOPILOT icon - the Manta
+will taxi out to a position in the centre of the runway, and then accelerate
+up to a speed at which it can take off. The Command Centre's Aircraft Control
+System is fairly crude, and it will not take evasive action if, for instance,
+a Walrus is parked in the middle of the runway. Once the Manta has taken off,
+it is put into a holding pattern, circling above the runway area on Autopilot.
+
+To resume direct control, simply click on the AUTOPILOT icon to deselect it,
+and then enter Direct Control mode. Please note that only one Manta may occupy
+the runway at a time.
+
+Page 47
+
+WEAPONRY SYSTEMS
+
+The Manta can carry a variety of payloads, mounted on the underside of the
+wings and fuselage. These are attached to the aircraft in the Aircraft Fitting
+section, and this procedure is explained further on in this manual.
+
+QUASAR GROUND ATTACK LASER
+This fuselage mounted multi-beam laser was originally designed to provide an
+effective laser unit for destroying ground based targets. However, although it
+is is of the slow pulse variety, it is very potent when used against close
+range airborne targets as well.
+
+The Quasar's laser generator is powered directly from the Manta's plasma
+energy drive, and therefore has an unlimited firing life, and it rarely. if
+ever overheats.
+
+To use the laser, select the LASER icon, and then select direct control mode.
+A targeting sight is projected onto the centre of the display. Press the fire
+button to release a twin laser bolt. The Quasar has a very fast reload time,
+which means that a barrage of laser bolts can be rapidly fired at the target.
+
+ASSASSIN AIR-TO-AIR MISSILE
+The Assassin is the very latest of the intelligent heat-source seeking
+missiles. It is the smaller brother of the potent Hammerhead surface missile.
+it has a short-burn plasma jet propellant, and is constructed from an
+extremely light and rigid carbon-fibre/titanium composite. The on-board
+guidance system locks on to the heat pattern of the target, and then keeps
+track of it until the target is out of range, or the missile's propellant is
+exhausted.
+
+Page 48
+
+Its main propose is to destroy other air-based targets. It can be used against
+ground installations, but it is more advisable to use a laser against targets
+such as these.
+
+Select the MISSILE icon at the bottom left of the control panel. To aim a
+missile, move the sight over your prospective target and press the fire
+button. Providing the target is a legitimate one, the sight will flash
+rapidly, signalling that it is ready to launch a missile.
+
+Press the fire button again to launch the missile. If the fire button is not
+pressed within two seconds of the targeting system locking on, the target will
+be cancelled.
+
+QUAKER CLUSTER BOMB
+The Manta's most devastating weapon is the bouncing Quaker cluster bomb. The
+Quaker is a multiple warhead fragmentation device, which is designed to throw
+out a number of smaller proximity-fused warheads on each impact with the
+ground, and the bomb's core will detonate upon collision with any object that
+it encounters.
+
+Owing to limitations in the warhead design, the Quaker will not skim or bounce
+on impact with the sea.
+
+To select the bomb, click on the CARGO icon which is situated towards the
+bottom left of the control panel. Fly towards your target and then press the
+fire button to release the bomb. As it falls downwards it will assume the
+velocity and direction of the aircraft at the point of release. If the bomb
+doesn't collide with a target after three or four bounces, it will detonate
+automatically.
+
+Page 49
+
+AIRCRAFT NAVIGATION
+
+The Aircraft Navigation section is your interface with the Carrier's advanced
+Navigation Computer. From this section, you are able to plot individual flight
+paths for each of the aircraft.
+
+To set a flight path, firstly click on the aircraft that you wish to set the
+course for. The aircraft must be either in the air, on a runway, or on the
+deck ready for take-off. Use the map manipulation icons (as described in the
+Carrier Map Command section) to zoom in to the required resolution, and then
+click on your chosen destination point. A small diagonal cross-hair marker
+will be plotted at this point.
+
+Next, you should select the altitude and speed at which you wish the aircraft
+to fly, by clicking on the icons situated at the bottom right of the screen.
+To program these settings into the Navigation Computer, click on the PROG
+icon - the message DESTINATION PROGRAMMED will be displayed in the message
+window. Provided the aircraft is on Autopilot, and in the air, it will
+immediately change its course and head for the programmed destination. If the
+aircraft is on the deck of the Carrier, or docked on a runway, it will adhere
+to the flight-path once it has been launched. If you wish to clear a
+flight-path program, click on the CLEAR icon.
+
+It is important to always bear in mind the fact that aircraft have only a
+limited range, for two reasons. Firstly, their fuel tanks dictate their
+maximum flight distance. Secondly, the Carrier's remote aircraft control
+systems have a range of only a few miles before they become susceptible to
+jamming by the enemy, and unless kept in range of the Carrier, the aircraft
+telemetry signal will initially weaken, and then be totally lost. If this
+happens, the aircraft will self-destruct (by plunging into the sea or land),
+in order to avoid the possibility of its control being taken over by the
+enemy.
+
+Clicking on the CENTRE ON VEHICLE icon will jump to the second highest
+resolution, and centre the display on either the currently selected Manta.
+
+Page 50
+
+AIRCRAFT FITTING
+
+Before an aircraft can be launched from the Carrier, it needs to be refuelled
+and fitted with a supply of weaponry. When originally manufactured, the
+aircraft do not contain any weapons, and whenever they are returned to the
+Carrier's hangar, all weapon systems are removed and returned to the stores.
+
+To fit an aircraft, it must be in the hangar (if an aircraft is destroyed
+while in service, and a spare aircraft is available in the Carrier's stores,
+it can be transported to the hangar as a replacement by clicking on the
+REPLACE VEHICLE icon). Click on the aircraft icon to select which one you wish
+to fit.
+
+The right-hand side of the screen displays an underside view of the aircraft,
+with its mounting points, a bar indicator to the left, showing how much fuel
+is in the aircraft's twin tanks, and the maximum payload indicator, displayed
+above, in kilograms.
+
+Page 51
+
+REFUELLING
+To select the quantity of fuel for the plane, click directly on the fuel
+indicator. In the bottom right corner of the screen is a bar indicator showing
+how much aircraft fuel is stored on the Carrier.
+
+FITTING WEAPONS
+The bottom left-hand quarter of the display contains the Payloads section.
+Cycle through the range of available weaponry by clicking on the + and -
+icons. For each weapon, you are told the quantity available in the Stores, its
+weight, and a description of the weapon along with a graphical representation
+to the right, and a general weapon type graphic above.
+
+Once you have selected a weapon type (you are generally advised to mount a
+Quasar ground attack laser cannon in the centre mounting, unless you require
+alternative weaponry for particular missions), click on the mounting point
+itself, and the weapon will be automatically installed. If the weapon brings
+the payload weight of the aircraft above its maximum limit, or if the weapon
+is unsuitable for mounting in the selected position, you will be informed by a
+suitable message.
+
+At any time, you can remove all the equipment from the Manta by clicking on
+the x icon, and then start again.
+
+
+To send a fitted and refuelled aircraft up on the lift to the Carrier's deck,
+ready for launching, simply click on the DECK icon, provided the deck is
+clear.
+
+Page 52
+
+AIRCRAFT TRAFFIC CONTROL
+
+Once an aircraft has been fitted with a suitable quota of weaponry, and it has
+been refuelled, repaired and sent to the flight deck prepared for take-off,
+you are ready to launch.
+
+Select the aircraft you wish to launch by clicking on one of the aircraft
+icons, and click on the LAUNCH icon. Once the aircraft has been launched, it
+will be locked into a circular holding pattern until direct control is
+assumed.
+
+Providing a Manta is within range of the Carrier, by clicking on the LAND
+icon, the aircraft will be automatically switched to autopilot mode and
+brought in to land on the flight deck. Once the Manta has landed, it can be
+returned to the hangar and stripped of its weaponry, ready for re-fitting. If
+the aircraft's Repair State is below 75%, it will be automatically repaired
+before it is returned to fitting. It is possible to abort the automatic
+landing sequence at any time by clicking on the CLEAR icon. Note that only one
+aircraft can occupy the flight deck at a time.
+
+Page 53
+
+AIRCRAFT INFORMATION
+
+Aircraft Information is a full screen display split into three sections,
+showing the current status of each of the Mantas. Each aircraft has its
+current status displayed (e.g. IN HANGAR, FITTING, LAUNCHING, ACTIVE,
+DESTROYED). Information such as its repair state, payload weight and an
+inventory of the current payload are displayed for each Manta.
+
+The repair state of the Manta is shown as a percentage. If the Manta sustains
+a number of hits, its speed and manoeuvrability are affected in direct
+proportion to its repair state. If the repair state drops below 12%, the Manta
+develops a fuel leak, in which case you have approximately two minutes to land
+on the Carrier for repairs before the Manta runs out of fuel and crashes. If
+the repair state becomes too low for the Manta's structure to contain, it will
+explode.

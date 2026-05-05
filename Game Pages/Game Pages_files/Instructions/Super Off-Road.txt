@@ -1,0 +1,486 @@
+Ivan Ironman Stewart's Super Off Road Racer
+===========================================
+
+Grab the wheel and hit the nitros - the challenge of off-road
+racing awaits you! Graftgolds quality conversion of the 
+American arcade coin-op classic, Ivan 'Ironman' Stewart's
+Super Off Road, contains all the thrills and spills of the
+orginal.
+
+Play against the computer, or join your friends in a race round
+the eight tracks, collecting prize money and on-track bonuses.
+Use your winnings to upgrade your vehicle - and remember to watch
+out for the mud holes, jumps and other suspension-wrenching
+obstacles in the race for fame and fortune.
+
+
+
+Loading
+
+Super Off-Road loads and runs automatically. Reset your machine, 
+then follow the instructions for your computer.
+
+Amiga and ST: Insert disk in drive A.
+
+IBM PC and Compatibles: Insert disk in drive A, and type IRONMAN. 
+To install on your hard disk, type INSTALL at the A:prompt. If 
+the boss walks by, hit ALT B to pause and return to the DOS 
+prompt - EXIT returns you to the game.
+
+C64/I28: TAPE - insert cassette, hold down the SHIFT key and 
+press RUN/STOP then press PLAY on the tape recorder ; 
+DISK - insert disk in the drive, type LOAD "*",8,1 then press RETURN.
+
+Amstrad CFC: 464 TAPE- Insert cassette, then press CTRL and the small 
+ENTER key; 6128 TAPE - insert cassette, type ITAPE and press RETURN, 
+then press CTRL and ENTER; DISK - insert disk, then type RUN"DISC and 
+press ENTER.
+
+Spectrum: +3 Insert disk and press ENTER; +2 and 128K - insert tape 
+and press ENTER; 48K - insert tape, type LOAD"" and press ENTER.
+
+
+
+CONTROLS
+
+The Amstrad CPC and Spectrum versions can be played as one or two 
+player games. All other versions can be played by up to three 
+people simultaneously.
+
+
+Amiga and ST
+
+During the Attract mode, F1 turns both music and sound effects on, 
+F2 turns music only on, F3 turns sound effects only on, F4 turns 
+music and sound effects off, while F10 allows you to quit 
+the options section.
+
+Player 1, the red car, uses Joystick Port 1 
+	Up - accelerate 
+	Down - brake 
+	Left - left 
+	Right - right 
+	Fire - Nitro
+
+Player 2, the yellow car, uses Joystick Port 0
+	Up - accelerate 
+	Down - brake 
+	Left - left 
+	Right - right 
+	Fire - Nitro
+
+Player 3, the blue car, uses the keyboard
+	/, LEFT SHIFT, SPACEBAR - accelerate 
+	QWASZXUIJK M or , - left 
+	ERDFCVOPL or ; - right 
+	ALT or RIGHT SHIFT BUTTON - Nitro 
+	Braking is automatic when the accelerate key is released
+
+During play, HELP pauses the game and ESC aborts a paused game.
+
+
+IBM PC and Compatibles
+
+Super Off-Road supports the Adlib sound board, if is has been 
+fitted to your PC and a games card is required if you want to 
+take advantage of the three-player option - Player 2 uses 
+a joystick.
+
+Player 1, the red car, uses the keyboard 
+	Q - accelerate 
+	Z or X - left 
+	C or V - right 
+	A - Nitro
+
+Player 2, the yellow car, uses Joystick Port 1 
+	Up - accelerate 
+	Left - left 
+	Right - right 
+	Fire - Nitro
+
+Player 3, the blue car, uses the keyboard 
+	] - accelerate 
+	M or , - left 
+	. or / - right 
+	' - Nitro
+
+During play, F1 pauses, F2 toggles the sound on or off, F1O 
+aborts a paused game, ALT B accesses the Boss Screen, CTRL S 
+saves the high score chart when it is being displayed and 
+ESC exits to DOS. If the high score table already exists 
+on disk then it will be saved automatically.
+
+
+C64/C128
+
+Player 1, the red car, uses Joystick Port 2 
+	Up - accelerate 
+	Down - brake 
+	Left - left 
+	Right - right 
+	Fire - Nitro
+
+Player 2, the yellow car, uses Joystick Port 1 
+	Up - accelerate 
+	Down - brake
+	Left - left 
+	Right - right 
+	Fire - Nitro
+
+Player 3, the blue car, uses the keyboard 
+	: - accelerate 
+	/ - brake 
+	@ - left
+	UpArrow - right 
+	; - Nitro
+
+During play, RUN/STOP pauses, and CLR/HOME aborts a paused game.
+
+
+Spectrum
+
+Player 1 and player 2 can chose whetherto use the joystick or 
+keyboard. Sinclair, Cursor and Kempston interfaces are supported. 
+Player 1's car has a white flag on its ariel. Player 2 has 
+a black flag. 
+
+	Joystick 
+	Up - accelerate 
+	Down - brake 
+	Left - left 
+	Right - right 
+	Fire - Nitro
+
+	Keyboard
+	HJK or L - accelerate 
+	BN or M - brake 
+	Z or X left 
+	C or V - right 
+	SPACE - Nitro
+
+During play, P pauses and Q quits a paused game.
+
+
+Amstrad CPC
+
+Player 1 (red car) and player 2 (white car) can chose whether 
+to use the joystick or keyboard.
+
+	Joystick 
+	Up - accelerate 
+	Down - brake 
+	Left - left 
+	Right - right 
+	Fire - Nitro
+
+	Keyboard 
+	K - accelerate 
+	M - brake 
+	Z - left 
+	X - right 
+	SPACE Nitro
+
+	OR
+
+	, - accelerate 
+	. brake 
+	A - left 
+	Z - right 
+	SPACE - nitro
+
+During play, P pauses and Q puits a paused game. 1 toggles 
+the in-game music on/off.
+
+
+
+Super Off-Road
+
+
+Stadium Racing - The Off-Road Experience
+
+Your aim is simple: to come out as the best off road driver in 
+a series of stadium-based races. Four drivers, up to three of 
+which can be played by the computer, compete over a series of 
+eight tracks - and each track is raced both clockwise and 
+anticlockwise, giving 16 race configurations.
+
+Based on the American arcade game "Ivan 'Ironman' Stewart's 
+Super Off-Road", this conversion is faithful to the original, 
+so when you first load the game each player needs to input 
+details that will be used later for the high score and race 
+results screens. First, you need to identify yourself with 
+a three-letter name - use the joystick or keyboard to move 
+the cursor over the letters of the alphabet and click fire 
+to add the selection to your name field.
+
+Next, details of each driver's birth date are needed, according 
+to the customs of competitive off-road racing. The date you input 
+is displayed in the American style - with the month preceding 
+the day's date.
+
+Finally, you get the chance to pick a nationality for yourself - 
+move the cursor around the screen and press fire when it is 
+resting on the national flag of your choice.
+
+Once all the players have completed the arcade set-up sequences, 
+the real racing can begin.
+
+
+Money, Laps and Lives
+
+At the start of a new season, competitors begin on equal terms - 
+no-one has any money in the bank, and everyone has three 'lives' 
+in the form of Credits, which are worth $200,000 dollars. Money 
+can be collected during races: bags of dollars appear on the track 
+every so often; the first person to drive over a Bonus Bag collects 
+the loot it contains. Similarly, containers of Nitro Fuel materialise 
+on the track from time to time - collect them if you can - Nitros 
+usually cost you $10,000 dollars each and can only be purchased 
+before a race starts. The Bonus Nitros you collect during a race 
+can be used immediately, if you want... And Prize money is also on 
+offer, of course.
+
+The moment one driver completes four laps, the current race ends 
+and he is declared the winner. The other three drivers are then 
+automatically ranked according to their positions when the race 
+finished.
+
+Coming first in a race earns you $100,000, 2nd place is worth $90,000, 
+while third place adds $80,000 to your account. Even if your driving 
+skills aren't that impressive, you still collect $70,000 for coming 
+fourth. Watch out for the computer-controlled cars - each player who 
+is beaten by one, loses a Credit.
+
+Points are also awarded at the rate of one point for every $1,000 
+dollars you win while racing, and are used on the High Score table 
+at the end of a game to determine an overall ranking for the season's 
+competition.
+
+Everyone starts the game with three lives. Being beaten by one of 
+the computer-controlled cars costs you one of your lives.
+
+After each race, the Awards Screen appears and the position of each 
+competing driver is shown, alongside readouts that show the cash won 
+and the cash collected by picking up Bonus Bags on the track.
+
+
+If you lose a credit with a credit remaining, a counter starts ticking 
+down and you can opt to continue play by pressing fire before it reaches 
+zero. If you allow the 'Continue Play?' counter to reach zero, then you 
+are retired from the current game and have to leave the other drivers 
+to chase victory.
+
+
+Spending Money In The Speed Shop
+
+The Speed Shop menu appears in between races and allows you to spend 
+the cash you have accumulated on the track and by winning races. The 
+display at the top shows how many lives you have (shown as 'credits'), 
+and how much cash you have amassed.
+
+Five useful items are on offer in the Speed Shop, all of which improve 
+the performance of your vehicle. By glancing at the bar readouts in each 
+panel, you can see how many of each of the five accessories has already 
+been fitted to your vehicle.
+
+To go shopping, move the cursor over the panel that shows the accessory 
+you want to buy and press FIRE to make the purchase (if you try to buy 
+an item you can't afford a credit is automatically traded in for 
+$200,000).
+
+When you've bought all you want, select the Next Race panel to move onto 
+the track.
+
+
+Nitro Fuel Units
+
+Vou can have up to 99 of these - providing you have collected lots of 
+cash or get really good at picking up the freebies during races. The lap 
+counter panel that is displayed during a race shows how many Nitros each 
+driver has in reserve.
+
+During a race, pressing the FIRE button or Nitro Key uses a Nitro Unit if 
+you have one - when you punch the Nitro in, you gain a short burst of 
+amazing speed as the high-grade fuel is burned off.
+
+Use Nitros at the start of a race to get ahead of the pack, and whenever 
+you've got a bit of catching up to do!
+
+Tires
+
+You can buy up to five grades of 'Tire'. The higher grade you have, the 
+better your vehicle's grip on the racetrack, the less likely you are to 
+skid, and the vehicle's turn rate is improved.
+
+Shocks
+
+Up to five types of shock absorbers can be fitted to your vehicle - the 
+more you have, the less bouncy the ride. The  improved contact of your 
+wheels with the ground gives improved acceleration and cornering.
+
+Acceleration
+
+By careful race-tuning, your vehicle can be made to accelerate up to its 
+top speed more quickly. You're limited to five Acceleration units - each 
+one you buy increases performance.
+
+Top Speed
+
+This accessory boosts the top speed that your vehicle can reach without 
+the aid of Nitro boosters. When you have fitted five Top Speed 
+accessories and five Acceleration units, your truck can't travel 
+faster without Nitros...
+
+
+
+Learn From Ironman
+
+Keep an eye on the stock of Nitros you have in your vehicle - the race 
+readout that appears on screen shows how many laps each competitor has 
+completed and how many Nitros they have in stock.
+
+Use your Nitros wisely - to get ahead of the pack at the start of 
+a race, or to make up for lost time. And buy plenty - by using Nitro 
+boosts to best effect, it's possible - to triple your overall speed 
+during a race.
+
+Keep an eye out for the collectables - Bonus Bags stuffed with cash 
+and Bonus Nitro Containers. The quantity of cash in the bags and the 
+number of Nitros in the containers increases as a race progresses. 
+If you're falling behind the field, it sometimes pays dividends to 
+go for pickups rather than for the best position at the end of a race.
+
+Drive intelligently! The more skilful you are at avoiding the on-track 
+obstacles like ramps, mounds and watersplashes, the quicker you will 
+be able to complete a lap.
+
+Spend money! The number of dollars you earn or collect determines the 
+number of points you are awarded on the High Score Screen, but there's 
+no point in saving cash. Spend out when you get the chance to visit 
+The Speed Shop...
+
+
+
+Ivan Stewart - and why he's called 'Ironman'
+
+Ivan Stewart, a Californian off-road race specialist, began his career 
+as a competitor in off-road racing in 1971, piloting a Class 1 buggy. 
+His career spans nearly 20 years, and Stewart has been a major 
+contributor to the evolution of the sport in America where he has 
+built up an impressive collection of wins.
+
+What began as a hobby, rapidly grew into a profession as the sport of 
+off-road racing became more popular. In 1983, Stewart joined the 
+Toyota Factory Team and has represented the company ever since, 
+driving an off-road truck in stadium short-course races as well as the 
+long-distance events in which competitors drive for 250 miles non-stop 
+through the deserts of Southwest USA and Mexico.
+
+Ivan Stewart gained his nickname 'Ironman' as a result of competing 
+in these marathon treks through the desert. It takes a certain kind 
+of driver to put up with the relentless pounding that your body takes 
+inside the cab of a truck racing through the desert - and a certain 
+kind of physique to withstand the discomfort of a 250-mile trek 
+through hot and hostile terrain.
+
+From the start of his career, Stewart's capacity for endurance was 
+recognised by his fellow competitors. Each time he won a Baja 500 or 
+Baja 1OOO race, held in the heat of Mexico, Stewart received an 
+'Ironman' award. Mickey Thompson, the man behind the Off-Road 
+Championship Gran Prix Series began referring to Ivan Stewart as 
+'The Ironman of Off-Road Racing' after he picked up the Drivers' 
+Points Championship in two successive years.
+
+While the tag has been shortened a bit, the title 'Ironman' has 
+stuck. Today, Ivan 'Ironman' Stewart is a well-known sporting 
+personality in America - known not just for his wins, but for his 
+association with the sport and the Toyota factory team.
+
+And after a 20-year career behind the wheel, Ironman is still 
+pushing back the boundaries of off-road achievement. Last year, 
+he secured an overall win in the Mint 400 race in Las Vegas - the 
+first time in the 22-year history of the event that a pickup truck 
+captured the award.
+
+Little wonder then, that the American arcade specialists Leland 
+sought Ironman's assistance and endorsement when they set out to 
+produce a game that captured the thrills of off-road racing. And now 
+you can enjoy Ivan 'Ironman' Stewart's Super Off-Road on your home 
+computer.
+
+But will you end up deserving the accolade: 'Ironman'?
+
+
+
+Technical Information - The Coin-op
+
+Screens 	8, each with its own character set of 1K characters 
+		and a track layout of 4K.
+
+Memory 		4 Megabytes.
+
+Processor 	Z80 main board with a custom graphics board driven 
+		by a second Z80.
+
+Graphics 	418 car animation frames. About 40 other sprites.
+
+
+Technical Information - The Computer Game.
+
+Screens 	8, as per arcade machine. 
+
+Memory 		Varies per computer. Single load on all 8 bit 
+		formats. 
+
+Processor 	Varies per computer.
+
+Graphics 	Car animation frames 
+		Spectrum	- 112
+		Amstrad 	- 48 
+		Amiga		- 416
+		C64		- 80
+		Atari ST 	- 416 
+		PC		- 416
+		Other sprites vary per computer.
+
+
+
+Credits
+
+Ivan Stewart	- Himself
+
+Andy Green	- Project Co-ordinator
+Andrew Wright	- Product Manager
+Terry Tester	- Tester
+Ian Mathias	- Executive Tester
+
+Illustration by Words and Pictures
+
+Packaging Design by Khartomb
+
+Converted by Graftgold Ltd.
+
+Steve Turner	- Team Leader, Spectrum and CPC versions
+Gary J Foreman	- Amiga and Atari ST versions
+David O'Connor	- PC versions 
+Jason Page	- C64 version, music and sound on all versions
+John Cumming	- Graphics 
+John Lilley 	- Amstrad graphics
+Michael Field	- Additional graphic support
+Andrew Braybrook - Technical advisor
+Domonic Robinson - Second technical advisor
+
+Arcade original by The Leland™ Corporation
+
+THIS PROGRAM IS PROTECTED UNDER UK COPYRIGHT LAW AND MAY NOT BE
+COPIED, HIRED OR REPRODUCED, OR OTHERWISE MODIFIED WITHOUT THE 
+CONSENT OF THE COPYRIGHT OWNER.
+
+WARNING
+
+IT IS A CRIMINAL OFFENCE TO SELL, HIRE, OFFER OR EXPOSE FOR SALE,
+OR HIRE OR OTHERWISE DISTRIBUTE INFRINGING (ILLEGAL) COPIES OF 
+THIS COMPUTER PROGRAM AND PERSONS FOUND DOING SO WILL BE PROSECUTED.
+
+ANY INFORMATION ON PIRACY SHOULD BE PASSED TO: THE FEDERATION AGAINST 
+SOFTWARE THEFT 071-240-6756

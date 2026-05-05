@@ -1,0 +1,480 @@
+TURRICAN II
+
+1 ENGLISH INSTRUCTIONS
+11 ISTRUZIONI ITALIANO
+
+TURRICAN II
+The Final Fight
+
+13 LOADING INSTRUCTIONS
+15 PROLOGUE
+16 THE GAME
+18 THE WEAPONS
+19 THE SYMBOLS
+22 THE DISPLAY
+
+
+
+LOADING INSTRUCTIONS 1
+
+
+
+AMIGA
+To avoid the danger of computer viruses, please first turn off your Amiga and turn it on again after a few seconds. Amiga 1000 users must now insert the Kickstart disk. As soon as the screen shows the icon of the Workbench disk insert the game disk into drive DF0. The program will start automatically.
+
+ATARI ST
+Turn off your computer and insert DISK 1 into drive A. As soon as you turn on your computer again, the computer will load and start the game automatically. Follow the instructions on the screen.
+
+C 64 DISK
+Insert the game disk into your disk drive and type Load ":*",8,1. Press the RETURN key. The program will start automatically. Follow the instructions on the screen.
+
+C 64 TAPE
+Rewind the tape and insert the tape into the data recorder. Press SHIFT and RUN/ STOP simultaneously. Press PLAY on your recorder. The program will start automatically. Follow the instructions on the screen.
+
+AMSTRAD DISK
+Insert the disk into your drive, side A showing face up. Type RUN"DISK and press RETURN. The game will load and start automatically. Follow the instructions on the screen.
+
+
+
+2 LOADING INSTRUCTIONS
+
+
+
+AMSTRAD TAPE
+Owners of a CPC 664,6128, or 464 with a disk drive have to enter |TAPE and then press RETURN. Insert the rewound tape into the data recorder, side A showing face up. Press Control and small Enter simultaneously. Press PLAY on your datarecorder. The game will start automatically. Follow the instructions on the screen.
+
+SPECTRUM DISK
+Turn your computer off, and then on again. Insert the disk into your drive, side A showing face up. Now select item LOADER from the menu, and press the ENTER key. The game will start automatically. Follow the instructions on the screen.
+
+SPECTRUM TAPE
+Owners of a +3 first select item +3 BASIC from the 'On' menu and press the ENTER key.
+128K: Insert the rewound tape into the data recorder, side A showing face up. Press ENTER and press PLAY afterwards. Follow the instructions on the screen.
+
+48K: Insert the rewound tape into the data recorder, side A showing face up. Now enter LOAD"" and press the ENTER key. The game will load and start automatically.
+Follow the instructions on the screen.
+
+
+
+PROLOGUE 3
+
+
+
+THE LEGEND OF TURRICAN CONTINUES...
+
+Morgul, the three-headed incarnation of evil, has finally been destroyed! But you, Turrican, cannot rest because your most dangerous and most noble mission is yet to commence...
+
+A long time ago, in a galaxy far, far away, brave rebellious fighters destroyed the menacing hordes of the MACHINE and it's tyranny-spreading satellite, which circled the planet of the brave, the planet called Landorin.
+
+The evil moon has gone, but Landorin wasn't free. The MACHINE still ruled the surface of the planet. The Landorins retreated to the inner core of their world to await their destiny...DEATH. The machines and mutants, however, went on to roam through the deserted ruins of a long-lost paradise in search of the entrance to the secret caves.
+
+Before, the Landorins retreated, they managed to send a desperate cry for help: A last radio signal floats through the endless reaches of the tri-solar system and off to the farthest reaches of the universe. The cry is heard, and a man has to be found... A man with the courage to face the hordes, a man to free the last survivors of Landorin, a man on his most dangerous adventure ever... TURRICAN.
+
+Go out to seek the MACHINE and its' slaves, collect the weapons and ships of an ancient civilization and free the planet Landorin forever!
+
+
+
+4 THE GAME
+
+
+
+Turrican travels through five different worlds in which he will be confronted by various perils. In the middle of the game he has to enter a space ship and fight through 3 levels with this hyper fast-moving ship. Ever changing enemies will constantly try to destroy you. You will have to use your weapons skillfully in order to survive the various levels. To assist you in battle, further weapons and extras may be obtained during your journey, e.g. forceshields and extra lives. Examine every level closely, you will find new surprises and useful items everywhere.
+
+
+HOW TO PLAY THE GAME
+
+General information: The game is played with joystick and keys. Owners of an Amiga may use a joystick with two independent fire buttons. This is explained below.
+
+Joystick up:
+Player jumps. If he is the gyroscope mode, he will transform back to normal again.
+
+Joystick down:
+Player ducks away, e.g. from enemies.
+
+Joystick down and press space:
+(For Amiga: Joystick down and press second fire button.) The player will transform into a gyroscope. While in this state the player is invincible and will destroy enemies on touch. The gyroscope spins automatically, and can only be directed to move left or right with the joystick. This shape also allows you to pass through narrow corridors.
+
+
+
+THE GAME 5
+
+
+
+Turrican may transform into a gyroscope as often as he wants to. Only in the gyroscope mode he can place mines... The mine is placed on the ground and explodes shortly afterwards. Various enemies around can be dealt with in this manner.
+
+Joystick left/right:
+Moves player left/right.
+
+Keeping the firebutton depressed:
+The player can activate a flash of lightning (Surround) and may direct it (as long as the firebutton is held), by moving the joystick left (lightning rotates anti-clockwise) or right (lightning rotates clockwise). The lightning can be of different lengths. At the beginning of the game it stretches over half the width of the screen. By gathering up extras it can be extended to stretch over the whole width of the screen.
+
+Pressing firebutton briefly: Player fires.
+
+
+
+6 THE WEAPONS
+
+
+
+MULTIPLE SHOT
+The multiple shot can be increased twice in strength by collecting the right symbols. That means in the end this weapon has 5 shots.
+
+LASER
+The laser has a high penetration rote, making it very effective when fighting against several enemies simultaneously.
+The laser fires horizontally, and can be increased in strength by up to 5 times by gathering up the corresponding symbols. The laser will then increase in width and become more effective.
+
+BOUNCE
+This shot can be increased in strength by up to three times.
+Very efficient in narrow passages or caves. When twice in strength, the balls burst
+into smaller balls bouncing back from the walls.
+
+POWER LINES
+ATARI ST, C64, SPECTRUM: SPACE BAR AMIGA: SPACE BAR or second fire button AMSTRAD: RETURN
+Releases two energy beams, moving right and left over the full height of the screen. All enemies in range will be destroyed. Should an obstacle bar the way, the beam will be terminated.
+
+SUPERWEAPON
+Pressing the firebutton and SPACE (or second firebutton) simultaneously The super weapon is activated. Once per life Turrican can activate this weapon. It is the most effective weapon as all weapon systems are activated simultaneously. The window at the bottom left indicates whether this weapon is still available.
+
+
+PAUSES GAME
+
+Pressing CTRL: Pauses game
+Press the firebutton to continue
+
+
+
+THE SYMBOLS 7
+
+
+
+ESC
+Quit the game and return to the introductory sequence.
+
+
+During his mission, the player will find the following symbols with useful functions:
+
+Shoot this symbol to activate the hidden extra.
+
+Red - MULTIPLE
+Activates multiple shot. If already active, the shot will increase in strength.
+
+Green - LASER
+Activates laser. If already active, the laser will be increased in strength.
+
+Purple - BOUNCE
+Activates the bounce shots. If already active, the Bounce will be increased in strength.
+
+
+
+8 THE SYMBOLS
+
+
+
+Blue-SURROUND
+Extends lightning.
+
+Light blue - SHIELD
+Activates force shield, making the player Invincible for a short duration. Enemies will be destroyed on touch during this period.
+
+Yellow 'P' - POWER-UP
+Recharges energy.
+
+White 'L' - POWER LINE
+The player gains on energy beam.
+
+Grey '1 up' -ONE-UP
+The player gains on extra life.
+
+
+
+THE SYMBOLS 9
+
+
+
+Yellow - SMART BOMB
+Touching this symbol destroys all smaller opponents on the screen.
+
+
+Diamonds
+Once the player has gathered up 100 diamonds, he receives another 'CONTINUE', i.e. has the chance to continue the game after all lives have been lost. The maximum no. of CONTINUES is 5 (that means there are exactly 599 diamonds hidden). You can view the number of CONTINUES of the bottom left. NOTE: There are no CONTINUES when the game is started.
+
+The player has 3 lives at the start of each game. He can lose them in three ways:
+1. Time, indicated on the display runs out. The screen display with announce TIME OUT.
+2. The player has lost all of his energy. A loss of energy occurs every time the player touches an enemy or is hit by enemy fire.
+3. The player falls into an abyss.
+
+If you lose a life the number of energy beams will default to 3. Surround, multiple, bounce and laser will be reduced - if not already at minimum strength.
+
+
+
+10 THE DISPLAY
+
+
+
+The player can gain the following information from the display (from left to right):
+• Number of lives (Amiga: Upper left corner of the screen).
+• Number of CONTINUES (Amiga/ST: diode display).
+• Time.
+• Number of diamonds.
+• Number of energy beams.
+• Score (Amiga: Upper-right corner of the screen).
+• Energy (above score).
+
+
+HIGHSCORE TABLE
+
+Please follow the Instructions on the screen!
+
+AMIGA, ATARI ST, SPECTRUM, AMSTRAD
+If you achieve a top score, you may enter the highscore table. After entering your name press RETURN.
+
+C64
+A menu will appear. Enter the main menu by pressing the firebutton. Pressing the S-key will prompt a request to insert side 1 of your disk. Return to the menu by pressing the RUN/STOP-key, or press the firebutton to save a highscore.
+
+AMSTRAD, SPECTRUM, C64, TAPE VERSIONS
+It is not possible to save highscores.
+
+
+TIPS & TRICKS
+
+• Try to use all weapon systems. Think carefully which system will best helps you in a given situation.
+• Use the gyroscopes! Remember you can use them as often as you want to. Don't forget you are invulnerable and can use mines!
+• Collect as many lives and Continues as possible
+• Never give up - there is always a solution...
+• Do not always take the easiest way - there are hidden secrets everywhere.
+
+
+
+11
+
+
+
+TURRICAN II
+The Final Fight
+
+13 ISTRUZIONI DI CARICAMENTO
+14 IL GIOCCO
+15 COME GIOCARE
+16 DIVERSI SIMBOLI
+20 IL DISPLAY
+
+
+
+ISTRUZIONI DI CARICAMENTO
+
+
+
+AMIGA
+
+Per evitate il pericolo di virus spegnete prima il vostro Amiga e riaccendetelo dopo alcuni secondi. Gli utenti Amiga 1000 devono inserire il disco Kickstart. Appena lo schermo mostra l'icona del disco Workbench Inserite il disco del gioco nel drive DF0. Il programma inizierà automaticamente.
+
+ATARI ST
+Spegnete il vostro computer ed inserite il DISCO 1 nel drive A. Appena riaccendete il vostro computer questo caricherà e farà iniziare il gioco automaticamente. Seguite le istruzioni sullo schermo.
+
+C64 DISCO
+Inserite il disco del gioco nel vostro drive, digitate Load "*",8,1 e premete RETURN. Il programma inizierà automaticamente. Seguite le istruzioni sullo schermo.
+
+C64 CASSETTA
+Inserite la cassetta riavvolta nel registratore. Ora premete SHIFT e RUN/STOP con-temporaneamente. Poi premete PLAY sul vostro registratore. Il programma inizierà automaticamente. Seguite le istruzioni sullo schermo.
+
+AMSTRAD CASSETTA
+I possessori di un CPC 664,6128, o 464 con il drive, devono digitare TAPE e poi premere RETURN. Inserite la cassetta riavvolta nel registratore, con il lato A verso l'alto. Premete CONTROL ed ENTER contemporaneamente, poi premete PLAY sul registratore. Il gioco inizierà automaticamente. Seguite le istruzioni che appariranno sullo schermo.
+
+AMSTRAD DISCO
+Inserite il disco nel vostro drive, lato A rivolto verso l'altro. Poi digitate RUN"DISK e premete RETURN. Il gioco caricherà ed inizierà automaticamente. Seguite le istruzioni sullo schermo.
+
+
+
+14 IL GIOCO
+
+
+
+SPECTRUM DISCO
+Spegnete il vostro computer, e poi riaccendetelo. Inserite il disco nel vostro drive, loto A rivolto verso l'alto. Ora selezionate l'opzione LOADER dal menu, e premete Il tasto ENTER. Il gioco inizierà automaticamente. Seguite le istruzioni sullo schermo.
+
+SPECTRUM CASSETTA
+I possessori di un +3 devono prima selezionare l'opzione +3 BASIC dal menu ON e premere il tasto ENTER.
+128K: Inserite la cassetta riavvolta nel registratore, con il lato A rivolto verso l'alto. Premete ENTER e poi PLAY. Seguite le istruzioni sullo schermo.
+48K: Inserite la cassetta riavvolta nel registratore con il lato A rivolto verso l'alto. A questo punto digitate LOAD"" e premete il tasto ENTER. Il gioco carich erà ed inizierà automaticamente. Seguite le istruzioni sullo schermo.
+
+
+IL GIOCO
+
+In Turrican guiderete il vostro eroe attraverso cinque mondi diversi, dove dovrà affrontare molti pericoli. Nel bel mezzo del gioco dovrete saltare a bordo di uno navicella spaziale e combattere attraverso 3 livelli differenti. Nemici sempre nuovi tenteranno di distruggervi in ogni momento. Dovrete utilizzare le vostre armi con abilità per poter sopravvivere. Per aiutarvi durante lo battaglia, potete raccogliere armi extra ed altri bonus durante il percorso, per esempio scudi e vite extra. Esaminate tutti i livelli attentamente poiché potrete trovare nuove sorprese ed oggetti utili dappertutto.
+
+
+
+COME GIOCARE 15
+
+
+
+Informazione generale: si può giocare con il joystick ed i tasti. I possessori di un Amiga potrebbero utilizzare un joystick con due pulsanti fuoco indipendenti, come sotto descritto.
+
+joystick verso l'alto:
+Il giocatore salta. Se è trasformato in giroscopio, tornerà normale.
+
+Joystick verso il basso:
+Il giocatore si abbassa, ad esempio per evitare i nemici.
+
+Joystick verso il basso tenendo premuto il pulsante di fuoco:
+(o, per Amiga: joystick verso il basso tenendo premuto il secondo pulsante fuoco). Il giocatore si trasforma in un giroscopio. Mentre è in questo stato diventa invincibile e distruggerà i nemici solo toccandoli. Il giroscopio gira automaticamente, e lo si può direzionare solo verso destro o sinistra tramite il joystick. Questa forma vi permette anche di passare attraverso stretti corridoi. Ora Turrican può trasformarsi in un giroscopio quando vuole. Ma solo ora può attivare mine... La mina viene posta sul terreno e scoppia poco dopo. Vari nemici verranno eliminati in questo modo.
+
+Joystick a sinistra/destra:
+Muove il giocatore a sinistra/destra.
+
+Premendo il pulsante di fuoco:
+Il giocatore può attivare un raggio di lampi e lo può direzionare (fino a quando terrà premuto il pulsante di fuoco), muovendo il joystick verso sinistra (il lampo ruota in senso antiorario) o a destra (il lampo ruota in senso orario). Il lampo può avere durata diversa. All'inizio del gioco occupa metà della grandezza dello schermo. Raccogliendo gli extra, arriverà ad occupare anche tutto lo schermo.
+
+Premendo brevemente il pulsante di fuoco:
+Il giocatore spara.
+
+
+
+16 DIVERSI SIMBOLI
+
+
+
+MULTIPLO
+Lo sparo multiplo si può estendere a due gradi collezionando i simboli esatti. Questo significa che avete a disposizione 5 colpi simultanei alla fine.
+
+LASER
+Il laser possiede un indice di penetrazione molto alto, e diventa ancora più efficace quando si combatte contro diversi nemici contemporaneamente. Il laser spora orizzontalmente e può aumentare fino a 5 gradi collezionando i simboli corrispondenti. Non diventa più lungo, ma più alto e di maggior efficacia.
+
+RIMBALZO
+Molto efficace in passaggi stretti o cave. Nel secondo grado le palle scoppiano creandone di più piccole rimbalzando a ritroso dai muri. Questo sparo ha tre gradi.
+
+LINEE DI ENERGIA
+Premendo la barra spaziatrice:
+Su Amiga anche il secondo pulsante di fuoco
+Su Amstrad RETURN.
+Attiva due linee di energia, che si muovono a destra ed a sinistro all'altezza massima dello schermo. Tutti i nemici nelle vicinanze verranno distrutti. Se alcuni ostacoli bloccheranno la strada, lo lineo viene fermata.
+
+BARRA SPAZIATRICE
+Premendo il pulsante di fuoco e la barra spaziatrice (o il secondo pulsante di fuoco) contemporaneamente.
+L'arma super viene attivata. Per una volta sola ad ogni vita Turrican ha la possibilità di attivare quest'arma. E' l'arma più potente poiché tutti i sistemi di armamento sono arrivati contemporaneamente. La finestra in basso a sinistra indica se l'arma è ancora disponibile.
+
+
+
+DIVERSI SIMBOLI 17
+
+
+
+PAUSA
+Premendo CTRL:
+Pausa. Premete il pulsante di fuoco per continuare.
+
+ESC
+Uscite dal gioco e ritornate alla sequenza introduttiva.
+
+
+Durante la sua missione il giocatore troverà diversi simboli con funzioni molto utili. Ecco una lista:
+
+Colpite questo pod, c'è un'Importante simbolo nascosto.
+
+Rosso - MULTIPLO
+attiva lo sparo multiplo; se è già stato attivato, verrà aumentato.
+
+Verde - LASER
+attiva il laser; se è già stato attivato, verrà aumentato.
+
+
+
+18 DIVERSI SIMBOLI
+
+
+
+Viola - RIMBALZO
+attiva il rimbalzo; se è già stato attivato, verrà aumentato.
+
+Blu-SURROUND
+aumento il lampo.
+
+Azzurro - SHIELD
+attiva lo scudo di forza, in modo che il giocatore diventi invincibile per poco tempo. In questo periodo i nemici verranno distrutti al contatto.
+
+Giallo 'P'-POWER-UP
+ricarica lo vitalità.
+
+Bianco 'L' - POWER LINE il giocatore guadagna una linea d'energia.
+
+
+
+DIVERSI SIMBOLI 19
+
+
+
+Grigio '1 up'
+il giocatore guadagna una vita extra.
+
+Giallo - SUPERBOMBA
+Toccando questo simbolo si distruggono tutti gli avversari minori sullo schermo.
+
+
+Diamanti
+una volta che il giocatore ha raccolto 300 diamanti, riceve un altro 'CONTINUA', ad esempio ho la possibilità di continuare una partito dopo aver perso tutte le vite. Il massimo di 'CONTINUA' è 5 (ciò significa che ci sono esattamente 599 diamanti nascosti). Vedi l'ammontare dei 'CONTINUA' in basso a sinistra. PRENDI NOTA: non avrai alcun continua quando inizierai a giocare.
+
+All'inizio di ogni partita il giocatore ha 3 vite. Potrà perderle in tre modi:
+1. Quando il tempo, indicato sul display, termina. Il display dello schermo ti avviserà quando il TEMPO è TERMINATO.
+2. Quando il giocatore ha perso tutta la sua vitalità. Vi sarà una perdita di vitalità ogni volta che il giocatore toccherà un nemico o che sarà raggiunto dal suo fuoco.
+3. Quando il giocatore cade in un abisso. Se perdi una vita, il numero delle linee energetiche verrà resettato a 3. Il lampo, lo sparo multiplo, il rimbalzo ed il laser verranno ridotti, se non si trovano già alla minima potenza.
+
+
+
+20 IL DISPLAY
+
+
+
+Il giocatore può ottenere le seguenti informazioni dal display (da sinistra a destra) :
+• Numero di vite (Amiga: nell'angolo in alto a sinistra dello schermo)
+• Numero di 'CONTINUA' (Amiga/ST: schermo a diodi)
+• Tempo
+• Numero di diamanti
+• Numero di linee energetiche
+• Punteggio (Amiga: in alto a destra sullo schermo)
+• Vitalità (sotto il punteggio)
+
+Se raggiungete il massimo punteggio potrete entrare nella tabella del punteggio. Dopo aver digitato il tuo nome premi RETURN. (Poi apparirà un menù. Entrate nel menù principale premendo il pulsante di fuoco. Premendo il tasto S, vi sarà richiesto di inserire il lato 1 del tuo disco. Ritornate al menù premendo il tasto RUN/STOP, o premete il pulsante di fuoco per salvare il punteggio/ solo C64).
+
+
+
+CREDITS
+
+
+
+Designed by	Manfred Trenz
+		Andreas Escher
+		Holger Schmidt
+		Julian Eggebrecht
+		(based on an original design by Manfred Trenz)
+
+C64 - version developed by Rainbow Arts
+16 Bit - versions developed by Factor 5
+Z80 - versions developed by Enigma Variations
+
+Programmed by			Manfred Trenz (C64)
+				Holger Schmidt (Amiga) - courtesy of Factor 5
+				Thomas Engel (Atari ST) - courtesy of Factor 5
+
+Graphics by			Andreas Escher (C64, Amiga)
+				Manfred Trenz (C64)
+				Sven Meier (Atari ST)
+
+Music & Sound effects by	Chris Huelsbeck (Amiga)-courtesy of A.U.D.I.O.S.
+				Markus Siebold (C64)
+				Jochen Hippel (Atari ST)
+				Manfred Trenz (C64)
+
+Package Artwork			Celal Kandemiroglu
+Layout				Monika Roder
+
+Marketing & Press		Kristin Dodt
+				Stefan Graen
+
+Produced by			Julian Eggebrecht
+
+Managing Director		Marc A. Ullrich
+
+
+© 1991 BY RAINBOW ARTS
+
+PRINTED IN THE U.K. BY
+CREATIVE ADVERTISING & PRINTING

@@ -1,0 +1,138 @@
+THE SPECTRUM GAMES DATABASE
+
+STARSTRIKE II
+
+PUBLISHER
+Realtime 1986
+
+AUTHOR
+
+CATEGORY
+Arcade
+
+DESCRIPTION
+3D Starstrike 2 is a 3D Shoot'em-up.
+
+CONTROLS
+Keyboard, Kempston, Cursor
+      Up             -  Q
+      Down           -  A
+      Left           -  O
+      Right          -  P
+      Fire           -  B, N, M, Space
+      Accelerate     -  X
+      Decelerate     -  Z
+      HUD on         -  H
+      Automatic HUDs  -  J
+      Dock           -  D
+
+INSTRUCTIONS
+After the failure of the Outsiders' invasion plans (in
+STARSTRIKE) the aliens retire to their homeworlds to rebuild
+their strength. The Federation decides to launch a pre-emptive
+strike and sends in a new model starfighter, the Starstrike II,
+piloted by (guess who?) you...
+ 
+Your task is definitely non-trivial - 22 planets to be
+neutralised, divided into Agricultural, Industrial and Military
+categories. Each planet has a control system in charge of the
+work droids and factories of that world; destroy the control
+system and the planet is put out of action.
+
+Since the Outsiders' planets are spread across five solar
+systems, your first task is to choose in which system you want
+to begin your campaign. Your ship is not itself capable of
+interstellar travel, having to rely on a support module which
+carries fuel and makes the hyperspace jump for you, using up its
+fuel supply as it does so. Your own onboard engines can handle
+interplanetary travel, though. Later in the game, you'll need to
+find fuel supplies so that you can get to the next star and
+planets.
+
+Your ship is equipped with shield, lasers and a computer to aid
+you.  The console of your ship shows laser heat, fuel and shield
+gauges (all of which it's worth watching). The lasers have a
+nasty habit of cutting out when they overheat, which usually
+tends to be in the midst of a fierce battle with the enemy
+defences. Your shields can be drained by enemy shots and
+collisions, but energy can be transferred from your fuel to your
+shields. You only have one life which will be lost if fuel or
+shields reach zero - so be careful!
+
+There are a number of different types of defences. On military
+and industrial worlds the huge Space Wheel, a giant pentagonal
+structure protected by defence pods, has to be neutralised by
+shooting off the five pods of the perimeter. If this is done a
+door appears in the centre of the Wheel, giving access to a
+hanger which can be entered (beware the Outsider ship inside!).
+To escape from this hanger, you must shoot away the three
+controllers that operate the exit door. You must be careful in
+doing this, as the door remains in the position it reaches at the
+instant when the third door controller is destroyed - you could
+end up trapping yourself.
+
+The Outsider planets are protected by Defence Fields which
+consist of of a number of gridded force barriers in space. Small
+openings in the force shields allow Outsider craft to cross, but
+these are obscured by spinning energy squares and are defended
+by missile batteries. As you reach the more important planets,
+the barriers become increasingly stronger and more difficult to
+penetrate. After traversing the barriers, the Starstrike II goes
+into orbit, where an Outsider fleet lurks. A head-up display
+tracks the enemy using two windows; the right-hand one displays
+the relative vertical position of ann object or ship in the
+vicinity, while the left hand one gives a plan view of the
+surrounding area of space. When an enemy craft comes within
+range, the scanners flip off and combat begins.
+
+Some Outsider ships release a fuel pod when they are destroyed,
+and the pods must be collected to gain enough fuel for you to
+travel to the next planet and star. The pods are only around for
+a short time, before Outsider fuel scoops recover them. Once the
+fighters have been defeated the Ground Attack sequence begins,
+where a cross imposed over the planet's surface targets the laser
+system. The Ventilation Duct is the next stage; inside the duct
+your lasers won't work and survival is dependent upon your being
+able to dodge the trench constructions and other obstacles.
+
+The last stage varies according to the type of planet, but is
+generally similar; a reactor system, battle computer or
+agricultural control centre has to be destroyed as you fly along
+a computer-controlled course. A successful attack opens a door
+at the far end of the course, which marks the completion of that
+planet. Then it's on to the next world... 
+
+
+SEQUELS/PREQUELS
+This game is the prequel to 3D Starstrike.
+
+SCORES RECEIVED:
+Crash: "A brilliant game". RATING : 96% (CRASH #28, May 1986)
+
+GENERAL FACTS
+Its authors, Realtime, were to write the classic CARRIER COMMAND
+only a couple of years later.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

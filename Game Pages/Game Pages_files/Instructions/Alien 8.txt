@@ -1,0 +1,240 @@
+THE SPECTRUM GAMES DATABASE
+
+ALIEN8
+
+PUBLISHER
+Ultimate Play The Game (ACG)
+
+AUTHORS
+Chris and Tim Stamper
+
+YEAR OF RELEASE
+April 1985
+
+
+DESCRIPTION
+Graphics-wise Alien8 is Knightlore set in a spaceship.  In this
+game however you are a little robot, "Alien 8" who's job it is
+to make sure ALL cryonaughts remain active during the ship's
+voyage.
+
+
+INSTRUCTIONS
+Explore the spaceship, collect any objects you come across and
+place these objects into the correct socket.  Sockets
+flash/sparkle with the object (thermolec valves) they require.
+ALL valves must be in place before the time runs out.
+
+
+CONTROLS
+
+            ALIEN 8
+      CONTROLLING YOUR ROBOT
+
+KEYBOARD CONTROLS
+LEFT Alien 8 will turn left using the Z, C, B and M keys.
+
+RIGHT Alien 8 will turn right using the X, V, N and SYMBOL SHIFT
+keys.
+
+MOVE FORWARD Alien 8 will move forward using any key on the
+second row, A, S, D, F, etc.
+
+JUMP Alien 8 will jump using any key on the third row Q, W, E,
+R etc.
+
+PICK UP/DROP Alien 8 can pick up or drop any object using the 1-0
+keys.
+
+PAUSE The whole game can be paused by using the CAPS SHIFT or
+SPACE/BREAK keys.
+
+JOYSTICK CONTROLS
+Alien 8 can be fully controlled by using the KEMPSTON INTERFACE,
+CURSOR INTERFACE II and joystick, be replacing the LEFT, RIGHT,
+FORWARD, JUMP and PICK UP/DROP commands.
+
+
+CHEATS
+
+
+SEQUALS/PREQUALS:
+In game style Alien8 was the sequal to Knightlore.  In actual
+games released by Ultimate, Alien8 was the sequal to Knightlore
+and Underwurlde which were released in December 1984.
+
+
+INLAY CARD TEXT
+
+THE PLANET
+Long long ago...in a distant galaxy, on a distant dying planet,
+the last of the guardians prepare their starship for its final
+journey.  All of the libraries, records and knowledge have been
+stored aboard the vessel, along with the very best of their
+cryogenically preserved race.
+
+The planet's final end draws near as the last, most vital piece
+of equipment is loaded aboard, activated, and the hatchways
+closed. The ULTIMATE evolution ALIEN8 cybot whirrs into an
+artificial cybernetic rush of intelligence.
+
+All hatchways are sealed, as the starship prepares for its long
+uniterrupted journey into the inky void of space.
+
+THE JOURNEY
+Aeons pass and still the ALIEN 8 unit is functioning perfectly,
+gliding swiftly and silently around on multi-sealed-thermotion
+bearings in waxolight shrouds. The very pinnacle of robotic
+development from a now long dead planet, on its immense task of
+keeping the cryogenically immersed cryonaughts activated by
+preserving and maintaining their life support systems and
+waiting...
+
+The long journey is near completion as the central computer
+alerts you to the nearing of the pre-destined solar system. The
+dust of aeons lies heavy on the ageing data banks of the central
+computing core, tired from centuries of repetitive computing and
+re-computing, at last the final sequential landing operations.
+
+The craft begins its final slowing sequence several hundred light
+years from the destined planet and as, almost immediately the
+starship slows to sub-hyper warp speeds, is open to attack.
+
+All the starship main defence systems have remained unactivated,
+as the reverse polarity negative-ion thrusters battle and strain
+to halt the enormous bulk of the ship.
+
+The main computer reports Alien penetration in almost all areas
+of the ship and all life support systems have become damaged and
+deactivated. All cryogenic systems must be reactivated before
+auto-phase thrusting systems manoeuvre the ship into its
+semi-cycle planetary orbit, at 0 light years from the planet.
+
+Your programming insists that you complete the mission and
+restore all cryogenic life support systems to operation.
+
+INSTRUCTION MANUAL
+The Starship
+  
+  A. The starship is at risk to Alien intrusion at lower
+     than hyper-warp speeds. As lesser beings have
+     not yet developed the mental ability to
+     contemplate travel at this speed, hyper-warp is
+     relatively safe and untroubled.
+     Once the starship's speed falls below hyper-warp
+     speed, upon its approach, at several hundred
+     light years from the planet, it will become
+     vulnerable to attack and Alien intrusion.
+
+  B. Once the starship has slowed down into sub-
+     hyper-warp speeds, and enters semi-cyle orbit
+     the ship will not have enough fuel to enable a
+     recovery to be made.
+
+  C. The starship is equipped with indestructable
+     multi-control directional robodroids.
+
+  Alien8 Programming
+
+  A. All cryonaughts must remain activated.
+ 
+  B. Locate and recover all thermolec valves and
+     ALIEN8 replacement packs.
+
+  C. Ensure all thermolec valves are in the correct
+     sockets, to ensure continuing activation.
+
+  D. Locate and activate all cryogenic chambers.
+
+  E. All cryonaughts must remain activated prior to
+     the planet being reached, for them to effect the
+     final landing sequence.
+
+  F. You have been issued with 5 initial replacement
+     packs, other packs may be located throughout
+     the starship. These will prolong your existence
+     upon damage by collisions etc.
+
+  FAILURE TO COMPLETE ANY OF THE ABOVE WILL
+  MEAN: THAT YOU HAVE NOT FULFILLED YOUR
+  PROGRAMMING, AND THAT YOU MAY BE SUBJECT TO
+  RE-PROGRAMMING, SHOULD YOU FAIL TO FULFIL
+  YOUR PROGRAMMING THEN THE SHIP AND ALL
+  CRYONAUGHTS
+
+            ALIEN 8 FEATURES
+            ----------------
+
+ALIEN 8 features filmation (C) a unique process whereby you have
+complete freedom within the confines of your imagination to do
+as you wish with any of the items found within ALIEN 8.
+
+Filmation (C)           3 Dimensional Movement
+Alien 8                 Moving Floorways
+Traps                   Different Levels
+Cryogenic Immersion     Extra Lives
+Tests                   Balconies
+Obstacles               Storage Chambers
+3D Scenario             Life Support Systems
+Monsters                Cryogenic Chambers
+Podules                 Cryonaughts
+Space Craft             Hidden Circuits
+Corridors               Superb Graphics
+Blocks                  Amazing Animation
+Plungers                Keyboard/Joystick Select
+Obelisks                Materializations
+Stairways               Multi Lives
+Portals                 Rotational/Direct Joystick Select
+Jump Button             Alien Eggs
+Continuous Pause        Egg Shells
+Collection Feature      Life Support Valves
+Control Panel           Life Support Sockets
+Light Yearometer        Alien Guards
+Life Support Activation Plasmic Ushers
+Status Display          Suberb Sound
+Dissappearing Corridors Computer Recommendations
+Trap Doors              Re-Programming Sequence
+Rising Balconies        Aliens
+Slides
+
+
+SCORES/REVIEWS
+Crash, Issue: 15, Page: 16, Percentage: 95%
+YS, 9/10.
+
+
+SNAPSHOTS/URLS
+
+FACTS ABOUT GAME
+The second Ultimate game to use their patented "Filmation"
+feature which enabled the user to explore a realistic (at the
+time!) 3D environment.  The Stampers said in a long forgotten
+interview that "Other people were copying our 3D game style so
+we though we may as well do another using a slightly updated game
+engine".
+
+NOTES
+Alien 8 features a very amusing "Re-programing" animation!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

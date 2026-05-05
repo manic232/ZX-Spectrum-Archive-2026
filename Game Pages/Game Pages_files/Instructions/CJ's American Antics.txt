@@ -1,0 +1,64 @@
+CJ in the USA
+Code Masters
+
+
+Somewhere in the deepest, darkest reaches of the African Jungle,
+CJ the elephant is playing. Suddenly there is an explosion, CJ
+turns around and sees a plume of smoke rising from his family
+home. He races back as fast as he can but finds his mother,
+brothers and sisters gone ... KIDNAPPED and taken to America.
+Barely holding back his tears, he vows to rescue his family and
+bring the evil hunter to justice!
+
+
+Controls
+
+Press Caps Shift and 1 to Quit.
+Press Caps Shift and 2 to Pause.
+
+Joystick
+
+Up	Q	Jump
+Down	A	Drop Bomb
+Left	O	Move left
+Right	P	Move right
+Fire	Space	Fire peanut
+
+The Object of the game
+
+CJ's family have been kidnapped and taken to the USA. His brothers and
+sisters have all managed to escape, but they are all trapped in various
+states. CJ must find each of member of his family, then travel to the
+next state. His mother is being held in [?] by the Hunter, so CJ must first
+remove him before she can be free. CJ must reach the end of each level
+where a large foe will challenge him. He can jump using his UMBRELLA to
+break his fall.
+
+He can fire PEANUTS through his trunk or throw BOMBS. By eating the
+HAMBURGERS and HOT DOGS he can replenish his energy. INVINCIBILITY
+PILLS will make him immune for a while.
+
+Level 1 New York Harbour to Central Station.
+Avoid Pit Bull Terriers, Rats, Renegade  Cops, Alligators and
+Alligators [sic]. Stay clear of the STREET GANGS.
+
+Level 2 Chicago to Black Hills of Dakota.
+The wild west including Rats, Rattlesnakes, Cowboys and Red Indians.
+Watch out for the BIG FOOT!
+
+Level 3. San-Francisco to Los Angeles.
+Keep a West Coast eye out for American footballers. A huge basketball
+player guards the end of this level.
+
+Level 4. Cape Canaveral to Disneyland.
+CJ's mother is hostage here, watch out for the hunter!
+
+
+Credits:
+Game Design         Big Red Software
+Coding              Fred Williams
+Music               Allister Brimble
+Graphics            Peter Ranson
+Project Director    Paul Ranson
+Production          Stew Regan
+Artwork             Shan Savage

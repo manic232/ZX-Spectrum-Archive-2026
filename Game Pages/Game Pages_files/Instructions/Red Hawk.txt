@@ -1,0 +1,453 @@
+REDHAWK - MELBOURNE HOUSE
+
+
+REDHAWK PLAYER MANUAL
+
+
+1.	INTRODUCTION
+
+Welcome to the world of comic fantasy, superheroes
+and supervillains. You are superhuman Redhawk and
+must control his two completely separate identities:
+Kevin Oliver - a human with all the human weaknesses;
+and Redhawk - a being capable of flight and incredible
+feats of strength. You can choose to fight crime, pitting
+Redhawk against common criminals and even
+supervillains. This choice leads to popularity and
+superhero status. Alternatively, you can lead a life of
+crime and ignore Redhawk's unpopularity and
+supervillain status. The choice is yours. Whatever you
+decide, you must make your decisions quickly as time
+waits for no man (superhuman or not). While you
+consider your actions, the other characters in the game
+will continue with their own.
+
+
+LOADING INSTRUCTIONS
+
+1.	Place the cassette in your player, making sure that it
+	is rewound to the start and that the EAR socket of your
+	Spectrum or Spectrum+ is connected to that of the tape
+	player, as detailed in the Spectrum manual.
+
+2.	Enter the command LOAD "" then press the ENTER
+	key.
+
+3.	Start the tape player. The game will now load
+	automatically.
+
+4.	In case of difficulty, alter the volume level and
+	consult your Spectrum manual.
+
+5.	In the most unlikely event of a genuine fault, please
+	return the complete package to Melbourne House
+	Publishers at the nearest to you of the addresses shown.
+	We will gladly replace it. PLEASE DO NOT RETURN IT
+	TO THE PLACE OF PURCHASE.
+
+(This notice does not affect your statutory rights)
+
+
+2.	THE SCREEN DISPLAY
+
+The top half of the screen is the Strip, a row of three
+panels in which the comic action unfolds. Each event in
+the game is illustrated by a picture which appears in the
+rightmost panel. The strip is scrolled left to make room
+for the new picture. Consequently, the last two pictures
+can always be seen to the left of the current picture.
+	Below the Strip is the information display. This
+consists of a rolling digit clock depicting the time of day
+on the game; a heart icon and a bar meter depicting the
+current strength of Redhawk; a graph icon and a bar
+meter depicting the current popularity of Redhawk; and
+a picture of the face of your current identity - Kevin or
+Redhawk. The significance of these will be explained
+later.
+	Below the information display is a box into which you
+enter your commands for your character. Text entered
+here may be edited using a powerful editor which is
+described in "THE EDITOR".
+	At the bottom of the screen is a function key reminder.
+To aid entry of commands. ten commonly used words
+are programmed onto ten function keys. Their use is
+described in detail later in the manual.
+	Finally, when you make a mistake or when the
+computer wishes to draw your attention to something, a
+message 'pops up' at the top of the screen. When you
+have read the message, press the <SPACE> key to
+continue with the game and the message will disappear.
+
+
+3.	THE EDITOR
+
+You can give your current character (either Kevin or
+Redhawk) a command by typing it as a sentence in
+English and then pressing <ENTER>. It is important to
+remember that a command is only issued after you have
+pressed <ENTER>. Therefore it is possible to type a
+command in readiness for something, wait for a precise
+moment and then issue it just by pressing <ENTER>.
+The type of commands you can give are described in
+"PLAYING THE GAME". For the moment it is enough to
+know that they must be typed in as English.
+	The commands you type appear in the box on the
+lower half of the screen. The place you are typing to is
+indicated by the '+' cursor, which moves along as you
+type. You can type in commands longer than the width of
+the box. When you reach the edge of the box, your
+command continues onto the next line. Do not be
+worried if the split occurs in the middle of a word, the
+computer will understand it as one word. Your
+commands may be up to eighty characters long if you
+want!
+
+
+3.1	EDITING A COMMAND
+
+Inevitably, you will make typing mistakes. The simplest
+of these is hitting the wrong key. To correct this, press
+the <DELETE> key until you have deleted all the
+unwanted characters. You can now type over what you
+have deleted.
+	Another mistake you can make is leaving out
+characters. To correct this, use <left arrow> to position
+the cursor. To create space for the missing characters,
+hold down <CAPS SHIFT> and press <I> until you
+have enough space for the missing characters. You can
+now type into this space and then move the cursor back
+to the end of the line as before.
+	NOTE: The position of the cursor when you press
+<ENTER> is important as it is taken to be the end of
+your sentence. Anything after this position will be
+ignored. This means that you must make sure the cursor
+is at the end of your command before pressing
+<ENTER>. There are exceptions to this, but these will
+be explained shortly.
+
+
+3.2	RE-ISSUING PREVIOUS COMMANDS
+
+Often during the game you will want to re-enter a
+command you typed earlier. This saves on typing; it
+does not 'take back' your earlier command and undo the
+consequences. So, if the command you want is still
+visible, press the <up arrow> until the cursor is on the
+line you want. Now move the cursor to the end of this line
+using <right arrow> and when you are ready, press
+<ENTER>. Now, if not already there, you can return to
+where you were before by <down arrow>.
+	If the command is not visible then all is not lost. The
+editor actually holds ten lines of text, although you can
+only see four at any given time. A way of looking at the
+box on screen is as a four line window over a ten line
+area. You can move the window over this larger area by
+trying to move the cursor up when at the top of the box,
+or down when at the bottom of the box. In this way you
+are free to edit any of the ten lines. You start off with the
+box over the top four lines. As you enter new
+commands, the ten lines gradually fill up. When you
+enter the eleventh, the first line is lost for good; when
+you enter the twelfth, the second line is lost; and so on.
+	Sometimes, you may only want to re-enter the first
+few words of an earlier command. You do this by moving
+the cursor to where you want the command to end and
+press <ENTER>. As explained earlier, this will cause
+the rest of the line to be ignored. You will notice when
+you try this that a full stop is placed at the end of the
+command. If later on you wish to remove this dot in order
+to re-enter more of the line, you can just type over it as
+you would any other character.
+
+
+4.	FUNCTION KEYS
+
+To save typing, ten commonly used words have been
+programmed onto function keys. A reminder of these is
+given at the bottom of the screen display. Each of these
+words is available by holding down <SYMBOL
+SHIFT> and then pressing the appropriate digit key
+<1>..<0>. When you do this the computer types in
+the word just as if you had pressed each key yourself.
+Therefore it is possible to edit words produced by
+function keys just like any other words. The ten keys and
+words are listed below along with their on screen
+reminders.
+
+	KEY	Function	Screen display
+	1	GET		GET
+	2	DROP		DROP
+	3	SAY "		SAY
+	4	KWAH"		KWAH
+	5	EXAMINE		EXAM
+	6	WAIT		WAIT
+	7	UNTIL		UNTL
+	B	FLY TO		FLY
+	9	STORE		STO
+	0	RECALL		REC
+
+SPECIAL KEYS
+
+It is possible to halt the action in the game by holding
+down the <Symbol Shift> key with the <Space>
+key. This will stop any new panels being displayed until
+the keys are released.
+	If the same keys are being held down as someone
+finishes speaking, their speech will be repeated. This
+enables you to replay a character's speech if you miss
+the start of it.
+
+
+5.	PLAYING THE GAME
+
+When the game has loaded, the computer will give a
+bleep and you must then press <SPACE> to start the
+game.
+	The story begins with Kevin leaving hospital. He can't
+remember who he is, where he is, or how he got there. A
+single word fills his mind - "KWAH". What happens
+next is up to you.
+	You control your alter ego by entering commands in
+English. You can command him to go, move from place
+to place, to handle objects, speak, give things to people,
+take things from people, fight people and so on. The
+vocabulary you must use to achieve these things is
+described in "THE VOCABULARY". However, all actions
+take time to do. Most only a second or so, but things like
+movement may take several minutes; depending on the
+distance your character is travelling and how fast he is
+going. When a lengthy action such as this occurs, the
+rolling digit clock goes into fast forward mode. Minutes
+roll by at the speed that seconds normally elapse. When
+the action is completed, game time reverts to its normal
+speed. If, during a long action, you change your mind
+and decide to do something else, then entering a new
+command will abort the first one. Short actions cannot
+be aborted this way.
+	Immediately to the right of the clock are two bar
+meters. The top one represents Redhawk's current
+strength. Simply staying in superhuman form takes
+energy, as do all actions performed in this form. If
+Redhawk's strength falls to zero then he is forced to
+return to his human form. In the form of Kevin,
+Redhawk's strength gradually increases until it reaches
+maximum. During the game, Redhawk may have to fight
+people. In combat, Redhawk's strength is pitted against
+that of his opponent. Therefore it is not a good idea to
+punch a supervillain when Redhawk's strength is low.
+Kevin's strength is not displayed, but it is quite easy to
+test his strength by playing the game.
+	Below the strength meter is the popularity meter. This
+indicates Redhawk's current popularity with the media
+and the town's inhabitants. It can be increased by
+arresting criminals. If Redhawk lets a criminal get away
+then his popularity will decrease by an amount which
+depends on the importance of the criminal and the
+crime. The media are always quick to pick up any offence
+committed by Redhawk and so any such action will
+result in reduced popularity. When popular, Redhawk is a
+superhero and when unpopular, he is a supervillain.
+Obviously, some of the people Redhawk comes across
+will be none too helpful if he is unpopular.
+	When playing the game, feel free to experiment. As is
+described in "THE VOCABULARY", it is possible to store
+the status of the game instantly. Then if things go wrong,
+you can always recall your stored game in an instant and
+try something else, even if your character died. People
+may not always respond to something in exactly the
+same way and it often pays to try again. If you get stuck
+on something, leave it for a while and go and try
+something else, it may help to solve your problem.
+Above all, keep a close eye on the clock. If you have
+come across adventure games before, remember that
+'Redhawk' is a game based around characters and not
+just objects. Something strange is happening and it is up
+to you, Kevin and Redhawk to find out what!
+
+
+6.	THE VOCABULARY
+
+The following sections show most aspects of Redhawk's
+and Kevin's vocabulary. In most cases just examples are
+given, but one or two verbs have further explanation. Do
+not take this as a complete vocabulary list as such a
+definition would be very large indeed.
+
+6.1	SENTENCES
+
+Commands are given as sentences in English. For
+example:
+	PICK THE BOOK UP
+There is often more than one way of giving the same
+command. For example, the following two commands
+have the same effect:
+	PICK UP THE BOOK
+	GET THE BOOK
+	There is no reason why you have to give your
+commands one at a time. You can enter multiple
+commands in a number of ways:
+	GET A BOOK AND THEN GIVE THE BOOK TO THE LIBRARIAN
+	GET A BOOK, GIVE THE BOOK TO THE LIBRARIAN
+	GET A BOOK. GIVE THE BOOK TO THE LIBRARIAN
+	GET A BOOK, GO SOUTH, GO INSIDE AND WAIT
+	As you can see, sentences may be separated by
+commas, full stops, "AND" or "AND THEN". It is a matter
+of taste which ones you use.
+	To reduce the amount of typing necessary, certain
+words are optional. These are: "THE", "THEN", "A" and
+"SOME". In addition to this, if doesn't matter how many
+spaces you leave between words. One other feature
+which saves typing is the use of abbreviations for
+commonly used words and phrases. These are
+described in the following sections.
+
+
+6.2	LOCATIONS AND MOVEMENT
+
+LOOK AROUND / LOOK ABOUT / LOOK
+
+LOOK AT THE LIBRARY / LOOK AT LIBRARY
+
+SEARCH PARK CAREFULLY / CAREFULLY SEARCH THE PARK
+
+GO <direction>
+eg.	GO NORTH / GO N / N
+	GO DOWN / GO D / D
+
+ENTER / GO INSIDE / GO IN / IN
+
+GO TO <somewhere>
+eg.	GO TO THE PARK / GO TO PARK
+	GO TO CITY STATION
+
+FLY <direction>
+Like GO <direction> but faster.
+
+FLY TO <somewhere>
+Like GO TO <somewhere> but faster and with the
+advantage that you can fly from almost any location to
+any other location.
+
+GET A TAXI TO <somewhere>
+eg.	GET A TAXI TO THE LIBRARY/  GET A TAXI TO LIBRARY
+You can get a taxi from almost anywhere to anywhere else.
+Unlike FLY TO <somewhere> common sense is applied.
+Consequently, the taxi would stop outside
+the library in the example.
+The taxi fare is five pounds.
+
+GET A TRAIN TO <somewhere>
+Like GET A TAXI TO <somewhere> but cheaper and slower.
+Obviously, trains only go from station to station.
+The train fare is one pound.
+
+
+6.3	INTERACTING WITH CHARACTERS
+
+LOOK AT <someone>
+eg.	LOOK AT THE LIBRARIAN / LOOK AT LIBRARIAN
+
+SEARCH <someone>
+Do a body search
+
+SAY "<words>"
+eg. SAY "HELLO THERE" / SAY "HELLO THERE
+SAY TO <someone> "<words>"
+eg.	SAY TO THE LIBRARIAN "TELL ME ABOUT THE MUSEUM"
+
+SHOUT "<words>"
+
+HIT <someone>
+HIT <someone> WITH <something>
+eg. HIT LIBRARIAN WITH A BOOK
+
+ARREST <someone>
+
+
+6.4	HANDLING OBJECTS
+
+INVENTORY / INVENT / INV / I
+
+WEAR <something>
+PUT ON <something>
+
+THROW <something> AT <someone>
+THROW <something> AT <something>
+eg.	THROW CAMERA AT POLICEMAN
+	THROW BOOK AT CAMERA
+
+GET <something> FROM <someone>
+GET <something> OFF <someone>
+TAKE <something> FROM <someone>
+TAKE <something> OFF <someone>
+eg. GET A CAMERA FROM LIBRARIAN
+
+READ <something>
+
+EXAMINE <something> / EXAM <something>
+
+
+6.5	WAITING
+
+WAIT UNTIL <time>
+eg. WAIT UNTIL 12:15 / WAIT UNTIL 16:42
+
+
+6.6	SPECIAL GAME COMMANDS
+
+These commands do not tell Redhawk or Kevin to do
+anything. Instead, they have a special effect on the game
+itself.
+
+STORE
+Stores the game status in the computer's memory. After
+typing STORE, a message "pops up" at the top of the
+screen. Press <SPACE> to continue play. If you type
+STORE again, the new game status will replace the
+previously stored one, which is destroyed. STORE
+works instantly, but the stored game is lost when you turn
+the computer off. To overcome this, use the SAVE and
+LOAD commands described below.
+
+RECALL
+Recalls the STORED game from the computer's
+memory. You can recall a STORED game as often as you
+like. The game status is recalled instantly but if you
+LOAD or SAVE a game status from or to tape, any
+previously STORED games will be lost. Instead, the
+LOADed status will be recalled.
+
+RESTART
+Starts the game again from the beginning. This
+command does not destroy your stored game and if you
+wish, you can still recall that game.
+
+SAVE
+Saves the game status out to cassette. A message
+"pops up" and the game pauses while you prepare your
+cassette. When you are ready, press <SPACE> to
+save. This method of preserving the game status need
+only be used when you want to switch off your computer.
+Otherwise it is far quicker to use STORE and RECALL. It
+is important to remember that when you SAVE a game,
+any previously STORED game status will be lost.
+
+LOAD
+Loads the game status from cassette. A message "pops
+up" and the game pauses while you position the
+cassette. Press <SPACE> when you are ready to load.
+
+QUIT GAME
+This must be typed in full and used only when you have
+finished playing 'Redhawk' for the time being. It leaves
+the game entirely and resets the computer.
+
+
+Program Copyright (c) 1996, Silhouette Software Systems
+
+Program designed and implemented by
+Simon Price and Mike Lewis
+Cover artwork by Steinar Lund
+
+Published by:- MELBOURNE HOUSE
+

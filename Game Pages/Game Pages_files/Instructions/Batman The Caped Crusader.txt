@@ -1,0 +1,169 @@
+THE SPECTRUM GAMES DATABASE
+
+BATMAN - THE CAPED CRUSADER
+
+PUBLISHER
+Ocean
+
+AUTHOR
+
+YEAR
+1988
+
+CATEGORY
+Arcade Adventure
+
+CONTROLS
+Keyboard, Kempston, Cursor
+
+
+ KEYS : Redefinable
+
+     Without fire button pressed:
+
+     Climb left      Face back  Climb right
+               \     |     /
+                \    |    /
+                 \   |   /
+                  \  *  /
+      Walk left ----* *----- Walk right
+                  /  *  \
+                 /   |   \
+                /    |    \
+               /     |      \
+      Duck left     Face    Duck right
+                   front
+
+
+     With fire button pressed:
+
+ High kick left      Face back  High kick right
+               \     |     /
+                \    |    /
+                 \   |   /
+                  \  *  /
+   Punch/throw -----*O*----- Punch/throw
+       left       /  |  \     right
+                 /   |   \
+                /    |    \
+               /     |     \
+  Low kick left   Pick up   Low kick right
+                 object/
+         enter utility screen
+
+INSTRUCTIONS
+There are two separate "plots" revolving around Batman's
+deadliest enemies - The Penguin and The Joker:
+
+1) A Bird In The Hand
+The Penguin, having been released from jail, decides to set up
+an umbrella factory in Gotham City, but (of course) is secretly
+using it as a cover for his plan to take over the world with an
+army of robot penguins! As Batman, can you shut down the factory
+computer and prevent the world from getting the bird?
+
+2) A Fete Worse Than Death
+Robin has mysteriously disappeared, the only clue being a single 
+playing card left behind by his kidnapper - the Joker! On the
+flip side of the card is a message: "Robin heads for a fete worse
+than death, the fuse is lit - so don't waste your time, follow
+your nose and remember, there's no place like home! Boom! Boom!".
+Can you unravel the mystery, save Robin and defeat the Joker?
+
+The presentation on screen simulates a comic strip with Gotham
+City and its inhabitants appearing in multiple overlaid panels.
+Any text (clues, descriptions etc.) is displayed in caption boxes
+in the appropriate panel. The player, as the Batman, has complete
+freedom to move around and interact with the numerous locations,
+solving puzzles en route.
+
+By pressing down and fire together, Batman will enter the utility
+screen. This displays all the objects which you have picked up
+and also the control icons which are used to manipulate them.
+(You can also change various aspects of the game's displays and
+sound effects at this point). Batman's energy status bars and the
+game completion percentage are also displayed on this screen. By 
+moving the Bat-cursor onto the object and pressing fire, then
+pressing the Utilise icon in the same manner, that object will
+be used. ie. food eaten (energy increased) etc.
+
+HINTS
+1. DON'T EAT TOO MUCH TOO SOON
+2. SOME OBJECTS DO MORE DAMAGE THAN GOOD
+3. KEEP DUCKING TO AVOID BULLETS
+4. NEVER JUDGE A BOOK BY ITS COVER (JOKER'S PLOT) 
+
+SCORES RECEIVED
+Crash "A finely-honed arcade advennture which is surely the best 
+comic licence ever - you'd be batty to miss it". RATING : 93%
+(CRASH #60, January 1989)
+
+
+GENERAL FACTS
+
+NOTES
+
+COMPLETE SOLUTION - Batman the Caped Crusader
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+"Another fine gem from another fine raid (on non-Speccy-emu-sites) 
+done by Alex Lux" ;-)  alexlux@eunet.yu 
+
+
+At the beginning let me specify that this is translated solution from 
+one old (1989) Ex-Yugoslav computer games magazine "Svet Igara" (World 
+of Games) originally written by Bojan Majer. I just translated it to 
+English and copied the map. (these are the words of Milosh, author for 
+Commodore 64 site, so bear in mind that there can be some minor 
+distinctions to Speccy version- AlexLux)(story continues...)
+
+I'll assume that you already know how the controls work in Batman as 
+they are quite simple. I recommend studying the map before you start 
+the game and you'll find it much easier to finish it. The first part 
+is relatively easy, anyway. I will assume that every time energy drops 
+on critical level you will use some food to restore it, use the mask 
+and enemies will stop attacking then for a while and use trainers to 
+gain speed, again just for a while. 
+
+Penguin plot:
+
+You start the game in Bat-Cave take all objects except grenade (it's 
+basically a red haring) use batarang, and you will have weapon until 
+the end of the game, then get out of the cave and pick up tools. Back 
+to starting room use the tools to fix the computer, insert the disk in 
+computer. Get out on the street. Get key then go to roof, take rope, 
+right to doors and open them with lock pick next to it. Get in and 
+find Lift key, take it and use it with lift to get down. Now find and 
+get dart, then the game disk, now keep going north and east until you 
+find an egg, take it and use rope on same spot, climb rope, use dart, 
+get pass and use magnet on pass to get some points, get out of the 
+factory. Go to another roof and get lamp, get down to streets get key 
+and go to the doors to Penguin's mansion, open them with pass. Get in 
+and use flashlight, find and Get Video Tape and go E, N, E, Unlock 
+door with key, W, W. There should be a VCR in that room, use video 
+tape with it and the TV screen should start displaying number 4. 
+Go to location '3 steps to hell', now go N, W, W, N, there is trumpet 
+in this room (haring, again), go E and insert game disk in Penguin's 
+computer. Message 'computer stopped' should appear, congratulations 
+you have just ended the first part of batman. 
+
+Joker plot:
+
+The goal of this part is rescuing Robin who is held captive by Joker 
+at fanfare. It is essential to check out the map before you start the 
+game, like part one you start your quest in bat-cave. Take light bulb 
+and use it in the western room, take gas mask and lamp, exit cave and 
+take and use batarang, go down. As soon as you touch the ground go to 
+inventory and use gas mask, you must do it really quickly as you'll 
+start loosing energy fast. You may take ears in same room to hear 
+Robin cry for help, in order to use food in this part, first you must 
+find and use teeth, so go and get them (check the map where to find 
+them), now get sunglasses (use them in bright rooms so you can see). 
+Now you can begin real work you must find and get wire cutters, when 
+you get them start disabling clock mechanisms marked 1-10 on map. When 
+you disable all of them Joker will appear in one location in unfair, 
+find him and beat the s*it out of him and he will lave you a rope, get 
+it, now get coin and go to the room with slot machine, keep using coin 
+with slot machine until you get card, now go to the location where 
+Robin is held (open doors with card, some doors are moving so you 
+might want to nail them with hammer and nails), use Rope and finish 
+the game.

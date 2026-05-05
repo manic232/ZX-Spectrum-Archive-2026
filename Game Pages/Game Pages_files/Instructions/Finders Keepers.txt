@@ -1,0 +1,61 @@
+THE SPECTRUM GAMES DATABASE
+
+FINDERS KEEPERS
+
+PUBLISHER
+Mastertronic
+
+AUTHORS
+
+YEAR
+1985
+
+CATEGORIES
+Arcade Adventure
+
+ORIGINAL INSTRUCTIONS
+The Aim of the Game
+The King of Ibsisima is, to say the least, a little upset.
+Tomorrow is his daughter's birthday and he has no idea what to
+get her.  As Magic Knight you have been ordered to find the
+Princess Germintrude a very special present. This may be your
+chance to prove that you are worthy of joining the famed 'Polygon
+Table', the highest honour any Knight could wish for!
+The King transports you to the Castle of Spriteland which is
+teeming with many weird and wonderful creatures. Also there are
+two mazes which contain many of the Queen's relatives! Apart from
+the grisly ghouls and energy sapping creatures there are ghostly
+traders who are often quite willing to exchange the treasures
+that you find in the Castle for money which they stole in their
+former lives.
+Some objects will react with each other to form either more or
+less valuable objects, to sell or collect.
+
+You now have two choices:
+1. You may try and collect as many treasures as possible and
+escape from the Castle of Spriteland.
+2. Collect the treasure in order to please the King and the
+Princess Germintrude and join the Polygon Table.
+
+Will the temptation of keeping the treasures be too much for you
+or are you loyal to the King and the Polygon Table of Ibisima?
+
+Controls
+1. Keys
+A  Up      
+Z  Down  
+N  Left  
+M  Right  
+G  Get  
+D  Drop/List  
+T  Trade  
+E  Examine
+
+2. Kempston Joystick
+3. Fuller Joystick
+4. Cursor Joystick
+5. ZX Interface 2, Joystick 1.
+
+GENERAL FACTS
+
+NOTES

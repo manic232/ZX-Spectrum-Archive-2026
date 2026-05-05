@@ -1,0 +1,129 @@
+Match Point - Psion 1984 (Under license from D&L Research)
+----------------------------------------------------------
+
+Recreate the excitement and tension of world class tennis in this dramatic
+simulation that puts YOU on the centre court -  stretching to reach that
+service, volleying crisply from the net and trying to out-think and
+out-manoeuvre your powerful opponent.
+
+Viewed from the commentary box in realistic 3D, you can either challenge your
+computer opponent (or another human) in the Open Championship all the way to
+the finals, but don't expect it to be easy! Alternatively, you can sit forward
+on the edge of your seat and enjoy a stunning display of control and skill at
+the exhibition match.
+
+Suitable for joystick or keyboard control, you will need to master the
+subtlety of the drop shot and lob as well as the controlled power of the
+forehand drive and volley as part of your repertoire of shots - which should
+include a range of recovery strokes!
+
+However, sheer technical compentence is not enough.  Strategy and tactics are
+vital aspects of tennis and you must develop your ball sense and awareness of
+court positioning or pay the price.  Play an adventurous attacking game or
+stay back and wear down your opponent - all the choices are yours, but don't
+let your concentration slip.
+
+Once you have mastered the skills and strategy of MATCH POINT, all that
+remains is to take a deep breath and step out onto the Centre court in front
+of the waiting crowd...
+
+THE CHAMPIONSHIP
+
+You are in the singles competition of the world's most famous tennis
+championship, and have the option of picking up your racket at any time of
+the following stages:
+
+Quarter Finals: suitable for all levels of experience.
+
+Semi-finals:    demands increased ball control, and faster reflexes.
+
+Finals:         the peak of professional achievement.  Only the best should
+                challenge the existing world champion, your computer opponent.
+
+EXHIBITION MATCH
+
+If you would rather sit back with your strawberries and cream and watch the
+professionals exert themselves, then select the Exhibition Match option - but
+be prepared to sit on the edge of your seat!  This match can be played by
+middle, senior or top seeded tennis stars as you wish.
+
+OPERATING INSTRUCTIONS
+
+Player control can be achieved by Joystick or through the keyboard. Both the
+Sinclair Interface II and Kempston Interface are supported, and an option to
+select the keyboard input keys is included.
+
+The direction and speed of the ball are determined by the position and motion
+of the player and also the timing of the swing of the racket. For example,
+extra speed can be imparted by moving forward while swinging, and striking the
+ball at the end of the swing will have a different effect from striking it at
+the beginning.  Changing from forehand to backhand is automatic when
+appropriate, and can be forced by pressing the swing key/fire button once.
+
+Pause a game with key H, or about with keys H and T together.
+
+JOYSTICK CONTROL
+move left    : LEFT            move down     : DOWN
+move right   : RIGHT           swing racket  : FIRE
+move up      : UP
+
+KEYBOARD CONTROL
+
+Single player against computer player:
+move left    : I
+move right   : P
+move up      : Q
+move down    : Z
+swing racket : B  or any key to right of B.
+
+Two Human players:
+
+             Player one:       Player two:
+move left    : S               J
+move right   : D               K
+move up      : 1 (One)         0 (Zero)
+move down    : Q               O
+swing racket : CAPS SHIFT      SPACE
+
+These choices of keys can be redefined by selecting the "user defined keys"
+option in the program.
+
+SCORING
+The scoring and rules adopted in this game are those of lawn tennis, and this
+section is intended for those not familiar with the sport of tennis.
+
+A MATCH is played over 3 or 5 SETS and the winner is the first to win either
+2 or 3 Sets respectively.
+
+A Set is made up of GAMES, the winner being the first to win 6 games and have
+a clear lead of two games.  Should the score reach 6 games each, then a TIE-
+BREAK is introduced to settle the set, except in the final set when play
+continues till one player achieves a two game lead.
+
+Games are made up of POINTS and are won by the first player to reach four
+points with a clear lead of two points.  Play continues until one player gets
+a lead of two points.  The scoring for Points goes as below:
+
+zero points  - love
+one point    - "15"
+two points   - "30"
+three points - "40"
+four points  - "game"
+
+If both players should reach "40" then the score is called "deuce" and the
+winner of the next Point is said to have the "advantage".  Should he win the
+subsequent Point then he wins the Game, being two clear points in the lead,
+otherwise the score returns to "deuce".
+
+Players have SERVICE for alternate Games throughout a Set, and alternate on
+serving the first game of each set.  Players change ends at the end of every
+odd numbered Game.
+
+TIE-BREAKS consist of ordinary points, labelled 1,2,3...etc, and the winner is
+the first to 7 points with a clear lead of 2 points, otherwise play continues
+till a two point lead is achieved.
+
+
+------------------------------------------------------------------------------
+
+Typed in by Collie (collie@disko.co.uk)

@@ -1,0 +1,280 @@
+Time Machine
+============
+
+"Professor Potts?" 
+
+"Yes!" vou swing round curious to see who was calling your name. 
+
+Big and ugly. 
+
+Threatening, dangerous. 
+
+"No! Not the machine..."
+
+And as the terrorists' bomb ignites and blasts, scattering thousands 
+of fragments into the unsuspecting sky; you fall, tumbling and 
+tumbling into a vortex of historical visions. 
+
+Falling ... Falling ... Then  ... it stops .........
+
+Stranded in a prehistoric time, the sudden realisation of the 
+challenge before you chills your bones. The only way to return 
+to your time zone is to create your own and Man's future. 
+
+You must manipulate history and use your ingenuity to overcome 
+the environments and creatures you will encounter. 
+
+Hitch a ride from a pterodactyl, stop the baboons from turning blue, 
+make friends with stone-age man and invent the wheel! 
+
+With your resourcefulness and nerve tested to the full, can you 
+stop the bomb attack and rescue the time machine, now 10 million 
+years in the future?
+
+
+
+SCENARIO
+
+Professor Potts is o recluse scientist who has a pet obsession - travelling 
+through time and space. He is toll, awkward and gangly. He has a shock of 
+untidy hair and wears a lab coat and goggles. 
+
+Our hero, Potts, is working on his time machine outside his laboratory when 
+there is a terrorist attack. Suddenly, an explosive device hits the time 
+machine and the vital accelerator crystal (a rare carbon that is only formed 
+at extreme heat and pressure) is destroyed, throwing him into a time warp. 
+
+The future has happened, leaving him trapped in prehistoric times...
+
+
+
+GAMEPLAY
+
+You take the part of Potts, and must manipulate history from prehistoric 
+times to the present day.
+
+To return to your own time zone you must first create your own future by 
+interfering with evolution. In order to survive you must also protect the 
+environment and man's forebears. Your final goal is to stop the bomb attack 
+and rescue the time machine, now 10 million years in the future.
+
+
+Creation and Maintenance of Time zones
+
+You must perform certain tasks in each zone to initiate the creation of the 
+next time zone, eg. cooling and worming of the planet, finding oil and 
+stone wheel...
+
+Previous zones will continue to evolve on their own and be changed by their 
+inhabitants. This may, in turn, alter events in subsequent zones. You must 
+therefore maintain the course of evolution of earlier zones, e.g. protect 
+your forebears and keep them worm or you too will become extinct!
+
+
+Evolution
+
+Events in a zone will evolve in subsequent zones, e.g. a seed planted in one 
+zone may grow into a tree in a later zone, which may itself be used later. 
+You must help evolution!
+
+
+Travelling in TIME and SPACE
+
+You are able to travel back and forth in time between existing time zones. 
+
+You are also able to travel both in time and space using your limited number 
+of reusable travel Pods. You may place these pods at strategic points, so 
+that you can teleport yourself and any movable object in your vicinity, to 
+them as and when required.
+
+
+Weapons
+
+The only weapon available to you is the limited burst of electrical discharge 
+from your controller device. Use this discharge to stun creatures and dislodge 
+objects. If you overuse your device then you have to wait for it to recharge.
+
+
+Look Window
+
+As you move around, any objects that you can manipulate will appear in the 
+display window. Some of these objects can be picked up, carried and/or
+transported.
+
+
+
+LOADING INSTRUCTIONS
+
+COMMODORE AMIGA & ATARI ST
+
+Switch on computer and insert game disc (On Amiga 1000 'kickstart' 
+must be used first).
+
+
+COMMODORE C64 DISC
+
+Insert game disc in drive. Type LOAD"*",8,1 and press RETURN.
+
+
+COMMODORE C64 CASSETTE
+
+Insert cassette in Datacorder. Hold down SHIFT and press RUN/STOP.
+
+
+COMMODORE C128
+
+Type GO64 and press RETURN. When prompted, type Y followed by RETURN. 
+Now follow the relevant C64 instructions.
+
+
+SPECTRUM CASSETTE
+
+If available, use TAPE LOADER. Otherwise type LOAD"" then press ENTER. 
+Press play on tape recorder. 
+
+
+AMSTRAD CASSETTE
+
+Press CTRL and the small ENTER key. Press play on the tape recorder. 
+
+
+AMSTRAD DISC
+
+Insert game disc in drive. Type RUN"DISC and press ENTER.
+
+
+
+LOADING DIFFICULTIES
+
+We are always seeking to improve the quality of our product range, and
+have developed high standards of quality control to bring you this product. 
+If you do experience any difficulties whilst loading, it is likely to be a 
+fault other than with the game itself. We therefore suggest that you switch 
+the computer off and repeat the loading instructions carefully, checking 
+that you are using the correct set of instructions for your computer and 
+software. If you still have problems, consult the user handbook that 
+accompanied your computer or consult your software dealer for advice. In 
+the case of continued difficulty, if you have checked all the hardware for 
+possible faults, please return the game to THE PLACE OF PURCHASE.
+
+CONSUMER ENQUIRIES/TECHNICAL SUPPORT 
+            (0734)311666            
+         ACTIVISION (UK) LTD 
+    BLAKE HOUSE, MANOR FARM ROAD, 
+     READING, BERKSHIRE, RG2 0JN
+
+
+
+CONTROLS
+
+All version of the game may be controlled using a joystick as follows: 
+
+                Without Fire Button Pressed
+
+                   Walk up steep diagonal 
+                     in direction faced
+
+   Walk up and left          |       Walk up and right           
+                          \  |  /               
+                           \ | /                    
+                            \|/                
+   Walk left              ---*---           Walk right              
+                            /|\                
+                           / | \                      
+                          /  |  \                   
+   Walk down and to left     |      Walk down to right
+
+                  Walk down steep diagonal
+                     in direction faced                
+
+
+                 With Fire Button Pressed
+
+                           Jump           
+                 Jump                 Jump
+                          \  |  /               
+                           \ | /                    
+                            \|/                
+                 Jump     ---*---     Jump              
+                            /|\                
+                           / | \                      
+                 Jump     /  |  \     Jump              
+               
+                   Croutch/pick up object
+
+Fire Button Alone: Firm Beam / Release Object
+
+Or Commodore 64/128, Spectrum ond Amstrad owners may use the following keys:
+
+	Q		UP
+	A		DOWN
+	O		LEFT
+	P		RIGHT
+	SPACE		FIRE
+
+
+
+ADDITIONAL KEYBOARD CONTROLS
+
+COMMODORE AMIGA / ATARI ST / AMSTRAD CPC
+
+F1	  Pick Up/Drop/Beam to Travel Pod 1	
+F2	  Pick Up/Drop/Beam to Travel Pod 2	Depending on your
+F3	  Pick Up/Drop/Beam to Travel Pod 3	position relative
+F4	  Pick Up/Drop/Beam to Travel Pod 4	to that pod.
+
+1-5	  Beam to time zone 1-5 if active	
+ESC	  Pause game	
+Q	  New game (whilst in pause mode)	
+F1O	  Toggle sound effects/music (Amiga and Atari versions only)
+
+
+COMMODORE 64
+
+F1	  Pick Up/Drop/Beam to Travel Pod 1	
+F3	  Pick Up/Drop/Beam to Travel Pod 2	Depending on your
+F5	  Pick Up/Drop/Beam to Travel Pod 3	position relative
+F7	  Pick Up/Drop/Beam to Travel Pod 4	to that pod.
+
+1-5	  Beam to time zone 1-5 if active	
+RUN/STP	  Pause game	
+Q	  New game (whilst in pause mode)	
+
+
+SPECTRUM
+
+V	  Pick Up/Drop/Beam to Travel Pod 1	
+B	  Pick Up/Drop/Beam to Travel Pod 2	Depending on your
+N	  Pick Up/Drop/Beam to Travel Pod 3	position relative
+M	  Pick Up/Drop/Beam to Travel Pod 4	to that pod.
+
+1-5	  Beam to time zone 1-5 if active	
+SYM/SHIFT Pause game	
+Q	  New game (whilst in pause mode)	
+
+
+
+CREDITS
+
+Game Design:				Vivid Image and Lisa Wand
+
+All Coding, Graphics and Music:		Vivid Image
+
+Amiga/ST Coding:			Jason Perkins
+
+C64 Coding:				Nick Jones
+
+Spectrum/Amstrad Coding:		Rafaelle Cecco
+
+Graphics:				Hugh Riley
+
+Additional Graphics:			Dokk and Shaun McClure
+
+Amiga/ST/C64 Music:			Wally Beben
+
+Production:				Colin Fuidge
+
+Testing:				Dave Cummins
+
+
+Copyright 1990 Vivid Image Developments Ltd. All rights reserved.

@@ -1,0 +1,393 @@
+THE SIMPSONS (BART VS. THE SPACE MUTANTS)
+
+A WORD FROM BART SIMPSON
+
+Hello, fellow humans. Bartholomew J. Simpson here with a very
+important secret:
+
+SPACE MUTANTS ARE INVADING SPRINGFIELD!
+
+That's right, man! A buncha slimy, horrible totally gross and putrid
+monsters are taking over the bodies of the people who live there and
+they wanna build a weapon that's gonna take over the entire planet!
+Pretty cool, huh?
+
+Anyway, yours truly is the only one who can see 'em cause of my X-Ray
+glasses so it's up to me to stop 'em! I've gotta spraypaint things,
+get radical on my skateboard, use my trusty slingshot and in general,
+behave like a nuisance, man. Plus, with evil dudes like Nelson the
+bully and Sideshow Bob getting in my way, it's a good thing I've got
+the rest of the Simpsons to help me out! So if you're a decent person,
+a patriot and somebody who cares about this sorry planet, you'll do
+the right thing.
+
+Save the Earth! PLAY THIS GAME! Thanks, man.
+
+LOADING
+
+SPECTRUM
+
+CASSETTE 128K ONLY
+
+Place the cassette in the recorder ensuring that it is fully rewound.
+Select LOADER option and press RETURN key. Press PLAY on your recorder
+- the game will now load automatically
+
+SPECTRUM +3 DISK
+
+Set up system and switch on as described in your instruction
+manual. Insert disk and press ENTER to choose LOADER option. This
+program will then load automatically.
+
+CASSETTE CPC 464
+
+Place the rewound cassette in the deck, type RUNT and then press the
+ENTER/RETURN key. Follow the instructions as they appear on-screen. If
+there is a disk drive attached, then type |TAPE then press
+ENTER/RETURN key. Then type RUN"" and press ENTER/RETURN key (The |
+symbol is obtained by holding shift and pressing the @ key).
+
+CPC 664 and 6128
+
+Connect a suitable cassette tape recorder ensuring that the correct
+leads are attached as defined in the User instruction Booklet. Place
+the rewound tape in the cassette recorder and type |TAPE then press
+the ENTER/RETURN key. Then type RUN"" and press the ENTER/RETURN
+key. Follow the on-screen instructions.
+
+DISK
+
+Insert the program disk into the drive with the A side facing
+upwards. Type |DISC and press the ENTER/RETURN key to make sure that
+the machine can access the drive, Now type RUN"DISC" and press
+ENTER/RETURN, the game will load automatically.
+
+COMMODORE
+
+Position the cassette in your Commodore recorder with the printed side
+upwards and wake sure that it is rewound to the beginning Ensure that
+all the leads are connected. Press the SHIFT key and the RUN/STOP key
+simultaneously. Follow the on-screen instructions - PRESS PLAY ON TAPE
+This program will then load automatically, For C128 loading type GO 64
+(RETURN), then follow C64 instruction. PLEASE NOTE: This game loads in
+a number of parts: follow on-screen instructions.
+
+DISK
+
+Select 64 mode (if using Commodore 128). Turn on the disk drive,
+insert the program into the drive with the label facing upwards.  Type
+LOAD "*",8,1 (RETURN) the introductory screen will appear and the
+program will then load automatically.
+
+CONTROLS
+
+This is a one player game controlled by Joystick only.
+
+To move Bart push the joystick left or right in the appropriate direction.
+
+To jump: push the joystick UP
+To jump higher: keep pushing the joystick UP
+
+To walk faster: move left or right whilst pushing UP on the joystick.
+
+To shoot weapons or spray-paint: press FIRE.
+
+To scroll through the inventory hold down the joystick and press
+fire. Release joystick when item required appears in the window.
+
+To use an inventory item pull down on the joystick and then release
+it.
+
+To Pause: select PAUSE in the inventory and press FIRE (C64 only).
+
+For a super long jump: Press FIRE and UP together.
+
+While on the skateboard hold down FIRE and press UP or DOWN to move
+the skateboard's position.
+
+THE STATUS SCREEN
+
+The Status Screen displays Number of hits left in current life,
+inventory items, Simpson's family member name as alien proofs are
+collected, score, lives, time left to complete level, weapon meter
+(how much ammo is left) and goals remaining to be collected on each
+level.
+
+GETTING THE FAMILY TO HELP
+
+If he tried hard enough, Bart could probably save the world alone, of
+course. But it'd sure be easier if Homer, Marge, Lisa and Maggie could
+help him. The problem is, Bart doesn't exactly have the best
+reputation for telling the truth, so he first has to convince his
+family he's not making this story up. How does he do it? By jumping on
+the heads of the people whose bodies have been taken over by
+Mutants. This forces the Mutants out of the bodies they've been
+controlling. They then leave behind proof of their existence that Bart
+must pick up before it disappears. Each time he gets one, a letter in
+the name of one of the Simpsons appears under their picture in the
+Status Screen. When their name is completely spelled out, that family
+member helps Bart battle the archenemy waiting for him at the end of
+the level.  Important Note: Don't let Bart jump on the head of someone
+who isn't taken over by a Mutant! To learn who is and isn't a Mutant,
+use the x-ray specs.
+
+X-RAY SPECS
+
+Make sure the X-Ray specs have been selected from the inventory. Then
+pull down on the joystick and Bart will look through the glasses and
+be able to tell which people have been taken over by the Mutants. Be
+careful; if he hops on the head of someone who hasn't been taken over
+he'll be penalized one hit.
+
+GOALS
+
+These are the ingredients the Mutants need to build their Ultimate
+Weapon, which they'll use to conquer the world. To save the Earth,
+Bart must collect, destroy, hide, change, and otherwise ruin these
+objects so the aliens can't gather them up. He must collect the amount
+of items shown on the Status Screen, fight off and avoid a bunch of
+enemies along the way and then do battle with some evil familiar foes
+at the end of each level. If Bart manages to complete an entire level,
+the Mutants modify their machine so it can use some other ingredient.
+
+Level 1: The Streets of Springfield
+
+PURPLE-COLOURED OBJECTS
+
+Purple objects are the first ingredients the Mutants need for their
+Ultimate Weapon. Be on the lookout for anything coloured purple. Bart
+will be able to use spray-paint in this level, but he won't be able to
+spray everything. Try to be creative and figure out other ways he can
+get rid of the purple objects.
+
+Level 2: The Springfield Shopping Mall
+
+HATS
+
+Hats are the Mutants' second choice for building their weapon. Collect
+as many as you can, but if you come across people who are wearing
+hats, Bart must first knock the hat off their head before he can
+collect it.
+
+Level 3: Krustyland Amusement Park
+
+BALLOONS
+
+Balloons are the next ingredient the Mutants will be after. Bart can
+find them at the Krustyland Amusement Park. He can grab the balloons
+or shoot them with his slingshot (which is easier) but first he's got
+to find his slingshot. Bart can also play games of skill and chance at
+Krustyland. Here's how:
+
+C64 - Push UP on the joystick when he's standing in front of a game.
+SPECTRUM/AMSTRAD - Select a coin when he's standing in front of a game.
+
+Then you'll see instructions on what to do next. If he has to shoot or
+throw press the FIRE button. (C64 only) - If he has to place a bet,
+move the Joystick LEFT or RIGHT to move the coin, and press FIRE to
+stars the wheel spinning. Remember to have enough coins to play, and
+also remember that Bart might sometimes have to jump to hit a target.
+
+Level 4 : Springfield Museum of Natural History
+
+EXIT SIGNS
+
+The next ingredient is exit signs, which the Mutants have snuck into
+the museum after hours to steal. Bart can touch these signs to collect
+them, but some of them are pretty high up. If he can't reach them, use
+tasers guns, which you can pick up along the way. Watch out for the
+laser alarms and just about everything else here - some things take on
+a life of their own past closing time.
+
+Level 5 : Springfield Nuclear Power Plant
+
+POWER RODS
+
+Nuclear power rods are the final ingredient the Mutants can use to
+build their machine. Bart must make his way around the Power Plant
+where Homer works, collecting all the rods he can find. Then he has to
+hightail it to the basement and put them back in the reactor. The
+maximum amount of rods he can carry at one time is 4 and they're
+displayed on the Status Screen where the Simpsons faces were. The
+reason the faces aren't shown there anymore is because they're all at
+the plant helping Bart
+
+The Elevator and Stairs
+
+Bart can't move around the plant unless he uses the elevators or the
+stairs. To move Bart into the elevator he has to be standing right in
+front of it. Press the FIRE button and the elevator will arrive at his
+floor and the door will open. Push UP on the joystick and he'll
+enter. Push LEFT or RIGHT to pick the destination floor, and then
+press the FIRE button again.
+
+(C64 only) When he gets to that floor, push DOWN on the joystick to
+exit. Note: Some elevators stop at all floors, some are express.
+
+Bart Entering a Stairway
+
+If you want Bart to use the stairs, push UP on the joystick and he'll
+go in the door. When he's in hold down the FIRE button while pressing
+UP or DOWN on the joystick to pick the destination floor. Release the
+FIRE button.  C64 only - you must also push DOWN on the joystick to
+exit the stairway. Bart can only travel to one floor at a time.
+
+WEAPONS
+
+Bart is only allowed to shoot at goals and anything else that's firing
+or throwing something at him. The way to get weapons is to pick them
+up as you go along, so keep your eyes peeled. Bart can only use these
+weapons in the level he finds them in, and pressing the FIRE button
+fires them. After Bart's collected a weapon, he carries it with him at
+all times until the ammo's used up. Then he loses that weapon and has
+to find a new one to do more damage with. Bart can pick up and carry
+as many weapons as he can find. But each time he uses one, his ammo
+supply goes down (paint, darts, slingshot rocks). The Status Screen
+shows how much ammo he has left.
+
+Spraypaint
+
+You can find these cans on the streets of Springfield. Bart will need
+them to change the colour of some of the purple objects, so don't
+waste paint!
+
+Slingshot
+
+There are plenty of these around at the Krustyland Amusement Park. You
+get 12 shots with each one. (SPECTRUM/AMSTRAD: 6 shots)
+
+Dart Gun
+
+Find these on display at the Natural History Museum. Each one's got 12
+shots. (SPECTRUM/AMSTRAD: 6 shots)
+
+OTHER USEFUL ITEMS
+
+Bart starts out the game with 10 coins, but he'll need a lot
+more. Coins are necessary to buy things and play games: and for every
+15 he collects, he gets an extra life. When he gets that extra life
+though, 10 coins are subtracted from inventory. There are other useful
+objects that will come in handy in the heat of the battle. Try to
+figure out what they are and how and where to use them. One thing to
+keep in mind though you usually can't use something unless you've
+bought it.
+
+How to Buy
+
+Bart can buy items in most of the Springfield stores. If he's standing
+by a store entrance, push UP on the joystick and he'll go right
+in. The owner will ask him what he wants. Push LEFT or RIGHT on the
+joystick to choose an item. Then the FIRE button for each one you want
+to buy. The item will go into inventory. To get Bart out of the store,
+push DOWN on the joystick. Remember, these items cost money, so make
+sure Bart has enough coins. And here's a little tip about the rockets:
+If you want Bart to fire one, hurry up and make him light it. Those
+sparklers don't last forever.
+
+LIVES
+
+Bart gets a total of 3 lives. For each life he uses, Bart can sustain
+two hits. The second time Bart is hit, he loses that life. The only
+times Bart can lose one full life immediately is when he falls into a
+pit, wet cement, quicksand etc. Bart gets extra lives (sometimes one,
+sometimes more than one) when he finds the Krusty faces, and one extra
+life for every 15 coins he collects. Each of those lives consists of
+two hits.
+
+Remember, the other Simpsons will only help Bart in Levels 1-4 if he
+can get enough alien proofs to make them believe him. If he makes it
+to Level 5, the Power Plant, the whole family will be there for him.
+
+MARGE
+
+Bart's loving mom will be at the mall if he needs her, and at the
+Power Plant to ease his burden.
+
+HOMER
+
+Bart's dad will watch out for him at the museum, and at the plant too,
+but only if Bart finds him some boxes of donuts.
+
+LISA
+
+Bart's brainy sister can help out at Krustyland, and the two can make
+a winning combination at the Power Plant.
+
+MAGGIE
+
+Bart's baby sister who is too young to talk, but not too young to
+help.
+
+BART'S FRIENDS
+
+Crusty the Clown: TV show host and Bart's comedy hero. Look for him to
+get extra lives.
+
+Jebediah Springfield: The beloved founder of Springfield who can give
+Bart the power of invincibility.
+
+BART'S FOES
+
+The chief Mutants have sent these soldiers to carry out their plan:
+
+Zebloid: These hairy aliens hop up and down and back and forth.
+
+Glondip: They mostly crawl around the ground, but some of them hop up
+and down.
+
+Killer Klown: They can be found all around Krustyland, trying to help
+the Mutants wipe Bart out.
+
+This next bunch is totally evil: Bart's fought them all before. Now
+they want revenge - even if it means selling out the Earth to the
+Mutants!
+
+Nelson: Springfield Elementary's biggest bully. His weapons of choice
+are water balloons at 20 paces.
+
+Ms. Botz: The notorious babysitter bandit, a fugitive on the loose,
+and one of America 's most armed and dangerous. She stashes what she
+steals in suitcases and maybe Bart can use that against her.
+
+Sideshow Bob: Once he was Krusty the Clown's faithful friend, then he
+became a traitor. Now he's out on parole, and his feet are as big as
+ever.
+
+Dr. Marvin Monroe: Local family counsellor, radio call-in show host,
+quack. He likes using shock therapy, but lately he's gone soft in the
+head.
+
+Adil: Albanian superspy, explosives expert and former foreign exchange
+student
+
+Jimbo: The absolute worst kid in school, a skateboard freak and the
+only teenager in fifth grade.
+
+SCORING
+
+You can earn points for defeating enemies and accomplishing certain
+tasks. Here's what they're worth:
+
+ITEM				POINTS
+End of level enemies		1,000
+Major enemies within level	  500
+Removing alien from human	  200
+Proof				  100
+Goal				  100
+Jebediah Head (invincibility)	   50
+Coin				   50
+Complete level		Time remaining on clock X 10
+
+HINTS AND TIPS
+
+1. Always check the clock and keep track of the time.
+2. Try jumping on things, around things, and on top of things. You
+   never know what will turn up.
+3. In Springfield try to discover what ledges Bart can stand on.
+4. There are lots of ways to get rid of purple-coloured objects. Be
+   creative and experiment!
+5. At the mall, Bart can't jump on a lollipop if its stick is pointed
+   straight up or down.
+6. Collect plenty of Krusty faces, weapons and coins.
+7. There are warp zones, so try to discover them. Keep in mind that
+   Bart can only warp to another place in the same level.

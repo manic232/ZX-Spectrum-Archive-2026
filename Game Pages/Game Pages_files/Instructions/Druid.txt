@@ -1,0 +1,106 @@
+THE SPECTRUM GAME DATABASE
+
+DRUID
+
+PUBLISHER
+Firebird
+
+AUTHOR
+
+YEAR
+1986
+
+CATEGORY
+Arcade Adventure
+
+DESCRIPTION
+Druid is a Gauntlet clone with slightly more depth.
+
+CONTROLS
+Keyboard, Kempston, Cursor
+
+ KEYS :   Left            - Z
+          Right           - X
+          Up              - K
+          Down            - M
+          Fire            - SPACE
+          Toggle Water/Fire    - P
+          Electricity spells
+
+          Cast Key        - 1
+          Cast Invisibility    - 2
+          Cast Golem           - 3
+          Cast Chaos           - 4
+
+          Control Golem (keys)      - A
+          Control Golem (joystick) - A + H
+
+Note: Joystick controls for 2-player game only!
+
+INSTRUCTIONS
+Four skulls of immense evil power have been brought together by
+the Princes of Darkness and placed in a tower. The skulls are now
+spreading misery and decay throughout the land and you, as an
+aging Druid, must destroy the evil skulls and thwart the Princes.
+ 
+Like Gauntlet but with certain subtle differences. For example,
+you can cast various types of spells. Offensive spells available
+are based on Water, Fire and Electricity while other rarer but
+more powerful spells include Key (opens doors), Invisibility,
+Golem (creates magical assistant - of which more later) and Chaos
+(smart bomb). Each time a spell is cast your capacity for casting
+that particular spell decreases, and the counter under the
+respective icon at the top of the screen will show this.
+
+Around the castle are many demons of different types which will
+attack you on sight (as you might expect). Each type of demon
+requires a different type of spell to kill it - a Fire spell
+would not kill a fire-resistant demon, for example. If they
+contact you they will drain your energy. This can however be
+ragained by standing on one of the Pentacles of Life that are
+scattered around the tower.  Chests are another source of useful
+power, but careful thought is needed before selecting an item
+from a chest; they are magically trapped and taking one item will
+destroy all the others in the chest. Hint: a map might be
+useful...
+
+If things are getting a bit too hectic, casting the Golem spell
+creates a magical servant who can be controlled by separate
+keyboard commands or a second player. The golem can be given
+three commands: send, follow and wait and has its own energy bar
+which is drained in the same way as yours. However, its touch is
+instantly fatal to demons!
+
+SCORES RECEIVED
+Crash "A compelling demon-bashing game." RATING : 90% (CRASH #35,
+December 1986)
+
+
+NOTES
+Druid was one of quite a few Gauntlet clones that appeared around
+1987, including Ranarama, The Dandy, Into the Eagles Nest and
+Storm.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

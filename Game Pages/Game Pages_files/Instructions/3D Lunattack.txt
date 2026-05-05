@@ -1,0 +1,27 @@
+ATTACK ON ATLANTIS
+(Century City)
+
+
+LOADING INSTRUCTIONS
+To Load ---- Type LOAD "" (Press Enter)
+
+
+OVERVIEW
+
+Controls ... A = Down    M = Drop Bomb
+             Q = Up      Sym/Shift = Fire Laser
+             O = Slower  H = Stop On
+             P = Faster  S = Stop Off
+
+You have to battle your way past enemy ships, underwater torpedoes and
+missiles, then dodge the indestructible fireballs and combat dangerous
+mines.
+
+Before you reach your objective and save Atlantis you have to combat
+all the underwater evils on one fiery screen. Keep your fuel tanks
+full by destroying the fuel dumps, and beware of crashing into under-
+sea mountains, which can first be seen on your radar. Change the game
+speed to suit your own skill level.
+
+
+(c) Century City Software (UK) Ltd. 1984

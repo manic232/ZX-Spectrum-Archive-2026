@@ -1,0 +1,86 @@
+THE SPECTRUM GAMES DATABASE
+
+ESCAPE FROM THE PLANET OF THE ROBOT MONSTERS
+
+PUBLISHER
+Domark
+
+AUTHOR
+
+YEAR
+1990
+
+CATEGORY
+Arcade
+
+DESCRIPTION
+EFTPOTRM is an isometric arcade game.
+
+CONTROLS
+Keyboard, Sinclair
+
+ KEYS          Player One     Player Two
+     Turn left     Z              N
+     Turn right    X              M
+     Move forward  Q              O
+     Throw bomb    S              P
+     Fire          A              K
+
+INSTRUCTIONS
+Playing as either Jake or Duke, you must rescue Professor Sarah
+Bellum and the enslaved hostages before they are turned into
+Robo-Zombies. Find and break into the food and bomb lockers to
+get special weapons to help you destroy the evil Reptilons.
+
+The object of the game is to progress through the factories of
+Planet X rescuing the hostages and destroying their Reptilon
+guards.  To activate the elevators you encounter, find the power
+switch and turn it on. This will allow you to reach the
+"Port-O-Matic" and exit the level.
+
+Around the complex of factories you will find lockers that
+contain food, extra energy, more bombs or sometimes special
+weapons that will increase your chances of survival. When
+destroyed, some of the Reptilons will leave behind green crystals
+that enhance your "ray power". The more crystals you collect, the
+more devastating your weapon will become.
+
+To rescue the hostages simply run into them and they will be
+beamed aboard your rescue ship which is orbiting Planet X. Some
+of the hostages, however, have been imprisoned in glass cases.
+To unlock the cases you must find the computer console that
+controls them and destroy it with your ray gun.
+
+Every three levels you will encounter an Evil Reptilon which can
+only be destroyed by continuous shooting and bombing. Watch out
+- each Reptilon has its own form of defence! At the end of each
+factory, you will be shown a bonus screen where you are rewarded
+for each freed hostage on that level. If you have rescued a full
+shuttle load of hostages you are awarded an extra bar of energy.
+
+SCORES RECEIVED
+Crash "EFTPOTRM is a must". RATING : 90% (CRASH #78, July 1990)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

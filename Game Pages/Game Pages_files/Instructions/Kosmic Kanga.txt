@@ -1,0 +1,35 @@
+KOSMIC KANGA
+(Micromania)
+by Dominic Wood
+Cover design by Mark Candlin
+
+
+KOSMIC KANGA - a multi-screen arcade standard, original action game.
+Featuring superbly animated graphics and packed full of arcade
+features. Help Kanga find his spaceship so he can return home to his
+planet. Take control of Kanga as he leaps about buildings, trees,
+clouds, mountains, etc. Kanga scores points by picking up bonuses,
+throwing boxing gloves at his enemies, and by completing each
+different screen.
+
+LOADING INSTRUCTIONS
+1. Connect lead to EAR socket of Spectrum from EAR socket on recorder.
+2. Rewind tape to beginning.
+3. Set Volume Control as per Sinclair manual.
+4. Type LOAD""
+5. Press ENTER key.
+6. Press PLAY on your cassette recorder.
+7. KOSMIC KANGA will now load and auto-run.
+If the program does not load first time, repeat instructions but try a
+different volume setting.
+
+PLAYING CONTROLS
+To increase height of KANGA's jumps use key A, to decrease height use
+key Z, to move right M, left N, to throw a boxing glove press the
+remaining keys on the bottom row.
+
+ALSO FOR USE WITH AGF, PROTEK, KEMPSTON AND INTERFACE II JOYSTICK
+INTERFACES.
+
+
+KOSMIC KANGA Copyright 1984 by Micromania

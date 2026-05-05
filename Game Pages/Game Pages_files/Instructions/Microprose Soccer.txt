@@ -1,0 +1,668 @@
+﻿MICROPROSE SOCCER
+=================
+
+LOADING MICROPROSE SOCCER
+
+MICROPROSE SOCCER is loaded from the cassette in the normal way. Put the rewound cassette in your tape deck, 
+with the chosen game label-side outwards. Turn on the C64 and press SHIFT and RUN/STOP. When prompted, press 
+PLAY on the tape deck - and wait.
+
+To load from disk-drive, turn on the drive, and for Association Football place disk side A MicroProse Soccer 
+and type LOAD “*",8,1.
+
+For American Rules Six-a-Side, place disk side B Six-a-Side in drive and type LOAD “*",8,1.
+
+Note: C128 machines must be in 64 mode before loading commences.
+
+
+GETTING STARTED
+
+MICROPROSE SOCCER is operated using menus and a highlight bar to select the required option. Move the bar using 
+a joystick in either port, and make your selection by pressing fire.
+
+Both Association football, and American rules six-a-side football uses the same basic menus as described below. 
+Differences between the games are outlined in the section on Rules of the Game.
+
+Once the game has loaded, the Main Menu screen should appear as below, alternating between it, and the credit 
+screen.
+
+MICROPROSE INTERNATIONAL CHALLENGE 
+WORLD CUP TOURNAMENT 
+SOCCER LEAGUE 
+TWO PLAYER FRIENDLY
+
+DEMO GAME 
+CONTROL PANEL 
+NAME BANK
+
+PLEASE SELECT YOUR FAVOURITE OPTION
+
+
+QUICK START
+
+Solo players should select MICROPROSE INTERNATIONAL CHALLENGE from the Main Menu; press fire again to bypass 
+the challenge table. Select PLAY BALL, and press fire twice to begin the match. You will now play under the 
+name of Player 1 against the first team in the challenge, Oman.
+
+If there are two players, you should select TWO PLAYER FRIENDLY from the Main Menu, select PLAY BALL and press 
+fire. Now, depending who presses the fire button to start the match, one person plays under the name of Player 1
+and the other, Player 2.
+
+This will allow you to start playing immediately, with the minimum of fuss. However; it is advised that you skim
+through the section on controls as soon as possible, to familiarise yourself with the subtleties of the joystick 
+commands.
+
+
+OPERATING INSTRUCTIONS
+
+NAME BANK
+
+To make proper use of MICROPROSE SOCCER’s various options, it is essential that all the players' names are first 
+entered into the program. To do this, highlight NAME BANK and press fire. The Name Bank then appears, with 
+another menu below ...
+
+INSERT NAME 
+DELETE NAME
+EXIT
+
+Player 1 and Player 2 names are used throughout the various leagues unless they are deleted. If you wish to do 
+this, go to DELETE, press fire, then highlight the names you wish removed. Another tap on the fire button 
+deletes the name.
+
+Names may be removed in this way at any time during play. For instance, if a player has to finish play early 
+just DELETE NAME, and he’s removed from all further competitions.
+
+Now, select INSERT NAME, and press fire. Type in the first players chosen name (up to 8 characters) and press 
+RETURN. You must now select that players 1st and 2nd team colours. Using the joystick, pull down to cycle 
+through the colours available, and press fire when the desired one appears. Repeat this process for teams 2nd 
+team strip.
+
+NOTE: The program automatically stops you from selecting colours which are too close to one another If your 
+teams 1st strip clashes with that of the opposing team there will be some difficulty in separating the two 
+on-screen; the 2nd strip is thus used to provide a sufficiently contrasing colour to the 1st.
+
+The Name Bank also acts as a progress screen, showing at a glance how players are faring in the different 
+competitions.
+
+When all of the players’ names and strips have been entered, EXIT back at the Main Menu.
+
+
+CONTROL PANEL
+
+Those who wish to obtain the maximum benefit from the game should now continue on to CONTROL PANEL, which lets 
+you customise the many functions of MICROPROSE SOCCER at your own discretion. Upon pressing the fire button, 
+the secondary menu appears:
+
+SELECTION MODE - MAN/AUTO 
+WEATHER - ON/OFF (OUTDOOR GAME ONLY)
+BANANA POWER - HI/MED/LO 
+MATCH LENGTH - 2/4/6/8/10/12 MINS 
+REPLAYS-ON/OFF 
+COLOUR MODE - COL/B-W 
+IN GAME MUSIC-ON/OFF
+SAVE-TAPE/DISK 
+LOAD-TAPE/DISK
+EXIT
+
+Each option is altered by highlighting, and then pressing fire to cycle through the available choices.
+
+Most of these options are self-explanatory. However here is a brief explanation of their individual functions:
+
+SELECTION MODE
+
+During a game, the player under your direct control can be selected automatically in which case he’s always the 
+player nearest the ball; or manually switching between the current player and the one nearest the ball by 
+pressing the fire button. The latter case allows you to kick the ball on without automatically giving possession 
+to members of your team who may be nearby.
+
+WEATHER (OUTDOOR GAME ONLY)
+
+Just like in real life, it rains on MICROPROSE SOCCER matches - complete with thunder and lightning. This has 
+serious effects upon the movement of the ball and players, so if you don’t fancy the challenge of playing on 
+a wet pitch in torrential rain, set it to OFF.
+
+BANANA POWER
+
+Adjusts the strength of the Banana Shot (described in detail later on) between High, MEDium and LOw. Realistic 
+effects are obtained by leaving the setting on MED.
+
+MATCH LENGTH
+
+Matches can be either 2, 4, 6, 8, 10 or 12 minutes in length. It's best to choose 2 or 4 minutes for playing 
+in a large league, unless you intend saving your position.
+
+REPLAYS
+
+MICROPROSE SOCCER gives a perfect slow-motion replay of every goal scored. Unless you turn it OFF.
+
+COLOUR CODE
+
+If you’re playing MICROPROSE SOCCER on a black and white TV set this option accordingly, and team strips always 
+appear as black versus white for clarity.
+
+IN GAME MUSIC
+
+In addition to the sound effects, you may also hear the soundtrack at the press of the button. Music may be 
+fine tuned to your individual SID CHIP by use of +/— keys.
+
+SAVE & LOAD
+
+Whenever you’re in the middle of a league, and want to save your position put a retrieval device (the program 
+already knows which one you have linked up), select the SAVE option and press the fire button. Now, enter a file 
+name (up to 9 characters) and press return.
+
+Similarly, to restart your game, select LOAD, type in the required filename, and you’re all set to kick off 
+again.
+
+NOTE: This option only saves current league standings, not the games in progress; once you quit a match, it’s 
+gone for good.
+
+When you’ve finished with the Control Panel, EXIT back to the main Menu.
+
+ADDITIONAL KEYS
+
+F1 - Swop joysticks. This key will enable you to exchange teams if one player accidentally controls the wrong 
+team at the beginning or half time of the match.
+
+RUN STOP - Pause game.
+
+RUN STOP and Q - Quit game.
+
+
+DEMO GAME
+
+In the event that you want a quick look at the game, but don’t want to actually compete, MICROPROSE SOCCER will, 
+play through a demonstration game between two randomly chosen teams. Highlight the option, press fire twice, 
+and sit back and watch ...
+
+When you’ve seen enough, pressing the fire button, moving the joystick or pressing RUN/STOP and Q causes 
+the Main Menu to reappear.
+
+
+TWO PLAYER FRIENDLY
+
+Select the option and press fire. Another screen appears showing the pending match and who the participants are, 
+with a sub-menu beneath:
+
+RE-SELECT TEAMS 
+PLAY BALL 
+EXIT
+
+Should there be two names in the Name Bank, both players are automatically selected to play. However; if the 
+Name Bank selects two players who do not wish to compete, highlight RE-SELECT TEAMS and press fire. The correct 
+names can now be selected in the normal way.
+
+Once the teams have been sorted out, select PLAY BALL. The match summary screen is displayed, showing the 
+players, in their strip colours, and direction of play. It also prompts one person to press fire in order to 
+start the game. If, in your haste to begin, the wrong person presses fire, a tap on the F1 key swaps control 
+of the joysticks.
+
+The game can be halted at any time by pressing RUN/STOP and Q. This allows you to RE-SELECT TEAMS if necessary, 
+or EXIT back to the Main Menu. Once the game is quit, however; it cannot be restarted; selecting PLAY BALL 
+starts a new game from scratch.
+
+At the end of the game, the final score is displayed; pressing fire then takes you back to the Match Pending 
+screen.
+
+
+SOCCER/INDOOR LEAGUE
+
+On selecting this option, the SOCCER LEAGUE table appears showing all the players in the Name Bank, their win 
+differences and current position in the league, alternating between it, and the Pending Match screen with the 
+sub-menu beneath:
+
+RE-SELECT TEAMS 
+PLAY BALL 
+EXIT
+
+The SOCCER LEAGUE allows up to 16 players included in the Name Bank to compete against one another in 
+competition. The players taking part in each match are selected using the RE-SELECT TEAMS options, and play is 
+started in the same way as for the TWO PLAYER FRIENDLY.
+
+It is up to those taking part to make a note of who has played who. However the computer does keep track of the 
+win differences of each player Starting with 0, a win earns 1 point; a draw results in no change; and a loss, 
+minus 1 (although win differences never fall below 0). Thus the player with the highest win difference at the 
+end of the contest is deemed to be the winner.
+
+The league may be re-entered at any time during play, and the current standings saved to tape or disk. Thus 
+a large league may be continued over several days, if need be.
+
+
+WORLD CUP/ALL STAR TOURNAMENT
+
+Entering the WORLD CUP TOURNAMENT brings up a list of names, and a secondary menu, thus:
+
+START NEW TOURNAMENT 
+RE-SELECT TEAM 
+CONTINUE OLD TOURNAMENT 
+EXIT
+
+The names displayed are those currently residing in the Name Bank, and are all Excluded from play until selected. 
+Go to RE-SELECT TEAM and highlight the first participant. On pressing fire, the highlight stops glowing and 
+allows you to choose that players preferred nationality; move the joystick up or down to cycle through the 29 
+available and press fire to select one. Repeat this process for all those taking part.
+
+Once the teams have all been selected, START NEW TOURNAMENT. A World Cup table is then drawn up by the computer; 
+with 24 countries represented, including those previously selected to play.
+
+Each team is graded according to their apparent talent. This affects their position in the table, since there 
+are four seed levels, and also alters the quality of the computer controlled opposition. For instance, if. 
+you're drawn in a group with Oman, Northern Ireland and Mexico, you’re onto a winner straight away. Accordingly, 
+if you choose to play as Brazil, you stand a better chance of winning than if you represent Cameroon.
+
+NOTE: The tournament table acts just like the real thing - no teams from the same Oceanic group are drawn 
+against each other in the first round.
+
+1st SEED	2nd SEED	3rd SEED	4th SEED
+
+1 Brazil	7  France	14 Sweden	22 Algeria
+2 Italy		8  Uruguay	15 Hungary	23 USA
+3 Argentina	9  Spain	16 Scotland	24 Australia
+4 W Germany	10 England	17 Austria	25 Canada
+5 Holland	11 Poland	18 Ireland	26 Cameroon
+6 USSR		12 Denmark	19 Wales	27 Japan
+		13 Mexico 	20 Chile	28 N Zealand
+				21 N Ireland 	29 Oman
+
+The table also acts as an itinery for the tournament, telling you which matches are to be played that day, and 
+so on.
+
+Whenever two non-human controlled teams are drawn together; the final scores are simply displayed. These are 
+carefully calculated scores weighted toward the team of greater prowess. Continually pressing fire cycles 
+through those matches that do not require a human participant.
+
+Draws that DO depend upon a human player (either versus the computer or another player) are displayed 
+accordingly on the pending match screen. Play is then started in the normal way by selecting the PLAY BALL 
+option, and pressing fire to start the match.
+
+If, during the tournament, players wish to change teams for political reasons (i.e. they’ve been knocked out), 
+or wish to drop out of the tournament (before they get knocked out), or wish to enter the tournament after it 
+has started (they suddenly fancy their chances), then highlight RE-SELECT TEAM rather than PLAY BALL. Players 
+can then choose a nationality that is still in the championships and not already selected by another player; or 
+be Excluded altogether.
+
+NOTE: Players can only join the Championships as a late entry if their name is already in the Name Bank.
+
+The first round of the World Cup is completed when each team has played three games each. Progress is measured 
+in points, each team receiving 2 for a win, 1 for a draw and 0 for a lose. Goal difference is also calculated, 
+enabling tied positions to be settled without replays.
+
+The top two teams from each group then go through to the second round, which takes the shape of a sudden death 
+competition. Draws are made at random, and the six winning teams plus the two best runners-up progress to the 
+quarter finals. The sudden death competition continues through the semi finals and into the final; drawn matches 
+at full time go into unlimited overtime, with the first team to score being the winner.
+
+
+MICROPROSE INTERNATIONAL CHALLENGE
+
+The MICROPROSE INTERNATIONAL CHALLENGE is designed for the solo player; or for people who wish to compete 
+against the computer rather than each other.
+
+Initially, a high score table appears displaying the level reached and score achieved, for each player entered 
+into the Name Bank. This constantly alternates between it, and the Pending Match screen containing a further 
+sub-menu:
+
+RE-SELECT TEAM 
+PLAY BALL 
+EXIT
+
+If the Pending Match is okay, select PLAY BALL and continue as usual. However RE-SELECT TEAM allows challengers 
+to be chosen at will from those players already in the Name Bank.
+
+The MICROPROSE INTERNATIONAL CHALLENGE is a structured league which allows competition against 16 computer 
+controlled teams of increasingly high standard, taken from World Cup line-up. Every time a team is defeated, 
+your position in the high score table increases; every time you lose, it goes down. However; you cannot go below 
+the bottom of the league, and if a draw occurs, the match is replayed until a result is obtained.
+
+The ultimate aim is to progress through all 16 levels, with Brazil being the team to beat Your current standings 
+may be saved to tape or disk, and the challenge re-entered at the last level played.
+
+
+CONTROLS
+
+MICROPROSE SOCCER players have a wide range of movements, accessed by joystick commands with and without the 
+fire button being pressed. With the joystick button un-pressed, the eight joystick positions direct the player 
+around the field accordingly.
+
+The control method has three different modes of operation, depending upon whether:
+
+a) The ball is in free play
+b) Your player is in possession of the ball
+c) The opposition have the ball
+
+a) Guide your player around the pitch in an attempt to capture the ball, using the normal joystick directions. 
+The player automatically gains possession of the ball on contact, and runs with it until possession is lost. If 
+the fire button is depressed when the player makes contact with the ball, it is volleyed a short distance in 
+the direction faced by the player.
+
+b) Here, your player automatically runs and dribbles with the ball, kicking it only when fire is pressed.
+
+There are a variety of different kicks available to the player; depending upon the position of the joystick and 
+the length of time the fire button is depressed. A short kick is achieved by jabbing the fire button, while 
+a full-strength kick is released automatically by holding the fire button down.
+
+Whenever fire is pressed, the joystick no longer controls the direction of the player but allows the choice of 
+shot to be selected instead. To make a shot, press the fire button and immediately move the joystick to the 
+desired position:
+
+Joystick forward - volleys the ball in straight line.
+Joystick left/right diagonal - banana shot. Causes the ball to curl left or right, accordingly. 
+Joystick central - player performs a chip shot.
+Joystick back - player performs a brilliant Pele-style backwards overhead kick.
+
+NOTE: The direction of shot is relative to the direction in which the player was moving immediately before 
+pressing the fire button. For example, with your player moving in a South-West direction, a banana shot curling 
+from left to right is initiated by pressing the fire button and pulling the joystick straight down.
+
+c) If the opposition manage to get hold of the ball, you’ll have to try and tackle the player in possession. 
+Whenever your player is close enough, pressing fire causes him to attempt a sliding tackle. This only occurs 
+when your player is moving, however.
+
+If your player makes contact with the ball, it is kicked into a free-play situation and can be collected; if 
+the challenge is unsuccessful!, the opposing player merely retains possession.
+
+NOTE: Attempting sliding tackles in the wet can have unpredictable results!
+
+Whenever an opposing player approaches the goal, a buzzer sounds signalling that you now have control over the 
+goalkeeper. In this case, different rules apply: pressing the fire button causes the goalie to dive for the ball 
+as below:
+
+Joystick right - goalie dives to the right 
+Joystick left - goalie dives to the left 
+Joystick centred - goalie jumps up in the air
+
+The goalie also has a higher priority in ball collection; any contact with the ball gives him possession over 
+other players.
+
+CORNERS
+
+Pressing the button releases the ball in a diagonal direction only The strength of the kick is determined in 
+the normal way.
+
+THROW-INS
+
+Throw-ins may be directed in one of three directions: diagonally left and right plus forward. The strength of 
+the throw is adjusted as for a kick.
+
+GOAL KICKS
+
+Whenever the goalkeeper gains possession of the ball, play is restarted by a goalkick from the correct section 
+of the goal area. The kick is directed forwards only and the strength is adjusted as normal.
+
+KICK-OFF
+
+When play is first started, or restarted after half time or a goal, a press of the fire button causes one player 
+to tap the ball to the other who then has full control over the ball.
+
+
+RULES OF THE GAME
+
+For those of you who are unfamiliar with the rules of either version of football included, here is a basic 
+overview of the laws governing play in MICROPROSE SOCCER.
+
+
+ASSOCIATION FOOTBALL
+
+The following rules are those officially approved by the Referees Committee of FIFA (the Federation 
+Internationale de Football Association).
+
+COMPONENTS
+
+The playing area is normally set out on a grassy pitch, described by white markings as defined in diagram 1.
+
+Goals are situated at either end and are of a standard size as defined in diagram 2.
+
+The ball is also a standard size, being between 27 and 28 inches in circumference, and weighing in at 
+between 14 and 16 ounces.
+
+TEAMS
+
+The two teams are each made up of ten players, a goalkeeper and two substitutes. The goalie is allowed to handle 
+the ball when it falls inside the goal area as defined in diagram 1.
+
+KICK-OFF
+
+Play begins by kicking-off from the middle of the centre circle, with both teams’ players in their own half. 
+The kicking team is decided by the toss of a coin, and the opposing team kicks off at the start of the second 
+half.
+
+The ball must first travel at least its own circumference (27 inches) into the oppositions half, and the kicker 
+may not touch the ball again until another player has done so.
+
+The kick-off is also used to resume play after a goal and is carried out by the opposing team.
+
+SCORING
+
+A goal may be scored by any member of either team; one which is affected by a member of the defending team is 
+termed an 'own goal’ and the offending player called a variety of names.
+
+OUT-OF-BOUNDS
+
+The ball is termed ‘in-play’ whenever it is positioned within the boundaries of the pitch markings. A ball is 
+only deemed ‘out of play’ once the whole of the ball has crossed one of the containment lines - either the 
+touch line, or the goal line.
+
+THROW-INS
+
+Whenever the whole of the ball crosses either touch-line, a throw-in is awarded against the team whose player 
+last touched the ball. An opposing team member may then throw the ball back into play from behind the touchline, 
+at the point where it crossed the line.
+
+CORNERS
+
+If the defending team, kicks the ball across the goal-line outside the goalmouth, a corner is awarded to the 
+attacking team. The ball is placed in the nearest quarter circle and a selected attacking player kicks the ball
+back into play Attackers may be as near to the ball as they like, but defending players must be at least 
+10 yards away from the ball. Should the ball enter the goal-mouth before touching another player the goal is 
+disallowed.
+
+GOAL KICKS
+
+If the ball is kicked across the goal-line (excluding the goal mouth) by an attacking player; the ball is then 
+returned to the defending goalie who kicks it back into play (i.e. clear of the penalty area).
+
+The kick must be taken from the goal area, in the half nearest to the point where the ball crossed the goal-line. 
+Attacking players must all be outside the penalty area when the kick is taken.
+
+
+AMERICAN RULES SIX-A-SIDE INDOOR FOOTBALL
+
+The basic rules of indoor soccer are similar to those of Association Football, but there are several differences 
+due to the reduced size of the pitch and the enclosed playing area. The following regulations are provided by 
+the MISL (Major Indoor Soccer League) of America.
+
+COMPONENTS
+
+The indoor pitch is covered by an artificial playing surface, or carpet, and the different regions are marked 
+out with red and white lines:
+
+The whole arena is set indoors, and the playing area is surrounded by a plexiglass wall eight feet high.
+
+Goals are situated at either end and are of a standard size:
+
+The ball is also a standard size, measuring between 27 and 28 inches in circumference, and between 16 and 14 
+ounces in weight.
+
+TEAMS
+
+There are two teams, each of six players including the goalkeeper. Both teams are obliged to have 14 players 
+kitted out, ready for substitutions, and even with multiple time penalties, there should be no fewer than four 
+players on the pitch per team.
+
+KICK-OFF
+
+Play is started by the visiting team, who place-kick the ball from the centre spot at least half the balls 
+circumference (14 inches) into the home teams area. Opposing players must be at least 10 feet from the ball 
+in their own half, and the kicker may not touch the ball again until it has touched another player.
+
+Play is also restarted in a similar fashion at the start of each quarter and after goals and penalty kicks, 
+where the opposing team kicks off.
+
+OUT-OF-BOUNDS
+
+In indoor football, the ball is constantly in play, since there are no boundary lines to be crossed. The ball 
+is only deemed out of play when it travels high enough to cross the perimeter wall, or make contact with part 
+of the building in which the pitch is housed. In both cases, play is continued by awarding the opposing team 
+with a free kick (see on), to be taken from the centre of the nearest red line.
+
+THREE LINE VIOLATION
+
+If the ball is kicked into the air towards the oppositions goal, and it crosses the three centre lines (two red 
+and one white) without touching the ground or another player a free kick is awarded to the opposing team. The 
+ball kicked back into play from the centre of the last red line that it crossed.
+
+KICK-INS
+
+Whenever the whole ball crosses the perimeter wall, play is restarted by the taking of a kick-in by an opposing 
+player The ball is placed on the touchline directly below the point at which the ball crossed the wall, and the 
+ball is kicked back into play.
+
+Such kick-ins are direct and goals may be scored by the kicker.
+
+GOAL KICKS
+
+If the attacking team kicks the ball over the end perimeter wall, between the flagposts and over the crossbar; 
+play is restarted by a goal kick. This is a free kick taken from within the goal area in the half nearest to 
+the point where the ball left the pitch. The kick may be taken by any player (not just the goalie), and it must 
+travel completely beyond the penalty area before it touches another player.
+
+CORNERS
+
+If the defending team kick the ball over their end perimeter wall, a corner is awarded to the attacking team. 
+The ball is placed on the nearest corner mark and kicked back into play. Again, such kicks are direct and goals 
+may be scored by the kicker.
+
+
+HISTORY OF THE WORLD CUP
+
+Football in one form or another has been played by various ancient races, such as the Aztecs and the Vikings. 
+The ball was anything vaguely spherical - such as inflated animal organs or disembodied heads.
+
+The sport known today first started to take shape several centuries ago, but it was not until the game was 
+played at English public schools that the first sets of rules were laid down.
+
+People who played the game at school naturally wanted to continue after they left, but it was necessary to work 
+out a set of rules by which everyone could abide. Since boys from all backgrounds met at University they became 
+a natural venue for meetings to discuss the rules. Cambridge played a particularly major role in this.
+
+There were basically two different factions: those who wished to handle the ball, and those who didn’t. The 
+former group decided to follow the rules in force at Rugby school, while the latter were to go on to finalise 
+the game of football. A governing association was formed in 1863 and so the game became Association Football, 
+or ‘Soccer’ for short.
+
+The game rapidly spread in popularity to Europe, South America, Canada, USA and Australia, but the first truly 
+international match wasn’t held until 1872, when Scotland beat England in Glasgow. And it was to be another 50 
+years before the idea of a World Cup competition would be conceived.
+
+The concept of the World Cup was actually the brainchild of two Frenchmen: Jules Rimet and Henri Delaunay Rimet 
+was later to become President of FIFA (the Federation Internationale de Football Associations) from 1920 to 1954, 
+and Delaunay its secretary from 1919 until his death in 1956.
+
+It was at the very first meeting of FIFA in 1904 that the idea for a world football championship was proposed. 
+It was felt that the international football competition held within the Olympics was no longer able to contend 
+with the increasingly popular sport, and the professional status of the game meant that many countries weren’t 
+represented by their best players. The scheme was then debated on and off for 26 years, until 1928 when it was 
+finally accepted.
+
+There were five nations willing to host the first games: Italy, Holland, Spain, Sweden and Uruguay Uruguay, 
+however promised to pay all travelling and hotel expenses for the visiting teams, and would build a new stadium 
+specially for the event. Faced with such a strong argument the four European entrants could only agree - and 
+then sulk by not sending a team, using the three week boat journey as an excuse.
+
+In fact, with only two months to go before the kick-off, Uruguay found itself hosting a championship in which 
+not one European team was entered. The Latin American federations threated to pull out of FIFA, and so 
+eventually, France, Belgium, Yugoslavia and Romania attended, the latter team being picked by King Carol 
+himself.
+
+In July of 1930, Uruguay faced Argentina in the final, set in Centenary Stadium in Montevideo. Uruguay won, 4-2, 
+and the 50,000 franc French-designed golden trophy was lofted high by the Uruguayan captain. Later the Uruguayan 
+consulate was stoned by an angry Argentinian mob, before being dispersed by gunfire.
+
+At the Stockholm congress of 1932, it was decided that the rapidly increasing competition could no longer be 
+held in a single city. The 1934 championships were therefore held at locations throughout Italy.
+
+The first round was also altered to a knockout competition between the 16 qualifiers previously whittled down 
+from the 32 entrants. Because of this rather drastic style of competition, Argentina and Brazil both endured 
+a 16,000 mile round trip - for one match!
+
+Uruguay was still sulking after being snubbed in the 1930 championships and decided to stay away so the 
+defending nation weren’t even represented. Nonetheless, the games continued, and once again the host nation won 
+- much to the delight of Mussolini and the Fascist party - making a profit of one'million Lira in the process.
+
+By 1938, Europe was in the throes of pre-war unrest; the Auschluss movement had swallowed Austria, whose best 
+players had been snatched by the German team.
+
+Uruguay, STILL sulking after the 1930 debacle, and Argentina, whose offer to host the games was passed over in 
+favour of France, stayed away. The latter decision caused a riot outside the Federations office in Buenos Aries 
+which had to be quelled by police.
+
+However new additions to the role call included Cuba, Poland and the Dutch East Indies!
+
+After a fierce struggle, Italy won for a second time - and they held onto the Cup for 12 years, while Hitler 
+and his forces put paid to any further international events.
+
+The Brazilian World Cup of 1950, was now officially known as the Jules Rimet Trophy, after its inspiration (who 
+had hidden the trophy under his bed throughout the war). A badly organised affair, the final took place in the 
+as yet unfinished Maracana stadium - the exterior of which still resembled a building site.
+
+The four British associations returned to FIFA in 1946, after leaving the organisation in the 30s due to 
+disagreements over payments for players. The World Cup committee generously designated the British Championships 
+as a qualifying zone - guaranteeing a place for the only two entrants! Scotland rewarded their courtesy by 
+stating that unless they won the title they would not be competing. They lost, and stayed away from the 
+competition.
+
+Scotland weren’t the only absentees, though: Argentina were sulking; Czechoslovakia were still suffering from 
+the effects of the war; Austria chickened out, saying their team was too young; Germany was excluded, for 
+obvious reasons, and Hungary was still behind the Iron Curtain. Turkey, too, pulled out at the last minute, 
+allowing France to compete, even though they had been knocked out in the qualifying round.
+
+However France then dropped out again, after the complications of the Brazilian itinery obliged them to play 
+one match in Porto Alegra, and the next 2,000 miles away in Recife. In fact, many teams ended up trouping all 
+over the country to venues hundreds, and sometimes thousands of miles apart - except for Brazil, of course, who 
+by some stroke of good fortune were required to play all of their matches but one in Rio de Janeiro!
+
+In the end, though, this didn’t help them: Uruguay took the trophy home for a second time.
+
+The Swiss event of 1954 passed quietly, save for an illogical eliminating scheme and bad organisation. So too 
+did 1958 in Sweden - apart from the appearance of a young Brazilian called Pele. In fact, the latter years of 
+the World Cup have all had their share of controversy, but largely - and more fittingly - on the field than off 
+it.
+
+The championship has continued to grow, becoming more and more organised with each successive competition. It 
+is now the premiere footballing event, and challenges even the Olympics in popularity and world-wide interest.
+
+
+WORLD CUP VENUES
+
+1930	Uruguay - Montevideo		Uruguay  4 - 2	Argentina
+1934	Italy - Rome			  Italy  2 - 1	Czechoslovakia
+1938	France - Paris			  Italy	 4 - 2	Hungary
+1942	War Stopped Play			
+1946	War Stopped Play			
+1950	Brazil - Rio de Janeiro		Uruguay	 2 - 1	Brazil
+1954	Switzerland - Berne		Germany	 3 - 2	Hungary
+1958	Sweden - Stockholm		 Brazil	 5 - 2	Sweden
+1962	Chile - Santiago		 Brazil	 3 - 1	Czechoslovakia
+1966	England - Wembley		England	 4 - 2	W Germany
+1970	Mexico - Mexico City		 Brazil	 4 - 1	Italy
+1974	West Germany - Munich	      W Germany  2 - 1	Holland
+1978	Argentina - Buenos Aries      Argentina	 3 - 1	Holland
+1982	Spain - Madrid		          Italy	 3 - 1	W Germany
+1986	Mexico - Mexico City	      Argentina	 3 - 2	W Germany
+
+
+
+CREDITS
+
+SOFTWARE DEVELOPMENT
+SENSIBLE SOFTWARE
+
+PLAYTESTING
+DIARMID CLARKE, SAM REEVES, LAING BURGESS
+
+DOCUMENTATION
+STEVE JARRETT
+
+MANUAL GRAPHICS
+JULIE BURNESS, FIONA REMNANT
+

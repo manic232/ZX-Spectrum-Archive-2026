@@ -1,0 +1,30 @@
+ THE PRICE OF MAGIK 
+ Level 9 1986
+
+ CONTROLS : Keyboard only
+ ----------------------------------------------------------------------
+ AIM : The dying light of the Red Moon has been captured in a crystal
+ by the magicians of Baskalos to act as the last repository of magik.
+ Its guardian for many years has been Myglar, a wise and respected
+ sorcerer. But unbeknownst to the other magicians, Myglar was steadily
+ being consumed by fears for his own mortality. Now he is channeling
+ the remaining power of the Red Moon crystal into keeping himself alive.
+ It's your task to defeat him and recover the crystal before he drains
+ it completely of its magik.
+
+ GAMEPLAY : TPOM is a fairly conventional adventure game, in two
+ flavours - a 48K version with cut-down text and a 128K version with
+ full text and extra features (see below). It's a big game (well worth
+ mapping!) and quite complex too; there are 18 spells you'll need to
+ learn and for which you'll need to find certain objects to act as
+ foci. 
+
+ COMMENTS : "An excellent adventure game".
+ RATING : 94% (CRASH #30, July 1986)
+
+ NOW : This, the sequel to RED MOON, is another classic Level 9 game
+ and is still a very good adventure indeed.
+ ----------------------------------------------------------------------
+ COMMANDS : The 128K version has three special commands: RAM SAVE and
+ RAM RESTORE, which are pretty self-explanatory, and UNDO, which undoes
+ the previous command (even if it was fatal).

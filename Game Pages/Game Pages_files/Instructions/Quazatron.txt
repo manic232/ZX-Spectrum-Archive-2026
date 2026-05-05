@@ -1,0 +1,319 @@
+THE SPECTRUM GAMES DATABASE
+
+QUAZATRON
+
+PUBLISHER
+Hewson Consultants
+
+AUTHORS
+Graftgold Ltd (Steve Turner/Andrew Braybrook)
+
+YEAR
+1986
+
+DESCRIPTION
+Quazatron is a 3D arcade strategy game.
+
+CONTROLS
+Keyboard, Cursor, Kempston.
+Left/up    - A, S, D, F, G
+Left/down  - B, N, M, symbol shift
+Right/up   - H, J, K, L
+Right/down - Z, X, C, V, caps shift
+Fire       - ENTER
+Autofire   - W (toggle)
+Pause      - P (except in Grapple mode)
+
+INSTRUCTIONS
+You control KLP-2 (Klepto), a droid assigned to deactivate the
+hostile alien droids of Quazatron, which basically means destroy
+all the robots on each level.  This can be done by laser fire,
+by pushing them to destruction, by ramming them or by grappling
+with them using your experimental Grapple Device.  This allows
+you to dismantle the droid and use their parts to increase your
+own power and facilities.
+
+You can fire your weapons by using the fire button or by pressing
+W to activate autofire.  Weapons fire in the direction KLP-2 is
+facing.  There are many different weapons which can be taken from
+enemy droids.  The weapons can only be used while KLP-2 is
+moving.
+
+To grapple and enemy droid, make KLP-2 stop moving and press fire
+until the yellow message at the bottom left shows GRAPPLE and the
+G light flashes. Then you can ram the enemy droid to dismantle
+it.  To turn off GRAPPLE mode, press fire again while stationary.
+To successfully grapple you must overcome the enemy droid's
+security circuit.  The idea is to turn as many lights your colour
+as possible by shooting the pulses at them.  You have a few
+seconds to move left or right to select the side of the circuit
+which you wish to use.  Your target uses the opposite side to
+fight back.  Move your pulsers up and down the wires and activate
+them with the fire button.  The channel of the pulses is affected
+by any hardware on the tracks.  If you succeed in interfacing,
+the status of the enemy droid's Drive, Power, Weapon, Chassis and
+Devices are displayed.  You can then take any of these parts for
+your own use by selecting them with up/down and pressing fire. 
+Damaged elements are unusable.  The more lights that you made
+your own colour, the less parts will be damaged.
+
+You must make sure when choosing parts that they are suitable. 
+For example, you will need a strong power unit to power and
+strong weapons or drive units that you may have.
+
+To change levels, find a lift square and press fire. A side view
+of the city is shown. Move up/down to the required level and
+left/right to exit the lift.
+
+To use a console, move up to it and press fire. Use left/right
+to select an icon and press fire. You will see four icons:
+
+  1. Robot         - Return to game
+  2. Diamond shape - 3D map of current level
+  3. Side view     - side elevation of citadel
+  4. Query robot   - droid data library
+
+Use left/right or up/down to move to the next screen.  Press fire
+to exit.  You can only view data on droids of a similar or lower
+security class to your current class. To improve your status you
+must grapple successfully with a higher class of droid. The first
+screen displayed shows your current status including data on
+Weapon, Drive, Power, Chassis and Devices.
+
+Your energy is shown by the rotation speed of the head of KLP-2.
+KLP-2's expression changes from happy to upset as he runs out of
+energy. Energy may be replace from energy points on some levels
+but your maximum energy allowed continuously falls as your power
+unit burns out under the burden of your Grapple Device. Replace
+power units for longer life. Extra equipment affects the rate at
+which your energy is consumed.
+
+The light on the right of the lower panel is the alert status
+monitor. Disabling droids in quick succesion causes the alert
+status to go to red and more points can be scored.  When the last
+droid on a level is destroyed the citadel lights automatically
+go out.
+
+
+CHEATS
+The alien droids are classified from A-1 (the highest and
+toughest) to X-9 (the lowest and weakest).  The higher classes
+tend to have the best parts.  The droids' identifiers are stamped
+on their breast plates.  A table of all the different droids was
+printed in an issue of Sinclair User, around 1986, so if anybody
+has an ASCII version of it, or would like to type it out, please
+contact me at stevo@jonlan.demon.co.uk.
+
+
+SEQUELS/PREQUELS
+Quazatron was followed up by a slightly similar game called
+Magnetron.  It was a flip-screen version, and had a different
+grapple game.
+
+
+INLAY CARD TEXT
+
+                  QUAZATRON
+
+    for the 48K ZX Spectrum, Spectrum Plus
+              and Spectrum 128K
+
+You control KLP-2 (Klepto) a wayward Meknotech
+droid assigned to deactivate hostile alien droids
+which inhabit the underground city of Quazatron on
+the planet Quartech. You must destroy the alien
+droids by laser fire, by pushing them off their pro-
+grammed routes to destruction, or by ramming
+them (provided you are stronger than they are).
+
+KLP-2 has a prototype Grapple device enabling the
+alien robots to be stopped and dismantled. The
+parts recovered from the aliens can be added to
+KLP-2 to extend his facilities and endurance.
+
+The alien computer system can be tapped to provide
+maps of the various levels and obtain data on the
+alien droids and their constituent parts.
+
+LOADING THE TAPE
+If you have a joystick then plug it into the edge con-
+nector at the rear of your Spectrum. Connect your
+cassette player to the Spectrum in the usual way.
+Place the cassette in the cassette player, rewind it if
+necessary and press the PLAY button. If you have a
+Spectrum 128K make sure it is in 48K mode. Type
+LOAD " " on the Spectrum keyboard and press the
+ENTER key. Wait a few minutes for the game to load
+and the keyboard/joystick selection menu to be
+displayed.
+
+HOW TO PLAY
+Quazatron is played diagonally except when in
+Grapple mode.
+------------------------------------------------
+  TO MOVE LEFT AND UP       TO MOVE RIGHT AND UP
+    A, S, D, F or G             H, J, K or L
+    or joystick left           or joystick up
+
+ TO MOVE LEFT AND DOWN     TO MOVE RIGHT AND DOWN
+     B, N, M or s/s           Z, X, C, V or c/s
+    or joystick down          or joystick right
+
+                      TO FIRE
+                     ENTER key
+                  or joystick fire
+
+                   AUTO FIRE ON
+           Press W key (repeat to turn off)
+
+            PAUSE (except in Grapple mode)
+          Press P key (press fire to restart)
+
+If you use a joystick it may help to rotate it 45
+degrees clockwise.
+
+                   WEAPON SYSTEMS
+These can be activated using the fire button or by
+pressing W to select auto-fire. Weapons fire in the
+direction KLP-2 is facing. Many different weapons
+can be taken from enemy droids and the data library
+contains hints on which weapons are most useful.
+The weapons can only be used while KLP-2 is
+moving.
+
+GRAPPLING WITH A DROID
+Decide on your target droid, centre the joystick (or
+take your hands off the keyborad) and press fire until
+the yellow message at the bottom left shows
+"GRAPPLE" and the "G" light flashes. Then you can
+--------------------------------------------------------ram the
+enemy droid to dismantle it. If you wish to
+turn off "GRAPPLE" mode and switch back to
+weapon mode press fire again.
+
+To successfully grapple with a droid you must
+engage its security circuit. You must use your
+Pulsers to turn at least 7 of the 12 rectangles on the
+central bar to your colour. You have a few seconds
+to move left or right to select the side of the circuit
+which you wish to use. Your target uses the opposite
+side to fight back.
+
+Move your Pulsers up and down the wires and acti-
+vate them with the fire button. Try to avoid Ter-
+minators, Joiners and Colour Switchers. Aim
+instead for Splitters and Auto Pulsers.
+
+If the Grapple action is successful the status report
+of the control elements Drive, Power, Weapon,
+Chassis and Devices of the target droid is displayed.
+If you wish to remove one or more of these elements
+for your own use make your selection using up/
+down and pressing fire. Some of the elements may
+be damaged and therefore unusable.
+
+If you win the Grapple action overwhelmingly, the
+elements of the alien robot are less likely to be dam-
+aged. In all circumstances you should select ele-
+ments wisely. A weak power unit for example will be
+drained uncomfortably quickly by heavy weaponry.
+Similarly a poor drive unit will not support substan-
+tial shields.
+
+Each alien droid is classified from 1 (the most
+sophisticated and difficult to beat) to 9 (the most
+menial). The higher classes of droids tend to have
+better elements for you to win in a Grapple action. A
+preceding letter distinguishes between different
+droids within the same class. The identifying letter
+-------------------------------------------------------
+and number are stamped on each droid's breast
+plate.
+
+CHANGING LEVELS
+Find a lift square and press fire. A side view of the
+city is shown. Move up/down to the required level
+and left or right to exit the lift.
+
+CONSOLE ACCESS
+Find a console and press fire. Use left/right to select
+an icon and press fire.
+
+Your robot symbol - return to game
+
+Diamond shape - 3D map of current level
+
+Side view - side elevation of citadel
+
+Query robot - droid data library
+
+DROID DATA LIBRARY
+Use left/right or up/down to move to next screen.
+Press fire to exit. You can only view data on droids of
+a similar or lower security class to your current
+class. To improve your status you must Grapple
+successfully with a higher class of droid.
+
+The first screen displayed shows your current status
+including data on Weapon, Drive, Power, Chassis
+and Devices.
+
+ENERGY
+Your energy is shown by the rotation speed of the
+head of the KLP-2. KLP-2's expression changes from
+happy to upset as he runs out of energy. Energy may
+be replaced from energy points on some levels but
+your maximum energy allowed continuously falls
+as your power unit burns out. Exchange power units
+for longer life. Extra equipment affects the rate at
+which your energy is consumed.
+-------------------------------------------------------
+ALERT STATUS
+The light on the right of the lower panel is the alert
+status. Disabling droids in quick succession causes
+the alert status to rise to red and more points can be
+scored.
+
+POWER DOWN
+When the last droid on a level is destroyed the
+citadel lights automatically go out.
+
+C Hewson Consultants Ltd 1986 and Graftgold Ltd
+1986
+Made in Great Britain
+
+The program and data are copyright and may not
+be reproduced either in part or in total by any
+means without the written permission of Hewson
+Consultants Ltd. All rights reserved worldwide.
+Unauthorised hiring or lending is strictly prohibited.
+No responsibility is accepted for any errors.
+
+Our policy is one of constant improvement, there-
+fore we reserve the right to modify any product with-
+out notice.
+
+Gameplay based on Paradroid for the C64 by
+Andrew Braybrook.
+
+Hewson Consultants Ltd
+Hewson House
+56B Milton Trading Estate
+Milton
+Abingdon
+Oxon OX14 4RX
+
+
+URL
+ftp.dcc.uchile.cl/pub/OS/sinclair/snapshots/q/quazatrn.zip
+
+SCORES RECEIVED
+Crash gave it 94% in June 1986.  It got 5/5 in Sinclair User, and
+a Sinclair User Classic.
+
+GENERAL FACTS
+Quazatron was based on a similar C64 game called Paradroid,
+written by Andrew Braybrook, also of Graftgold.
+
+NOTES
+Look out for the programmer's own "pet" droid, the A-B Andrewoid.

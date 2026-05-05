@@ -1,0 +1,200 @@
+THE WAY OF THE TIGER
+(Gremlin Graphics)
+
+
+SCENARIO
+The story begins on the magical world of Orb, alone in a sea that the
+people of the Manmarch call Endless, where there lies the mystical
+Island of Tranquil Dreams.
+Many years have passed since the time when, as an infant, you first
+saw its golden shores and emerald rice meadows. A servant brought you,
+braving the distant leagues of the ponderous ocean from lands to which
+you have never returned. Your loyal servant laid you, an orphan, at
+the steps of the Temple of the Rock, praying that the monks would care
+for you, for she was frail and dying of a hideous curse.
+Monks have lived on the island for centuries, dedicated to the worship
+of their God, Kwon, He who speaks the Holy Word of Power, Supreme
+Master of Unarmed Combat. They live only to help others resist the
+evil that infests the world. Seeing that you were alone and needed
+care, the monks took you in and you became an acolyte a the Temple of
+the Rock. Nothing was made of the strange birthmark, shaped like a
+crown, which you carry on your thigh, though you remember that old
+servant insisted that it was of mystical importance. Whenever you have
+asked about this the monks have bade you meditate and be patient.
+The most ancient and powerful of them all, Naijishi, Grand Master of
+the Dawn, became your foster father. He gave you guidance and training
+in the calm goodness of Kwon.
+
+GAMEPLAY
+Naijishi, the Grand Master, has trained you with sole aim of you
+becoming a Ninja. To prove that you are worthy of this, you must pass
+three tests against the master's chosen adversaries. You will be given
+levels of Endurance and Inner Force; for every complete circle of
+Endurance that you use, one point of Inner Force is deducted. Your
+opponents will also be given varying degrees of Endurance and Inner
+Force, and it is worth remembering that the less Inner Force both you
+and your opponent have, the less effect each blow has.
+Kwon has the power to increase your strength and he may do so after
+you have defeated an enemy. If your Inner Force is totally depleted,
+you have failed the test.
+
+
+HOW TO LOAD
+
+SPECTRUM: 48K/128K Insert the Master Program cassette.
+Cassette: Type LOAD"" and press ENTER. Press PLAY on the cassette
+recorder.
+
+COMMODORE 64
+Cassette: Connect cassette player as per user manual and rewind the
+cassette on Master Program side. Turn on the computer and press SHIFT
+and RUN/STOP keys together. Press PLAY on the cassette player and the
+program will load and run automatically.
+Disk: Connect disk drive as per user manual. Insert disk, label side
+up, and turn on the drive. Turn on the computer and type LOAD"*",8,1
+and press RETURN; the disk will load and run automatically.
+
+AMSTRAD CPC464/664/6128
+Cassette: Insert the Master Program cassette into the cassette deck.
+Press CONTROL (CTRL) and small ENTER keys simultaneously, press PLAY
+on the cassette deck and then any key. The program will load and run
+automatically.
+Disk: Insert the disk, label side up, into the disk drive. Type |CPM
+and press ENTER. The program will load and run automatically.
+
+MSX
+Cassette: Connect the cassette deck as shown in the User Guide. Insert
+the Master Program cassette - then type BLOAD"CAS:",R press RETURN &
+PLAY on the cassette deck. The program will load and run automatically.
+
+
+NOTE
+On all formats, after loading the master program, the screen will show
+a menu. At this point, if you wish to practice any of the three
+levels, you must select which one, remove the master cassette and then
+insert and load the required level; to do this simply press PLAY on
+the cassette player.
+
+If you should wish to play the whole game, load the master, select
+PLAY WHOLE GAME and then load UNARMED COMBAT. When this level is
+complete, you will then be asked to load POLE FIGHTING followed by
+SAMURAI SWORD FIGHTING.
+
+Please note that disc versions are completely menu driven.
+
+
+INSTRUCTIONS FOR PLAY
+Note How to Move - All Levels
+On all levels, if you are facing left, simply mirror the controls; eg.
+FIRE/SPACE and RIGHT turns you if you are facing left
+FIRE/SPACE and LEFT  turns you if you are facing right
+However, UP will always make you hop whether facing left or right.
+
+
+Part 1 - UNARMED COMBAT
+Wander the desert lands of Orb, defeating whoever or whatever your
+Grand Master has pitted against you. Here you are being tested in your
+skills of UNARMED COMBAT. Keep a careful watch, for your next opponent
+may spring from anywhere - it could be a rock or an obelisk - you're
+never sure. Once all your enemies have been defeated you will then be
+transported to the testing ground for POLE FIGHTING.
+
+Part 1 - HOW TO MOVE
+(Control when facing right)
+
+                    STANDING
+                      LEAP
+      NECK CHOP  Q      W      E  UPPER CUT
+                   \    |    /
+                     \ NO  /
+    RETREAT  A  <-----  +  ----->  D  WALK FORWARD
+                     /FIRE \
+                   /    |    \
+                 Z      X      C  LOW PUNCH
+                    DUCK DOWN
+
+                     FLYING
+                      KICK
+ BACK HIGH KICK  Q      W      E  HIGH KICK
+                   \    |    /
+                     \FIRE//
+TURN AROUND  A  <-----  +  ----->  D  MIDDLE KICK
+                     /SPACE\
+                   /    |    \
+                 Z      X      C  LOW KICK
+                    JUMP BACK
+
+
+Part 2 - POLE FIGHTING
+Guard a slippery pole over a mysterious lake against your Grand
+Master's minions. Caution is required here, as the pole is indeed very
+slippery, and after your ordeal in the desert you are not as sure-
+footed as your opponents. Again, having defeated all-comers, you are
+transported to the Grand Temple of the Martial Arts.
+
+Part 2 - HOW TO MOVE
+(Control when facing right)
+
+                     HOP UP
+  OVERHEAD BASH  Q      W      E  OVERHEAD BLOCK
+                   \    |    /
+                     \ NO  /
+    RETREAT  A  <-----  +  ----->  D  ADVANCE
+                     /FIRE \
+                   /    |    \
+                 Z      X      C  LOW BLOW
+                    DUCK DOWN
+
+                       HOP
+                     FORWARD
+       HIGH JAB  Q      W      E  HIGH BLOW
+                   \    |    /
+                     \FIRE//
+TURN AROUND  A  <-----  +  ----->  D  MIDDLE JAB
+                     /SPACE\
+                   /    |    \
+                 Z      X      C  LOW BLOW
+                    HOP BACK
+
+Note: Jabs allow repeated attacks; ie. you can move quickly from one
+jab to another - this is not possible with the blows.
+
+
+Part 3 - SAMURAI SWORD FIGHTING
+Battle in the Grand Temple against the greatest warriors you've yet
+encountered; finally, being tested by the Grand Master himself. If you
+are able to defeat this great swordsman, you will have truly earned
+the right to be NINJA, Speaker of Wisdom, Protector of the Weak, One
+Most Powerful.
+
+Part 3 - HOW TO MOVE
+(Control when facing right)
+
+                     HOP UP
+   SWORD RITUAL  Q      W      E  HIGH BLOCK
+                   \    |    /
+                     \ NO  /
+    RETREAT  A  <-----  +  ----->  D  ADVANCE
+                     /FIRE \
+                   /    |    \
+      LOW SWEEP  Z      X      C  LUNGE
+                    DUCK DOWN
+
+                       HOP
+                     FORWARD
+  HEAD SPLITTER  Q      W      E  SLASH TO HEAD
+                   \    |    /
+                     \FIRE//
+TURN AROUND  A  <-----  +  ----->  D  SLASH TO MIDDLE
+                     /SPACE\
+                   /    |    \
+      LOW SWEEP  Z      X      C  SLASH TO LEGS
+                    HOP BACK
+
+BEWARE! On this level your opponents may have EXTRA abilities which
+you are not capable of performing. Any attempts to copy such feats may
+prove dangerous or maybe even fatal!
+
+If you wish to return to the menu screen at any time, use these keys:
+MSX       Stop key                SPECTRUM  Cap Shift & Space keys
+AMSTRAD   Control & Escape keys   CBM64/128 Restore key

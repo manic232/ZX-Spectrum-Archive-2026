@@ -1,0 +1,81 @@
+AUTOMANIA
+(c)1984 Mikro-Gen 
+-----------------
+
+Inlay Card Text:
+------------------
+Welcome to the world of Wally Week.
+
+O.K. Wally try and get it right this time!  All you have to do is 
+get these car parts  from  the  store,  take them to the assembly 
+area and put 'em together. Simple, INNIT?  
+
+If you had bought decent shelving units things wouldn't keep
+falling off, would they Wally, and if the gangplanks seem to have 
+a mind of their own it's ‘cause you're a Wally, Wally.  If you 
+put things back in their right places you wouldn't have to jump 
+over them to get what you want. With your flat hat, beer belly  
+and oversize boots you really are a Wally, Wally.
+
+You as Wally Week have ten cars to build, each consisting of 6 
+parts. You will begin in the store area with tyres bouncing 
+around to hit you. You must go to the stock room, identify the  
+parts required, and go up the ladders to each level to collect 
+them (moving over the part will collect it). The gangplanks are 
+none too safe and you must jump the gaps to reach the relevant 
+parts. There are various items strewn on the floors which again  
+have to be jumped over. These appear in different places on the 
+screen, so the game is a constant challenge.
+
+You will then return to the assembly area to place the parts in 
+their correct positions on the car,  but to deposit the upper  
+parts of the car (e.g. windscreen, roof etc) you will have to 
+jump when in the correct position.
+
+Upon loading you are faced with a menu screen on which you will 
+see:
+
+Key 1		Music On
+Key 2		Music Off
+Key 3		Sinclair Joystick
+Key 4		Kempston Joystick
+Key 5		Demonstration Mode
+Key 6		Define your own Keys
+
+The program automatically sets
+
+Q-UP        O-LEFT      M-JUMP
+A-DOWN      P-RIGHT
+
+and these will stay unless any other is chosen.
+
+The demonstration mode will show you what you will encounter 
+in the game, and will continue until you press any key to return 
+to the menu screen.
+
+You will start with 3 lives and gain an extra life for each car 
+you complete. However, you can also have a time limit on each 
+car part and will lose a life if you exceed this limit.
+
+Right Wally, away you go!!
+
+---------------------
+Watch out for Wally Week's other wacky adventures.
+
+COMPETITION RULES
+
+Each month Mikro-gen agrees to award £100 in prize money which 
+will be paid to the person achieving the highest score to that 
+date.
+
+Should one month's highest score not be surpassed, the prize 
+money for succeeding months will be awarded to the previous 
+verified highest score until it is beaten.
+
+Entries will be only accepted when accompanied by the code that 
+appears on the screen.
+
+==========================================================
+Taken from Project 64 http://project64.c64.org
+Readapted for the Spectrum in 2001 AD by Alessandro Grussu
+http://www.ag-online.da.ru

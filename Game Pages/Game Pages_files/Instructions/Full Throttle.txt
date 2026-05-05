@@ -1,0 +1,91 @@
+Full Throttle
+from Micromega
+
+Full Throttle by M J Estcourt
+"""""""""""""""""""""""""""""
+Full Throttle places you on the Saddle of a 500cc Grand Prix
+motorcycle. You can choose to race on any of ten of the world's top
+racing circuits. As a newcomer, you are startet at the back of the
+grid in a field of 40 bikes. You have the best bike in the race, but
+that alone will not help you!
+
+Cornering too quickly will cause a skid. Running off the road will
+slow you down badly, and if you make contact with another rider your
+machine will be forced to a halt - that's getting off lightly - and
+following riders will start to stream by as you get going again. The
+other riders can weave side-to-side as unpredictably as you, so watch
+out!
+
+You lean your machine over more as long as you keep the control
+pressed. Releasing it will slowly bring your machine back on
+straights. Pressing the opposite control will return you more quickly.
+
+Each circuit is faithfully reproduced, and part of the key to winning
+is to know the circuit well enough to predict the bends - the other
+riders can, after all. You can practice alone on any circuit for as
+long as you wish.
+
+The race itself can last up to 5 laps. The more laps you race the more
+time you have to catch the leaders, so increase the challene by
+reducing the number of laps you are allowed as you get to know a track
+better. Then try a new track ... watching it on TV will never be the
+same again!
+
+The best position achieved is shown at the bottom of the menu-screen.
+Coming first is not the end of it, since you are then given your time
+ahead of the second-place man so that you can try to better your
+performance. As soon as you change tracks or number of laps the record
+is reset.
+
+To start with we suggest that you try Silverstone as it is
+comparatively easy to learn (slow down for right-handers, take
+left-handers at full speed), give yourself some practice and try a
+short race. Then you are on your own ... good luck!
+
+Operation Of Facilities
+"""""""""""""""""""""""
+TRACK SELECTION is made by pressing 1, using SPACE to choose the
+circuit and pressing ENTER to return to the menu. Simply looking at
+the tracks does not reset the highest-position record.
+
+NUMBER OF LAPS is changed by repeatedly pressing 2.
+
+PRACTICE is started by pressing 3. Return to menu by pressing R.
+
+START RACING by pressing 4. You may abort at any time by using R.
+
+SELECT CONTROL (Keyboard/Protek/Interface 2/Kempston) by using 5. 
+Keyboard controls are
+  Left       - 1
+  Right      - 0
+  Accelerate - 9
+  Brakes     - bottom row
+Brakes will always override the accelerator.
+
+Some information about the tracks modelled in FULL THROTTLE and lap
+records existing at the time of printing is given below.
+
+
+Donnington, UK                                    2.5  miles - 4.03 km
+  No record yet for altered circuit
+Mugello, San Marino                               3.26 miles - 5.25 km
+  Takazumi Katayama (Honda)           2:03.69 -  94.86 mph    (1982)
+Jarama, Spain                                     2.06 miles - 3.31 km
+  Kenny Roberts (Yamaha)              1:29.57 -  82.72 mph    (1983)
+Paul Ricard, France                               3.61 miles - 5.81 km
+  Freddie Spencer (Honda)             2:01.97 - 106.49 mph    (1984)
+Nurburgring, West Germany                         2.81 miles - 4.52 km
+  Freddie Spencer (Honda)             1:43.43 -  98.23 mph    (1984)
+Misano, Italy                                     2.17 miles - 3.49 km
+  Freddie Spencer (Honda)             1:21.34 -  95.92 mph    (1984)
+Silverstone, UK                                   2.92 miles - 4.71 km
+  Kenny Roberts (Yamaha)              1:28.2  - 119.47 mph    (1983)
+Spa Francorchamps, Belgium                        4.33 miles - 6.98 km
+  Kenny Roberts (Yamaha)              2:32.42 - 101.82 mph    (1983)
+Rijeka, Yugoslavia                                2.59 miles - 4.17 km
+  Freddie Spencer (Honda)             1:32.30 - 100.98 mph    (1984)
+Anderstorp, Sweden                                2.50 miles - 4.03 km
+  Kenny Roberts (Yamaha)              1:37.11 -  92.77 mph    (1983)
+
+          Circuit information supplied by Motorcycle News.
+                 Loading screen by Image Systems

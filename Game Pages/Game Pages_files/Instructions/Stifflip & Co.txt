@@ -1,0 +1,235 @@
+*********
+
+The Project 64 etext of the Stifflip & Co. manual. Converted to etext
+by Andrew Williams, <awilliams@daikin.com.au>.
+
+STIFFL10.TXT, November 1996, etext #135.
+
+Readapted for the Spectrum in 2000 AD by
+Alessandro "Gazzosa" Grussu
+http://members.nbci.com/gazzosa
+
+*********
+
+STIFFLIP & CO.
+A Binary Vision Game
+
+Back cover blurb:
+
+Disaster looms for the bowler and brolly brigade.  The contemptible
+COUNT CHAMELEON, Master of Disguise and sworn enemy of the
+establishment, is determined to suceed in his latest and greatest
+dastardly plot.  His sale of rubber goods through mail-order ads in a
+civil service magazine, has led him to develop the RUBBERTRONIC RAY.
+With it he threatens to neutralise the starch in wind-collars, loosen
+stiff upper lips and generally relax moral standards - leading to the
+collapse of The Empire.  Worse still, it will radically and
+unpredictably alter the bounce of a cricket ball.  This bounder must
+be stopped!
+
+GRAM TELEGRAM TELEGRAM TELEGRAM TELEGRAM T
+To: VISCOUNT STIFFLIP
+                                       MOST URGENT
+IMPERATIVE YOU FIND COUNT CHAMELEON STOP ENTIRE BANARNIAN
+RUBBER CROP MISSING - OUR ONLY CLUE STOP START NOW STOP THE
+EMPIRE IS IN YOUR HANDS STOP CHOCKS AWAY! AND GOOD HUNTING
+STOP REMEMBER: PLAY UP, PLAY UP, AND PLAY THE GAME STOP END
+
+Game designed and programmed by
+Paul Norris and Rupert Bowater of
+Binary Vision.
+Sound by Richard Joseph.
+Additional graphics by Mark Eason and
+Anna Williams.
+
+
+Inside cover:
+
+The time:  World War I is over.  As yet, no date fixed for a rematch.
+
+The place:  Darkest Surrey, England.
+
+The setting:  Britain rules a mighty empire over which the sun - like
+bad jelly - never sets.  How could such a small island, permanently
+shrouded in fog, become a great power, and George V the world's
+largest private landlord?  The answer lies in cricket.
+
+For countless years British schools have conducted a gruelling regime:
+cold baths, corporal punishment and over-cooked cabbage.  It is a
+regime the British do not escape, even in adulthood, except through
+cricket; a game which can lead to as much as 5 days absense from home
+or school.  Even if played at home, it acts as a powerful anaesthetic.
+
+Whenever possible the British leave their soggy island for good, hence
+their pre-eminence as a seafaring nation.  far from home they yearn
+for the sound of willow against leather.  But their contempt for
+foreign languages (on the grounds they are 'foreign') and the
+difficulty of translating terms like 'silly mid off' has forced them
+to colonise other countries as the only way of persuading them to take
+up the game.
+
+Now disaster looms for the bowler and brolly brigade.  The
+contemptible COUNT CHAMELEON, Master of Disguise* and sworn enemy of
+the establishment, is determined to suceed in his latest and greatest
+dastardly plot.  His sale of rubber goods through mail-order ads in a
+civil service magazine, has led him to develop the RUBBERTRONIC RAY.
+With it he threatens to neutralise the starch in wind-collars, loosen
+stiff upper lips and generally relax moral standards - leading to the
+collapse of The Empire.  Worse still, it will radically and
+unpredictably alter the bounce of a cricket ball.
+
+This bounder must be stopped!
+
+*[this footnote appears in italics] The contemptible COUNT CHAMELEON,
+Master of Disguise (and his trusty parrot, peccadillo)
+
+Started young by attempting to blow up his school and was severely
+reprimanded for smouldering behind the bicycle sheds.  Later expelled
+for over-bidding at bridge, since which time he has borne a grudge
+against the establishment.  Founder of the GUide-dogs for the Deaf
+Association, and last seen by the Captain of the Titanic disguised as
+an iceberg.  A bad egg turned rotten - a man who can curdle a yoghurt
+at twenty paces.  He'd steal candy from a baby, he'd sell his own
+grandmother, he'd even say boo to a goose.  His villainy knows no
+bounds...
+
+INSTRUCTIONS
+
+[Speech bubble icon with "!"]
+CHINWAG talk to/trade with other characters
+
+[Lightbulb icon]
+DO ONE"S STUFF act
+
+["BiF!" icon]
+FISTICUFFS fight
+you will meet up with Chameleon's henchmen throughout your adventure
+and they will always pick a fight.
+
+[Left-facing arrow icon] BEETLE OFF move
+
+[Thought bubble icon with ?]
+STATE OF PLAY? take stock
+
+["while..." icon]
+CHANGE BATTER swap between characters
+
+Your opponents are slow but sturdy and will regularly work up to
+deliverying a bone-jarring punch.  Your options are: to do a bunk; hit
+below the belt (effective but underhand!) or go for a straight punch.
+Keep the moving crosshair in the centre to draw the target into the
+middle.  Press fire to throw your punch.  The closer you get to the
+centre ring, the more effective your punch will be.  Also, the faster
+your arm swings round, the more powerful your punch.
+
+[Screenshot of "Fisticuffs" layout:
+
+   1                    3
+
+                        4
+
+   2                5      6
+
+                        7                  8
+
+1/ Opponents strength | Your strength
+(Two back-to-back "Test Your Strength" machines)
+
+2/ Aim Your Punch at Opponent
+(Target)
+
+3/  Power of Your Punch
+(Circle with a boxing glove on a revolving "arm")
+
+4/  Chicken Out
+(White feather)
+
+5/  Left Hook
+(Fist on left)
+
+6/  Right Upper Cut
+(Fist on right)
+
+7/  Hit Below the Belt
+(Fist punching downwards)
+
+8/  Opponents punch | You
+(Boxing glove on spring aimed at your head above)]
+
+
+[Poster]
+
+STIFFLIP & Co.
+
+An Action Back-Packed Adventure!
+
+MISS PALMYRA PRIMBOTTOM
+youngest ever troop leader in the Girl Guides and first winner of the
+badge for deportment.  Has travelled the world collecting rare skin
+disorders and is the authoress of "The Yound Ladies Companion to
+Tropical Exploration".  member of the Women's Temperance League for
+Clothing the Savages.
+
+Family motto:  "Godliness is next to cleanliness", and in the tropics
+"Cleanliness is next to impossible".  A champion embroiderer with a
+part-time position as a missionary it is often said that Palmyra
+Primbottom put the 'p' back into 'pith helmet'.
+
+
+PROFESSOR BRAINDEATH
+was declared clinically dead over a decade before the start of our
+adventure.  Fortunately he has kept going thanks to his
+"Sonneundwindhalter" - a solar powered bowtie which can act as a
+windmill during periods of extended darkness.  Keen to visit the
+tropics on account of "all that sun".  Worked for many years on a
+device to put the middle back into doughnuts, and went on to apply the
+same technology to toilet seats until the bottom fell out of the
+market - has since become one of our back-room boys.  Founder of the
+ACME Corporation, Prof Braindeath is living(?) proof that not all mad
+professors are bad mad professors.
+
+
+VISCOUNT SEBASTIAN STIFFLIP
+Englishman, eccentric and explorer - a comic hero in every sense.
+Though Captain of Cricket at school.  Sebastian grew up in the shadow
+of his cousin Sylvester Stuffshirt, who trod on a mine in WW!,
+ensuring 3 corners of a foreign field that are forever England.
+Always proud of his modesty, a flying ace in the Great War, feared by
+his friends and loved by his foes and known by all as "The Yellow
+Viscount".  After four years of tea at 5 o'clock, bandits at 6 o'clock
+and bed at 7:30, our have-a-go hero was promoted to inactive duty on
+the Stifflip estate in darkest Surrey.
+
+Favourite Colours: red, white and blue (equally).
+Hobbies: Defender of the Truth, the Faith and the Empire.
+
+
+COLONEL R. G. BARGIE
+(G.N.T. and bar) of unkown wartime experience.  Tall and dashing;
+blue-blooded, yellow bellied, red-eyed and green-fingered and known to
+his friends as 'RGB' on account of his colourful personality.  Joined
+our adventure to avoid bad tempered creditors at home and not a bit
+persuaded by talk of South American riches.
+
+Pet hates: hates pets (especially creepy-crawlies).  Breeds clay
+pigeons.
+
+Favourite colour:  Gold.  Distinguished by an eye-patch but for little
+else.
+
+
+A Binary Vision Game
+
+
+Out For The Count             The Final Countdown
+(c) 1987 Palace Software London.  Unauthorised copying, lending,
+hiring, broadcasting, transmission or public performance of this work
+- program and/or its packaging is prohibited without the express
+written permission of Palace Software, 275 Pentonville Road, London N1
+9NL.
+
+*********
+
+End of the Project 64 etext of the Stifflip & Co. manual.
+
+*********

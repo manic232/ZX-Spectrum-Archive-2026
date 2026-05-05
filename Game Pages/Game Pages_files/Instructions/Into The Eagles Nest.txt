@@ -1,0 +1,63 @@
+THE SPECTRUM GAMES DATABASE
+
+INTO THE EAGLES NEST
+
+PUBLISHER
+Pandora
+
+AUTHOR
+Kevin Parker & Robin Chapman
+
+YEAR
+1986.
+
+DESCRIPTION
+A game of the Gauntlet genre. Set in a German Castle, you are an
+English soldier, set to rescue 3 prisoners held there.
+
+<From back Sleeve>
+You were briefed at eleven.  They told you you're the best.  You
+handle the worst jobs, the delicate jobs - the messy jobs no-one
+else will risk taking.  That's why you're here.  Your mission -
+to infiltrate and destroy the stronghold of a top enemy commander
+which serves as temporary barracks and armoury for the divisions
+under him - to rescue three fellow saboteurs held prisoner in the
+bowels of the fortress - to steal back as many antiquities as
+possible from the commander's private collection. So you're the
+best.  Prove it.
+
+CONTROLS:
+Kempston, Sinclair or Cursor Joysticks
+Keyboard:          - Fully Redefinable
+
+INSTRUCTIONS
+Brief:
+Six key German divisions are in your area - the main force is
+believed to be quartered in the fortress codenamed "Eagle's
+Nest". Three saboteurs sent to destroy the Eagle's Nest have been
+captured. The third managed to set up a network of explosives at
+key points throughout the fortress, but was captured before they
+could be detonated. It is up to you to rescue them and destroy
+the Eagle's Nest...
+
+Objectives:
+Infiltrate the fortress and rescue the three captives before they
+break under torture.  It is your aim to cause maximum havoc and
+confusion before finding and detonating the hidden explosive on
+all eight floors.  Whilst doing so it is in your interests to
+recover as many art treasures and jewels as possible from the
+commander's private collection.
+
+CHEATS:
+Enter the following names onto the scoreboard for good stuff:
+DAS MAP - Map Mode
+DAS CHT - Cheat Mode / Infy Lives
+DAS NME - No Enemies
+MAP OFF - Turn off Map Mode
+
+URL
+ftp://ftp.dcc.uchile.cl/pub/OS/sinclair/snapshots/e/eagle.zip
+
+NOTES
+An enjoyable blast with surprisingly good graphics for a
+Spectrum.  There are enhanced effects in 128k mode (Music, etc.)

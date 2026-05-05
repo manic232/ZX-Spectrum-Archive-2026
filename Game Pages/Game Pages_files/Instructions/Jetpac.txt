@@ -1,0 +1,72 @@
+ORIGINAL INLAY CARD INSTRUCTIONS
+
+
+JET PAC
+
+The 'Acme Interstellar Transport Company' is delivering spaceship
+kits to various planets in the solar system throughout the Galaxy;
+and as chief test pilot, all you have to do is assemble the Rockets,
+and thrust on to your next destination.
+
+As you don't often get the chance of a free trip across the Galaxy,
+this is a great opportunity to get rich! Stop off on several planets
+on your journey, collect the odd sack of precious gems, elements or
+gold, and take them back with you.
+
+Sounds simple doesn't it!
+
+But before you make yourself the richest person in the whole Universe,
+remember to refuel your Spaceship - with 6 fuel pods - every time you
+land on a planet. Any other goodies you collect are yours to keep.
+Upon landing, you will find yourself equipped with the very latest
+Hydrovac Jet Pac, which can automatically air lift almost any rocket
+stage, fuel pod or valuables that you care to land upon, and release
+them over the rocket ship base. Don't forget your mega-
+powerful, Quad Photon Laser Phasers can blast any nasty, mean aliens
+who might object to your visit.
+
+JET PAC LOADING INSTRUCTIONS
+
+1. Connect the EAR socket on your Spectrum to the EAR socket on your
+recorder and ensure the MIC lead is disconnected.
+
+2. Place the cassette tape in the recorder with the labelled side
+uppermost and rewind to the beginning.
+
+3. Type either LOAD "JETPAC" or LOAD "" and then press the ENTER key.
+NOTE: Do not leave a space between the quotation marks. LOAD is
+obtained by pressing the SYMBOL SHIFT and the P keys together.
+
+4. Press PLAY on the cassette recorder.
+
+5. JET PAC will now load automatically and a message will appear on 
+the screen after several seconds. If loading is unsuccessful, rewind
+the cassette, adjust the VOLUME control on the recorder and try again.
+NOTE: Full loading instructions can be found in your Spectrum manual.
+
+6. PLAY THE GAME
+For better sound effects you can increase the volume by connecting the
+MIC socket on your Spectrum to the MIC socket on your recorder.
+Disconnect the EAR lead, remove the cassette tape from the recorder and
+press PLAY button, the sound may be amplified through the loudspeaker
+of the recorder.
+
+Controlling your Jet Man
+
+Your Jet Man is fully controllable using the keyboard.
+
+Keyboard Controls
+FLY OR WALK LEFT:
+Z X B M keys
+FLY OR WALK RIGHT:
+X V N SYMBOL SHIFT keys
+FIRE: any key on the second row
+(A S D F etc.)
+Rapid laser fire may be obtained by continuous hold of the fire key.
+THRUST: any key on the numbers row can be used to hover Jet Man whilst
+in flight without the need for thrust (1 2 3 4 etc.)
+SCORE LINE
+The Score Line displays:
+One player and two player scores.
+One player and two player lives left.
+Highest score obtained.

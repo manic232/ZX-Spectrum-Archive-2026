@@ -1,0 +1,71 @@
+DEATH STAR INTERCEPTOR WITH 'OFFICIALLY LICENSED' STAR WARS THEME - SYSTEM 3
+
+LOADING INSTRUCTIONS
+
+Connect the ear socket on your Spectrum to the ear socket on your recorder.
+Place the cassette tape in the recorder, and rewind to the beginning. Type -
+LOAD "" Press-ENTER
+
+Press PLAY on the cassette recorder. Death Star Interceptor will now load
+automatically. If loading is unsuccessful, adjust the volume control on the
+tape recorder and try again.
+
+CONTROLLING YOUR SF1 
+
+Bank Left = Move joystick left (Key 0)
+
+Bank Right = Move joystick right (Key P) 
+
+Climb = Pull joystick back (Keys A,S,D,F,G,H) 
+
+Dive = Push joystick forward (Keys Q,W,E,R,T,Y)
+
+Fire = Press 'fire' button 
+
+PLAYING
+
+Launch Site: To launch your SF1 into deep space. Pull joystick 'back' - your
+spectrum computer will scream - 'Prepare to launch', your jet engines will
+fire, and you will 'take-off' automatically Aim for the dot in the middle of
+the square of the'stargate'. A successful launch, will put you in deep space
+scoring you 500 points.
+
+Deep Space: You are now in space, flying towards the 'Death Star'. Empire craft
+will now attempt to destroy you. So rather than shoot everything in sight - fly
+to survive, and shoot what gets in your way. REMEMBER - PULL JOYSTICK 'BACK' TO
+CLIMB AND 'FORWARD' TO DIVE.
+
+The 'Trench: Now in the 'Death Star', your mission is to put a direct 'hit'
+into the 'Exhaust Port' to send the Death Star nova. Various hazards will try
+to stop you, and only good strategy will let you survive long enough to put a
+lazer shot into the 'Exhaust Port'. Being in the right place and shooting the
+right hazards is the only way to win.
+
+Lazer Barriers: These restrict you flying down the 'trench', sometimes you are
+able to fly under them, but most of the time your fighter will be locked into a
+left and right mode only. A direct hit on the base will destroy them - Worth
+100 points.
+
+Gun Turrets: Shoot them before they shoot you-! Worth 100 points.
+ 
+Empire Ships: They vary from Imperial fighters to cruisers Worth 200-300
+points.
+
+Fuel Dumps: They are harmless, but don't crash in to them. If destroyed worth
+100 points.
+
+Lazer Tanks: These can be tricky so shoot on initiative. Worth 200 points.
+
+Air Vents: Found on the side of the trench. They are harmless but worth 100
+bonus points for a direct 'hit'.
+
+Exhaust Port: A direct hit will send the Death Star nova. Worth 1,000 bonus
+points and an extra life. If you miss the exhaust port, you will have to go
+back and start again.
+
+Things To Know Shields: Your ship is protected by 5 shields, lose all 5 and the
+next hit will be fatal - losing you a life. You start with 4 lives! Good Luck!
+
+PLEASE NOTE This program uses every possible memory location, so do not connect
+microdrive or interface when wanting to play the program, otherwise the program
+will not run.

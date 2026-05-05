@@ -1,0 +1,90 @@
+
+        PSSST
+        -----
+
+Robbie the robot sits in his garden, fetching the old bag of compost to help
+his prize Thyrgodian Megga Chrisanthodil grow. Then suddenly the whole garden
+is invaded by the most devilish, destructive insects you could imagine.
+But Robbie is prepared!
+
+Equipped with three spray cans of the latest insect repellent, smoke and
+streamers, Robbie fights to keep the deadly garden pests at bay.
+
+All he has to do is figure out which spray kills each insect outright, as the
+wrong spray will only stun them momentarily. If Robbie leaves his plant
+unattended the insects will swarm all over it, eat the leaves and the plant
+will wilt and die.
+
+
+        Growing Instructions
+        --------------------
+
+Plant the seeds in good soil. Growth can be speeded up by collecting all
+compost bags, keeping young shoots free from all garden pests and by looking
+after the leaves, which collect sunlight. Remember, the more leaves the plant
+has, the faster it will grow. As the young shoots give off an exotic aroma, the
+plant is especially attractive to hoards of Interstellar Space Slugs, Scuttling
+Leeches and Menacing Midges. Use of correct repellants will prevent all of
+these attacks.
+
+Please note: only approximately 20% of all plants will blossom and reveal
+Robbie's ultimate dream. Growing time approximately 2 to 5 minutes.
+
+
+        PSSST Loading Instructions
+        --------------------------
+
+1. Connect the EAR socket on your Spectrum to the EAR socket on your recorder
+   and ensure the MIC lead is disconnected.
+2. Place the cassette tape in the recorder with the labelled side uppermost and
+   rewind to the beginning.
+3. Type either LOAD "PSSST" or LOAD "" and then press the ENTER key.
+   Note: Do not leave a space between the quotation marks.
+   LOAD is obtained by pressing the J key.
+   The " are obtained by pressing the SYMBOL SHIFT and P keys together.
+4. Press PLAY on the cassette recorder.
+5. PSSST will now load automatically and a message will appear on the screen
+   after several seconds. If loading is unsuccessful, rewind the cassette,
+   adjust the VOLUME control on the recorder and try again.
+   NOTE: Full loading instructions can be found in your Spectrum manual.
+6. PLAY THE GAME.
+   For better sound effects you can increase the volume by connecting the MIC
+   socket on your recorder to the MIC socket on your Spectrum. Disconnect the
+   EAR lead, remove the cassette tape from the recorder and press the PLAY
+   button, the sound may be amplified through the loudspeaker of the recorder.
+
+
+        Controlling your Robot
+        ----------------------
+
+Your Robot is fully controllable using the keyboard.
+Keyboard controls:
+
+LEFT: Q key
+RIGHT: W key
+UP: E key
+DOWN: R key
+FIRE SPRAY CANS: T key
+PAUSE the game by using the CAPS SHIFT key.
+
+
+        Score Line
+        ----------
+
+The score line displays: One player and two player scores.
+                         One player and two player lives left.
+                         Highest score obtained.
+
+
+Sinclair, ZX Spectrum are Registered Trade Marks of Sinclair Research Ltd.
+(c) Copyright 1982 Ashby Computers & Graphics Ltd.
+All rights reserved.
+No part of this program, packaging or documentation may be reproduced in any
+form. Unauthorised copying, hiring, lending or sale and repurchase prohibited.
+
+Published by:   Sinclair Research Ltd,
+                25 Willis Road,
+                Cambridge, CB1 2AQ.
+
+
+Made in UK.

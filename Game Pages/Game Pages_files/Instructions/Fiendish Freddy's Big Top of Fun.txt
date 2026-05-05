@@ -1,0 +1,461 @@
+                               FIENDISH FREDDY'S
+
+                           * BIG TOP O' FUN MANUAL *
+
+
+                                                           Amstrad CPC 464/6128
+                                                               Commodore 64/128
+                                                         Spectrum 128K (+2, +3)
+
+
+WHAT YOU NEED
+
+
+Amstrad CPC 464/6128
+
+* A monitor - either Colour or Monochrome.
+* A joystick (or play the game with the keyboard using the cursor keys and
+  space bar as fire).
+
+
+Commodore 64/128
+
+* A Commodore 64 computer or a 128 in 64 mode.
+* A disk drive or a cassette player.
+* A joystick connected to port two.
+* A suitable television or monitor.
+
+
+Spectrum 128K (+2 or +3)
+
+* A Spectrum +2 or +3 computer.
+* A suitable television or monitor.
+* A joystick.
+
+                                       1
+
+LUMINOUS
+LOADING INSTRUCTIONS
+
+
+Amstrad CPC 464/6128
+
+Disk Version
+1. Insert the disk with side one facing upwards.
+2. Type | CPM and press return.
+
+Cassette Version
+1. Insert the Introduction Side of the cassette and rewind it fully.
+2. Type "RUN" and press return
+3. If you want to skip the introduction, then insert the Game Side of the
+   cassette and type "RUN" and then press return.
+
+Commodore 64/128
+
+Disk Version
+1. Insert the disk label side up
+2. Type Load "*",8,1 and press return.
+
+Cassette Version
+1. Insert the cassette label side up.
+2. Hold down shift and press Run/Stop together.
+3. If you want to skip the introduction, then insert and rewind side two of the
+   cassette, hold down shift and press Run/Stop together.
+
+                                       2
+
+Spectrum 128K (+2, +3)
+
+Disk and Cassette version.
+1. Select "Loader" from the menu when you turn on the machine. This will
+   load and run the game automatically.
+
+Note: The practice option is not available to cassette users.
+
+                                       3
+
+THE GLORIOUS GAME
+
+
+Blasted Big Bank! Your small, struggling circus is about to be seized by a
+sinister scumbag, to whom you owe the sum of 10,000 smackeroos. Your Big
+Top will be blacktop if you don't bag the bucks needed to banish the
+barbarous banker from your beloved business. To make matters more
+miserable, he's sent Fiendish Freddy to foil your fragile finances and prevent
+your people from performing at their peak. Your objective is to obliterate this
+financial obligation by perfectly performing the precarious perils of the Big
+Top. Thus you will thrill the throng of spectators while also earning the
+megabucks needed to expand your arena.
+
+
+THE MAGNIFICENT MENU
+
+
+After the opening sequence, the carnival hawker and the Main Menu will
+come on the screen. This menu allows you to choose Game or Practice Mode.
+Practice Mode lets you practice any particular event as many times as you
+like. Game Mode takes you through all six events (in order) and will give a
+score to each player.
+
+Practice Mode
+
+To select practice Mode, use the joystick to move the pointer to the bottom of
+the menu where it says PRACTICE and press the fire button. The menu
+changes to a list of the six events. Now move the pointer until it is over the
+event you want to practice and press the fire button. If necessary, you'll be
+instructed to insert a different disk.
+
+                                       5
+
+Once the event has loaded, the following message appears on the screen:
+                               PRESS "Q" TO QUIT
+                                      OR,
+                             PRESS FIRE TO CONTINUE
+
+Whenever the fire button is pressed you'll go to the beginning of the event.
+Each event has either three or four levels. You'll begin your practice at the first
+level and advance to the subsequent levels only as you successfully
+complete each level. Whenever you "fail" at an event, or make it through all
+of the event's levels, the "Quit or Continue" message reappears. When you
+are finished practicing, press Q and you will be returned to the hawker and
+the Main Menu.
+
+Game Mode
+
+To select Game Mode, use the joystick to move the pointer to the number of
+players that will be playing the game. There may be anywhere from one to five
+players. Keep in mind that the $10,000 must be earned by a single player, not
+accumulated from what several players earn. Thus, in a multiplayer game,
+you're trying to raise the money, but you're also trying to earn more than the
+other players. Once the pointer is over the desired number of players, press
+the fire button.
+
+Next, each player will select an animal character to represent the player in
+the game. Each of the five characters is displayed one at a time. To scroll
+through the different characters, move the pointer over the words "Next
+Beast" and press the fire button. When the beast that you want appears,
+move the pointer to the words "Take this beast" and press the fire button
+again. When each player has selected his/her character, the ringmaster
+appears and the game begins.
+
+As each event begins, the character whose turn it is appears on the screen
+along with the level he/she is performing and the message "Now Appearing".
+The player then presses the fire button to begin the event.
+
+After all of the players have completed an event, the distinguished panel of
+judges will come on the screen and "score" each player by awarding him/her
+a certain amount of money. After the amount of the event is given, the player
+will see what his/her total is at that point. Once each player has been scored,
+the Ticket Tally appears and shows the totals for all of the players.
+
+                                       6
+
+THE EXPLOSIVE EVENTS
+
+
+Phenomenal Feats of Diving Daring
+
+(High Diving)
+
+To begin our Big Top O'Fun we bring you an act involving horrendous heights
+and terrifying targets (especially Level 3). Only the sturdiest of souls (and
+heads) will survive this stupendous spectacle.
+
+In this event you take on the persona of Horace the High Diver. First Horace
+climbs up the ladder and moves out to the end of the diving platform. On the
+right side of the screen is a scale model of the diving platform. An arrow points
+to the level where Horace is standing. In the upper left corner of the screen is
+the name of the pose that Horace should perform first. In the lower left corner
+is a picture of the diver's target.
+
+Press the fire button to begin Horace's dive. Once Horace is airborne, begin
+to quickly move the joystick from side to side, but keep Horace over the
+target. This gets Horace spinning around so that he can gain enough
+momentum to go into a pose. Once he is going fast enough, a bell rings and
+the name of the pose flashes, indicating it's time to go into a pose.
+
+To perform a pose, move the joystick to the appropriate position and then
+press the fire button. The joystick positions for each diving pose are as
+follows.
+
+                                     Swan
+
+                             Recline   |   Pike
+                                     \ | /
+                                      \|/
+                              Yoga ----*---- King Tut
+                                      /|\
+                                     / | \
+                              Ballet   |   Nose Pinch
+
+                                   Dive Bomb
+
+                                       7
+
+As each pose is done, another name of a pose appears in the upper left
+corner. At this point you should again move your joystick from side to side
+so that you prepare for the next pose. The more poses that are correctly done,
+the more money you will make on your dive - that is, as long as you hit your
+target! As your man reaches the target area, he will automatically go into his
+entry pose.
+
+If you notice Horace veering from the centre of the target, move the joystick
+in the direction he needs to go to steer him back on course. Once he is again
+on track, go back to moving your joystick from side to side and prepare for
+another pose.
+
+With each new level, Horace starts from higher up on the platform and has
+more time to perform the dives. However, it's also easier to go off course when
+your man is that high in the air.
+
+FREDDY'S ROLE
+Once the bell rings indicating it's time to go into a pose, you must immediately
+perform it. Failure to do so brings out Freddy with his portable, industrial-size
+fan to blow you off course. With each level Freddy appears sooner if you don't
+perform your poses as soon as the bell rings.
+
+
+Genuine Juggling Genius
+
+(Juggling)
+
+It's time to welcome Jeffy-Joe the Juggler to the centre ring. As a boy he was
+bemoaned as "Butterfingers", but now, he's well known the world over as the
+"Wee Wizard of Wonderful Juggling" (and he's wealthy, too).
+
+The juggling event begins with Jeffy-Joe's obedient assistant catching and
+then tossing items up into the air. Jeffy-Joe then moves his unicycle to
+manoeuvre himself into position to catch and then juggle each of the items.
+Your objective is to keep Jeffy-Joe juggling as many items as possible until
+the time limit runs out. Drop five items and Jeffy-Joe's juggling career will be
+just a memory.
+
+                                       8
+
+To maneuvre Jeffy-Joe, push the joystick in the direction you want to move.
+When you want to catch an item, move Jeffy-Joe so that he is positioned to
+catch the item in either his left or right hand. When you press the fire button,
+he will toss whatever is in his left hand and put whatever was in his right hand into his left
+hand. He will always throw things from HIS left hand (that's
+your right side), so you may want to get into the habit of catching with his right hand
+and then switching it to his left. Once you toss an item release the fire button
+and prepare for the next one.
+
+If you pull back on the joystick, Jeffy-Joe brings both hands in to catch
+something against his body. It doesn't matter how the items land in your
+hands; you can't get hurt or penalized as long as you catch it (i.e. you can
+catch a knife by the blade or a flaming stick by the fiery end).
+
+In Levels 3 and 4 a baby becomes one of the juggling objects. Your objective
+is to safely return the little tot to its carriage. Doing so removes one of the
+dropped items from your tally. The carriage will roll by as you juggle the baby.
+To put the baby in the carriage, position Jeffy-Joe so that after he tosses up
+the baby, the baby falls not into his hands but straight down into the carriage.
+Both Jeffy-Joe and the carriage must be exactly positioned for this to happen.
+Beware of the tantrum that occurs if your baby misses the carriage.
+
+
+                          WITHOUT FIRE BUTTON PRESSED
+
+ Moves _________________________________________________________________ Moves
+  left                                 |                                 right
+                                   Brings in
+                                     hands
+
+
+                           WITH FIRE BUTTON PRESSED
+
+                                    Tosses
+                                     bombs
+                                       |
+Right hand _________________________________________________________ Left hand
+   goes up        (and objects switch from right hand to left)       goes up
+
+                                       9
+
+FREDDY'S ROLE
+Every now and then Freddy will distract your assistant and toss the items out
+for him. Unfortunately, you could live without Freddy's help - REALLY. He's
+only tossing bombs and missiles. If one of these items falls, it's "Kablooey"
+for you (and we're not kidding either)!
+
+To handle Freddy's bombs, catch the bomb in either hand and then press the
+fire button while pushing up on the joystick. This manoeuvre will toss the
+bomb back in Freddy's court. If he throws a missile into your act, simply keep
+juggling it as you would any other item until time runs out for that level.
+
+
+Breathtaking Bravado from Hazardous Heights
+
+(Trapeze)
+
+May I direct your attention high above the centre ring of our Big Top O' Fun.
+It's time for yet another death-defying act of courage, bravery, and scanty
+outfits that could come off at any time. It's our own Finola of the Flying Fuller
+Family, and she's ready to swing her way across our tent and into your lustful
+minds.
+
+As the event opens, Finola appears in the upper right corner of the screen. In
+the lower right corner you'll notice a picture of Finola's head. This represents
+the second chance that you'll have should anything happen to Finola on your
+first attempt. In the upper left corner you'll see the next bar swing in and out
+of view.
+
+Press the fire button to start Finola off the platform. Then move the joystick in
+the direction that she should swing to get her momentum going. As Finola
+swings forward you should push the joystick left. As she swings backward,
+push the joystick right. To jump to the next bar, wait until the bar is moving
+toward Finola as she swings forward. Then, right when she is at the top of her
+swing, press the fire button. She'll then perform a beautiful flip and, if timed
+correctly, grasp the next bar. The process then begins again.
+
+In addition to just swinging from bar to bar, Finola encounters several
+obstacles like paper targets and flaming hoops. Some of these are even
+bobbing up and down. Again, you must time your swing so that the hoop or
+target is low enough for Finola to go through.
+
+                                       10
+
+FREDDY'S ROLE
+Where does he get those wonderful toys? In this event, Freddy is armed with
+a large pair of scissors and a jet pack. He's able to fly freely about the big top
+waiting for his opportunity. If you leave Finola on one bar too long while she
+waits for the perfect jump, Freddy comes along and "cuts" her act short.
+
+
+Deadly and Dangerous Daggers of Death
+
+(Knife Throw)
+
+Ah, your lovely assistant, Knancy Knife, is in a precarious position now! You'll
+notice she's been blindfolded and tied to a rotating wheel, which also has
+balloons placed in many strategic areas about her. Your objective here is to
+break all of the balloons on the wheel before time runs out for that level.
+
+In addition to the beautiful and scantily-clad Knancy, there is a row of knives
+that represents how many tries you have to break the balloons in each level.
+A clock showing your time limit appears in the upper right corner. At the
+centre of the wheel is your aiming knife.
+
+Use your joystick to move this knife around the wheel until it is over an area
+where a balloon will come by. Press the fire button when you want to throw
+the knife and it will fly from you to the wheel. Timing is everything in this game,
+so you'll need to get a feel for how long it takes the knife to hit the wheel.
+
+Take care not to hit Knancy. She's a real whiner and will surely let you know
+if your aim is off. In addition, you'll be penalized two throws whenever your
+dagger dents her.
+
+FREDDY'S ROLE
+Freddy still has a stash of bombs left over from the Juggling Event, so he's
+decided to put them to good use here. Periodically, he will appear from the
+side, throw his smoke bomb and then scram before it explodes. Unfortunately
+for you and Knancy, you have nowhere to run. The bomb fills the screen with
+smoke and generally shakes things up a bit, It will most likely throw off your
+timing and your aim, so try to regain your senses as soon as you can. Besides,
+he's always got another one where that came from.
+
+                                       11
+
+Tense Travel Techniques on Tightrope
+
+(Tightrope)
+
+It's time to raise your gaze once again as our fearless tightrope walker, Tony
+Tiptoe, demonstrates his amazing ability to span spectacular distances while
+perched at perilous heights. In other words, he's going to walk across that
+really high wire!
+
+The event begins with Tony Tiptoe poised in the upper right corner of the
+screen. The platform he must walk to is positioned in the lower left corner. In
+the upper left corner is the "tilt-o-metre" view of your man. This will clearly
+show which way Tony Tiptoe is leaning on the rope.
+
+Begin the event by pushing your joystick straight ahead. As Tony goes
+forward he will probably lose his balance and begin to lean right or left.
+Depending on the direction he leans, move your joystick right or left to
+balance him again and continue moving him forward on the rope. (For
+instance, if he leans left, move your joystick to the right to straighten him and
+then move him forward again.) If Mr. Tiptoe leans too far and is in danger of
+falling off, he will yell "Whoa" and his balancing pole will turn red. If he remains
+in this dangerous position for more than a second, he will lose his balance
+altogether and Freddy will be on the scene in no time.
+
+FREDDY'S ROLE
+For this event Freddy has reached deep into his bag of tricks and pulled out
+some of his best. To begin with, if your man takes too long to cross the wire,
+Freddy wheels out his cannon and stops your man "dead" in his tracks. In
+other levels he can be seen flying about trying to push you off or hurling
+circular saw blades at poor Tony.
+
+When Freddy throws blades at Tony Tiptoe, you can deflect them with his
+pole by hitting the fire button as the blade approaches him. Failing to do so
+will leave Tony with a "splitting" pain.
+
+
+Combustible Cannons of Colossal Courage
+
+(Cannonball)
+
+And now for our fantastic and fiery finale! It's the fearless (and somewhat
+frenzied) Fernando, the Human Cannonball. I direct your attention to the far
+end of our Big Top where Fernando is pausing prior to his last-minute
+preparations (and possibly making a pass at his pert apprentice).
+
+                                       12
+
+This event begins with your handsome human cannonball. Fernando, taking
+his pre-flight bows. In the lower right corner are two additional helmets,
+representing the two other chances you'll be given in this event (That's three
+chances in all.) In the lower left corner is a small outline of the cannon.
+
+As his assistant, the lovely Lisa, loads the cannon with gunpowder, the small
+outline fills with red to indicate how much gunpowder has been placed in the
+cannon. Once she finishes putting in gunpowder, our hero dives in. Once
+he's in the cannon, a scale version of the tent appears across the top of the
+screen. In the middle of this will be the target that the little guy must hit.
+
+Depending on how much gunpowder the lustful Lisa has placed in the
+cannon, you must decide how close or far the target should be in order for
+Fernando to hit it. As soon as this screen appears use your joystick to move
+the target closer (left) or farther (right) from the cannon. This must be done
+quickly before . . . well, read what it says under "Freddy's Role". Once your
+target is where you want it to be, press the fire button.
+
+At this point, your alluring assistant lights the fuse. Once she finishes, the
+opening of the cannon begins to rotate to the right side. You must now decide
+the angle at which you want Fernando to be fired out of the cannon in order
+to reach his target. When the cannon is at the angle you want, press the fire
+button again. This will launch the fearless Fernando.
+
+To see how Fernando progresses, follow his path along the scale drawing
+that appears at the top of the screen. If your placement of the target and angle
+at which he is shot are correct, he'll land on the target. If your choices were
+off, Fernando's landing will be more than a bit uncomfortable.
+
+FREDDY'S ROLE
+Once again, Freddy makes use of his jetpack so that he can fly about the tent.
+This time, however, he's armed with one big cork and just guess where he
+wants to stick it? Yes, if you waste too much time in this event trying to decide
+where to position your target, Freddy will make sure that your act creates a
+big bang.
+
+                                       13
+
+A WONDERFUL WIN
+OR A
+LOATHESOME LOSS
+
+If any one player has accumulated $10,000 or more, then your big top is
+saved from certain demise and it's curtains for Freddy. However, if no one
+person raised the needed $10,000, Freddy will take up permanent residence
+in the area and your circus will be nothing but a memory.
+
+
+Program copyright (C) 1990 Gray Matter
+All rights reserved.
+Conversions for Amstrad, Commodore, and
+Spectrum versions by Imagitec Design Ltd.
+Printed in the U.K.
+
+                                       14

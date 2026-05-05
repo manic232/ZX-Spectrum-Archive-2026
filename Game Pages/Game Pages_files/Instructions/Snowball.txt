@@ -1,0 +1,464 @@
+SNOWBALL
+(Level 9 Computing)
+
+Snowball is a big adventure game. It has over 7,000 locations and has
+taken 9 months to produce. It's probably unique among adventures in
+having a realistic, planned background and being set aboard a star-
+ship that could actually work.
+
+You play Kim Kimberley, secret agent extraordinary.
+
+Your mission: to safeguard the interstar transport, Snowball 9, as a last
+resort following catastrophic accident or sabotage.
+
+Thus when your modified freezer-coffin wakes you with the Snowball
+still in transit, you know that something must be very wrong. You're
+weakened and disorientated from lengthy hibernation, but the fate of
+two million passengers is in your hands!
+
+To play the game, turn to the middle pages for loading instructions and
+commands.
+
+
+
+BACKGROUND
+
+Snowball 9 started its journey to the stars from the EEC's Ceres base,
+one of fifty colony starships launched in the 2190s. It carried the first
+colonists for Eridani A.
+
+First to be despatched were the ten giant passenger disks, rotating
+ponderously to provide internal gravity. Each was towed gently by a
+cluster of small tugs and floated into the void with 200,000 sleeping
+colonists on board.
+
+Then the Snowball's engine unit followed, accelerated rapidly by the
+spectacular flares from its four great fusion motors. Like previous
+launches, and the link-up with the disks some weeks later, this was
+holo'd worldwide ... though few people bothered to watch.
+
+Looking like a necklace of sparkling beads, Snowball 9 headed out
+into deepest space, and into a century of obscurity.
+
+But the major part of the launch was yet to come. And it happened
+quietly, out of the glare of publicity. The chains of accelerators,
+beyond Pluto, burst erratically into life throughout the following
+three years. firing ten-tonne blocks of ammonia-ice at precise speeds
+after the receding craft. Once reeled in by the Snowball's skyhooks,
+the ice was built into a huge hollow shell around the linked passenger
+disks. When complete, this shielded the disks during the voyage; until
+the ice was finally needed as fuel for the ravening fusion drives.
+
+The ice-shell, which gave the Snowball series its name, formed most
+of the mass of the completed craft. And without the accelerator/
+skyhook system of "in-flight refuelling", realistic-time interstar
+voyages would not have been feasible.
+
+As with life, the first thirty years of Snowball 9's journey were the
+most interesting. The computers and crew had to catch as much ice as
+possible before it flew past. But even then there were never more than
+six active crew at a time.
+
+Then the starship was left to coast until its destination was near, the
+crew hibernating with the passengers. A brief flurry of activity to
+start deceleration, and back to autopilot. Even allowing for the great
+resilience, and hence low sophistication, of the Snowball's machine
+intelligences, they are quite capable of running everything unaided.
+No further crew members were woken until a year from journey's end.
+
+The plan from here on was to continue deceleration, shed the remains
+of the ice-shield (by now eaten away to insubstantiality by the needs
+for fuel), and dock with the target planet, Eden, in geostationary orbit.
+Finally the passengers would land by glider-shuttle ... a process taking
+many years to get everybody down, and necessitating the retrieval of
+grounded gliders by sky hook: the same gliders being used many times ...
+
+This was the plan, anyway.
+
+Meanwhile in the Eridani star system, the robot descendants of the
+original survey craft that scouted Eden have been hard at work. The
+original crude waldroids, directly controlled from the survey craft's
+computers, were good for little other than routine manual work. But
+they have long been superseded by a host of specialised robots, highly
+intelligent and suitable for any task.
+
+Indeed, in the outer reaches of the planetary system the first
+accelerator chains are already being built. It will not be long before
+colonists can leave Eden for remoter stars.
+
+The colonists have taken over a hundred years to reach Eden, but the
+robots can obtain information and programming at light speed. They
+are immeasurably ahead of their future "masters" in knowledge and
+technology. Even if Snowball 9 arrives safely, it is by no means certain
+that the passengers will be able to cope with the sudden outdating of
+all their experience.
+
+The physical well being of the colonists is, however, assured by the
+robot's diligent work. Condos, paveways, PVTs, holo nets, pre-
+ordained work ... everything necessary for civilised life will be
+provided. After all, why risk further disruption of the social fabric
+resulting from a manifestation of the so-called "pioneer spirit"?
+
+All you, as Kim Kimberley, have to do is rescue the Snowball 9. The
+task of helping the colonists cope with the city that the robots have
+built can be tackled in the sequel to this adventure: "Return to Eden".
+Neither will be easy!
+
+
+
+KIM KIMBERLEY
+
+Kim is 1.7 metres tall, weighs 55 kilos, is fairly intelligent, athletic,
+and has brown eyes and fair hair. Now aged 22, or 25, or 131 years
+depending on how you calculate these things.
+
+Born on September 29th, 2172 AD, of Jorel Cowans and Alice
+Kimberley, Kim was raised by the Hampstead Creche. This was a
+peculiar place, set amongst decaying buildings, and heavily reliant on
+a mix of relationship-engineering, behaviour conditioning and Hell-
+Fire religion. It was finally closed in 2185 for breaches of the Android
+Protection Acts. It seems to have done Kim little harm however,
+though possibly contributing to a tendency towards introversion.
+
+Then to the Milton Keynes School of Life; a fine, residential establishment
+situated (despite its name) in Malta. The staff were, in effect,
+Kim's family. (This type of situation, by the way, was far from unusual
+in the late 22nd century. Advances in entertainment and travel, plus
+the sexual revolution resulting from AI, partho and cloning
+techniques, made a family up-bringing the exception.)
+
+Kim returned to England for National Service before progressing to
+Oxford (being not quite bright enough for Cambridge). Kim proved a
+good student, and established many close relationships, though
+nothing permanent.
+
+It was during National Service that the event central to the Snowball
+mission took place, though it went unremarked at the time. Kim was
+approached, discretely, to do security work. Initially this simply
+involved training, and occasional surveillance of possible subversives
+(Unionists, Americans, members of racial minorities etc) but it soon
+developed into counter-espionage (e.g. arresting Russians who used
+the public reference libraries).
+
+And then, when the Snowball project got under way, Kim was
+approached to volunteer for the stars. The Snowball craft were as near
+automatic as possible, and carried a trained crew in case anything
+went wrong. But suppose something happened to the crew?
+
+What was needed were one-or-two trained people, carried without
+the crew's knowledge, who could emerge and take over if something
+went really wrong. And, with the Snowball 9, it has ...
+
+
+
+The Game
+
+Snowball is a full scale adventure game, with well over 7000 locations,
+700 messages, about 60 objects etc etc. You will have to solve a large
+number of puzzles while finding your way to the main control room
+in the engine unit - and saving the starship.
+
+To play Snowball, load it from the cassette and then simply enter
+English phrases to tell the computer what you want to do (e.g.
+SEARCH THE ROOM or LOOK AT THE PANEL). The program will
+act as your eyes and ears to describe your surroundings.
+
+As with all proper adventure games, Snowball is very easy to play -
+you don't need to be able to type rapidly, or blast aliens by reflex. But
+don't be too surprised if it takes weeks (or months) to complete.
+
+The best way of playing is probably to use the program in short
+sessions, stopping if you seem to be totally stuck and resuming if you
+come up with an idea that might work. Making a map will probably
+help, though I advise against trying to show all the rooms! Remember
+that you can use the SAVE and RESTORE commands to save the
+current state of play and restart later - they are quite quick.
+
+If you have any problems with solving the game, please use the hints
+card included. You're welcome to enclose it with a letter if you like,
+but hint-requests may well not be answered unless the card is
+included.
+
+If you have any problems with using the game program, please tell us
+which computer you have (and, for cassette problems, which cassette
+recorder you have). Please help us to help you!
+
+
+
+How to load and Start
+
+Snowball is a 32K machine code program which uses up most of the
+memory of a 48K Spectrum. There's a copy on each side of the cassette
+enclosed.
+
+To use it, enter LOAD"" (press J; SYMBOL-SHIFT + P; SYMBOL-
+SHIFT + P; ENTER) and the game will automatically load and run
+when you play the tape.
+
+Snowball is copyright (c) Level 9 Computing 1963.
+
+
+
+Instructions
+
+The program asks "What now?" whenever it expects you to enter
+another command. Simply type an English phrase to tell it what you
+want it to do and press RETURN (or ENTER). The program will act on
+your request, ask you for the next command, and so on.
+
+The program knows an extensive vocabulary of English words (over
+200) and it looks at your entered command, picking out the words it
+knows and "guessing" your meaning from these. Only two or three
+words are used for each phrase, so you are advised to keep
+instructions simple.
+
+In practice you should find it is simple to state what you want to do,
+but if the program does not understand just rephrase your request.
+Snowball provides great freedom in possible commands but, to help
+you get started, some possible instructions are summarised below:
+
+INVENTORY		SEARCH THE ROOM
+LOOK AT COFFIN		PUSH THE GREEN BUTTON
+EXAMINE COFFIN		LOOK AROUND
+NORTHWEST		GIVE DRINK TO ROBOT
+TAKE SPANNER		OPEN DOOR
+WEAR HELMET		WHAT'S MY SCORE
+DROP THE RED FORM	CUT TUBE WITH SCALPEL
+
+These are only a small sample of the words known by the program. To
+save typing, words can be abbreviated (e.g. EAST to E, NORTHEAST
+to NE, and AGAIN to A).
+
+The command analyser used by Snowball is even cleverer than that
+used in our "Middle Earth" trilogy of games. For example:
+
+* Word order is less important. For example "GIVE THE ROBOT A
+  DRINK" is the same as "GIVE A DRINK TO THE ROBOT".
+* You can take or drop EVERYTHING.
+* As well as compass directions for movement, LEFT, RIGHT,
+  FORWARDS and BACKWARDS are allowed.
+* AGAIN repeats the previous command.
+* Snowball understands IT, and IT can save you time. Use IT if you
+  want to act on the same object as in your last command - but please
+  keep IT simple.
+
+You should know three special commands:
+
+QUIT	Abandon the game. You can start again if you like.
+SAVE	Keep the current state-of-play on tape. Start your
+	recorder on RECORD, with a blank tape, first.
+RESTORE	Load a SAVEd position back from tape.
+
+
+Scoring
+
+There are no "treasures" in Snowball: you don't score points for
+finding things and storing them away as in many games.
+
+Instead, points are scored for doing things that are steps on the way to
+the eventual goal for getting to the main control room and rescuing
+the starship from its fate.
+
+For example, you need to get out of the freezer coffin, where you are
+at the start of the game, and subsequently need to assemble a working
+space-suit. Both these activities score points.
+
+On the debit side, if you're caught by the Nightingales you lose points.
+And if you manage to get killed you lose more.
+
+
+Hints
+
+Buyers are entitled to a free clue each, and a hints card is enclosed for
+this. Put it in an envelope, with another stamped, self-addressed
+envelope, and send it to the address at the back of this instruction
+booklet. We will do our best to reply as quickly as possible. Don't use
+up the clue too soon!
+
+Answers will be truthful, but partial answers may be given to
+questions which take too much work. (e.g. "Please list all words
+understood by the program' or "What are the functions of all the
+objects"). We'll try to be fair and help you to progress.
+
+* Everything in Snowball has a purpose.
+
+* Remember that the adventure is set in the starship described in this
+  booklet. It is logically designed and there is no "magic". However,
+  some of the technology used might be described as magical in 1980s
+  terms.
+
+* North means towards the front of the starship and the other
+  "compass" directions are relative to this. Up and down, on the other
+  hand, are determined by local "gravity".
+
+* At the start of the game, you are in the lowest level of a passenger
+  disk. You need to go "up".
+
+
+
+Terran Expansionary Phase, 2120 - 2210
+
+The late 21st Century saw a great increase in space travel within the
+solar system.
+
+Fusion power was not yet feasible, conventional fuel sources were
+close to running out, and the energy needs of the industrial nations
+were ever-increasing. The solution lay in space. Solar reflectors, if
+made large enough, could easily concentrate any amount of
+energy ... and beaming it back to Earth was simplicity itself.
+
+What was not simple was to transport enough material for thousand-
+mile reflectors into space. Indeed, it was much more efficient to use
+what was already there ... and thus the first accelerator chains[2] were
+set up to boost asteroid material from beyond Mars into Earth orbit.
+
+By 2120, thirty percent of Earth's energy came from the space
+reflectors and the proportion was steadily rising. And, to supply the
+colossal requirements of the orbital industries, the whole Solar
+System was linked by accelerators.
+
+Then workable fusion power was perfected. And it was very cheap.
+
+The whole space sector of the economy was redundant. And a lot of
+politicians risked looking very silly indeed.
+
+Thus a use for the accelerators, space reflectors and orbiting factories
+had to be found ... and Stellar Colonisation was it. A lot of voters/party
+members read SF, after all. And colonies are always popular (at first,
+anyway).
+
+So the accelerators were linked up and fired out of tens of thousands
+of small exploration probes in all directions. These robots would coast
+through space with only one mission - as each flashed past a star it
+would report back the existence of Earth-sized planets. Unmanned,
+they could continue for centuries.
+
+----------------------------------------------------------------------
+[2]Electro-magnetic accelerators: Linear-motor guns. The payload was
+slowed down again by sky-hook (a docking unit connected to the main
+space station by a very long, elastic strand).
+
+
+
+Ten years behind came larger survey craft, each clutching a great ball
+of ammonia ice to power its fusion motor. If one was lucky enough to
+be following a successful exploration probe, it had just enough time to
+decelerate (from its coasting speed of 0.3 C) before reaching the star.
+Once there it would scout the system and if there really were
+habitable planets (or even ones requiring controlled climate domes as
+long as the ground was solid) it would radio the information back to Earth.
+
+Then, while waiting for the first colonists to join it, decades later, the
+survey craft would proceed to prepare a world for them to live in.
+
+First came a long, slow, painstaking period of asteroid mining -
+assembling the necessary materials to build its first robot-production
+line. The first robot would take ten or twenty years, the next ten or
+twenty days and the thousandth would take minutes.
+
+By a process of careful boot-strapping, highly-intelligent space
+factories were built ... and colossal dish receivers to collect the
+constant stream of technological data from Earth.
+
+Next came the landings on the target planet, city building and making
+ready for the colonists. And, at the same time, preparations for
+launching more probes and survey craft.
+
+The Terran Expansionary phase was scaled down as time passed, and
+eventually stopped - as far as Earth was concerned. Domestic political
+pressures changed, and politicians became more concerned with the
+quality of life for the so-called Free Nations than with space
+exploration. But the starships were in flight, and the foundation of the
+Human Empire was assured.
+
+
+
+Geopolitical Summary, 2195
+
+To generalise, nations can be divided into two groups: the Big 5 super-
+powers, and the Free Nations.
+
+The Big 5 (China, EEC, Pacific, US Empire and USSR) are fully
+urbanised, dependent on sophisticated technology, and despite their
+much-publicised feuding they have reached de-facto compromises to
+prevent war. Politically, they are neither true democracies nor
+dictatorships. Most of their populations live in luxury (though the
+man-in-the-street would never admit this).
+
+The Free Nations are, in effect, the former Third World. No significant
+improvements have taken place in living standards or technological
+infrastructure, though populations are higher than ever before.
+Communications are excellent, however. The people know that they
+are kept in poverty and resent the fact, and ironically this is a major
+reason for the Free Nations' poor development performance. Other
+reasons are: proxy wars, wealth disparity combined with ready
+supplies of weapons, poor infrastructure, reduced world market share
+due to automation elsewhere, excess imports to ruling cliques, skill-
+drain, population growth, endemic disease and climatic instability.
+
+In the near future the Big 5 will finally decide to help the Free
+Nations, but in the 2190s they are chasing stars.
+
+England, Kim's "birth" place, is a minor part of the EEC. Very
+prosperous, 50% built-up and with a population of 70 million.
+
+To the evident astonishment of its citizens, who consider it a most
+boring place, the major industry is tourism. In summer, you can't
+move in London for the waldroids shuffling around: foreigners
+soaking in the sights through every gleaming lens.
+
+The biggest employer of labour, however, is the Experience Industry.
+The Dream Palace of Wigan and Reveline of Bucks churn out epic
+"adventure games" for the enjoyment of billions worldwide - and for
+the 30 million unemployed at home.
+
+Housing is good, robot slaves are plentiful, and most people are
+quietly happy in the belief that their country is best.
+
+
+
+Implementation
+
+Snowball is written in Level 9's own super-compact adventure
+language known as "a-code". This gives machine-code speeds and is
+much smaller. Additionally, text messages have been compressed to
+about half size (by the automatic extraction of the most common
+strings - such as "the" - and their replacement by single characters).
+Additionally, the coding is rather cunning in places.
+
+Thus the game needs much less space than it ordinarily would - and
+we can cram in much more detail than others do.
+
+
+Credits
+
+Game Design:			Pete Austin
+Implementation:			Pete Austin
+Transport to your Computer:	Mike Austin
+A-code Compiler and System:	Mike Austin
+Data Compiler:			Pete Austin
+Additional Expertise:		Ian Buxton
+
+Instruction Booklet:		Pete Austin
+Artwork:			Tim Noyce and Pete Sherwood
+Typesetting etc:		Crowley Graphics
+Miss Kimberley's Costume:	Spider & Jeanne Robinson (Stardance)
+Inspiration (in part):		Larry Niven and Jerry Pournelle
+				(The Mote in God's Eye)
+
+Level 9 Adventures
+Our current range of adventures is:
+
+1) Colossal Adventure		"Middle Earth" Trilogy
+2) Adventure Quest
+3) Dungeon Adventure
+
+4) Snowball			"Silicon Dream" Trilogy
+5) Return to Eden (late 1983)
+6) The Worm in Paradise (early 1984)
+
+7) Timelords (late 1983)	A great time-travel game
+
+Details of all Level 9 Computing products are available from:
+
+Level 9 Computing, 229 Hughenden Road, High Wycombe, Bucks.

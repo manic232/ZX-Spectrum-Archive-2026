@@ -1,0 +1,148 @@
+=====================
+World Series Baseball
+=====================
+Document created by rstuart@ukonline.co.uk on 18th Dec 99 for
+World of Spectrum: http://www.void.demon.nl/spectrum.html
+
+Taken from the Ocean compilation 'Game Set and Match'.
+
+World Series Baseball
+---------------------
+Compete head to head or against the computer in this stunning baseball
+simulation. Prior knowledge of baseball not essential - self demo mode for
+instructions. Giant video screen for close-up action. Fun to play, with real
+baseball features including - streal options, curved balls, pitcher throws
+and all the razamataz of the U.S.A.
+
+World Series Baseball Spectrum version By:
+IAN MORRISON and DAVID J. ANDERSON.
+Music By: ROBIN MUIR.
+Produced By: D.C. WARD.
+(c)1985 Imagine Software (1984) Ltd.
+
+World Series Baseball
+=====================
+Welcome To World Series Baseball
+--------------------------------
+Using the Menu
+--------------
+Pressing any key during the title screen or demonstration mode will bring
+up the menu screen.
+There are three status bases: one displaying the present number of players;
+another displaying the length of game chosen in innings; and finally, the
+largest base displaying the current control option for both players.
+Further this is a list of keys which perform various functions when pressed.
+S  to start play;
+I  to go to the instruction pages;
+P  to toggle the number of players;
+L  to alter the number of innings selected (this loops through 3, 6 or 9);
+C  to go to the controls editor;
+D  difficulty level.
+
+Controls Editor
+---------------
+When C is pressed during the menu the controls editor will appear. Player 1
+is given the opportunity to redefine his control keys or select a joystick.
+There are three function keys shown: "ENTER" when new selection is complete;
+J to select a joystick (continue pressing to loop through options); or D to
+redefine the keys. When redefining keys a cursor will flash beneath the key
+to be defined, just press the key of your choice.
+Note 1. When a two player game is selected, Player 2 has the opportunity to
+use the controls editor after player 1 has pressed "ENTER".
+Note 2. The game hold button is defined as H. This cannot be changed nor can
+either player define H as control key.
+Note 3. In a one player game, player 1 has complete freedom to select any
+control keys except H but in a two player game either player may not select
+a key already selected by the other.
+Note 4. With a Sinclair ZX interface 2 the port to be used is indicated by
+the arrow on the selection.
+World Series Baseball is one of the few games to allow two  players to play
+simultaneously with a joystick each.
+Note 5. During play the game can be aborted at any time by pressing T and H
+(T must be first or the game will HOLD). We, therefore, do not advise the
+selection of T for a control.
+
+Starting Play
+-------------
+When you press S to commence play you will be asked to input your name.
+Simply type in your name up to eight letters. There is a delete facility
+using the Spectrum delete keys. If you opt not to enter a name the computer
+will automatically call you "Player 1" or "Player 2".
+When you complete the process press "ENTER". The computer will now initialise
+the screen. On the stadium score board will appear both players names with
+their current team colours.
+To change colours use left and right to loop through the choices and fire
+when you have made your selection. We recommend white and blue but the choice
+is yours. Play will now commence.
+
+Baseball - Rules
+----------------
+In essence baseball is similar to the familiar game of rounders in as much
+as one team bats, another fields and points are scored for a successful
+batter running around all four points of a square which is marked out on the
+grass. Here, the similarity ends. An innings is the period of play where
+both teams have one period of batting each.
+An innings is logically split in two halves and one half innings lasts as
+long as the batting side prevent three men from getting out. There are three
+basic methods by which a player may be dismissed: whilst batting he may miss
+three successive balls - each miss is called a STRIKE and 3 STRIKES means
+you're out; when he hits the ball it may be caught by a fielder; or he may
+be run out. The ball is thrown by the Pitcher who stands in the centre of the
+square. The two lines which extend from the home base (Batter's position)
+are called the foul lines. If a ball does not land within the area marked by
+the foul lines when it is struck it is considered a foul and counts as a
+STRIKE.
+
+Pitching
+--------
+A close up of the action is displayed on the stadium score board. There are
+two ways in which each pitch can be varied. Firstly, the speed of delivery
+may be varied by left and right. Secondly, the height of the delivery is
+determined by up and down. Select your choice and press the fire button to
+throw.
+
+Batting
+-------
+Watch the ball carefully as it approaches. How you time your swing will
+determine how well you hit the ball. You can vary the speed and height of
+swing by using left/right, and up/down respectively on your joystick. When
+you are ready press the fire button.
+
+Fielding
+--------
+As soon as the ball is struck one fielder will come under player control.
+This will usually be the man nearest to the expected landing site of the
+ball. Use left, right, up and down to move the man around the field.
+When he has picked up the ball up use fire to throw it.
+The direction of control when the ball is thrown selects which base or the
+pitcher that the ball will be thrown to.
+
+Runner Steals
+-------------
+While the ball is in the field one of the runners is under player control and
+you can try to make him advance a base by using up and down to control the
+direction in which he runs.
+Note that all runners must be on bases for the next play to commence.
+
+To 'Out' Batsmen
+----------------
+A batsman may be dismissed if he fails to hit three successive pitches or
+his ball is caught by one of the fielders. He will leave the field and the
+number of outs will increase.
+
+A runner may be dismissed if he is tagged by the man carrying the ball while
+he is running between bases of a fielder holding the ball has a foot on the
+base to which he is running and he cannot return to his last base.
+
+Changing Outfield
+-----------------
+Before each pitch the scoreboard will show the current position of the
+outfielders. These men can be moved in or out by pressing up or down while
+this message is displayed.
+
+Get a feel for pitching, hitting, running, throwing, fielding and cathing.
+The shadow of the ball will help you judge where the ball is headed. World
+Series Baseball is easy to pick up but tough to master, especially against
+the computer team.
+Have fun with World Series Baseball - it's designed to be fun for beginners
+and advanced players alike.

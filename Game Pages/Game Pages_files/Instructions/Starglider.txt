@@ -1,0 +1,460 @@
+Introduction
+
+Welcome to the Airborne Ground Attack Vehicle, the latest and most
+revolutionary of the new range of two-seater fighter craft designed and
+manufactured by Draziw Industries, Novenias leading armaments company
+for the past eight hundred years.
+
+This manual is divided into chapters detailing most of the features of the
+AGAV. However, because of the unique flexibility of the craft's design,
+notably the ability to upgrade and modify the weaponry, control systems,
+and fuel-feeders without needing to rebuild the craft from scratch, you
+may need to refer to a number of addendum manuals, detailing particular
+upgrades. These are available from Section 1.9.e of the Novenian Alliance
+State Archive at Erkalon, or direct from your airbase Flight Commander.
+
+You are reminded that this document is classified at Level 4.2, and is
+therefore printed on anti-Holostat paper. Any attempt to duplicate this
+manual will result in auto-decomposure of the complete document, and the
+simultaneous release of Kryplex gas, which will paralyse the nervous
+system of ail known carbon based life-forms in the western spiral arm of
+the galaxy.
+
+				Yrag Draziw,
+
+				Chief Designer, Project AGAV.
+				Stardate 3429.6.81.
+
+Entering the AGAV
+To enter the AGAV craft, follow the standard procedure:-
+
+1. if the AGAV plasma drive is in operation, press the switch marked OPEN
+CANOPY, situated below the canopy rim (there is a switch on both sides of
+the vehicle). If the drive is inactive, release the safety catch and slide
+back the blister canopy manually, using the handles on the rim.
+
+2. Climb onto the wing and stand as far forward as possible, close to the
+auxiliary oxygen port.
+
+3. Place both hands either side of the rim of the canopy, and lift your legs
+over the rim into the cockpit.
+
+4. Lower yourself into the pilots seat.
+
+5. Adjust the seat until comfortable, using the posture control switches
+situated under the seat.
+
+6. Fasten the safety harness.
+
+7. Close the canopy by pressing the small green button to your immediate
+left (marked CLOSE CANOPY). If emergency power restrictions are in
+force, slide the blister canopy forward, using the handles situated just
+behind the pilot's seat.
+
+The co-pilot or instructor should follow steps 2 to 7, standing slightly
+further back on the wing.
+
+The AGAV Instrument Panel
+Your AGAV has one of the most comprehensive computer control systems
+ever developed for a fighter craft. This means that the pilot only has to
+concentrate on the vital aspects of flying, such as navigation, combat, and
+docking at repair stations for fuel and extra weaponry.
+
+The Instrument Panel consists of the following major instruments:-
+
+A - LOCAL AREA SCANNER
+This hexagonal screen displays the position of all objects within the
+AGAV's range. The scanner can detect density and movement extremely
+accurately, to the extent of sensing the colours of each building, vehicle or
+aircraft.
+
+B - ENERGY LEVEL
+This instrument shows a constant indication of how much energy the AGAV
+has stored for its Plasma Drive Unit. It is advisable to always keep the
+energy level above 15%.
+
+C - SHIELD STATUS
+The Molecular Neutralising Force-Shields should NEVER be allowed to drop
+below 10%, under any circumstances. Shields are replenished when the
+craft is repaired at a maintenance silo. The shields are at their weakest
+around the undercarriage, therefore it is important that you never allow
+the AGAV to scrape along the ground during flight.
+
+D-LASER CELL STATUS
+All four Sapphire H laser units are fed from the laser cell. If it drains
+completely, your craft will be unable to fire laser bolts. The laser cell
+can be refuelled at any Novenian airbase or maintenance silo equipped with
+a PosiLok recharger.
+
+E-ALTITUDE METER
+The altitude meter shows your current height. If it gets below a safe level
+(usually 5%), the meter will flash rapidly and emit a sonic warning. You
+are reminded that it is an offence to fly low in a suburban area except in
+times of military emergency, unless you have clearance from your Area
+Commander.
+
+F - VELOCITY INDICATOR
+The velocity indicator displays the current air speed, up to 2550 urads.
+
+G & H - BANK LEVEL INDICATORS
+These twin indicators (one indicator is affixed to each wing-tip) display
+the ieve! at which the AGAV is banking. The AGAV can bank to 45 degrees
+unladen, although cameras or missiles will alter the maximum banking
+angle. Both indicators should always display the same bank factor, unless
+one of the wings is severely damaged.
+
+I & J - PLASMA DRIVE STATUS DISPLAY
+These waveform display units indicate various internal values of the
+Plasma Drive. As an AGAV pilot, you need not worry about these unless
+they stop completely, or start moving in a reverse direction during flight.
+
+K - SECTOR DISPLAY
+The Novenian landscape is divided into 10,000 sectors, on a 100 x 100
+matrix. The sector indicator will show the current X and Y position
+ranging in value between 00 and 99.
+
+L. MISSILE INDICATOR
+The missile indicator shows the number of missiles currently on board.
+The maximum number of missiles allowed at any one time is two.
+
+M - HEADING DISPLAY
+This instrument displays the heading of the AGAV in relation to the Irralya
+Star (discovered by Carrido Otnip in 2601.55.2) in accordance to the north,
+south, east, west convention.
+
+Flying the AGAV
+Please note that because there are a number of different AGAV models
+using a variety of pilot control mechanisms, you should refer to the
+specific flight control card which accompanies this manual.
+
+Taking Off
+Once all safety checks have been completed, you may take off using the
+following procedure:
+
+1. Pull back on the control shoe to increase altitude.
+
+2. Increase thrust and accelerate forwards.
+
+The AGAV has a top speed of 2550 urads. enabling it to outrun any sub
+light-speed Alliance craft, as well as all Egron and Aruloid military craft
+currently in service. It is quite safe to fly at full speed, as the computer
+will monitor the plasma drive at all times, and modify the neutron
+stabiliser automatically to ensure the plasma converter is always
+operating within its safe range.
+
+Flight Manoeuvres
+If you have not had full training in one of Draziw Industries comprehensive
+flight simulators, you should familiarise yourself with the more frequent
+manoeuvres required by an AGAV pilot. One of the most important
+manoeuvres when attacking land vehicles and escaping reprisal from a
+nearby enemy is accelerating, banking and gaining altitude in one smooth
+operation. Likewise, when at high altitudes, it is essential that you are
+able to decelerate, change direction downwards, and accelerate towards an
+attacking enemy target as quickly as possible.
+
+When flying at low speeds, the bank factor of the AGAV is so acute that
+you will be able to turn by 180 degrees with extreme ease. Even at
+maximum thrust, the turning circle of the craft is very tight. The quickest
+way to turn by 180 degrees is to decelerate to standstill, bank left or
+right to the AGAV's maximum bank factor, and accelerate quickly away.
+
+Landing the AGAV
+The AGAV is fitted with all-terrain landing pads, enabling you to land on
+any surface, including molten lava, acid rock, and the vast Erialc fungi
+reefs.
+
+To land on a surface, bring the craft to level flight, and decelerate until
+the computer cuts in and holds you in hover mode at zero velocity. Push
+forward on your control shoe slowly until you touch down. If you are
+landing on molten lava, do not be alarmed by the loud hissing sound of the
+landing pads cooling the surrounding lava streams.
+
+WARNING: During flight testing of the AGAV prototypes in the vast
+Tranalua desert, it was found that flying at extremely low altitude over an
+inductive energy powerline resulted in the absorption of small amounts of
+plasma energy. At the time, this seemed unimportant, but as the mk.1
+AGAVs were brought into service in urban areas, where high capacity
+powerlines were more commonplace, the full size of the problem was
+realised. Daredevil rookie pilots, trying to prove their aerobatic prowess,
+decided that flying just above the ground at high speed between the twin
+towers at the beginning of a powerline and following the path until
+swerving to avoid the apex tower was a great test of skill. This resulted
+in large amounts of volatile energy being absorbed by the AGAV's energy
+storage pod, and subsequently overloading the neutron stabiliser and
+inflicting fatal damage to the plasma drive. Attempts to refuel in this
+way will result in severe action being taken by both the Novenian airforce,
+and the Plasma Energy Corporation against ail guilty parties.
+
+Weaponry Systems
+The AGAV's main weapon is the Sapphire II quadpulse laser system. The
+laser is powered from a dedicated laser energy cell situated in the
+nose-cone of the craft, directly behind the PosiLok refuelling nozzle.
+
+Two laser cannons are situated under each wing of the AGAV, and each
+group of lasers fire simultaneously.
+
+The AGAV has two laser sight operation modes: fixed sights ensures that
+the sight is always in the centre of the screen, requiring the AGAV to be
+directly in line with its target; whereas floating sights allows the sights
+to move freely about the screen in the direction of the control shoe
+movement.
+
+The laser fire button has a rapid auto-repeat mechanism, enabling a target
+to be hit many times at great speed. The Sapphire If has an armour
+piercing factor of 0.45 - powerful enough to destroy a vehicle with similar
+armour to an Alliance tank with only six direct hits. The laser cell has a
+capacity for around 250 full-power laser pulses and can be recharged by a
+PosiLok station at any Alliance airbase, maintenance depot or silo.
+
+Some AGAV's (mainly carried on Interstellar Exploration Fleet Dredgers)
+are fitted with short-range mk. 12 and mk.14 proton missiles. Please
+refer to the State Archive ref. "Supplimentary Weapons 94/2" for specific
+operation details.
+
+As a desperate measure, and provided your shields are sufficiently intact,
+it is possible to intercept enemy craft and ram them if no other option is
+available. For this to be successful, the enemy should have little or no
+shield or force wall of its own.
+
+The AGAV is fitted with a revolutionary new system: The VidiMon
+remote-controlled television guided camera.
+
+Using a high-definition video camera, the AGAV pilot is able to transmit
+pictures directly back to Military Headquarters at Qazalon City. An
+automatic sliding visual display has been incorporated into the craft
+which monitors the flight of the camera.
+
+The camera's flight is started by pressing the LAUNCH button on your
+keyboard console.
+
+Once the camera has been launched, you can guide it using the normal AGAV
+flight controls (the AGAV itself will simply hover in its current position
+under computer control). The plasma drive should be able to transport the
+camera for at least twenty minutes. If the camera is not returned to the
+proximity of the AGAV within that time, or if it is intercepted by the
+enemy, it will self-destruct.
+
+Docking and Maintenance Procedure
+Routine maintenance checks are made on all Alliance craft, before and
+after every flight. The AGAV has a major overhaul after every five flights,
+or if any mechanical or computer related faults are discovered.
+
+During a flight, if you need to refuel the plasma drive, laser ceil. or
+replenish the shields you should establish a datalink with the nearest
+airbase and follow standard docking procedure. During a state of military
+emergency, or if the AGAV has been damaged and is in need if immediate
+attention, you may dock at an Alliance space station repair silo.
+
+The Alliance silos are vast underground chambers with a sloping entrance
+building at ground level. The entrance hatch to the silo is marked by a
+laser strobe which is easily detectable by the AGAV's Enhanced Vision
+System. The silos are used to build and maintain all Alliance space
+stations and large military air vehicles, but also have facilities available
+for the AGAV. Not all space stations maintain geostationary orbit, so as
+they approach the entrance, the silo will rotate to face the space station
+using the NavSynch system, and then pull it in using its tractor beams.
+
+The current docking procedure is as follows:
+
+1. Establish a datalink with the Chief Engineer at the silo, and wait until
+clearance is given. The silo will rotate to face you, and then stop, unless
+you adjust your flight path. Manual flight into the silo is necessary, since
+the AGAV is too small to be automatically pulled in using the tractor
+beams.
+
+2. Slowly guide the AGAV through the doors to the silo. Keep the AGAV
+central at all times, as hitting the door or a wall could result in major
+structural damage being inflicted upon your craft.
+
+3. Once inside the silo, your Enhanced Vision System should alter your
+display so that only relevent sections of the silo are visible.
+
+4. If you need to collect any new equipment, such as a replacement
+television guidance camera, or armaments for special projects (such as
+sonic bombs, or Mk. 14 proton missiles), instruct the Chief Engineer to
+deposit the equipment at an AGAV collection point, which is usually
+situated near the centre of the silo.
+
+5. When the equipment is ready, fly towards the collection point, where an
+AGRO unit will lock it into place on the AGAV's fuselage.
+
+6. To refuel your laser cell, fly towards the end of the silo, and slow down
+to an almost stationary speed.
+
+7. Align centrally with the PosiLok Refuelling Point, and fly forward until
+you lock into position. When your laser cell has been refuelled, the force
+shields will be replenished, and any superficial damage will be repaired by
+the AGRO androids.
+
+While the AGAV is being prepared, you will be able to obtain food, liquid
+input, medical treatment, or a place to sleep in the recreation sector of
+the silo.
+
+The Alliance Information Computers are installed at strategic places in
+the silo, and provided you have security clearance, you can call up any
+military or local information that is available to the Alliance using the
+Interrogate Silo Computer option.
+
+When the AGAV has been prepared, you will be escorted to the launch pad.
+To launch from the silo, wait until an AGRO unit has started up the plasma
+drive. When the drive reaches full power, press the button on the console
+marked LAUNCH FROM SILO.
+
+Once you have launched from the silo, accelerate slowly forward, but do
+not try to increase altitude until your are clear of the silo.
+AGAV Specifications
+
+The main features of the AGAV are as follows:-
+Plasma Drive
+
+The retro-thrust plasma power units are a development of the Mk. 6
+neutron fusiondrives which were used to great effect in the single-seater
+GS20 fighter class craft. They have been substantially redesigned to
+incorporate a neutron-stabiliser circuit, which has almost completely
+eliminated the spontaneous explosions occasionally experienced by
+unfortunate GS20 pilots who flew above plasma storms in the ionosphere,
+against the advice of their Atmostat data reports.
+
+Molecular Neutralising Force Shield
+These are the latest concept in shield technology and have been developed
+at great cost by the Irata University Molecule Research Unit.
+The shields work by fusing all unstable molecular structures into an
+integral part of the shield shell, therefore minimising the destructive
+force of any solid matter coming into contact with the force shield. The
+second advance in the shield design is in dealing with laser bolts, by
+converting laser energy into sound waves. This is a great improvement
+over the energy-thirsty fission based shields used on all previous Alliance
+units.
+
+Laser Cannons
+The AGAV class craft retain the tried and tested Sapphire II laser system,
+which has been fitted with a new longer-lasting laser energy cell, using
+the new PosiLok cell refuelling system now installed at all airbases and
+outlying service depots. The original duo-pulse unit has been modified to a
+quadpulse system for the first time to take advantage of these
+developments.
+
+Communication Systems
+The standard issue military two-way radio system has been fitted to the
+AGAV. A sub-etha data link, using the new NetCell cellular communication
+system developed by Novenia Telecom has been added for remote tracking,
+and other computer controlled operations.
+
+Computer System
+The AGAV is the first craft to have a ship's computer specifically designed
+for a single craft. Draziw Industries have worked in conjunction with
+Imperial Business Machines, to produce the P-CAT (Protointelligence -
+Communication and TransProcessor). The P-CAT is the pilots main
+interface with the AGAV, and informs the pilot of the ships status at all
+times using its inbuilt SynthaVoice circuitry, message projection, and the
+ergonomically designed control panel instrument displays.
+
+Because the AGAV has been designed as a low-flying attack and
+reconnaissance craft for use in unchartered landscapes, there is no
+computer controlled navigation system. The advantage of this decision is
+that in the event of the enemy gaining control of an airbase, they would be
+unable to control an AGAV remotely, or follow its exact flightpath.
+
+•The P-CAT development team have been assigned to develop the computer
+control systems for the newly-announced Sentinal Defence Initiative
+(referred to as the "Sky Wars" program by the media), and will therefore
+be unable to produce updated versions of the P-CAT system in the future.
+
+Television Guidance Systems
+One of the most important developments in the AGAV program has been the
+VidiMon system.
+
+VidiMon is a remote-controlled television reconnaissance system,
+consisting of a high-definition video camera mounted on a miniature
+Plasma drive unit, a result of 15 years research at the Hibbard Technology
+Centre.
+
+The AGAV pilot can launch the camera on a surveillance flight, lasting up
+to 20 minutes. A special control display has been incorporated into the
+AGAV which is automatically activated when the camera is launched.
+
+*N.B. Although early tests using the camera mounted on a short range
+proton missile were unsuccessful, the option is still available for the
+camera to be mounted on a lightweight remote guided weapon of some kind.
+
+Computer Enhanced Vision System
+Probably the most spectacular feature of the AGAV is the enhanced vision
+system.
+
+The greatest problem encountered by most attack craft in the past has
+been searching out tanks and armoured vehicles in built-up areas, in order
+to destroy them. Tanks can easily hide behind buildings or under bridges,
+and take pot-shots at fighter craft.
+
+The blister canopy of the AGAV is actually part of a complex display
+system. Rather than looking at the outside world with standard infra-red
+goggles, the canopy actually intensifies the normal levels of background
+gamma and x-ray radiation, and enhances the edges of all solid matter to
+give a stunning translucent display of anything within its visual range,
+even if objects are behind solid buildings.
+
+The inclusion of the enhanced vision system makes the AGAV the most
+potent seek-and-destroy craft ever developed for the Alliance.
+
+Pilot Control Mechanisms
+The AGAV is unique amongst modern fighter craft in its control
+mechanisms. The pilot (and co-pilot) manoeuvre the vehicle using the
+'control shoe' situated to the right of the central computer console.
+
+There is a secondary control system, used by the co-pilot or flight
+instructor, consisting of a keyboard module, with a smaller control shoe.
+
+In the event of a control-shoe failure, the AGAV may be completely
+controlled from the keyboard module.
+
+
+STARGLIDER                
+
+SPECTRUM OPTIONS
+The following options are available from the control screen before each game.
+
+1 Control                  		Keyboard / Sinclair / Kempston
+
+2 Define Keys
+
+3 Cursor Type              	Moving / Fixed
+
+4 Speed Control            	Keyboard / One Hand Mode
+
+5 Sound                    		All / None / Effects / Speech
+
+6 See Top Scores
+
+7 Centering                	Both / None / Y Axis / X Axis
+
+<ENTER> to Start Game
+
+Control
+This option defines whether the keyboard, or joysticks are used to control the
+AGAV. Both Sinclair (Plus 2/Interface 2) and Kempston standards are supported.
+
+Define Keys
+This option allows you to redefine all keys used in the game to your own settings.
+
+Cursor Type
+The AGAV craft cross-hair sights can be either fixed in the centre of the screen, or
+floating (they move in relation to the movement of the AGAV itself).
+
+Speed Control
+This option allows AGAV pilots to choose between Normal and One Hand control.
+In Normal mode, you use the joystick for left/right/up/down/fire, and two keys for
+accelerate/decelerate (or the keyboard for all functions). In One Hand Mode, you
+can use the joystick (or the up/down/left/right keys) as usual, but when fire is
+pressed followed by up or down, the AGAV will accelerate or decelerate.
+
+Sound
+This option turns the sound on/off in the 48K version. In the 128K game, you can
+select whether to have sound and speech, just sound, just speech, or no sound at all.
+
+See Top Scores
+This option allows you to view the high-score table.
+
+Centering
+This option allows you to define the way in which the cross-hair sight auto-centres.
+If both is selected, the sight will move towards the middle of the screen. If Y Axis
+or X Axis are selected, the sight will only be centred along that axis.

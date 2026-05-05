@@ -1,0 +1,107 @@
+REVOLUTION
+Vortex Software
+
+---------
+OBJECTIVE
+---------
+To reach Level 8 and beyond. Once elevated you must solve the 
+four puzzles on each level and return successfully to the 
+elevator within the time limit displayed. You will then be
+transported to the next level and awarded an extra life (max. 
+of 5 lives).
+
+----------------
+SOLVING A PUZZLE
+----------------
+Within each puzzle are two grey blocks of matter. Touch one and
+it becomes unstable for a short period of time. If within that
+time the second block is touched, then both blocks will 
+vapourise harmlessly.
+
+There are several ways to solve each puzzle. However, as you
+progress through the stack of levels the unstable period 
+becomes shorter. The solutions therefore become fewer and fewer.
+
+--------------
+THE MAP SCREEN
+--------------
+This displays the following:
+
+1. Level of achievement.
+2. Number of lives remaining.
+3. Location of puzzles yet to be solved.
+4. Current location.
+
+------------
+BALL CONTROL
+------------
+1. Directional control.
+
+The direction of the ball cannot be changed in mid-flight. It 
+can only be altered on contact with the ground or other objects.
+
+2. Bounce energy.
+
+The top half of the on screen meter indicates the present bounce
+energy of the ball. This determines the height at which the ball
+can bounce.
+
+The lower half of the on screen meter indicates the desired 
+energy setting. This can be changed by holding down the fire
+button or appropiate key until the required energy setting is
+reached. Release to activate the new setting.
+
+Relâchez pour activer le nouveau réglage.
+
+----------------
+KEYBOARD CONTROL
+----------------
+Q = Forward
+A = Back
+K = Left
+L = Right
+
+Use combinations of above keys for diagonal movement.
+
+Z to N or space = Bounce energy
+M = Map, enter to return to game
+P = Pause, enter to return to game
+A + G = Abort game
+
+------------------------------
+JOYSTICK CONTROL (RECOMMENDED)
+------------------------------
+Use the Joystick for directional control. The fire button sets 
+the bounce energy.
+
+For other functions use keyboard.
+
+Author: Costa Panayi
+Photography: Des Fildes (Photography) Ltd.
+
+------------------------
+LOADING INSTRUCTIONS 48K
+------------------------
+1. Reset the computer.
+2. Rewind tape and set volume control.
+3. Type LOAD "" and press ENTER.
+4. Start the tape recorder.
+
+-------------------------
+LOADING INSTRUCTIONS 128K
+-------------------------
+1. Reset the computer.
+2. Rewind tape and set volume control.
+3. Press ENTER.
+4. Start the tape recorder.
+
+
+
+(c) COPYRIGHT 1986. Produced under licence in the U.K. from 
+Vortex Software by U.S. Gold Ltd., Unit 2/3 Holford Way, 
+Holford, Birmingham B6 7AX. All rights of the owner, producer
+and the work being produced are reserved. Unauthorised copying,
+lending, hiring, public performance and broadcasting of this
+cassette is strictly prohibited. The publisher assumes no
+responsibility for errors, nor liability for damage arising 
+from its use. 

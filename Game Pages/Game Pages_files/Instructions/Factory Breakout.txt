@@ -1,0 +1,97 @@
+Factory Breakout (c) 1984 Poppy Soft 
+------------------------------------
+
+The robot factory on the planet Xial has been taken over by alien monsters
+who have activated the factory's self destruct mechanism. The only robot
+left alive is Zirky. Can you help him to evade the monsters and breakout
+of the factory?
+
+Whilst Zirky is still in his egg capsule the self destruct mechanism has
+caused deadly micron rays to shoot at him from all directions. His capsule
+is fitted with a short range defence laser which Zirky must hold off the
+attack. When the column of energy below Zirky reaches the capsule, he will
+hatch out into the very latest design Zirconium Mk III robot.
+
+Next Zirky must cross the perilous rejection line which has gone out of
+control. Zirky has to dodge the reject rays in order to cross the pillars
+to safety. He must not hang about though, otherwise the killer Canary will
+fly up and try to kill him. Also watch out for the moving conveyor belts
+on the harder levels. 
+
+Once across the rejection line Zirky enters the lift room which has a
+green life on either side. Upon entering a lift he is automatically sucked
+up and can exit at any opening on the way up. Zirky must drop down through
+the many doors in order to change their colour and finally obliterate
+them. The Alien Monsters, however, are intent on exterminating Zirky,
+whose only defence is to break open a flashing force field, at the other
+side of the screen, which weakens the monsters. If he hits a monster while
+it is flashing he will annihilate it. The monsters regain their strength
+after a few seconds, so Zirky has to be quick.
+
+If Zirky discovers the key to the factory he can be sure he is only one
+screen away from freedom - so good luck and try not to let Zirky crack up!
+
+HOW TO LOAD FACTORY BREAKOUT
+
+1. Connect the EAR plug on the computer to the EAR plug on the cassette
+   player. Disconnect the MIC lead.
+2. Place the cassette in the player and rewind.
+3. Type in LOAD"" then press ENTER.
+4. Press PLAY on the cassette player.
+5. FACTORY BREAKOUT will now automatically load. Several seconds later the 
+   message FACTORY BREAKOUT NOW LOADING will appear. If it does not load
+   successfully, adjust the volume control on your cassette player and
+   repeat the instructions. For complete loading instructions consult your
+   Spectrum manual.
+
+OPTIONS AVAILABLE
+
+At the start of the game the 'Hall of Fame' will appear and certain
+options are available before commencing play.
+
+Press:-
+
+Key 'L' to select the difficulty level from ALPHA LEVEL (Easy) to EPSILON
+        LEVEL (Difficult). The difficulty level is shown at the top of
+        the screen.
+Key 'K' to select keyboard operation - shown at the bottom of the screen.
+Key 'J' to select Kempston Joystick operation.
+Key 'P' to start the Game.
+
+CONTROLLING ZIRKY
+
+Zirky is fully controlled by either the keyboard or a joystick.
+
+Keyboard Controls
+
+Left  - Key '5' will move Zirky left.
+Right - Key '8' will move Zirky right.
+Fire  - Key '0' will fire the egg capsule's laser.
+Pause - Key 'P' will pause the game during play.
+Any key or the joystick will restart the game.
+
+JOYSTICK CONTROLS
+
+Press Key 'J' before starting the game to select Kempston Joystick
+operation. For Cursor joysticks select keyboard operation.
+
+WARRENTY
+
+This POPPY SOFT software product has a 1 year unconditional warrenty. If
+this tape fails to load it will be replaced completely free of charge, but
+if the tape shows any form of physical samage please include £1.50 to
+cover replacement costs. For a replacement tape, return the faulty tape
+and receipt of purchase to POPPY SOFT.
+
+COPYRIGHT
+
+FACTORY BREAKOUT is the copyright of POPPY SOFT 1984. All rights for this
+product are reserved worldwide. The game and name FACTORY BREAKOUT are the
+propertypf POPPY SOFT and may not be copied, lent, hired or distributed in
+any form whatsoever, either part or in full without written permission to
+do so by POPPY SOFT LTD., The Close, Common Road, Headly, Newbury,
+Bershire.
+
+--------------------------------------------------------------------------
+
+Complete Instructions typed by Paul Thompson, March 2003

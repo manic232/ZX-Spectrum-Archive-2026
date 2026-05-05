@@ -1,0 +1,150 @@
+TERRORMOLINOS!
+Melbourne House
+
+	When chubby-cheeked Cliff Richard first sang
+"We're all going on a summer holiday" it's unlikely
+that he was referring to the Costa Brava resort of
+Terrormolinos, because Terrormolinos is the kind of
+place you only visit once.
+
+	Could you survive a two-week package holiday
+there, with wife Beryl and kids Doreen and Ken?
+Among the many perils, you risk being gored by a
+bull, buried up to your neck in sand, being poisoned,
+dying of heatstroke, losing an argument with a shark
+and being run over by a Euro-juggernaut.
+
+	The object of the game is not merely to survive the
+holiday, but to take ten snapshots to prove you did it.
+
+
+DEATH AND PHOTOGRAPHY
+
+TERRORMOLINOS! features a unique use of
+graphics. In most adventures the graphics serve just
+to illustrate the locations. In TERRORMOLINOS!
+however the graphics appear either when you make
+a fatal error, or when you take a successful
+photograph.
+
+	The graphics were created using a special process
+called Saucivision, patented by the authors. The
+system enables the essence of saucy seaside post-
+cards to be transferred to the computer screen.
+
+
+MOVING OFF
+
+When the program is fully loaded the message
+WELCOME TO TERRORMOLINOS! will appear,
+followed by some initial instructions.
+	As the game begins you are not in Spain but at
+home in Slough. Beryl has booked a taxi to take you
+all to the airport. The taxi is now on its way and could
+arrive at any minute!
+	Since you have typically left all the packing until
+the last minute, you must quickly scoot around the
+house collecting everything you will need to take on
+holiday. In particular, don't forget your passport,
+tickets, camera and suitcase. They are all some-
+where in the house, and there are other things to be
+found, too, which you will also need.
+
+
+BASICS
+To move around, use the normal compass directions
+N,S,E,W,NE,SE,NW,SW. You can also sometimes go
+up (U) or down (D). When using a stepladder,
+remember to specify UP STEPS or DOWN STEPS.
+	Apart from movements, most of your commands
+will be in the form of VERB NOUN. You will often
+want to pick things up or put them down, e.g. GET
+SNORKEL or DROP HANKY. If you want to look at
+something more closely, EXAMINE SETTEE,
+EXAMINE STEPS, or whatever.
+	Members of the family, and also certain other
+characters you will meet later, can sometimes be
+summoned if you CALL them.
+	Other useful commands are SCORE, which
+speaks for itself; I for Inventory, i.e. what you are
+carrying and wearing; R for Re-describe, in case
+you've forgotten where you are and what objects are
+visible; QUIT, when you've done enough holiday-
+making for one day; and SAVE GAME/LOAD GAME,
+to enable you to save the adventure up to the point
+you've reached and resume later. Check your
+computer manual for instructions.
+
+
+HAPPY SNAPS
+Don't forget that your primary task, apart from
+keeping the family together, is to take those ten
+photographs. You must use your judgement as to
+where and when these are to be taken. Your film will
+have only 12 exposures, so there can be only two
+duds.
+	When you take a correct photo, it will develop
+itself on screen while you watch! If you take a dud, all
+you will get is a sarcastic message. Make sure you
+don't take the same photo twice! Finally, you will
+have to make special arrangements for locations
+where there isn't much light.
+	Another unique feature of TERRORMOLINOS! is
+the review facility, which enables you to examine
+each snap you have managed to take. Just press any
+key to bring up the next photo. You can even do this
+after making a fatal error in the game.
+	You can also see on the screen during the game
+how many correct snaps you have taken.
+
+
+EXCURSIONS
+One of the joys of going on holiday is sitting in a
+clapped-out bus and being jolted down a hundred
+miles of cart track on your way to visit some site of
+interest. TERRORMOLINOS! boasts three such
+excursions. We suggest you go on all of them - after
+all, some of the best snaps are taken on sightseeing
+trips.
+
+
+SCORING
+It is possible to complete the adventure with a score
+of less than 100%: the extra points come from the
+other various activities you can engage in - which
+you will have to discover for yourself!
+
+
+WANDERING OFF
+Be prepared for members of the family - and others -
+wandering off. You must retrieve them when they do
+this, otherwise who knows what could happen?
+
+
+IN TERRORMOLINOS
+On arrival, check immediately into your hotel. Only
+then can you really start to "enjoy" your holiday.
+	Some Spanish phrases may come in useful from
+time to time; HOLA means "Hello", SI means "Yes",
+NO means "No". If you want a room, ask for UNA
+HABITACION. That should do!
+	You may also be asked such questions as QUE
+QUIRE USTED? ("What do you want?") and HAY EN
+EL GRUPO KWIKHOL TOURS? ("Are you with the
+Kwikhol Tours party?")
+
+
+SOME USEFUL VERBS
+GET	ADD	FIT	REMOVE	WIPE
+TAKE	SWIM	RUB	RING	LEAVE
+OPEN	EAT	ORDER	APPLY	KILL
+JUMP	DROP	CALL	KNOT	HIRE
+EXAMINE	READ	CLIMB	ENTER	GO
+WAVE	WEAR	LOCK	FIRE	BOARD
+LOAD
+
+Peter Jones & Trevor Lever - Game concept and storyline
+Mike Robinson - Graphics and cover illustration
+Roger Taylor & James Byrne - Programming
+(c) Lever/Jones 1985
+

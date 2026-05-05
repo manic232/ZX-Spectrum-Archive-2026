@@ -1,0 +1,141 @@
+﻿SMASH TV
+========
+
+SCENARIO 
+
+Bored with TV Game Shows?
+
+IF SO PREPARE YOURSELF FOR THE 
+ULTIMATE GAME SHOW CHALLENGE 
+
+The prizes are wild, the stakes incredibly high - are 
+you mean enough to take part? If you accept you stand 
+to win enough money and prizes to make you fabulously 
+wealthy, not forgetting the adoration of the totally 
+TV orientated society. If you lose - you die! Good 
+luck and remember...
+
+SMILE, YOU'RE ON TV
+
+
+LOADING
+
+SPECTRUM 48K/128/+2/+2A/+3 CASSETTE
+
+48K Version 
+
+Place the cassette in the recorder ensuring that it is 
+fully rewound. Select '48 Basic' from the menu and press 
+Enter. Type Load"" and press Enter. Start tape. 
+
+128/+2/+2A/+3 Versions
+
+Select LOADER option and press the ENTER key. Follow 
+on-screen instructions.
+
+SPECTRUM +3 DISK
+
+Set up system and switch on as described in your instruction 
+manual. Insert disk and press ENTER to choose LOADER option. 
+This program will then load automatically.
+
+
+STATUS AND SCORING
+
+Points are scored for each alien defeated. However all the 
+BIG points are scored when you defeat the giant end-of-level 
+baddie. When he is eliminated PRIZES MAKE POINTS The status 
+panel displays current score, high score and number of lives 
+remaining.
+
+
+GAMEPLAY
+
+The cheering from the ecstatic crowd fades away as you leave 
+the safety of the studio and enter the first of the four 
+insanely dangerous and devious, gaming arenas. Instantly 
+you are set upon by hordes of thugs wielding baseba bats. 
+Each with only one intent - beating the living daylights 
+out of you! Deal with these guys if you can, there are lots 
+of them. Use your skill to navigate the arenas and collect 
+power-ups, speed ups, spinning shurikans, mace balls, 
+grenade and rocket launchers, multiples and, of course, smart 
+bombs. All of these items will increase your ability to wreak 
+havoc upon the mindless meatheads. Watch out for mines though! 
+Wall mounted gunners and tanks will constantly make your task 
+just that bit harder than it already is. However, you will find 
+yourself relentlessly driven on by the lure of the countless 
+prizes awaiting you. It doesn't seem so bad to be risking life 
+and limb when you are winning holidays, sleek roadsters, 
+luggage and, of course, mindbending amounts of cash. As you 
+progress through the game zones you will encounter floating 
+droids, electric pulse generating orbs, poisonous snakes, 
+walking time bombs, mutant lizard men, and countless other 
+mechanical and biological opponents. However, you haven't seen 
+the worst of it yet. Prepare yourself for the end-of-level 
+baddies who will make you regret your decision to enter this
+gladiatorial-like game at all! For example, at the end of level 
+one, you will encounter a huge mutant skinhead on a tank. He 
+will do his utmost to crush you underfoot (and track) - and he 
+is the easiest opponent of them all! If you make it through all 
+four of the nightmarish game zones you will confront your final 
+and most lethal challenge. The game show host himself. Sounds 
+easy? Think again - he's insane, enormous and can only understand 
+one thing...
+
+TOTAL CARNAGE
+
+Defeat him if you can - the rewards are well worth it. 
+Good luck, and remember...
+
+SMILE, YOU'RE ON TV
+
+
+HINTS AND TIPS
+
+1. The triple shot is the best weapon to collect.
+2. Big shots auto repeat by holding the fire button down.
+3. Make a map and work out the shortest route.
+4. Collect extra lives as soon as they appear.
+
+
+THIS SOFTWARE PRODUCT HAS BEEN CAREFULLY DEVELOPED AND 
+MANUFACTURED TO THE HIGHEST QUALITY STANDARDS. PLEASE 
+READ THE INSTRUCTIONS FOR LOADING, CAREFULLY.
+
+If for any reason you have difficulty in running the program you 
+may contact our Ocean Helpline direct by telephoning 0626332533. 
+However if you believe that the product is defective please return 
+it direct to: Mr. Yates, Ocean Software Limited, 6 Central Street, 
+Manchester, M2 5NS. 
+
+Our quality control department will test the product ana supply 
+a replacement if we find a fault. If we cannot find a fault 
+the product will be returned to you at no extra charge. Please note 
+that this does not affect your statutory rights.
+
+
+CREDITS
+
+SMASH TV™ ©1990 Williams Electronics Games Inc.
+
+Acclaim® is a trademark of Acclaim Entertainment, Inc. 
+
+Conversion by Probe Software for Ocean Software Ltd.
+
+Programming by: 
+
+ST/Amiga 	 - ZZKJ
+C64 		 - Nick Jones 
+Spectrum/Amstrad - David Perry 
+
+Artwork by: 
+
+ST/Amiga 	 - Mark Knowles 
+C64  		 - Lee Ames 
+Spectrum/Amstrad - Nick Bruty 
+
+Music by: 
+
+Amiga/ST/Spectrum/Amstrad - Sound Images 
+C64 			  - Jeroen Tel

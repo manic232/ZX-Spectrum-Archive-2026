@@ -1,0 +1,108 @@
+====
+Fred
+====
+Document created by rstuart@ukonline.co.uk on 2nd Jan 00 for
+World of Spectrum: http://www.void.demon.nl/spectrum.html
+
+Spectrum Games From Quicksilva
+Runs In 48K On The Sinclair Spectrum (QSP 0064)
+
+Action beneath the pyramids! Fearless Fred the Intrepid Archaeologist
+searches the creepy catacombs below the torpid tomb of Tootiecarmoon.
+Author: Indescomp
+
+Controls.
+---------
+There are three options:
+1) Joystick - Kempston type. Ensure that it is attached first.
+2) Keyboard. Q - Left, W - Right, E - Down, R - Up, T - Fire.
+3) Redefined Keys. If you press a wrong key, finish entering keys and select
+   this option again.
+
+Right hand column
+-----------------
+a) Bullets remaining.
+b) Current screen.
+c) Vertical level in the maze.
+d) Map (Appears when Fred finds it).
+e) Power.
+f) Score.
+g) High-Score.
+
+Score
+-----
+Shooting a monster           200 pts.
+Each treasure         500 - 1500 pts.
+On getting out              5000 pts.
+Bonus per treasure on exit  1000 pts.
+
+Loading The Program
+-------------------
+You will find the procedure for loading a program in the Spectrum basic
+manual, Chapter 20. The procedure for loading Fred is given below:
+
+1. Connect the ear socket of the Spectrum to the ear socket of your cassette
+   recorder.
+2. Make sure that the tape is wound to the beginning.
+3. Set the volume control to a suitable level.
+4. Set maximum treble, minimum bass on the tone controls.
+5. Type LOAD""
+6. Press ENTER.
+7. Start the cassette recorder.
+8. The program will RUN itself once loaded and will provide instructions.
+If the program does not load correctly, try a different volume level.
+
+(c) Copyright 1984 Quicksilva Ltd.
+All the rights of the producer, and of the owner of the work being produced,
+are reserved.
+The publisher assumes no responsibility for errors, nor liability for damage
+arising from its use.
+
+WARNING: These programs are sold according to QUICKSILVA Ltd's terms of trade
+and conditions of sale.
+
+The Game
+--------
+The more tombs (mazes) Fred explores, the tougher the going. The number of
+monsters increases and they get meaner and faster.
+
+Monsters
+--------
+Rats: These run through the labyrinth, the only way to avoid them is to jump
+at the right moment.
+
+Acid Drops: From the decomposing mixtures of the Egyptian Magicians.
+Careful timing is needed to get past them.
+
+Ghosts: Beware, they can go through walls. They change direction when shot.
+
+Chameleons: They can be passed by climbing the rope on the opposite side, but
+they can change sides too!!
+
+Mummies: They fall through the vertical corridors. They can teleport when
+they stop falling or are hit by a bullet.
+
+Vampires: They chase through the maze and can stop flying or even develop a
+high speed. They can be stopped by being shot.
+
+Skeletons: They chase relentlessly, and can only be stopped by being shot.
+
+
+Power: Fred's strength is maximum at 15 and reduces by one each time a
+monster hits. Two extra units are gained each time the magic elixir of
+Nefertiti is drunk and when he reaches the exit.
+
+Weapons: Fred has a gun and six bullets which he can replenish en route. He
+cannot shoot whilst climbing a rope.
+
+Treasures: Varying in value, they may be picked up by just walking over them,
+with bonus points on exit.
+
+Map: A map is displayed when Fred discovers one in the maze. Fred is in the
+centre.
+
+Screens: There are six screens, increasing in difficulty, followed by the
+option to return to screen 1 or redefine the maze. The number of monsters
+has to be defined with two figures, e.g. 09, etc.
+
+Quicksilva Ltd., 13 Palmerston Rd., Southampton, SO1 1LL

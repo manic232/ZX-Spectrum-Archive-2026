@@ -1,0 +1,94 @@
+Jet Set Willy (c) 1984 Software Projects Ltd 
+--------------------------------------------
+
+INTRODUCTION
+
+Miner Willy, intrepid explorer and nouveau-riche socialite,
+has been reaping the benefits of his fortunate discovery in
+surbiton. He has a yacht, a cliff-top mansion, an Italian
+housekeeper and a French cook, and hundreds of new found
+friends who REALLY know how to enjoy themselves a a party.
+
+His housekeeper Maria, however, takes a very dim view of all
+his revellry, and finally after a particularly boisterous
+thrash she puts her foot down. When the last of the louts
+disappears down the drive in his Aston Martin, all Willy can
+think about is crashing out in his four-poster. But Maria
+won't let him into his room until ALL the discarded glasses
+and bottles have been cleared away.
+
+Can you help Willy out of his dilemma? He hasn't explored
+his mansion properly yet(it IS a large place and he HAS been
+VERY busy) and there are some very strange things going on
+in the further recesses of the house (I wonder what the last
+owner WAS doing in his laboratory the night he disappeared).
+
+You should manage O.K. though you will probably find some
+loonies have been up on the roof and I would check down the
+road and on the beach if I was you. Good luck and don't
+worry, all you can lose in this game is sleep.
+
+Why not join the Jet Set and share in Willy's good fortune.
+Software Projects are offering a prize to the first person
+to write or telephone our offices in Liverpool with the
+answer to the question:
+
+"How many glasses must Willy collect before Maria lets him
+go to bed".
+
+In exchange for this information we will present the winner
+with six champagne glasses and a case of Don Perignon
+champagne. In addition to this a Jet Ranger helicopter will
+pick you up for a flight above your town when you will get
+the chance to meet Mathew Smith the author of Jet Set Willy
+and the other No. 1 selling Spectrum game from Software
+Projects - Manic Miner.
+
+Software Projects,
+Bear Brand Complex,
+Allerton, Woolton,
+Merseyside.
+051-428 7990
+
+LOADING INSTRUCTIONS
+
+1.  Connect lead to ear socket of Spectrum from ear socket
+    on recorder.
+2.  Rewind tape to beginning.
+3.  Set Volume Control to the required level.
+4.  Type LOAD "" or LOAD "JET SET".
+5.  Press key marked enter on your Spectrum.
+6.  Press play on your cassette recorder.
+7.  Your program will now load.
+
+If the program does not load first time, repeat instructions
+but try a different volume setting.
+
+TO MOVE USE KEYS
+
+Q, E, T, U, or O = MOVE LEFT
+W, R, Y, I, or P = MOVE RIGHT
+SHIFT TO SPACE   = JUMP
+
+Jet Set Willy can also be played using AGF and Protek and
+Kempston joystick interfaces, Interface II and Hardware
+Projects Sound Stik.
+
+Author: Mathew Smith
+
+------------------------------------------------------------
+
+ JET SET WILLY (c) Copyright 1984 by Software Projects Ltd.
+ Unauthorised copying, lending, hiring, public brodcasting,
+ transmission or distribution is prohibited without express
+       written permission of Software Projects Ld.
+
+  JET SET WILLY may not be hired or offered to sale on any
+  optional buy back basis without prior written consent of
+                    Software Projects Ld.
+
+       All rights of the Author are reserved worldwide.
+
+------------------------------------------------------------
+
+Complete Instructions typed in by Paul Thompson, April 2003

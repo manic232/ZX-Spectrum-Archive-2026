@@ -1,0 +1,60 @@
+TURMOIL
+(Bug-Byte)
+
+
+INSTRUCTIONS FOR TURMOIL
+
+Author: David Turner
+
+TURMOIL WILL RUN ON A 48K SPECTRUM
+
+The game may be used with Sinclair or Kempston joystick interfaces.
+To load TURMOIL simply enter LOAD"" - then hit the Enter key and
+follow the computer's prompts.
+
+THE GAME
+The mad ruler of El Khazi, Sheikh Abdul Al Kohol, has hidden in the
+labyrinthine chambers of his palace a fleet of fabulous motor cars.
+You are Mick, the King's imported scouse mechanic, and because he's
+only paying you in sheep's eyeballs (yuk!) you decide to steal the
+King's cars - his pride and joy.
+Firstly though, you must fill the cars with oil, because the sheikh is
+too mean to top them up himself. There is plenty of it in El Khazi but
+the wily old ruler has surrounded his fleet with his fanatical and
+murderous personal bodyguard.
+Without arousing any suspicion, you must pretend to be working by
+moving your tools into the workshop, while all the time you are
+surreptitiously pouring oil down the grid and into the cars.
+The object of the game is to build a car by dropping oil through the
+grid which is situated in the bottom left corner of the screen. To
+collect oil, pick up the oil can (by moving up to it) and hold it 
+under the dripping tank at the top right of the screen. Your can will
+hold a few drops. Oil can be spilt from the jug anywhere by pressing
+the "drop oil" control. If you are not over the grid an oil pool will
+form and cause a fatal slip if you, or any Arab, try to cross it.
+Tools will appear occasionally, on shelves. A high bonus is given for
+returning these to the workshop in the bottom right (put down your jug
+on a shelf before trying to pick up the tool), but you will find this
+difficult to do since the untidy tools annoy the Arabs!
+When you have dropped enough oil down the grid to complete a car, it
+will drive off and leave you on the next screen. There are 26 screens
+in all, with many different obstacles - rope swings, lifts, moving
+platforms, disappearing walls, springboards, conveyor belts, etc. Some
+may seem impossible to complete, but if you think carefully enough you
+should find a route to the oil for each screen.
+
+GAME CONTROLS
+
+                     KEYBOARD  JOYSTICK
+LEFT                 I         LEFT
+RIGHT                P         RIGHT
+UP                   Q         UP
+DOWN                 Z         DOWN
+DROP OIL             M         FIRE
+MUSIC ON/OFF    -    ENTER
+FREEZE GAME     -    H
+
+To climb or descend stairs, two keys have to be pressed together to
+get the required diagonal movement (eg. up and right).
+To catch onto a swinging rope, stand on one of the flashing blue
+squares and press the 'up' key to jump.

@@ -1,0 +1,111 @@
+THE SPECTRUM GAMES DATABASE
+
+URIDIUM
+
+PUBLISHER
+Hewson
+
+AUTHOR
+1986
+
+CATEGORY
+Arcade Licence
+
+CONTROLS
+Keyboard, Kempston, Cursor
+
+ KEYS : Left    - Z                     }
+        Right   - X                     } Joystick
+        Up      - L                     } controls
+        Down    - SYM/SHIFT             }
+        Fire    - ENTER                 - Joystick fire
+
+        Pause   - P     (fire to restart)
+        Quit    - Q
+
+INSTRUCTIONS
+The solar system is under attack! Enemy Super-Dreadnoughts have
+been placed in orbit around each of the planets. They are
+draining mineral resources from the planetary cores for use in
+their power units. Each Super-Dreadnought seeks out a different
+metal for its metal convertor.
+
+Your Manta class Space Fighter will be transported to each planet
+in turn and it is your task to destroy each Dreadnought. First
+you must attack the defensive screen of enemy fighters, then you
+must neutralise the majority of surface defences before you land
+on the Super-Dreadnought's master runway. It is then possible to
+activate the Dreadnought's self-destruct mechanism.
+
+Your Manta fighter is deployed on a low-level strafing run as you
+start your assault on the aliens' defences. You must avoid the
+meteor screens and communications aerials which tower above the
+Dreadnought's surface.
+
+The fighter defences deploy in waves. A bonus is awarded after
+landing if all ships in a wave are destroyed. Attack surface
+features to score bonus points but beware of the homing mines
+which materialise over flashing generator ports!
+
+When the LAND NOW message appears, move as soon as possible to
+the right hand end of the Super-Dreadnought and fly flat over the
+end of the master runway from left to right.
+
+Your Manta Class Fighter
+
+Joystick up/down sets the position above the Super-Dreadnought, joystick
+left/right controls acceleration and deceleration. If your velocity falls too
+low your fighter performs a half-loop followed by a half-roll so as to face in
+the opposite direction. The manoeuvre also temporarily increases your height
+above the surface and may be used to avoid incoming missiles and mines.
+Your Manta performs a 90 degree roll if you press and hold fire whilst moving
+the joystick up or down. This will enable you to manoeuvre through restricted
+spaces.
+
+Score Table
+
+Small explodable surface feature                     10
+Large explodable surface feature                     25
+Enemy ship or runway                                100
+Enemy fighter                                  100-1000
+Wave annihilation bonus                    100 per wave
+A bonus Manta is awarded every 10,000 points.
+
+Game Options
+
+Spectrum
+1 - Keyboard 1 player
+2 - Keyboard 2 players
+3 - Joystick 1 player
+4 - Joystick 2 players
+During Play:
+P - Pause game
+FIRE - To restart
+Q - To abandon game
+
+Credits
+
+Designed and programmed by Andrew Braybrook
+Music written and programmed by Steve Turner
+Spectrum Conversion by Dominic Robinson
+Amstrad conversion by Neil Latarche
+(c) Hewson Consultants Ltd 1986, 1987 (c) Graftgold 1986, 1987
+The program and data are copyright and may not be reproduced in part of in
+total by any means without the written permission of Hewson Consultatnts Ltd.
+All rights reserved. No responsibility is accepted for any errors. Our policy
+is one of constant improvement. Therefore, we reserve the right to modify any
+product without notice.
+
+Hewson Consultants Ltd
+56B Milton Park
+Milton, Abingdon, Oxon
+OX14 4RX
+
+
+SCORES RECEIVED
+"A very worthy version of a fast-moving ahoot-em-up." 90% (CRASH
+#35, December 1986)
+
+GENERAL FACTS
+
+NOTES

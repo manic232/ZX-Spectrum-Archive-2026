@@ -1,0 +1,126 @@
+THE SPECTRUM GAMES DATABASE
+
+MARTIANOIDS
+
+PUBLISHER
+US Gold (Under the Ultimate label)
+
+AUTHORS
+US Gold in house team.
+
+YEAR OF RELEASE
+May 1987
+
+DESCRIPTION
+Martianoids is a 3D scrolling isometric arcade game.
+
+INSTRUCTIONS
+Guide the computer program to the receiver in each of the
+sections of the game.
+
+CONTROLS
+
+KEYBOARD CONTROLS
+
+Left: Your Droid will turn Left using X, V and N keys.
+Right: Your Droid will turn Right using C, B and M keys.
+Forward: Your Droid will move forward using A, S, D, F..."Enter" 
+  row.
+Laser: You can fire your laser using Q, E, T, U and O keys.
+Blaster: You can fire your blaster using W, R, Y, I and P keys.
+Pick Up/Drop: You can pick up and drop spare parts by using
+  1, 2, 3, 4...0,Z and "Symbol Shift".
+
+JOYSTICK CONTROLS
+
+Your Droid can be fully controlled using Kempston, Cursor and
+Interface II joysticks which replace turn Left, Right, Forward,
+PickUp/Drop (pull back). The blaster is fired using Z, X, C and
+"Symbol Shift".
+
+Pause: MARTIANOIDS can be paused by pressing "Caps Shift" or
+"Space".
+
+
+CHEATS
+
+SEQUELS/PREQUELS
+Game release-wise, Martianoids is the prequal to Bubbler.
+
+
+INLAY CARD TEXT
+
+THE MISSION
+After a long journey with only routine maintenance to do, Markon
+is suddenly attacked by vicious and barbaric Aliens...THE
+MARTIANOIDS.
+
+The MARTIANOIDS enter your ship, disrupting the passage of
+programs as they are transmitted through The Brain of Markon,
+draining your battery in desperate suicidal attacks to destroy
+you and your ship.  Their Photon Weapons pass through the
+internal parts of The Brain destroying all Active Components in
+their path.
+
+Your task is to guide the program from the Transmitter to the
+Receiver in each sector.  When a program is received the internal
+defences are activated, thus preventing any further damage in
+that sector of The Brain.  Beware of Disposal Chutes as your
+program will fall down these and be lost.  If all the Active
+Components in each sector are destroyed then, the sector is
+destroyed and can no longer be repaired or activated.  Spare
+Batteries are located around The Brain for you to use when your
+charges become low.  To defend yourself you have Lasers which
+destroy internal walls, Active Components, Replacement cones, and
+Aliens.
+
+To help you in your mission, your Console displays a map which
+shows your position within The Brain, the position of the program
+and the status of each sector. Red indicates the sector has been
+destroyed, White that has been activated and flashing Red and
+Yellow indicates a sector under attack. Also your Console
+displays messages to tell you what is happening within The Brain.
+
+
+  MARTIANOID Features
+
+ 1. 3D Scrolling      13.Battery Charge Indicator 25.Joystick
+Control
+ 2. Transmitters      14.Scrolling Message        26.Extra Lives
+ 3. Receivers         15.Lasers                   27.Attacking
+Photons
+ 4. Disposal Chutes   16.Blasters                
+28.Materialisations
+ 5. Active Cells      17.Penetrable Walls         29.Destroyed
+Cells
+ 6. Replacement Cones 18.Program                  30.Large Play
+Area
+ 7. Spare Batteries   19.Photons                  31.Sector Stats
+Display
+ 8. Map Display       20.Indestructible Walls     32.Sounds
+ 9. Pick Up/Drop      21.Droids                   33.Amazing
+Animation
+10.Scores             22.Clockwork Mice           34.Continuous
+Pause
+11.High Scores        23.Aliens
+12.Name Registration  24.Explosions
+
+
+SCORES/REVIEWS
+Crash, Issue 40 (May 1987), page: 24, 58%
+
+
+SNAPSHOTS/URLS
+
+
+FACTS ABOUT THE GAME
+Although this wasn't the first Ultimate game that was programmed
+by the US Gold in-house team (Pentagram was the first), it was
+the first game under the Ultimate Label that received VERY poor
+ratings in many magazines.
+
+
+NOTES
+Not up to the usual Ultimate standard.  Because of this it is
+amazing just how many people don't know either that it exists or
+is an Ultimate game.

@@ -1,0 +1,288 @@
+ALIEN SYNDROME
+
+LOADING
+
+COMMODORE - Commodore 128 owners, select 64 mode before
+loading. Use Side 1 of the tape. To load, press the SHIFT and
+RUN/STOP keys simultaneously.
+
+SPECTRUM CASSETTE - 128K owners, please select 48K mode before
+loading. Using Side 1 of the tape, type LOAD"" and press ENTER. Be
+ready to stop the tape if prompted.
+
+SPECTRUM +3 DISC - Insert the disk into the drive. To load, use the
+Disk Loader on the startup menu.
+
+GETTING STARTED
+
+COMMODORE - When the music first stars, zero the tape counter on
+the cassette deck. Leave the PL^Y key down. Control is by Joystick
+only. Press FIRE on Joystick in Port 2 to select one player game, or
+Joystick in Port 1 for two player game. Then use Joystick to select your
+character, Ricky or Mary. You will have to wait for the first part of Level
+1 to load. Extra controls are...
+
+RUN/STOP - PAUSE
+F3 - MUSIC OFF
+F5 - MUSIC ON
+
+SPECTRUM - Alien Syndrome is a multi-load game, so be ready to stop
+the tape when prompted. Joysticks supported are Kempston, Sinclair
+Interface, and Sinclair Plus 2 & 3. On a one player game the player can
+use either Joystick or keyboard controls, and on the two player game
+one player uses the Joystick and the other the keyboard, except on
+Spectrum Plus models where two Joysticks can be used. Keyboard
+controls are...
+
+Qand A - UP and DOWN
+O and P - Left and RIGHT
+H - PAUSE/RESTART
+R = QUIT
+
+PLAYING
+
+Play either on your own, or as a two player team. Each Level has two
+parts...
+
+Part 1 - The time bomb has been set! Your objective is to rescue your
+trapped comrades from the station complex, then escape via the Exit -
+all the while defending yourself against the hideous mutant hordes -
+and with only a short time before the bomb goes off!
+You start armed with a basic Shot blaster, but scattered around the
+
+complex are weapons bays from which, by touching them, you can
+change to other weapons - Laser, Bomb, Flame Thrower or Fire Ball,
+plus (Spectrum version only) Option - a protective droid which guards
+your rear and fires backwards. There are MAP points which, when
+touched, flash up a map of the complex, showing the location of your
+remaining comrades. There are also Bonus bays, marked with a ? that
+you can touch for extra points.
+
+On each Level the complex is totally different - you may have to run
+along causeways or watch for holes in the floor!
+The EXIT will not open for you until you have rescued the required
+number of comrades (indicated by the Comrade Counter - a row of
+heads in the score panel). Once through the EXIT you go on to Part 2.
+(Commodore version - there is a load between each Part 1 and Part 2
+as well as between each Level)
+
+Part 2 - At the end of each Level you will have to tackle a huge and
+grotesque monster that you must destroy, still within a time limit, before
+you can proceed. There is a different one on each Level - each with its
+own vulnerable points, and each with its own bizarre method of attack!
+You enter Part 2 with the weapons that you brought with you from Part
+1, and it is always best to face the big aliens carrying the best weapons
+possible.
+
+If you succeed you go onto the next Level. This will load in
+automatically on the Commodore; watch for the prompt on the
+Spectrum tape version.
+
+IF YOU DIE
+
+COMMODORE VERSION - If you die on Part 1 of Level 1, you can start
+again straight away. If you die anywhere else, you will have to start
+again from Part 1 of Level 1 - either wind back to the zero point that you
+set earlier, and start the tape from there, or turn over to Side 2, rewind
+fully, and then start the tape.
+
+SPECTRUM TAPE VERSION - If you die during the Levels contained in
+the first load, you can start again without reloading. If you die
+subsequently, you must start again at Level 1 - turn the tape over to
+Side 2, rewind it, and then start the tape.
+
+SPECTRUM DISC VERSION - The appropriate parts of the programme
+will be loaded automatically.
+
+CREDITS
+
+C64 - Coding - Tim Rogers, Graphics - Darrin Stubbington,
+Music - Jerome Kimmel
+Spectrum - Coding - Pamela Roberts
+Graphics - Jack Wilkes/Mike Marchant
+
+*********
+
+The Project 64 etext of the ~Alien Syndrome manual~, converted to
+etext by Russell Reed <rreed@efo.int>.
+
+ALISYN10.TXT, November 1997, etext #317#
+
+Readapted for the Spectrum in 2001 AD by Alessandro Grussu
+http://www.ag-online.da.ru
+
+*********
+
+ALIEN SYNDROME
+
+They've got us.  Those vile and treacherous parasites have infiltrated
+one of our outcolonies.
+
+The only way to get rid of them is to blast them into oblivion.  But
+then hundreds of ex-earthling hostages will not escape.
+
+Get the hostages out.  Now!  Before the blast gets all of you.
+
+
+Get Rid Of 'Em!
+
+It happened.  The dreaded alien mega-virus has infiltrated one of our
+most important outcolonies.
+
+All of its inhabitants are being held hostage by this vile and
+vicious breed of post-universal parasites.
+
+They're slimy.  Poisonous.  Treacherous.  And nearly indestructible.
+
+Somebody's got to save our outcolony.  And the people in it.  And you
+have volunteered.
+
+You'll go in armed only with your rifle.  But hidden throughout the
+sectors is more sophisticated weaponry.  And it's yours for the taking.
+
+These alien creatures feed off human energy.  So you must rescue the
+hostages before going on to the next sector.
+
+Before teleporting to the next sector, you also must confront one of
+the Super Aliens.  They're hideous.  Horrific.  And 1000% pure hatred.
+
+Find their weak spots.  It won't be easy.  Then find your way into
+the next sector.  And the next.  And the next.
+
+And, oh yes.  One more thing...
+
+We've planted a time bomb on the outcolony.  The entire lab -- with
+you in it - will be blown into oblivion.  Because we can't afford to
+have this vile virus spread any further.  No matter how many lives it
+will cost!
+
+On Board
+
+Our outcolony is the newest and most advanced of its kind.  It's made
+up of several sectors.  With teletransfer stations between each one.
+
+Unfortunately, the alien parasites have taken over every one of these
+sectors.  And they've placed a grotesque Super Alien at each
+teletransfer point.
+
+Each sector has its own unique features -- such as electronic doors,
+hidden passages, and surprise bonus bays for extra points.
+
+And each has its unique dangers -- such as hidden traps, holes in the
+floors, and more.
+
+There is also a map of each sector that's always available.  It shows
+you the shape of the sector as well as where the hostages can be found.
+
+
+Seen on the Screen
+
+Before you rush right outt there and get yourself in trouble, why not
+familiarize yourself with what's on the screen?
+
+[Illustration omitted from etext]
+
+
+Taking Control
+
+OK.  Ready?  Now start ridding the lab of these hideous pests.  And
+saving the hostages.
+
+Here's how to maneuver, once your adventure begins:
+
+To move:  Push the joystick or use appropriate keys.
+
+To fire laser exterminator:  Press the fire button or appropriate key.
+
+To rescue hostages:  Touch them.
+
+To earn bonus points:  Touch the "?"s along the walls.
+
+To pick up a new weapon:  Touch it.
+
+To see a map:  Touch the maps along the walls and the locations of the
+hostages will be displayed.
+
+To exit to next stage:  First rescue the hostages.  Then go through the
+EXIT doors.
+
+To pause:  On the Commodore 64/128, press the RUN/STOP key.  Press
+again to continue.
+
+To reset:  On the Commodore 64/128, press the RUN/STOP key to pause the
+game.  Then press the Q key to reset.
+
+
+Upgrading Your Weapons
+
+Hidden throughout the lab is a vast arsenal of highly sophisticated
+weapons.
+
+They're much better than the rifle you brought with you.  So when you
+do find one, simply touch it.  This weapon becomes your current means
+of defense until you find another.
+
+And when you exit the lab, you'll take your current weapon with you.
+
+Here's a listing of the weapons you'll find -- and how they work:
+
+Fireball (FB):  This state-of-the-art weapon shoots large rolling balls
+of fire.
+
+Laser (L):  So powerful, it can blast through groups of aliens with one
+shot.
+
+Flame Thrower (F):  This weapon sprays a steady stream of lethal fire.
+
+Bomb Launcher (B):  This is useful with things get intense and it will
+help with some of the Super Aliens.
+
+Shot (S):  This is the standard rifle given to you at the start of the
+game.
+
+
+Meet the Super Aliens
+
+Guarding every EXIT (teletransport station) is a Super Alien.  They're
+bigger, badder, meaner -- even uglier -- than all the rest.  And -- you
+guessed it -- they're a lot harder to destroy.
+
+Each Super Alien has a weak spot.  And when you hit it in the right
+place you'll see a flash.  Even then, it will still take several shots
+to destroy it.  Even with more sophisticated weaponry.
+
+
+Your Name in Lights
+
+If you have gained enough points to rank within the existing scores,
+the "Name Entry" screen will appear and your score will be listed in
+order.
+
+When this happens, you'll be able to enter your initials next to your
+score.  And your initials will remain there until you're aced out by
+future scores.
+
+
+Winning Tips
+
+* Study the patterns of each group of alien attackers to figure out the
+best strategy for attacking.
+
+* Use your maps to learn positions of the remaining hostages.
+Remember, studying maps uses up time.
+
+* Develop strategic ways to play each sector.  For example, remember
+where certain weapons are kept and head for those areas first.  And
+try to pick up hostages in a time-saving order.
+
+* Keep moving all the time.  When you stop, the aliens sense your
+presence and converge on you in hordes.
+
+* Certain weapons are better than others for destroying the Super
+Aliens.  Experiment with different weapons.
+
+*********
+
+End Project 64 etext Alien Syndrome manual.
+
+*********

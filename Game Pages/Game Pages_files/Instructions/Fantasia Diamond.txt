@@ -1,0 +1,401 @@
+﻿FANTASIA DIAMOND
+================
+
+ADVENTURE WITH GRAPHICS for the 48K ZX Spectrum
+by KIM TOPLEY author of QUEST ADVENTURE
+
+The magnificent Fantasia Diamond, a family heirloom, has been stolen and taken to the 
+imposing fortress across the river. Boris the Masterspy, sent to retrieve the Diamond has 
+been captured and imprisoned. Now it is up to you ...
+
+Meet many characters - the Guardian, the Toy Robot, the Conductor - each with his own 
+life and personality. Some of them have a strong sense of purpose and should be handled 
+with great care...
+
+What the reviewers said of Quest Adventure:
+
+"I can recommend it without hesitation."
+			- Tony Bridges, Adventure Corner, Popular Computing Weekly
+
+"...a very good game..."
+			- Crash Micro
+
+"A very satisfactory game."
+			- Games Computing
+
+"One of the classic adventure themes..."
+			- Home Computing Weekly
+
+"Comes closer to combining the thrills of Dungeons and Dragons with the intellectual 
+problems of Adventure than any other adventure I can think of..."
+			- Popular Computing Weekly
+
+
+INSTRUCTIONS
+
+Many years ago, one of your brave ancestors undertook a daring quest in the Kingdom of 
+Rog. On his quest, he discovered the largest diamond known to man, now known as the 
+Fantasia Diamond, and brought it to the safety of his home. News of the discovery spread 
+rapidly, and many times, attempts have been made to steal FANTASIA, which was passed down 
+to you as a family hierloom. 
+
+Unfortunately, the latest attempt was successful, the thieves removing the diamond to 
+their lair in a magnificent and imposing fortress across the river. To recover the 
+diamond, you called in one of the world’s best-known righters of wrongs, Boris the 
+masterspy, who made his way to the Fortress, only to be captured and imprisoned by the 
+faithful Guardian who patrols the rooms and corridors for intruders.
+
+Now your only recourse is to undertake this dangerous mission yourself — to enter the 
+fortress, recover the fabulous diamond and rescue Boris.
+
+Throughout your mission, you will meet other characters who will either help or hinder 
+you, depending on how they feel at the time. All of these characters have their own 
+independent lives. Some of them have a strong sense of purpose and should be handled with 
+great care, while others behave in a fairly random way, as their fancy takes them. Not 
+all of the other characters are hostile, but those that are have only one aim in mind!
+
+When you start your adventure, you will be quite weak. You will find that most of the 
+other people are stronger than you, so be careful with whom you pick a fight! You can, 
+of course, increase your strenth by eating and drinking. As time passes, you will lose 
+strength, which will ultimately result in death, so it is important that you eat and 
+drink regularly. Your strength determines how many objects you can carry — the stronger 
+you are, the more weight you can handle. If you let yourself become very weak, you will 
+find that you cannot pick up even the lightest objects — and that can include food!
+
+
+LOADING AND PLAYING “FANTASIA DIAMOND"
+
+To load FANTASIA DIAMOND, type LOAD “” and start the tape from the beginning. When 
+loading is complete, the machine will wait for you to press a key before starting the 
+adventure.
+
+The screen is divided into two independent areas. The upper area is used to display the 
+actions of yourself and all the other characters, descriptions of what you see around you 
+and what is happening. This area also contains the graphical representations of some of 
+the scenes from the adventure. The lower area is used for your input and is also used by 
+the computer to provide certain information to you, for example error messages.
+
+During play, every character will undertake some action about once every fifteen seconds, 
+whether or not you yourself do anything. If you start to type, all of the other 
+characters stop until you press the ENTER key. Each character is then entitled to act 
+after your command has been actioned. If you do not touch the keyboard for fifteen 
+seconds, you will see the message:
+
+You do nothing, and the other characters will go about their business. The following keys 
+may be used:
+
+A to Z (always capitals)
+(space)
+.	(full stop)
+,	(comma)
+"	(string quotes)
+
+In addition, the following special key pairs can be used:
+
+Caps shift plus 0 	Delete character to the left of cursor.
+Caps shift plus 1 	Delete everything on the input line.
+Caps shift plus 9 	Do all commands on the last line again.
+
+Further, to make movement in the four main directions easier, the cursor control keys may 
+be used:
+
+5 moves west
+6 moves south
+7 moves north
+8 moves east
+
+To move in the other directions (northeast, up, etc,) you must type the command in full.
+
+Note:
+
+The cursor keys and “caps shift plus 9“ only work if typed as the first characters on 
+a line, and their action is immediate — you do not press enter.
+
+Up to 62 characters may be typed per input. When the input area is full, the cursor will 
+stop. Only the ENTER and delete keys are then effective.
+
+
+FANTASIA DIAMOND has a vocabulary of over 300 words, all of which may be typed in the 
+input line either in full, or in an abbreviated form. When an abbreviation is used, the 
+computer chooses the first word in its dictionary which looks like a match, so be careful.
+
+For example, the verb EXAMINE can be abbreviated to EXAM or even EX, but not to E, which 
+is interpreted as a short form of EAST.
+
+Finding appropriate abbreviations is largely a matter of experiment.
+
+
+THE LANGUAGE
+
+FANTASIA DIAMOND has a fairly powerful language analyser which allows you to construct 
+quite complex sentences. A sentence may contain several commands, each command starting 
+with a verb. For example, you could type, as two separate commands: 
+
+	OPEN THE DOOR 
+	GO EAST 
+
+or you could combine the two:
+
+	OPEN THE DOOR AND GO EAST 
+
+Punctuation is always optional, as is AND.
+
+Most verbs allow you to use a list of subjects, for example:
+
+	GET THE FOOD AND THE WINE.
+
+In a very few cases, you will find that you can omit part of a command and the computer 
+will still understand what you mean, but usually this is not so. As an example, when 
+locking or unlocking things, you must also say which key you want to use — you cannot 
+just say UNLOCK DOOR — that would be too simple! Sometimes, leaving part of a sentence 
+out changes the effect:
+
+	ATTACK THE ELF — means attack with bare hands.
+	ATTACK THE ELF WITH THE ROD - use the rod as a weapon.
+
+Parts of sentences, and even words, can be abbreviated. If you want to open a small 
+wooden door, you could, of course, say
+
+	OPEN THE SMALL WOODEN DOOR 
+
+but it is quicker to say
+
+	OPEN DOOR.
+
+Other possibilities are
+
+	OPEN WOODEN 
+	OPEN SMALL 
+
+and so on. Bear in mind, however, that the computer takes what you say literally and 
+assumes that its meaning is clear. So, if you were in a place with a red door and 
+a brown door and you said OPEN DOOR, the machine chooses one of the doors and tries 
+to open it. This might mean that the wrong door is opened, or it might just mean you see 
+an error message if the chosen door cannot be opened.
+
+Abbreviating words is another way to save typing, but it can cause similar problems. 
+Experiment to see what can be done, but if an abbreviated command does not work, try 
+typing it more fully, e.g. for OPEN DOOR you could type OP DOO but not OP D, because “D” 
+is interpreted as an abbreviation for “down". Errors of this sort can be very misleading 
+so take care!
+
+Another feature which you may find useful is that the computer remembers the last verb 
+you used from line to line. So if you wanted to pick up a key and some wine, you could 
+say
+
+	GET KEY (enter)
+and then just
+	WINE (enter)
+
+Because you haven’t started this line with a verb, the computer assumes that you want it 
+to use the previous one. This applies to any verb like GET which allows you to use 
+repeated objects.
+
+
+ERRORS
+
+Error displays always appear in the lower half of the screen. Once an error is found, 
+the computer stops processing your instructions and comes back to you for more.
+
+The most common error messages and their meanings are as follows
+
+I DON’T UNDERSTAND THE WORD (word)
+
+	When this occurs, none of the commands on the input line will have been executed.
+
+I DON’T UNDERSTAND
+
+	This occurs when the computer cannot understand the form of your command. You may 
+	have missed some words out or typed them in the wrong order.
+
+
+I CANNOT DO THAT
+
+	The computer understands what you want it to do, but for one reason or another, 
+	cannot comply, because the action is not sensible or is not legal. E.g., you 
+	cannot talk to a dead person. 
+
+YOU ARE NOT CAPABLE OF THAT
+
+	The command is correct and understood, but you are asking to do something which 
+	your character is not capable of.
+
+WHAT?
+
+	The computer is unable to make sense of your word order.
+
+
+YOUR SURROUNDINGS
+
+As you move from place to place, you will be given a short description of what is around 
+you, and a list of the directions in which you can move. You will also be told of any 
+objects or characters in the vicinity.
+
+If you want to see the description of the current location again, you can type LOOK (or L
+for short). However, you may want to inspect particular items around you. For example, 
+suppose you type LOOK and are told this:
+
+	You are in a small dark room.
+	To the west is the wooden door.
+	Obvious routes lead north south.
+	You can see: The brown chest.
+
+It is possible to get a closer look at the chest by typing:
+
+	LOOK AT THE CHEST 
+
+If you want to see what the chest contains, you can say
+
+	LOOK INTO THE CHEST 
+
+Of course, this does not work if the chest is closed. Similarly, if the wooden door is 
+open you could say 
+
+	LOOK THROUGH THE WOODEN DOOR 
+
+to see what is on the other side. If you know that the place on the other side of the 
+door is called “the little kitchen" then you may achieve the same by saying 
+
+	LOOK INTO THE LITTLE KITCHEN
+
+
+MOVING AROUND
+
+In each place, you will be told where you can go. For example, consider this place again
+
+	You are in a small dark room 
+	To the west is the wooden door 
+	Obvious routes lead north south 
+
+You can easily move either north or south in many ways:
+
+	GO NORTH
+	SOUTH
+	N
+	S
+	RUN NORTH
+	etc.
+
+or you could use the cursor keys 6 or 7 provided you do not type anything else beforehand. 
+If you want to go west, you could of course just say 
+
+	WEST
+
+but if the door is closed, this naturally doesn’t work. Assuming that the door is open, 
+you can also say 
+
+	GO THROUGH DOOR 
+
+or, if you know that the door leads to the little kitchen, you can try
+
+	GO INTO LITTLE KITCHEN
+
+or
+
+	ENTER KITCHEN.
+
+Another, less useful, way of moving is to follow another character who is now is an 
+adjacent place: 
+
+	FOLLOW BORIS
+
+
+GETTING OTHERS TO WORK FOR YOU 
+
+In this adventure it is essential for success that you cooperate with the other 
+characters. There are times when you will be unable to get further without their help, 
+because there are things that you are not capable of doing. At these times, you can ask 
+someone else to help.
+
+Suppose that you are already carrying so much that you cannot pick up a key that you need. 
+Luckily, there is a trustworthy elf nearby who could carry it for you, so you could say:
+
+	SAY TO THE ELF “GET THE KEY”.
+
+Of course, characters don’t always do what you tell them, and you may be ignored. You 
+could always try again — caps shift and 9 comes in handy here.
+
+Bear in mind also that the elf has a mind of his own, so having picked up the key for you, 
+he may run away with it, give it to someone else, drop it again, or anything he feels 
+like doing!
+
+
+BASIC COMMANDS
+
+The game recognises all of these commands. There are many others, which you have to 
+discover for yourself:
+
+NORTH etc. 	GET		ATTACK
+N etc.		DROP		SAY
+GO		PUT		INVENTORY
+RUN		GIVE		STATUS
+LEAVE		EAT		HELP
+ENTER		OPEN		HINT
+FOLLOW		CLOSE		LOAD
+LOOK		LOCK		SAVE
+EXAMINE		UNLOCK
+
+QUIT (start a new game)
+PAUSE (suspend until a key is pressed)
+WAIT (do nothing this turn)
+COPY (allow printer output)
+NOCOPY (disable printer output)
+SCORE
+
+
+SAVING AND LOADING
+
+You can save your current position at any time by typing SAVE. Follow the prompts given 
+on the screen. Saved positions are verified before the current game continues.
+
+To load a previously saved game, just type LOAD and start the tape.
+
+You can use the BREAK key at any time during tape actions to abandon the entire operation. 
+This is the only legal use of the break key!
+
+If a LOAD fails, the current game is lost and a new one is started automatically.
+
+
+THE PRINTER
+
+Output generated by FANTASIA DIAMOND can be sent to the printer by typing COPY. To 
+reverse this, use NOCOPY. DO NOT PRESS "BREAK” WHILE THE PRINTER IS ACTIVE.
+
+
+HINTS
+
+In some places, it is possible to get some assistance by typing either HELP or HINT. 
+There is no penalty for this. However, some of the clues are not quite straight-forward, 
+and there are no hints for the easier problems.
+
+If you cannot get the computer to do what you want it to do, either you are on completely 
+the wrong track or you have used language too complex for the program to understand. 
+Firstly, try to keep your commands simple — the fewer words the better. Refer to the 
+section on error messages if in doubt.
+
+The following general points should be kept in mind:
+
+1. If a character refused to help you, it may be because he is not capable of doing what 
+you ask, or he may not feel like it. In the latter case you could try again.
+
+2. Doing nothing is not always the same as waiting This is important in some 
+circumstances.
+
+3. Do not give up hope when all seems lost. “Four walls do not a prison make” is true in 
+FANTASIA DIAMOND, even when the obvious means of escape are not available.
+
+Finally, a last hint for music lovers: the leader is more long-sighted than short-sighted 
+and could be regarded as untidy in his ways. If you don’t oblige him, you will never 
+escape.
+
+Good luck!
+
+
+© Copyright. Hewson Consultants Ltd. 1984
+
+The program and data on this cassette are copyright and may not be reproduced in part 
+or in whole by any means without the written permission of Hewson Consultants Ltd. 
+All rights reserved. No responsibility is accepted for any errors.
+
+Our policy is one of constant improvement. Therefore we reserve the right to modify any 
+product without notice.

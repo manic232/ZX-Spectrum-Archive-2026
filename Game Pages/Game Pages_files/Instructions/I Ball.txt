@@ -1,0 +1,50 @@
+I, BALL
+Firebird Silver Range
+(c) 1987 TIMOTHY CLOSS
+
+THE GAME
+
+The totally evil Terry Ball has captured your Spherical pals:- Lover
+Ball, Eddy Ball, Glow Ball and No Ball. Armed with only a bubble gun,
+you must enter Terry Ball's domain and struggle through the sixteen
+defence zones. You will find a pal to rescue at the end of every
+fourth defence zone. Each zone will offer a constant barrage of
+obstacles - glowing ones are electrified and will electrocute your
+ball on contact. Terry Ball has also populated these zones with such
+nasties as doughnuts, microwave ovens and roulette wheels, which are
+harmless when they first appear but become highly dangerous when they
+stop flashing. However, do not despair, for as you negotiate these
+deadly zones, POWER DISCS will be created. If your ball picks one up,
+he will receive either a piece of weaponry or a bonus of some kind.
+Weaponry is shown as a series of icons to the right of the screen.
+These are: TURBO BOOST, HORIZONTAL LASER, SMART MISSILE, BULLET SPRAY
+(Front and Rear Bubble Gun), ELECTRO SHIELD, LASER SPRAY (Left and
+Right Lasers), MOLECULE BOMB (Nullifies Electrical Obstacles), SUPER
+BRAKES, LASER COOLING UNIT, RAINBOW RIPPLE LASER.
+
+When you start the game a POWER DISC will instantly appear on the
+screen. Pick this up for TURBO BOOST. Now progress upwards through the
+first zone. If you let your bubble gun fire for too long then it will
+overheat and you will have to wait for it to cool down. Every time you
+die, you will lose a piece of weaponry. As you progress through the
+levels, some FAULTY DISCS will start to appear. These discs make
+movement even harder. Finally, on the twenty-seventh POWER DISC, you
+will get the ultimate weapon - PICK IT UP FOR RAINBOW RIPPLE LASER.
+
+LOADING
+1. Connect a suitable cassette player to your Spectrum according to
+   the User Manual. THEN FOLLOW INSTRUCTIONS 3, 4 AND 5 BELOW.
+SPECTRUM 48/128 and PLUS 2 OWNERS
+2. Put the 48/128 and Plus 2 systems into 48K mode.
+3. Place the rewound cassette into the cassette player.
+4. Type LOAD "" on your Spectrum and press ENTER.
+5. Press PLAY on your cassette player.
+NOTE: Full loading instructions can be found in your Spectrum manual.
+
+PLAYING THE GAME
+Use the following keys to play the game:-
+	Z=Left  X=Right  O=Up  K=Down  P=Fire
+These keys may only be used if you have collected the relevant piece
+of weaponry:-
+	Space=Smart Missile  M=Molecule Bomb
+Alternatively, use Kempston, Cursor or Interface II joysticks.

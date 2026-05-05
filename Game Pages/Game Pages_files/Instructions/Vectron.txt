@@ -1,0 +1,57 @@
+Vectron 3D (c) 1988 Firebird Software - Complete Documentation
+--------------------------------------------------------------
+
+Tearing down the corridors of a totally unknown dimension you wonder "Is
+this it?..."
+
+Screaming towards electronic killing machines of immeasurable power you
+believe that your time has come...
+
+Zapping with your U.D. Cannon and flicking on you shields you question "Can
+you survive?..."
+
+Within the subspatial dimensions of your computer, you discover what it is
+like to be part of a computer game itself. Your only tools are the U.D.
+Cannon, the shields and a map which you use to studt the maze, locate the
+exit, and most importantly, calculatr which corners the hostile killing
+machines are lurking behind. You destroy a hovering droid, and then drop
+your sights immediately toblast a ground based tank.
+
+At the centre of the matrix you find and destroy the Rom Robot and prepare
+to make your escape, but your map has been destroyed in the battle. You let
+your wits, and adrenaline lead you.
+
+Even if luck is with you, and you find the exit, you will be pursued across
+the outer dimension of the matrix by every fighting machine that the
+computer can conjure up. Your cannon is now a tool of defence as well as
+attack, dematerialising icoming missiles before they dematerialise you.
+
+LOADING INSTRUCTIONS
+
+SPECTRUM  Type LOAD""
+          Press the ENTER key.
+          Press the PLAY button on your recorder.            
+
+COMMODORE Cassette
+          Hold down SHIFT key and press the RUN/STOP key.
+          Press the PLAY button on your recorder.
+ 
+          DISC
+          Type LOAD"*",8,1
+          Press RETURN
+
+AMSTRAD   Cassette
+          CPC 6128, 644 and CPC 464 with disc.
+          Hold down SHIFT and press the @ key.
+          Enter TAPE and press RETURN
+          Now follow the following CPC 464 cassette loading instructions.
+
+          CPC 464 Cassette Loading
+          Hold down CTRL and press the small ENTER key.
+          PRESS the PLAY button on your recorder.
+
+          Disc
+          Enter RUN"DISC"
+          Press RETURN
+
+Instructions typed in by Paul Thompson, March 2003

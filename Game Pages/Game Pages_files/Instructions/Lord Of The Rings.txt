@@ -1,0 +1,1217 @@
+Introduction
+
+Welcome! You are about to enter one of the most famous and well loved fantasy
+worlds in the annals of fantasy fiction: J.R.R. Tolkien's Middle Earth.
+
+Melbourne House, in association with the Tolkien estate, are proud to present
+the Lord of the Rings adventure game. The background to the Lord of the Rings
+includes some events with which a player of the game The Hobbit will be
+familiar.
+
+This is the first game in a series of three, which deals with the material
+found in Tolkien's The Fellowship of the Ring, the first book in the Lord of
+the Rings trilogy. Subsequent games will deal with the stories covered in the
+next two volumes in the series, The Two Towers and The Return of the King.
+
+In the Lord of the Rings adventure game, you will be able to play the role of
+one of the four Hobbits: FRODO, SAM, MERRY and PIPPIN. FRODO bears a magic ring
+of power, a ring which, in the hands of the DARK LORD, could cause the
+destruction of all that you hold dear. You will need all of the cunning and
+luck at your disposal to complete your quest and survive.
+
+In playing this adventure game, you in effect assume the role of the characters
+from J.R.R. Tolkien's fantasy world. You must detail out the actions that you
+will perform, your reactions and movements, and the computer will perform them
+accordingly.
+
+Best of luck my furry-footed friend. The fate of the entire world of Middle
+Earth rests upon you alone, but don't let that pressure you ...
+
+
+Table of Contents
+
+Bringing Tolkien to the Computer		Page 2
+A Background to the Ring Wars		Page 3
+Getting Started				Page 5
+Communicating with the Computer		Page 6
+The Screen Display			Page 10
+Interacting With The Other Characters	Page 11
+General Rules in Middle Earth		Page 13
+Special Adventure Commands		Page 16
+Playing with Friends			Page 18
+The Second Adventure			Page 19
+Beginner's Introduction			Page 20
+Creatures of Middle Earth			Page 21
+Hints on Play				Page 24
+An Abbreviated Vocabulary		Page 25
+Reference Section for your Computer	Page 26
+Hologram Coupon			Page 27
+Credits					Page 29
+
+Bringing Tolkien to the Computer
+
+In producing the computer game Lord of the Rings, it has been necessary to
+expand beyond the scope of the original book of The Fellowship of the Ring.  If
+it was not possible for the player to make alternate decisions to those that
+were made in the books, or indeed even to tread paths that the characters in
+Professor Tolkien's novels never walked, then there would be little point in
+playing the game:
+You could simply read the books and save yourself a great deal of trouble.
+
+As it is, the player in Lord of the Rings will be faced with situations with
+which he will be entirely unfamiliar, even if he is deeply versed in Tolkien's
+world, but which are totally in keeping with the fantasy world created by
+Tolkien. Even familiar situations can prove to be dangerous and challenging.
+Fans of the books might be in for a nasty surprise if they confidently plough
+into the depths of dire (but expected) encounters, secure in the knowledge that
+simply knowing the books is enough to ensure easy victory.
+
+To those unfamiliar with Professor Tolkien's works, the game is readily
+playable. At no point of the game is a knowledge of the books assumed, although
+it is recommended that the book should be read, if for no other purpose than to
+become more familiar with the world of Middle Earth and its inhabitants.
+
+For those new to Tolkien's material, computer adventures, or who just simply
+want to experience the game mechanics under gentler conditions, there is a
+beginner's game included, which should prove useful in learning the game.
+
+So, play well, have fun, and if the wargs get you, just remember: you knew the
+job was dangerous when you took it!
+
+A Background to the Ring Wars
+
+Three Rings for the Elven-Kings under the sky,
+Seven for the Dwarf lords in their halls of stone,
+Nine for Mortal Men doomed to die,
+One for the Dark lord on his dark throne
+In the land of Mordor where the Shadows lie.
+One Ring to rule them all, One Ring to find them,
+One Ring to bring them all, and in the darkness bind them
+In the land of Mordor, where the Shadows lie.
+
+In the middle years of the second age of Middle Earth, Sauron the Great, master
+of the evil realm of Mordor, beguiled the great Elven smith Celebrimor of
+Eregion to teach him the craft of making rings of power. Three rings were made
+to grant the Elf lords their powers of wisdom and magic. Then Sauron and
+Celebrimor laboured together to create the seven and the nine, which were
+gifted to the great lords of Middle Earth. Unknown to Celebrimor, Sauron had
+betrayed him. Deep within the bowels of Mount Doom, he constructed the ruling
+ring, a ring which could enslave the wearers of the other rings to him forever.
+So powerful was the spell that Sauron bound much of his power into it, forever
+linking his fate with that of the ring.
+
+When Celebrimor realised that Sauron had betrayed him, he hid the three elven
+rings from him. The Dwarven rings were mostly destroyed by dragons over the
+ages, but their wearers were even so brought into an all consuming greed and
+folly before they fell. The nine mortal lords faded and became the nine
+ring-wraiths, forever enslaved to Sauron's will. A bitter war took place, with
+the prize being the fate of Middle Earth. At last Sauron was overthrown, and
+the ring was cut from his finger by the Human King Isuldur.
+
+Isuldur was in turn slain by orcs in an ambush many years later, the ring
+slipping from his finger as he tried to swim across a river to safety.
+
+Several millennia later, the ring was plucked from the river by Degol, who was
+immediately attacked by Gollum, a skulking character, who saw the ring and
+coveted it. Gollum then fled with his prize to the heart of the Misty
+Mountains, where he hid himself in the darkness. The ring sustained his life
+force for many dark centuries before it sensed its master stirring once again.
+
+Many years ago, Bilbo Baggins, a Hobbit, found the ring in a Goblin's den,
+where it lay after falling from Gollum's finger. After many adventures, Bilbo
+returned at last to his home in the Shire.
+
+Much of this background material is covered in the book The Hobbit, and you can
+enjoy playing this as an adventure game from Melbourne House.
+
+
+
+The ring has now passed on to Frodo Baggins, Bilbo Baggins' heir, Bilbo has
+long since retired and moved to Rivendell. In recent times, Gandalf the wizard
+(an old and trusted friend) has told you of the ring's dark history. The
+servants of the enemy even now are seeking the ring, and the hobbit "Baggins"
+that possesses it.
+
+Gandalf tells you to take the ring to Rivendell, far to the east, and there to
+seek Elrond, who will advise you on what to do with the now dangerous treasure.
+As the enemy are watching the likely roads for you, he advises you to travel by
+circuitous routes, and to adopt a pseudonym for the time being.
+
+To aid you in your quest, you have three companions: MERRY, SAM and PIPPIN, all
+of whom are hobbits. Sam and Pippin start the game with Frodo at Bag End,
+Frodo's comfortable home in Hobbiton. Merry awaits the party at the house in
+Crickhollow to the east of Hobbiton by the western bank of the Brandywine river.
+
+A quality inherent in the ring is that it makes the wearer invisible to all but
+the most powerful of creatures. Gandalf has warned you not to make use of the
+ring yourself, lest you also fade and become a ring-wraith. Gandalf will aid
+you as much as he can, but he has many tasks to perform to make the passage to
+Rivendell as safe as possible for you. For all intents and purposes, you are on
+your own.
+
+Getting Started
+
+The Lord of the Rings adventure comes on two cassettes - each containing a full
+sized adventure - as well as containing a beginner's level version of the first
+adventure.
+
+If you are not familiar with adventure games, or have difficulty with the
+adventure, it is recommended that you start with the beginner's level adventure.
+
+There is more information in the section on the beginner's adventure on what
+additional facilities are available in this game, including extensive HELP
+messages.
+
+For more information on how to load the cassette into your computer, refer to
+the reference section for your computer.
+
+Once the game has been loaded, you will find you are being asked the question
+WHICH HOBBIT CHARACTERS DO YOU WISH TO
+PLAY:
+Frodo, Merry, Pippin or Sam?
+
+If you are playing this adventure for the first time, it is recommended that
+you choose to play only the role of Frodo. It is possible, as is explained
+later in this booklet, to choose for you and your friends to play even all four
+characters.
+
+If you select none, the computer will assume you wish to play the role of Frodo.
+Note that if you choose more than one character, the first name given is the
+character you start off with.
+
+Once you have selected your character, you must then instruct him on what you
+would like to do.
+
+Communicating with the Computer
+
+The Lord of the Rings program includes a very sophisticated program, INGLISH,
+which can understand your instructions in everyday language.
+
+More details are given later in this booklet about the power of INGLISH, but
+the important thing is that you can enter your commands freely and the computer
+will then react according to your requests.
+
+The computer program Lord of the Rings has a very large vocabulary, so you
+should not have any difficulty in expressing your ideas and commands. Your
+commands will usually take the form of actions, and at the back of this booklet
+you will find an abbreviated list of the actions you can carry out. The power
+of INGLISH together with the very large vocabulary of over 800 words makes this
+one of the easiest and friendliest adventure games ever published on
+micro-computers.
+
+Moreover, if the computer is not sure of something that you mean, or if you are
+ambiguous in any way, it will ask you for clarification.
+
+The computer is also your source of information on what is happening to you,
+where you are and the characters around you. Some things may not be readily
+apparent to you, and thus can prove dangerous to the unwary player.
+
+
+Performing Actions
+
+INGLISH is one of the most sophisticated language-recognition programs ever
+developed for micro-computers. It allows you to communicate with the program in
+a language and structure that is familiar to you.
+
+The rules of INGLISH are simple. The main thing to keep in mind is that each
+instruction must be in the form of "verb-then-noun", where the noun (or pronoun)
+can also be implied.
+
+Each sentence must have a verb.
+
+The following examples in this instruction booklet are a guide to the way
+INGLISH sentences can be constructed. Note however that the specific examples
+shown may not be valid in this adventure.
+
+When an action does not directly concern any object, only a verb is necessary,
+i.e.
+WAIT
+RUN
+
+This is also the case if you simply wish to travel in some direction,
+
+SOUTH
+EAST
+
+If the action concerns an object or a person, this must be identified by a noun,
+English grammar applies, and the order of the different parts of the sentences
+is usually not critical, i.e.
+WEAR THE RING
+GO THROUGH THE DOOR
+DROP THE ROPE ONTO THE TABLE
+
+Adjectives that describe nouns must come before the noun. If it sounds right in
+English, it is probably valid in INGLISH, i.e.
+THROW THE HEAVY AXE AT THE HORRIBLE ORC LIGHT THE WOODEN PIPE WITH THE MATCH
+
+Terms used when making an instruction to the computer must be free from
+ambiguity. If there were two doors in a room, one red and one green, and you
+were to say
+GO THROUGH THE DOOR
+then the computer is placed in a quandary as to which door to put you through.
+In such situations, the program will put you through the first door it finds,
+which may not be the direction you intended.
+
+In this case, it would be better to specify exactly what you mean
+GO THROUGH THE GREEN DOOR
+
+Prepositions
+
+The meaning of many verbs can be altered by the use of prepositions, such as ON,
+OFF, ONTO, and so on. Examples of INGLISH sentences using prepositions are:
+ATTACK WITH THE SWORD
+PICK UP THE RING
+
+Prepositions in INGLISH usually go before the noun, but in some cases it sounds
+more natural to have them after the noun, such as
+TURN THE LIGHT ON
+PICK THE GOLD UP
+
+Prepositions can also be used to specify the position of an object, or where
+you wish an action to be performed, such as
+PUT THE GOLD INTO THE BAG
+TAKE THE PIPE FROM THE BOX
+
+Use of "AND"
+
+You can use the word AND in all its normal meaning in INGLISH. This means,
+among other things, that you can enter more than one sentence or perform more
+than one action at a time.
+TAKE THE LAMP AND THE MATCH FROM THE
+CUPBOARD
+DROP THE SHORT AND THE LONG SWORDS
+TAKE THE GOLD AND RUN
+
+
+Punctuation
+
+Sentences can be separated by the use of punctuation. You can use commas and
+full stops as you normally would.
+
+The only limitation the program places on your commands is that your command
+should not be more than 128 characters long.
+
+
+Conversing With Other Characters
+
+The Lord of the Rings adventure also allows you to talk and converse with the
+characters you meet on your journey.
+
+On encountering a person on your journey, you may wish to speak to them. The
+general form is
+SAY TO (name) "(sentence)"
+i.e.
+SAY TO GANDALF "HELLO"
+
+This is usually sufficient to draw most characters into conversation.
+
+You can ask the characters within earshot to do specific commands that are of
+use to you, such as:
+SAY TO TOM "KILL THE ORC WITH THE SWORD" 
+SAY TO PIPPIN "TAKE THE GOLD FROM THE ORC"
+
+It is not necessary to use the full form of SAY TO (name). An abbreviation is
+allowed whereby you can specify whom you wish to speak to, followed by the
+message, such as
+PIPPIN "GIVE THE GOLD TO ME"
+
+Of course, because all the other characters have an independence of their own,
+there is no guarantee that they will do what you ask of them. Their decision
+will be based on a number of factors, including their allegiance to you, what
+they are currently doing, and so on.
+
+Some characters that you encounter will have messages for you that they will
+deliver only when you identify yourself, or ask them certain questions.
+
+In order to solve the Lord of the Rings adventure, it will be necessary for you
+to become familiar with the SAY TO command. This is because some of the
+problems you face can only be solved by cooperating with the other members of
+the party.  Each character also has his own limitations, such as strength and
+so on.
+
+Be warned that sometimes a certain character will be required in order to
+succeed with a certain action. Thus it will be necessary to become familiar
+with the varied talents of your party members.
+
+
+Abbreviation of Commands
+
+The abbreviation of your commands is quite permissible. For instance, if you
+wish to attack a green knight, you might say;
+KILL GREEN WITH SWORD
+
+The computer will see that "Green" corresponds with the green knight. Note also
+that the definite article "THE" can be omitted at will. In most circumstances,
+the computer will understand exactly what you mean.
+
+Unfortunately, if the Knight stood before a green door, then "green" no longer
+serves to identify the Knight only, in which case you could write:
+KILL KNIGHT WITH SWORD
+
+Multiple entries are easily effected simply by placing a comma between your
+instructions:
+
+OPEN BOX, TAKE AXE, GIVE AXE TO SAM.
+
+Each of the commands in the sentence will be dealt with by the computer in
+order.
+
+
+The Screen Display
+
+On your screen will appear (in normal script), the adventure description - the
+text which describes your surroundings, and the happenings around you. Upon
+entering a new location, the computer will give you a full description of the
+area, and the objects that are in plain sight. You will be given a list of the
+exits that you can currently see.
+
+The second time that you enter a location, the computer will only give you a
+brief description of where you are. If you wish to obtain a more complete
+description, you can simply enter the command LOOK, and the computer will
+repeat the lengthy text.
+
+Below the adventure script, an arrow indicates your "instruction window"; the
+space in which you will type in the actions that you wish your characters to
+perform. This will appear on the screen in capital letters.
+
+Once you have typed in your commands and hit the "RETURN/ENTER" key, the
+computer will either acknowledge your action, or inform you that it does not
+understand you for some reason. Once the computer has acknowledged an entry, it
+will print any new text which results from your actions, and then indicate that
+it is ready to receive a new instruction.
+
+Interacting With The Other Characters
+
+The Lord of the Rings adventure requires that you lead a group of hobbits
+through various situations. As a result, it is sometimes necessary to tell
+other characters, including members of your own group, what you would like them
+to do.
+
+Since you will often be in a group of people, it is comforting to know that it
+is not necessary to instruct each and every character on what it should be
+doing at every moment. Most will follow your lead without any prompting on your
+behalf. It is also possible to instruct characters to perform actions that will
+exclude the rest of the party,
+i.e.
+SAY TO SAM "CLIMB TREE"
+
+This instruction will not result in a massed exodus by all members of your
+party within earshot to the tree tops. Sam will climb the tree by himself. If
+you leave and Sam can still see you, he will follow you, and perhaps eventually
+catch up with you.
+
+Any character can simply be spoken to, and asked to perform an action, i.e.
+SAY TO PIPPIN "GIVE ROPE TO FRODO"
+
+Members of your party and friends are more likely to respond favourably than
+the strangers and followers of Sauron. But even friends may say no from time to
+time.
+
+As well as following your lead, most members of your party will come to your
+defence if you are attacked by any enemies.
+
+There is no cosmic law which stops you from ruthlessly attacking a member of
+your own party. Do not be too surprised however if the other members of the
+party should be a little cooler towards you afterwards.
+
+You can talk to yourself, but the result is not going to be very impressive.
+Suicide is quite possible, as long as you name the character as in any other
+attack, i.e.
+KILL FRODO WITH AXE
+
+In all probability, the result will be something like: "you attack you with the
+axe. With one well placed blow you split your skull." If you find this
+attractive, then by all means, be my guest . .
+
+The Lord of the Rings allows you another method of instruction the hobbits in
+your party on what to do. This is done by taking over their character for the
+time being, using the BECOME command. (It is recommended that you should be
+familiar with the adventure from a single player point of view before tackling
+the multi-character game.) i.e.
+BECOME PIPPIN
+
+(Note that you can only become one of the four hobbit characters you have
+selected at the beginning of the game. For example, if you enter FRODO, you can
+only become FRODO. If you enter FRODO, SAM, MERRY, then you cannot become
+PIPPIN. More information about changing characters is given later in this
+instruction booklet.)
+
+This technique can be used whenever the player wishes to detail out complex
+actions to a character, or wishes to react to ongoing situations that will
+confront the character. This is a useful means of conducting operations without
+endangering the ring, or for controlling the party if you wish the Hobbits to
+split up and go separate ways.
+
+General Rules in Middle Earth
+
+General
+
+• A map of the immediate area of "The Shire" can be found at the start of
+chapter one of The Fellowship of the Ring, and may prove to be of some help.
+
+• A map of the western section of Middle Earth is printed in each book of the
+Lord of the Rings, in the inside rear cover (map one).
+
+• During the adventure, you will encounter many objects. Some are usable as
+weapons, others are intended as food or drink, still others are used as
+containers in which to carry other things. Liquids behave as such: They cannot
+be carried about without a container. You cannot lift too heavy an object, or
+carry too great a load.
+
+• Most containers must be opened in order to reach their contents. Once a
+container is open you may look into them or take the objects that are held
+within. Once the objects inside a container have been exposed, they may be used.
+Some containers may be transparent, allowing you to see their contents without
+opening the container itself.
+
+• Some doors are locked, this means that either the proper key is required to
+unlock them, or that someone on the other side of the door must open the door
+for you.
+
+
+Finding Your Way
+
+SPECIFYING DIRECTION:
+
+There are assumed to be ten possible directions of travel:
+NORTH, SOUTH, EAST, WEST, NORTH EAST, SOUTH EAST, NORTH WEST, SOUTH WEST, UP
+and DOWN.
+
+It is possible to abbreviate the words used to describe directions down to a
+single letter for each word, i.e.
+NORTH EAST
+NE
+Are both valid entries for movement instruction.
+
+PASSING THROUGH PORTALS:
+
+If you want to go through an entrance, such as a door or window, it is quite
+possible to say so, i.e.
+GO THROUGH GREEN DOOR
+
+
+FOLLOWING OTHER PEOPLE
+
+If a person that you have an interest in leaves an area, you may wish to follow
+them. For instance, if Strider suddenly said that he was now going to leave the
+current area, you might decide to
+FOLLOW STRIDER
+
+LIGHT AND DARK
+
+In some areas, there will be no natural light. Unless you have the means to
+create light such as matches and a candle you will receive no description of
+the area that is in darkness. Once a light has been struck, you will be able to
+see the area in question.
+
+If you choose to travel in darkness, you may avoid meeting some unwanted
+characters. Remember, however, that orcs can see perfectly well in the dark .
+
+MAPPING
+
+It is suggested that you keep a map of your travels to assist you in
+finding your way. Be warned! Maps cannot be entirely relied upon.
+
+
+Combat
+
+Hobbits are poor fighters, but brave. It is not possible to attack any
+inanimate objects. These must instead be BROKEN. A weapon is required in order
+to attack any enemy.
+
+To attack your opponent, you must tell the computer that you wish to kill the
+creature with a specific weapon, i.e.
+KILL WOLF WITH SWORD
+
+No matter how well you arm them, be wary of throwing Hobbits into the midst of
+gory battle. Being furry footed little runts, they have a tendency to die with
+spectacular suddenness.
+
+Persistance in combat is rewarded, but be careful. Most opponents hit back, and
+an already wounded character is much more susceptible to being killed than a
+healthy one.
+
+Some weapons (like axes) can be thrown at an opponent. This removes the weapon
+from your character, and drops it into the area in which you stand. If the
+weapon that you threw was your only armament, then tough luck.
+
+
+CARRYING ITEMS
+
+
+During the course of play, it will become necessary to pick up and carry
+inanimate objects. Once you have found an item, you need simply take the item
+in order to pick it up and carry it, i.e.
+TAKE ROPE
+
+To check on the equipment that you are already carrying, simply make an
+inventory of your character, i.e.
+INVENTORY
+
+To rid yourself of an item, you need merely drop it, i.e.
+DROP ROPE
+
+As an alternative, you may give the item to another member of the party, i.e.
+GIVE ROPE TO SAM
+
+In addition to adding weight to your burden, some objects increase your
+effective size. This can be troublesome if you intend to go through a small
+door or tunnel, so beware of adopting the pack-rat syndrome.
+
+
+Fatigue, Wounds and Eating
+
+All characters are rated for their strength and stamina. During the game these
+characteristics may suffer from combat, or simple weariness.
+
+As a character takes wounds, its strength becomes lower, and its hold on life
+more tenuous. As time passes, characters become more and more tired as their
+energy is used up. Highly strenuous activities, such as combat, may exhaust you
+even more.
+
+The best remedy for a lowered strength or stamina is a good meal and some rest.
+In your travels, you may encounter skilled healers and magical herbs which cure
+fatigue and damage. Needless to say, these items are rare.
+
+
+Interacting With other Characters
+
+There are a variety of characters in Middle Earth that a wandering party might
+encounter. Some are friends, and some are foes, but many simply ARE. Such
+characters live lives of their own, travelling about the lands or attending to
+their own affairs. If a person that you meet does not fall over himself to help
+you, try being patient. Just say HELLO, or try waiting until he notices you.
+
+
+Special Adventure Commands
+
+As well as the extensive INGLISH vocabulary, there are a few commands which are
+specific to the Lord of the Rings adventure, and which are used to help you
+control the game.
+
+The following is a list of these special commands:
+
+LOOK (can be abbreviated to L): Describes where you are, what you can see, and
+all possible exits. This command should also be used after you take over the
+role of another character (using the "become" command) who is at another
+location.
+
+INVENTORY (can be abbreviated to I): Describes all your inventory that you are
+currently holding or carrying.
+
+EXAMINE: Although this is a standard INGLISH word, special mention of it is
+made here because this command is very useful in trying to obtain more
+information about your surroundings in Middle Earth. Examining objects often
+reveals information about those objects that is not readily apparent from a
+cursory look.
+
+SAVE: This command allows you to save the game for play at a later time. After
+entering the command, the program will prompt you for your tape or disk for
+saving the game. The saved game has all details of what is happening throughout
+Middle Earth, including all the other characters and locations. After you have
+saved the game, play will continue normally. This command is especially useful
+before embarking on a dangerous course of action.
+
+LOAD: Loads a previously saved game. Once again the program will prompt you for
+your tape or disk. After loading, play continues from the point where the game
+was saved.
+
+SCORE: Tells you what your percentage is so far.
+
+HELP: Gives you hints and suggestions on what to do. This command only applies
+to the Beginners' game.
+
+PAUSE: Suspends the game until another key is pressed.
+
+PRINT: Allows the text of the adventure to be sent to your printer (if
+connected), as well as to the screen. (PRINT and NOPRINT may not be available
+in all versions. Check the reference section for your computer at the back of
+this instruction booklet.
+
+QUIT: Stops the game and returns to the beginning. Because of memory
+limitations the information about Middle Earth at the beginning of the game is
+not stored in memory, but needs to be loaded in. Following this command, the
+computer will prompt you for the tape or disk; if the tape is requested, rewind
+the game tape and place in the cassette recorder in the normal way.
+
+
+Playing with Friends
+
+As mentioned briefly previously in this booklet, the Lord of the Rings
+adventure allows you to control not just one character but up to four of the
+Hobbit characters.
+
+This will enable you to play the game on many different levels, and to play
+either on your own or with a group of friends.
+
+When you choose to play just one character, the computer will take control of
+the other three characters and ensure that their actions are in keeping with
+their personalities. It also means that whenever you wish these characters to
+perform specific actions for you, you will need to instruct them by talking to
+them, using the SAY TO command.
+
+When you play more than one character, the computer will still look after the
+characters you are not controlling at the moment, but only in situations where
+you have not instructed them to do anything for a while, or when the entire
+party move somewhere else, for example. This means that you will need to
+instruct each character much more carefully than when playing the one player
+game.
+
+The easiest way to play with more than one character is with another friend,
+each of you controlling one of the Hobbits. In this way you can discuss things
+and help each other most easily.
+
+The command to change from one Hobbit character to another is BECOME (name)
+such as BECOME PIPPIN. Note that you can only BECOME one of the Hobbit
+characters you have specified at the beginning of the game.
+
+An alternative to the BECOME command is the I AM command, which works in the
+same way and has the same effect:
+I AM PIPPIN
+
+Alternately, both commands can be omitted, and just the name of the character
+you wish to become entered:
+PIPPIN.
+
+Note that you should use the LOOK command where the character you become is in
+a different location from the one you were previously.
+
+The Second Adventure
+
+As mentioned earlier in this booklet, the Lord of the Rings: Game One adventure
+comes in two parts. The story and action in J.R.R. Tolkien's novel The
+Fellowship of the Ring was just too much to be able to fit into a single
+adventure game.
+
+Each adventure is totally independent, and there is no need to have completed
+the first adventure before attempting the second, although there would be
+definite advantages in doing so.
+
+Once you have completed the first adventure, the computer will prompt you to
+save the game at that stage for loading into the second adventure game. By
+doing so, you will ensure that each member of the party who is with you at the
+end of the first part will venture with you into the second adventure. As well,
+many of the objects you carry will be transported to the second adventure as
+well.
+
+You may of course attempt the second adventure without completing the first
+adventure. This will make your task considerably harder, as you will not have
+your friends with you to help you and some of the important objects from the
+first adventure will also be missing. It is however not impossible to solve the
+second adventure in this way, and advanced adventurers may wish to solve the
+game in this way.
+
+Beginner's Introduction
+
+For any player unfamiliar with adventure games, or simply if you find
+difficulties in playing the main adenture game, you will find included in the
+Lord of the Rings a special beginner's adventure game.
+
+This game is closely modelled on part of the main adventure, so you will
+quickly become familiar with the setting and characters of the main game.
+
+All of the commands available in the main game are available in this beginner's
+adventure, except for the BECOME command. As it is recommended that you become
+familiar with the one player game before attempting the multi-character mode,
+it was not felt suitable to include this in the beginner's adventure game.
+
+Many of the problems have been simplified in this adventure, while others have
+been removed altogether. This means that solving this beginner's adventure will
+in no way detract from your enjoyment of the main adventure.
+
+If you find yourself in difficulties at any point an additional command not
+available in the main adventure can be used. This is the HELP command, and is
+used without any object:
+HELP
+
+The computer will then make suggestions as to ways to overcome the difficulties
+you face, starting with hints and suggestions. If these are not sufficient to
+help you solve the problems, further recourse to the HELP command will usually
+give you a more detailed hint.
+
+
+Creatures of Western Middle Earth:
+An Observer's Guide
+
+ELVES: An ancient and noble race of immortal folk. Elves are fair to the eye,
+and wise beyond human understanding. They are peerless interior decorators.
+
+DWARVES: A long lived race of doughty (if short) warrior/craftsmen. Dwarves and
+Elves harbour a deep and abiding dislike of one another, due to an unfortunate
+history of mutual competition and mistrust.
+
+HOBBITS: A race of cheerful, strong willed folk who chiefly inhabit THE SHIRE.
+Shorter than Dwarves, and lacking the latter's over developed musculature,
+Hobbits are quite nimble and dextrous. Most Hobbits cannot swim (Merry is an
+exception). Of all the party, PIPPIN is the most agile, SAM the most sturdy,
+and FRODO the smartest. Sam, being Frodo's devoted friend and retainer, will
+always attempt to stay near him.
+
+MEN: Many different nations of Men inhabit Middle Earth. Some, such as Rohan
+and Gondor, are the implacable foes of the Dark Lord. Others, such as Umbar and
+Harad, aid Sauron with troops, war elephants and gold.
+
+ORCS: Orcs (or Goblins, as Hobbits call them) are the soldiery of the Dark Lord.
+They are powerful, stooped and twisted creatures, with long arms, hairy
+knuckles and muzzles crammed with far too many teeth. Orcs hate sunlight,
+except for Uruk-Hai, a new, more powerful breed recently spawned in the pits of
+Mordor.
+
+TROLLS: Trolls are huge, flinty creatures with lumpen minds and brutal
+instincts who serve the cause of evil. Trolls turn to stone when struck by
+daylight. In recent years, Olog-Hai (Olog = Troll, Hai = Mk II) have appeared a
+wittier, more agile version of the Troll which can withstand sunlight.
+Observers report that these creatures look similar to enormous, black orcs of
+unusual ugliness.
+
+WARGS AND WOLVES: The wolves of the wildlands are particularly large and
+ferocious, and are frequently misnamed "Wargs". Wargs proper are werewolves-
+phantasms that only assume real (and deadly) shapes after darkness has fallen.
+Sunlight nullifies their power.
+
+WIZARDS: A mysterious race of magic users, who first appeared in Middle Earth
+several millenia ago.
+
+Legends and Common Knowledge
+For those new to Tolkien's Middle Earth mythos, we provide the following
+information on items, people and places that were either legendary, common
+knowledge, or were known to antiquarians such as Bilbo and Frodo.
+
+ANGMAR:	"Iron Home", a long dead evil realm which fell to the armies of the
+last alliance of Men and Elves many millenia ago. The king of the realm was a
+victim of the One Ring, and later became the chief of Saurons' Ring-wraiths.
+
+ARNOR:	In ancient times, Arnor was the northern most realm of the men of
+Numenor, which fell before the onslaught of Angmar in the second age of the
+earth. The ruins which dot the trollshaws, and old sites such as weathertop are
+all relics of ancient Arnor.
+
+BAG-END: The ancestral home of the well to do Hobbit family of BAGGINS (not to
+be confused with their cousins the Sackville-Bagginses).
+
+BALROG:	An evil spirit raised from hell during the great wars which rocked the
+first age of the earth. At least one has survived to the period of our
+adventure by hiding in the roots of the Misty Mountains, where it was
+responsible for the destruction of Mona several centuries ago.
+
+BARROW DOWNS: A source of dread legends within the Shire. It is a place of
+ancient burial mounds, and hostile spirits.
+
+BLACK RIDERS: Ring-wraiths or Nazgul. The Dark Lords' most loyal and trusted
+servants. The nine Black Riders are forever enslaved to the Ring of Power.
+
+BREE: A small town at the edge of the wilds. It has a mixed population of Men
+and Hobbits.
+
+ELROND:	Elrond the Half-Elven, lord of Rivendell is an ancient and learned
+figure who has dwelt in Middle Earth since time immemorial. His wisdom is
+without question.
+
+GALDALF: Galdalf the Grey is the second most powerful Wizard in Middle Earth.
+He is an old friend of Bilbo and Frodo.
+
+HOLLIN: An ancient, long vanished kingdom of the Elves.
+
+MORIA: A deep labyrinth beneath the Misty Mountains. Called in the Dwarven
+tongue "Khazad-Dum", Mona was once the most fabled and powerful of the Dwarven
+kingdoms of Middle Earth. It was here that mithril silver was mined, the basic
+material of magical swords, runes and armour. The inhabitants were mostly slain
+by the BALROG many centuries ago, and now orcs infest its dark halls.
+
+RADAGAST: Radagast the Brown is a Wizard learned in ancient lore. Radagast has
+many special skills and responsibilities concerning beasts and birds.
+
+RIVENDELL: The dwelling of the Elrond the Half Elven, called the last homely
+house east of the sea. Rivendell is not a fortress, nor a city, but a place of
+learning, healing and merriment. The wisdom of the ages can be found within its
+walls.
+
+SARUMAN: Saruman the White is the chief of the order of wizards, and the most
+accomplished of Middle Earth's wizards. He presides over the White Council, the
+defense committee of the forces of good.
+
+SAURON: The Dark Lord, Sauron is the embodiment of evil in Middle Earth. Once
+thought to have been destroyed during the wars against him in the second age,
+Sauron has risen again, and seeks to recover his Ring of Power, which will give
+him the ability to vanquish the weakened forces of good, and enslave right
+thinking people everywhere.
+
+SHIRE: The Shire is the area between the Brandywine river and the Tower hills
+that the Hobbits have made their own. It is a peaceful land of small rivers,
+gentle woodlands and well-tended fields.
+
+
+Hints on Play
+
+The best hints for playing the Lord of the Rings can be gained through reading
+the books. The first book in the trilogy, The Fellowship of the Ring, is
+supplied with the adventure.
+
+The only real hints that can be given are these:
+
+Be careful. If you race through the game, you will both limit the enjoyment
+that you get from it, and you will fail to pick up valuable details that might
+come in use later on in the game.
+
+Be smart. Hobbits are neither wise, strong nor magical. If you are going to get
+anywhere, you will have to use your wits.
+
+Don't be scared to try risky actions. If you take no risks, you will find no
+rewards. In other words, "Be bloody, bold and resolute", and keep a good pair
+of running shoes handy.
+
+
+An Abbreviated Vocabulary
+
+
+We include here a list of actions that will be of general use when playing the
+Lord of the Rings. Please note that this does not include "magic words", or
+special verbs used for actions that are only permissible in certain areas at
+certain times: Finding out what these words are, and how to use them is all
+part of the fun of the game.
+
+
+Movements:
+
+DOWN, EAST, NORTH, NORTHEAST, NORTHWEST, SOUTH, SOUTHEAST, SOUTHWEST, UP, WEST
+These can be abbreviated to the first letters, such as D, E, N, NE, and so on.
+
+Action Verbs:
+
+ATTACK, BREAK, BLOW, BUY, CARRY, CLIMB, CLOSE, CROSS, DRINK, DROP, EAT, EMPTY,
+EXAMINE, FILL, FOLLOW, GET, GIVE TO, GO THROUGH, HELLO, KILL, KNOCK ON, LIFT,
+LIGHT, LOCK, OPEN, PAY, PICK UP, PULL, PUT ON, PUT OUT, READ, RUN, SAY TO,
+SHATTER, SLASH, SLICE, SMASH, SMOKE, STRANGLE, STRIKE, SWIM, TAKE, THANK, THROW,
+TURN, UNLOCK, UNROLL, WAIT, WEAR.
+
+Special Verbs:
+
+BECOME, HELP, INVENTORY, LOAD, LOOK, PRINT, NOPRINT, QUIT, SAVE, SCORE.
+
+
+Reference Section for your Computer
+
+SPECTRUM 48K/+
+
+Ensure that the cassette is fully rewound and that the EAR socket of your
+Spectrum or Spectrum + is connected to that of the tape player. Type the
+command LOAD" "and press the ENTER key. In case of difficulty, consult your
+Spectrum manual.
+
+
+COMMODORE 64 (cassette)
+
+Ensure that your cassette is fully rewound, and that the datasette is properly
+connected. Type LOAD and press the RETURN key. This program uses the "Pavloda"
+system to ensure fast and reliable tape loading.
+
+
+COMMODORE 64 (disk)
+
+For loading instructions, refer to the label on the disk.
+
+
+AMSTRAD CPC COMPUTERS
+
+Ensure that your cassette is fully rewound. Press CTRL and the small ENTER key
+simultaneously. The computer will prompt you to press PLAY and then press any
+key.
+
+
+BBC MODEL B
+
+Ensure that your cassette is fully rewound. Type CHAIN " "and press the RETURN
+key. (n.b. Disk drive users should type * TAPE and RETURN before attempting to
+load a cassette).
+
+
+All Melbourne House cassettes are manufactured under the strictest quality
+control conditions.
+In the unlikely event of a genuine fault, please return the faulty cassette
+only (retaining the rest of the package) to Melbourne House at the nearest
+office to you. We will gladly replace it.
+PLEASE DO NOT RETURN IT TO THE PLACE OF PURCHASE.
+(This notice does not affect your statutory rights).
+
+
+EXCLUSIVE OFFER TO
+PURCHASERS OF
+LORD OF THE RINGS
+(the computer game).
+
+Take advantage of this special offer and re-create the fantasy world of Tolkien
+in your own home!
+
+Apply now for one of a limited edition of exclusively created "LORD OF THE
+RINGS" holograms which are only available to purchasers of the "LORD OF THE
+RINGS" computer game.
+
+Previewed at the P.C.W. Show, where they received much critical acclaim, these
+holograms were created by HOLOGRAFIX, a leading holographic studio, using the
+latest laser equipment. In a choice of two editions, each hologram features the
+image of a Nazgül or Ring-Wraith, commonly known as a Black Rider. Just shine a
+spotlight on the Nazgiil's face to reveal the most terrifyingly realistic 3D
+image imaginable!
+
+The 5" x 4" hologram is on a glass plate and is supplied in a clip-frame at
+£29.95 inclusive of postage and packing.
+
+The larger, de-luxe hologram measures 10" x 8" on a glass plate and is
+professionally framed and individually signed and numbered, at £149.95. This
+edition is strictly limited to 100 copies.
+
+An early order is recommended to avoid disappointment. Please do not delay in
+sending your order to Melbourne House (Publishers) Ltd using the order form
+overleaf.
+
+
+LORD OF THE RINGS
+HOLOGRAM OFFER
+APPLICATION FORM
+
+
+N. B.
+
+1)	Offer applies only in UK, Channel Islands and Isle of Man.
+
+2)	Prices include postage and packing.
+
+3)	Allow 28 days for delivery.
+
+Cheques and P.O.s should be crossed and made payable to MELBOURNE HOUSE
+(PUBLISHERS) LTD. Please do not send cash with your order.
+
+If you don't want to cut this page out of your User Guide, photocopy the page
+or write out your order on plain paper.
+
+To:- Melbourne House (Publishers) Ltd
+Castle Yard House, Castle Yard, Richmond, Surrey TW1O 6TF.
+
+
+From:- 
+NAME
+
+ADDRESS
+	POSTCODE
+
+Please send me the following
+a) 5" x 4" Nazgül hologram(s) at £29.95 each (inclusive)
+b) A 10" x 8" Nazgiil hologram at £149.95 (inclusive)*
+*Offer limited to one per person
+I enclose crossed cheque/P.O. made payable to Melbourne House (Publishers)
+
+SIGNED	(If under 18. parent or guardian must sign)
+
+
+
+
+CUT
+HERE
+
+Credits
+
+The Lord of the Rings was a major effort by the programming team at Beam
+Software. The project was the work of many people and took over 15 months to
+complete.
+
+Program Copyright(c)l985 by Beam Software
+
+This program is published with the cooperation of the Tolkien Estate and their
+publishers, George Allen & Unwin (Publishers) Ltd. The plot of Lord of the
+Rings, the characters of the Hobbits, and the other characters from the Lord of
+the Rings are copyright (c)George Allen & Unwin (Publishers) Ltd
+1966, 1974, 1979, 1981.
+
+Group leader and chief programmer Philip Mitchell
+Storyline development	Michael 0' Rourke
+	Paul Kidd
+	LynC
+Programming	Danny Davis
+	LynC
+	Stephen Taylor
+	Doug Palmer
+	Louis Madon
+Graphics	Greg Holland
+	Russel Comte
+Script development	Geoff Halprin
+	Danny Davis
+	Paul Kidd
+	Richard Woolcock
+	Graham Stretton
+	Paul Mitchell
+Cover illustration	Ian McCausland
+
+
+
+From the team who brought you the incredible HOBBIT program now comes LORD OF
+THE RINGS GAME ONE - based on the first of J.R.R. Tolkien's brilliant fantasy
+trilogy FELLOWSHIP OF THE RING.
+
+
+
+Live out your wildest fantasies in the mysterious and enchanted world of Middle
+Earth - a world of boundless imagination where nothing is certain and anything
+is possible.
+
+
+
+You and your fearless band of Hobbits may not be blessed with any super powers
+or magic, but there are plenty of others who are. Stay close to them because
+your quest is daunting and your adversaries are ominous and evil. But courage,
+perseverance and imagination (with a little help from your friends) are enough
+to destroy even the evil Sauron's insidious control over your world.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Published by Melbourne House (Publishers) Ltd.
+Castle Yard House, Castle Yard,
+	Richmond TW1O 6TF, United Kingdom.
+	70 Park Street, South Melbourne, 3205, Australia.
+
+
+THE LORD OF THE RINGS - SOLUTION - TYPED BY VAXALON - 1994
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+PART 1 (played as Frodo)
+~~~~~~~~~~~~~~~~~~~~~~~~
+ Open the drawer, chest, cupboard and door, take one of the canvas backpacks
+and put into it the matchbox, bottle and food. Go east, then south to the
+main highway, the west until you reach the turn-off for the town hall. Go
+north and then east to meet the Mayor. Now go west, south, west and west to
+enter the Mathom House (if the guard refuses you entrance, just WEAR RING
+and go west). In here take the book and the candle. Then go west until you
+are back at the highway outside your cottage, then go east, north-east,
+north-east, south-east, south and east (through the yellow door) to find
+Merry. EAT MEAL until it's finished and go west and north. If there are no
+riders about go east and then south-east into the forest with the trees that
+move. If the riders are present then go north, south, east and south-east
+into the forest (moves east and west are fatal when the riders are about, 
+but others are usually safe until they've gone).
+ In the forest you need to remember two locations, the wide glade and the
+grassy glade. To pass from the wide to the grassy you need to go east,
+so just type WAIT and then EAST until the trees let you pass. In the grassy
+glade it's the same, except that you want to go south-east to find the 
+hilltop. At the hilltop go south to the riverbank then north-east to the
+willow. At this point your companions should fall asleep, so go north-east
+to Tom Bombadil and SAY TO TOM "HELP". Now return to the willow and WAIT.
+As soon as they are free go north-east to Tom's and EAT MEAL until it's
+finished. Thank Tom then go east until you meet the Barrow Wight. Now tell
+your companions to take a sword each, then WEAR RING and go east. 
+At the gate, TAKE OFF RING and KNOCK. When asked, SAY TO GATEKEEPER "FRODO"
+and then SAY TO SAM "GO SOUTH-WEST AND OPEN RED DOOR". Once sam has gone
+go south-west and then south into the store. Here take all the food supplies
+and then SAY TO SAM "GO NORTH AND KILL A BLACK RIDER". Do the same with
+Pippin, and when Sam returns tell him to do it again. WAIT until they both
+return and then go north and west and SAY TO STRANGER "HELLO". Now WAIT for
+Strider to leave, then FOLLOW STRIDER and continue to do so until you find 
+the flat stone. READ STONE and WAIT, then Strider will go off again so
+FOLLOW STRIDER once more until you reach the Fortress Of Fornost. Here WAIT
+until the Starling talks to Strider and then FOLLOW STRIDER back to the gate.
+Now WAIT twice and them go east, WAIT twice more and go east again. Around 
+this point the Black Riders should enter, so go north and then east to the
+bare hilltop and WAIT five times. Now go south and FOLLOW STRIDER.
+At the bridge Strider will stop, so SAY TO STRIDER "GO EAST" (you will have
+to do this at least twice). When he agrees to follow you, go east until
+you can go no further and Part One is complete.
+
+NOTE REGARDING BLACK RIDERS:
+ This solution depends on timing to avoid the Black Riders, but the 'correct'
+way to pass time is to use the pale green jewels. The following routine
+should enable you to learn the words needed to release their powers:
+ Go to the lake, then w, w, s, sw, s, e, ne, sw, w, s, to locate the Monk
+who will tell you what to do next. Then go n, w, n, w, s to locate the
+Green Knight. Attack and defeat him and make sure you take the Broken
+Medallion that he leaves behind. Then back to Monk, then, n, e, se, to
+locate the Red Lady, kill her and take her medallion. Return to monk and
+you should be allowed to pass through the stone door to the south of him,
+where you will find yet another door. Knock and wait until Radagast answers 
+and he should give you the scroll with the magic words on. Now whenever you
+encounter the Black Riders, make sure that Frodo, Pippin and Sam are
+carrying one jewel each and type in magic words to get rid of Riders.
+Give any spare jewels to Merry to carry.
+
+GENERAL TIPS
+1)Keep up your strength by eating at regular intervals.
+2)If the riders enter the same location as yourself, go any direction bar
+  east and west.
+3)Elfstones can be found in the willow (Pippin will be carrying them when
+  he is rescued), at the top of a tree that can be climbed by Hobbits
+  and in a plant pot (TAKE THE PLANT and EXAMINE POT).
+4)If you ever visit farmer Maggott's farm, just WAIT three times when dogs
+  arrive and all will be well.
+5)If you must go via the tunnel, then light the candle before you enter it
+  (OPEN MATCHBOX, LIGHT MATCH, LIGHT CANDLE WITH MATCH).
+6)If you want to use the ferry than take it in turns to wind the handle.
+7)If you really want to live like a Hobbit, then you need to get the pouch
+  and a pipe. Now OPEN POUCH, FILL PIPE and LIGHT MATCH (as before).
+  Then LIGHT PIPE WITH MATCH and enjoy a good smoke of the pipeweed.
+
+PART 2
+~~~~~~
+ Go north-east and north and you should encounter a small brown pony, then 
+go south-west to meet Glorfindel. Talk to him and he will tell you that he
+has been sent to guide you. Go south and then east, then RIDE STALLION and
+SAY TO STALLION "GO EAST" as soon as you see the Black Riders approaching.
+Continue east until you have crossed the ford, then GET OFF STALLION and
+WAIT until your companions appear. Go east to Elrond's courtyard, then 
+north and east until you meet Bilbo. EAT MEAL until it's finished, then
+FOLLOW BILBO to his bedroom. WAIT for him to speak, then SAY TO BILBO "NO"
+and repeat until he gives you the sword. Then WAIT and he will also give 
+you the Mithril Shirt. WEAR SHIRT then go west, east, south, west to meet
+the council of Elrond. When the meeting is over and you are assembled
+outside, WAIT and the pony will be laden with supplies. Proceed south, 
+south, south-west, south-east and then WAIT again. Go south-east and WAIT.
+ Go south-west and WAIT yet again. Now take Strider's advice and EAT. Then go
+south-east and at this point distribute the bundles of cakes amongst the
+company (e.g. SAY TO BOROMIR "TAKE CAKES"). Go east until you encounter
+the outline of a door upon the rock, EXAMINE DOOR and then SAY TO DOOR 
+"FRIEND". At this point you will be grabbed by the tentacle (ouch!), so
+ATTACK TENTACLES and when they release you, go east.
+ In the mines, go u, e, e, e, d, d, w, w, w, d, and you should be in a
+corridor (but see note 2). PUSH HORSE and the slab will open, so now go east,
+e, e, u, and east and you should be in a room with a book and a stone block
+in it, along with a pile of armour. READ BOOK and EXAMINE BLOCK in order to
+hear a noise in the corridor. WAIT and when they enter, ATTACK ORCS. Now go
+east and WAIT. When Gandalf talks to you, go east and LIGHT CANDLE WITH
+MATCH. Go down, d, s, d, south until you enter the square room. If all the
+party are not with you, you can backtrack at this point to round them up.
+When all are present, s, d, and then proceed east until you get to the
+bridge. WAIT on the bridge and Gandalf will tell you to flee, so go east
+until you emerge into Dimrill Dale then WAIT and FOLLOW GIMLI. Now head
+south-east until you arrive on the eastern bank of the Nimrodel. When the
+elf enters, WAIT, then proceed east to the river. Here the best policy is to
+SAY TO ELF "HELP" and then SAY TO GIMLI "GO NORTH-WEST". When he has gone,
+you must go north-east over the rope and then WAIT. Now go west and WAIT
+again. When the doors have opened, head east to the tree and then go up,
+then SAY TO GALADRIEL "HELP". When she has replied, climb down and go west
+to the bridge but do not cross it. Now go south until you reach the banks of
+the Anduin river and your quest is complete.
+
+NOTE:
+1)There are many other incidents and happenings along the way, this is just
+  one solution, but it is impossible in a game with so many variables to
+  include a comprehensive guide to everything. If you have managed to get 
+  through the game once, however, you should then be able to go back and
+  explore the complexity of it some more.
+2)If the route given above when entering the mines doesn't work, try instead
+  going up, e, e, e, d, d, w, d, s, d.
+3)If Gimli insists on killing the Tactiturn Elf then you can either send him
+  away or else try to take his axe from him.
+4)The above solution relies on timing to avoid the black riders, as follows:
+  After the Starling has talked to Strider, return to the gate of Bree and
+  WAIT twice, then go east and and WAIT twice more. Now go e, n, e, e, and
+  WAIT five times before heading south then east over the bridge. In case of
+  problems, just try varying the number of times you WAIT in each place until
+  you find the correct sequence to enable you to pass over the bridge in 
+  safety.

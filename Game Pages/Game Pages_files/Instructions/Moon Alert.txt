@@ -1,0 +1,52 @@
+MOON ALERT
+(Ocean)
+
+Emergency! - Battle across the rugged lunar terrain from the wreckage
+of your Space Fighter back to the lunar base. Scrolling landscape
+covers over 300 screens and 100% machine code give the game its
+authentic feel. Made in the U.K.
+
+
+The program runs on the 48K ZX Spectrum. Make it back to the lunar
+base in your MOON ROVA from the wreck of SPACE FIGHTER 7.
+
+LOADING
+Position the cassette in your tape recorder with the printed side
+upwards and make sure that it is rewound to the beginning. Ensure that
+the connection lead goes from the EAR socket on the recorder to the
+EAR socket on the Spectrum and that the MIC socket is disconnected.
+Type LOAD "" <ENTER> (note there is no space between the two quotes).
+The " is obtained by pressing SYMBOL SHIFT and the P key simultaneously.
+For further instructions consult the section on loading in your manual.
+Now press PLAY on the recorder. The screen message should appear and 
+the game will load automatically. If this does not happen try adjusting
+the volume and tone controls until loading takes place. At the end of
+the loading process follow the screen instructions.
+
+PLAYING
+Emergency! Moon Alert ... Space Fighter 7 is blasted by the alien
+attackers; your hope for survival rests in reaching the moon-base from
+the wreckage of your ship. Moon Rova appears undamaged and armed with
+bilateral photon cannon and perpendicular jet boosters, you set out
+across the rugged terrain; but the aliens have located your crash site
+and are even now scouring the planet's surface.
+Accelerate, brake, jump over canyons, blast rocks, zap the aliens and
+above all keep a cool nerve ... one false move and it's all over!
+Good Luck!
+
+STATUS AND SCORING
+On-screen scoring shows: current score, hi-score, and number of lives.
+The game has a two player option, Hall of Fame and is compatible with
+most joystick interfaces.
+
+CONTROLS
+Menu gives full options for control; please follow screen instructions
+(game pause facility included). Scrolling landscape covers over 300
+screens and points are scored as shown. [Not shown on inlay. JimG]
+
+
+MOON ALERT
+Developed by Ken Farmer and Jon Myers is one of many top selling games
+from Ocean. Ask your local stockist for other titles in our range.
+Produced by D.C. Ward
+(c) 1984 Ocean Software Limited

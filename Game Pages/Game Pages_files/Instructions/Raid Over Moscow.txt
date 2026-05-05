@@ -1,0 +1,322 @@
+RAID OVER MOSCOW
+(c)1984 Access Software
+----------------------------
+Docs for ATARI By Brian Hendricks, modified for COMMODORE 64 by 
+Magnus Welander with changes by REMEMBER from the original C64
+manual (this manual had additions as well as omissions!)
+
+Taken from Project 64
+Readapted for the Spectrum in 2001 AD by Alessandro Grussu
+http://www.ag-online.da.ru
+
+********************************
+
+RAID OVER MOSCOW is a multi-screen action game which requires 
+different skills and provides new sequences as you progress 
+through the game.  As squadron commander of the U.S. Defense 
+Space Station, you will lead your commandos on a virtual suicide 
+mission.  You will attempt to stop the nuclear attack.  If your 
+force is successful in knocking out the Soviet launch sites, you 
+must go into the city of Moscow itself. Armed with only the 
+weapons you can carry, your commandos lead an assault on the 
+Soviet Defense Center.
+
+
+CONTROLS
+Redefinable keyboard, Kempston, Cursor or Sinclair joystick.
+
+AUTOMATIC DEMO
+If left unattended for some time the game will go into demo mode. 
+Under demo the computer will briefly display all of the major 
+action screens.
+
+ABORT FEATURE
+To cancel the game (or demo) and return to the title screen 
+press any key.
+
+ 
+PLAYING INSTRUCTIONS
+
+SEQUENCE I - SAC HEADQUARTERS
+
+     The opening sequence is a world overview from Strategic 
+Air Command Headquarters (SAC). This computer overview alerts 
+U.S. Commanders of any nuclear activity. When a Soviet launch has 
+occurred, the launch point will turn white on the screen.  The 
+computer then immediately identifies the launch site, the target, 
+and the time to impact.  The Soviet Missiles will be identifiable 
+on the screen as a small cluster of white dots heading toward the 
+U.S.  Above the Earth is a white figure which is the U.S. Space 
+Station equipped with Stealth Fighter Aircraft.  After a launch 
+has been detected, you may enter the space station by pressing 
+FIRE.
+ 
+ 
+SEQUENCE II - DEFENSE TACTICS
+
+Once inside the space station, fighter pilots will begin to 
+scramble to their aircraft.  Each Pilot must take his plane out 
+of the station.  Because the aircraft is in a semi-weightless 
+condition, control is handled by three thrusters and the main 
+engine.(NOTE: after the pilot gets to his plane it will move to 
+the launch pad & take off by itself)
+
+PUSHING LEFT OR RIGHT on the joystick will rotate the aircraft to 
+the left or right, thus controlling the direction that you are 
+facing.
+
+PUSHING THE BUTTON will fire the vertical thruster, which will 
+raise the aircraft off the launch deck.   
+ 
+PUSHING FORWARD on the stick will fire the main engine causing 
+the aircraft to accelerate in the direction it is facing.
+ 
+PULLING BACK on the stick has NO EFFECT since there are no 
+brakes. 
+
+Once moving in a certain direction, the only way to slow your 
+speed is to rotate (by pushing left or right) until you are 
+flying backwards, and then fire the main engine (push forward on 
+the stick).
+
+Gravity is very slight, and you will gradually begin to fall back 
+to the deck unless you press the button occasionally to maintain 
+your altitude. If you hit the launch deck too hard your craft 
+will be destroyed. 
+          
+OPENING THE HANGAR DOORS is accomplished by pressing FIRE once your 
+aircraft is off the hangar deck. (The door will stay open only 
+for a short period of time!) Once outside the space station, the 
+screen will switch to the overview: Your craft will be identified 
+by a flashing white dot.  At this point, you must decide either 
+to attack the launch point (identified by the white launch site) 
+or to take more planes out of the station.  If you decide to 
+attack, guide your craft by the joystick to the target.
+ 
+NOTE: TAKING MORE PLANES OUT
+The advantages to taking more planes out is that if you lose one 
+you will not have to come back to get another plane from the 
+space station. One will appear at the start of the attack run. 
+If you wish to bring additional aircraft out of the station, 
+press FIRE (right after you leave the station) and follow the 
+same procedure as before.
+ 
+STRATEGY TIP
+Once the launch silos are destroyed (explained in the next two 
+scenarios) all remaining aircraft will go back inside the 
+station.  Each time you attack a new city and destroy the launch 
+site, you will have to go back inside the hangar. Because of 
+this, take out only the number of aircraft you believe will be 
+required to destroy one launch site. This will save time and 
+allow you a better chance to destroy the site before the missiles 
+hit U.S. targets. (NOTE: if the missiles reach their target 
+before you destroy the main silo your planes will not return to 
+the space station, they will "wait" for the next attack outside 
+of the station)
+ 
+ 
+SEQUENCE III - ATTACK RUN 
+
+Now that you are in Soviet airspace, you begin your attack run 
+on the Soviet launch sites. In order to reach the launch sites, 
+you must first make a run through enemy territory to reach the 
+missile silos. To avoid Soviet radar, your craft will have to 
+fly at a very low level, and this allows Soviet ground defense 
+a chance to shoot you down. Various defense weapons will appear 
+as you travel. Each of these are worth points. Beware of Soviet 
+heat seeking missiles, which will come up from behind you. When 
+you see them coming from behind, fly as low as you can to the 
+ground.  Once they have flown past you, shoot the missile down 
+for additional points.
+ 
+ATTACK RUN CONTROLS - The controls for this scene are similar to 
+the controls for a real jet aircraft. Push left to bank left, 
+right to bank right. Push forward to dive and pull back to 
+climb. (Some people find it helpful when playing this scene, to 
+face the right as if they were actually sitting in the aircraft.)
+
+LEVEL DIFFERENCES: On level 1, you are prevented from crashing 
+into the ground, but not on levels 2 or 3, also you can crash 
+into the objects on the screen.
+ 
+After the run through enemy territory is completed, prepare to 
+destroy the launch silos.
+ 
+ 
+SEQUENCE IV - THE MISSILE SILOS
+
+Once you reach the missile silos, check the control panel to see 
+how much time before the missiles hit the U.S.
+ 
+In this scene there is one main control silo surrounded by four 
+launch silos. Control of your aircraft is the same as the attack 
+run:
+
+   Move joystick left to move left.
+   Move joystick right to move right.
+   Push forward to dive.
+   Pull back to climb.
+ 
+Each silo has a small window which you must fire a rocket through 
+in order to destroy it.  When you are properly lined up at the 
+target, the ON TARGET caption will appear.
+ 
+As you attempt to line up on a target, the silo defense system 
+will fire at you. You can avoid the enemy rockets by moving left 
+or right or by moving up or down.  The elevation of the enemy 
+rocket is set at the same elevation as your aircraft at the time 
+of firing.
+ 
+The Center Silo is the control silo.  The nuclear missiles laun-
+ched are controlled from this point.
+ 
+When this silo is destroyed the missiles can no longer be 
+controlled and cannot be detonated.  This silo can be destroyed 
+first if time is running out, but when it is hit, the attack will 
+stop and you will switch back to the computer overview.  The 
+silos located on the side of the Control Silo are worth high 
+points.  In addition, when you destroy one of these silos, you 
+will be awarded an extra aircraft (you may have 9 maximum).  
+If you destroy all the silos in the scene, extra points will be 
+added to your score.
+ 
+As you attempt to destroy the silos, enemy aircraft will enter 
+from the left and try to shoot you down.
+ 
+NOTE:
+Pay close attention to the "Time to Impact" heading on the 
+control panel. If time is running out, you may want to attack 
+the main control silo first. However, because each silo is worth 
+an extra plane and a considerable amount of points, destroying 
+all of the silos will greatly enhance your score.
+ 
+ 
+SEQUENCE V - THE SOVIET DEFENSE CENTER
+
+You will not be allowed to attack the Soviet Defense Center in 
+Moscow until you have destroyed each of the three perimeter 
+launch sites at Leningrad, Minsk, and Saratov.  After the last 
+perimeter site is destroyed, you will make a final attack run 
+into the city of Moscow. Your mission is to blow up the Defense 
+Center. If you are successful, you will set Soviet military 
+strength back ten years!
+ 
+The scene opens with a U.S. Commando in  trench behind a stone 
+wall in front of the Defense Center. To control movement from 
+side to side move the joystick left and right. Moving the 
+joystick forward and back controls the elevation of the rocket 
+launcher on the shoulder.  Once a target is lined up, use the 
+button to fire.
+ 
+TARGETS - Soldiers are located on the walls on both sides of 
+the Defense Center. These soldiers will fire at you, so it is 
+imperative not to stay in the same position for very long in 
+the trench.
+ 
+Secondary targets include all of the towers on the buildings.  
+These can be destroyed to increase your score.
+ 
+Other targets are the doors located directly ahead of you. One 
+of these doors is an entrance into the reactor room (the next 
+scene).  While the other doors turn RED when hit, this door 
+turns WHITE (with a white square in the center). The door is 
+randomly selected and will be different each time.
+ 
+Enemy tanks will come out of side doors and try to stop you.  
+Again if you stay in one position too long you are likely to 
+get blasted.
+ 
+ENTERING THE REACTOR
+Once all the soldiers are eliminated, the tank destroyed, and 
+the door opened, you will progress to the next scene. Remember, 
+however, that all the towers on the building can be destroyed 
+for extra points.
+ 
+Once a soldier is shot off the wall, he will be replaced after 
+a certain amount of time.  Keep this in mind when you are 
+playing because you will not be able to progress to the next 
+scene until the white door is exposed and there are no men or 
+tanks in the scene.
+ 
+ 
+SEQUENCE VI - INSIDE THE REACTOR ROOM
+
+Now you have penetrated inside the Soviet Defense Center and are 
+inside the nuclear reactor chamber, which is the power source of 
+the facility.
+ 
+Description of the Screen
+A maintenance robot will travel from side to side to keep the 
+reactor temperature stable.  If the cooling process is interrup-
+ted, the reactor will overheat and become unstable. The system 
+will gradually reach critical mass and explode.
+ 
+Your objective is to sabotage this operation by neutralizing the 
+maintenance robot.
+ 
+The robot has defense capabilities and will be able to sense your 
+presence inside the facility.  He will begin automatically firing 
+at you.  In addition, he is invulnerable to a frontal attack. The 
+robot does have an Achilles heel. If the robot is hit from 
+behind, the control circuits can be damaged and it can eventually 
+be destroyed.
+ 
+Because the robot maintenance area cannot be penetrated; your 
+weapon is a small disc grenade. To hit the robot from behind, 
+your disc must be bounced off the rear wall of the facility.
+ 
+To help you get the proper angle you also have a laser beam 
+guidance system. This appears as a small black dot on the back 
+wall.  To adjust the guidance system, push forward on the 
+joystick to move right and pull back to move the target left.
+ 
+To move your commando push the joystick left or right.  When your 
+commando and target are properly lined up, push the button on the 
+joystick to release the disc.
+ 
+You have only a certain number of discs and men.  You can 
+retrieve your discs by catching them before they pass you. Each 
+time a disc hits the robot, that disc is lost. You are awarded 
+an extra disc when a robot is destroyed. To catch a disc, you 
+must move your man directly in front of the disc as it comes 
+towards you.  Each robot will require four hits from behind it 
+to destroy it. More than one robot will need to be destroyed to 
+accomplish your mission. 
+
+LEVEL DIFFERENCES: The number of robots which must be destroyed 
+is, on Level 1:  2 , Level 2:  4 , Level 3:  5 .
+
+In addition, each time you hit the robot, it moves faster and 
+becomes more aggressive.  The number of men you have in this 
+scene will be determined by how successful you have been 
+throughout the game.  Once you are out of men, the game is over.  
+If you run out of discs, and you still have men left, you will 
+have to go back outside to the previous scene (Defense Center) 
+and battle back inside in order to have more discs.
+ 
+In some cases, you may want to sacrifice a man in order to save 
+a disc. If the disc is still on the screen when a man is lost, 
+the disc will be saved.
+ 
+After the next to last robot is destroyed, the final robot 
+offers up a big problem. This last robot is so aggravated by 
+your presence that he neglects the reactor, which is already 
+unstable.  This will cause the reactor to go critical. On the 
+right edge of the screen is a timer that will show the amount 
+of time to ETCM (Estimated Time To Critical Mass).  
+
+At critical mass the reactor will explode taking the Defense 
+Center with it. Whether you escape alive or not will be 
+determined at this point. If you destroy the robot with enough 
+time left to make it to your plane you will survive.  If not, 
+we will notify your family.
+ 
+ 
+SCENE VII - THE FINAL CHAPTER
+
+This scene will let you know if your mission is entirely 
+successful.  If you escape, you will be awarded considerable 
+bonus points.
+
+      
+-END-

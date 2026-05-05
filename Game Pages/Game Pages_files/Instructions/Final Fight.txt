@@ -1,0 +1,129 @@
+﻿FINAL FIGHT
+===========
+
+When Haggar became Mayor of Metro City, he thought he’d put his street fighting days behind him for good. No 
+such luck - his delectable daughter, Jessica’s, been kidnapped by the lawless Mad Gear Gang and Haggar must 
+face his Final Fight!
+
+- Simultaneous 2-player option.
+- Choose from 3 different characters - all hardened streetfighters.
+
+FINAL FIGHT™ — NOTHING HITS HARDER!
+
+
+LOADING INSTRUCTIONS CBM 
+
+64/128 Cassette
+Press SHIFT and RUN/STOP keys simultaneously. Press PLAY on the cassette deck then follow on-screen prompts.
+
+CBM 64/128 Disk
+Type LOAD",8,1 and press RETURN, then follow on-screen prompts.
+
+SPECTRUM 48/128K, +2 Cassette
+Type LOAD "" and press ENTER. Press PLAY on the cassette deck. Use LOADER option on +2 computers.
+
+AMSTRAD CPC Cassette
+Press CTRL and small ENTER keys simultaneously. Press PLAY on the cassette deck. Follow on-screen prompts.
+
+AMSTRAD CPC Disk
+Type RUN"DISK and press RETURN. The game will load and tun automatically.
+
+ATARI ST/CBM AMIGA
+Insert game disk into drive and switch on computer. The game will load and run automatically.
+
+
+YOUR FIGHTERS
+
+GUY (b. 12.8.1965)
+After mastering the art of Ninjitsu can attack with unequalled speed. He often catches his opponents off guard 
+with his special "Off-the-wall jump".
+
+CODY lb. 18.4.1967)
+His girlfriend, Jessica, was kidnapped by the Mad Gear gang. Being an expert in martial arts he is especially 
+good with knives.
+
+HAGGAR tb.3.9.1943)
+A former champion street fighter, is an expert at the BACK DROP and the PILE DRIVER after mastering skills in 
+professional wrestling: He is now the mayor of Metro City and Jessica is his daughter.
+
+
+SCENARIO
+
+Battle through six breath-taking levels against the Mad Gear gang who've kidnapped Jessica in Metro City! 
+Become Haggar, or one of his lethal sidekicks, Cody or Guy, and head for the streets. Use your fists and feet 
+as well as Knives, Pipes, Muramashes or Masamunes. Fight in subways, seedy warehouses, wrestling rings and on 
+the Underground and on trains. You'll find yourself in hand-to-hand combat with mad, bad giants and sinister 
+Samurai swordsmen! Look on the bright side, though - Cody's a veteran Karate champion and Guy's one hell of 
+a Ninja fighter. As for Haggar himself - he's bigger, faster and meaner than anyone alive!
+
+
+HINTS AND TIPS
+
+- As you fight your way through the dirty streets, look-out for a staircase that will lead you down to the 
+  underground storeroom of the Mad Gears.
+
+- Crush all opposition in the storeroom before continuing to the subway.
+
+- Battle your way along the platform until the train arrives. During your journey, you will encounter several 
+  suicidal attacks, be alert.
+
+- The train stops between stations, get out and fight your way along the track, while in a dark and dripping 
+  wet tunnel.
+
+- You will then fight in an underground wrestling ring against the champion, in front of hundreds of screaming 
+  Mad Gears. Stamina is the best way to success.
+
+- When you have defeated the champion, gain extra points by smashing up the car, parked at the filling station, 
+  against a time limit.
+
+- Attack the enemy on the street just outside the restaurant then through the bar and into another blood-thirsty 
+  wrestling arena, to fight more of the Mad Gears champions.
+
+- Fight along the street against a crooked cop, he will shoot at you in order to destroy you. Therefore your 
+  special techniques will be required to destroy this menacing cop.
+
+- When crossing a catwalk in the industrial area, fight the Mad Gears while avoiding jets of flame rising from 
+  below. This will lead you towards a construction lift where you will combat a magical, grenade lobbing ninja 
+  commando.
+
+- Extra points can be achieved by breaking panes of glass in a factory, against a time limit.
+
+- Save your best combat skills as you fight past a rather odd looking statue of Liberty, for the final fight to 
+  free Jessica.
+
+- Begin fighting on the street near the hotel. Once inside, avoid falling chandeliers and search for the lift to 
+  take you up to the roof garden. This is the private domain of the Mad Gears boss. Only his destruction will 
+  allow you to accomplish your goal.
+
+
+JOYSTICK CONTROLS
+
+Players with fire button depressed:
+
+		   JUMP & KICK
+
+			|			  \     /
+			|			   \   /
+			|			    \ /	
+			*			-----*-----
+			|
+			|			FLYING KICK IN
+			|		       DIRECTION FACING
+ 
+                SPECIAL MOVES FOR 
+                   EACH PLAYER
+
+Fire Button = Punch
+
+Players without fire button pressed can walk: Left, Right, Up, Down or Diagonal.
+
+ATARI ST /AMIGA USERS - To pick up an object ie; weapon or food stand above the object and press fire.
+
+
+
+FINAL FIGHT ™ ©1991 CAPCOM USA.,Inc. All rights reserved. CAPCOM ® is a registered trademark of CAPCOM 
+USA., INC. Manufactured and distributed under license by U.S. GOLD Ltd., Units 2/3, Holford Way, Holford, 
+Birmingham, B6 7AX. Tel: 021 625 3366.
+
+Copyright subsists on this program. Unauthorised copying, lending or resale by any means strictly prohibited.
+

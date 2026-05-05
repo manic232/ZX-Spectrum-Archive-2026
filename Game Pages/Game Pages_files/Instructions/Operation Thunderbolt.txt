@@ -1,0 +1,182 @@
+OPERATION THUNDERBOLT
+Ocean
+
+
+SCENARIO
+ROY ADAMS IS BACK!
+The Hi-jack report came from a DC10 leaving Paris for
+Boston - Arab Guerillas were in control of flight 102 and
+had turned the aircraft towards Africa ... The plane lands
+in hostile territory and the terrorists begin their demands
+
+A rescue operation is called for and there is only one man
+to head it up, Roy Adams.
+
+Weary from his Operation Wolf mission, he is persuaded to
+put his crack team into a new sortie to free the hostages.
+
+Bringing you enhanced shoot-em-up action for one or two
+players, Thunderbolt not only reproduces the horizontally-
+scrolling gameplay of Wolf but brings 3D action to the
+scenario, pitting you against swooping jets, helicopters,
+tanks and many more awesome adversaries!
+
+Get the laser sight, or the bulletproof vest, but watch out
+for those air-to-ground missiles! GOOD LUCK IN YOUR
+MISSION.
+
+
+LOADING
+
+CASSETTE
+1.	Place the cassette in your recorder ensuring that it is
+	fully rewound.
+2.	Ensure that the MIC socket is disconnected and that the
+	volume and tone controls are set to the appropriate levels.
+3.	If the computer is a Spectrum 48K or Spectrum+ then
+	load as follows:- Type LOAD "" (ENTER). (Note there is
+	no space between the quotes). The " is obtained by
+	pressing the SYMBOL SHIFT and P keys simultaneously.
+4.	Press PLAY on your recorder and the game will load
+	automatically. If you have any problems try adjusting the
+	volume and tone controls and consulting Chapter 6 of
+	the Spectrum manual.
+5.	If the computer is a Spectrum 128K then follow the
+	loading instructions on-screen or in the accompanying
+	manual.
+
+48k: Each level will load in separately - follow on screen
+instructions. Data is on side B of the tape.
+128k: The first five levels load in one part, and the
+remaining levels are loaded as required - follow on screen
+instructions.
+
+SPECTRUM +3 DISK
+Set up system and switch on as described in your
+instruction manual. Insert disk and press ENTER to choose
+'LOADER' option. This program will then load automatically.
+Please ensure the disk remains in the drive throughout the
+game.
+
+
+CONTROLS
+
+This is a one or two player game which is controlled by
+either Joystick or Keyboard which is fully redefinable. (All
+usual Spectrum joysticks.)
+
+PRE-SET KEYS
+Q -	UP
+A -	DOWN
+O -	LEFT
+P -	RIGHT
+SPACE -	FIRE
+
+KEYS FOR KEYBOARD AND JOYSTICK
+T -	PAUSE GAME
+R -	FIRE ROCKET
+ENTER -	FIRE ROCKET - PLAYER 2 WHEN NOT USING KEYBOARD
+F -	START PLAYER 1
+G -	START PLAYER 2
+
+EITHER PLAYER MAY JOIN THE GAME AT ANY TIME.
+
+
+STATUS AND SCORING
+
+The Status Panel displays your Score, Life remaining,
+number of bullets remaining, number of magazines
+remaining, and number of rockets remaining for either one
+or both players.
+
+Also shown are the items held by either player. The item
+on the left is the last one collected. The middle item is the
+bulletproof vest (if collected) and the item on the right is
+the Laser Sight (if collected). When either player's life level
+reaches zero then he will die but can restart by pressing his
+"player start" button. When both players' energy is zero
+there will be a continue play option.
+
+Points are achieved by shooting enemies. At the end of the
+game, if successfully completed, points are awarded for the
+number of hostages rescued and the life level remaining.
+
+
+GAME PLAY
+
+The player equipped with sub-machine guns and rockets
+must shoot all the enemies who appear on screen.
+Remember that your energy and ammunition are limited,
+and these can only be replenished by picking up objects
+such as magazines and power bottles that appear on
+screen or those parachuted down in crates.
+
+LEVEL 1
+You must work your way, on foot, through hostile soldiers
+and reach the end of the level where an enemy spy is
+hiding to complete mission one.
+
+LEVEL 2
+You must attack the ammunition depot within a certain
+time limit. If you are successful you will receive more
+magazines, rockets and bullets.
+
+LEVEL 3
+You are driving a jeep and must reach the enemy hideout
+where some hostages are being held.
+
+LEVEL 4
+You will encounter hostages that have been taken from
+the aircraft and imprisoned. To release them you must
+shoot the locks on the doors, but avoid shooting them in
+the midst of all the action! Beware - at the end of this
+mission you will encounter a heavily armed officer and
+must use all your skills to defeat him.
+
+LEVEL 5
+The boat - battle your way through hostile craft to reach
+the enemy headquarters where more hostages are being kept.
+
+LEVEL 6
+Inside enemy headquarters - you must rescue the hostages
+to complete your mission. Again you will face heavily
+armed officers who must be defeated.
+
+LEVEL 7
+Make your way down the run-way destroying everything in
+your path to reach the get-away aircraft.
+
+LEVEL 8
+When you finally reach the hijacked airliner you must walk
+up the centre aisle taking out the grenade throwing and
+machine-gun blazing hijackers as you go. Take care to avoid
+the hostages (children). Once you have reached the cockpit
+you must shoot the last hijacker who is using the pilot as a
+shield. If you take too long to eliminate him you will not
+survive his machine gun fire. If you shoot the pilot your
+only means of escape will perish!
+
+
+HINTS AND TIPS
+
+1.	Pick up all objects that fall from the top of the screen by
+	shooting them. These include magazines, power bottles,
+	medical packs, bulletproof vests and laser sights.
+	Animals, if shot, will sometimes drop these items.
+2.	Try not to spray your opponents with bullets as your
+	ammunition is limited. Pick your targets carefully.
+3.	Destroy the heavy vehicles before the soldiers as they
+	inflict more damage.
+4.	If you are overwhelmed by soldiers and your energy is
+	low, use your grenades.
+
+
+CREDITS
+
+(c) 1988 Taito Corp. All rights reserved.
+Programming by Andrew Deakin
+Graphics by Ivan Horn
+Music and Sound Effects by Matthew Cannon
+
+Produced by D.C. Ward
+(c) 1989 Ocean Software Limited

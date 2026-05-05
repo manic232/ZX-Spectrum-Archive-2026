@@ -1,0 +1,108 @@
+                I, OF THE MASK
+                ==============
+               -BY SANDY WHITE-
+
+   Welcome to the Space Trials on Planet
+Newgamma III. This is your most important mission.
+Keep your translator on at all times - no confering
+during the qualifying bout, you know the
+consequences.
+   Many of you will already be skilled or qualified
+pilots, fighters or strategists. But do not be too
+confident because here we only take the best, and
+when we say the best, we mean by OUR standards.
+   For those not familiar with A4A PACK JET SUITS,
+the controls are not difficult. A few earth minutes
+running and it will become second nature.
+   In low gravity, the effects of your suit are boosted
+and you will take flight.
+   Your laser is attached to your belt, pointing
+forwards. This leaves your hands free to use your
+JET-SUIT controls. All instruments are projected onto
+a Head-Up Display onto the bottom of the inside of
+your helmet. When tilted, the area of map will
+expand to fill your whole visor.
+   The maze contains 32 universes. Each universe
+has 3 crystals at its entrance. A single shot at the
+chosen crystal will activate it.
+   One crystal will transport you to another universe
+which is located nearby.
+   One crystal will bean you to another part of the
+maze, and one will reveal a robot mechanism.
+   There are enough robot parts throughout the
+maze to create at least one complete robot. You
+require the Robot to escape from the maze. Each
+robot component must be bombarded successfully 3
+times to render it harmless. The robot parts must be
+collected in the correct order - feet first.
+   When you finally collect the Mask and it appears
+on your Robot, you will have won the game and
+become, Of The Mask.
+
+                ORDER OF COLLECTION
+                -------------------
+  2 - FEET                         2 - UPPER ARMS
+  2 - CALFS                        2 - ELBOWS
+  2 - THIGHS                       2 - WRISTS
+  1 - LOWER ABDOMEN                2 - HANDS
+  1 - CHEST CAVITY                 1 - MASK
+
+
+                   AUTHORS NOTE
+                   ------------
+Out of ammo? There's always a help in hand!
+
+                                    Good luck.
+
+               LOADING INSTRUCTIONS
+               --------------------
+   You will find the procedure for loading a program
+from cassette in the Spectrum and Spectrum Plus
+basic manuals.
+   The procedure for loading this program is given
+below:
+
+Type    LOAD""
+Press   ENTER
+
+The program will auto-run on completion of loading.
+
+                  GAME CONTROLS
+                  -------------
+This program supports the following joysticks:
+KEMPSTON JOYSTICK INTERFACE
+SINCLAIR INTERFACE II
+PROTEK/CURSOS JOYSTICK INTERFACE
+
+                    KEYBOARD
+                    --------
+Select Protek / Cursor for:-
+5 = LEFT                      8 = RIGHT
+6 = BACKWARDS                 0 = FIRE
+7 = FORWARDS                  H = MAP AND PAUSE
+
+Select Sinclair Interface II for:-
+6 = LEFT                      9 = FORWARDS
+7 = RIGHT                     0 = FIRE
+8 = BACKWARDS                 h = MAP AND PAUSE
+
+
+          I OF THE MASK COLOUR POSTERS
+               ARE AVAILABLE FROM
+
+           Electric Dreams Software
+             31 Carlton Crescent
+                 SOUTHAMPTON
+                  Hampshire
+                   SO1 2EW
+
+for 50 pence (including postage and packing)
+cheque/postal orders made payable to:
+ELECTRIC DREAMS SOFTWARE
+
+            ARE YOU THE BRIGHT SPARK
+               WE ARE LOOKING FOR?
+   If you have written any software in Assembler/
+Machine Code which is of a high commercial
+standard then please contact Paul Cooper for an
+informal discussion on Southampton (0703) 225282

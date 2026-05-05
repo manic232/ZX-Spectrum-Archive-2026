@@ -1,0 +1,224 @@
+PING PONG
+
+Its program code, graphic representation, and
+artwork are the copyright of Imagine Software
+(1984) Limited and may not, be reproduced,
+stored, hired or broadcast in any form
+whatsoever without the written permission of
+Imagine Software (1984) Limited. All rights
+reserved worldwide. Ping Pong runs on the
+Spectrum 48K and Spectrum +.
+
+THE GAME
+
+Ping Pong is a realistic simulation of table
+tennis for one player.
+The screen displays a three dimensional view
+from above a ping pong table with the players
+depicted as bats.
+The game can be played at five different skill
+levels against the computer, or another
+player.
+
+LOADING
+
+Type LOAD "" <ENTER> [Note there is no
+space between the two quotes]. The " is
+obtained by pressing SYMBOL SHIFT and P
+key simultaneously. For further instructions
+consult chapter 6 of your manual. Now press
+PLAY on the recorder. The screen message
+should appear and the game will load
+automatically. If this does not happen try
+adjusting the volume and tone controls up until
+loading takes place.
+
+CONTROLS
+
+The game is controlled by joystick or
+keyboard (which is redefinable).
+The player is first offered the option of a single
+or two player game.
+
+One Player
+The player has the following options
+Keyboard
+Kempston Joystick
+Sinclair Interface 2
+Cursor Joystick
+
+Two Player
+This is the same for one player, but with the
+following options.
+Keyboard v Keyboard [Players use different
+keys]
+Keyboard v Joystick [Any of the joysticks listed
+above]
+Joystick v Joystick [Sinclair Interface 2 only]
+
+KEYBOARD
+
+SERVE     - Enter
+BACKHAND  - X
+SMASH     - H
+CUT       - N
+DRIVE     - B
+
+JOYSTICK
+
+                SMASH    
+                  ^
+                  |
+                  |
+DRIVE <-----------+------------> CUT
+                  |
+                  |
+                  v
+                SERVE
+
+BACKHAND Press fire button.
+
+SERVING
+
+Toss up the ball for the serve by using the serve
+control.
+Move joystick left or right to serve with drive or
+cut respectively. You may serve backhand by
+holding down the firebutton and have seven
+seconds in which to make your serve.
+If you do not serve before the countdown
+reaches zero, the ball will be dropped on the
+floor.
+
+STATUS and SCORING
+
+The Scoreboard
+In a two player game the scoreboard is
+displayed after each game. It shows the points
+won by each player for each game.
+
+
+
+               /-----------\
+              /             \
+             /               \
+            /                 \
+           /                   \
+     1   =/=====================\=   4
+         /                       \
+        /                         \
+       /                           \
+      /                             \
+     /                               \
+    /                                 \
+    -----------------------------------
+    2   I                         I   6
+
+    5                                 3
+
+Indicator 1 shows judge's calls on player one's
+shots. Shots will be called as OUT or NET.
+Indicator 2 shows player one's present game
+points.
+Indicator 3 shows the current level, from 1 to 5.
+Indicator 4 shows the calls on player two.
+Indicator 5 displays the time left to serve.
+Indicator 6 shows player two's present game
+points.
+
+Entering your name on the High Score Table
+
+Select the desired letter by moving left or right
+and press the fire to make your selection.
+A score of ten points is awarded each time a
+player manages to hit the ball. 500 points are
+awarded for a successful, point-winning smash.
+At the end of each level, 1000 points are
+awarded for each point of the winning margin,
+as a bonus.
+Both player's scores and the highscore are
+displayed at the top of the screen. If a player's
+score is large enough he will be given the
+opportunity to enter his name in the high score
+table at the end of his game
+
+
+PLAYING
+
+Each game is played to 11 points. The winner is
+the first to reach 11, however he must win by at
+least two clear points unless the score reaches
+15, in which case the game will terminate.
+
+The service changes after every five points,
+however if a tie score of 10-10 is reached the
+service changes after every point from
+then on.
+
+If a two player game is being played then a
+match of three games is played. The first player
+to win two games wins the match
+In a one player game if the player wins then a
+new game is started on the next highest
+difficulty level.
+
+HINTS and TIPS
+
+When To Use Each Shot Type
+
+Smash - This is a superfast shot used to return
+'floaters'. Floaters will make a distinctive sound.
+Drive - This is a fast shot normally used to
+return the ball.
+Cut - This is a slow shot which can be used to
+interfere which your opponent's timing.
+Forehand or Backhand - Switching back and
+forth from backhand to forehand is effective
+when your opponent tries to catch you on your
+undefended side or when you want to force
+your opponent to move right or left.
+The direction in which the ball is returned
+depends on the timing with which you hit it
+back.
+
+Ping Pong Terminology
+
+In - The serve or return is good.
+Out - The serve or return is bad.
+Net - A served ball hits the net and is OUT.
+Deuce - A tie score at 10 and above.
+Love All - Score is 0-0 at the start of the match.
+
+
+This software tape has been carefully
+developed and manufactured to the highest
+quality standards. Please read carefully the
+instructions for loading. 
+If for any reason you have difficulty in running
+the program, and believe that the tape is
+defective, please return it direct to:
+
+Mr. Yates, Imagine Software (1984) Limited,
+6 Central Street, Manchester M2 5NS.
+
+Our quality control department will test the
+product and supply an immediate replacement
+if we find a fault. If we cannot find a fault the
+tape will be returned immediately to you, at no
+charge.
+
+PLEASE NOTE THAT THIS DOES NOT
+AFFECT YOUR STATUTORY RIGHTS.
+
+
+PING PONG
+
+©Konami
+©1986 Imagine Software (1984) Limited
+Produced by D. C. Ward.
+
+==========================================================
+Taken from Project 64 http://project64.c64.org
+Readapted for the Spectrum in 2001 AD by Alessandro Grussu
+http://www.ag-online.da.ru
+Re-edited (mistakes intact) with correct Spectrum instructions by Frode Tennebø, 20050821.

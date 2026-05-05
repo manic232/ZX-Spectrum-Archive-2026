@@ -1,0 +1,87 @@
+GARFIELD - BIG, FAT, HAIRY DEAL - THE EDGE SOFTWARE
+
+LOADING SPECTRUM VERSION
+
+With Spectrum in 48K mode enter: LOAD"" [ENTER]
+
+LOADING COMMODORE 64 VERSION
+
+If using with a Commodore 128, select 64 mode before loading, then...
+
+TAPE - press SHIFT and RUN/STOP
+DISK - type LOAD"*",8,1 [RETURN]
+
+SPECTRUM CONTROLS
+
+Spectrum version works with keyboard controls (default or user
+definable), or Sinclair or Kempston Joysticks.
+
+JOYSTICK      ACTION                 DEFAULT KEY
+
+LEFT          WALK LEFT              O
+RIGHT         WALK RIGHT             P
+UP            JUMP                   Q
+DOWN          PICK UP/DROP OBJECT    A
+FIRE ONLY     KICK                   M
+FIRE/UP       WALK INTO SCREEN       M/Q
+FIRE/DOWN     USE/EAT OBJECT         M/A
+              PAUSE                  H
+
+COMMODORE CONTROLS
+
+Joystick only in Port 2...
+
+LEFT          WALK LEFT
+RIGHT         WALK RIGHT
+UP            JUMP
+DOWN          PICK UP/DROP OBJECT
+FIRE/LEFT     KICK LEFT
+Fire/RIGHT    KICK RIGHT
+FIRE/UP       WALK INTO SCREEN
+FIRE/DOWN     USE/EAT OBJECT
+FIRE ONLY     TOGGLE STANCE - ALL FOURS/HIND LEGS
+SPACE         PAUSE
+F1            MUSIC ON (Press during title screen)
+F3            SOUND EFFECTS ON (Press during title screen)
+
+I wonder what day it is? Hum...
+
+"Garfield!"
+What's that??
+"Garfield... Arlene's been taken to the City Pound!!"
+Hellooo Monday... it must be Monday. Nothing good happens to me on a
+Monday.
+
+Well, I suppose... yawn... that it's time to get started. Where's
+Odie? Where is the world's most stupid dog? Perhaps he could go to the
+pound for me... no I suppose I'd better go myself...
+
+This is going to be difficult... John's even locked the refrigerator.
+Can't even say Hello to the Lasagna... and I suppose I can't even get
+at his coffee whilst he's looking...
+
+It should be easy for me to find the City Pound... although it will
+probably be a little easier for me to find some other places...  say
+the Butcher...
+
+Yup... I should be okay as long as Odie and Nermal (the World's cutest
+kitten) can help me... and as long as I don't get too many Snack
+Attacks!
+
+HINTS AND TIPS
+
+Garfield naturally gets pretty hungry from time to time... well, OK all
+of the time...  and there's plenty of things around that look
+appetising... hum... in fact, most things look appetising when he gets
+hungry enough. Which is most of the time. But some of the objects are
+going to be pretty useful to our favourite cat in his search for the
+City Pound and his quest for a way to get into it. Keep his energy up,
+and try not to get too tired... well a cat's got to rest. But he's
+going to have to be a pretty smart cat to get Arlene out (Super-Sleuth
+look out, Sherlock-Cat is about). And he'll have to use every ounce of
+his super deductive powers to... well to get out of the house for a
+start! Preferably with a full stomach and plenty of rest. But just
+because there's a good deed to be done doesn't mean a dude can't have
+a little fun kicking his favourite friend... or.... perhaps eating a
+little something... So get out there, do it to Monday before it does
+it to you, and, yeah, take it easy...

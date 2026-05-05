@@ -1,0 +1,53 @@
+LITTLE PUFF IN DRAGON LAND
+(Code Masters - Cartoon Time)
+
+
+Little Puff's Mum had told him not to wander too far from home. But
+one day he couldn't resist the temptation to go off and explore the
+mysterious world that lay beyond Dragon Land. After a while he was
+hungry - but he was too little, and not fierce enough to catch
+anything, so he ran huffing and puffing his way back home for dinner.
+But his way was blocked by a ferocious guard demanding a pass. What
+could Puff do - he had no pass! This is where you come in ...
+
+... you must help Puff find the four parts to the pass, avoiding the
+hazards that confront him at every turn - and guide him safely back
+home!
+
+
+LOADING: 128K USERS PRESS ENTER
+	  48K USERS TYPE LOAD"" PRESS ENTER
+
+CONTROLS
+                    Joystick  Keyboard
+Left                Left      B
+Right               Right     N
+Jump/through door   Up        S
+Pick up             Down      X
+Fire (breathe fire) Fire      A
+Select item         SPACE     SPACE
+Quit                ENTER     ENTER
+Pause               DEL       DEL
+
+Press 1 or 2 for KEYBOARD or JOYSTICK.
+Press 3 if you want to define your own keys.
+Press SPACE to start
+
+WHAT TO DO ...
+You must collect all four parts of the pass to get into Dragon Land.
+These are found in envelopes. Then you must pay the toll collector
+something to go over the bridge to get back home.
+
+HINTS AND TIPS
+* Collect the potion to breath fire.
+* You can guide Puff to fly left or right when you go down a hole -
+  but only if you take a running jump at into it. [sic]
+* Get a foot pump to inflate the life belt, but watch out - it will
+  only stay up for a limited time if you drop the pump.
+* Pick up food for more points.
+
+
+Programming          Glenn Benson
+Graphics             Paul Johnson
+Music                 David Kelly
+Illustration     Allastair Graham [sic]

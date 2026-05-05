@@ -1,0 +1,244 @@
+THE NEVERENDING STORY
+OCEAN
+SPECTRUM 128K
+
+
+"A BOY WHO NEEDS A FRIEND FINDS A WORLD THAT NEEDS A HERO"
+
+The Story
+---------
+The computer game follows the main theme of the film and is set in 
+"Fantasia", a world of the imagination facing extinction by the "All 
+consuming Nothing", eroding its very fabric and condemning it to oblivion. 
+It is in desperate need of a hero from the "Real World", someone to believe 
+in it and thus renew its life.
+
+That someone is a small boy, Bastian Balthazar Bux, who discovers a dusty 
+old book on the shelves of an antique bookshop. The title is "The 
+Neverending Story" and it chronicles the ever changing fortunes of the 
+people of "Fantasia".
+
+Bastian takes the book and blowing the dust from its jacket reveals the 
+front cover depicting "Auryn" the silver and gold medallion symbolizing the
+strength of "Fantasia". On reaching school he avoids his teachers, climbs 
+into an abandoned attic and setting himself down on an old rug begins to 
+read the compelling tale.
+
+The many peoples of "Fantasia" are gathered to seek audience with their 
+Empress, but are dismayed to find her ill and weak. "Cairon", the physician
+gives them encouragement, telling of a hero, a small boy from the plains by
+the name of Atreyu - the only person who can find the saviour of 
+"Fantasia". In the game you take the part of Atreyu and only through your 
+endeavours will the kingdom be restored to its former glory!
+
+The main characters that you will encounter are listed below and you must 
+judge whether they will help you or hinder your quest.
+
+The Three Travellers -
+Rockbiter, Teenyweeny and Nighthob, these three friends are on their way to
+the Ivory Tower, home of the Empress, to see her.
+
+Gmork the Werewolf -
+The main servant of the "Nothing". He will use all his powers to catch the 
+one person who can stop his master from destroying "Fantasia" - so don't 
+dawdle.
+
+The Empress -
+The eternal, ever youthful, ruler of Fantasia. She lives at the very top of
+the Ivory Tower.
+
+Morla - The Ancient One -
+The oldest inhabitant, Morla is an enormous earth covered tortoise who 
+lives in the "Swamps of Sadness".
+
+The Gnomes -
+Engywook and Urgll, live in the Southern Lands.
+
+Falkor -
+The Luckdragon, a huge white dragon who will lend assistance to anyone who
+carries Auryn.
+
+Artax -
+The faithful steed of Atreyu.
+
+The Game
+--------
+"The Neverending Story" is a graphic text adventure with illustrations for 
+some locations, some "Events" and all objects. Experienced Adventurers may 
+not wish to read the following explanation but for all others it will 
+enhance the understanding and enjoyment of the game.
+
+If you haven't played an adventure game before, don't be put off, it's not 
+difficult and will give hours of enjoyment. You are embarking on a voyage 
+of discovery with problems to solve, obstacles to avoid, characters to meet
+and an ultimate goal (in this case to save Fantasia from the "Nothing"). 
+
+The computer will describe to you, in words, your current location, the 
+characters and any objects that are there. Once you have decided what to do
+(in this game you take the role of the hero, Atreyu) you instruct the 
+computer by typing in your request in a limited form of English. The format
+of the words that the computer understands is explained later in "The 
+language", but it has been deliberately kept simple to allow more room for 
+game data. If the computer can understand what you have typed it will 
+perform the required action and describe the results to you.
+
+The game is split into three parts which must be played in order, you 
+cannot begin Part II until you have completed Part I and so on. The three 
+sections are divided up by storyline and any objects that you are carrying
+when you finish a part will be retained for possible use in the next one.It
+is important to remember this if you come across an object, but can find no
+use for it in the current part.
+
+The use of graphics in this game is quite different to some adventure 
+games. Firstly every object has a small illustration; up to five can be 
+carried at one time and they will be displayed at the top right-hand of the
+screen. If at any time, you have a companion with you (either Falkor or 
+Artax) then their picture will appear at the bottom of the object display 
+area. Larger illustrations for locations or depicting events appear in the 
+top left of the screen and approximately one third of these are of the 
+"Event" type. It should be noted that none of the graphics are designed to 
+replace the text but to enhance it!
+
+                   ------------------------------------
+                   -         (BACKGROUND SCENE)       -
+		   -                                  -
+                   -               ^            ^     -
+                   -               |  COMPANION |     -
+                   -               |            |     -
+                   -         OBJECTS YOU ARE CARRYING -
+                   ------------------------------------
+                   -                                  -
+                   -                                  -
+                   -          (MAIN TEXT AREA)        -
+                   -                                  -
+                   -                                  -
+                   -                                  -
+                   ------------------------------------
+
+The Language
+------------
+You control Atreyu by instructing the computer in a restricted form of 
+plain English, however there are a few simple rules to bear in mind:-
+
+(i) Every instruction must have a verb. Some of the "verbs" that the 
+computer understands are not strictly English verbs, so it is helpful if 
+you regard a "verb" as a word which causes an action.
+
+(ii) Some "verbs" need a "noun" to operate on - e.g. GET AURYN "Get" is the 
+verb and "Auryn" is the noun.
+
+(iii) The program will pick out the words it "understands" from a 
+sentence and if it finds a word that isn't in its vocabulary, the computer
+will tell you what it is.
+
+(iv) If you wish to type in more than one sentence at a time you can 
+separate them with the word "and" e.g. Get the apple "and" go East.
+
+(v) You need only type the first three letters of a word for it to be 
+understood.
+
+The following is a list of "Verbs" (Action Words) which the computer will
+understand.
+
+Acceptable "Verbs"
+
+GO		NORTH		NORTHEAST	EAST
+SOUTHEAST	SOUTH		SOUTHWEST	WEST
+NORTWEST	UP		DOWN		DROP
+ATTACK		LIGHT		ENTER		IN
+PULL		LOOK		GET		TAKE
+INVENTORY	EAT		FLY		CLIMB
+BLOW		RIDE		SMASH		HIT
+OUT		READ		REMOVE		LOCK
+OPEN		CUT		UNLOCK		SAY
+CLOSE		TIE		FASTEN
+
+Special Verbs
+
+WAIT - Use if you want to just let time pass.
+
+PAUSE - To pause the game, if you leave the game unattended without doing 
+this "Time" will still continue.
+
+SAVE - To save the current state of play.
+
+LOAD - To restore a saved game.
+
+QUIT - To end the game in progress.
+
+We wish you many hours of enjoyment with "The Neverending Story".
+
+Here are the most commonly used words to get you started.
+
+Look (or L) To look around. This redisplays the description of the current 
+location (it is done automatically if you move to a new location).
+
+North (or N)
+North East (or NE)
+East (E)
+South East (or SE)
+South (or S)
+South West (or SW)
+West (or W)
+North West (or NW)
+
+These are movement verbs that are used most often. You can type just the 
+direction or place the word "Go" in front, (it makes no difference). Of 
+course the program will only let you move in a specified direction if it is
+possible.
+
+Get/Drop - For picking up or dropping an object.
+
+Inventory - This instruction displays in text format a list of the objects 
+that you are carrying. (You can also see this on the objects illustration 
+display).
+
+Time
+----
+If you spend too long contemplating your next move (and the game is not on 
+pause), then "Time" will pass and anything which you have typed in will be 
+acted on.
+
+General Advice
+--------------
+(i) Draw a map - Unless you have an unusually good memory it will be 
+enormously helpful to chart your progress.
+
+(ii) Everything you come across in the Adventure will have a use - you only
+have to find out what it is!
+
+				GOOD LUCK
+
+Loading
+-------
+Insert the game tape into your tape deck, select Tape Loader from the main
+menu on the Spectrum 128 (for further instructions consult the section on
+loading in your manual), and press play on the tape deck. The game will now
+load automatically. When it has finished loading the credits page will 
+appear and the theme tune will begin to play. Press space to enter the game
+properly.
+
+The computer will now ask you wheter you want to restore an old game or 
+not. If you do then press the "Y" key and then follow the procedure for 
+loading as below. If you wish to start a new game then press "N".
+
+Saving/Loading a Game:
+Insert the tape you wish to use into the tape deck and then follow the on-
+screen instruction.
+
+
+THE NEVERENDING STORY
+
+The program code, graphic representation and artwork are the copyright of
+Ocean Software Limited and may not be reproduced, stored, hired or 
+broadcast in any form whatsoever without the written permission of Ocean 
+Software Limited. All rights reserved worldwide.
+
+
+The Neverending Story
+(C) Neue Constantin Filmproduktion GmbH 1984.
+Licensed to Ocean Software Limited by 
+Licencing Corporation of America (U.K.).
+Game design and programming by Ian Weatherburn.
+(C) 1985 Ocean Software Limited.
+Produced by Jon Woods

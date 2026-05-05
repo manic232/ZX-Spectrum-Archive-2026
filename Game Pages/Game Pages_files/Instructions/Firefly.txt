@@ -1,0 +1,102 @@
+THE SPECTRUM GAMES DATABASE
+
+FIREFLY
+
+
+PUBLISHER
+Ocean
+
+AUTHOR
+Special F/X
+
+YEAR
+1988
+
+CATEGORY
+Arcade
+
+CONTROLS
+Keyboard, Kempston, Cursor
+
+ KEYS : Redefinable
+        Pause            - SPACE
+        Quit             - BREAK
+
+INSTRUCTIONS
+Your task as commander of the Firefly is to destroy the mechanoid
+system framework, developed by the enemy, by removing the vital
+energy source used to sustain its existance.
+
+The framework is represented on the screen by a system of grids,
+each one being one of the following:
+
+ 1. A robot-occupied zone.
+ 2. An unconstructed region.
+ 3. A robot-free "Dead Zone".
+ 4. A planetary sector.
+ 5. The system power source.
+
+The system grid is arranged randomly each turn. You always start
+in the Dead Zone on the far left, ready to battle your way
+through the occupied area to the power source.
+
+Your movement is restricted to the Dead Zone areas and you can
+therefore only enter a system which is adjacent to a Dead Zone.
+You do so by positioning the Firefly on the appropriate square
+and pressing fire. You cannot enter a system with a planet at its
+core. These are the main mechanoid colonies and are too well
+protected against attack.
+
+The unconstructed regions are the least protected by the robots.
+In order to take over one of these you must first override its
+"intrusion detection" alarm system. This can only be done
+manually. If you fail to do it correctly in the given time, a
+chain reaction will occur, causing the robotic system to jumble
+itself up, forcing you to retreat to the far left of the grid.
+
+ENTERING AN OCCUPIED AREA : The solar system chart will be
+replaced by a close-up view of the area with one of the Firefly's
+battleships in the centre. The scanner at the bottom of the
+display will show the entire area and your battleship, observed
+from a distance.
+
+Your ship is equipped with an ion-thrust drive and plasma
+disruptor balls which, if used correctly, can get you out of
+impossible situations!
+
+Each area has four main energy points (fast-flashing dots on the
+scanner) and two teleports (slow-flashing dots). These are
+protected by a selected number of robots which, because of their
+size, will not show up on your radar. Once destroyed these robots
+may deposit some useful items.
+
+To take over the area you must destroy all four energy points.
+You accomplish this by entering each point and trying to
+overpower them.  You can only do this, however, by collecting
+four excess energy units (yokas) which are constantly being
+expelled into the playfield by each of the energy points.
+
+The teleports can be used to move your ships into inaccessible
+places or for more economical travel around the playfield.
+However, these are robotic devices and may be difficult for
+humans to operate.
+
+  Your ship can be damaged by:
+ 1. Robotic collisions.
+ 2. Mechanoid missile attacks.
+ 3. Incorrect teleport operation.
+ 4. Failure to overpower energy points.
+ 5. Entering energy points with insufficient energy units.
+
+A ship is lost when it can no longer sustain any more damage...
+thus the occupied area will remain under robotic control but, if
+you have any ships left, you may re-enter the same system or
+choose another route through the framework.
+
+SCORES RECEIVED
+"Firefly virtually overflows with quality, style and sheer
+excellence." 92% (CRASH #50, March 1988)
+
+GENERAL FACTS
+
+NOTES

@@ -1,0 +1,550 @@
+============
+Winter Games
+============
+Document created by rstuart@ukonline.co.uk on 28th Nov 99 for
+World of Spectrum: http://www.void.demon.nl/spectrum.html
+
+Taken from the US Gold compilation 'Solid Gold'.
+
+Winter Games
+------------
+When released went straight to No. 1 and has since proved an all time classic.
+"An entertaining and challenging sports simulation" Crash awarded a Crash
+Smash. "Winter Games was expected to be brilliant and it has certainly come
+close to perfection, all the thrills of Winter Games without broken limbs."
+Amtix.
+
+Loading Instructions
+--------------------
+Commodore 64 Cassette
+Press SHIFT and RUN/STOP keys together. Press PLAY on the cassette recorder.
+
+Commodore 64 Disk
+Type LOAD "*",8,1 and press RETURN.
+
+Commodore 128
+Play in 64 mode.
+
+Spectrum Cassette
+Type LOAD "" and press ENTER. Press PLAY on your cassette recorder.
+
+Spectrum +3
+Turn on your computer. Insert selected side of disk into drive and press
+ENTER. Follow screen prompts where required.
+
+Amstrad Cassette
+Press CTRL and SMALL ENTER and then press PLAY on your cassette recorder.
+
+Amstrad Disk
+Type "RUN" DISK and press ENTER. Game will load automatically.
+
+Important:
+Please read this instruction sheet carefully before commencing game play.
+
+Winter Games
+============
+Moment Of Truth
+---------------
+You're an athlete at the 1988 Winter Games at Calgary, Alberta, Canada.
+You're about to move across snow and ice with as much speed, strength,
+endurance and grace as you can muster in the blustery cold.
+This is the winter portion of the world's formost amateur sports competition.
+You'll match your skills against the top athletes from a hundred countries.
+
+Objectives
+----------
+WINTER GAMES challenges your competitive skills with a series of athletic
+contents for one to eight players (one to four Spectrum and Amstrad version).
+You can compete in seven challenging winter events -
+Ski Jump, Bobsled, Figure Skating, Freestyle Skating, Hot Dog Aerials, Speed
+Skating and Biathlon (cross-country skiing and rifle shooting).
+
+Practice each event first to hone your skills. Then choose from the 18
+countries you can represent in the competition, and go for the gold!
+
+WINTER GAMES provides judges, keeps scores, and awards medals to the winners
+- the Gold for first, the Silver for second, and the Bronze for third place.
+If you break a "World Record", WINTER GAMES will save your name and display
+it on a special World Record screen.
+
+Get ready to give it your best - and remember the motto of the ancient Greek
+athletes:
+     Citius - Altius - Fortius
+    "Faster - Higher - Stronger
+
+Starting Play (C64 Version)
+---------------------------
+Opening Ceremony
+A spectacular opening seremony welcomes you to WINTER GAMES. An athlete
+bearing the flaming torch mounts the steps to light the sacred fire that
+burns night and day throughout the WINTER GAMES. White doves are released
+over the stadium, to symbolise peace on earth. Let the games begin!
+
+How to Play
+Once the opening ceremony concludes, a menu screen offers you a choice of six
+options. To make a selection, use your joystick to move the cursor to your
+choice, then press the FIRE BUTTON.
+
+Option 1: Compete In All Events
+Compete in all seven events: Ski Jump, Figure Skating, Hot Dog Aerials,
+Freestyle Skating, Speed Skating, and Biathlon. The computer keeps a running
+tally of medals awarded to each player.
+
+* To enter your name type your name on the keyboard and press RETURN.
+
+* To choose your country, use the joystick or the cursor keys to move to
+  the flag of your choice, then press the FIRE BUTTON to select that country.
+  (To listen to the country's anthem, type S.)
+
+* Repeat name and country selection for each additional player (up to eight).
+  When all players' names and countries are entered, press RETURN.
+
+* A verification screen appears. If all names and countries are correct,
+  select YES with the joystick and press the FIRE BUTTON, or type Y. To
+  delete names and start again, select No or type N.
+
+Option 2: Compete In One Event Only (Disk Only)
+Similar to OPTION 1, but you only compete in the event you select.
+* Use the joystick to choose the event, then press the FIRE BUTTON. (or type
+  the key matching the event number)
+
+Option 3: Practise One Event (Disk Only)
+No scores are kept during practise rounds.
+* Move the joystick to choose the event, then press the FIRE BUTTON. (Or type
+  the key matching the event number).
+
+Option 4: Number of Joysticks
+For one player: plug your joystick into Port #2 and select 1.
+For two players: plug both joysticks in and select 2.
+* Select 1 or 2 by pressing the FIRE BUTTON (Or type 1 or 2).
+
+Option 5: See World Records
+Displays the highest score recorded in all events, with the name and country
+of the player who achieved each world record.
+* Press the FIRE BUTTON to return to the menu.
+
+Option 6: Opening Ceremonies (Disk Only)
+Repeat the opening ceremonies
+
+Starting Play (Spectrum Version)
+--------------------------------
+A menu screen offers you a choice of options. To make a selection, use the
+SPACE KEY to move the cursor to your choice, then press the ENTER button.
+
+Option 1: Compete In All Events
+The computer keeps a running tally of medals awarded to each player. To enter
+your name, type your name on the keyboard and press ENTER. Repeat name
+selection for each additional player (up to four). When all players' names
+are entered, press ENTER.
+
+Option 2: Compete In One Event
+Similar to OPTION 1, but you only compete in the event you select. Use the
+SPACE KEY to choose the event, then press ENTER.
+
+Option 3: Practice One Event
+No scores are kept during practice rounds.
+Move the SPACE KEY to choose the event, then press ENTER.
+
+Option 4: Joysticks
+If a one player game is selected the player may use any joystick. If two or
+more players wish to play then they cannot select the same joystick
+interface. Each player must select a different interface. Any number of
+players can select to use the keyboard.
+
+Option 5: See World Records
+Displays the highest scores recorded in all events, with the name of the
+player who achieved each world record. Press the FIRE BUTTON to return to
+the menu.
+
+Starting Play (Amstrad Version)
+-------------------------------
+Opening Ceremonies (Disk version only)
+A spectacular opening ceremony welcomes you to WINTER GAMES. An athlete
+bearing the flaming torch mounts the steps to light the sacred fire that
+burns night and day throughout the WINTER OLYMPICS. White doves are released
+over the stadium, to symbolize peace on earth. Let the games begin! Press the
+SPACE BAR to continue.
+
+How to Play
+Once the opening ceremony concludes, a menu screen offers you a choice of
+six options. To make a selection, press the SPACE BAR to run down the menu
+and then press ENTER or simply press the number on the keyboard corresponding
+with your choice.
+
+Option 1: Compete In All Events
+Compete in all seven events (disk): Ski Jump, Bobsleigh, Figure Skating,
+Hotdog, Free Skating, Speed Skating, and Biathlon. The computer keeps a
+running tally of medals awarded to each player.
+* To enter your name, type your name on the keyboard and press ENTER.
+* Repeat entering names for each additional player (up to 4).
+
+Option 2: Compete In One Event
+Similar to OPTION 1, but you only compete in the event you select.
+* To choose which event you wish to compete in, press the SPACE BAR until
+  your event is highlighted and then press ENTER.
+
+Option 3: Practice One Event
+No scores are kept during practice rounds.
+* To choose the event you wish to practice in, press SPACE BAR until your
+  event is highlighted and then press ENTER.
+
+Option 4: Select Number of Players (X)
+To select a number of players, press the SPACE BAR to option 4 and press
+ENTER. This will increment the number of players and displays it in brackets
+at the far right of option four. If the number four is in the brackets and
+this option is chosen, the number of players will go back to one.
+
+Option 5: Change Game Controls
+Select this option if you do not wish to play with the joystick. You will be
+prompted to enter the keys you wish to use for LEFT, RIGHT, UP, DOWN and
+FIRE.
+If more than one player is competing in Winter Games you will be asked to
+define a second set of keys. Players 1 and 3 will use the keys selected for
+Player 1 and Players 2 and 4 will use the keys selected for Player 2.
+Initially the controls are set for joystick, if you should select the
+Keyboard Control and then decide to use a joystick simply select Option 5 and
+push the joystick LEFT, RIGHT, etc. in response to the prompts.
+
+Important:
+If there is more than one competitor it is important to select different
+controls for each player since problems will arise if the same controls are
+used for the speed skating where players can competa against one another.
+
+Option 6: See World Records
+This displays the highest score recorded in all events, with the name of the
+player who achieved each world record.
+
+Option 7: See Opening Ceremonies (Disk Only)
+Repeats the opening ceremonies.
+
+The Games
+---------
+Figure Skating
+--------------
+Figure Skating (Short Program) is a one-minute, timed exercise of seven
+compulsory movements: Camel Spin, Sit Spin, Double Axel Jump, Tripel Axel
+Jump, Double Lutz Jump, Triple Lutz Jump, and Camel into Sit Spin. You can
+perform the seven movements in any order you choose. It's the grace and form
+of your skating that count!
+
+* Press the FIRE BUTTON to start Figure Skating.
+* To begin a movement, point the joystick in the direction of the movement
+  you want to make and press the FIRE BUTTON.
+* To COMPLETE a movement, center the joystick and press the FIRE BUTTON.
+* To SKATE BACKWARD, center the joystick and press the FIRE BUTTON.
+These are the key figure skating movements, in their relative joystick
+positions:
+Joystick Controls: Figure Skating and Free Skating
+
+       DOUBLE       CAMEL       DOUBLE
+    LUTZ JUMP        SPIN       AXEL JUMP
+              \       |       /
+                \     |     /
+                  \   |   /
+      SKATE         SKATE          SKATE
+   BACKWARD -------BACKWARD------- FORWARDS
+                    / | \
+                  /   |   \
+                /     |     \
+         TRIPLE      SIT      TRIPLE
+      LUTZ JUMP      SPIN     AXEL JUMP
+
+Figure Skating Tips:
+--------------------
+AWKWARD: A movement will be judged as elegant or awkward depending on when
+you press the FIRE BUTTON. If you're skating forwards and "trigger" a jump
+when the skater's legs are in open stride, the jump will be perfect. If the
+skater's legs are closed, the jump will be awkward. The opposite is true if
+your skating backwards: trigger the jump when the skater's legs are closed
+and the jump will be perfect. Practice makes perfect, so keep trying!
+FORWARD SKATING performers can do a Double or Triple Axel Jump or turn around
+and begin skating backwards. Remember: Be skating forwards when time runs
+out - it you're skating backwards you'll fall down!
+BACKWARD SKATING athletes can do a Double or Triple Lutz Jump, a Camel or Sit
+Spin, or turn around and begin skating forward.
+When you do SPINS, try to make six rotations. If you turn fewer than six
+times, your exit will be awkward; more than six turns will make you so
+dizzy that you'll fall down.
+DON'T FALL DOWN!
+You'll fall down if you try to move directly from a jump to a spin, a spin to
+a jump, a jump to another jump, or a Sit Spin to a Camel Spin, Skate
+backwards in between movements; skate forwards before you do an Axel Jump.
+CAMEL INTO SIT SPIN: You can move directly from a Camel Spin to a Sit Spin -
+a very elegant combination worth 1.2 points!
+FIGURE SKATING SCORES
+You begin with a score of 0.0. The best score is 6 points. All scores are
+displayed in tenths. And don't worry - your score can't go below 0.
+After you successfully complete each Figure Skating Movement, your score is
+added like this:
+
+  MOVEMENT           POINTS
+  Camel Spin             .7
+  Sit Spin               .7
+  Double Axel Jump       .6
+  Triple Axel Jump      1.1
+  Double Lutz            .6
+  Triple Lutz           1.1
+  Camel into Sit Spin   1.2
+  Total                 6.0
+
+* Total Score Penalties
+  .7 Point penalty for each fall.
+  .2 Point penalty for each awkward movement.
+
+Free Skating
+------------
+In Free Skating competition, you choose the jumps and spins, inventing your
+own choreography to music. You have two minutes to complete the program.
+In Free Skating, you try to make three successful attempts of the seven
+Figure Skating movements: Camel Spin, Sit Spin, Double and Triple Axel,
+Double and Triple Lutz and Camel into Sit Spin. The Judges will watch you
+closely in this event and calculate your maximum score based upon the number
+of falls and awkward movements in your routine. A smart performer will
+complete three attempts of as many difficult movements as possible within the
+two minute limit, to get the highest possible score. You begin with 0.0
+points. The maximum score (ceiling) you can get is 6.0 - no matter how high
+your total score.
+
+Note: If you successfully compete a fourth attempt at a movement the Judges
+      will not credit your score.
+
+Free Skating Scores
+MOVEMENT       POINTS EACH ATTEMPT
+Camel Spin                      .3
+Sit Spin                        .3
+(1.8 points maximum)
+Camel into Sit Spin             .5
+(1.5 points maximum)
+Double Lutz Jump                .2
+Double Axel Jump                .2
+(1.2 points maximum)
+Triple Axel Jump                .4
+Triple Lutz Jump                .4
+(2.4 points maximum)
+Total                          6.9
+(6.0 Maximum Ceiling)
+* Total and Maximum Score Penalties
+PENALTY      TOTAL      MAXIMUM
+Fall           -.5          -.2
+Awkward        -.2         -.05
+Note: No penalty for failing to attempt all seven movements.
+EXAMPLE:
+Your Total Score     6.9     Maximum:     6.0
+  1 Fall             -.5                  -.2
+  2 Awkwards         -.4                  -.1
+                             Your Final
+    Total            6.0     Score        5.7
+CREDITS: Only the movements completed within the two minutes are scored.
+Movement attempts will be added to your score only if they're successfully
+completed.
+
+Speed Skating
+-------------
+Speed Skaters can move at 30 miles per hour - much faster than athletic
+track runners. In fact, Speed Skating champions are the fastest
+self-propelled human beings over level earth!
+In Speed Skating, two racers skate side-by-side, in separate lanes, as fast
+as they can go!
+
+* When PRESS YOUR BUTTON appears on either half of the screen, the player
+  whose name appears on that half of the screen must press the joystick FIRE
+  BUTTON. The next player does the same. This begins the countdown.
+
+* When the count down reaches "GO" begin skating by moving the joystick to
+  the LEFT and RIGHT to move your skater's legs. The trick is to make the
+  skater's legs move back and fourth in rhythm as in real skating.
+
+* Continue skating by moving the joystick back and fourth in rhythmic strokes
+  to move your racer's legs. Build your natural skating rhythm faster to get
+  up to speed - and GO FOR IT!
+
+* The skater with the fastest time wins the race.
+
+* When the race is over, press the FIRE BUTTON to begin the next event.
+
+Hot Dog Aerials
+---------------
+This demonstration sport tests your guts, grace and precision on skis. Strive
+for a performance of athletic artistry as you flip through the air in a
+dazzling series of daredevil moves.
+* Push the FIRE BUTTON to start a jump.
+* Push the joystick in one of these six directions to begin a movement:
+
+        Daffy                   Back Scratch
+              \               /
+                \           /
+                  \       /
+                    \   /
+ Back Flip ---------Land--------- Forward Flip
+                    /   \
+                  /       \
+                /           \
+      Mule Kick               Swan
+
+* To do one movement after another, move the joystick when the Hot Dog Skier
+  is in mid-air - timing is crucial.
+* To get out of a move or begin another move push the joystick to the centre
+  (LAND) position.
+* Hold each movement (except the Flips) until you choose a different move.
+* Get into the landing position before you hit the ground, or you'll fall.
+
+SCORES
+The score is based on both style and difficulty, and is displayed after
+you land. The maximum is 10 points.
+DIFFICULTY is judged by the number of different manoeuvres performed in mid-
+air. Any combination of movements can be mixed together for a total maximum
+score of 10. Combinations of different movements count for the most points.
+Points will be deducted for awkward movements. Watch your landing! If you
+fall, you won't recieve a score.
+
+  STUNTS              POINTS
+  1 Stunt                6.3
+  1 Flip                 7.2
+  2 Stunts (Same)        8.7
+  2 Flips (Same)         9.2
+  2 Stunts (Different)   9.6
+  1 Stunt and 1 Flip    10.0
+  2 Flips (Different)   10.0
+
+* 1.4 point penalty for each awkward movement.
+CREDITS: Only the first attempt of each movement completed within the one
+minute is scored.
+
+Ski Jump
+--------
+Every gust of wind chills your body as you look down from the top of the jump
+tower to the runaway far below. The judges and spectators look like insects
+from this height. GO! Your coiled body lurches forward and suddenly you're
+into another world!
+You crouch down low, in a tuck position, to accumulate as much speed as
+possible. At the take-off, you leap out, push out, and lean forward, over
+the edge of your skis, to reduce wind resistance and increase the length of
+your jump.
+* Press the FIRE BUTTON to begin your approach.
+* When you reach the take off point, press the FIRE BUTTON.
+* In the air, watch the upper right-hand corner of the screen for faults.
+  Correct faults quickly to get maximum style points and distance.
+  * If your knees are BENT move the joystick UP to correct.
+  * If you're TOO FAR FORWARD move joystick LEFT.
+  * TOO FAR BACK move joystick RIGHT.
+  * SKIS CROSSED move joystick DOWN.
+* If you don't correct your faults in time, your Ski Jumper's wild antics
+  will cause wind resistance and you will lose style points.
+Ski Jump scores are based on distance and form:
+DISTANCE: is based on the timing of the takeoff, and the aerodynamics of the
+jumper in the air.
+STYLE: You'll get more points if you recover quickly from faults and don't
+fall.
+SCORES
+Your maximum is tallied by multiplying your DISTANCE 3(x)STYLE POINTS. A
+respectable Ski Jump score would be a flight of 60 meters and 20 style points
+for a total of 200 points.
+
+Biathlon
+--------
+Race over a cross-country track on skies with a .22 calibre rifle slung over
+your shoulder. You have only a few cartridges to fire at the required
+targets, so steady your sights and develop an eagle eye before you fire away!
+* Press the FIRE BUTTON to start cross-country skiing.
+* Move your joystick LEFT and RIGHT to move your skier's legs in steady,
+  rhythmic kicks and glides.
+* On LEVEL GROUND, keep up a steady pace by moving your joystick back and
+  fourth.
+* For UPHILL terrain, move the joystick faster to increase speed.
+* DOWNHILL stretches go fastest if you use the double-pole technique. Pull
+  the joystick down when the skier's hands are in front, to get the maximum
+  push down the slope.
+* SHOOTING: You are issued five cartridges to shoot at five targets, and
+  every miss is a 5-second penalty. The gun must be loaded and the shell
+  ejected after each shot. Pull the joystick BACK to open the gun chamber.
+  Push the joystick FORWARD to load the shell. Push the FIRE BUTTON to shoot.
+  Repeat for the next shot. The skier's heart rate affects accuracy - so cool
+  down, and take careful aim before you fire!
+* The winner or high score is the skier with the fastest total time.
+
+Bobsled
+-------
+Prepare to career down a track of solid ice - while you crouch in a
+precision-built machine of steel and aluminium. You'll fly around
+hair-raising turns, then plummet down the bumpy straightways at speeds
+exceeding 90 miles per hour!
+* Press the FIRE BUTTON to begin the race.
+* Move the joystick left and right to guide your sled.
+
+HINTS: Steer hard! To avoid capsizing at the turns, try to anticipate the
+pull of centrifugal force, and steer hard in the opposite direction.
+Watch your speed! The power bar at the bottom of the screen shows how fast
+you're going. The faster you go, the harder you have to steer to keep
+plummetting toward the finish.
+Learn the course! An intimate knowledge of the course is important, so you
+must learn the best position to take at each corner.
+* The winning bobsled's score is based upon the fastest time through the
+tracks.
+
+Scoring
+-------
+Awards Ceremony
+---------------
+After every event, the names, countries and scores of all competitors are
+listed in the order they placed. The name of the Gold Medal winner appears
+at the top of the screen, and his or her country's national anthem is played.
+
+Champion Ceremony
+-----------------
+If players compete in all WINTER GAMES events, a Grad Champion of the games
+is selected based on the number of points awarded.
+Gold Medal    - 5 points
+Silver Medal  - 3 points
+Bronze Medal  - 1 point
+
+The points are totalled after all events have been completed, and the player
+with the most points is honoured as the Grand Champion. The ceremony takes
+place aftter the Awards Ceremony for the final event.
+
+World Records
+-------------
+If a world record is achieved in any event, the name of the record-breaking
+player is saved by the WINTER GAMES program. The records are displayed on
+the World Records screen. If a new record is set for an event, the previous
+record is erased and the new information appears in its place.
+
+How Did Winter Sports Begin?
+----------------------------
+Skiing, skating and sledding began centuries ago as fun and practical ways
+for people to move across snow and ice.
+
+Skiing
+------
+The earliest skis may have existed about 4,000 or 5,000 years ago in
+Scandanavia. Ski bindings were invented in the 1860's by Sondre Nordheim, of
+Mordegal, Norway.
+Once skiers could slip the toes of their boots into iron pieces, then fasten
+their heels with straps or springs, they gained much more control of their
+long wooden slats - and they could move with breathtaking speed. Norwegian
+emigrants pioneered the sport all over the world.
+
+Skating
+-------
+Skating began about 1000 B.C. Before the Iron Age, Nordic people make skates
+from elk, ox and reindeer bones. In fact, anthropologists have discovered
+bone skates they believe to be at least 20 centuries old!
+Since the Middle Ages, people have skated on canals in Holland. Ice skating
+was a very fashionable recreation in the French court in the 1770's, when
+Marie Antoinette was an avid enthusiast.
+
+Sledding
+--------
+Primative sleds were used for transportation before 3,000 B.C. in Northern
+Europe. The American Indians tied poles together with thongs to carry loads
+over snow.
+The thrill of riding a speeding sled down a steep hill caught on in the
+1500's in Germany, when people rode toboggans over showy hillsides. Sledding
+became a real sport when a British and American tourest started racing sled
+down snowbound mountain roads in the European Alps, in the middle of the 19th
+Century. Bobsled raced developed into the 1880's in Switzerland.
+
+(c) 1984 Epyx Inc.
+
+This compilation (c) 1987. Manufactured in the U.K. under liscence by
+U.S. Gold Limited, Units 2/3 Holford Way, Holford, Birmingham B6 7AX.
+Copyright subsists on these titles. All rights of the producer reserved.

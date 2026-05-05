@@ -1,0 +1,290 @@
+TIMES OF LORE
+Origin
+
+
+After loading you will be asked to choose and save your character.
+Please remember to have a blank tape ready to do this.
+In future playing sessions you can either load the character creation
+side of the tape, to choose a new character, or you may load the
+game side of the tape straight away in the normal manner which
+will skip the introductory title screens.
+
+
+ALL AMSTRAD / SPECTRUM
+GENERAL INSTRUCTIONS
+
+Times of Lore can be played either by having a joystick plugged in
+or you can use the keys which are:
+
+Q - up
+O - left
+P - right
+A - down
+0 - fire
+
+Space bar activates the gauntlet, on Icon menu, for both sets of
+controls.
+
+When you stay at an Inn and save the game the computer will ask you to
+insert a game tape. This needs to be a blank tape to save your
+character and not the original Times of Lore game tape. When you load
+a game from the control panel, this is also the tape you need to load.
+
+Read the story carefully and follow the directions at the end to
+choose your character in the game. If you choose the Knight, your
+shining armour of polished steel plate will keep you strong and mighty
+in battle. Or if the Valkyrie's life appeals to you, quickness and
+agility will keep your foes dodging for their lives. Though the
+Barbarian's loin cloth is not the most impenetrable of armour his
+sheer brute strength will ensure that the protection of more
+conventional apparel is never missed.
+
+
+Playing Times of Lore
+
+The top half of the game screen is the view window, and your character
+is always shown in the center of this window. Movement to the north,
+south, east and west is accomplished by simply moving the joystick in
+the direction you wish to go.
+
+When you press the space bar you'll see a glowing hand appear in the
+lower screen window. Use the joystick to move the hand to point to any
+of the command options. People will stop moving once you enter this
+command mode (although monsters suffer no such restriction). You can
+then move the hand to the symbol for the action you wish to perform
+and press the joystick button to execute the command. Or you can press
+the space bar again to abort your action and go back to the normal
+movement mode.
+
+Starting from the leftmost symbol, the commands represented by the
+different icons are as follows:
+
+TALK - Use the mouth icon to strike up a
+conversation with another character in the game.
+The person you wish to talk to must either be
+right next to you or very close by; shouting in
+public places is considered rude. See CONVERSATION
+for more information.
+
+EXAMINE - Occasionally you'll want to examine a
+nearby object to identity it or perhaps take a
+closer look at something you're carrying. The eye
+works on special items such as scrolls, potions,
+and one-of-a-kind artifacts and it also enables
+you to search nearby for things not immediately
+visible.
+
+INVENTORY - The pouch displays a list of the items
+you are carrying as well as how much money and
+food you have.
+
+DROP - You can only carry a limited number of
+objects. If your pouch is full, you will need to
+drop things that are no longer useful before you
+can acquire new items and treasures.
+
+TAKE - Use this command to pick up gold, food,
+treasure, and other assorted items that may be
+found after battles or encountered while exploring
+cities and dungeons.
+
+USE - This command allows you to drink a potion,
+cast a spell from a scroll or otherwise make use
+of something you're carrying.
+
+OFFER - Attempt to hand an object to a nearby
+person. If the person has no use for that
+particular item, he or she will probably accept it
+anyway as a token of good will.
+
+
+GAME OPTIONS -
+This command gives you the following options:
+
+Symbol will differ for non-C64 versions.
+
+SCORE allows you to see your current score, which
+is increased by killing monsters and solving quests.
+
+LOAD GAME allows you to restore the previously
+saved game (see CONVERSATION for more information).
+
+PAUSE GAME allows you to pause the game until the
+joystick button is pressed.
+
+
+Some commands in the game may ask you to choose which object or person
+you wish to deal with. For instance, if you activate the DROP command,
+a list of your DROPable items will appear, along with a cursor bar at
+the top. Now you can either press the space bar to abort the command,
+or use the joystick-controlled cursor to select an item to be dropped.
+
+
+Conversation
+
+Many of the inhabitants of Albareth's towns and cities can offer you
+advice or assistance in your travels, and some may even send you on
+great quests of valour and fortune. To speak with a villager press the
+space bar and select the TALK symbol with the joystick and button. A
+menu of conversation options will appear. Characters may initiate
+conversation with you as well. When someone asks you a question, the
+TALK command will be activated in anticipation of your reply.
+	It is the established custom in the Kingdom of Albareth to greet
+one's acquaintances with a cheery "Nice weather we're having!" or
+perhaps, "I hope all is well with you." To hail a wayfarer in 
+such a manner choose the START CHITCHAT option. Before long you will 
+notice that such a casual greeting is likely to set the mood for the 
+exchange of a word or two of friendly gossip, or even the imparting of 
+vital knowledge.
+	ASK QUESTION, the second choice on the menu, allows you to
+pose a specific question to your acquaintance. After selecting this
+option, the desired question must be chosen from a list of subjects
+that your currently "know about" in the game. You can always ask
+about RUMOURS, but the person you are talking to may or may not be
+able to answer your query meaningfully. The list of other subjects you
+may ask about is made up of important "key words" from prior
+conversations. Whenever a person mentions a matter of obvious
+weight a soft bell will sound and that subject will be added to
+your characters list of "known" question topics.
+	Some people. depending on the situation, may have additional
+options in their conversation menus. Innkeepers, for example, have
+much more to offer than the standard fare of pleasantries. If you have
+the money to spend, they will give you a chance to replenish your
+provisions or check into their hostel fora good night's rest. When you
+ask for lodging at an inn, your character's current position and status
+in the game is saved to disk. The next time you boot up the game, you
+will begin play in that same inn with all your possessions and "key
+words" intact. It is usually a good idea to check into an inn at the end
+of a long journey or after you've accomplished a difficult or
+dangerous task. During game play you may revert to your last saved
+position by activating the GAME OPTIONS icon and selecting the
+Load game option.
+	You should make a habit of chatting with everyone you meet in the
+cities and outposts of Albareth, king and knave alike. Subtle, but
+important, events in the game can be triggered by talking with some
+major figures, and vital key words may be lost by neglecting to save
+the game before ending a session of play.
+	All conversation and other game messages will appear in the message
+window near the bottom of the screen. When the lower-right corner of
+this window appears to fold up, this means there is more text for you
+to read. Press the joystick button to continue reading.
+
+
+Combat
+
+To attack, move your character to face a nearby enemy and press the
+joystick button. During the daylight hours in fortified towns and most
+of the more civilized villages, you will rarely encounter any of the
+wandering monsters that plague the countryside. Until you are certain
+of an approaching person's intent, stay your arms. Besides, attempting
+to take over cities by slaughtering the peasants is one sure way to be
+ostracized from society. When you venture out into the world, though,
+it's a different story. Creatures ranging from ordinary brigands to
+supernatural specters will confront you, turning a simple journey from
+one town to the next into a deadly challenge. Don't hesitate to
+attack.
+
+
+The following is a list of the characters you are likely to encounter
+in Albareth:
+
+Guard - The Guards in castles and larger cities
+are brawny sorts, armed to the teeth. You'll have
+no trouble with these mercenaries, as long as you
+stay on their good side.
+
+Peasant - Albareth's humble, cheerful peasants are
+the lifeblood of the kingdom's towns and cities.
+Talk to everyone you meet - the common folk
+usually welcome the chance to share their folklore
+and companionship.
+
+Innkeeper - The inn-keepers of Albareth can be
+very accommodating, especially when you're in need
+of a stiff drink or a quick game-save.
+
+Rogue - Archers of lethal skill, these cloaked
+highwaymen are the nightmare of every tradesman
+and caravan leader. Beware, for in these troubled
+times many strong men have joined their ranks.
+
+Orc - In the not-too-distant past, these unwashed,
+pig-visaged barbarians were seldom encountered
+outside their territories in the northern
+mountains, but in recent times, the hated Orcs
+have begun to invade Albareth's forests. They have
+since become the nightmare of every traveller and
+caravan scout.
+
+Not in Spectrum & Amstrad versions.
+
+Skeleton - The living Skeletons that haunt the
+land, viciously hurling their daggers at
+wayfarers, are said to be magically animated by
+malevolent wizards to seek to spread disorder and
+evil throughout the kingdom. Skeletons are
+formidable opponents in battle, for they feel
+neither pain nor mercy.
+
+Ghost - Shades of evil men and monsters once slain
+in battle, Ghosts can be the most difficult to
+overcome of all dark creatures ... they have more
+to prove!
+
+Slime - No one knows the origin of this hideous
+creature. Though unarmed, this creeping fungus can
+still pose a deadly threat to careless
+adventurers. A Slime creeps along dungeon walls
+toward its enemies. secreting a corrosive fluid
+that turns swords and daggers into tasty hors
+d'oeuvres. Then it goes after its main course.
+
+Cleric - The good Clerics of Albareth are renowned
+for their devotion to the preservation and
+sanctity of life, while the evil ones tend to
+attack first and ask for donations later.
+
+Not in Spectrum & Amstrad versions.
+
+
+Survival
+
+Be sure to keep an eye on the candle in the lower right part of your
+screen. The candle will burn down as you grow weak from battle wounds
+or lack of food. If the flame ever goes out, your character will die,
+and you will have to start over from your last saved position.
+Sleeping at an inn will restore your health. Standing still to rest in
+a safe place will also restore your strength, although it will be long
+in returning. Certain magical items can help as well.
+
+Don't be afraid to experiment with the effects of various potions.
+
+
+Treasure
+
+Monsters sometimes carry assorted and sundry treasures, which they
+will readily give to you as long as you kill them first. Gold, food,
+magic potions, and scrolls may be found lying about in the bloody
+aftermath of a battle. A peculiar property of magical treasures is
+that only one scroll or potion of each kind can be carried at a time.
+This means that if you're carrying a blue potion you won't run across
+any more blue potions until after you drink the one you've got. Some
+of these arcane items are very hard to come by so you should always
+use discretion when employing their effects
+
+
+Leaving Home
+
+In your first glimpse of the rich and vast kingdom of Albareth, your
+character is standing in an upper-story guest chamber of Eralan's
+renowned frothing Slosh Tavern.
+	For now, try taking the stairs down to the tavern's common room. Walk
+over to the counter between the barkeep's ale kegs and the massive
+stone fireplace. Is someone talking to you? Take the time to chat with
+everyone in sight and be patient. Often, a person who has something
+interesting to say may prefer not to share it all with you at once.
+Even in the mornings the Frothing Slosh is a busy place, and who
+knows? One of the motley crowd of customers might just have some
+business for a young and enterprising adventurer such as yourself!
+
+

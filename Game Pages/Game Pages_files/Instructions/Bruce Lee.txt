@@ -1,0 +1,234 @@
+THE SPECTRUM GAMES DATABASE
+
+BRUCE LEE
+
+PUBLISHER
+US Gold, under licence from DATASOFT.
+
+AUTHOR
+Ocean's in-house development team.
+
+YEAR
+1984
+
+CATEGORY
+Platform
+
+DESCRIPTION
+A collect-em-up platform game with a bit of kung fu thrown in for
+good measure!
+
+CONTROLS
+Keyboard, Kempston, Protek, Sinclair.
+SHIFT/BREAK - Restart game
+SYMBOL SHIFT - Sound on/off
+ENTER - pause
+Q - Up
+A - Down
+O - Left
+P - Right
+Z to M - Kick/Punch
+
+
+INSTRUCTIONS
+Guide Bruce Lee to discover Immortality by beating the evil
+wizard and his minions. Bruce must explore the play area picking
+up lanterns, which will open up new areas for him to explore. The
+evil wizard's troops attack you in the form of The Green Yamo
+(fat guy) and The Ninja (little guy). However, Bruce can dispatch
+these by kicking or punching them (stand still and fire for
+punch, run and fire for kick).
+
+Later screens get more complicated with killer bugs, swords,
+moving walls and mines to contend with!
+
+Two players can play, either taking turns at being Bruce or with
+one playing controlling Yamo! Great fun!
+
+INLAY CARD TEXT
+
+
+CHEATS
+Use the Multiface to enter :
+POKE 51795,0 Infinite lives for player 1
+POKE 51803,0 Infinite lives for player 2
+
+SEQUELS/PREQUELS
+None
+
+SCORES RECEIVED
+Unknown.
+
+URL
+Care should be taken as there are a few snapshots of this around
+which crash after the first screen. As far as I know, this
+version works :
+
+ftp.nvg.unit.no/pub/sinclair/snaps/games/platform/brucelee.zip
+
+
+GENERAL FACTS
+This game is named after and stars Kung Fu legend Bruce Lee. The
+sprite even looks a bit like him.  Except not as dead.  The plot
+is original and there is no attempt to tie the game in with any
+of Bruce's movies, which is probably a good idea!
+
+As far as I know, Bruce Lee is a perfect conversion of the Apple
+II original.
+
+The game is actually very easy.  However, the two player mode
+gives it a whole new lease of life - forget the lanterns and beat
+each other up!
+
+This is one of the many early US Gold games that was handled by
+Ocean.  It looks and plays like a typical 1984 Ocean game - not
+that that's a bad thing!
+
+
+NOTES
+Bruce Lee is fast, fun and playable. Although it's pretty easy,
+the two player mode increases its life and I still find myself
+coming back to play this even now. Well worth a go!
+
+*********
+
+The Project 64 etext of the ~Bruce Lee manual~, converted to etext by
+anonymous, obtained from the Asimov Apple ][ site,
+http://www.apple.asimov.net/site/documentation/games/brucelee/
+
+BRUCEL10.TXT, April 1997, etext #200#
+
+Readapted for the Spectrum in 2001 AD by Alessandro Grussu
+http://www.ag-online.da.ru
+
+*********
+
+BRUCE LEE(TM)
+
+DATASOFT(R)
+
+
+STRATEGY
+
+An opulent, mysterious, and perilous fortress is the setting as Bruce
+Lee seeks to claim infinite wealth and the secret of immortality from
+the wizard who dwells within.
+
+You begin your search for the wizard at the entrance to his fortress.
+This chamber, and each chamber here, is sealed off from the other
+rooms.  The only way to get from one room to the adjoining room is to
+jump up and take the lanterns which hang from the ceiling. When you
+get all the lanterns (or at least certain lanterns) for that room, the
+door opens.  (Watch the edges of your screen so that you'll see when
+your exit is possible.) Hint: You must get all of the lanterns in the
+first three rooms in order to proceed. Then go to the middle room and
+look for the opening through which you can exit.
+
+Throughout your search for the wizard, you are attacked by the ninja
+brandishing their BOKKEN sticks. Even more dangerous is the Yamo, who
+runs after you and delivers crushing kicks. Duck and run away to foil
+their attempts to harm you, then come back kicking and chopping - the
+Yamo can survive only three blows and the ninja can survive only two.
+Take as many lanterns and cover as much ground as you can before these
+foes reappear.
+
+To get around each room, you can climb vines (up, down, or sideways),
+ride on waves of particles which change direction at random, leap from
+ledge to ledge, and jump down from a ledge without injury.
+
+Hazards and traps await you in rooms close to the wizard's chamber.
+You must avoid electrical charges passing through gaps between ledges,
+PAN lights streaming across the floor, and exploding T'SUNG-LIN
+(bushes) appearing from nowhere.
+
+When you finally reach the wizard, keep away from the fire balls
+streaming from his eyes. Press the button which destroys the wizard -
+and his fortunes are yours! Enjoy them, because your next foray into
+the fortress will be more difficult!
+
+NUMBER OF PLAYER is selected by pressing the A key.
+
+In a ONE-PLAYER GAME, you are Bruce competing against the Yamo and
+ninja.  You can take five falls before the game is over.
+
+In a TWO-PLAYER GAME, you and another person take turns being Bruce,
+competing against the Yamo and ninja. As soon as you (Bruce) take a
+fall, the other player takes a turn as Bruce. The computer keeps track
+of each player's score.
+
+BEGIN PLAY by pressing ENTER.
+
+PAUSE the game by pressing the ENTER. To resume play, press ENTER again.
+
+
+JOYSTICK CONTROLS
+
+You may use Kempston, Protek or Interface 2 joysticks.
+
+RUN left and right by moving the joystick left and right.
+
+KICK by pressing the joystick button while you are running. You will
+deliver a kick in that direction.
+
+CHOP by pressing the joystick button while you are standing still. You
+will execute a chop in the direction you are facing.
+
+LEAP to get from one ledge to another by moving the joystick up and to
+the left or right. You may find that Bruce will have to leap to avoid
+hazards along some passageways.
+
+JUMP to take a lantern or to grab on to a vine.
+
+CLIMB up a vine by positioning yourself under it, moving the joystick
+up, and holding it there until you reach the top. You can climb down
+the vine by pulling the joystick down and across it by moving the
+joystick left or right.
+
+DUCK to avoid a blow from the Yamo or ninja by pulling the joystick
+down.
+
+KEYBOARD CONTROLS:
+Q - up
+A - down
+O - left
+P - right
+Z-M - punch/kick
+ENTER - pause
+SYMBOL SHIFT - sound on/off
+SHIFT/BREAK - restart game
+
+
+INDICATORS
+
+At the top of the screen from left to right you will find: player
+"up", that player's score, top score for this session of play, and the
+number of falls in reserve before the game is over.
+
+
+POINTS
+
+Lantern                    125     Knocking out ninja          200
+Chopping ninja or Yamo     100     Knocking out Yamo           450
+Kicking ninja or Yamo       75     Destroying wizard          3000
+Entering new room         2000     Landing on ninja or Yamo     50
+
+
+CREDITS
+
+Programming by Richard Mirsky
+Concept by Ron J. Fortier and Kelly Day
+Computer graphics by Kelly Day
+Documentation by Ingrid Holcomb
+
+Apple is a registered trademark of Apple Computer Inc.
+
+
+DATASOFT(R)
+
+19808 Nordhoff Place, Chatsworth, CA 91311
+Licensed by Ziv International
+Bruce Lee(TM) designates a trademark of Linda Lee.
+Datasoft(R) is a registered trademark of Datasoft Inc.
+(C) 1984 Datasoft Inc. All rights reserved.
+
+PRINTED IN USA

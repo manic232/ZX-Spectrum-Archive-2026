@@ -1,0 +1,181 @@
+=================
+Thunder Blade(TM)
+=================
+Document created by rstuart@ukonline.co.uk on 17th Jan 00 for
+World of Spectrum: http://www.void.demon.nl/spectrum.html
+
+Taken from the U.S. Gold compilation 'Winners!'.
+
+SEGA's classic coin op is sheer arcade brilliance captured as you control
+the meanest fighting machine ever to storm the skies. Hold onto your
+stomachs, unscramble your brains for the journey of a lifetime in the
+most advanced helicopter gunship ever conceived by armaments specialists.
+One of the most powerful shoot 'em ups ever devised.
+(c) 1988 SEGA(R)
+
+Loading Instructions
+--------------------
+CBM 64/128 Cassette
+Press SHIFT and RUN/STOP keys simultaneously. Press PLAY on your cassette
+recorder.
+
+CBM 64/128 Disk
+Type LOAD "*",8,1 and press RETURN. Refer to DISK LABELS for running order.
+
+Spectrum 48/128K, +2 Cassette
+Type LOAD"" and press PLAY on your cassette recorder.
+
+Spectrum +3
+Turn on computer, insert disk and press RETURN.
+
+Amstrad CPC Cassette
+Press CTRL and small ENTER keys simultaneously. Press PLAY on your cassette
+recorder.
+
+Amstrad CPC Disk
+Type RUN"DISK and press ENTER. Follow on screen prompts.
+
+Atari ST
+Insert required disk, turn on computer and games will load and run
+automatically.
+
+CBM Amiga
+Insert required disk, turn on computer and game will load and run
+automatically.
+
+Scenario
+--------
+Your country is being overrun by the marauding rebel forces of a merciless
+and unforgiving dictator, General Chorzelski. Battle weary troops accede to
+the superior power of the rebels' sophisticated weaponry and it is only a
+matter of time before the government is overthrown. U.S.G.H.Q. have
+summoned you as their last remaining hope to vanquish the enemy using the
+ultimate flying machine; Thunder Blade, an advanced attack helicopter. An
+experienced vateran of many an aerial compaign, can you accomplish the
+seemingly impossible?
+
+The mission details are outlined to you in various strategical stages:
+        1. Skyscraper City      3. River Delta
+        2. Mountain/Desert      4. Refinery
+
+In each sector, you will come up against both ground and air forces, all
+trying to defend one of their super fortresses, which must be destroyed at
+all costs. Once the last stronghold has been defeated you'll deserve a good
+rest.
+
+Gameplay
+--------
+You start the game with five reserve helicopters (two reserve helicopters
+for C64 version). The game is over once all of your helicopters have been
+destroyed or once the last stronghold has been taken. An extra
+helicopter is awarded on achieving a pre-defined number of points.
+
+You engage the enemy from both vertical and horizontal viewpoints. Thunder
+Blade's advanced weaponry system comprises a rapid-fire Chain Cannon, used
+for aerial targets such as enemy helicopters and airplanes. One quick burst
+is all that is needed. Straight line air-to-ground missiles take care of
+your land and sea enemy targets.
+Remember though, missiles are not suited to rapid fire, so accuracy and
+timing is of primary importance. They also cannot shoot at enemy aircraft,
+only ground craft, so remember Cannon for Air, Missiles for Ground
+(Spectrum/Amstrad only) CBM users please note: both Cannon and Missiles can
+shoot any target.
+
+To hit your target on land or sea, position yourself in a direct line with
+the enemy's vehicle and press the FIRE button.
+
+Joystick Controls
+-----------------
+Joystick Speed Control
+
+             Dive
+               |
+  Bank Left ---+--- Bank Right
+               |
+             Climb
+FIRE not pressed
+
+           Accelerate + FIRE
+               |
+  Bank Left ---+--- Bank Right
+               |
+           Decelerate
+FIRE pressed
+
+Keyboard Controls
+-----------------
+                         C64       Spectrum  Amstrad   Atari ST/Amiga
+---------------------------------------------------------------------
+Joystick Speed Control   F7                            F1
+Keyboard Speed Control   F1                            F2
+Pause                    SPACE     H         H         F9
+Continue                                               F10
+Music on                 M
+Sound FX on              S
+Up                                 Q         Q
+Down                               A         A
+Left                               O         O
+Right                              P         P
+Fire                               SPACE/    SPACE/
+                                   SHIFT     SHIFT
+
+Keyboard Speed Control
+                         C64       Spectrum  Amstrad   Atari ST/Amiga
+---------------------------------------------------------------------
+Accelerate               F1        E         E         up arrow
+Decelerate               F3        D         D         down arrow
+
+             Dive
+               |
+  Bank Left ---+--- Bank Right
+               |
+             Climb
+
+Note for Spectrum/Amstrad Users: Once joystick has been selected you can
+choose joystick speed control or keyboard speed control.
+
+Scoring
+-------
+Points are awarded for destroying the following enemy aircraft:
+
+1. AH-6NS Sparrow Hawk Attack Helicopter.
+2. Type-74 Bengal Tiger Tank.
+3. F-14 Meercat Jet Fighter.
+4. A4U-N2 Corsair Fighter Aircraft.
+5. ASH-07 Barracuda Torpedo Cruiser.
+6. Stage 1 Mobile Fortress: SRS-78A1 Blackbird.
+7. Stage 2 Mobile Fortress: Marauder Troop Carrier.
+8. Stage 3 Fortress: BA-001 Mermaster Invasion Craft.
+9. Stage 4 Command Fortress.
+
+The Command Fortress is the rebel nerve centre and by destroying this your
+country will be liberated. The identity is scarecely known as many who have
+seen it, haven't lived to tell.
+
+Bonus points are awarded at the end of each level. The bonus depends on the
+number of craft destroyed. A time bonus is also awarded.
+
+Hints
+-----
+In every stage the enemy attacks in patterns. By identifying these you'll
+know where to move, where to fire and when. Shoot all of the enemy down if
+you can to earn bonus points and helicopters.
+
+Not all of the enemy will shoot at you but you can't be too careful, if it
+moves or looks dangerous, shoot it.
+
+(c) 1988 Sega Enterprises Ltd.
+This game has been manufactured under liscence from Sega Enterprises Ltd.,
+Japan and THUNDER BLADE(TM) and SEGA(R) (or SEGA(TM)) are trademarks of
+Sega Enterprises Ltd.
+
+----------
+
+Thunder Blade - other hints
+
+Load up the game, select your joystick and the screen will say...
+  A Keyboard Speed Control
+  B Joystick Speed Control
+Press G and O at the same time and the border will go cyan for a couple of
+seconds. Carry on as normal, but when playing the game press Enter to skip the
+current level.

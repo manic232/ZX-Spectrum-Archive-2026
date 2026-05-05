@@ -1,0 +1,183 @@
+THE SPECTRUM GAMES DATABASE
+
+STARQUAKE
+
+PUBLISHER
+Bubble Bus
+
+AUTHOR
+Stephen Crow
+
+YEAR
+1985
+
+CATEGORY
+Platform
+
+DESCRIPTION
+Explore a large colourful maze, finding the correct objects to
+save the Earth.
+
+CONTROLS
+Redefinable keys, plus Kempston, Sinclair and Cursor joysticks.
+
+INSTRUCTIONS
+In order to save the Earth from a rogue planet, you must take
+control of BLOB (Bio-Logically Operated Being) and repair the
+planet's core. At the start of the game you have just crash
+landed on the planet and must explore the flick-screen play-area
+to find the core. Once at the core you will notice it looks like
+a number of objects. Collecting these objects and bringing them
+to the core will repair it, once piece at a time, until the whole
+thing is complete.
+
+Nasty flying beasts are out to get you, and you are equipped with
+a laser (with limited energy) to kill them. Most nasties will
+drain your energy apart from the ones that look like spinning
+tops, which will destroy you immediately! You are also given a
+supply of bridges, which you can build beneath you to form
+platforms up to unreachable sections.  However, these bridges
+don't last long and soon crumble away to nothing!  Further
+supplies of energy, laser and bridges can be picked up along the
+way. 
+
+To make things easier for BLOB, he can use the various pieces of
+equipment scattered around the place. The most useful are the
+flying platforms. Step on one of these and push UP and you'll
+take off! Flying around the place is much easier than walking,
+but you can't manipulate objects whilst using a platform, you
+must find somewhere to land first!  Teleports are also a useful
+way of moving around, providing a handy short cut back to the
+core! In order to open some doors you will need to find a key
+(which is in a different place every game), but by far the most
+useful item in the whole game is the access card. Once found,
+this will allow you to use the security doors which sometimes
+block your way, and will also allow you to use the trading
+pyramids. The pyramids will allow you to trade one of your
+objects for a more useful one - more often than not one of the 
+objects needed to repair the core!
+
+Along the way, BLOB will encounter many different things,
+including vacuum tubes (which suck him up to higher levels), weak
+floors (which he can smash by falling on them from a height), and
+secret passages (which are just big enough for BLOB to walk
+through and lead to new and exciting places!).
+
+INLAY TEXT FOR STARQUAKE:
+
+From the great abyss of a black hole emerges a danger of awsome consequences
+- a planet so unstable that if its core is not rebuilt the resulting
+explosion will render the Galaxy a lifeless wasteland. To the rescue, BLOB,
+hero of the moment. This Bio-Logically Operating Being is chosen not for his
+super intelligence, not for his fearlessness nor for his super powers - his
+is the only spaceship available. Out to face danger he goes - trusty
+spaceship, flightboard computer and galaxy A-Z. Will he succeed? Will he be
+in time?
+He'd better, there's no other chance for the world.
+
+STARQUAKE
+Message has just reached Earth of an unstable planet emerging from a black
+hole somewhere at the edge of the galaxy. If the core of this planet is not
+rebuilt it will implode causing the whole universe to go "Ka Boomf!" -
+Strewth, a Starquake...
+
+The Bio-logically operated being is chosen for this ultra-dangerous mission -
+but why Blob? 'Cause of his mind blowing hybrid capabilities? Or the
+artificial intellect of his anti-brain? Nope - 'Cause all the other guys have
+pranged their spaceships. So Blob sets off for outer-space in his trusty ship
+with just a flightboard computer and a galaxy A-Z for company - Golp, is he
+gonna succeed? - Will he even get there? - Or will the universe and Blob go
+blip?...
+
+- Gosharooties who knows? But all these and many more answers must be
+questioned before it's too late!!!
+
+CONTROLLING BLOB
+Keyboard:
+O Left                                  P Right
+A Down or lay bridging platform         Q Up or pick up an object
+M Fire                                  Also user definable key option
+
+Joystick:
+Use Sinclair Interface 2, Kempston or Cursor Joystick.
+Pause game with BREAK/SPACE key and key or joystick action to restart.
+Abort by pressing keys ASDFG simultaneously.
+
+GALAXY A - Z
+Blob                    Teleports
+Walking                 Plants
+Flying                  Spikes
+Dropping                Lunar Undergrowth
+Pause Key               Platform Packs
+Anti-Gray-Lifts         Key Code Cards
+Stars                   Pieces of Core
+Weapon Zapping          High Density Cloud
+Planet's Core           Rocky Lunarscape
+Electrons               Molecular Structures
+Zap Rays                Impalers
+Energy Packs            Space Hopper Pads
+Abort Option            Antimatter Objects
+Flexible Thingydoo      Space Locks
+Chepos Pyramids         Joystick Options
+Olly                    Superb Sound
+Space Hopper            Key
+Bridging Platform       Game Tunes
+Weapon Packs            User Defined Keys
+Bonus Lives             Spaceship
+Re-Equip Packs          Skeletonauts
+Secret Passages         Smash Traps
+Flowers                 Mushrooms
+Signposts
+
+Bubble Bus Software
+87 High Street, Tonbridge, Kent TN9 1RX England.
+Copyright (C) 1985 Bubble Bus Software. All rights reserved.
+
+CHEATS
+Use the Multiface to enter POKE 50274,0 for infinite lives and/or
+
+POKE 54505,201 for infinite energy.
+
+Here is a complete list of the teleport codes, which may prove
+useful -
+
+EXIAL, VEROX, RAMIX, TULSA, ASOIC, DELTA, QUAKE (takes you
+straight to the core), ALGOL, EXIAL, KYZIA, ULTRA, IRAGE, OKTUP,
+SONIQ, AMIGA, AMAHA.
+
+SEQUELS/PREQUELS
+None.
+
+SCORES RECEIVED
+Did pretty well as far as I can remember, but I don't have any
+magazines on hand.
+
+GENERAL FACTS
+Steve Crow previously wrote Wizard's Lair (an Atic Atac clone)
+for Bubble Bus. He went on to work for Hewson and wrote/co-wrote
+several other games such as Firelord and Zynaps.
+
+This is one of the few games that includes an "exit the game"
+option on the main menu! Pressing it displays a fun picture and
+then resets your Speccy!
+
+Starquake was successfully converted to many other formats
+included the "new and exciting at the time" Atari ST and Amiga.
+In my opinion, though, none of the other versions matched the
+playability of the Speccy original!  The teleport codes were
+different in every version.
+
+The original tape version had a very interesting loader. The
+loading lines in the border were black and blue until about three
+quarters of the way through loading, whereupon they burst into
+multicoloured life.
+
+NOTES
+Starquake isn't very difficult to finish (I can do it every time
+now), but the important thing is that it always remains fun to
+play. The objects are randomly placed every game, so there's no
+chance of getting bored. It's fast, it's varied, it's fun, it's
+colourful, it's very playable. What more could you ask for?
+Starquake was inspired by a hundred other games and spawned a
+hundred clones, but I still find this the best of a (rather
+large) bunch.

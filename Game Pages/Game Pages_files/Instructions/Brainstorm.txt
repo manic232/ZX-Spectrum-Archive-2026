@@ -1,0 +1,50 @@
+BRAINSTORM
+
+Loading
+
+1. Connect the EAR plug on the computer to the EAR plug on the cassette playeR
+Disconnect the MIC lead.
+
+2. Place the cassette in the player and rewind.
+
+3. Type in LOAD"" then press ENTER.
+
+4. BRAINSTORM will now automatically load. Several seconds later the
+BRAINSTORM loading screen will appear. If it does not load successfully,
+adjust the volume control on your cassette player and repeat the instructions.
+For complete loading instructions consult your Spectrum manual.
+
+PLAY
+
+One day Robin Banks was travelling the universe zapping aliens and generally
+minding his own business, when he was sucked into Professor Brainstorm's Warp
+Tunnel. Now he finds himself inside the Professor's castle surrounded by hungry
+Clones. Escape from the castle is his only hope of survival. Special weapons must
+be found to combat the dreaded Guardians of The Tower before escape is even
+possible.
+
+JOYSTICK
+
+Either Kempston, Sinclair 2 or Cursor joysticks may be used.
+Pull the joystick down to pick up/drop objects.
+
+KEYBOARD
+
+Thrust - Q    Left - 0    Right - P    Pick up/drop - A
+Laser - Any of the bottom row keys.
+
+REPAIRING DAMAGE
+Press keys 1 - 4 or H - L
+
+PAUSE
+To pause the game press the 'ENTER' key, press it again to restart.
+
+ABORT GAME
+
+To abort the game you are playing first press the 'ENTER' key then the 'BREAK'
+key. This will return you to the option screen.
+
+Copyright © 1985 Bubble Bus Software
+All rights reserved
+
+

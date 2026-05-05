@@ -1,0 +1,225 @@
+****************CODENAME MAT by DEREK 
+BREWSTER**********************************************
+
+
+Codename MAT - MISSION: ALIEN TERMINATION - the desparate plan to place in 
+the mind of a teenager the combined tactical skills of all the planetary 
+leaders in the solar system. MAT is mankinds last hope.
+For decades the Myons have sought to dominate the Solar System, whose fleets 
+are now ragged and depleted. They have launched an all-or-nothing attack, 
+knowing that Earth is developing revolutionary space-craft. Only the 
+prototype- USS Centurion - has been built, and it must be pressed into 
+immediate service as both battle-cruiser and tactical command centre.
+Piloting the craft in battle and controlling the Planetary Defence Fleets is 
+beyond any normal human...MAT is created.
+Now your mind is MAT's mind. Take control of the Centurion and blast off on 
+the greatest adventure of them all...
+
+--------------------------------------------------------------------------------------------
+
+
+To load, press 'J' key and holding down red symbol shift, press 'P' key 
+twice. Screen should show LOAD"". Press ENTER key and start tape - let tape 
+run to end.
+
+DIRECTION AND FIRE					IMPULSE ENGINES:
+6. Left							1. Decelarate.
+7. Right						2. Accelarate.
+8. Down or JOYSTICK SELECTED				3. Decelarate to a halt.
+9. Up							4. Go to cruising speed (30%)
+0. Fire							5. Go to full speed (NOT
+							   AVAILABLE WITH
+							   AGF/PROTEK JOYSTICK).
+OTHER CONTROLS:
+W Warp 							DISPLAY CONTROLS
+D Defensive Shields (on/off)				F Front View
+K Tracking Computer (on/off)				R Rear View
+A Switch Tracker to alternative enemy, if any.		L Long Range scan
+T Transmit subspace commands to your own forces		S Sector Scan
+H Hold/restart program					C Solar chart and ship status.
+
+
+GETTING STARTED
+Select control option as requested on loading (1-6).
+Select game level (1-3)
+1. Short practice game
+2. Full game, medium sized Myon invasion fleet.
+3. Full game, large fast-moving Myon invasion fleet.
+Select game type (1-2)
+1. Commander: you control deployment of Planetary Defence Fleets.
+2. Pilot: deployment of fleets under computer control.
+The forward cockpit view will appear. You are stationary in the outermost 
+plantet's system. Press D to activate shields. Press 4 to come to cruising 
+speed of 30%. Pressing R will give the rear view. Pressing K activates the 
+visual tracking computer which selects forward/rear views to face any object 
+being tracked. Pressing S puts up the sector scan, showing your loacation in 
+the planets system, and that of all the other fleets, satellites, etc. 
+Pressing C puts up the solar chart, showing all planet sectors in less 
+detail, allied fleets' strengths and Centurion's system status. The 
+bottom-screen Battle information about planets under attack, damage reports 
+are made, and alerts are given of Myons in your area. Pressing L puts up the 
+long-range scan, giving a scale display of all objects in your area in 
+relation to you. To move to another area in the planet's sector you must use 
+the Warp Drive. To move to another planet's sector you must warp into an 
+area containing a Stargate, find it and fly through it (red one for system 
+outbound, cyan inbound). If 'Commander' was selected you can transmit 
+commands to your conventional fleets by pressing 'T'.
+
+All displays and functions are described in detail further on.
+
+Each area may contain any combination of three types of Myon ship.
+
+	Fighter - will attack Centurion the moment the two are in the same area. 
+Top speed         70%. No shields.
+	Cruiser - Will only attack when within range 3000, otherwise follows a 
+steady         course. Top speed 60%. No shields.
+	Base Star - Will attack immediately. Top speed 80%. When it's shields are 
+gone it         turns red and runs until they have regenerated (about 2 
+mins.)
+
+A planet or satellite is under attack when four of the adjacent eight areas 
+are occupied by Myon craft. You have about 3 minutes to clear one of these 
+areas before the Myons have destroyed their target. They construct two 
+fighters and a base star from a planet, or two fighters and a cruiser from a 
+satellite. It is sometimes best to destroy a planet yourself to prevent 
+this. Myons delay to attack planets, rather than carry on through Stargates 
+to get towards Earth, except when they are losing really heavily.
+Damage suffered by Centurion in battle can be repaired, and energy restored, 
+by reaching a planet or satellite. Orbit is achieved by stopping between 
+ranges 400 and 500 with vertical and horizontal less than 5 degs. Centurion 
+will be drawn down and destroyed if you get too close. Do not forget to 
+reactivate shields, etc., and turn away before getting underway again!
+Damaged impulse engines will operate raggedly if you hold the relevant 
+control key down. All other systems cease to function when destroyed. Loss 
+of several systems can seriously affect your ability to navigate. Warp drive 
+is not vulnerable to damage.
+If Centurion runs out of energy, or it or Earth is destroyed then the war is 
+lost. The destruction of the last Myon craft signals victory. You will be 
+scored according to the time, planets or satellites saved, level of play and 
+efficiency of tactics.
+
+DISPLAY TYPES:
+Permanently on-screen
+		Angle from straight
+Energy	      ahead of tracked object		Object Range		Shield Status
+E=08721		     0 = +46			  R = 15721		   SH - ON
+V=030		     0 = -17			  N = 2			   TR - OFF
+Speed		Angle up/down to		Object Number		Tracking Computer
+		 tracked object						     Status
+
+Long-range scan
+3-Dimensional global representation of your area of space. Each area behaves 
+as a circular universe. A craft disappearing behind will reappear ahead, for 
+instance. You look down from above. Centurion is represented by the fixed 
+central blot, it's nose towards the top of the screen. Thus, if you turn to 
+the left the entire display will appear to revolve to the right around your 
+position. If you loop the loop the display will rotate vertically as if you 
+were looking down a revolving cylinder. It is worth playing with this until 
+interpreting it is second nature - it will need to be!
+
+Sector Scan
+Shows a 10 x 7 grid, each part of which represents one area as above.
+(Large Black Circle) - Main Planet in system
+(Smaller Black Circle) - Satellite
+F 1(with dots underneath) - Planetary defence fleet (dots show ships left in 
+fleet)
+(Four dots in diamond shape) - Stargate (RED - outer-system/CYAN - 
+inner-system directions)
+-=  - Fleet of 3 Myons
+_-  - Fleet of 2 Myons
+-   - 1 Myon
+[ ] - USS Centurion
++   - Warp Cursor
+
+Solar Chart
+The solar chart is made up of all seven sector displays miniaturised and 
+rotated anticlockwise 90-degrees.
+-  Myon Fleet
++  USS Centurion
+x  Planetary Defence Fleet
+(Square) - Planet
+(Small Black Square) - Satellite
+Fleet's strengths are shown below thus:
+	Earth	Mars	Jupiter	    Saturn	Uranus	   Neptune	Pluto
+F1	  3	 3	   3	      3		  0	      0		  0
+F2	  3	 3	   3	      2		  1	      0		  0
+Centurion's systems status is shon below thus:
+PH1	  PH2	 SHE	   IME	      BCO	  SRE	      STR	  LRS
+   Photon	Shields	  Impulse    Battle	Subspace    Subspace	Long Range
+    Tubes		  Engines   Computer    Receiver   Transmitter    Scanner
+			(Flashing = DAMAGED; Red = DESTROYED)
+
+WARP DRIVE
+To warp into another area select Sector Scan with S. Use the direction 
+controls to position the warp cursor at your destination. Press W to engage 
+Warp Drive. The display will return to forward view, with the diamond of the 
+Warp Channel Marker in your sights. As you race through the warp channel you 
+must follow it by keeping the marker in your sights, as if chaing another 
+craft. Otherwise you will go off course. You can set and leave the warp 
+cursor position and use Warp Drive later.
+
+STARGATES
+To reach another planet's sector you must pass through a Stargate. A cyan 
+one will take you inwards in the system and a red one outwards. You first 
+warp into the Stargate area, then track it down with your displays or battle 
+computer. It is visible at about range 2500. You must fly through the centre 
+to achieve transfer. The faster you are travelling, the more accurate you 
+must be. You will arrive in the next planet's system in the area of the 
+other end of the Stargate. If both you and a Myon are present at a Stargate 
+you cannot use it until the Myon is destroyed.
+
+SUBSPACE TRANSMITTER
+In 'Commander' mode you need to issue instructions to the Planetary Defence 
+Fleets to use them in your strategy. To do this press T. You will be 
+prompted for the name of the fleet you wish to transmit to. Respond with the 
+letter of the planet to which it belongs, followed by the fleet's number, 
+and press RETURN. S2 would be Saturn fleet no. 2; U1 would be Uranus fleet 
+no. 1 etc. Then enter message and press RETURN. A message comprises the 
+first letter of the direction to move and the distance, repeated as needed 
+followed by any suffix desired. Suffix R will cause it to remain at its new 
+position. Suffix D will cause it to Defend the perimeter of the destination 
+area. A message E2N5R means 'Go East 2, North 5, and Remain there'.
+W5D means 'Go and Defend the perimeter of the area 5 to the West'. Each 
+fleet rmembers its previous R or D command and will apply it to any new 
+instructions if neither suffix is present. A fleet cannot travel through a 
+planet or satellite area. It can be useful to just transmit R first to make 
+a fleet stay still while you are composing its message. If a fleet runs into 
+Myons on it's journey it will normally enter combat en route - if used, this 
+suffix should be the very last item in the message. The Sector Scan is 
+correctly oriented North-upwards for the directions used in issuing 
+commands.
+
+TRACKING COMPUTER
+K switches this on or off. It will automatically switch between forward and 
+rear views to face any object being tracked. You always fire in the 
+direction of view. The object being tracked is indicated by the 'N= 
+'readout. 'P' indicates a planet or satellite, 'S' a Stargate, '0' no 
+objects present, '1','2' or '3' which number Myon of those present is being 
+tracked. You may switch between attackers by pressing A. The Battle 
+Computer's readouts of range and angle are for the item being tracked. When 
+first entering a Myon-occupied area it is wise to switch between attackers 
+to determine which is the closest or you may be taken by surprise.
+
+GENERAL INFORMATION
+In battle knock out fighters first, trying to stick with the one you are 
+tracking, otherwise you may get one in your sights just as the tracker 
+switches view to follow another. Chasing cruisers can be time-consuming. It 
+is sometimes best to leave them for later unless they are a threat to a 
+planet. Space always has lumps of rock floating through it. You cannot track 
+these, but they can cause damage, so keep your eyes peeled! It is unwise to 
+continue battle when either the Battle Computer or Long Range Scanner is 
+damaged. Either can be used effectively for finding planets or Myons, but 
+loss of both will leave only the fore-aft switching of the tracking Computer 
+to indicate an object's location.
+Keep an eye on energy. Shields, Warp Drive, Impulse Engines and Photon Tubes 
+use varying amounts. Hits by Myon photon bolts cause the most serious drain. 
+The display will flash below 1000 units.
+
+
+
+		This program is protected by copyright. Unauthorised
+		      copying, lending or hiring is prohibited.
+		 Micromega, 230-236 Lavender Hill, London SW11 1LE
+
+
+

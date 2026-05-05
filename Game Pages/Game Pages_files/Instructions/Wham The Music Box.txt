@@ -1,0 +1,191 @@
+Wham! The Music Box (c) 1985 Melbourne House 
+--------------------------------------------
+
+WHAM! THE MUSIC BOX GUIDE
+
+The Sinclair Spectrum is a computer with only one sound channel, until now.
+The Music Box gives you two channels of sound, allowing anyone to compose
+music quickly and effectively without knowledge of music or programming.
+
+
+DEMONSTRATION
+
+To demonstrate the features of the program, load the program like any
+Spectrum game. When the program has loaded press '1' to load a tune into
+the MUSIC EDITOR. There are already six tunes in memory when the program is
+loaded, so press 'M' for memory and a list of tune names appears. Press the
+number of the one you want and when the main menu reappears press '3' to
+listen to the tune. If you want to stop the tune at any stage press '6' and
+you will go into the MUSIC EDITOR, pressing  key '6' again to return to the
+main menu.
+
+
+YOUR FIRST COMPOSITION
+
+a) Select the Edit Mode by pressing '6' while looking at the main menu.
+
+b) Erase any tune in the Music Editor's memory by pressing '7' followed by
+   'Y' to confirm that you really want to erase it.
+
+c) Press key '1' to select Octave 1, and check that the figure 1 appears by
+   the word OCTAVE in the status window.
+
+d) If the number by the word CHANNEL is not 1 press 'T' until it changes
+   to one.
+
+e) Type the following keys, which make up the bass line of a tune we have
+   composed for you - where CS represents the CAPS SHIFT key and EN is the
+   ENTER key (do not try to type the commas):- CS, EN, X, EN, V, EN, B, EN,
+   H, EN, B, EN, V, EN, X, EN, CS, EN, X, EN, V, EN, B, EN, V, EN, X, EN.
+   If you make a mistake, press the '0' (zero) key to step back.
+
+f) Press key 'R' to return to the start of the tune. Press key 'T' to
+   change to channel 2, checking that the number next to the CHANNEL
+   changes to figure 2.
+
+g) Press the key '3' to select octave 3, for the treble part of the tune.
+
+h) Type in the following notes - CS, X, V, CS, X, V, CS, X, V, CS, X, V, B,
+   V, X, V, M, M, B, V, B, V, X, V, CS.
+
+i) press 'R' to return to the start of the tune and 'Q' to play it, or 'P'
+   to play it note by note.
+
+j) You can type any notes you like on top of music already in the Music
+   Editor's memory, each note you type will replace the note previously
+   typed at that point for the channel you are working on.
+
+k) When you are happy with the tune, use the 'P' or 'O' keys to move to the
+   end of the tune and press 'W' to put in an end marker; this should be
+   done on both channels.
+
+l) Press '6' to return to the menu, where you can choose to save the music
+   datafile, or compile it into a machine code routine you can use in your
+   own program.
+
+
+DRUM EFFECTS
+
+While in the the Music Editor, you can at any time add a bass drum effect
+by prssing the 'E' key. There are also three noise effects which you can
+design yourself, available on the 'Y', 'U' and 'I' keys.
+
+To design a noise press the '8' key and you will see a graphical
+representation of the waveform and duration of the three current noises.
+You can use the '5', '6', '7' and '8' keys as cursor keys to move around
+the graph, then press the '0' (zero) key to change the graph under the
+cursoe. There are seven different waveform, and four different sections of
+the duration which can be turned off and on independently. To hear the
+current noise the press '9' key. When you are happy with the noise you have
+designed press 'ENTER' to return to the Music Editor and press 'Y', 'U', or
+'I' as appropriate to place the noise in the tune.
+
+Note: Noises use both channels, to erase a noise you must put either a note
+or a rest in place of the noise on both channels. You can get more than
+three different noises in a tune, simply design a noise, put it in the
+tune, redesign a new noise and put that in the tune and so on for as many
+as you need.
+
+
+TEMPO
+
+The speed at which the music is played can be altered using the SET TEMP
+option from the main menu and the '5' and '8' keys. Press '6' to return to
+the main menu to try out the effects of your changes.
+
+
+COMPILER
+
+The Compiler option produces a machine code routine which you can use in
+your own programs to play the music of the tunes that you create.
+
+The Compiler asks for a memory location at which to place the routine, this
+should be 32768 or higher (Spectrum memory below this address is shared
+with the display ULA and operates more slowly than the other memory) and
+not so high that there is no room for the tune. It also asks for a RETURN
+OPTION, normally the routine tries to play all the tune but will return
+when any key is pressed. Alternatively, it can return always after each
+note is played, allowing your program to do things while the tune is
+playing. If the 'W' key has been used in the Music Editor to create tune of
+different lengths on two channels then these tunes will repeat and the tune
+will not have an end. If the tunes are of the same length then there is a
+natural end to the music.
+
+The Compiler saves the compiled routine to tape as a normal  Spectrum CODE
+file which must be reloaded using the command LOAD 'name' CODE XXXX where
+XXXX is the starting address you specified earlier.
+
+To play the tune RANDOMIZE USR XXX, unless playing note by note when to
+play the next note you should RANDOMIZE USE (XXXX + 12).
+
+To stop the routine stopping when any key is pressed, making it only return
+at the end of the tune if there is one, POKE XXXX + 16, 17. Other useful
+POKEs are given on the screen when the Compiler runs.
+
+
+FOR MUSICIANS
+
+The Music Box does not attempt to duplicate all the complexities of normal
+musical notation. For instance you will note that all compositions are
+shown in the key of C major and the only note length used is a quaver. For
+longer notes simply repeat as many quavers as you need, you will not
+normally hear any gap between the notes as they are played. These and other
+simplifications do not limit the range of tunes you can compose.
+
+KEY REFERENCE GUIDE
+
+1-4          Select octave 1 - 3
+5            Change border colour
+6            Return to main menu
+7            Erase whole tune
+8            Noise effect editor (for key use in this routine
+             see above)
+9            Rewind (repeat backstep)
+0 (zero)     Step back one note
+Q            Replay tune
+W            End of tune / repeat marker
+E            Bass Drum effect
+R            Restart - move back to start of tune
+T            Change between channel 1 and 2
+Y, U, I      Noise effects 1, 2 and 3
+O            Fast forward
+P            Play single note
+CAPS SHIFT   Note C
+A            Note C sharp (D flat)
+Z            Note D
+S            Note D sharp (E flat)
+X            Note E
+C            Note F
+F            Note F sharp (G flat)
+V            Note G
+G            Note G sharp (A flat)
+B            Note A
+H            Note A sharp (B flat)
+N            Note B
+M            Note C
+K            Note C sharp (D flat)
+SYMBOL SHIFT Note D
+L            Note D sharp (E flat)
+SPACE        Note E
+ENTER        Rest
+
+You will see that the notes are arranged as for a normal musical keyboard.
+
+---------------------------------------------------------------------------
+  
+                     Programming by Mark Alexander
+               Program Copyright (c) 1986 Mark Time Ltd.
+             Music (c) 1984/1985 Morrison Leahy Music Ltd
+
+                             Published by
+                           Melbourne House 
+                    60 High Street, Hampton Wick
+                        Kingston-upon-Thames
+                           Surrey KT1 4DB
+                           United Kingdom
+
+            70 Park Street, South Melbourne 3205, Australia
+
+---------------------------------------------------------------------------
+
+Complete Instructions typed in by Paul Thompson, April 2003

@@ -1,0 +1,134 @@
+MASK III - VENOM STRIKES BACK
+==============================
+
+Matt Trakker receives a message oh the MASK computer - "We have 
+kidnapped Scott Trakker and are holding him to ransom on the moon. 
+Unless you surrender your entire forces to Venom, you will never 
+see him again. Signed Miles Mayhem."
+
+Matt is faced with a terrible dilemma. To agree to VENOM'S demands 
+would give them total control over the Peaceful Nations Alliance, 
+but to ignore their demands would surely mean Scott's life.
+
+Can you, as Matt Trakker, rescue Scott and return him safely to Earth?
+
+
+DEEP IN THE HEART OF MASK HQ MATT TRAKKER AND ALEX SECTOR ARE 
+FACING WHAT COULD BE THEIR MOST SERIOUS CHALLENGE TO DATE!
+
+MATT: "I THINK THEY HAVE US THIS TIME ALEX. ONLY THAT EVIL GENIUS 
+MILES MAYHEM COULD HAVE KIDNAPPED SCOTT FROM UNDER OUR VERY NOSES. 
+WE'LL HAVE TO THINK OF SOMETHING... AND FASTI!!"
+
+ALEX: "I'LL RE-RUN THE VIDEOTAPE AND JUST MAYBE WE CAN COME UP WITH 
+A SOLUTION TO THIS DESPERATE SITUATION"
+
+VENOM: "I HAVE YOUR SON TRAKKER!! IF YOU EVER WANT TO SEE HIM AGAIN 
+LEAVE MASK NOW! WITHOUT YOU AT ITS HEAD NOTHING CAN STOP VENOM"
+
+MATT SUDDENLY RESOLVES HIMSELF TO RESCUE SCOTT FROM MAYHEM'S EVIL 
+CLUTCHES... AT ANY COST.
+
+ALEX EXPERTLY MANIPULATES SOME CONTROLS AND IN NO TIME AT ALL 
+A STEADY SIGNAL COULD BE HEARD.
+
+ALEX: "I'VE FOUND HIM MATT! OUR SATELLITE ON THE DARK SIDE OF THE
+MOON HAS DISCOVERED A PREVIOUSLY UNKNOWN VENOM BASE. SCOTT'S SIGNAL
+IS EMANATING FROM THE INNER-MOST DEPTHS OF THE CENTRAL CORE. NO 
+MASK VEHICLES OPERATE OUTSIDE ATMOSPHERIC CONDITIONS YOU'LL HAVE 
+TO STEAL A CRAFT FROM VENOM!"
+
+ALEX: "MORE BAD NEWS MATT! OUR LATEST INTELLIGENCE REPORTS HAVE 
+FOUND A NEW SERIES OF VENOM WEAPONRY. KNOWLEDGE OF THESE WEAPONS 
+IS EXTREMELY LIMITED BUT THE COMPUTER MAY GIVE YOU AN IDEA OF WHAT 
+YOU ARE GOING TO FACE."
+
+WEAPON ... CLASS 4 // 3-7 ...
+CODENAME ... DEATHSPHERE ...
+ATTRIBUTES ... TITANIUM GLOBE WITH SPIKES ...
+SHIELDING ... UNKNOWN ...
+ARMOURMENT ... UNKNOWN ...
+FURTHER INFO ... N/A
+
+WEAPON ... CLASS 4 // 3-8 ...
+CODENAME ... BLOCKBUSTER ...
+ATTRIBUTES ... LARGE AUTOMATIC GUN ...
+SHIELDING ... UNKNOWN ...
+ARMOURMENT ... TUNGSTEN TIPPED 20lb SHELLS ...
+FURTHER INFO ... N/A
+
+WEAPON ... CLASS 4 // 3-9 ...
+CODENAME ... ANGEL OF DEATH ...
+ATTRIBUTES ... D.N.A. SEEKING MISSILE ...
+SHIELDING ... UNKNOWN ...
+ARMOURMENT ... METABOLIC ACID ...
+FURTHER INFO ... N/A
+
+WEAPON ... CLASS 4 // 4-0 ...
+CODENAME ... SERPENT ...
+ATTRIBUTES ... N/A ...
+SHIELDING ... UNKNOWN ...
+ARMOURMENT ... UNKNOWN ...
+FURTHER INFO ... A CREATURE SEEMINGLY IMPOSSIBLE TO HURT IN ANY WAY
+
+MATT: "IT LOOKS LIKE I'M GOING TO HAVE TO WATCH MY EVERY STEP IF
+I'M GOING TO GET PAST THESE MENACES. IS THERE ANYWAY YOU CAN GUIDE
+ME THROUGH ALEX?"
+
+ALEX: "I CAN MONITOR YOUR PROGRESS MATT VIA WHICHEVER MASK YOU ARE 
+WEARING. I CAN RELAY DIRECTIONS EITHER BY JOYSTICK OR BY USING THE 
+CENTRAL COMPUTER KEYBOARD AS SHOWN HERE..."
+
+UP 	- P
+DOWN	- L
+LEFT	- Z
+RIGHT	- X
+FIRE	- SPACE
+HALT	- H
+
+ALEX: "YOUR CHOICE OF MASK IS RELAYED BY KEYS 1-4 ON THE CENTRAL 
+COMPUTER. IF I WISH YOU TO ABORT THE RESCUE ATTEMPT I WILL SEND 
+THE SIGNAL BY PRESSING Q. YOU WILL KNOW WHAT TO DO THEN. 
+GOOD LUCK MATT!"
+
+
+LOADING INSTRUCTIONS
+
+CBM 64/128
+CASSETTE: Insert cassette into cassette unit. Press SHIFT and RUN/STOP 
+simultaneously. Press PLAY on the cassette unit. The program will load 
+and run automatically.
+DISK: Insert disk into drive. Type LOAD"*", 8, 1 and press RETURN. 
+The program will load and run automatically.
+
+SPECTRUM 48K
+Type LOAD"" and press ENTER. Press PLAY on the cassette recorder. 
+The program will load and run automatically.
+
+SPECTRUM 128K/ + 2
+Use the TAPE LOADER as normal.
+
+SPECTRUM +3
+Use the DISK LOADER as normal.
+
+AMSTRAD
+CASSETTE: Insert cassette into cassette unit. Press CONTROL (CTRL) 
+and the small ENTER keys simultaneously. Press PLAY on the cassette 
+unit and then any key. The program will load and run automatically.
+
+DISK: Insert the disk into the drive, label side up. Type :CPM and 
+press ENTER. The program will load and run automatically.
+
+MSX
+CASSETTE: Insert cassette into cassette unit. Type BLOAD "CAS:", R. 
+Press ENTER and PLAY on the cassette player. The program will load 
+and run automatically.
+
+
+Gremlin Graphics Software Ltd.. Alpha House. 10 Carver Street. Sheffield SI 4FS. 
+© 1988 All rights reserved. Unauthorised copying, lending or resale by any means 
+strictly prohibited. MASK™ AND THE ASSOCIATED TRADEMARK ARE THE PROPERTY OF 
+KENNER PARKER TOTS. INC. (KPT) 1987.
+
+Programmed by Mark Rogers and Colin Dooley. Graphics by Steve and Marcos. Music 
+and FX by Benn.

@@ -1,0 +1,43 @@
+PAW.TAP contains everything that came on the original PAW tape: the main
+program, the overlays, the sample game 'TEWK' and various character sets: (The
+names for the character sets are my names only; the € character is the
+copyright symbol, 127 in the Spectrum's character set)
+
+Filename	Contents
+
+paw		\
+pawcode 	 \
+START	 A	  >-- the main program
+START	 B	 /
+(unknown block) /
+PAWOVR	 1	Overlay 1: Interpreter, Test Game, Save/Verify Adventure
+PAWOVR	 4	Overlay 4: Process/Response, Vocab, Connections, Words
+PAWOVR	 5	Overlay 5: Messages, Locations, Objects, Initially At,
+			   Object Weight, Background Colours
+PAWOVR	 2	Overlay 2: Compressor
+PAWOVR	 3	Overlay 3: Character Editor, Graphics Editor
+TEWK	 A	Part of sample game
+TEWK	 B	Other part of sample game
+SET1	 €	Character set 1:  "LED display"
+SET2	 €	Character set 2:  "Thin futuristic"
+SET3	 €	Character set 3:  "Thick futuristic"
+SET4	 €	Character set 4:  "Small futuristic"
+SET5	 €	Character set 5:  "Thick stencil"
+SET6	 €	Character set 6:  "Thin stencil"
+SET7	 €	Character set 7:  "Small & thick"
+SET8	 €	Character set 8:  "Large & thick"
+SET9	 €	Character set 9:  "Serif"
+SET10	 €	Character set 10: "Gothic"
+SET11	 €	Character set 11: "Very thick"
+SET12	 €	Character set 12: "Italic"
+SET13	 €	Character set 13: "Small old English"
+SET14	 €	Character set 14: "Large old English"
+SET15	 €	Character set 15: "Thick & square"
+SET16	 €	Character set 16: "Spaceship decor"
+SET17	 €	Character set 17: "Semi-gothic"
+SET18	 €	Character set 18: "Gaps"
+SET19	 €	Character set 19: "Small"
+SET20	 €	Character set 20: "Eaten"
+SET21	 €	Character set 21: "Bold"
+SET22	 €	Character set 22: "Dots"
+

@@ -1,0 +1,112 @@
+THE BIG SLEAZE
+
+A Delta 4 Adventure Written by Fergus McNeill
+
+LOADING INSTRUCTIONS
+
+Type LOAD"" then press ENTER
+
+BACKGROUND
+
+Some guys are good, some guys are bad. But Sam Spillade was just plain
+dumb.
+
+"In the mirror across the office I caught sight of my reflection. I
+looked a deadbeat punk. That made me sore, real sore."
+"So I pulled my rod out and emptied six slugs into that ugly mug. It
+was a dumb thing to do but, hell, it made me feel better."
+"Then the phone rang."
+"I slammed one hand down on the edge of the receiver to make it flip
+into my hand, but something went wrong. The handset spun across the
+room and through the open window. The handset was hanging by it's cord
+one floor down so I figured I'd have to shout."
+"'SPILLADE INVESTIGATIONS, WHADDAYA WANT,' I yelled."
+"It was the start of something big . ."
+
+GAMEPLAY
+
+New York, the late 1930's. You control the destiny of Sam Spillade,
+stereotype private detective and general all round thicko.
+
+Sam operates his business, Spillad Investigations:
+
+No case too small or too cheap!, from a first floor office in the
+heart of the city.
+
+Your task is to solve the cases that come his way...
+
+The game is played across three parts (a bonus program, Sceptical 3,
+is included as part 4 but this is independant of the adventure).
+
+Parts 1 & 2 are recorded on side 1, part 3 and Sceptical 3 are on side
+2.
+
+To preserve in-game continuity, data must be saved to tape/disk on
+completion of one part. This data is then loaded into the next
+section, allowing you to proceed with the investigations. Instructions
+for this will be given on-screen during play.
+
+PLAYING THE GAME
+
+Commands can be typed in ordinary English, eg. EXAMINE THE DANISH
+PASTRY, but may be shortened to a simpler verb + noun format,
+eg. EXAMINE PASTRY.
+
+Sometimes though, it may be necessary to be more specific. If you are
+in a room with 2 boxes (one red and one blue) and 2 socks (one blue
+and one red), it would not be sufficient to say GET BOX or GET RED. In
+such cases, you must include both the adjective and the noun, eg. GET
+RED BOX.
+
+To converse with other characters in the game, use SAY TO (name of
+character) YOU'RE UNDER ARREST HAIRBAG or whatever worthy utterances
+you feel would be appropriate. This must all be entered as one command
+and you must always specify who you wish to talk to.
+
+USEFUL COMMANDS THAT ALWAYS GET LISTED ON THE INLAY
+
+SAVE			Saves your position to tape. 
+LOAD			Loads a previously saved position from tape.
+RAMSAVE			Saves your position to RAM. 
+RAMLOAD			Loads a previously saved position from RAM.
+GRAPHICS ON		Sets graphics permanently on display.
+GRAPHICS OFF		Sets Text Only mode.
+GRAPHICS SOMETIMES	Sets graphics to appear only when you 
+			enter a location.
+SCORE			Tells you how well you are doing.
+INVENTORY or I		Lists what you have with you. 
+HELP			May give the occasional clue, but too cryptically
+			to be of any use.
+
+CREDITS
+
+THE BIG SLEAZE is a parody concept of the great American detective.
+
+DELTA 4 wish to acknowledge such classics as "The Maltese Falcon" and
+"Mike Hammer" for all the inspiration they provided.
+
+THE BIG SLEAZE
+
+Graphics and original
+Commodore version		Fergus McNeill
+Spectrum conversion		Tim Gilberts
+Background research		Piranha Software
+Additional material		Anna Popkess
+SCEPTICAL 3 designed by		Fergus McNeill
+Originally released by		Piranha Software
+
+NOTE:
+
+If you get stuck and require assistance then please send a stamped,
+self addressed envelope to the address overleaf for a complete hint
+sheet. Unfortunately we cannot accept telephone enquiries.
+
+© Alternative Software Limited 1988
+
+PROGRAMMERS - If you have written a good programme for ANY home
+computer, send it to us now for evaluation. We pay EXCELLENT
+royalties!! Your programme could be in the shops within 3 weeks!!
+
+SEND TO: ALTERNATIVE SOFTWARE Units 3-6 Baileygate Industrial Estate,
+Pontefract, West Yorkshire. We will acknowledge receipt of your
+programme same day.

@@ -1,0 +1,74 @@
+CONTINENTAL CIRCUS
+==================
+
+THE QUEST: to qualify as a Formula One driver. Experience all the thrills of the arcade original as you stretch your driving skills to the limit. 
+Eight international circuits have to be conquered in a series of gruelling races — are you up to it?
+
+
+BEHIND THE WHEEL
+
+Your aim is simple. To prove to the racing world in general (and to your team manager in particular) that you have the skills and experience to 
+drive Formula One machines.
+
+Such honours are not easily earned. Only a handful of people in the world are allowed to compete at Formula One level, and entry to that elite 
+club is restricted to the most talented drivers. After years of racing you are now ready to take up the challenge, a challenge that will entitle 
+you to compete with the finest drivers, the elite of motor racing. A challenge known as the Continental Circus...
+
+
+TAKE THE CHALLENGE
+
+The Continental Circus consists of a series of eight races, each run on a different track in a different country. To complete the series and earn 
+the right to compete at Formula One level, a driver has to enter the Circus and finish races inside a qualifying position set for each successive 
+track.
+
+In theory, failure to qualify on a single track spells disqualification — the whole sequence of eight circuits has to be started again from 
+scratch. However, drivers entering the Circus are given 4 'lives' or 'credits'. Should you fail to qualify on a track, you can exchange a credit 
+for the opportunity to compete in another race on that track instead of being forced to return to the first race in the sequence.
+
+
+DRIVING SKILLS
+
+Your car has very simple controls — a high/low gearshift and an accelerator combine to control speed, while left/right controls govern your 
+position on the track.
+
+Watch the clock that ticks off the seconds of Racetime. You start the race with a limited amount of Racetime. When it runs out completely, the 
+race finishes and you are assigned your current position in the field. Extra Racetime is earned by passing checkpoints located around the track 
+within a time limit.
+
+Avoid collisions wherever possible — they cost valuable time and can lead to pit calls — if the car is damaged, get into the pits as soon as 
+possible rather than soldiering bravely on. Racetime is stopped while you are in the pits, so getting things fixed doesn’t harm your chances 
+of qualifying, but if you continue racing with a damaged car it will perform badly and eventually blow up!
+
+Of course, the going gets tougher the further you go: each successive track in the Circus sets greater challenges. And watch out for the rain... 
+it affects the car’s handling characteristics quite dramatically.
+
+
+LOADING INSTRUCTIONS
+
+COMMODORE 64/128 - CASS: Hold down SHIFT key and press RUN/STOP. Press PLAY on tape. Program will load and run.
+
+AMSTRAD - CASS: (464) Press CTRL and small ENTER.
+(6128) Type /TAPE and press RETURN. Press CTRL and small ENTER.
+
+SPECTRUM CASS: (48k) Type LOAD"" and press ENTER.
+(+2, +3) Insert cassette and press RETURN.
+
+CONTROLS: 	UP - SPEED UP
+		DOWN - SLOW DOWN 
+		LEFT/RIGHT - STEER LEFT/RIGHT 
+		FIRE - CHANGE GEAR
+
+
+Licensed from © Taito Corp., export outside Europe and Australasia prohibited.
+
+©1989 Virgin Mastertronic Ltd.
+Produced by The Sales Curve for Virgin Mastertronic. Design Khartomb.
+
+Virgin Mastertronic Ltd.
+2-4 Vernon Yard, 119 Portobello Rd,
+London W11 2DX.
+
+
+WARNING: ALL RIGHTS OF THE PRODUCER AND THE OWNER OF THE WORK REPRODUCED RESERVED. UNAUTHORISED COPYING, HIRING, LENDING, PUBLIC PERFORMANCE, 
+RADIO OR TV BROADCASTING OR DIFFUSION OF THIS CASSETTE PROHIBITED. THIS PROGRAMME IS SOLD ACCORDING TO VIRGIN MASTERTRONIC TERMS OF TRADE AND 
+CONDITIONS OF SALE COPIES OF WHICH ARE AVAILABLE ON REQUEST.

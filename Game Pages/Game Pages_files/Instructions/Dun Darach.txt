@@ -1,0 +1,209 @@
+DUN DARACH - GARGOYLE GAMES
+
+[ These instructions taken from the '4 Crash Smashes' compilation ]
+
+THE SCENE IS SET
+
+It happened that, following a fateful, bloody and largely pointless
+battle against the Conachta, Cuchulainn the Great was returning home
+to Muirmethne in company of his faithful charioteer, Loeg; pointless
+because the enemy was a scouting party and not intent on taking the
+peak of Beann Ghulban, below which the battle took place; fateful
+because, amongst their number was Amhair, a Prince of the Conachta and
+the darling of his father, who vowed an instant revenge...
+
+Towards the end of the second day, Cuchulainn and Loeg came across a
+wayside inn and went inside to claim lodging and sustenance, leaving
+their war chariot by a strange horse-drawn carriage, surmounted by a
+huge Oak Log. While they waited for food, they were approached by
+Skar, a strikingly beautiful girl, who was desperately troubled for
+her conveyance had developed a shattered axle. With somewhat unseeming
+haste, Loeg leapt to assist her and left the inn with Skar.
+
+Cuchulainn smiled to himself and settled down to enjoy the freshly
+arrived trencher. After a while, he went outside to see what progress
+Loeg might have made, but was astonished to find no sign of Skar or
+Loeg. Instead, one of the proud horses that pulled the chariot lay
+slain on the ground; of the Oak-carriage, there was only a cloud of
+dust disappearing along the Eastern Road, and on the wind, a hint of
+ghostly girlish laughter. In a growing rage, Cuchulainn went back
+inside the inn and shook the terrified landlord until the full story
+was revealed.
+
+Skar was, it seemed, a Sorceress and ally of the Connachtmen, and she
+had seized Loeg as retribution for the Princeling's death, and had
+taken him, body and soul, to the Secret City of Dun Darach. Vowing a
+mighty vow, Cuchulainn mounted the remaining horse and took off to
+find the mist-shrouded city. Long was his search and the trials he
+endured form part of a different story, but, in time, he found Dun
+Darach, for in truth, that was where the Secret City was located.
+
+HOW DUN DARACH WORKS
+
+The Option Screen is presented at the start of the game or upon
+request via the keyboard; the screen offers the following choices:
+
+1. Enter the Game
+2. Save the current Game
+3. Restore a Game
+
+Note that returning to the option screen from a current game will
+leave the game-world intact - upon re-entry, nothing will have changed
+unless a previously stored game has been restored. This allows a game
+to be saved at a critical point without destroying it. When saving or
+restoring a game a version number will be asked for - this is to
+ensure that the right game is restored, so keep a note of version
+numbers.
+
+The Keyboard controls the actions of the main character - which keys
+perform which actions on your particular make of computer are given on
+a separate card.
+
+The following actions may be performed:
+
+* walk left
+* change camera angle 90 degrees left or right.
+* enter a doorway; to achieve this on any computer, position
+  Cuchulainn in front of the door and press the enter button.
+* Pick up or drop a specific object; note that objects may only be
+  dropped in certain places - i.e. shelves, counters, etc. Whether this
+  is in compliance with some whimsical city ordinance or merely an
+  inborn sense of tidiness is unclear...
+* offer an object to another character - this will produce a display
+  in front of Cuchulainn of the proffered object - what happens next
+  will depend on how well you have judged the other character's
+  personality!
+* select an object being carried for dropping, offering, etc. - the
+  currently selected object is indicated by an asterisk.
+  Note that Cuchulainn can carry 3 separate objects plus a large
+  amount of money.
+
+[ Presumably, 'walk right' should have featured somewhere in this list
+  as well! ]
+
+In addition, there are some special function keys:
+
+* enter/exit Autorun mode.
+* freeze/unfreeze frame.
+* return to Option screen.
+
+HOW TO PLAY DUN DARACH
+
+The main objective of Dun Darach is to locate and release the
+charioteer, Loeg. But, as you walk the streets of the Secret City, you
+will encounter scores of secondary quests which will need to be
+completed before a final solution is reached. Each player will develop
+his or her own strategies as they progress through the game - there is
+no set route to solve the Quest - however, as a guide, we will
+describe the elements involved in Dun Darach and give a few hints on
+play.
+
+THE CITY
+
+The layout of Dun Darach is as complex as any normal large city, and
+the streets and buildings are continuously mapped by the program. You
+will notice the following logical sub-divisions:
+
+* The city itself is divided into a series of Quarters, each of which
+  possesses a distinctive character - for instance, one Quarter is
+  involved with entertainment, another houses all the financial
+  institutions.
+* To aid the explorer further, each Quarter consists of several named
+  districts.
+* every street in Dun Darach bears a street name; every door that
+  opens onto the street carries a house number.
+* behind every door there is a room or set of rooms, which may be
+  occupied or empty.
+
+THE POPULATION
+
+While some of the other characters in Dun Darach stick single-mindedly
+to their assigned tasks - for instance, shopkeepers - the streets are
+full of independent, fully-animated characters, each with their own
+personality. Most of them have something which you will need, like
+specific objects or information or the knowledge of a secret way and
+all of them are open to bribery, either directly, with money -
+normally a large amount - or by some object which they themselves
+desire or need. Note that you cannot be killed in Dun Darach (another
+city ordinance?) but you will be fair game for pickpockets, confidence
+tricks and other normal street activities. Note that the other game
+characters are represented by one basic female figure and one basic
+male figure; when a new character appears on screen, an identifying
+symbol appears beneath the figure and the full name is shown in the
+text display.
+
+THE CURRENCY
+
+The units of currency in common use in Dun Darach are Iridi (literally
+rainbows); these are small gold sequins, variously coloured in the
+minting process. Iridi can be gained in a variety of ways:
+
+* by working! Opportunity to gain a steady job exists in several parts
+  of the city.
+* by gambling; a visit to the Gaming House can be lucrative - or
+  disastrous...
+* by selling at a profit; throughout the seven Universes, the
+  Entrepreneur will always flourish.
+* by stealing; highly profitable but very risky.
+* by banking: a wise move, and a reasonable interest rate.
+
+Iridi can also be disposed of by many routes:
+
+* by buying an object from a shop - pick up the object and offer money
+  to the shopkeeper who will deduct the appropriate amount. Of course,
+  you could try not paying...
+* by bribery, but, beware, the denizens of Dun Darach will never give
+  you change...
+* by being robbed - oh well.
+
+EXTRACT FROM 'DINN NEMETON' - THE HISTORY OF THE SACRED GROVE, AN
+ANONYMOUS, ANCIENT AND SECRET WRITING, WHICH MAY NOT BE PUBLISHED IN
+FULL.
+
+From the void sprang forth Lightning, that split asunder the long
+Night to reveal the World to the sight of Men; and the Voice of
+Darkness torn was Thunder, which rolled in majesty from mountain to
+valley and from river to sea; and the shape of Thunder in the World
+was the Oak, whose roots bound together the fabric of the earth, on
+whose branches rested the canopy of the sky; and the site of the
+Sacred Grove wherein rested the Oak was called Dun Darach, the Hill of
+the Oak, and this was the most secret of knowledge and was entrusted
+only to the chosen of the Druidhan. But the Druidhan were also the
+race of Men, and needed food and clothing and shelter, and there were
+ever those on hand to supply their needs. In time, the knowledge of
+the Oak seeped abroad, and Druidhan surrounded the Grove with a Great
+Castle, to hide it from eager eyes, and the castle was also called Dun
+Darach, and for a while, the secret was contained.
+
+But, alas, the Pendulum of History had been set into motion, and
+around the castle grew a great City, built and inhabited by many men,
+who also called their city Dun Darach, and knowledge of the Sacred Oak
+filled the city with strangle tales and the minds of Men with longing.
+
+In desperation, the Druidhan called a great conclave of all the
+strongest of their Order and worked together on a mighty Magic. And in
+that instant, a cold white mist settled on Dun Darach, and the city,
+and all it contained, was freed from the bounds of the World and set
+to drift on the Tides of Time.
+
+Like a floating log in a dark sea, the shrouded city still comes on
+rest on Mortal shores, and the black towers of the castle rear starkly
+from the white mist. It is said that, at such times, there is much
+furtive activity around the city gates and its streets are forever in
+Twilight. Alas, Dun Darach has become a melting pot for diverse
+cultures and a grim shield for the dregs of the race of Men.
+
+[ Map of the City of Dun Darach, by BREN the mapmaker; available as
+  ftp://ftp.worldofspectrum.org/pub/sinclair/games-maps/d/DunDarach_3.jpg ]
+
+[ Keys:
+
+ LEFT/RIGHT         - Alternate bottom row keys
+ ENTER A DOOR       - ENTER key
+ CAMERA LEFT/RIGHT  - Alternate second row keys
+ PICK UP/DROP       - Alternate third row keys
+ SELECT OBJECT      - 2,3,7,8,9
+ OFFER OBJECT       - 1,0,SPACE
+ AUTO-RUN ON/OFF    - 4
+ PAUSE ON/OFF       - 5
+ RETURN TO OPTIONS  - 6 ]

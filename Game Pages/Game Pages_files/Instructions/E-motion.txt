@@ -1,0 +1,150 @@
+E-MOTION
+U.S. Gold
+
+
+SCENARIO
+
+E-Motion takes place in the sub-atomic world where particles can be
+brought into existence, accelerated, collided and destroyed. Strange
+elastic bonds can form between particles and complex lattices will
+block your path. But beware, nothing is stable in this strange world,
+and only the most experienced and expert nuclear pilots can prevent
+particle melt-down ...
+
+
+GAMEPLAY
+
+E-Motion gives you control of a ship which can be rotated left and
+right, and moved in the direction it is currently facing. The ship is
+used to push coloured spheres around the screen and each sphere may be
+one of three different colours (contain one of three different shapes).
+At the start of a level, these spheres pulsate slowly, but as the
+levels progress they pulsate faster and faster until finally they
+explode. Every time a sphere explodes, energy is lost (indicated by a
+bar at the top of the screen). When the energy bar reduces to zero, a
+life is lost; when all lives are lost the game is over. The strategy
+is to avoid the exploding spheres by pushing two spheres of the same
+colour (same shape) together, whereby they'll both disappear harm-
+lessly. If you should accidentally push two differently coloured
+(different shaped) spheres together, a small pod is formed. Initially
+this can be picked up for an energy recharge, but if left alone for
+too long it grows into a new full-sized sphere, which must itself then
+be disposed of. The level finishes when there are no spheres left on-
+screen. If there is only one sphere left on-screen then obviously it
+cannot be disposed of by pushing it into another one, so it explodes
+immediately, to finish the level.
+
+To complicate your progress, there are pipes scattered around the
+screens which both your ship and the spheres will bounce off. On some
+levels spheres are joined by elastic bonds which means that to push
+one around will result in it dragging other spheres (or even your
+ship) with it. Most levels have all the spheres that you need to
+finish, but a few higher levels leave out some of them, which forces
+you to make new spheres by pushing together different coloured ones.
+
+Every fourth level is a bonus level where you have the chance to score
+bonus points but you cannot lose a life. There are three different
+types of bonus level and each one contains instructions as to what
+must be done to score points.
+
+There are 50 levels in all and upon completion of all levels comes the
+congratulations sequence.
+
+There are five secret bonuses to be discovered throughout the game.
+When each one is found a message flashes up at the end of the level on
+which it was found.
+
+
+GETTING STARTED
+
+E-Motion requires a colour monitor and is best played with a joystick
+(though the keyboard can be used). When the game has loaded, the title
+screen is displayed, followed by the high score page and then a demo
+mode. Watching the demo mode will give you an idea of what to expect
+when you start a game. Press the FIRE button to take you to the
+opening menu, where you can preset all of your options.
+
+
+MODE: NORMAL, PRACTICE OR DEMO
+NORMAL MODE: play the game. PRACTICE MODE: try the first five levels
+but without the balls ever exploding. DEMO MODE: runs the same demo
+sequence which is seen in the attract mode.
+
+PLAYERS: ONE OR TWO
+E-Motion can be played by two players simultaneously, each controlling
+their own ship. Both players must co-operate to finish a level. The
+players share one joint score.
+
+JOYSTICK/KEYBOARD CONTROLS
+These can be set according to preference. Note: On the Atari ST,
+playing a two-player game with both players on the keyboard will be
+restricted because only two keys can be detected at once.
+
+CONTROL MODE: NORMAL OR ALTERNATIVE
+The mode that most people will recognise at once is the left-right-
+thrust mode used as as default. As an alternative, though, there is
+another mode where left and right work as normal but up accelerates
+and down brakes.
+
+ROTATION SPEED: FAST OR SLOW
+If you find it difficult to control your ship, try adjusting your
+rotation speed to slow instead. The ship will then rotate at half
+speed.
+
+
+After selecting your options, press FIRE to start the game. Your 
+preferences are remembered for the rest of the session, so you can go
+straight past the menu by pressing FIRE twice in succession from the
+title page.
+
+
+CONTROLS
+
+	CBM 64	SPECTRUMAMSTRAD	ATARI/ST/AMIGA/IBM PC
+
+PLAYER 1
+UP	W	Q	Q	W
+DOWN	X	A	A	X
+LEFT	A	Z	Z	A
+RIGHT	S	X	X	S
+FIRE	SPACE	C	C	SPACE
+
+PLAYER 2
+UP	I	P	P	up-arrow    or 8 numeric keypad
+DOWN	,	L	L	down-arrow  or 2 numeric keypad
+LEFT	K	B	B	left-arrow  or 4 numeric keypad
+RIGHT	L	N	N	right-arrow or 6 numeric keypad
+FIRE	RETURN	M	M	0 numeric keypad
+
+GENERAL	
+PAUSE	P	H	H	P
+QUIT	CBM KEY	F&G	ESC	ESC
+SAVE	D
+RESTORE	R
+SOUND				F9
+ON/OFF
+
+	CONTROL MODE 1	CONTROL MODE 2
+UP	-		THRUST
+DOWN	FLIP		DECELERATE
+LEFT	ROTATE LEFT	ROTATE LEFT
+RIGHT	ROTATE RIGHT	ROTATE RIGHT
+FIRE	THRUST		FLIP
+
+
+SCORING
+
+Points are awarded for pushing spheres together; either 200, 250 or
+300 points depending on the colour of the spheres. At the end of each
+level, a 500 point bonus is awarded if no pods are created. A 1,000
+point bonus is awarded if no spheres explode during the level. An
+extra life is awarded for every 20,000 points.
+
+
+E-Motion was conceived, designed and programmed by The Assembly Line.
+Additional artwork by Blue Turtle. 8-bit conversions by The Code Monkeys.
+Technical and administrative support by U.S. Gold Ltd.
+
+(c) & P 1990 U.S. Gold Ltd.
+
+ 

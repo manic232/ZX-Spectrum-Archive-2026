@@ -1,0 +1,370 @@
+SPHERICAL
+=========
+
+Magie and logic; skill and intelligen- I ce: Spherical is a game of opposites. H Your cleverness and joystick 
+skills are & tested to their limite, when the wizard with his magical powers overrides the law of gravity to
+guide a sphere into the goal.
+
+Breathtaking graphics, over 200 different levels, a two player-team-mode, dozens of hidden extras and ten big,
+fully animated Guardian-Monsters. Spherical will show you, what your computer can really do.
+
+
+Loading Instructions
+
+C64 Disk
+Insert the disk into the disk drive and type LOAD":*",8,1 and press RETURN. The program will start automatically.
+
+C64 Cassette
+Insert the cassette on side 1 and rewind the tape to the beginning. Press the SHIFT and RUN-STOP keys 
+simultaneously. Then press PLAY on your tape recorder. The program starts automatically.
+
+Atari ST
+Insert disk into disk drive A: and press RESET-button. The program will start automatically.
+
+
+Amiga
+Turn your computer off and on (get rid of any viruses!). When the "workbench" screen appears, insert disk into 
+disk drive df0. The program will start automatically.
+
+PC
+Start your machine with your current version of DOS: When you are at the command prompt, type readme (ENTER) to 
+get full loading instructions.
+
+
+The Legend of Pulgram and Wuron
+
+This story takes place in a land far beyond our imagination. In a world long forgotten. In a world where the 
+destiny of all human beings, elves and other life forms was very much in the hands of the druids and magicians 
+(and their different moods) of that period.
+
+At this time the land was split into three parts - Taljenhort, Khorndal and Kendron. While the human race in 
+Taljenhort pursued their daily chores, work and plans (which often included warring against others), the dwarves 
+made themselves comfortable in their wonderful homes in the south of the land - Kendron. Of the third part of 
+the land - Khorndal - there were many rumours. Very few people actually knew anything about this country, the 
+exact location was not known, nor the life forms living there.
+
+Rumours about Khorndal were frequently swopped, rumours of bewitched fairy spirits, of seas of bottomless depth, 
+of terrible creatures, at the mention of which one's flesh would creep, and of castles built long ago of blood, 
+death and huge stones from the sacred mountains of Jargo.
+
+From time to time expeditions were sent out from Kendron as well as Taljenhort to investigate the many rumours 
+about Khorndal. However, no real information was written in the chronicles of that time, as the expeditions were 
+never again seen or heard of after passing the swamps of darkness - the border between Taljenhort and Khorndal. 
+In the course of time, the humans and dwarves began to engage their interests in other things - things like war!
+
+The tiniest conflict was often the cause of a break out in war - there really was nothing else to do in this 
+land but fight. Some years later, the race of elves was again sighted in the woods surrounding Kendron, and they 
+associated with the dwarves. For a long time, the elves had not been heard of, and had been forgotten about - 
+most people believing that they had become extinct.
+
+One of these elves, an elf at the best of age by the name of Pulgram, was looked upon by his people as the one 
+to bring back glory and honour. It was also he who first suggested that the elven folk should arise out of 
+hiding and discard their banishment to the forests, a punishment spoken at least one hundred years previously. 
+The elves and dwarves were not natural comrades but the legendary bitterness that had always seemed to exist 
+between the two races was slowly beginning to fade. An important turning point in history occurred when, 
+although not helping the dwarves directly in winning their war against the humans, they supplied knowledge of 
+nature that until then, no one had ever known of.
+
+Pulgram made friends with Wuron, the dwarven magician, and often the two sat till late in the night in Wuron's 
+"brown study room" discussing the higher sciences in great detail. They had, after some time come to the 
+conclusion that a great occurrence lay ahead, an incident which would be of huge importance to all living 
+creatures...
+
+They had observed the constellations and studied the behaviour of animals, dug about in old writings and 
+documents, and read the old prophecies. After many months of study, Pulgram found a possible trace to the 
+problem. A dusty, ancient document in the great library of Taljenhort seemed to be the key to all secrets - 
+but how on earth could they get to the library of Taljenhort - with a long and tedious war raging between men 
+and dwarves, with no end in sight?
+
+Pulgram and Wuron decided to dare the adventurous journey to Taljenhort to find and study the mysterious 
+document.
+
+The curtain of darkness revealed bit by bit that evil had returned once more to earth. The centre of this evil 
+force was regarded by the two friends to be located in (you guessed it) Khorndal above which the dark clouds of 
+wickedness had begun to gather.
+
+Not much is known about the journey of the two to Taljenhort. Even the chronicles of Kendron do not contain 
+information on this part of the adventure. The only thing mentioned is that the two had made use of black magic, 
+although both knew that the use of such was punishable with the death penalty. Several rumours spread about the 
+two friends, one being that there had been two peculiar figures seen in the libraries of Taljenhort, another 
+that a corpulent dwarf had been beheaded after being caught breaking into the holy rooms of the temple, and that 
+his friend with the long, pointed ears had vanished into the swamps.
+
+No doubt Wuron and Pulgram found what they were looking for. Today it is believed that they had been looking for 
+the document of Quarol, a wise magician who had witnessed the birth of the earth and who came from the stars. In 
+that writing a starball is mentioned, a ball containing a power beyond imagination, and that Quarol had hidden 
+it to prevent it falling into the wrong hands. The saga of Quarol also mentions that Quarol had used the 
+starball in banishing evil from the face of the earth. Nevertheless, Wuron and Pulgram were of the belief that 
+Quarol had only partially succeeded in doing this.
+
+Mrs. Gargl, Wuron's cleaning woman, maintained that she had sometimes heard him saying something about "the dark 
+swamps" and that "evil had been awakened again". Mrs. Gargl, however, was of the opinion that Wuron was only 
+boasting again. The price demanded by the starball for its use was practically the same as the penalty for using 
+black magic. In using the starball's energy, the user had in turn to give his life to join the inner sanctum of 
+it - to become part of the starball itself.
+
+Later prophets all over the world regarded Wuron and Pulgram to be in rank with the greatest martyrs of all time 
+because they had averted a huge danger from the world.
+
+Many years later, as Pulgram's house was being pulled down, the remains of a diary were found behind a large 
+cupboard. This is the first time that the readable entries have been published:
+
+5. decade: "... I know that we are perhaps making a mistake that we will later regret, but only we are able to 
+stop this evil. There's no one except my dear friend and I who have the knowledge and the courage to..."
+
+12. decode: "... there is no longer any doubt - Quarol had not succeeded..."
+
+23. decade: "... Wuron is of the opinion that the starball is the only remaining hope. Until now I haven't been 
+sure, but the welfare of all living creatures lies in our hands - what shall I do? Oh help..."
+
+The last and also the longest diary entry was written in the 26 Decade.
+
+26. decade: "... and so I have a great horror for this adventure, but I also know that there is no other hope. 
+If Wuron and myself don't do something against this evil we will all have to live under the tyranny of Mirgal. 
+- He is no longer asleep and is becoming stronger day by day. In a few months he will control the world. We love 
+our people too much to allow this! It is our task to stop Mirgal, to banish him once again into the realms of 
+dreams forever, while he's still weak. Time is slowly running out, but he still has not reached his greatest 
+strength.
+
+"The task is difficult - to find Mirgal's castle and the room of the Dragon. I pray that his servants be not 
+awakened.. Wait, I hear the knock at my door - the sign. The time has come, Wuron waits.. May Rangor and Elsbeth 
+be with us and help us on our quest..."
+
+Later information tells us that Mirgal was a legendary dragon who lived 10 000 years ago beyond the swamps of 
+Khorndal. More I cannot tell you of this story, but let's hope that Rangor, The God of Dwarves and Elsbeth, 
+The Goddess of Elves and Keeper of the Inner Light, helped our two friends on their quest.
+
+I don't even know if this story is true, but if you see an elf or a dwarf somewhere, just don't forget to ask 
+him about Wuron and Pulgram. You may believe that there are no longer dwarves or elves on earth today - but I 
+wouldn't think like that. Just go and look in the woods, listen to the birds and maybe you'll hear whispering 
+voices telling of long forgotten events...
+
+
+Spherical - description
+
+As you have most certainly learned from the background story, in this game you have to accompany a magic 
+starball through the rooms of the dragon's castle. You do this by preparing the ball's passage magically, thus 
+directing it onto a certain field. Only then may you enter the next room. There are some important displays 
+around the playscreen, which will be of help to you:
+
+A) These two bottles (on the left side) show you the amount of magic power that keep the starball on this plane 
+of existence. In case there is no power left, the ball will return into your parallel dimension.
+
+B) These stones (on the left side) show you the number of time doors - still remaining. If you should find 
+yourself in a hopeless situation, you only have to press ESC in order to be put back into the time when you 
+entered the room.
+
+C) This display (on the upper side) shows you your current wealth. On the opposite side you will make out - in 
+case you look - an identical display for the second hero.
+
+D) This display (on the upper side) gives you the number of the room in which you currently are. Rumour has it, 
+that there are more than a hundred rooms, each changing completely according to the number of people entering, 
+be that one or two.
+
+E) This is the clock (on the left side) giving you the exact time when the starball is set in motion. This time 
+can be affected by an hour-glass.
+
+F) These test-tubes (on the right side) show you the amount of energy the hero is left with - in the upper 
+display for the first hero and in the lower display for the second hero. You lose energy when touching monsters 
+or stepping in acid. You must leave the castle when having lost all energy.
+
+G) These small bottles (on the bottom side) show the number of red bottles which you have collected. You will 
+find out exactly what initiates the effects of the bottles under "magic aids".
+
+
+The main menu
+
+When entering the dragon's castle, you find yourself in the entrance hall. There you will discover eight 
+switches of a rather magic sort which are described by the Seven Sages of the Country as follows:
+
+F1: One player: If you want to go on the adventure simply as a wizard, this is the right key for you! Be sure 
+that a magic device called "joystick" is plugged into your computer. When using a demonic device called "IBM
+PC", you may as well control the magic of your hero by typing about on the magic keyboard.
+
+F2: Two players: If you should need a helping hand, you can take your best friend with you by pressing this key. 
+In this case two magic sticks are needed. If two people enter the castle, it is changed in a magic sort of 
+fashion. If two people try to overcome the dragon, this task is of course more difficult to manage.
+
+F3: Training: This key gives you the opportunity to practise wizardry. When pressing F3, you enter an empty hall 
+where you may then practise your witchcraft to your heart's delight!
+
+F4: Magic aids: In case you are not familiar with the magic devices in the castle, you will find some important 
+explanations here, but keep in mind what some people say: Not all is mentioned here! Additionally, the Sages of 
+the Country teach that there is the (possibility to skip rooms and find hidden halls.
+
+F5: Program information: By pressing this key you will receive some insight into knowledge about a parallel 
+dimension, which up until now nobody could ever understand. Nevertheless, this insight should prove worthwhile, 
+for under this key you will be informed about all the other keys that you will need during the game.
+
+F6: Give password: There are old and legendary documents, on which powerful spells are written. These should 
+prove useful in teleporting into the hall in the castle in which the magic scroll was found. With this key you 
+are able to activate one of the magic words, taking you immediately into the desired hall.
+
+F7: Music menu: You will hear odd noises in the halls of the castle. Very strange indeed, but by pressing this 
+key you will find yourself in a position to influence the noises in such a way that they will appear as lovely 
+tunes. Play around with this key, and it will prove a pleasure for your ears!
+
+F8: Start demo: This key calls a crystal ball onto the screen. By using this crystal ball you may take a look 
+into halls you might perhaps enter some time in the future. Learn from the information this magic artifact gives 
+you, because it will be of help to you on your further way.
+
+
+The Magic Sticks
+
+Only after sevenhundredandseventyseven years was it possible to discover all functions of the legendary magic 
+sticks.
+
+Stick left/right takes the wizard in the corresponding direction. By pressing stick upwards, he most certainly 
+and surprisingly jumps! You may combine that with the left/right-movement, thus making it possible to jump 
+across wide chasms.
+
+When pressing the stick button, the magic is called to life, after which a stone appears. The stone will appear 
+on the same height as the wizard. Only when pushing the stick downwards at the same time as pressing, will it 
+appear below the wizard.
+
+Experienced magic stick wielders may bewitch a stone onto theiscreen even while jumping or falling.
+
+When using sparklers in the later course of the game, you can let the sparkler drift about on the screen by 
+pressing the stick button for longer periods. If you repeat that action, the sparkler will return to you.
+
+
+The Book of the Seven Sages
+
+The Seven Sages of the Country have written a book, which gives some account of what will happen in the castle. 
+Unfortunately, you can't rely on everything in this book, because the Ancienti Sources - out of which the Seven 
+Sages took their information - are of magical nature, and magic is often a tricky king of thing...
+
+
+The Stones
+
+There are stones of various sorts in the castle. Some are solid and will stubbornly refuse to be bewitched away; 
+others are weaker and will disappear when magic is used. Another sort of stone produces acid that you shouldn't 
+touch, but in general you can — walk on stones of every sort.
+
+
+Doors and amulets
+
+These doors are no ordinary doors. In every one of them you will find a magic diamond of one or the other colour. 
+If you find an amulet of the same colour, all doors of the corresponding colour will be opened in the course of 
+time. Rumour has it, that some rooms in the castle should be opened at the correct moment, otherwise they will 
+be of no use for you.
+
+
+Diamonds
+
+Wealth has always been the dream of everybody. Of course, you want to live in comfort after you have overcome 
+the castle and the dangers lurking there. The value of each diamond is determined by its colour and shape. The 
+Sages say, that there are diamonds not worth being collected, and that magic is needed in order to determine 
+the true value of a gemstone.
+
+
+Hour-glass
+
+The magic which is necessary to keep the starball steady decreases in the course of me. You can strengthen the 
+magic power by use of the hour-glass, which will give you more time to prepare a certain room for carrying the 
+starball into the next one.
+
+
+Decanter
+
+Together with his energy a wizard loses his life, as the Sages say. With the draught in the decanter you can 
+revitalize yourself and encounter the dangers of the castle with new strength.
+
+
+Scroll
+
+These ancient scrolls contain an ancient magic which will give you the strength to jump further than ever before. 
+When casting the spell, your wizard is filled with fresh power. Rumour has it, that these scrolls never lie 
+around at random, but always have their purpose.
+
+
+Document
+
+Yes, you are right; this actually is one of the powerful documents containing the most powerful magic of all! 
+Remember the word of power very well; you find it on the yellowed page. This word is very useful indeed for new 
+efforts to master this castle.
+
+
+Gravitation
+
+Unknown people have constructed these switches. Unknown possibilities are hidden within them. When moving one 
+of these switches with magic, gravitation changes, but only for the starball! Rumour has it, that some switches 
+change gravitation in only one direction, whereas others switch it this way and that by turns.
+
+
+Wand
+
+A wizard called Yarmak left these wands behind in order to use them later on returning to the castle. A wand 
+makes it possible to go directly into the next room by using its magic. Until today, only Yarmak knows how to 
+handle these wands!
+
+
+Helping hand
+
+This red bottle really has it! When drinking the liquid in it, you will, for a short time have the power to 
+destroy all evil things in a room. Where the monsters vanish to, or how it works remains a secret, because most 
+experiments done with the bottle failed with the researchers vanished themselves!
+
+
+Timestop
+
+A green liquid - contained in a small bottle - makes the impossible possible: Time stands still (Gosh!). Even 
+though this effect remains only a short "time", it has helped many a hero! Abuse of this form of magic nowadays 
+leads to punishment, because most of all thieves make use of it in order to rob their victims during the 
+time-standstill.
+
+
+Magic lantern
+
+When you rub this lantern, you will be surprised to learn that NO genie arrives! On the contrary, you will be, 
+for a short time, invulnerable. Even the evil eyes won't have the power to harm you as long as the effect lasts. 
+The military people of ai whole lot of countries have been trying to construct a duplicate of this lantern ever 
+since, but up until now fortunately to noi avail.
+
+
+Sparkler
+
+This strange artifact is of unknown origin. When using the sparkler, a ball from another plane of existence 
+suddenly appears, then circles around you and destroys all monsters trying to get near you. When the sparkler 
+is burned down, the ball vanishes. When using two sparklers, the ball is able to drift around to its heart's
+delight.
+
+
+Now you have all knowledge collected by generations. Make use of it in order to defeat the dragon, thus putting 
+an end to the threat of evil.
+
+
+Credits:
+
+Sperical was developed by:
+
+Stefan Preuß:		Responsible for the project. Original Atari ST programm, game design.
+
+Thorsten Mutschall:	Atari ST and Amiga graphics, game design.
+
+Nils Heidorn:		Amiga conversion, Atari ST support.
+
+Stefan Jeworowski:	Atari ST and Amiga music and sounds.
+
+Jorn Galka:		C64 conversion.
+
+Thomas Fanslau:		PC conversion.
+
+Thorsten Rappe:		PC graphics conversion (CGA/EGA/VGA).
+
+Celal Kandemiroglu:	Cover artwork, manual illustrations.
+
+Teut Weidemann:		Project	Director, manual.
+
+Uwe Schaffmeister:	Packaging, manual, advertising.
+
+Rachel C. Gauntlett:	Translation.
+
+Marc A. Ullrich:	Producer
+
+
+
+The enclosed software is copyrighted. It is illegal to copy, reproduce, hire, resell, give away or reduce to 
+machine-readable form any part of the enclosed software for any purpose.
+
+Copyright by Rainbow Arts Software GmbH, 1989.

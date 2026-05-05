@@ -1,0 +1,276 @@
+BACK TO THE FUTURE PART III
+===========================
+
+SPECTRUM CASSETTE
+Ensuring the cassette is fully rewound to the beginning of side A, insert the
+cassette into the cassette recorder, then type LOAD"" and press RETURN. The game
+will load and run.
+
+SPECTRUM +3 DISK
+Insert the disk into the drive and select LOADER from the on-screen menu. The
+game will load and run.
+
+CONTROLS
+--------
+
+Spectrum versions all have redefinable keyboard controls, as well as joystick
+options. (Spectrum users must have a Kempston or Sinclair interface). Refer to
+the on-screen instructions for more details.
+
+THE STORY SO FAR...
+-------------------
+Marty's in big trouble. Having returned to 1955 to try and stop the evil Biff
+from changing the future for his own benefit with the aid of a stolen sports
+almanac, he and Doc Brown have managed to do just that.
+But when the flying DeLorean with Doc inside is hit by lightning and disappears,
+Marty is left stranded in 1955' His troubles are far from over. Seconds after
+the Doc's disappearance, Marty receives a letter from him - dated 1885' After
+being catapulted back to the old West by the lightning bolt, Doc has decided to
+settle down there as a blacksmith, explaining that he's quite happy there and
+wants no help from Marty. Also included in the letter are specific instructions
+on how to find the DeLorean (which Doc has hidden in a disused mineshaft) and
+use it to get Marty back to 1985. But when Marty and Doc return to the mineshaft
+to recover the DeLorean, they discover, in the nearby graveyard, a headstone
+with Doc's name on it - dated just a few days after his letter to Marty!
+Realising he has to save the Doc before he is killed, Marty uses the DeLorean to
+travel back to 1885...
+
+OVER TO YOU...
+--------------
+Now it's up to you, in the roles of both Marty and Doc Brown to save the day and
+return everyone safely to their own time. It's not going to be easy, thanks to
+the appearanee of Buford "Mad Dog" Tannen, the first in the long line of the
+evil Tannens of Hill Valley! He's been gunning for Doc since he arrived - and
+now he's gunning for you too.
+
+BACK TO THE FUTURE PART III is split into four sections, which you play one
+after the other. Each section represents a famous scene from the movie - so if
+you've seen the film, so much the better. The sections get progressively harder,
+with the final section, in which you must get back to 1985 once and for all, the
+toughest of the lot. But don't worry - we'll give you some help along the way.
+You may pause the game during any of the sections by pressing the 'H' key, and
+pressing it again to continue.
+
+ 
+Level 1
+THE BUCKBOARD CHASE
+===================
+
+SCENARIO
+--------
+Just after meeting up with each other back in 1885, Marty and Doc are planning
+how to get back to 1985 - when they hear somebody scream. (it's Clara, Hill
+Valley's new schoolteacher, on a runaway buckboard (which is, by the way, sort
+of a horse-pulled cart) headed straight over the ravine! Acting quietly, Doc
+leaps on his horse and gives chase.
+
+GAMEPLAY
+--------
+The object of this first game is to reach Clara before the buckboard reaches the
+edge of the ravine. You're Doc, on the horse, and you start out just behind
+Clara on the buckboard. A window below the main sereen shows how close you and
+Clara are to the ravine. You don't have any direct control over the horse, as it
+gallops automatically. However, you can control Doc's actions. If you catch up
+with Clara before she reaches the edge of the ravine, you've won and it's onto
+the next level.
+ 
+The task is made more difficult by obstacles that crop up along the way and
+threaten to stop Doc from saving Clara. Objects, such as Indian tomahawks and
+pieces of luggage that have fallen from the back of the buckboard, come flying
+at the Doc, and they must either be ducked under or jumped over; you'll learn
+which movement is appropriate, depending on the height of the object. 
+Some objects ean be picked up - anything that doesn't bounce, like a hat or
+piece of clothing can be collected by Doc by pushing diagonally down and right
+on the joystick. You get bonus points for every item collected.
+To make things more difficult, the Indians have decided to interfere. They chase
+after Doc on horse-back, trying to knock him off his horse. Fortunately you've
+got a gun to defend yourself with, and you can shoot both in front of you and
+behind.
+Every time Doc falls off his horse, time is lost and Clara gets closer to the
+ravine. If vou fall off too many times, the buckboard goes over the ravine and
+the game is over.
+
+
+MID-GAME SECTIONS
+-----------------
+As vou get closer to Clara, the action changes viewpoints at certain intervals -
+you're still Doc on the horse, but now you view the action from directly above
+with the screen scrolling upwards.
+
+CONTROLS
+========
+
+Horizontal Section
+------------------
+Shoot Left -> Fire Button held + Left
+Shoot Right -> Fire Button held + Right
+
+Jump -> Up
+Duck -> Down
+Pick Up -> Down/Right diagonal
+
+
+Overhead Section
+----------------
+Move Up -> Up
+Move Down -> Down
+Move Left -> Left
+Move Right -> Right
+Fire -> Fire Button
+
+
+In the first of the two overhead sections, you're caught in a battle between the
+cavalry and the Indians, and you've got to make your way through the crossfire
+without getting hit by their own fire. You've still got your gun, and you can
+shoot the Indians - but don't shoot the cavalry! Also, keep an eye out for
+obstacles on the ground that can knock you off your horse.
+
+In the second overhead section, which comes in the later part of the level,
+you've got to make your way through Hill Valley - right in the middle of a bank
+robbery! Buford and his gang have been cornered by the cavalry coming out of the
+bank, and there's a big shootout underway. Again, avoid the bullets and shoot
+the bad guys, while looking out for obstacles on the ground.
+
+HINT
+----
+Don't shoot the cavalry!
+
+
+Level 2
+THE SHOOTING GALLERY
+====================
+
+SCENARIO
+--------
+It's a night of celebration in Hill Valley. Construction of the famous clock
+tower has finally been completed, and Marty and Doc are there at the open-air
+party. While he's there, Marty notices an old-style Shooting Wagon. Unable to
+resist the temptation after all the practice he's put in at Wild Gunman, Marty
+pays up, loads up and takes aim...
+
+GAMEPLAY
+--------
+In this section, the objective is simple - shoot as much as you can, as quickly
+as you can. This game is played in first-person perspective - which means you
+see things exactly as Marty sees them. Your gun appears on screen, and to help
+you a little, there's a special gunsight that shows exactly where you're aiming.
+All you have to do is aim and shoot, and try to knock out as much as you can.
+Don't worry about ammunition - you've got as much as you like, but time is
+short. A clock in the top-right hand corner ticks away as you play, and when you
+run out of time, Buford appears and ends the game.
+The easiest targets to hit are the ducks - they scroll along the bottom of the
+gallery from right to left. There are also flying ducks, that come along the top
+of the gallery in the same direction. These move faster, so you have to be
+quick. There are also plenty of bonus items to watch out for, so keep your eyes
+open.
+For more points though, watch out for the cardboard cut-outs of Buford and his
+gang. They appear from the shop doorways and windows - and even at point-blank
+range, right at the front of the screen - gunning for Marty. They can't shoot
+you, but they only appear for a very short time before disappearing again, so
+you have to be quick.
+ 
+HINT
+----
+Targets aren't the only thing you can shoot. Take a look around OUTSIDE the
+limits of the shooting gallery itself, and try to hit some of the background
+obstacles. There could be interesting results! Don't shoot the old ladies, and
+look out for special duck bonuses!
+
+
+Level 3
+PIE THROWING
+============
+
+SCENARIO
+
+While at the Clock Tower opening ceremony, who should turn up but the evil
+Buford "Mad Dog" Tannen and his gang of cronies - and they're just looking for
+trouble.
+But when they start picking on Doc, they didn't count on meeting Marty. He may
+not have a gun, but he's a mean frisbee-thrower, and armed with a pile of empty
+pie-trays from the pie stall, Marty gives Buford and the gang a run for their
+money!
+
+GAMEPLAY
+--------
+Buford's gang have hidden in the buildings around the Hill Valley square,
+leaving you out in the open with nothing but a pile of pie-trays to defend
+yourself with. The bad guys appear from doorways, windows and on the saloon roof
+and shoot at you. You've managed to grab an old oven door, which you're using as
+a primitive bullet-proof vest, but it can only protect you for a certain number
+of shots - if it gets hit too many times, it breaks open, revealing Marty's
+heart. The next hit is fatal. 
+You get your pies - in stacks of ten - from the table in the bottom-right corner
+of the screen. There is an infinite supply of pies, and Marty can replenish his
+supply at any time. To throw them, just position yourself (Marty can only move
+left or right) and hit fire - you can throw the trays as fast as you like.
+Getting positioned exactly right so you can hit your targets isn't easy, but it
+soon comes with practice. The trick is getting there fast enough so you can hit
+one of Buford's gang before they disappear again.
+However, hitting a bad guy once isn't good enough. It'll get rid of him for a
+little while, but he'll soon be back. You must hit a bad guy three times to get
+rid of him for good, and when he's gone he's crossed off the Bad-O-Meter at the
+top of the screen. When ali six bad guys have been defeated, Buford himself
+appears and must be defeated. Get rid of Buford, and it's on to the final
+section.
+
+CONTROLS
+--------
+
+Jump -> Up
+Duck/Pick Up -> Down
+Walk Left -> Left
+Walk Right -> Right
+Throw Pie/Punch -> Fire Button
+
+HINT
+----
+You can "bend" pies in the air by swerving them. Touch the joystick in the
+direction you wish to swerve immediately after throwing the pie. Useful for
+getting into tight corners!
+
+
+Level 4
+THE TRAIN
+=========
+
+SCENARIO
+--------
+Marty and Doc have finally come up with a plan to get back to 1985 - but the
+only way they can get the DeLorean up to 88mph is to push it in front of a
+locomotive! So they decide to steal one...
+
+GAMEPLAY
+--------
+You play Marty, and you start the game standing on top of the moving
+locomotive's last carriage. You've got to make your way along the carriages,
+collecting Doc's special speed logs along the way to push the train up to 88mph,
+and finally get to the DeLorean at the front of the train before time runs out.
+As you walk along the train, members of Buford's gang and the train engineers
+(who don't want you to steal their train) appear and confront you. Fortunately,
+Marty's still got some pie trays left that he can throw to knock the bad guys
+off the train. If they get too close, Marty can either punch them out or duck
+down and crawl under their legs. You must also jump to get over the gaps from
+carriage to carriage.
+Be careful of static obstacles as the train speeds past.
+Mailhooks, water towers and signals can all knock Marty off the train, so you
+need to duck or jump to avoid them. If you get knocked off, you're brought back
+on screen by your hoverboard, and you can climb back up on one of the carriage
+ladders to carry on.
+Along the way, you must pick up the seven coloured speed logs that the careless
+Doc has dropped along the top of the train. Each log increases the engine's
+speed by 11mph, with the final one pushing it up to 88mph.
+When you finally make it to the engine at the front of the train, there's one
+last obstacle to overcome before you can return to 1985. The locomotive's boiler
+has been pushed too far by the special speed logs, and it's spraying out puffs
+and jets of steam. The puffs are harmless, but the jets can knock Marty off. You
+need to edge your way up the engine carefully, avoiding the jets, and jump down
+to the Delorean at the front of the train. If you manage that, it's back to
+1985.
+But is it the end?
+
+HINT
+----
+Every time you pick up a speed log, the train bumps as it picks up speed. Be
+careful you don't get knocked off when this happens, and look out too for the
+smoke and cinders that can confuse Marty and cause him to fall off.

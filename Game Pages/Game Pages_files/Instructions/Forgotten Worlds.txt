@@ -1,0 +1,74 @@
+*********
+
+The Project 64 etext of the ~Forgotten Worlds manual~, converted to
+etext by Robert Schultz <bert@ncinter.net>.
+
+FORWOR10.TXT, November 1997, etext #319#
+
+Readapted for the Spectrum in 2001 AD by Alessandro Grussu
+http://www.ag-online.da.ru
+
+*********
+
+The Forgotten Worlds Story
+
+Many years have passed since mankind dominated the Earth.  Invaders
+from another galaxy have nearly destroyed our planet in their attempt
+to add it to their evil Empire. Led by Lord Bios, the alien horde has
+crushed all opposition. YOU are the last hope. You must face their
+assault in personal, deadly combat. Equipped with an anti-gravity
+device and armed with photon gun, you will seek and destroy the
+minions of the Empire.
+
+In your attempt to overthrow the dark Lord, you will fight the
+strangest and strongest creatures from around the universe. Do battle
+with the lizardmen, the shapeless ones, and the fierce bronze dragon.
+But you're not completely alone in your quest for freedom. You can
+upgrade your weapons system at several locations scattered throughout
+the lands.
+
+FORGOTTEN WORLDS, the adventure of a lifetime!
+
+Controlling The Game
+
+FORGOTTEN WORLDS on the Spectrum can be operated by a joystick or the
+keyboard. The player's character can maneuver in all directions by
+moving the joystick in the desired direction. The character can also
+fire the weapon(s) in a 360 degree arc, thereby maximizing the
+offensive capabilities.
+
+If you move the character up, down, left, or right while pressing the
+fire button on the joystick, this will change the direction of his
+aim.  If you wish to keep the direction of fire at one place, release
+the fire button before moving the character. With experience, this
+will become apparent.
+
+[Keyboard Controls:
+Q - up
+A - down
+O - left
+P - right
+SPACE - fire
+
+Joystick: Kempston, Sinclair
+
+Each player must press FIRE to begin. Player 1 always begins first.
+Once player 1 has begun, Player 2 can join in by pressing FIRE on
+another control device.]
+
+Tips For Game Play
+
+Look for the shops hidden among the ruins. With gathered zenny coins,
+you can purchase valuable weapons and healing medicines to assist you.
+
+Don't get comfortable in one firing position, the aliens will be
+coming at you from all sides!
+
+Each major enemy has a vital vulnerable spot. You must locate this to
+destroy them.
+
+----- Hints -----
+
+Towards the end of level one are a set of barriers. Shoot them a few times,
+then go into the top one. When you get to the end of level god, he will not
+fire anything at you.

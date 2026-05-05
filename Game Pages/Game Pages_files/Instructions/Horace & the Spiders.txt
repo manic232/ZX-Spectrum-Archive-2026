@@ -1,0 +1,67 @@
+Sinclair Spectrum
+16K or 48K RAM
+
+PSION with MELBOURNE HOUSE
+Load and run by typing LOAD "spiders"
+
+Horace is engaged in a hunt to rid the spider mountains of the deadly octopeds
+which inhabit them. He sets out with four phials of serum which protect him
+from the fatal bites, but when he has used these he must give up the hunt.
+
+His task is in three stages:
+He must climb the hills to reach the mountain
+He must cross the Spider bridge
+and finally he must kill the Spiders in the cave
+
+
+Horace must survive each of these stages in order to pass onto the next. If he
+succeeds in killing all the spiders, he returns to the first stage and is
+faced with steeper hills and more spiders.
+
+Horace's movement in four directions are controlled by the following keys:
+Key Q: moves up or jumps up
+Key Z: moves down or jumps down
+Key I: moves left
+Key P: moves right
+Keys V, B, N or M: make Horace stamp (stage 3 only)
+
+Climbing the Hills
+==================
+Horace must climb the hills, jumping up to get to the next level, while
+avoiding the spiders. The only way that he can avoid the spiders is to jump
+over them. Pressing Key Q makes Horace jump and running jumps can be produced
+by pressing Key Q while Key P is depressed.
+If Horace misjudges his jumps and falls over though, he will break one of his
+phials of spider serum.
+
+Crossing the Spider bridge
+==========================
+To cross the Spider bridge, Horace must grab hold of a spider Thread by
+pressing Key Q and jump from thread to thread until he reaches the other side.
+But the spiders, when they sense that Horace has grabbed a thread, will try to
+reel him in, so he must be fast.
+When he reaches the other side, pressing Key Z will make Horace jump down.
+
+Killing the spiders
+===================
+When Horace reaches the cave, he finds it full of spiders busily mending a
+giant web. Horace can move around the web with the spiders and make holes in
+it by stamping, (Keys V, B, N or M), until it gives way.
+The spiders will try to mend the holes by hanging in the gap. In this position
+they are vulnerable to Horace who can kill them by stamping on them until they
+drop into the web below, but they will not die if there is another hole
+beneath for them to hang in. The same keys control Horace's movements around
+the web, but he only stops when stamping.
+You can pause the game at any time by pressing Key S and subsequently continue
+by pressing any key along the bottom row. A game can be aborted and a new game
+started by pressing Keys G and H together.
+
+Horace and the Spiders includes sound effects. To amplify the sound from the
+Spectrum. Insert the lead between the microphone sockets of the Spectrum and
+tape recorder. Ensure that there is no cassette in your recorder. Try setting
+your recorder to record, or play, and in many cases the sound from the
+Spectrum will be amplified through the loudspeaker of the recorder.
+
+©Beam Software 1983. All rights reserved. No part of this program, packaging
+or documentation may be reproduced in any form. Unauthorised copying, hiring,
+lending or sale and repurchase prohibited.

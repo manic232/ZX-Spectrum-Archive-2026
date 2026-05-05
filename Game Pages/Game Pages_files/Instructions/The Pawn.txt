@@ -1,0 +1,2278 @@
+THE SPECTRUM GAME DATABASE
+
+THE PAWN
+
+PUBLISHER Rainbird
+
+AUTHORS
+Magnetic Scrolls
+(Scenario and Design by Rob Steggles; Programming by Ken Gordon
+and Hugh Steers; Development System and Parser Design by Ken
+Gordon, Anita Sinclair and Hugh Steers; Spectrum Conversion by
+Richard Huddy and Bob Coles)
+
+YEAR 1986
+
+DESCRIPTION
+Text adventure with a very advanced parser and world modelling.
+
+CONTROLS
+Commands are entered using the keyboard.
+
+INSTRUCTIONS
+Set in the mythical world of Kerovnia, this amusing and complex
+tale is subtle enough to appeal to the beginner and hardened
+adventurer alike. A revolutionary text-handling system allows
+input of complicated sentences and complete interaction with
+characters (including some very intelligent animals!). The Pawn
+represents all its characters and objects as if they existed in
+a real world, storing complex information about their attributes
+and properties linked to their particular position or context
+in the game.
+
+Your objectives are manyfold: The simplest is to escape from
+Kerovnia, but you will find others as you wander about the land
+and communicate with the characters you meet. The Pawn combines
+a rich text adventure, with stunning colour graphics [not in the
+Spectrum version], and a language parser that will set the
+standards for years to come.
+
+Introduction:
+
+The Pawn is an adventure game set in the magical world of
+Kerovnia during a period of tremendous social upheaval.
+
+Recently, King Erik, the present ruler of the land, has started
+to lose his hold on the Kerovnian peoples and can no longer rely
+on their loyalty and supreme devotion to support him through
+times of war, famine and personal bankruptcy.
+
+Many political commentators have attributed this decline in
+popularity to Erik's steadfast refusal to reinstate the
+citizenship of the Roobikyoub dwarfs who were banished en masse
+soon after the assassination of the beloved Queen Jendah II and
+have never since returned.
+
+The dwarfs were thought to be the sole instigators of the
+assassination plot but the real facts were kept well behind
+closed (and locked) doors.
+
+Needless to say the dwarfs were of immense economic importance
+to Kerovnia with their relentless efforts to produce the
+smoothest, strongest malt whisky this side of the Obakanga
+valley and they are sorely missed in these days of economic
+gloom (not least for the quality of their whisky).
+
+In the absence of the dwarfs, the drinks market has been
+dominated by the Farthington Real Ale Company (which has had
+some rather dodgy dealings with Boris Grunchkev O.K.B.) and by
+the Romni gnomes who produce a refreshing spring water. Neither
+of these two influential groups wish to see the dwarfs come back
+on the scene to take a large slice of the market but the people
+of Kerovnia, many of whom are beginning to suspect that the
+dwarfs were completely innocent of the assassination, vehemently
+disagree.
+
+Standing in the middle of all this is King Erik who becomes more
+and more unpopular the longer he leaves his decision, and, to
+top it all, there is a general election on the horizon.
+
+At this point, you arrive on the scene. You will be the
+principal player in the game and the story unfolds according to
+your decisions and actions.
+
+The program will describe where you are, who (or what) is there
+with you and what they are doing. It is then up to you to choose
+what you wish to do and tell the program in plain English (well
+almost!).
+
+You'll have to discover the goal of the game and the best way to
+achieve it by utilizing the items you find on your travels,
+conversing with characters and exercising your imagination.
+
+Some example sentences from the manual:
+
+ EXIT NORTH
+ QUIETLY WALK NORTH
+ ENTER THE FURNITURE SHOP
+ SIT ON THE COMFORTABLE LEATHER COUCH
+ GET UP OFF THE COUCH
+ ENTER DOOR
+ PICK UP PAPER, PEN AND INK BOTTLE
+ GET ALL FROM THE SCHOOL BAG EXCEPT THE ERASER
+ GET ALL EXCEPT THE CASES BUT NOT THE VIOLIN CASE THEN KILL THE
+   MAN EATING SHREW WITH THE CONTENTS OF THE VIOLIN CASE. REMOVE
+   THE SHREW'S TAIL AND USE IT TO TIE THE POLE AND THE NOOSE
+   TOGETHER.
+ GET THE KEYS EXCEPT THE SHINY ONE
+ LOOK AT THE KEY THAT IS IN MY POCKET
+ PUT THE KEY IN THE BAG IN MY POCKET
+
+Abbreviations:
+
+ DROP        DR
+ GET         G
+ INVENTORY   IN
+ NORTH       N
+ SOUTH       S
+ EAST        E
+ WEST        W
+ NORTHEAST   NE
+ NORTHWEST   NW
+ SOUTHEAST   SE
+ SOUTHWEST   SW
+ UP          U
+ DOWN        D
+ OUT         O
+ LOOK        L
+ PRONOUNS    PN
+ WITH        WI
+ FROM        F
+
+Conversation:
+
+I)   ASK someone ABOUT something
+     e.g. ASK THE ALIEN ABOUT THE SPACESHIP
+II)  ASK someone "something"
+     e.g. ASK THE ALIEN "WHO AM I?"
+III) SAY TO someone "something"
+     e.g. SAY TO ALIEN "HELLO"
+IV)  SAY "something"
+     e.g. SAY "HOW CAN I WIN THIS GAME?"
+V)   someone, something
+     e.g. ALIEN, PHONE HOME
+
+Special Commands:
+
+ INVENTORY
+ AGAIN
+ EXITS
+ SCORE
+ BRIEF
+ VERBOSE
+ NORMAL
+ QUIT
+ RESTART
+
+
+PASSWORDS
+The Pawn is password-protected (although the game manual forgets
+to mention it). After 100 turns in the game (or after restoring
+a saved game, whichever comes first), the player is asked to
+type in a word from the novel "A Tale of Kerovnia" (written by
+G. Sinclair, edited by C. Gale) which is included in the game
+box. If the password is wrong, the game quits.
+
+The following is a list of 475 tried and tested passwords (there
+are probably more, so make a snapshot before your 100th turn!).
+They work with version 2.3 of the game, on all platforms (IBM,
+Amiga, Spectrum, C-64).
+
+page line word
+----------------------
+ 1    2    6  coin
+ 1    3    4  erik
+ 1    4   10  kerovnia
+ 1    8   10  kerovnia
+ 1    9    2  close
+ 1    9    8  gnomes
+ 2    1   11  red
+ 2    4    2  erik
+ 2    5   12  gnomes
+ 2    8    7  maze
+ 2   10    5  run
+ 2   16    6  kerovnia
+ 2   17   11  wilderness
+ 2   21    1  cross
+ 2   21    4  rabbit
+ 2   23   11  rabbit
+ 2   26   13  burn
+ 2   28    9  erik
+ 3    2   10  light
+ 3    4    3  gnomes
+ 3    5    8  erik
+ 3    6    2  gringo
+ 3    9    6  kerovnia
+ 3   13    7  take
+ 3   23    8  high
+ 3   27    9  throne
+ 4    1    6  hit
+ 4    2    8  run
+ 4    2   10  gringo
+ 4    4    1  princess
+ 4    5    4  kerovnia
+ 4    7    1  erik
+ 4    8   10  take
+ 4    9    8  gringo
+ 4   16    3  kerovnia
+ 4   18    5  eyes
+ 4   21   12  palace
+ 4   22    5  rose
+ 4   23    6  eyes
+ 4   26   10  princess
+ 4   27   12  erik
+ 5    1    3  erik
+ 5    2    4  room
+ 5    3    2  green
+ 5    6    1  erik
+ 5    6    4  head
+ 5    9    0  kerovnia  [actually 5-8-16; 5-9-0 doesn't exist]
+ 5   11   11  erik
+ 5   13    4  room
+ 5   13    6  empty
+ 5   13    7  erik
+ 5   18    6  white
+ 6    7    3  erik
+ 6    7    8  use
+ 6    8    3  palace
+ 6    9    5  magician
+ 6   11    6  magician
+ 6   14    8  green
+ 6   14   10  hat
+ 7    8    1  turn
+ 7    9   12  erik
+ 7   10   10  palace
+ 7   11    8  heads
+ 7   12    9  damage
+ 7   12   13  life
+ 7   13    3  palace
+ 7   13   12  palace
+ 7   14    9  gardens
+ 7   15   14  box
+ 7   16    9  horse
+ 7   22    7  fight
+ 7   24   12  fill
+ 8    2    6  gardens
+ 8    8    5  kerovnia
+ 8   11   11  gringo
+ 8   12    2  gringo
+ 8   12    9  kerovnia
+ 8   14   12  gringo
+ 8   17    5  throw
+ 8   26    1  gringo
+ 9    4    7  gringo
+ 9    5    2  head
+ 9    7    8  gringo
+ 9   14    2  fight
+ 9   15    4  read
+ 9   15    9  palace
+10    2   12  princess
+10    4    5  room
+10    5    6  palace
+10    6    6  stone
+10    7    1  windows
+10    8   10  window
+10   11    4  eyes
+10   20    4  palace
+11    1    1  erik
+11   11    3  erik
+11   12    2  princess
+11   17    4  eyes
+11   18    1  room
+11   20    4  windows
+11   21   12  room
+11   22    9  blue
+11   23    6  arms
+11   27   11  blue
+11   28   13  table
+11   29    1  erik
+11   30    2  guards
+12    3    8  symbols
+12    4   12  table
+12    7   12  gold
+12    7   14  dress
+12   12    4  arms
+12   13    6  eyes
+12   13   10  take
+12   16    5  hide
+12   20    3  kerovnia
+12   27   11  kerovnia
+12   29    7  gold
+13    2    6  chest
+13    2   11  good
+13    6    4  eyes
+13    6   12  princess
+13    7    5  room
+13   11    3  green
+13   15    6  take
+13   17    7  eyes
+13   18   11  eyes
+13   20    8  hand
+13   23   10  voice
+13   24    8  kerovnia
+14    2   10  red
+14    9    7  voice
+14   13    1  kerovnia
+14   18    1  eyes
+15    2    6  rose
+15    7    1  kerovnia
+16    2    7  take
+16    2    9  leave
+16    2   15  eyes
+16    5    6  head
+16    6    2  chest
+16   11    4  dragon
+16   12   14  dragon
+16   14   11  cave
+16   16    9  green
+16   17    3  red
+16   20    4  look
+16   22    1  jump
+16   23    4  dragon
+17    7    8  take
+17    7   14  potion
+17    8    9  fire
+17   10    3  take
+17   10    8  potion
+17   11    4  fog
+17   11    9  kerovnia
+17   12    4  hand
+17   15   10  gold
+17   16    2  fog
+17   18   12  potion
+17   19   11  blue
+17   22    2  palace
+17   22   10  foothills
+17   23    1  potion
+17   24    3  table
+17   24    9  room
+17   28    6  gringo
+17   29    2  dragon
+18    2   10  gringo  [actually 18-2-9; 18-2-10 is "and"]
+18    5    8  take
+18    5   10  kerovnia
+18    8    9  gringo
+18    8   10  person
+18   10    1  kerovnia
+18   13    4  run
+18   15   11  hills
+18   18    9  potion
+18   21    2  high
+18   21   10  potion
+18   26    8  gringo
+18   28    8  dragon
+19    1   12  stone
+19    2    5  blue
+19    2    7  gold
+19    4    3  entrance
+19    4   12  hat
+19    6    4  go
+19    6   10  go
+19    7    6  go
+19   14    8  cave
+19   17    8  feet
+19   18   10  staircase
+19   19    1  use
+19   19    7  dragon
+19   21    2  slope
+19   22    5  gringo
+19   27    6  hills
+20    3   11  gringo
+20    4    2  stone
+20    9    7  gold
+20   20    1  green
+20   21    4  steal
+20   22   10  wand
+20   23    5  pocket
+20   23   13  hand
+20   24    8  use
+20   25    3  windows
+20   26    7  desk
+21    1    1  dragon
+21    1    8  window
+21    2    1  gringo
+21    3    3  eyes
+21    5    9  wand
+21    6    1  hand
+21    7   11  magician
+21    8    2  go
+21    9    1  put
+21   10    4  get
+21   11    7  gringo
+21   14    1  gold
+21   15    3  gringo
+21   15    7  room
+21   16    8  room
+21   17    3  dragon
+21   20    3  whisky
+21   24    5  white
+21   24   12  pour
+21   27   11  room
+21   27   12  gringo
+22    2    3  feet
+22    4    6  potion
+22    4    8  mix
+22    4   12  dragon
+22    6    1  gringo
+22    6    6  dragon
+22    8    2  fog
+22    9    1  palace
+22   13    9  red
+22   17    4  ???  [22-17-4 is "say"]
+22   17    7  magician
+22   24    1  gringo
+22   24   11  wand
+22   25    1  pocket
+23    1    2  get
+23    2    6  kerovnia
+23    6   10  room
+23    8    3  gringo
+23    9    2  empty
+23   10    2  get
+23   10   14  hell
+23   13   12  dragon
+24    4   13  erik
+24    6    8  palace
+24   12    3  use
+24   22    6  trees
+25    1   12  white
+25    2   10  palace  [actually 25-2-9; 25-2-10 is "where"]
+25    4    8  tower  [actually 25-4-7; 25-4-8 doesn't exist]
+25    6   12  arms
+25    7    9  fit
+25    8    3  white
+25    9    7  person
+25   13    4  palace
+25   15    1  lift
+25   16    2  gardens
+25   18    3  white
+26    6    8  kerovnia
+26   12    1  hand
+26   14   11  take
+26   17    2  erik
+26   20   13  pot
+26   20   14  erik
+26   20   15  gringo
+26   23    7  water
+26   23   11  pool
+26   26    8  life
+27    5   10  water
+27    6    6  pool
+27    8    7  put
+27    8    9  hand
+27   14    2  pool
+27   15    9  princess
+27   19    4  rose
+27   23    4  pool
+27   24    3  water
+27   25    1  high
+27   26    4  ???  [27-26-4 is "say"]
+28    1    3  read
+28    4   11  get
+28    6   12  hit
+28    8    2  blow
+28    8   11  water
+28   10    7  water
+28   13    9  pool
+28   13   12  room
+28   16    9  bushes
+28   20   12  erik
+28   26    1  high
+28   27    2  use
+29    2    7  palace
+29    4    7  princess
+29    5    4  palace
+29   12    5  green
+30    4    4  gringo
+30    4    7  trees
+30    9    4  person
+30   10    9  empty
+30   13   10  life
+30   14   13  kerovnia
+30   15    5  feet
+30   19    5  hand
+30   20    7  erik
+30   21   10  office
+30   22    4  potion
+31    4    6  potion
+31    4   14  room
+31    7    7  read
+31    8    3  gringo
+31   10    5  water
+31   12   13  fit
+31   15    5  hand
+31   19   10  gringo
+31   23    8  blue
+31   28    2  person
+31   28    7  gringo
+32    2   12  gringo
+32    4   11  kerovnia
+32   11    6  palace
+32   12    7  gringo
+32   14    6  take
+32   24    6  erik
+32   24   12  kerovnia
+32   29   12  kerovnia
+33    2    5  remove
+33    2   10  office
+33    8    9  put
+33    9    2  chest
+33    9    7  bed
+33   11   10  chest
+33   14    1  princess
+33   16   10  eyes
+33   17   13  use
+33   19    4  look
+33   23    8  princess
+33   26    9  take
+33   29   14  head
+34    4   11  gringo
+34    5    2  feet
+34    5    5  hand
+34    6   11  kerovnia
+34   12    1  chamber
+34   13    1  erik
+34   15   12  voice
+34   20    5  feet
+34   21    3  take
+34   23    3  gringo
+34   25   12  throne
+34   26    2  gringo
+35    1   11  palace
+35    5    8  magician
+35    7    6  princess
+35    8    1  kerovnia
+35   10    4  gringo
+35   15    5  doors
+35   15   11  fire
+35   19   12  room
+35   20   12  fire
+35   22    1  gringo
+35   22   11  light
+35   23   12  go
+35   24    1  gringo
+35   27    2  red
+35   27    3  fire
+36    1    4  fire
+36    1   10  gringo
+36    3    4  hat
+36    8    6  erik
+36    8    8  put
+36    8   10  bed
+36    9    3  gringo
+37    2    1  gringo
+37    9    9  princess
+37   13   11  boxes
+37   15    9  kerovnia
+37   15   11  boxes
+37   18   10  turn
+37   21    1  erik
+37   21    7  attack
+37   22   13  horse
+37   23   12  gold
+38    5    1  erik
+38    6    4  wear
+38    8   10  head
+38    9    8  join
+38   10    9  leave
+38   10   11  palace
+38   12    9  join
+38   15    7  red
+38   15    9  gold
+38   17    6  red
+38   17   13  head
+38   24    6  rose
+38   26   13  green
+38   27    5  high
+38   28    4  eyes
+38   29    9  head
+39    1    2  guards
+39    3    6  blue
+39    3    9  stone
+39    8    4  kerovnia
+39   10    2  head
+39   14    4  take
+39   18    2  take
+39   18   13  green
+39   19    6  erik
+39   19   10  kerovnia
+39   21    9  person
+39   26    3  princess
+40    1    1  pool
+40    3    5  palace
+40    4    7  blue
+40    4    9  light
+40    4   11  rose
+40    9    5  blue
+40    9    8  voice
+40    9   12  water
+40   12    2  rose
+40   12    5  feet
+40   14    1  princess
+40   14   13  life
+40   15    8  red
+40   17    3  leave
+40   23    3  leave
+40   25   10  go
+40   27    8  erik
+41    2    5  kerovnia
+41    5    3  cry
+41    7    6  erik
+41    9    3  kerovnia
+41   16    1  erik
+41   16    7  leave
+41   16    9  room
+41   18   11  rose
+41   18   14  feet
+41   19    4  cloak
+42    3   11  leave
+42    4    7  go
+42    5    1  scrape
+42    6    3  gringo
+42   13    4  princess
+42   13    9  palace
+42   14    1  erik
+42   16    2  princess
+42   17   10  ???  [42-17-10 is "cloud"]
+42   17   12  dust
+42   19    2  run
+43    4    2  princess
+43    9    7  life
+43    9   11  take
+43   10    7  head
+43   12    4  princess
+43   13    3  bed
+43   13    8  kerovnia
+43   20    6  life
+43   20    7  tree
+43   21    4  trees
+43   23    8  princess
+43   24    5  erik
+44    3    4  snow
+44    7   12  foothills
+44   10    5  snowman
+44   10    8  feet
+44   12    3  look
+44   13    4  eyes
+44   20    4  snowman
+
+
+HINTS
+Version II of the game manual came with a number of encoded
+hints ("cypheric help section") which could be decoded from
+within the game using the HINT command. Here are the hints
+(already decoded):
+
+How do I cross the Red Line?
+> Drop the Lot
+> Sure you're not carrying something?
+> And what about the wristband?
+
+Why is the guru laughing?
+> Ask him, not me
+> Pity you can't drop that wristband yet
+> Try stopping him from seeing it
+
+How do I drop the wristband?
+> Hard, isn't it?
+> Damn, I'd forgotten just how hard this one was...
+> Try asking someone to do it for you
+
+How do I get into the shed?
+> This one's really obvious
+> Where do you normally leave your key
+> Try your pocket. Really!
+
+What does the guru want?
+> No, it's not a Keema Nan
+> The answer is elementary, my dear Adventurer
+> Not the bubbly sort
+
+How do I get past the guards?
+> Give them something
+> Perhaps if they knew what you wanted...
+> What else would you do with a demand for ransom?
+
+What do I do with the note?
+> Try reading it?
+> On second thoughts, don't try reading it!
+> Better do as Kronos asked
+
+How do I buy things?
+> You'll need something of value
+> People round here are pretty careless with money
+> Search the dwarves' furniture carefully
+
+How do I get the lead?
+> It's embedded in the rock
+> Use any sharp tool
+
+How do I read the tomes?
+> Cast a spell - Like it says
+> This game is a parody, after all. Try 'Cast Spell'
+> There is no third clue - bet you're sorry you typed it in now
+
+How do I use the aerosoul?
+> No, it's not a spelling mistake, smart-arse!
+> You need to kill someone first
+> ... And they must be freshly dead
+> Press nozzle
+
+How do I kill Kronos?
+> Whole list of tedious clues coming up
+> You'll need help from another source
+> You must kill him in his lair
+> Throw the potion bottle at him
+> You don't get long to do it
+> You could try the thermonuclear device
+
+Where's the thermonuclear device?
+> Try a completely different adventure. 'Lord of the Reagans',
+  perhaps..
+
+How do I use the platform?
+> Pretend you're Kronos
+> The platform has only one way of telling if you're Kronos
+> Think of it as a large weighing machine
+
+What can I do with the devil?
+> Try doing what he asks
+
+How do I get past the cream doors?
+> Knock (Are you sure you're into adventures?)
+> Check you haven't got the wristband
+
+How do I work the lift?
+> Summon it
+> Wait for it...
+> It's just like a real lift
+> And it has sliding doors
+
+How do I vote?
+> You need a ballot paper - Are you an anarchist or something?
+> Try looking under the rug
+> The safe is not as empty as it first appears
+> Being ideologically unsound will cost you points
+
+How do I kill the adventurer?
+> I'm not sure I can condone this kind of thing..
+> Well, if you must... Only Kronos can help
+
+How do I get past the dragon?
+> The dragon is very short-sighted
+> He is also very hungry
+> Try showing him something else to eat
+> He needs to have them illuminated as well
+
+How do I move the wheelbarrow?
+> The wheelbarrow is very heavy
+> The wheelbarrow is not designed to be moved - bet you're
+  sorry you asked now...
+
+How do I get through the double doors?
+> Be polite
+> Many times
+> And tip the porter
+> Otherwise you'll scotch your chances
+
+How do I get past the paper wall room?
+> Paper can be torn
+> You look in the cupboard
+> You need a rope
+
+I've won but not with a full score. Why?
+> I'm 25, but I haven't got a proper job, why? I don't know,
+  these things just happen, that's all...
+> Did you cheat?
+> You need to buy drinks for 2 people
+> Whether you enjoyed his music or not - buy him one
+> Have you found the Pot Plant?
+> Try potting it properly
+> Use the right sort of implement
+> Oh well, who wants perfection... Make do with the score
+  you've got!
+
+What about the alchemists?
+> I don't know, what about them?
+> Their idea of food isn't quite haute cuisine
+> The guru had some food, remember...?
+> You'll never get the gold. Lead into gold can't be done!
+
+Where do I find some light?
+> You need to give the guru what he wants. Then listen to him
+> Now search the clearing
+> Elementary Physics - Red+Green+Blue=?
+> Mix them
+
+How do I get into the tree?
+> Unlock the door - Must I tell you everything?
+> Try the wooden one
+> The cat sat on the mat
+
+Floorboards - How do I move them?
+> They move very easily
+> Were you born in a barn?
+> Then shut the door, OK?
+
+How do I get past the boulders?
+> Find a lever?
+> ... Or two
+> Now fix them together
+
+
+NOTES
+Originally released as a text-only game for the Sinclair QL (in
+1985). Later versions (Atari ST, Commodore 64, Commodore Amiga,
+IBM PC) had excellent bitmap graphics. The Spectrum version,
+although requiring 128k, doesn't have any graphics due to space
+limitations.
+
+*********
+
+A Tale of Kerovnia was converted to etext by Eytan Kaziberdov
+<ekaziber@matrox.com>.
+
+* Page Numbers are in their actual place, at the BOTTOM of the Page!
+-ek
+
+Taken from Project 64 <http://project64.c64.org> in 2001 AD by
+Alessandro Grussu <http://www.ag-online.da.ru>
+
+*********
+
+A TALE OF KEROVNIA
+
+BY G. SINCLAIR
+
+EDITED BY C. GALE
+
+
+CHAPTER ONE
+
+Once upon a time (to coin a phrase) there was a fairy land called Kerovnia,
+ruled by King Erik and his Queen, Jendah II, which nestled cosily between the
+great Nattus mountain valley and the Aquatica Sea. Kerovnia was a million square
+miles, most of it forests. At the edge of these vast forests, stretching north
+to the mountains and south to the inhospitable deserts, lay a host of farming
+communities.
+
+The farms were owned by the true ancestors of Kerovnia - the 'Little People',
+close cousins of the Dwarfs and Gnomes. The Little People were also the
+forebears of the Roobikyoub Dwarfs, who had left their farms to mine for lead in
+the Kerovnian forests. The Little People had stayed behind, happy to continue
+farming; and specialising in the manifacture of their famous 'nut yoghurt'.
+
+The Dwarfs are giants in the world of commerce, and thrive on the cut and thrust
+of business. The Little People, although less acute, have a reputation for hard
+work and industry.
+
+The mountainous regions, with their snow-capped peaks forever glinting and
+flickering against the ice-blue sky, are a great tourist attraction. Mountain
+trekking is very popular, and it is not expensive to hire a pink unicorn,
+indigenous to the area, to explore the many and varied beauty spots the
+mountains have to offer. (These unicorns were introduced by The Little People
+three centuries ago, when a certain King Faldous of
+
+Page 1
+
+Aquitania, a neighbouring province, gave the King of Kerovnia a red unicorn
+stallion as a birthday gift.) The Dwarfs, not surprisingly, have a complete
+monopoly of the tourist industry.
+
+King Erik and Queen Jendah are not vastly popular figures and command the
+loyalty of only a small section of the community of Dwarfs, Gnomes, and Little
+People. The majority of the other inhabitants are anti-Royalist, and form the
+Opposition Party. Their leader is the notorious Gringo Baconburger, whose
+headquarters lie in the maze of tunnels and chambers beneath these mountains.
+The desert regions are mainly uninhabited, but at their extremities they run
+down to meet the azure blue of the Aquatica sea, which gently washes the golden
+shoreline. The Royal holiday villa is situated at Kerga, the capital of this
+region. Here, holiday resorts abound and tourism flourishes. A big attraction is
+the various paddling competitions throughout the summer months, which are
+organised by the King himself.
+
+There is one region in Kerovnia which serves neither the tourist nor mining
+industries - The Great Wastelands. This is a vast area of wilderness, bordered
+by slimy ponds and sluggish streams. However, the whole area is of great
+importance to the Little People, because it is here that they breed their
+beloved pink unicorns and the charming Kattish Dorabs. The dorab, a cross
+between a rabbit and a dog, was introduced some six hundred years ago. lt is
+most prized for its hunting abilities. lt has the body of a spaniel, and the
+soft fur and droopy ears of a rabbit. Many Kerovnians, including the King
+himself, keep a dorab as a pet.
+
+The Wastelands, with its grassy wilderness that sways and dances to tunes of
+far-off breezes in the winter, and whose rushes crackle and burn in the summer
+heat, lead to the capital city of Kerovnia - Keros - (home and birthplace of the
+honourable and righteous King Erik!)
+
+Centuries of selective breeding, preserving the purest of blood lines by
+
+Page 2
+
+constant and meticulous inter-marriage, have resulted in the impressive figure
+of our present monarch - who, in a poor light, and with a following wind, could
+actually be mistaken for a human.
+
+The Dwarfs, Gnomes, and Little People are looked down upon by the Royalist party
+- who love and venerate King Erik. The opposition party, led by Gringo, is
+rapidly gaining strength, nourished by Erik's increasing reputation as a
+political bungler, both at home and abroad. His mishandling of affairs of State
+has resulted in an economic crisis and general social unrest, never before
+experienced in Kerovnia.
+
+Queen Jendah is generally considered to be wiser and more politically astute
+than her husband. She is a charismatic figure; witty, intelligent, and the proud
+possessor of a graceful beauty. But the King, a closet misogynist, refuses to
+let his wife take an active part in home affairs, or foreign policy, She is
+reduced to busying herself with the "Elderly Little People's Society", and the
+distribution of Piquant Rat Pancakes to the poor and needy. Her talents as an
+artist, sculptor and interior design decorator, however, find ample outlets.
+
+There is, in fact, only one female in the kingdom who is greatly loved by the
+King - the apple of his squinting eye - his daughter Lattecia; known as "Lacey".
+She is everything a proud father could wish for in an only child. She has
+inherited the pointed nose and greasy strands of lack-lustre, mousy hair, of the
+Golden Family. Also, she has a sweet character, which has made her enormously
+popular in Kerovnian high society. A most desirable catch for any foreign
+Prince!
+
+Lacey has just celebrated her sixteenth birthday. She has been given a male
+dorab by the name of Poops, and is deeply in love with Prince Malcolm, the
+dashing and handsome heir to the throne of Aquitania! At present Malcolm's
+multifarjous (some would hint nefarious!) activities as a Royal helicopter pilot
+- not to mention his giddy affair with the
+
+Page 3
+
+blushing and virginal Lacey - continually hit the headlines of the Dwarf colour
+tabloid, "The Kerovnian World" - owned and run by Gringo Baconburger.
+
+Princess Lacey has, since her childhood, been schooled fer the role of future
+Queen of Kerovnia. This tiresome and difficult task has been the duty of the
+Royal governess, Zita. This ancient crone was nursery-maid to Erik, himself, and
+it has been hinted that she is responsible not only for Lacey's education, but
+also for Erik's (who continues to take maths and science lessons at the age of
+fifty-three!) Gringo Baconburger even suggested, at a rather violent political
+meeting of the Opposition Party, that Zita was more in charge of Kerovnia's
+finances, and the allotment of the Royal treasury funds, than the King himself.
+Zita's paternal grandmother, although of true Kerovnian stock, was also
+descended from the land of Perpetania, and Zita has inherited her supernatural
+powers. Her clairvoyance and Tarot reading have solved many a tricky political
+situation in Kerovnia. Even more importantly, Zita has magically enhanced and
+improved Lacey's natural beauty over the year -thus winning even more favour in
+the eyes of the King.
+
+Although Zita's powers have increased her hold over the Kerovnian Royal family,
+she has remained a simple woman, with little in common with the local Jet Set.
+She lives in a small cottage in the Palace grounds overlooking Queen Jendah's
+famous rose garden, surrounded by her cauldrons, magic potions, cobwebs,
+spiders, eyes of newts, and tongues of toads; not to mention her venomous one-
+eyed familiar, the supercilious feline, Postlesthwaite.
+
+Dwarf journalists have suggested that Zita is bewitching the Princess in order
+to obtain supreme power in the years to come; but Erik was overjoyed that she
+worked tirelessly for no salary, and invariably agreed with his every word.
+
+Page 4
+
+One afternoon, Erik was giving audience to several nobles of the land in the
+blue State Receiving Room. Zita was present, making discreet notes in her shabby
+green leather notebook, nodding and grunting away to herself. The nobles were
+discussing the corn tax laws, complaining bitterly about the steep increments in
+the yearly taxes.
+
+Erik scratched his head in confusion, unable to deal with their mounting
+hostility, when Zita stepped forward and snapped:
+
+"You are all lucky to be able to trade at all in the Kingdom of Kerovnia! The
+King allows you to sell your inferior wheat to all and sundry, and you have the
+honour and privilege of paying taxes to the Royal purse!"
+
+The nobles were stunned into silence by this tirade, and Erik promptly dismissed
+the assemb!ed throng, before they had a chance to regain their composure. When
+the room was empty, Erik rushed over to Zita and grasped her bony hands in his
+claw-like paws, and exclaimed:
+
+"Dear Zita, my ugly and faithful subject, my Machiavellian and toothless
+politician, my wart-encrusted beauty! Please tell me what I can do for you, to
+reward you and brighten your every hour?"
+
+Zita thoughtfully pulled a long white hair from her left nostril, and casually
+squeezing a pimple or two, replied as follows:
+
+"Dear Majesty. There is one small favour that I beg of you, in all your
+greatness. Not far away from our land lives a friend of mine, who was falsely
+sent into exile, for a crime he did not commit. He now seeks refuge in a country
+like Kerovnia. He is a brilliant man, with a mind unequalled - "
+
+"Do you imply!" interrupted the King, "That this man has a greater intellect
+than my own?"
+
+"Oh no Sire", winced Zita, "No living creature could possibly equal your
+gracious majesty!"
+
+Page 5
+
+"Oh well, then, pray continue", conceded the King.
+
+"I have known of him since my earliest days", Zita continued, "his magical
+powers are supreme and his scientific discoveries are legendary. Perhaps your
+majesty could find work for him, either at the Golden University or the new
+Research Laboratory for the cross-pollination of various types of foreign
+currency?"
+
+"No!" answered Erik, "I shall make better use of him than that. What I need at
+the Palace, to amuse my precious Lacey and to entertain the Royal Guests, is a
+Court Magician. Find him, and bring him to me!"
+
+And so it came about that the sorcerer, Kronos by name, entered the Royal
+household, and became the Court Magician. So amazing were his tricks, and so
+numerous his feats of magic, that Lacey began almost to shirk her school lessons
+with Zita - shrieking and screaming with delight as Kronos produced yet one more
+dorab from his green top hat.
+
+Page 6
+
+
+CHAPTER TWO
+
+Kronos was much loved by the court, and was frequently requested to perform his
+feats of magic in the nobles' country houses. He was particularly admired by
+Queen Jendah's housemaids, for whom he often agreed to magically make the beds,
+dust the floors, and lay the fires. The cooks often invited him into the Royal
+kitchens, and gourmet cuisine soon became known throughout the land. With a
+click of his tongue, he could turn a goose's liver into the finest Pate de Fois
+Gras, and with a mere glance at a citrus fruit, would produce a devilish Lemon
+Souffle. Erik became so worried about the general laziness amongst the Palace
+staff, that he threatened to cut off their heads unless they began to work
+properly. Zita came to their rescue before any damage was done, and life in the
+palace returned to normal, and thereafter Kronos left the Palace staff well
+alone, and interested himself in the gardens and stables.
+
+lt was whilst making a tour of the stables, and visiting the loose box of Erik's
+ceremonial charger, Bruce - part unicorn and part horse - that he made the
+acquaintance of the head groom, JoJo. He was a pleasant enough fellow, in his
+late fifties, who had undergone his apprenticeship during the reign of Erik's
+father Willy III. They struck up conversation, and Kronos discovered to his
+delight, that he had found just the man to assist him in his psychological
+analysis of the monarch: a project he was undertaking on behalf of the
+underground newspaper, 'Fight on!'JoJo had known the King when he was a little
+lad, and had seen him grow into manhood. He knew much about the King's faults
+and weaknesses, and had promised to fill
+
+Page 7
+
+Kronos in on many points of interest.
+
+During his tours of the gardens and stables, Kronos caused quite a stir. His
+reputation had spread before him, and both gardeners and stable lads were
+anxious to meet the great man, to express their various dissatisfactions and
+worries. Kronos, with his calm manner and cultured appearance, soon won the
+hearts of those around him. Gradually, in the back of his mind, he began to
+wonder if he would not himself make a better, a wiser, and a more popular King
+of Kerovnia than Erik! (Especially with the help of his dear sister, Zita.)
+
+Whilst these ambitious dreams were running through the cunning mind of Kronos,
+an even more daring plan was being conceived by Gringo Baconburger. Gringo, who
+headed the Dwarf Liberation of Kerovnia party, was Erik's ruthless opposition
+leader, renowned for his political activities in Dwarf circles, and dearly loved
+by the Little People. lf Gringo could force the King to hold a democratic
+election for the first time in Kerovnian history, it was almost certain that the
+Dwarf party would secure a majority of votes, and throw out the Royalists, whose
+contribution to trade and tourism was quite inept.
+
+Gringo's grasp of international affairs was very astute and his political
+concepts were the most advanced of all the varying Dwarf populations. lt was he
+who had first explained to the Little People, with the help of numerous
+histograms and statistics, that their age-old demand of: 'Longer hours for less
+pay!' contained a subtle but fatal economic flaw. But how, short of a
+revolution, was he to force the King into agreeing to a general election?
+
+Gringo Baconburger was a relatively young leader for the Dwarf faction to have
+adopted. From the beginning his confidence as a public orator and as an
+intellectual figure had reached the ears of the Elderly Dwarf Soclety, (the
+wisest members of the Dwarf and Little People communities)
+
+Page 8
+
+responsible for the election of important figureheads in Dwarf society, as well
+as the tiresome activity of meeting with the King twice a year, to discuss
+social problems.
+
+lt had soon become clear that Gringo was the man they had been looking for to
+head the Opposition Party. Since his election, Kerovnia's trade, tourism and
+industry had flourished under his skilful management and his faithful followers.
+In accordance with the elders' wishes, Gringo moved away from the heart of the
+mining community, and bought a large house in the village of Korrezita, one of
+the agricultural sectors for wheat and barley. lt was from this village that he
+directed the tourist industry, boosted the economy of the mining community, and
+exploited trade. All his political activities were carried out deep within ihe
+Kerovnian mountains in secret hideaways and chambers. Here the weekly editions
+of the political newspaper, 'Fight On!', were published: A journal bitterly
+condemmed by the King, although secretly read by many of his palace staff.
+
+Page 9
+
+
+CHAPTER THREE
+
+But let us, gentle reader, return to our heroine, the sweet princess Lacey. We
+find her sitting on her cushioned window-box seat; dreaming of her beloved
+Malcolm. Her exquisite room, panelled with the finest walnut, looked out onto
+the main palace courtyard, surrounded by high walls, fabricated from the finest
+Kerovnian stone. She opened wide her lattice windows to breath deeply the scent
+from the multitudinous blooms of the Royal garden, nodding in the silver
+moonlight. Below her window, the strains of the Royal orchestra, performing a
+classical symphony, drifted towards her on the soft summer evening air, and she
+felt tears pricking behind her pale eyes. Almost imagining that she could see
+the image of the noble Malcolm reflected in the water splashing in the fountains
+beneath her, she swept her greasy hair from her narrow forehead and gazed
+dreamily into the star-strown sky, recalling her first meeting with the
+honourabie prince.
+
+lt had been at Kerga, the previous year, when her father had invited several
+Royal families to spend a couple of weeks soaking up the summer atmosphere.
+People were always pleased to receive an invitation from the Kerovnian Royal
+family. They boasted some of the finest fishing available, and the summer palace
+had been modernised some short while before. The majority of Palaces were most
+uncomfortable inside; humid, dusty and filled with spiders.
+
+Page 10
+
+Erik was considered to be an entertaining host ever since the employment of
+Kronos, who continued to delight both Royal children and adults alike. The food,
+too, was excellent, and Queen Jendah's trifles were internationaffy renowned.
+
+Five different Royal families had been invited, including Queen Hortensa of
+Aquitania, and her son, Malcolm. The King of Aquitania had died some five years
+previously in mysterious circumstances. Lacey had nover before met the
+Aquitanian household. She had beerl taking part in a Royal quiz programme in the
+capital city (aided by Zita's supernatural powers), and she arrived for the
+midweek dinner and ball after the presentations had been made. Erik had been
+busy playing canasta every evening with the King and Princess of Silenissia and
+had quite forgotten to introduce his daughter to the crowd of guests. So poor
+Lacey arrived at the dinner that parlicular evening feeling most shy and lost.
+She was dressed in a ravishing pink summer frock, her hair blow-dried into
+ringlets, and her patent pink leather shoes glimmered in the candlelight. She
+was the cynosure of ail eyes. The banquet that night was taking place in the
+orchid room, a perfect oval shape with varnished walls and bow-shaped windows,
+overlooking the sea.
+
+Directly beneath the windows grew wild orchids of vivid purple and pink, whose
+blooms reached up to, and enhanced the beauty of the room itself. The long oak
+tables were draped with pale blue lace tablecloths, bearing the Golden Families'
+coat of arms, and adorned with the finest silver plate and the most expensive
+crystal glasses in the Kingdom. Blue candles had been placed in front of every
+guest, and each candle stem had been lovingly decorated with a garland of tiny
+pink roses and purple daises.
+
+The Royal choir, which had been discreetly positioned behind the blue silk
+curtains, sung a selection of Kerovnian ballads. At one end of the table sat
+Erik. He was clothed in a crushed cherry coloured silk uniform of the Royal
+Unicorn Guards, with a collar of pure ermine. His breast was ablaze with
+
+Page 11
+
+rows of brilliantly shining medals, and his thinning hair supported the August
+Crown. This was studded with Capachon rubies, and surrounded by seed pearls from
+the Aquatica sea, the symbols of the month of August.
+
+Facing the beaming King, at the opposite end of the long table, sat the
+beautiful Queen Jendah. Although she wore no crown, her long, auburn locks had
+been fashioned in true Kerovnian style, diamonds and emeralds woven amongst the
+tresses of her hair. She wore a fine gold lame dress, and pointed exquisite
+purple satin slippers. She outshone every other lady present.
+
+Somewhere amongst this happy throng sat Matcolm, heir to the throne of
+Aquitania. Short, rather plump, with a double chin, stocky muscular legs, and
+very strong arms, Malcom had always been a heart-throb with the Royal ladies.
+His beady brown eyes were sharp to take in details of every new arrival; his
+rather thin lips concealed his small evenly shaped teeth. Although extremely shy
+in private, he had an unpleasant habit of being loud-mouthed in public to hide
+his inferiority complex. So far, he had spent the entire evening in conversation
+with the Lady Franceska, daughter of Earl Audarva of Aquitania.
+
+Malcolm had been against the idea of spending two weeks of his summer holiday in
+Kerovnia, for he had planned a sailing trip with his friends, (particularly the
+Lady Franceska). However, his mother, Hortensa, had insisted her son accompany
+her to Kerga, for she had other plans for him throughout those summer days. This
+tall, bespectacled lady - known for her coldness and aloof attitude towards the
+poor inhabitants of Aquitania - had for some time nourished the idea of a
+matrimonial union of the two families. lt was clear to her that should Malcolm
+wed Lattecia then Aquitania would be joined financially as well as politically
+to Kerovnia, allowing her to exert power over the mining community and exploit
+to the full their stocks of diamands and gold. lt would be easy for her to wield
+power through Malcolm, who adored her and respected her opinions in
+
+Page 12
+
+matters of state. She found Erik quite ridiculous, especialjy with all those
+medals scattered across his chest; but Jendah was a good friend, who would be
+quite happy for Hortensa to discreetiy intervene in Erik's affairs.
+
+The guests gasped with sheer pleasure as Lacey entered the banquet hall. Malcolm
+raised his eyes from Franceska's face to gaze at the princess as she skipped
+into the room, curtseying left and right to the assembled guests. She appeared
+to be a placid and retiring sort of girl (Malcolm detested bossy women with
+temperamental characters).
+
+Hortensa spied her son watching Lacey attentively, and sighed with deep relief.
+The Green Witch of Aquitania's prophesy was taking its pre-destined course. As
+Lacey took her place next to her mother, she caught Maicolm staring at her
+intently. Blushing furiously, she turned quickly around and smiled sweetly at
+her mother.
+
+Their real meeting did not take place until some hours later, while coffee was
+being served. Lacey had spent the entire dinner trying to avoid Malcolm who
+could not keep his eyes off her. By the end of dinner, Lacey's face was a
+brilliant embarrassed pink, as the bold Aquitanian's eyes constantly undressed
+her. Hortensa, feeling that the moment was right to introduce the pair, took his
+small podgy hand in her rather large one, and pulled him over to where Lacey was
+sitting, surrounded by friends and relatives.
+
+'Now my dears", said Hortensa, in her loud horsy voice "1 think it is about time
+you met one another. After all, Kerovnia really isn't far from our home city,
+and I think you two should become the best of friends."
+
+At this Lacey blushed a more violent purple, and looked down at her shoes, while
+Malcolm smiled kindly at the wretched creature sitting before him.
+
+"Would you care for another milkshake?" he asked nonchalantly.
+
+Page 13
+
+"Why, yes" she stuttered. "You are too kind". And she allowed the bold Malcolm
+to brush his thin lips across her tiny red hands. This historic meeting had
+electrifying effects on the assembied guests, and gradually the hubbub of voices
+died away to a mere whisper. Everyone craned forward to try and catch the merest
+hint of the conversation between the two Royal love-birds.
+
+Hortensa and Jendah retired to the ladies boudoir to discuss the prospect of a
+Royal wedding within the next twelve months. Malcolm, who felt that he was now
+centre-stage, raised his voice to a deep crescendo staring at Lacey with
+undisguised admiration:
+
+"My dear Lacey, perhaps you could come to Aquitania for a visit next year? 1
+believe you would truly love our country. Although it lies to the south of
+Kerovnia, and has a dry climate, we are fortunate in enjoying the clement
+weather from the southern seas, which bring cool breezes to even the hottest of
+our towns."
+
+So saying, Malcolm flexed his shoulders and arms, broad and muscular from many
+years of swimming and fishing. But Lacey, in her naivety, kept her eyes fixed on
+his aquiline nose. Malcolm continued with his description of the topography of
+Aquitania, while Lacey sat and listened in awe and admiration. He talkod
+incessantly of his homeland geography, history and political and economic
+policies; and furnished a great deal of information about himself. And for three
+hours the Royal coffee booths remained otherwise silent, as the guests drank in
+Malcolm's fascinating exposition. Hortensa was overjoyed at having conceived and
+raised such a paragon of an heir - so tremendously popular with the Royal
+public. From then on the romance between the two youngsters flourished. The
+Royal pair were seen everywhere together, at paddling parties, swimming parties,
+sailing, fishing, and crocodile shoots.
+
+Page 14
+
+Lacey was deeply and romantically in love with Malcolm, she felt like the
+heroine in one her favourite Rose Romance novelettes. Some cynics thought that
+for Malcolm's part this was not True Love. He was not, after all, averse to
+dallying with many a fair maid, and perhaps he was simply enchanted by her
+youthful femininity and charm. Worse, it had been suggested in some quarters
+that he fancied himself as the future king of Kerovnia!
+
+And so the lovers parted - with undying promises of fidelity and love. lt was
+agreed that before Lacey returned to the Golden Palace, they would meet again
+shortly after her sixteenth birthday at the mountain city of Krossia for a
+trekking holiday. Zita would accompany them as a chaporon. The following summer
+saw Lacey dreaming constantly of the bold Malcolm, whilst he, devoid of any
+other female companionship, had invited the Lady Franceska to come away with him
+on a boating trip.
+
+Page 15
+
+
+CHAPTER FOUR
+
+At this point, gentle reader, we take our leave of the fair Lacey. Her eyes
+ablaze with love, her tresses (treated with her mothers new conditioner for oily
+hair) shining brightly in the moonlight. She clasps her shabby teddy bear, whose
+ugly little head had been half eaten by Poops, to her meagre chest. We now
+travel some three hundred miles to the heart of the mountain region were we find
+Kronos alighting from the back of a flying polar bear.
+
+Kronos had been called out on a mission of some urgency: his brief being that of
+a real magician, rather than a court jester. The problem concerned a somewhat
+large dragon by the name of Harry. This charming creature had been a pet of
+Kronos's for quite some time. Harry was a Kerulgian dragon; a cold-blooded
+marnmal found only in the mountaincus regions, where it can retire to the damp
+and cold of a subterranean cave when the temperatures reach an uncomfortable
+heat during the daylight hours. The Kerulgian dragon is some two metres in
+length, green and orange in colour, with bright red scales lining the periphery
+of its arched back. Its tail forms at least half of its body, curved and
+sharpened at both ends. lt has bovine, brown eyes and large raspberry coloured
+tusks. But these dragons, though forocious to look at, have an unusual
+psychological trait: they are afraid of peopie. Indeed, even the smallest mouse
+is inclined to make them jump. Because of this timidity, most Kerulgian dragons
+have been eaten by other species of dragon, and very few are left in Kerovnia.
+How Harry has survived over the years is a story in itself. Harry was rescued as
+a baby
+
+Page 16
+
+on the shores of the Aquatica Sea, having been abandoned by his mother, and was
+rescued by Kronos, who happened to be visiting the area at the time. Kronos and
+Harry formed an immediate attachment to each other and travelled everywhere
+together. As the majority of Kerulgian dragons were finding it difficult to
+survive, Kronos invented a magic potion to make him more aggressive in times of
+danger. Thus, every time Harry felt himself threatened by man or beast, he would
+take a secret sip of the potion and almost immediately was enabled to exhale a
+hellsome fire for a radius of 50 miles. Sometimes, however, either through
+eagerness or nervousness, he would take an overdose of the potion - which
+resulted in immediate disaster! A yellow fog would then descend over Kerovnia,
+so that one could scarely see ones hand in front of ones face; and even at the
+height of noon it would be folly to drive without the use of headlights! Often,
+to impress strangers, Kronos would ask Harry to breathe extra deeply - and
+entire villages would be covered either in flames of molten gold, or in a foul-
+smelling fog.
+
+One particular evening, Harry, at home within the foothill region of Kozza, had
+requested Kronos to bring him an urgent supply of magic potion, as he was
+feeling alarmed and threatened by a large herd of blue dragons, which were
+reported to be lurking in the neighbourhood. Kronos would rather that Harry
+lived with him, but unfortunately dragons were not allowed within the palace
+boundary; so he made post-haste to the foothiljs to deliver the potion to
+Harry's secret lair. There he noticed some posters scattered over the table in
+the corner of the room.
+
+"What have we here, Harry?" he enquired, glancing in the direction of the
+posters.
+
+"Funny you should ask that, pal. Well, you see, this chap came round the other
+day canvassing for the Gringo Baconburger Party."
+
+The dragon inhaled deeply, lighting up his orange nostrils. "Funny thing is,
+
+Page l7
+
+his political headquarters aren't far from here; in fact, on the other side of
+the valley. He seems an interesting chap, this Gringo, and he's quite against
+the Royal family - rather like you. Well, it appears that he plans a general
+uprising to force the King to hold democratic elections, and then, if all goes
+well, he plans to take over Kerovnia and force the Royal family into exile."
+
+Kronos stroked his beard thoughtfully, and gazed deeply al his friend. "I wonder
+if you would introduce me to this Gringo person, Harry." he said. "It's strange
+I have not heard of him before. I tend to know everyone in Kerovnia, especially
+in political circles."
+
+"Oh, I don't think it so surprising that you haven't heard of Gringo. After all,
+the Dwarf faction don't have any seats in the Royal Parliament. The entire
+Government is run by the King's political friends and the supporters of the
+Royal house of Aquitania. The whole thing smacks of nepotism. 1 always have my
+ear to the ground, here in the hills. 1 suppose all you hear, living in the
+palace, is the same old Royalist propaganda."
+
+Kronos, somewhat taken aback at Harry's social and political acumen, decided
+that the problem must be the magic potion, and resolved that in future he would
+cut down on the parsley and thyme, to avoid any further embarrassment. Harry,
+finding Kronos's discomfort amusing, and on a definite high, having just taken
+an extra slug of potion, roared with glee, slapped all seven of his thighs and
+set the roof of his house alight with a cascading shower of orange sparks!
+
+"Pray curb your enthusiasm, Harry. I shall have to pay for the refurbishment of
+your gloomy lair out of the Royal purse. Conduct me a straight way to the home
+of this Gringo Baconburger and introduce us. I think it is of the utmost urgency
+that we meet before the set of sun."
+
+Kronos spoke with stern authority, and the dragon realised that the fun and
+
+Page 18
+
+games were at an end. He padded obediently over to a stone recess, from which he
+removed his blue and gold striped scarf, which he wound ten or fifteen times
+round his neck with his ivory plated teeth. He moved towards the entrance of the
+cave, donning his best Sunday tweed hat, which he stuck jauntily between his
+large, floppy ears.
+
+"OK. Shall we go? Do you really want to go? Is it absolutely necessary to go?
+It's rather late to go calling. Do you think we'11 wake him up? Do you think
+he'11 be annoyed? It's rather a long way. Jolly cold outside, it's - "
+
+"Stop fussing, you overgrown tadpole!" snarled Kronos. "Can't you ever summon up
+the spirit of adventure, worrying whether a Dwarf - a mere Dwarf - will be
+inconvenienced or not. Pshaw! Tcha! Hrmph! What care I for Dwarfs - or any other
+creature? The only thing that matters is that I see him, and that we proceed
+without delay."
+
+With that, Kronos strolled out of the cave, muttering to himself that it was
+difficult to find a chap of one's own intellectual ability, and that dragons
+could sometimes be extremely boring.
+
+Harry stumbled along behind him, his clawed feet slipping occasionally on the
+moss-covered stones that had been carved into the staircase for the use of the
+local residents. The dragon, feeling rather hurt, bumbled and stumbied along
+until he finally overtook Kronos, and, leading the way down the slope to the
+edge of the valley, pointed out the lights twinkling in the distance: The home
+of Gringo Baconburger,
+
+At that hour of the night there was nobody else to be seen. No busy Dwarfs
+heading towards the mines, with spades and shovels slung over their shoulders;
+no Little People pushing carts filled with home-made produce for sale to the
+mining canteens. There were no ladies of noble class riding their magnificent
+unicorns through the hills, followed by their foot servants. The land was quiet
+and dark as far as the eye could see. The
+
+Page 19
+
+moon was like a giant, iced vanilla balloon gleaming brilliantly in the pagoda
+of the sky. lt lit the way to the deep bottom of the valley, clearly showing the
+stairs which led to the residential area where Gringo had his small stone house.
+
+As they neared the house the moon passed overhead, and for a few seconds lit up
+the the golden chimney, perched on top of the roof. This chimney had become a
+symbol, for the members of Gringo's political party, of the strife that was yet
+to come. Harry paused, and gazed intently at the beautiful object, which
+somewhat resembled a gold charm on a bracelet.
+
+He was a sentimental fellow, and he felt tears pricking at his large watery
+eyes.
+
+"Kronos, dan't you think it would be rather lovely if 1 could have a chimney
+like that? Or perhaps a silver one would be more fashionable?"
+
+Kronos preserved a dignified silence. Though he had raised the dragon himself,
+he could hardly believe that the animal could talk such nonsense. Kronos, like
+most sorcerers, was something of a Victorian, and averse to any display of
+enthusiasm or extremes of emotion. He had never learnt to cry, and rarely showed
+signs of sentiment: In the Magician's Guild it is, of course, considered a sign
+of weakness. (Although it is rumoured that the green witches of Aquitania had
+learnt certain feminine wiles; in order to charm wizards and steal away their
+magic powers!)
+
+Upon reaching Gringo's house, Kronos removed his magical golden wand from his
+inside vest pocket and clasped it firmiy in his left hand. Should they encounter
+any problems, he intended to use it. Harry peered through the lattice windows,
+and saw that several candles had been lit and carefully positioned on a large
+beechnut desk, at which a rather handsome Dwarf was seated, scribbling furiously
+away on a piece of parchment. Kronos rapped sharply at the door, and the Dwarf,
+looking up, saw the
+
+Page 20
+
+dragon breathing furiously at him through the window.
+
+Gringo rose slowly from his cushioned chair, pushed the dark curly locks from
+his eyes, removed the horn-rimmed reading glasses from his unusuaily small nose,
+walked purposefully towards the front door, opened it sharply and proceeded to
+knock the magic wand straight out of Kronos's hand!
+
+"None of that here, old man", he admonished the astonished magician. "Wo don't
+go in for magic and that sort of tomfoolery around here, you know, Put away that
+juvenile by-product of crowd-control technology! Grow up, be a man, get a decent
+job! Come in, sit down, have a scotch and soda!"
+
+Kronos, scarlet with indignation, grudgingly followed Gringo into the hallway,
+bending his long neck to avoid colliding with the copper bell hanging from the
+doorway. Harry, stifling a fiery chortle, winked at the gold chimney, did a
+little pirouette and skipped after Kronos into the hall.
+
+They followed Gringo into a narrow room furnished with comfortable weather-
+beaten sofas covered with cotton sheets. The room was too low for the dragon and
+he had to curl his immensely long tail into a tight ball and sit on it. Gringo
+motioned Kronos into the largest of the three armchairs, while he went to the
+sideboard and poured out three strong measures of whisky in large crystal
+goblets. Kronos had gone an even darker shade of purple and was rubbing his
+hands together so violently that they gave off sparks of anger.
+
+The Dwarf served the drinks with irritating slowness. Kronos's face turned from
+purple to white with fury, and smoke began to pour out from his ears. Harry,
+whose tail was suffering severe cramp, collapsed to the floor, rolled over on
+his back, and stared gloomily at the ceiling, deeply regretting that he had left
+the posters lying about his room. Gringo handed round the drinks (shaken, not
+stirred), and sat sedately on his cushioned
+
+Page 21
+
+chair. Kronos finished his glass in one gulp, and spitting with rage jumped to
+his feet and screeched at Harry, who was by now rolling about in a drunken
+stupor:
+
+"You know alcohol and magic potion don't mix! You foolish, foolish dragon. You
+should be ashamed of yourself!"
+
+Gringo winked at the befuddled dragon. "So you are the beast that everybody has
+been complaining about. Perhaps instead of casting your evil fog over these
+parts, you would do us all a favour and smother the palace instead."
+
+"Certainly not!" interrupted Kronos. "What a disgraceful suggestion. What do you
+know about dragons anyway?"
+
+"Actually quite a lot", answered Gringo, complacently. "My doctoral thesis
+contained three chapters on the influence of the red dragons on the Kerovnian
+population during the reign of King Faldous. It is well known that these beasts
+possessed quite alarming intellectual faculties, and that they were used - "
+
+"Enough! Enough, I say." screamed the magician, his face turning every colour of
+the rainbow. "For heavens sake, enough of this idle chitchat, let's get down to
+business."
+
+"I am not entirely sure," replied Gringo calmly, "That you and I have any
+business to discuss." This prompted a stream of unprintable abuse from the irate
+magician, causing Harry to squirm into a corner with embarrassment and wrap his
+tail firmly around his ears.
+
+Gringo stared at the sorcerer as he whipped his magic wand from his pocket and
+brandished it in the Dwarf's face.
+
+Page 22
+
+"I'll get my own back an you, you stunted little villain! Don't imagine you
+could possibly seize power in Kerovnia without consulting the genius of Kronos.
+Your puny political activities are at an end, my friend. The time is ripe for me
+to rule all of this domain, and you and your like will grovel as my subjects!"
+
+With this parting shot he swept out of the room, and Harry, uncoiling his aching
+limbs, swayed out alter him.
+
+"Well", said Gringo, "It looks like the fun is just beginning." He replenished
+his empty glass, picked up the Telephone, dialled a secret number, and said
+"George, get over here pronto! And hold the front page, we've got one hell of a
+story for the palace newspaper! Oh, bring Pete with you, while you're at it.
+We'll have to creep over to that dragon's lair to sneak some photos. What da you
+think of this for a headline? KRONOS AND DRAGON EN TETE A TETE - WHAT A TEA
+PARTY!"
+
+Page 23
+
+
+CHAPTER FIVE
+
+The peachy summer days drifted slowly by. Kerovnia, land of milk and honey (and
+nut yoghurt) blossomed and flourished in the eternal sunshine. The court that
+year had decided to remain in Keros, mainly because Erik had heard, from
+underground sources, of a Potential Dwarf uprising. Queen Jendah, however, had
+left for the winter palace where she was working on her Royal architectural
+projects.
+
+Zita and Kronos had gone on holiday, and were shortly to attend a secret
+sorcerers conterence. Lacey was packing; excitedly preparing to leave for
+Aquitania to join her fiancÇ. Love had transformed Lacey: her hair had grown
+shoulder length, the braces had been removed from her teeth, and the judicious
+use of plum and strawberry make-up cleverly disguised many of her spots and
+pimples. She was wearing higher heeled shoes, and shorter dresses, and she
+proudly displayed her knobbly knees to the assembled journalists at the railway
+station as she boarded the purple express for her departure to Aquitania.
+
+In the happy throng, concealed behind the band playing the Kerovnian national
+anthem, lurked Gringo, accompanied by Pete and George, the Underworld
+newspaper's photographers. Lacey's excitement at visiting Aquitania for the
+first time was fully justified; she could see that most of the country looked
+like a gigantic seaside resort with the occasional enclave of coconut or almond
+trees. The waters of the Aquitanian sea were the purest and greenest in the
+universe, with unrivalled displays of
+
+Page 24
+
+coral and fish. The city of Aquatica itself is a brilliant white, with houses of
+dorned roofs and porpoise-shaped swimming pools. The palace where Lacey was to
+stay was fashioned of pink marble, and flamingos fluttered in droves from every
+rampart and tower.
+
+As Lacey alighted from the train the whole of Aquatica seemed to be there to
+meet her, and suddenly, there was Malcolm, rushing forward with arms
+outstretched to greet her! He was tanned and fit, wearing his grey and white
+tracksuit, white leather sneakers, with his walkman strung casually around his
+muscular neck. Only one person was seen to be scowling slightly. Earl Audarva,
+father of the bossy and jealous Lady Franceska. Malcolm shepherded Lacey away
+from the tumultuous throng and they embarked in his private helicopter for the
+Palace. They alighted on the heli-pad on the Palace roof, scattering squawking
+flamingos left and right. The appointed ladies in waiting, curtseying and
+giggling, led the way to the lift, which descended to Lacey's bedroom suite
+overlooking the famous cactus gardens.
+
+Her rooms were magnificent - larger than any she had seen before, with their
+ornate white and pink silk hangings, and intricate antique furniture. She had
+her own Telephone, television, and two video recorders. One for her, and a
+smaller one for Poops.
+
+While Lacey was unpacking her Cindy dolls, the ladies-in-waiting bustled around
+with towels and toiletries, hairbrushes and ribbons, puffs and powders, soaps
+and unguents. Suddenly the phone rang - it was her mother, Queen Jendah,
+telephoning long-distance from Kozza, the capital of the mountain region. She
+had been joined at the winter palace by Queen Hortensa, and the two ladies had
+spent many a happy hour together in deep conclave, plotting and planning the
+forthcoming Royal Wedding. She was on tenterhooks to enquire of Lacey if she was
+behaving herself in a Royal and ladylike manner? - lf everything was going well?
+Was Malcolm truly smitten? - The Aquitanian court duly impressed by her ladylike
+beauty and
+
+Page 25
+
+decorum? - Was Poops behaving himself? - And had she remembered to pack a second
+pair of tights?
+
+As hours became days, and days drifted into weeks, Lacey hardly noticed the
+passing of time in her constant delight and happiness with Aquitania in general,
+and the bold Malcolm in particular. Things however, did not continue so smoothly
+in the Kingdom of Kerovnia. Unrest amongst the general population was
+increasing. Dissatisfaction was rife because of the burden of increased
+taxation. The Royal family already owned two palaces and a residential seaside
+villa, and now another Royal Palace was planned, not to mention the enormous
+expenditure of the fast approaching Royal Wedding. Queen Jendah had several
+private building projects on hand, and the Added Value Tax on the emerald mining
+had risen to an unprecedented 23%! Erik had been warned by his subterranean
+espionage agency that mass insurrection was brewing and he decided to take the
+heat out of the situation by holding a democratic by-election.
+
+This was a unique, historic, and (some thought) dangerous notion:- but
+nevertheless Erik insisted that candidates for the election should comprise not
+only of a member of the Noble family guild, but also representatives of the
+Little People, Gnome and Dwarf communities. It was the dawn of a new era,
+history was in the melting pot: Erik, Gringo, Kronos, Jendah, Zita, (and indeed
+Lacey herself) would all have their part to play in the rich tapestry of events
+that were soon to follow.
+
+Lacey splashed happily in the dappled water of the swimming pool, surrounded by
+the playful Dolphos, (the hybrid of dolphin-frogs), that she had befriended
+during her stay in Aquitania. She felt fitter and happier than she had done in
+her entire life. This, despite her ominous lobster-pink colour: a result of
+either too little sun-screen lotion, or too much of Malcolm! Although the
+Princess's visit was running more smoothly than Malcolm had expected, this did
+not deter his gaze from wandering from Lacey's face, and dwelling on the lanky-
+legged Franceska,
+
+Page 26
+
+as she scowled aggressively at the Royal photographers. He felt a twinge of
+regret that he would shortly see her only on state occasions - and that official
+business would have to replace monkey business! Jumping up and stretching to the
+full four feet and two inches of his tanned and rippling frame, he dived in
+Royal fashion into the heated water, and energetically swam several lengths of
+the pool to impress the female spectators. Lacey stopped splashing around, and
+gazed wonderingly at her Prince. She pushed the Dolphos to one side and put a
+hand to her trembling bosom, as Malcolm calmly swam over to Franceska, and
+wickedly pinched her toes.
+
+Franceska squealed "Don't do that Malcolm, you know how ticklish I am."
+
+"Why don't you come for a swim, you lazy beast" he quipped, and grabbing her by
+the ankle, pulled her into the water. Then, while the guests laughed wildly at
+his antics, he chased the Lady Franceska round the perimeter of the pool,
+whooping and yelling as she screamed with delight. Her pleasure was considerably
+increased when she noticed a shocked Princess Lacey regarding the scene with
+horror and dismay.
+
+"Malcolm. Oh no, Malcolm" Lacey whispered. "Don't do this to me. Why are you so
+interested in that - that thing, when I am here? Why, Malcolm? Oh, Why?" Her
+whisper rose steadily to a nasal whine, and Poops, who was fast asleep under a
+large cactus, began barking fiercely.
+
+Dorabs are often over-protective towards their mistresses, and when he saw
+Lacey's distress he whipped himself into a fury. Dashing towards the edge of the
+pool, he tripped over an empty wine glass and somersaulted into the water. With
+teeth bared and nostrils flaring, he dorab-paddled at high speed towards the
+frolicking Franceska.
+
+Before you could say "Humfrey Humbleburger!" Poops had his teeth in the top half
+of her bikini, and as the wild flurry of flashing teeth and frothing spray
+subsided....
+
+Page 27
+
+SHOCK! HORROR! READ ALL ABOUT IT - Franceska's torso was suddenly revealed to
+the delighted throng, as naked as the day she was born!
+
+Malcolm's lithe figure carved through the water towards Franceska, partly to
+rescue her from the vicious dorab, but mainly to get a close up view of the
+lady's embarrassment. Teeth snapping, fur flying, Poops turned on Malcolm, and
+viciously bit his finger. Malcolm screamed in pain and hit out at the tiny
+creature. Missing the dorab by an inch, he caught Franceska a glancing blow on
+the jaw and knocked her under the water. The guests, thinking Malcolm was
+suffering from sun stroke, and was attacking the lovely lady, began diving into
+the water and raining blows from all sides upon the unfortunate Prince, who was
+soon knocked unconscious, and had to be rescued by the Royal Lifeguards.
+
+Lacey became hysterical and ran screaming from the pool to her room, closely
+followed by several ladies of the court, shrieking and swooning as they
+fluttered behind her. The horror of the entire scene had been caught by two
+Dwarf journalists, hiding behind some pringle bushes, who were bearing Gringo's
+support badge, and had been taking photographs of the prevailing confusion.
+
+News of the events spread quickly to other lands, and the ten o'clock news on
+Aquitanian television devoted a full hour to the story. King Erik was disturbed
+from a heavy game of pinochle, to attend an emergency cabinet meeting to discuss
+the advisabillty of his daughter's intended marriage. Hortensa cut short her
+visit to Silenissia to return home, and Jendah rushed back to the capital city
+to comfort her daughter. Foreign reporters had been urged to treat the entire
+affair as an unfortunate accident - mere high spirits by the holiday guests -
+but the underworld press made exzellent use of both pictures and story to
+undermine further the King's already shaky position.
+
+Page 28
+
+Kronos, chortling continually to himself, turned the whole affair to his
+advantage; persuading many members of the Palace staff that Lacey suffered from
+congenital madness, which was responsible for the entire incident, And when the
+poor red-eyed princess returned home, with no official greeting or palace band
+for welcome, unkind whispers and rumours abounded on every side. Jendah decided
+her daughter should spend several months at Kozza, recuperating from the
+traumatic affair. Malcolm was in disgrace, and was sent to the countryside,
+where, as a punishment, he was enrolled as leader of the boy scouts association.
+Deep in his heart he still felt strongly for Lacey and was ashamed of his own
+behaviour. Why had he sparked oft the whole ridiculous incident? Perhaps, after
+all, Franceska's mother had been a Green Witch!
+
+Page 29
+
+
+CHAPTER SIX
+
+For Gringo and many of the Dwarfs, it seemed an eternity until election day.
+Their time had been fully occupied with many and varied tasks, pinning posters
+of Gringo to the trees around the forest perimeter, addressing rallies of eager
+Dwarfs, and preparing political speeches. Not to mention the day-to-day running
+of the emerald mines and the tourist industry.
+
+Erik's spies had promised a reward of two golden coins to every Dwarf, Gnome or
+Little Person who voted for the Royalist party; for the King felt that if a
+commoner was elected to the empty seat in the forthcoming by-election, it would
+signal the beginning of the end of his tenuous grip an his empire.
+
+Malcolm, in Aquitania, was beginning to enjoy the outdoor life. He led his boy
+scout troop with pride, and was secretly planning a trip to Kerovnia to sweep
+Lacey off her feet and marry her in total secrecy, surrounded by his eagle
+scouts - disappearing with Lacey and the entire troop as company to some forlorn
+country retreat, where there would be plenty of rock climbing and hiking to
+indulge in.
+
+Kronos, an the other hand, was plunged into a deep despair. Although he had
+nothing but contempt for King Erik, the last thing in the world he wanted was to
+see the dreadful Gringo elected to office. He had planned to prepare a magic
+potion which he would introduce into Kerovnia's water
+
+Page 30
+
+supply, which would sway the populus towards the Royalist party. But due to lack
+of time and because he was without the vital assistance of Zita (who was busily
+employed in looking after the prostrate Lacey) he was unable to prepare the
+magic potion in time. He stayed locked in his room, sulking away the few days
+that remained before the election.
+
+At last the great day dawned - and Gringo won the seat by a stupendous majority.
+As the Dwarf journalists proudly read the notices on television that night,
+Gringo was carried, shoulder high, to the local tavern, where his supporters
+drank whisky (The finest, distilled by the Roobikyoub Dwarfs) and Sparkling
+Spring Water (The most pure from the Obakanga valley) all night long. When the
+results came through, Erik hurled his crown on the floor, and jumped up and down
+on it! A fit of bad temper, which he instantly regretted, as it was full of
+spiky diamonds and very knobbly rubies!
+
+Kronos, on the other hand, once he was presented with the fait accompli of
+Gringo's election, wasted no time on idle fury, but began sketching out future
+plans for tricking the Dwarf leader into collaboration with the evil sorcerer.
+
+After the hectic events of the last few days, Gringo fell into a deep slumber.
+He dreamt, amongst other things, that he was making his maiden speech in
+Parliament - and suddenly awoke to discover that he was!
+
+The long Kerovnian summer months drifted slowly to an end, marked by an Indian
+summer of brilliant sunshine and cloudless blue sky. The wheat and barley
+harvest were completed well on time, because the Little People, overjoyed by
+Gringo's success, worked harder than they had ever done before. The Dwarfs, too,
+went happily about their labours, singing and whistling political airs, in
+polite mockery of the King and noblemen. The only person who seemed dissatisfied
+was Gringo himself, for, although he had the attention of certain radical
+Royalists, no political or social
+
+Page 31
+
+changes seemed imminent.
+
+A few weeks prior to the National Celebration and Parade day, Gringo called an
+emergency meeting of the Elderly Dwart Society, and outlined his plans for a
+national strike. He was intent on ridding Kerovnia of Kronos and Zita and their
+strange powers over the Royal Family; for surely they were in league with the
+forces of evil? Once Kronos and Zita had been banished, it would not be too
+difficult, he suggested, to gradually dismantle the entire monarchic system?
+Lacey could marry Prince Malcolm and spend the rest of her days in Aquitania;
+and the King and Queen should be politely, but if necessary forcibly, removed -
+either to the summer home or the winter palace. This would leave the capital
+city free for the Dwarfs themselves to inhabit. Gringo secretly looked forward
+to redecorating the palatial rooms at Keros, and inviting the numerous members
+of his family to take up residence in the various outhouses! The whole scheme
+was widely approved by his friends and associates, who had spent most of their
+working lives toiling in the mines - to the sole benefit of the King's
+exchequer.
+
+Queen Jendah was depressed and aggravated by the current events in Kerovnia,
+though for quite a different reason from that which was upsetting her husband.
+She had received several nagging letters from her erstwhile friend, Hortensa,
+urging her to decide on a wedding date for the Royal couple. She presentod
+various excuses for Matcolm's extraordinary behaviour; saying that he was a
+reformed character and that he would be only too pleased to assist Erik in the
+day-to-day running of Kerovnia. She reminded Jendah that Lattecia was almost
+eighteen, and was getting somewhat long in the tooth for an unmarried lady!
+These letters inspired rage in the Queen, who realised that Hortensa was trying
+to instaff this sprig of Aquitanian Royalty in the Kerovnian lineage. lf her
+precious daughter were to marry the baboon, he could legally remain in Kerovnia
+for ever - and eventually force the King to abdicate in favour of his daughter
+and the Prince Consort!
+
+Page 32
+
+Malcolm was completely under Hortensa's thumb, and if given the opportunity he
+would soon remove the Dwarfs from political office and replace the mineworkers
+with Aquitanian peasants. Jendah made up her mind that under no circumstances
+would her daughter ever marry the neighbouring Prince. She would soon find a
+suitable match elsewhere.
+
+Lacey, unaware of her mother's plans regarding her future, continued to write to
+Malcolm twice daily. She dictated her letters to Zita, who passed them
+immediately to Jendah. All these letters were put into a large copper chest,
+hidden under the Queen's bed. All the incoming letters from Malcolm were
+discreetly removed from the Princess's mail tray first thing in the morning, and
+also hidden in the copper chest.
+
+Zita continually nagged the poor girl, telling her she was wasting her time
+writing to Malcolm, as he obviously had no intention of replying. The princess
+grieved deeply and began to sicken. She was no longer the dumpy, knock-kneed
+girl of yore. She soon turned into a scarecrow-like figure, with a grey face,
+and straggly hair. Her pale eyes became black with sorrow, and sunk deep into
+her wrinkled face. She begged Zita to use her magic powers to explain why
+Malcolm had forgotten her; and Zita would then pretend to look deeply into her
+crystal ball and tell disturbing tales of Malcom's love for a certain Aquitanian
+lady, and how he had lost interest in Lacey because of her lack of 'sporting'
+prowess. The situation was made even worse, because Kronos in his off-duty hours
+would visit Zita and encourage her to keep the princess well away from Malcolm.
+Kronos feared that if Lacey married the foreign Prince, and power was eventually
+handed over to Queen Hortensa, then the Dwarfs would be banished from Kerovnia,
+and the Aquitanian army would take command of the kingdom; whereupon Kronos
+himself would at best be banished, or at worse assassinated by some Aquitanian
+thug.
+
+In the early days of Autumn, the political situation finally came to a head.
+
+Page 33
+
+Parliament had been convened to discuss seating arrangements for the famous
+September Parade some two days later. A list of foreign guests to be invited to
+the ceremony had also to be drawn up without delay. The debate droned on for
+three hours or more, when suddenly Gringo leapt to his feet, spectacles in hand,
+and loudly proclaimed:
+
+"Gentlemen! The time has come to face the realities in Kerovnia. How many times
+have I beseeched you to revise and revitalise our society? But all you do is
+sleep and snore through every parliamentary session, when there is work to be
+done."
+
+Shouts of protest arose from the assembled members, waving their clenched fists,
+and demanding that the Dwarf should be removed from the chamber.
+
+Erik, who was fast asleep, was woken by Kronos. He looked blearily around him,
+and, quite misunderstanding the situation, gestured to Gringo to finish his
+speech. The Dwarf did not hesitate, and raising his voice to fever pitch,
+pointed at the Royal Magician, and uttered the following curse:
+
+"Damn you, Kronos! Damn you and your sister Zita! A curse upon your evil souls!
+lt is you who are responsible for all the ills that assail our country!"
+
+Kronos jumped to his feet, bellowing in rage, and called upon the household
+cavalry to take Gringo prisoner. At that moment a group of angry Dwarfs
+appeared, brandishing sabres and guns; and before the cavalry had a chance to
+arrest Gringo, the armed group of little men formed a circle around the
+perimeter of the hall, their weapons pointing towards the assembly. The King,
+too bewildered to speak, collapsed in a heap on his throne, weeping copiously.
+Gringo jumped down from the podium and made his way to the centre of the stage,
+through a throng of cheering Dwarfs.
+
+Page 34
+
+"This is your last chance Kronos. Either you leave the palace and the land of
+Kerovnia peacefully, or you and your sister-in-crime, Zita, will be imprisoned!"
+
+He turned to the King: "Your Majesty, do you not realise that you have been
+nurturing two vipers in your bosom? Your magician, and your ex-nursery maid? Do
+you realise the harm they have caused over the years through their malign
+influence on the Princess Lacey, the future Queen of Kerovnia?"
+
+The King's sobs were replaced by a wail of anguish, "Oh no" he moaned "can this
+be true, Gringo? I fear it is, I fear you are right after all!"
+
+Silence descended on the hall as the audience held its breath. Suddenly the
+Dwarfs rushed forward and Kronos, snarling and barking like a mad dog was pinned
+to the ground. His face became a deep purple, and his ears belched forth flame
+and smoke. The congregation of elderly noblemen retreated slowly to the doors,
+seeking the safety of the fire exits. Kronos, bellowing like a wounded buffalo
+as he realised the totality of his defeat, clasped his hands together, and
+intoned a strange incantation, beseeching help from his unknown Master.
+
+For a few moments nothing happened; and then suddenly the entire room exploded
+into a myriad of lights, as an orange ball of fire descended through the roof
+and plummeted to the polished wooden floor. Fortunately Gringo had a pair of
+sunglasses with him, but the light was so overwhelming that the Dwarfs holding
+Kronos were forced to let him go. Gringo stared in amazement as Kronos leapt
+into a burning fiery carriage that appeared from the orange ball of flame. lt
+was drawn by four black horses, rearing and snorting, pulling and tearing at
+their harnesses of molten red fire. Their hooves scraped the floor, the silver
+of their shoes glittering and sparking; their whinnying, a sound too terrible
+for human ears.
+
+Page 35
+
+The ball of fire floated through the ceiling, and Gringo shivered with fear as
+he saw the driver of the devilish contraption. He wore a long black cape, his
+top hat was aflame, a long driving whip firmly gripped in his cloven leather
+gloves. He howled and screamed with glee at the frightened throng pressing
+themselves into the corners of the hall.
+
+"See you all again" he screeched; and as his words reverberated on the wind, the
+fiery vision vanished.
+
+Eventually order was restored, and Erik was put to bed with a severe dose of
+hiccups. Gringo rallied his supporters and gave instructions that they should
+spread out around the town to avoid any trouble. He gave orders for Zita to be
+arrested, and removed from the country home of Kozza, to a place of safety far
+beneath the great Atina mountains.
+
+Page 36
+
+
+CHAPTER SEVEN
+
+Gringo decided that the National Celebration day should go ahead, although he
+would have to force agreement to a democratic General election later on. On
+reflection he felt that the terrifying events that day in Parliament were
+nothing more than a magic trick produced by Kronos to effect his escape. He was
+convinced that he would shortly return - if only in an attempt to rescue his
+sister, Zita.
+
+lt was thought better to keep all reports of these strange and terrifying events
+away from the ears of the fragile Princess Lacey. As the celebration day grew
+nearer, excitement mounted among the Kerovnians, it was felt in the air that
+great events were afoot. There were many radical changes in Kerovnian society,
+the most unusual being the formation, by public decree, of a Worry and
+Suggestion Society. Large yellow boxes were placed in the main streets, into
+which people could place papers indicating their worries, desires, and
+suggestions for reform in Kerovnia. The boxes were emptied regularly three times
+a day, and the suggestions were studied by the president of the Society and his
+colleagues. By this, and other subtle and insidious means, Kerovnian society
+began to turn quietly and discreetly into a community of Dwarfs.
+
+The morning of the National Celebration proved to be fine, if rather windy.
+Erik, still weak from his chronic attack of hiccups, managed a brave smile as
+his stable lads brought Bruce to the mounting block. The Royal horse was in fine
+spirits, his long black mane was threaded with gold, and pink
+
+Page 37
+
+roses had been fastened to his tail. He had been shod with golden shoes, and his
+horn was of a matching hue. Queen Jendah was sporting a long sweeping gown of
+pure silver, on which were fashioned hundreds of tiny flags of the Kerovnian
+state.
+
+Erik, who had mellowed somewhat since his illness, permitted her for the first
+time to wear a crown. Unfortunately no crowns had been forged for women in the
+Kingdom for many centuries, and hers was too large, and threatened either to
+fall off the back of her head or slip down over her nose. Lacey had not been
+permitted to join the Royal procession, so she had to be content to watch her
+parents leave the Palace from the main balcony. lt was considered wiser for her
+own safety that she remained within the Palace walls, although she planned to
+join the festivities later in the day. The Royal cortäge moved slowly away in
+the brilliant sunshine.
+
+The King and Queen were flanked by members of their personal guard, dressed in
+their best uniforms of red and gold. Behind the foot soldiers walked the Royal
+mascot, none other than Poops, dressed for the occasion in a tiny gold and red
+coat. He was followed by the head kennel-keeper, dressed in identical uniform.
+
+Then came a unit of the golden cavalry mounted on pink unicorns representing the
+light-guards, and finally a division of the heavy-guard mounted on pale blue
+elephants. Behind the elephants followed a procession of Royal guests and
+various members of the aristocracy. The Royal cortäge proceeded peacefully for
+three miles, the cheering becoming ever louder as the sun rose higher in the
+sky. But then, as they rounded a narrow bend, to pass in front of the Town Hall
+where the mayor was waiting to greet them, Bruce suddenly panicked at the sight
+of a green and yellow crocodile and reared high on his hind legs. Erik's visor
+slammed shut across his eyes, the charger reared again, and the King lost his
+balance and hurtled to the ground, hitting his head on the pavement, and was
+promptly knocked unconscious.
+
+Page 38
+
+The guards rushed forward to assist his majesty, and Jendah, fearing that her
+mount would be crushed in the panic, spurred her little unicorn forward.
+Suddenly out of the blue a large stone whistled through the air, and struck her
+smartly in the centre of her forehead. She toppled off her mount, and in an
+instant died.
+
+A mysteriaus shadow fluttered over her and disappeared.
+
+The horrific news of Jendah's assassination spread quickly throughout the
+neighbouring countries, and Kerovnia went into deep mourning for the beautiful
+Queen. The King, who had suffered nothing more than a bump on the head, retired
+to Kerga with his daughter to prepare for the funeral.
+
+They were joined at Kerga by numerous noblemen and state councillors, who
+gathered to advise the King on what course of action should be taken. Many
+thought that Erik himself was at fault, because he had allowed the lowly Dwarfs
+to take power; and others blamed him for exiling the sorcerer - who surely could
+have predicted, and thus probably avoided, the tragic train of events.
+
+Queen Hortensa, for her part, feared that a matrimonial union would now never
+take place between the two countries. On the advice of her Green Witch she
+determined to marry Erik, thus ensuring that Kerovnia and Aquitania were
+permanently linked. One person who had been quite forgotten by those at Kerga
+(admittedly an easy person to forget) was the noble Malcolm. On hearing the news
+of Queen Jendah's death, his thoughts raced to his beloved Lacey; and he
+proceeded post-haste by way of helicopter to Kerga.
+
+Many peopie were milling around the palace, but Lacey was nowhere to be seen.
+The Princess spent most of her days looking out to sea, seated on a great wooden
+raft that floated on the waters on the main palace swimming
+
+Page 39
+
+pool. She was unaware that the Prince had arrived in Kerga, and thought that her
+happiness had been lost forever. Malcolm explored every nook and cranny of the
+Summer Palace and eventually wandered into the extensive gardens. Creamy clouds
+speckled the pale blue sky, light winds rose off the sea, and brushed Lacey's
+hair against her cabbage cheeks. Poops, who was also in a state of nervous
+Depression, sat next to her listlessly reading a comic. She stared miserably out
+to sea, searching for a ship that would come and rescue her.
+
+Suddenly, out of the blue sky, a voice reverberated across the water: "Lacey, my
+darling, so this is where you have been hiding from me all this time. At last I
+have found you!"
+
+Lacey rose to her feet, and at the sight of Malcolm, swooned and fell into the
+water. Poops barked madly, and Malcolm carried the bedraggled princess to the
+satety of the shore and administered the kiss of life, at unnecessary length.
+Eventually she opened her pale red eyes, looked into the deep blue of Malcolm's
+and know that, at last, she had found True Love.
+
+"We must leave here at once!" said the Prince, "Let us make our way to the
+capital and seek help from friends. Will you come with me, my adored one?"
+
+"Of course", uttered Lacey weakly . "1 will follow you to the ends of the
+earth." Tears of happiness, mingled with beetroot mascara, ran down her cheeks.
+
+"Let us leave at once" whispered Malcolm "I shall order a carriage of unicorns
+to be prepared. lt is too dangerous to travel by helicopter, we could be
+intercepted by a unit of flying walruses! - Go quickly and pack some clothes and
+we shall be on our way to happiness."
+
+Whilst this idyllic scene was taking place, Erik sat listening unhappily to
+
+Page 40
+
+the recriminations of his advisors, demanding the removal of all Dwarfs from the
+land of Kerovnia.
+
+"They are but murderers and thieves!" screamed the courtiers. "They killed the
+Queen. Banish them forever, let them be punished for all eternity!"
+
+A united cry arose from the assembled throng, louder and louder still:
+
+"Banish the murderers, banish the murderers!"
+
+"Perhaps they are correct", mused Erik at length. "Bring forth my secretaries
+and let them enscribe this decree: 'All Dwarfs are henceforth banished from
+Kerovnia! All power that has been given them, whether political or financial, is
+hereby rescinded"'
+
+The secretaries busily scribbled the King's decree on a huge sheet of parchment,
+and the noblemen nodded in agreement.
+
+Hortensa felt strangely moved by Erik's display of strength in such difficult
+times - and promised herself that she would marry the bereaved King at the
+earliest opportunity.
+
+Erik then ordered the assembly to leave the room, indicating by a nod and a
+vague wave of the hand that the audience was over. Jauntily adjusting his
+September Grown so that it covered his balding patch, he rose to his feet,
+pulling his ermine cloak firmly around him. As he left the room the crowd bowed
+low in obeisance. Erik felt decidedly better: he had rarely felt so wise, so
+noble, so respected - so very much a King!
+
+Page 41
+
+
+EPILOGUE
+
+And so it came to pass that almost all the friendly Dwarf community, together
+with their cousins, the Little People, were forced to leave their jobs, abandon
+their stone houses and go to live in the neighbouring lands to scrape a meagre
+existence from the soil.
+
+The resourceful Gringo, however, stayed behind and rallied his compatriots and
+friends. The more influential of his companions were hidden safely in the
+mountainous regions in bolt-holes that had been bulit long ago in case of war or
+other emergencies.
+
+Erik dwelt at Kerga, cosseted by Hortensa, who strived to win his heart.
+Although the King found her intelligent (for a woman), he had no intention of
+remarrying; at least not until he had found his precious Lacey. Since Malcolm
+and his princess had fled the summer palace, no news had reached Erik of their
+whereabouts. He had been informed by a coachman that the Prince had requested a
+carriage and four unicorns, and the last he had seen of Princess Lacey, she was
+being bundled into the carriage by Malcolm. Then they had sped away from Kerga
+in a cloud of dust, and disappeared.
+
+At first the King had found it difficult to believe that his daughter could have
+run away with such a fellow, and thought that perhaps the coachman had been
+mistaken. He hoped that Lacey had simply taken up residence at Kazza to be alone
+with her thoughts. He could not have been further from the truth!
+
+Page 42
+
+Two weeks after the funeral a messenger, travelling south on an errand for Queen
+Hortensa, thought that he had spotted the carriage heading north. The
+description of the man driving the unicorns fitted Malcolm, although the
+Princess had not been seen. The King began to worry about Lacey quite seriously.
+Spies were sent out to every corner of the land in an endeavour to trace the
+couple, and a huge reward was offered for any news of their whereabouts.
+
+Erik began to lose weight, and took to spending long hours in his bed-chamber,
+reflecting on the miseries of life. Hortensa, quick to take advantage of the
+situation, made herself head of the Kerovnian Parliament.
+
+The months sped by, and soon the winter melted into spring, with still no news
+of the Princess and her Prince. The King took finally and completely to his bed
+and the land of Kerovnia plunged into financial and political despair!
+
+As the economic climate degenerated, it began to look as if the Royal Treasury
+would fail to pay off the national debt. Nature herself took a strange course -
+the great forests that had so dominated the countryside, with their emerald-
+green beauty, began to wither and die. Agricultural experts were asked to
+explain why the thousand-year-old trees were suddenly losing their lust for
+life. Tree surgeons tried many different medications but the trees continued to
+die, and it was feared that very soon there would be no forest left at all.
+
+The greatest loss to the community was Princess Lacey and Prince Malcolm. Both
+Hortensa and Erik, in their grief, had abandoned the idea of seeing their
+children again, and feared that the wicked dwarfs had assassinated them whilst
+on route to Kozza. To console their grief, they decided to remain together at
+Kerga and plan the future of their two
+
+Page 43
+
+countries.
+
+And so the seasons changed once more, the skies became a brittle, brilliant
+blue, and snow fell on the mountain tops. The dwarfs went about their
+underground activities with as much zeal as in the old days, and planned the
+coming revolution. The tourist season proved to be a minor success that year;
+which was of some comfort to the King, and throughout the winter months people
+were to be found trekking among the foothills mounted on the pretty pink
+unicorns.
+
+There was an extraordinary discovery that year (first sighted by two
+investigative journalists) of a snowman, some fen feet tall, who overlooked the
+largest of the ice valleys. People travelled from far and wide to look at him,
+and admire the clownish smile forever pinned to his icy features. His eyes
+seemed to be focussed on one particular mountain peak - and from time to time a
+frosty tear rolled down his icy cheeks, turning to a tiny myriad-hue icicle as
+it touched the ground. lt was almost as if he had lost something; or wanted to
+go in search of something, but could not, because he was so firmly rooted,to his
+icy patch.
+
+lt was said by some that at night, when the moon hung silently in the sky
+counting the stars, it would tell sad tales of the old man living in the moon to
+the snowman, and in response his icy friend would invent strange stories of
+magicians and kings, fairies and princesses .....
+
+Page 44
+
+
+Cypheric Help Section
+
+Another unique feature of The Pawn is an integrated Help Line written into the
+program itself which will provide you with limited advice on specific problems.
+This overcomes the Adventurer's usual nightmare of phoning the author, begging
+him for 20 minutes to impart some snippet of advice on how to kick the stuffing
+out of dragons, and finally being cut off half way through the solution. It's
+also considerably quicker and cheaper.
+
+
+How it works
+
+We call this section 'cypheric' because instead of printing an answer in plain
+English, we provide you with an encrypted message or 'cypher' that, off the
+page, is totally meaningless. The Pawn recognises this cypher and will translate
+it for you if you type it in. Imparting help in this way overcomes the usual
+problem with hint-sheets (i.e. accidentally reading solutions to problems you
+haven't encountered yet.)
+
+
+How to use it
+
+Scan the section for a question that resembles your particular problem. You will
+notice that there are about 3 cyphers to each question. These are roughly in
+order of difficully, and you may be prevented from reading certain answers until
+you have achieved a certain score or level of competence.
+
+
+Using the Cypher
+
+Simply type 'HINT'when prompted for a command by the game. Then enter the
+numbers and letters which lie between the '<' and '>' marks (you may ignore
+spaces if you wish). If a particular answer is not available you will be greeted
+with the message -
+
+Page 45
+
+"You'll need more points to find that out!"
+
+If you have entered the cypher incorrectly you will be told -
+ "Sorry, try that one again."
+
+Remember, not all the answers will be useful to you. Some will be
+merely flippant. (it is said that a true adventurer prefers his wounds
+well salted!)
+
+
+Example
+
+When the program has loaded, try entering the following:
+
+<5N CM ET PA XX CF EQ PA XF CK EW PG XE CR E7 PU YU>
+<AN YV NB OA 7Q YL NB OQ GQ 50 RF M6 76 Y7 NB OZ G6
+ Y6 N1 O8 7Q 5Q RA MU GW HW>
+
+If you successfully read those then you now understand how to use this
+section.
+
+Page 46
+
+
+QUESTIONS
+
+HOW DO I CROSS THE RED LINE?
+
+<5N CS EQ P0 XY TY I1 AU HD CD M9 G8 5E TE>
+
+<5N C8 E7 PV XB TB IR AE H6 CU EE PA HA TT IM AF XF CV EU
+ PE XU CT EX PO XT TT IL AD H1 TJ IT AS HH TM IS PK YK>
+
+<AN Y5 NI O0 GO 59 RV MU G5 Y5 NN OA 7H YJ NT MT GJ 5D RU
+ OU 7A YD N0 OP 7Z Y9 N1 O9 7F 5R TR>
+
+
+WHY IS THE GURU LAUGHING?
+
+<AN Y5 N6 O0 G0 5B RJ MU 70 50 RF MJ GT YT N5 OS PS>
+
+<MN PD X0 CH EV AV HH TA IF PF XV CU EK A9 HR CR ET PZ XB
+ C5 I5 AU H1 T9 IR PR XL CH ES PF XM C5 EN PG XP TP I8 AQ
+ HA RA>
+
+<5N CV E7 PL HL TT IJ AF HE TF IZ AD HF CF EL PQ XK TK I1
+ AI HN TH EH PZ XK CZ EF P0 XZ TZ IF AM 5M>
+
+
+HOW DO I DROP THE WRISTBAND?
+
+<TM OO 7P YJ N9 MD 7D Y0 NP OS GM 5F NF OZ 7P 5U TU>
+
+<5A C7 EE PP XS TR ER G5 Y7 NA MA GS 5O R0 MZ GB 5X RB MV
+ GW YW ND OX 7Q YA RA MP GX 56 N6 OW 7K YY NH MH G0 5B RJ
+ MO 70 YS NP OI GI 5J R0 MP 7S 5P NS ES>
+
+Page 47
+
+*********
+
+End Project 64 etext of The Pawn.
+
+*********

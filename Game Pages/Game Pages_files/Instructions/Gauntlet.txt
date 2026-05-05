@@ -1,0 +1,277 @@
+                               Gauntlet *TM
+
+U.S. Gold Ltd., Units 2/3 Holford Way, Holford, Birmingham B6 7AX.
+Telephone: 021 356 3388
+
+
+THE HEROES
+
+THOR the Warrior
+    ARMOUR: Tough skin - eliminates 20% of damage
+    SHOT POWER: Excellent - twice normal power
+    HAND TO HAND: Excellent - Battle axe - can destroy generators
+    MAGIC POWER: Poor - damages most monsters and no generators
+
+THYRA the Valkyrie
+    ARMOUR: Shield - eliminates 30% of damage
+    SHOT POWER: Poor
+    HAND TO HAND: Good - Sword - can destroy generators
+    MAGIC POWER: Moderate - damages most monsters and generators
+
+MERLIN the Wizard
+    ARMOUR: None
+    SHOT POWER: Good
+    HAND TO HAND: Poor - Bare hands - cannot destroy generators
+    MAGIC POWER: Excellent - destroys all monsters and generators
+
+QUESTOR the Elf
+    ARMOUR: Leather - eliminates 10% of damage
+    SHOT POWER: Poor
+    HAND TO HAND: Moderate - Dagger - cannot destroy generators
+    MAGIC POWER: Very good - destroys almost all monsters and generators
+
+
+THE VILLAINS
+
+The monsters pour out of the generators which lie throughout the dungeons. Each
+generator creates a specific type of monster ie. ghosts or demons. There are
+three levels of generator, the strongest producing the toughest monsters. Shoot
+the generators to destroy them. Monsters too, have three strengths, the most
+powerful taking three hits to kill.
+
+GHOSTS: Stay away from ghosts. They hit you only once and disappear. One hit
+hurts a lot. Shoot ghosts, do not run into them!
+
+GRUNTS: Grunts will run up to you and hit you with their clubs over and over.
+Either move the joystick towards them to fight them hand-to-hand or shoot them.
+
+DEMONS: Demons will try to shoot fireballs at you if they can, or if they are
+too close they will bite you again and again. Fireballs hurt more than biting
+does. Either move the joystick towards them to fight hand-to-hand or shoot them.
+
+LOBBERS: Lobbers will try to lob rocks over walls and other things in the maze
+to hit you. They will also try to run away from you. Try to shoot them or trap
+them in a corner and fight them hand-to-hand.
+
+SORCERERS: Sorcerers try to fool you by disappearing while moving. When they are
+invisible, your shots will go through them. Either move the joystick towards
+them to fight them hand-to-hand or shoot them.
+
+DEATH: Death will drain health from you. He will take up to 200 points and then
+die. The only way to kill Death is with magic. Don't even think about fighting
+him hand-to-hand!
+
+
+THE DUNGEONS
+
+Around the dungeons are objects to collect and avoid:
+
+POTIONS: Some potions can be shot although their effect is less powerful than
+when they are collected and used.
+
+SPECIAL POTIONS: These behave as normal potions when shot but endow the player
+with special abilities if collected. These include:
+
+   EXTRA ARMOUR - increases protection
+   EXTRA MAGIC POWER - increases the effect of potions
+   EXTRA SHOT SPEED - increases missile speed
+   EXTRA SHOT POWER - increases damage inflicted by missiles
+   EXTRA FIGHT POWER - increases hand-to-hand combat ability
+   EXTRA PICKUP POWER - increases carrying ability from ten to fifteen times
+
+FOOD: Plates of meat increase health by 100 and give a bonus of 100 score
+points.
+
+CIDER: Cider bottles can be shot and destroyed. When drunk this acts like food.
+
+POISON CIDER: This can be shot. When drunk, takes one special power or a potion
+and 100 health points!
+
+KEYS: Score 100 points for collecting. Use keys to open doors.
+
+TREASURE: Treasure chests cannot be shot but give 100 points when collected.
+
+AMULET: This magic device confers limited invisibility on the wearer for a short
+time.
+
+WALLS: In general walls are impenetrable objects, but some walls crumble when
+shot.
+
+TRAPS: These glowing patterns on the floor make some walls disappear when
+stepped on.
+
+TRANSPORTERS: Glowing red discs on the floor, transport players to the nearest
+visible transporter. If several transporters are the same distance away, then
+one is chosen at random. There are ways to influence your direction. Can you
+find them?
+
+EXITS: These labelled holes lead down to the next level or to the one specified.
+
+Treasure rooms appear randomly and the player has a fixed time to collect as
+many valuables as possible within a time limit. There is no score unless the
+player escapes.
+
+In general players are immune to the other player's shots but in some areas of
+the dungeon, missiles can stun or injure fellow players.
+
+If players do not fight for about half a minute, the locked doors will
+disappear, freeing all of the monsters. Eventually, if players still avoid
+combat then all the walls will turn into exits!
+
+
+BASIC INSTRUCTIONS
+
+Choose a one or two player game and the character you want to portray by
+pointing the gauntlet and pressing the fire button when asked to do so. New
+players can enter the game whenever they like by pressing the fire button. If a
+two player game had not been selected at the start, the computer will choose a
+random character for the new player to use.
+
+How long you last depends upon your health. Health is lost by contact with the
+monsters and as time elapses. It can be regained by picking up the food which
+can be found in the maze. Be careful, some food can be destroyed by your shots
+and some may be poisoned.
+
+The object of the game is to survive the monsters' attacks for as long as
+possible while competing for food, treasure and magic potions. You must also
+search the maze to find the exit to the next level.
+
+
+HINTS
+
+* Hold the fire button to shoot.
+* Release the fire button to move.
+* Shoot monster generators to destroy them.
+* Move toward monsters to fight hand-to-hand.
+* Hand-to-hand combat scores more points.
+* Food increases health by 100 points.
+* Poisoned food looks a little different to normal food.
+* Treasure is worth 100 points.
+* Playing as a team will give you the best chance of survival.
+* Stay away from death unless you have a magic potion.
+* Co-operate in Treasure Rooms.
+
+
+GAUNTLET - THE DEEPER DUNGEONS
+
+In early 1987, U.S. Gold will release an expansion cassette for Gauntlet
+containing hundreds of new levels and treasure rooms. You have the chance to
+have your own maze included on this tape!
+
+Follow the instructions below when drawing out your maze and post it to:
+
+U.S. GOLD, Units 2/3 Holford Way, Birmingham B6 7AX
+
+The lucky few chosen will receive Gauntlet Tee shirts and a free copy of the
+expansion tape or disk!
+
+
+Instructions
+
+1. The Gauntlet universe is a grid of 32 by 32 blocks.
+2. The Players' window scrolls so that only 16 blocks wide by 10 tall are
+   visible at any time.
+3. There must be only one start and at least one exit.
+4. The top row of blocks must always be occupied and any other block may be
+   any one of the following: Floor, wall, destructible wall, trap wall, door,
+   start, exit, treasure, destructible food, non-destructible food, poisonous
+   food, destructible potion, non-destructible potion, invisibility, key,
+   trap, transporter, ghost, grunt, demon, lobber, sorcerer, death or
+   generator.
+
+In addition to the above, there are other special features which can be enabled.
+These include:
+
+1. Stun: Players' shots stun other players.
+2. Hurt: Players' shots hurt other players.
+3. Pick an Exit: When the players enter this level, only one of the exits
+   will be placed in the level. The others will become floor.
+4. Vertical scroll: Normally the screen stops scrolling vertically at the top
+   and bottom of a level. Selecting this option would prevent this and allow
+   the players to see what is on the opposite side.
+5. Horizontal scroll: This is similar to Vertical scroll except that this is
+   for horizontal scrolling.
+
+Use the symbols below when making your map:
+
+Key to Symbols
+
+Floor:                        blank   Destructible Food:           DF
+Wall:                            **   Non-destructible Food:       NF
+Destructible Wall:               *3   Poisoned Food:               PF
+Trap Wall:                       *T   Destructible Potion:         DB
+Horizontal Door:                 --   Non-destructible Potion:     NB
+Vertical Door:                   ¦¦   Invisibility Amulet:         IN
+Start:                           ST   Key:                         KY
+Exit:                            E1   Trap:                        TP
+Treasure:                        $$   Transporter:                 TR
+GHOSTS;                               GRUNTS;
+Ghost, Strong:                   G3   Grunts, Strong:              R3
+Ghost, Medium:                   G2   Grunts, Medium:              R2
+Ghost, Weak:                     G1   Grunts, Weak:                R1
+Generator, Strong (coffin):      C3   Generator, Strong (lair):    L3
+Generator, Medium (coffin):      C2   Generator, Medium (lair):    L2
+Generator, Weak (coffin):        C1   Generator, Weak (lair):      L1
+DEMONS;                               LOBBERS;
+Demon, Strong:                   D3   Lobbers, Strong:             B3
+Demon, Medium:                   D2   Lobbers, Medium:             B2
+Demon, Weak:                     D1   Lobbers, Weak:               B1
+Generator, Strong (hole):        H3   Generator, Strong:           N3
+Generator, Medium (hole):        H2   Generator, Medium:           N2
+Generator, Weak (hole):          H1   Generator, Weak:             N1
+                               SORCERERS;
+Sorcerer, Strong:                Z3   Generator, Medium (castle):  T2
+Sorcerer, Medium:                Z2   Generator, Weak (castle):    T1
+Sorcerer, Weak:                  Z1   Mr. Death:                   DT
+Generator, Strong (castle):      T3
+
+Example Map - level 4:
+
+   ****************************************************************
+   **                    C2$$                    $$
+   **          C1$$                    C3        DF
+   **    ************************************************    **
+   **  $$**                                C3          **    **
+   **  L3**                DF                C3        **    **
+   **    **                                    C3      **    **DF$$
+   **    **  $$************************************$$$$**    **
+   **    **  L3**                                **    **    **
+   **    **    **                                **    **    **
+   **L3  **L3  **      ********************      **    **    **C3
+   **    **    **      **KY            DB**L1    **    **    **
+   **    **  L3**      **                **      **    **    **
+   **$$$$**    **      **                **      **    **    **
+   **    **    **L2    **                **      **    **    **  C2
+   **    **    **      **                **      **    **    **
+   **  L3**    **      **          ST    **      **    **    ******
+   **    **    **      **                **      **    **    **  E8
+   **    **    **      **                **      **    **    **C3
+   **    **    **      **                ||R1    **    **    **
+   **    **    **      **                ||R1    **    **    **
+   **    **    **      **                ||R1    **C3  **  L1**
+   **    **    **      **R1        R1    ||R1    **$$  **    **  $$
+   **    **    **      ****************************    **    **  C2
+   **    **    **      C2                              **L1  **
+   **    **    **                                      **$$  **
+   **    **    ******************************************    **
+   **    **    $$L2                $$L2                      **
+   **L3  **                                                  **
+   **    ******************************************************$$$$
+   **                        C1                          L3
+   **E1      L3                                C2
+
+
+GAUNTLET - Loading Instructions
+
+Spectrum Cassette     Type LOAD"" and press ENTER. Press PLAY on your
+                      cassette recorder.
+
+For game control, details will appear on the screen.
+__________________________________________________________________________
+
+*TM & © 1985 by Atari Games. All rights reserved. Licensed to U.S. Gold Ltd.,
+Units 2/3 Holford Way, Holford, Birmingham B6 7AX. Tel: 021 356 3388.
+
+Copyright subsists on this programme. Unauthorised broadcasting, diffusion,
+public performance, copying or re-recording, hiring, leasing, renting and
+selling under any exchange or repurchase scheme in any manner is prohibited.

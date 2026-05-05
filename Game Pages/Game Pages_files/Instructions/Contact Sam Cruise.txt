@@ -1,0 +1,122 @@
+Contact Sam Cruise  (c)1986 Microsphere
+
+Just another day at the Sam Cruise Detective Agency. I hear the staccato
+rattle of Daisy at the old typewriter in the outer office: the band in my
+head starts to tune up. I reach for a strong coffee. Pulling up the blind I
+look out of the grimy window into the street below. Ordinary people going
+about their ordinary business, unaware of the intrigues on their doorsteps.
+What do they know of the Fat Man, or the mysterious goings on at No.19?.
+Luscious Lana wiggles past, a sly smile playing across her ruby red lips. A
+gust of wind disturbs the garbage on the sidewalk.
+
+And then the phone rings...
+
+Keys and controls
+
+Joystick selection is made after the game has loaded. Press J on the screen
+you should see 'Select Joystick'. Press K for Kempston, I for Sinclair
+Interface 2, C for Cursor or N if there is no joystick
+
+Keyboard controls
+
+Q=UP            A=DOWN
+O=LEFT          P=RIGHT
+PRESS Q,A,O,P + CAPS SHIFT TO MOVE FASTER
+B=PULL/DRAW BLIND (WHEN STANDING NEXT TO A BLIND)
+D=CHANGE DISGUISE
+F=FUSE
+G=GET/PICKUP OBJECT(OBJECTS FLASH WHEN YOU PASS OVER THEM)
+I=INFORMATION-SLOWS THE SPEED MESSAGES CROSS THE SCREEN
+K=KNOCK/USE KEY (WHEN AT A DOOR) ALSO OPENS DOOR FROM THE INSIDE
+L=LIGHTSWITCH ON/OFF (WHEN STANDING NEXT TO A SWITCH)
+R=FORWARD ROLL
+S=AERIAL SOMERSAULT
+T=USE TELEPHONE
+H=HANG UP TELEPHONE
+
+Plus various other keys which will be explained as you pick up certain
+objects during a game.
+
+Screen Panels
+
+In the centre is an icon panel which displays the objects you possess and
+those around you.
+
+1)door Whenever you are opposite a door. This also appears if you are in
+jail and the cell door is locked.
+
+2)light The bulb flashes if you're opposite a light switch
+
+3)fuse The fuse symbol appears if you are next to a fuse. There is only one
+in each main building.
+
+4)phone Fairly obvious when it's ringing. Use T to pick up the phone. Each
+phone has it's own number, but at the start of the game, the only number you
+know is your own -7337. Numbers are revealed at various points in the game.
+
+5)first aid There are ten of these kits to start with and you must use one 
+each time you're shot.
+
+6)keys Entering the house without a key is a break in and the police will be
+called. After that you will be a wanted man. There are 4 keys - to find out
+if you have the right key for a house, just knock on the door. If it opens
+you've got the key. If you have to wait for someone to answer then you
+haven't.
+
+The disguise panel is on the right. There are a number of disguises Sam can
+use. Disguises recognised by the police as being Sam will appear in red, all
+others will appear blue. Obviously fewer and fewer disguises will be
+available as the game progresses. Certain disguises must of course be used
+at certain times.
+
+Acquiring fame and wealth
+You have two sources of money. Apart from clients fees, you can trap the
+proceeds of the recent bank robbery which unfortunately was scattered from a
+high building and has been blowing through the city streets ever since.
+Experiments have shown that the only way to acquire such money so to execute
+a perfect somersault. Should you manage to land on such a piece of valuable
+litter, you can keep whatever bill it is.
+
+Cruise clues
+You have a better chance of escape if you switch off the lights in a 
+building as you run past them.
+999 calls give away your location to the police who will then arrive at that 
+address: this may or may not be useful.
+You can only blow each fuse once. It stops any other movement in that 
+particular building, to give you a better chance of escape.
+No.19 is the Gangster house. Any method of entry is ok as the police will 
+not go to this house.
+Rolls and somersaults are useful to avoid the snipers bullets. try rolling 
+under the high ones and somersaulting over the low ones
+The game is over if you are shot and have no 1st aid kits left or if you 
+have run out of money.
+
+Loading the program
+
+To load contact Sam Cruise.
+
+1. Important Unplug your computer and reconnect it, to clear it completely
+2. Set the volume control on your cassette recorder to somewhere near the 
+middle. Rewind the cassette to the beginning of the tape.
+3.Connect the EAR socket of the cassette recorder to the EAR socket of the 
+Spectrum. Make sure that there is nothing in the MIC socket of the cassette 
+recorder
+4. Type LOAD""
+5. Press ENTER and press play on the cassette recorder.
+
+If the tape fails to load, try again with different volume levels. The 
+program is recorded on both sides of the tape, so if one side fails to load 
+try using the other side. the program is recorded in two slightly different 
+ways to allow for the full range of cassette players
+If it still fails to load,return it to the place of purchase or if not 
+possible send it back to MICROSPHERE at the address below, with proof of 
+purchase and stating when and where it was bought, for a replacement.
+Replacements will only be given to the original purchaser upon satisfactory 
+proof of purchase.
+
+Microsphere Computer Services Ltd.
+72 Rosebery Road
+London
+N10 2LA.
+
+Inlay typed by Simon Rooney 2003

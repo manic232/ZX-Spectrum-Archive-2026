@@ -1,0 +1,586 @@
+Spitfire 40 INLAY TEXT
+----------------------
+Spitfire 40 is not only the closest you're likely to come to flying one
+of the most famous aircraft of all time - it's a spectacular war-time
+adventure as well.
+   Taking the part of a young Spitfire pilot in 1940, you must undergo
+thorough training in the techniques and practice of flying a Spitfire before
+going into practice combat and then full combat for real.
+   You can save all your practice and combat experiences too, allowing you
+to rise through the ranks of the RAF towards the coveted position of Group
+Captain, VC, DSO, and DFC.
+   Your personal pilot's log is included with the program, together with
+keyboard guide and quick reference flight checklist.
+   CHOCKS AWAY!
+
+(C) 1985 Mirrorsoft Ltd. The computer program contained in Spitfire 40 and
+its associated documentation and materials are protected by National and
+International Copyright Law. All rights of the author and owner are reserved
+worldwide.
+
+Spectrum 48K/Spectrum Plus Keyboard Controls
+--------------------------------------------
+Joystick Controls:
+Normal up, and down, left and right movements and fire button apply.
+
+Keyboard Controls:
+Controls are given for a standard 48K Spectrum. Where these differ for the
+Spectrum Plus, they are given in brackets.
+
+Joystick up             P (cursor up)
+Joystick down           L (cursor down)
+Joystick left           A (cursor left)
+Joystick right          S (cursor right)
+Fire                    Shift (or ;)
+Left rudder             Z
+Right rudder            X
+Increase power          Q
+Decrease power          W
+Flaps                   F
+Screen switch           Space
+Gear                    G
+Brakes                  B
+Map                     M
+Extended map            N
+
+Loading:
+LOAD "" and press ENTER.
+
+Loading saving your log:
+Insert a new tape and follow the on-screen instructions. Do not forget to
+press ENTER after typing your name.
+
+Flight Check List for Your Spitfire
+-----------------------------------
+Take Off:
+1 Brakes off
+2 Engine revs 3,400 RPM
+3 Lift off at 90 MPH
+4 Retract gear
+
+Landing Approach:
+1 Reduce speed to 140 MPH
+2 Lower flaps and gear
+3 Final approach between 80 MPH and 100 MPH
+
+Optimum Climb:
+Varies with height
+200 MPH at 2,850 RPM giving 2,500 ft per minute
+
+Optimum Cruise:
+200 MPH at 1,900 RPM
+Level flight is achieved between speeds of 90 MPH and 350 MPH
+
+Flying Limits:
+STALL: Approx 65 MPH with gear and flaps down
+DIVING: 450 MPH
+LOOP: Enter with a speed of greater than 250 MPH
+ROLL: Between 180 MPH and 300 MPH. Nose just above Horizon. Higher speed
+  for an upward roll.
+CEILING: 35,000 ft
+
+Out of Control and Disorientated:
+1 Reduce power.
+2 Apply joystick in opposite direction to turn indicator.
+3 If appropriate apply rudder in direction of slip indicator. Centralise
+  when indicator at zero.
+4 Ease back on joystick if in a dive
+
+Introduction
+------------
+Spitfire '40 is not only the closest you're likely to come to flying one of
+the most famous aircraft of all times - it's a spectacular war-time adventure
+too.
+   Picture the scene - it is the Summer of 1940 and you are a newly trained
+pilot, posted to a Spitfire Squadron somewhere in the South East of England.
+   Like so many of those young men in 1940, you will learn that a Spitfire is
+no ordinary plane. You will discover its special capabilities and, most
+important of all, how to handle it in combat. As you learn, you can save your
+growing experience on disk or cassette. With practice and your increasing
+skill, you can rise through the ranks, gaining medals, to reach for the
+highest accolade - to achieve the rank of Group Captain and the coveted VC,
+DSO and DFC medals.
+   Spitfire '40 gives you not just valuable experience in the principles and
+techniques of flight and combat; it's a lot of fun, too!
+
+Loading Spitfire '40:
+See above for details. When the program has loaded, you will then be asked
+to load:
+
+        ORIGINAL LOG
+        SAVED LOG
+
+   Use joystick and fire button to make your choice. See above for loading a
+saved log.
+   You will be shown a list of pilots' names on the flight log. Choose your
+pilot by moving the joystick and pressing the fire button.
+   The log of the pilot you have chosen will be shown, including his rank,
+medals, flying hours and victories.
+   Press the fire button and you will then see a menu of FLIGHT MODES:
+
+        PRACTICE
+        COMBAT
+        COMBAT PRACTICE
+
+   Make your selection with joystick and fire button.
+
+Flight Modes
+------------
+Practice:
+This option puts you into the cockpit at the take off point on the runway to
+enable you to practise flying your Spitfire before you head off into combat.
+If you can then land successfully on a runway, you can save your log on
+cassette or disk to start building up your experience. To save, follow the
+screen instructions and then press RETURN. You should read the flying and
+landing notes thoroughly first.
+
+Combat:
+This mode is the heart of the program. On selection, you will be given your
+combat instructions, eg:
+
+            ENEMY 3    (No. of aircraft)
+        INTERCEPT 14   (The distance in miles)
+          BEARING 200  (The bearing from the runway)
+           HEIGHT 6000 (The enemy's height)
+
+   Now you must take off and engage the enemy in combat. The enemy will
+remain at roughly the height first given in the combat instructions. If you
+are successful and return to a runway safely, you can save your combat
+record to build your experience record progressively.
+
+Combat Practice:
+The purpose of this option is to enable you to gain some elementary
+experience in handling the Spitfire in combat. You will find yourself at
+10,000 feet with enemy aircraft coming at you in frontal attacks. Practise
+following and firing at them, allowing for deflection shooting, which
+requires you to judge where the enemy will be by the time your bullets have
+reached the target.
+   Your successes in combat practice are not recorded, and you can return to
+the main menu by pressing RETURN or by crashing.
+
+Instrument Panel
+----------------
+Clockwise from the upper left of the panel, the instruments are:
+
+Fuel Gauge: Indicates the amount of fuel remaining. You have enough for 45
+minutes' flying
+
+Airspeed Indicator: Indicates air speed in units of 100 mph.
+
+Artificial Horizon: Represents the view from the cockpit, with blue for the
+sky and brown for the ground. The Spitfire's attitude is indicated.
+
+Vertical Speed Indicator (VSI): Represents vertical speed and vertical
+movement at intervals of 1000 feet per minute in the climb or descent
+section.
+
+Engine Rev Indicator: This indicates the engine speed in 100's of revolutions
+per minute.
+
+Slip & Turn Indicator: The top needle represents the sideways movement
+through the air (slip). The bottom needle measures the rate of turn; the more
+displaced the needle, the higher the rate of turn.
+
+Compass: Indicates compass heading.
+
+Altimeter: Shows height above the ground. The large needle indicates 100's
+of feet and the small needle 1000's of feet.
+
+   The instrument panel view is a faithful reproduction of that in the
+original Spitfire. However, two additional instruments have been included for
+ease of use:
+
+Rudder Indicator: Shows the position of the rudder.
+
+Pitch Indicator: Represents a sideways view of the Spitfire. Although this
+duplicates part of the function of the artificial horizon, it does also
+assist orientation when diving or climbing steeply.
+
+Aircraft Controls
+-----------------
+Joystick:
+   The forward and backward movement of the joystick controls the Spitfire's
+elevators. Pulling the joystick backwards will raise the nose of the
+aircraft; pushing the joystick forwards lowers it. This is known as altering
+the pitch of the aircraft. The sideways movement of the joystick controls the
+ailerons, which in turn will make the Spitfire roll or bank to the left or
+right. A secondary effect of rolling is that it causes the aircraft to turn
+and change direction. The joystick fire button activates the eight Browning
+machine guns mounted in the wings.
+   The screen image of the Spitfire's joystick will assist you in judging how
+much joystick movement has been applied. The aircraft's joystick is
+self-centering when the computer's joystick is in the central position.
+   You should be aware that there is an inevitable time lag between the
+movement of the joystick and the reaction of the aircraft, particularly when
+applying an opposite correction such as reversing the joystick when rolling
+the aircraft back to strait and level flight after completing a turn.
+
+Keyboard
+--------
+Screen Views:
+[SPACE BAR]     Switches the screen between the cockpit view and instrument
+                panel.
+
+Throttle:
+[Q][W]          Increases/decreases power; the exact power level can be
+                gauged from the engine speed indicator on the instrument
+                panel.
+
+Rudder:
+[Z][X]          Turns the rudder left/right; the exact position of the
+                rudder is shown on the instrument panel. After applying a
+                rudder key, the first press of the opposite rudder key will
+                initially centralise the rudder. This additional feature is
+                particularly useful in situations where there is no time to
+                make a visual check.
+
+Flaps:
+[F]             Toggles the flaps up or down; the current position is
+                indicated on the instrument panel by the letters U and D.
+                Putting the flaps down will lower the stalling speed of the
+                aircraft, but they should not be lowered at speeds of over
+                140 mph.
+
+Undercarriage/Gear:
+[G]             Toggles the undercarriage up or down; the current position is
+                indicated on the instrument panel (red for up, green for
+                down). You should not attempt to fly with the undercarriage
+                down at speeds much above 160 mph.
+
+Brakes:
+[B]             Toggles the brakes on or off; the current position is
+                indicated on the instrument panel (red for on, green for
+                off).
+
+Map:
+[M]             Toggles the map screen on or off; the map is a representation
+                of the South East of England. A red aircraft symbol indicates
+                the Spitfire's current position, and the black aircraft
+                symbol shows the position of the enemy. The three squares
+                represent areas which can be examined in greater detail
+                (see below).
+Looking at the map also has the effect of freezing the simulation and can
+therefore be used as a pause key.
+
+Expanding the Areas:
+[N]             If the Spitfire is within one of the three squares, then
+                pressing N will show the ground detail; further presses will
+                first expand the area, and then contract it. Ground detail
+                is shown in a position relative to the Spitfire's current
+                heading.
+
+Cockpit View:
+When the Spitfire is below 800 feet, you will see a thin black line at the
+bottom right hand corner of the screen. This is an indication of your height
+when close to the ground.
+   At the bottom of the screen there are white dots on either side of the
+cockpit. The left-hand dot indicates speed, whilst the right-hand dot
+indicates rudder position.
+
+Handling and Flying Notes
+-------------------------
+Taking Off:
+If you have chosen Practice or Combat mode, the Spitfire will be positioned
+on the runway ready to take off.
+
+Checklist:
+1_______________Flaps up
+2_______________Push throttle to give power of 1,800 rpm
+3_______________Brakes off
+4_______________Increase power to 3,200 rpm
+5_______________As speed approaches 90 mph switch to cockpit view
+6_______________Ease gently back on the joystick
+7_______________When the Spitfire lifts off, retract undercarriage. Check the
+                instrument panel to see that the red light is on.
+8_______________Do not attempt a steep climb until the speed is over 140 mph
+9_______________After completing your climb, reduce power to around 2,900 rpm
+                for cruising speed and level flight.
+
+Climbing:
+The rate at which the Spitfire climbs is shown on the VSI. This rate is
+controlled by the power of the engine and the angle of climb.
+   The optimum rate of climb for this type of Spitfire was 185 mph at
+approximately 2,850 rpm, giving 2,500 feet per minute. At this attitude you
+will not be able to see the horizon out of the cockpit. The ceiling height
+for this aircraft was approximately 35,000 feet.
+   Experiment with various attitudes and power settings to gain experience.
+If you attempt too steep a climb with insufficient power, you will find the
+speed drops until a stall occurs.
+
+The Stall:
+The stalling speed of the Spitfire was 75 mph with the undercarriage and
+flaps up and 65 mph with them down.
+   Remember that if the aircraft is too close to the ground, the consequent
+loss of altitude will cause a crash.
+
+Straight & Level Flight:
+Straight and level flight is achieved with the wings horizontal and the VSI
+at zero. Level flight is achieved by adjusting the attitude of the aircraft
+first, and when level, adjusting the speed using the throttle. Practise
+flying at various speeds viewing the instrument panel, then switch to the
+cockpit view and note the position of the actual horizon. As power is
+increased, the nose of the Spitfire will tend to rise; with a reduction of
+power it will drop. This can be compensated for with the joystick.
+   Zooming around at maximum power, however tempting, is not recommended if
+you want to succeed as a Spitfire pilot. The optimum cruising speed is
+approximately 200 mph, but check this out. Remember, there is only a limited
+amount of fuel for each sortie.
+
+Diving:
+You may find yourself in a full power vertical dive during aerobatics or
+combat, and pulling back on the joystick will have no effect. Reduce power
+and you will find that control will return to the joystick.
+
+Turns:
+The direction of flight can be changed by banking the aircraft with the
+joystick. The Spitfire will remain at a fixed angle of bank when the
+joystick is released, and the rate at which the aircraft turns is dependent
+on the angle of the bank. The turn can also be tightened by using the
+appropriate rudder at the same time. The nose tends to drop in a turn; this
+can be corrected by easing the joystick back slightly.
+   The aircraft can be returned to level flight by applying the opposite
+joystick movement. At first, you may find there is a tendency to apply too
+much opposite joystick and the aircraft will end up banked in the opposite
+direction. It is vital during combat to learn to anticipate the movement
+of the aircraft and small repeated movements of the joystick are far more
+effective than one large movement.
+   The direction of the aircraft can also be changed in level flight by
+using the rudder alone. However, as the wings are level, this also has the
+adverse effect of skidding the aircraft sideways in the opposite direction.
+Nevertheless, careful use of the rudder alone can be helpful in certain
+situations, particularly during an approach to a landing.
+
+Slip:
+It is possible for the Spitfire to slip sideways and lose height whilst
+maintaining a constant heading. To check out this feature, fly the Spitfire
+at a safe height while viewing the instrument panel. Put the Spitfire into
+a left turn, then apply right rudder until the compass stops moving. If you
+look at the slip and turn indicator, you will see that the turn needle is
+in the neutral position and the slip needle is to the left.
+
+Landing:
+The recommended procedure for landing the Spitfire was to start the approach
+by reducing speed to 140 mph and lowering the undercarriage and flaps. The
+final part of the approach was made at a speed of 90 mph, descending at
+1,000 feet per minute. Just before the landing, the joystick was eased back
+to bring the aircraft level, and the throttle reduced.
+   But, as in most things, the practice is rather more difficult than the
+theory, and landing is one of the trickiest parts in flying the Spitfire.
+
+There are three main principles to stick to:
+--------------------------------------------
+1.  Achieve a speed of 90-100 mph with a constant rate of descent.
+2.  Position the Spitfire on the approach path to the runway.
+3.  Reach the beginning of the runway at a height just above zero.
+
+Try the following exercises to develop your landing skills:
+Climb to 5,000 feet and cruise at 200 mph. Reduce power and hence speed.
+(Raising the nose slightly will drop your speed quickly.) Lower the
+undercarriage and flaps. When the speed drops to 100 mph, adjust the
+throttle and nose attitude so that constant speed is maintained and the VSI
+reads 1,000 feet per minute. The power setting should be around 600 rpm.
+Note the position of the horizon against the cockpit. Level out at a
+predetermined height and maintain speed and altitude. If you find difficulty
+in raising the nose despite pulling back on the joystick, then a quick
+burst of power will help.
+   The next stage is to practice flying the Spitfire so that you are lined
+up on the runway and flying over it at a predetermined height. Approach the
+runway from a distance so that you have plenty of time to alter your line of
+approach. As you gain experience, you will learn to use the ground objects
+as reference points to turn into the approach. There are no wind effects in
+this program to worry about. The accepted practice in landing was to fly
+parallel to the runway in the opposite direction to your final approach.
+You can then turn through 180 degrees and adjust your position so that you
+are lined up for the final approach. You will find that very gentle use of
+the rudder will assist in achieving the correct line.
+   The final stage of landing is a combination of the skills previously
+gained so that you reach ground level at a straight and level attitude, with
+a low flying speed.
+   You will find that in the early stages, the program is forgiving of
+errors in landing. However, as your experience and performance records
+builds up, your skill must increase accordingly or you may crash when
+landing.
+   You can land away from runways, and take off again, but your experience
+and additional flying hours are not logged unless you land on a runway.
+   It is assumed in this simulation that there is a level of haze in the
+sky and ground detail disappears above 3,000 feet.
+
+Maps:
+As an exercise in navigation, you may find it useful to fly over the areas
+and draw the maps, entering the relevant distances and bearings between
+objects. After combat, this information could be critical in getting back
+safely.
+
+Combat
+------
+The procedure for entering combat mode has already been explained.
+   It is important, however, to understand something of the air combat
+techniques that were relevant in 1940.
+
+There were four golden rules in air combat:
+1_______________Climb quickly to give yourself a height advantage in attack.
+                This enabled the pilot to climb away after an attack, as the
+                speed gained in diving could be translated into momentum
+                to regain height.
+2_______________Never fly straight and level in the combat zone for more than
+                a few seconds - weave about as much as possible. This
+                increased the areas of the sky observed and made the Spitfire
+                a moving rather than a static target. The key was to watch
+                your mirror constantly.
+3_______________In reality, attacks usually came from the rear and at an
+                angle. To evade these, it was necessary to turn as sharply
+                as possible towards the direction of attack, increasing speed
+                if possible. Turning in the opposite direction would place
+                the defender in a stationary position in relation to the
+                attacker.
+                More often than not, air combat ended up as a dog-fight with
+                two aircraft trying to out-turn each other in ever-tightening
+                circles, inevitably reducing height. Maintaining accurate
+                turns was therefore a vital factor.
+4_______________Another method of escaping attack was to drive away. In 1940,
+                this was an option open to the enemy fighters but not to the
+                Spitfire. In the Spitfire, pushing the nose forward caused
+                the engine to cut (under negative G) and valuable seconds
+                were lost, whereas enemy fighters did not suffer this
+                problem. This is the reason why films of the period will
+                show Spitfires rolling on their backs before diving (hence
+                maintaining positive G). Such problems do not occur in this
+                program.
+
+Simulation Combat:
+In Spitfire 40, the enemy appear in different colours; each colour identifies
+different speeds and skills. They will also appear in different positions,
+flying at a variety of speeds. Some may be approaching, and some flying away;
+you will have to vary your tactics accordingly.
+   The key rules of air combat have been built into the simulation.
+   If you are under attack from behind, the enemy aircraft will appear in the
+mirror. Try to increase speed to escape and turn as sharply as possible. Use
+your rudder to induce slip or skid.
+   If you lose contact with the enemy during combat, get back to the height
+of the original contact and check the map. In keeping with one of the key
+rules, a climbing turn is preferable in regaining height.
+   There is a much higher chance of hitting an enemy aircraft the closer you
+are to it.
+   If you manage to shoot some or all of the enemy aircraft down, you can
+return and, on landing safely, save your latest status.
+
+Aerobatics:
+A number of interesting aerobatic manoeuvres can be carried out on the
+Spitfire, some of which could be of considerable assistance in combat. For
+example:
+
+Loop:
+At a speed of over 250 mph and full power, ease the joystick back gently.
+As you invert, reduce power and continue easing the joystick back until you
+are flying straight and level. Reapply power to come out of the loop.
+
+Loop with Roll Off the Top:
+Enter the manoeuvre as for a loop. When you are inverted at the top of the
+climb, roll the Spitfire left or right until you are level. Use the joystick
+to keep the nose at a fixed position on the horizon as you roll out. You can
+use this manoeuvre to escape an enemy, gain height and reverse your
+direction.
+
+Roll:
+Raise the Spitfire's nose slightly above the horizon. Apply left or right
+joystick. Keep rolling until the Spitfire is again straight and level.
+   Practise using the joystick to roll the plane whilst keeping the nose
+pointing at a fixed part of the scenery. Applying opposite rudder assists in
+keeping a constant heading.
+
+Split S:
+Roll over until the Spitfire is inverted. Then pull the joystick back until
+the horizon appears and you are flying level. You will have lost height and
+reversed your direction.
+
+The Theory of Flight
+--------------------
+This complex subject cannot be dealt with in a few words but it is necessary
+that you should understand the basic principles so that you may be better
+able to fly this simulation correctly.
+   Aircraft designers shape the top of a wing like the back of a spoon, so
+thaty air passing under a wing is slowed and pushed down as it hits the
+underside. This is the opposite of what is happening above the wing, so the
+pressure rises, pushing the wing up. With suction above and pressure below,
+lift is created. When this lifting force is greater than the weight of the
+aircraft, it will leave the ground. Lift and weight and only two of the
+forces that act upon the aircraft: the others are thrust and drag. In order
+to accelerate to a speed at which lift can overcome weight, a powered
+aircraft needs an engine to provide thrust. Just as lift needs to overcome
+weight, thrust has to overcome the resistance of the air to the aircraft
+moving through it. This force is called drag and it can be reduced by
+streamlining the shape of the aircraft or increased by spoiling the shape
+with the undercarriage and flaps.
+   These are the basic facts about the theory of flight for all powered
+aeroplanes. In addition, the most important criteria for a fighter such as
+the Spitfire are: manoeuverability, speed and instability.
+   Speed and manoeuverability are obvious needs for such an aircraft, but
+instability requires some explanation. Stability in an agile fighter would
+spell disaster because, when attacked out of the blue, the fighter pilot
+needs his aircraft to react immediately. So the designers built this
+instability into the plane; it's harder to keep them straight and level
+than to throw them all around the sky.
+   If you bear this in mind when playing Spitfire '40, you will understand
+better why things seem difficult at first. With a little practice, you too
+will be able to complete all the complex manoeuvres for which the Spitfire is
+justly famous.
+
+Historical Background
+---------------------
+The Supermarine Spitfire is, perhaps, the most famous aeroplane ever built -
+both a legend in its own time and a most beautiful machine. But your chance
+to 'fly' this tremendous machine is only a part of the whole story. Concieved
+by R J Mitchell in 1925, the Spitfire was far in advance of the technology
+then available. It was not until 1936, when Rolls Royce developed the Merlin
+engine and a second World War was feared, that the impetus was there to turn
+the idea into a prototype aircraft.
+   The first flight was in March 1936, revealing a revolutionary aircraft
+design with a top speed of 350 mph and superb manoeuverability, two factors
+which are the crux of all fighter designs.
+   By the outbreak of the Second World War, a total of 2,160 Spitfires were
+on order and on October 16 the first combat occurred over Scotland. Then, in
+May 1940, the Germans pushed strongly towards the Low Countries and France,
+and the RAF retreated further until the final withdrawl from Dunkirk. Britain
+was alone, facing the most successful fighting machine since the Roman
+Empire across just 21 miles of water.
+   Hitler was well aware of the importance of superiority in the air. He was
+convinced by the Chief of the Luftwaffe, Hermann Goering, that his pilots and
+machines would soon gain a decisive victory over the Royal Air Force which
+the Luftwaffe outnumbered three to one.
+   The average age of a wartime Spitfire pilot was twenty, and some went to
+operational squadrons with as little as ten flying hours to their credit.
+Despite this, the Battle of Britain was won by three means: technology,
+spirit and, paradoxically, mistakes.
+   The advanced technology of the Spitfire enabled the RAF to arrest attacks
+- radar assisted in accurate interceptions being made. The spirit of the
+young pilots is legendary. German mistakes were the result of bad
+intelligence reports and an underestimation of the British resolve. Once the
+Germans altered their tactics to bombing civilian targets in the Blitz, the
+Battle was won.
+   The Spitfire continued as a front-line fighter in the RAF until the
+advent of jet propelled aircraft. Over 20,000 were built, and quite a number
+are still flown today.
+   THE LEGEND OF THE SPITFIRE WILL LIVE FOREVER.
+
+Acknowledgements:
+The publishers of this program would like to thank Micheal A Fopp and the
+Battle of Britain Museum for assistance and advice during the preparation of
+"Spitfire 40".
+   There are three Spitfires on display at the Royal Air Force Museum,
+Hendon, including the earliest surviving Mk I aircraft and the post-war Mk 24
+version. The Battle of Britain Museum, also at Hendon, tells the whole story
+of this famous battle, around which this program is written.
+
+Numerous books have been consulted and the following are of particular
+interest for those wishing to learn more:
+* Flight Briefing for Pilots - Vol 1 by N Birch & A Branson Publisher: Pitman
+* Spitfire: A Test Pilot's Story by Jeffrey Quill Publisher: John Murray
+* The Spitfire Story by Alfred Price Publisher: Jane's
+* Fighter: The True Story of the Battle of Britain by Len Deighton Publisher:
+  Johnathan Cape
+* Fighter Pilot Tactics by M Spick Publisher: Patrick Stephens
+* Pilot's Notes - Spitfire IIA Air Publications HMSO Available through Air
+  Data Publications, St Annes-on-Sea, Lancs.
+
+COMMENTS : "An excellent simulation which should appeal to arcade players too".
+RATING : 90% (CRASH #28, March 1986)

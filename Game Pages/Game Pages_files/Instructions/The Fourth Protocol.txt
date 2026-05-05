@@ -1,0 +1,666 @@
+INSTRUCTIONS FOR THE FOURTH PROTOCOL: THE GAME
+Document produced by rstuart@ukonline.co.uk
+==============================================
+
+From the packaging:
+
+FREDERICK FORSYTH - THE FOURTH PROTOCOL
+* created by a large professional team of games designers, graphic artists,
+  games programmers and editors
+* unique use of icon-driven graphics makes for user friendly game, under the
+  players' complete control
+* strong, concurrent and multidimensional plot lines give an accurate
+  description of life in the intelligence networks
+* real time element puts the player under constant pressure
+
+A software mega-adventure, based in the chilling world of counterespionage,
+from one of the world's greatest living fiction writers...
+
+Hatched in a remote dacha in the forest outside Moscow, Plan Aurora is
+executed with relentless brilliance and skill by a hand-picked team. A crack
+Soviet agent, placed under cover in Britain, begins to assemble the pieces
+of a jigsaw of devastation. Working blind on the faintest of clues, MI5
+investigator John Preston leads an operation of the greatest urgency, racing
+against an unknown deadline.
+
+In THE FOURTH PROTOCOL: The Game, you are John Preston. Your aim is to piece
+together the jigsaw, uncover the plot, prevent the breaching of the Fourth
+Protocol, and stop Plan Aurora. In your task, you are able to access the
+on-line resources of CenCom, MI5's central communications computer, and use
+the services in the field of both MI5 and the intelligence network of
+friendly nations. But too many wrong decisions and moves will lower Preston's
+prestige in the service and valuable field support will be withdrawn.
+
+All three episodes of THE FOURTH PROTOCOL: The Game must be completed,
+against the deadline, before Plan Aurora is finally thwarted.
+
+Internal booklet "User Guide to THE FOURTH PROTOCOL: THE GAME":
+
+(c) Frederick Forsyth 1984, 1985
+Game design (c) John Lambshead and Gordon Paterson, 1985
+Programming (c) Electronic Pencil Company Ltd, 1985
+Music (c) David Dunn, 1985
+
+Published by Hutchinson Computer Publishing Ltd,
+17-21 Conway Street, London W1P 6JD
+Manufactured in Great Britain by Crosprint Ltd.
+
+All rights reserved. The contents of this package are copyright and may not
+be duplicated in any form by mechanical, lithographic, photographic,
+electronic or other means.
+
+THE FOURTH PROTOCOL: The Game (c) Hutchinson Computer Publishing Ltd
+The Electronic Pencil Company comprises Rupert Bowater and Benni Notarianni.
+Programming, graphics and icon system development by EPC.
+
+Electronics Pencil Company would like to acknowledge the following:
+John Gibbons - programming C64 third load
+Dave Jones - programming Spectrum third load
+Ray Owen - graphics Spectrum third load
+Andrew Glaister - program conversion Spectrum loads one and two
+Finally, a special thanks to Paul Norris
+
+Users' guide to THE FOURTH PROTOCOL: The Game
+
+The Plot
+In a remote dacha at Usovo outside Moscow, the General Secretary of the
+Central Committee of the Soviet Union and British traitor, Kim Philby, plot
+the most audacious offensive of the Cold War - Plan Aurora.
+
+The Aim
+To destabilise a vital nation of the Western Alliance, forcing the
+disintegration of NATO and allowing a Soviet take-over of Western Europe.
+
+The Method
+The Fourth Protocol is to be breached by smuggling a nuclear device into the
+United Kingdom and exploding it just before the 1987 General Election. A KGB
+disinformation programme will ensure that the nuclear disaster is blamed on
+an American military installation in the UK.
+
+The Result
+The election of a hard left government committed to withdrawal from NATO and
+the establishment of a totalitarian state in the UK.
+
+Your Role
+You are John Preston, MI5 investigator. You must uncover and stop Plan
+Aurora. But remember, time is short and the day of destruction looms.
+
+The Fourth Protocol
+On 1 July 1968, the Nuclear Non-Proliferation Treaty was signed by the (then)
+three nuclear powers - Britain, the USA and the USSR. Publicly, the treaty
+forbade any of the three nations to pass on nuclear weapons technology to a
+non-signatory nation. In addition, there were four secret  protocols to the
+Treaty. The Fourth forbade any signatory country to introduce on to another's
+territory a nuclear device in assembled or unassembled form by covert means
+for detonation in, say, a rented house or flat in the heart of a city. In
+nearly twenty years no nation has dared to break the Fourth Protocol - until
+now.
+
+The Fourth Protocol: The Game
+There are three independent programs in this game - The NATO Documents, The
+Bomb and The SAS Assault. Although each game load is separate, secret codes
+are given to the player when programs one and two are successfully solved.
+These code words allow entry to the next part of the overall game. So the
+program must be solved in order.
+
+The NATO Documents (Game 1) - the main Cencom menu
+(A guide to the screen icons in order anti-clockwise from top left)
+
+Cencom Filing System - holds players' files and some of its own!
+Telephone - to receive incoming calls (it will ring), and to dial out
+Sitreps - situation reports come in here from the 'watchers'
+Reoprts
+Memos
+Calendar - will automatically turn as game progresses. The player can advance
+  this date if desired.
+Assessment - the players' progress in the game and prestige in MI5 is shown
+  here.
+Utilities - saving games, loading previous ones etc.
+Surveillance - for assigning/recalling watchers to and from a suspect
+
+Commodore 64
+The hand is moved by the space bar (clockwise) and the up/down cursor key
+(anti-clockwise).
+
+Spectrum
+The hand is moved clockwise by any small key on the left hand side of the
+keyboard and anti-clockwise by any small key on the right.
+
+Game One: THE NATO DOCUMENTS
+The first game load is called The NATO Documents. Even as you, John Preston,
+take up your post as the new head of Section CI(A), a burglary is taking
+place at a flat somewhere in England. The burglar steals the famous Glen
+Diamonds, but he also finds some secret NATO documents. He alerts the MOD
+Mandarins by sending them the documents anonymously. The Paragon Committee
+decides that John Preston's most important task is to find out who is leaking
+secrets, to whom they are being leaked and why. However, you will not be able
+to devote your time exclusively to this task, since many other events will be
+unfolding in the intelligence community which will demand your attention.
+  The NATO Documents is an adventure/strategy game which uses a unique icon
+driven control system. This makes the game very user-friendly, and suitable
+for both beginners and old hands of sophisticated computer games. The heart
+of the game is the Cencom display which allows access to memos, reports,
+situation reports ('sitreps'), files, telephone calls, surveillance,
+assessment and utilities. It also shows the date. A channel is chosen by
+moving the 'hand' on the space bar and up/down cursor keys (C64)/any left or
+right hand side key (Spectrum) over the relevant icon and pressing return/
+enter. In most cases, this will call up a sub-menu of options.
+  Memos/Reports/Sitreps are 'information-in' channels. When information
+showing on the screen is accessed, the player is given the opportunity by
+using a sub-menu to 'read' the latest information, 'delete' from the screen,
+or 'file' it to make a permanent copy in the Cencom filing system. (The
+information will stay on the screen until it is deleted. New items will stack
+underneath it.) The Cencom icon takes the player back to the main Cencom
+menu.
+  The telephone will ring when someone is trying to contact you. If you do
+not answer promptly by accessing the 'telephone-in' icon, your caller may
+ring off. The telephone menu also has a 'hold call' icon which freezes the
+present call allowing you to peruse some other part of Cencom without losing
+the message. 'Telephone-out' allows the player to make calls - but you have
+to know which number you want! Somewhere in Cencom you will find your
+telephone number file.
+  Accessing files will allow you to 'read' a file in Cencom's memory (a file
+held at Blenheim can be released to Cencom by ringing Blenheim, but only by
+giving the correct code off the one time pads). You can 'catalogue' only
+your own personal files or 'delete' any of them.
+  The 'surveillance' icon will allow you to allocate watchers to a specific
+target and also to withdraw agents from a case.
+  The 'utility' icon gives access to an icon-driven menu which allows you to
+save the game, load an old game, continue the present game, or pause the
+game.
+  The 'assessment' icon shows your prestige rating at MI5 and your progress
+in solving the game. Your prestige will change with your fortunes and it has
+a tangible effect on the resources MI5 is prepared to allocate you. Preston's
+Progress tells you how much of the game you have solved.
+  Watchers are very important, since this is your main method for acquiring
+information out in the field. Watchers are always targetted on a person, and
+a surname is always used. For example, if you wanted to get field information
+on yourself, you would target watchers on PRESTON.
+
+Game Two: THE BOMB
+In The Bomb you are directly on the trail of the nuclear device that has been
+smuggled into the country. Finding this is now the most important development
+in your career. But be careful! Plan Aurora involves tricky side issues. The
+Bomb is again an icon-driven adventure, but this time Preston is mostly out
+of his office.
+  The main screen displays seven icons. These are, reading anti-clockwise from
+the top left:
+
+1 Assessment
+This is similar to Game One, except that now there is only one rating - how
+you have progressed in your search for the nuke.
+
+2 Manipulate
+Sub-menu (i)   take an object
+         (ii)  get rid of an object
+         (iii) use an object in your possession
+         (iv)  return to main menu
+
+3 Communicate
+Sub-menu (i)   talk to someone
+         (ii)  use a telephone
+         (iii) return to main menu
+
+4 Move
+Sub-menu (i)   compass directions (with further sub-menu)
+         (ii)  miscellaneous (e.g. enter/leave, take a taxi, etc.)
+         (iii) return to main menu
+
+5 Wait
+This is similar to the calendar in Game One and enables the player to move
+the game along when he or she wants to remain passive (e.g. when waiting for
+a train). Time passes in the game mainly in response to the player's input.
+
+6 Look
+Sub-menu (i)   look around
+         (ii)  examine (either objects in a room or in your possession)
+         (iii) inventory (list objects you are carrying)
+         (iv)  return to main screen
+
+7 Utilities
+This operates exactly as the icon in Game One.
+
+Movement of the 'hand' is as before. There are in addition two small text
+windows on the screen giving details of the player's location. The main icon
+menu remains consistent irrespective of your options. Options available to
+you will be highlighted.
+
+Game Three: THE SAS ASSAULT
+
+Commodore 64 version
+You have located the bomb and broken into the building where it is hidden.
+You must defuse the device, using information you have picked up in the
+previous two games, while the battle between your SAS troops and the KGB
+agents rages around you. If the KGB agents discover you with the bomb, they
+will naturally try to hinder your progress! You are armed and the joystick
+(or cursor keys) will move the cross-hair of your gun around the room. You
+can fire by pressing the fire button or the control (CTRL) key. You type in
+your instructions for defusing the bomb in the form VERB, VERB-NOUN or VERB-
+ADJECTIVE-NOUNS. For example you might type 'open cabinet' or 'destroy Geiger
+counter'.
+
+Spectrum version
+You are now located in the building where the bomb is hidden. Time is short.
+You must arm the six SAS troops under your command and direct the assault,
+eliminating the KGB agents in the building. If you are successful in this you
+must defuse the bomb, making use of information uncovered in the previous two
+games. You will receive more instructions on loading the tape. Above all,
+remember that the time ticks away!
+
+
+Internal booklet "MI5 INVESTIGATORS HANDBOOK":
+
+FOR YOUR EYES ONLY
+complete intelligence service glossary and 3 "one time" decoding pads
+
+Aldermaston - Britain's nuclear bomb factory and atomic research
+  establishment.
+Apostles - An elite left-wing undergraduates club at Cambridge University in
+  the thirties. A number of members went on to work in intelligence, some
+  became traitors.
+ASIO (Australian Security Intelligence Organisation) - Responsible for
+  counterespionage.
+ASIS (Australian Secret Intelligence Service) - Responsible for intelligence
+  gathering.
+ASLEF (Associated Society of Locomotive Engineers & Firemen) - The train
+  drivers' union.
+
+Barbican - A new sprawling civic and cultural centre in London.
+Beast - Nickname of General Van Der Berg who was head of BOSS.
+Blenheim - Building containing the vast archives of MI5. Accessible on a
+  phone link via CENCOM.
+BOSS (Bureau of State Security) - The former South African security agency
+  now replaced by NIS.
+Building Security - A Cabinet Office section charged with upgrading security
+  in sensitive Government properties.
+
+'C' - Nickname for the Chief of MI6. The first Chief was Mansfield-Cummings
+  hence 'C' (also hence 'M' in the James Bond stories).
+CI(A) - MI5 section responsible for the security of Government buildings.
+Cabinet - The Prime Minister and her senior ministers of the crown, i.e. the
+  committee that runs the UK.
+Cabinet Office - Government department responsible for working directly for
+  the Cabinet.
+Cabinet Secretary - The senior civil servant of the UK. The permanent
+  non-political head of the Cabinet Office.
+Capstick, Bertie - Brigadier in charge of MoD security.
+CENCOM (Central Communications Computer) - Computer at MI5.
+Charles Street - The headquarters of MI5 in Charles St.
+Chequers - Official country residence of the PM in Buckinghamshire.
+Chief - The head of MI6 has the title 'Chief' not DG. Also used as a slang
+  word indicating a superior officer.
+Chummy - Police jargon for a suspect. Also used by the intelligence services.
+CIA (Central Intelligence Agency) - American organisation responsible for
+  gathering intelligence abroad.
+CID (Criminal Investigation Department) - The plain-clothes police.
+Civil and Public Servant Association - Recognised Trade Union for the
+  clerical grades in the Civil Service.
+Clearway - A fast road, where no stopping is allowed, but not up to
+  motorway status.
+COBRA (Cabinet Office Briefing Room) - A safe room two floors below
+  Whitehall.
+Codes - During WWII British intelligence agents used a poem codes but both
+  '5' and '6' have now switched to one time pads which are now de rigueur in
+  intelligence circles.
+Computer Security - A Cabinet Office section charged with preventing the KGB
+  or, more importantly, hackers from breaking into sensitive computer files.
+Coordinator of Intelligence - Chairman of the JIC.
+Cork Street - An MI5 building in Cork St.
+
+D6 - Legal advice section for the Home Office.
+Defect - Intelligence jargon for an agent changing sides or shifting
+  allegiance. Also called 'turning' an agent.
+Department of the Environment (DoE) - Large Government department responsible
+  for town planning, buildings, parks and ancient monuments, etc.
+Department of Trade (DoT) - Government department responsible for trade,
+  imports and exports, etc.
+Deputy Director General (DDG) - A rank in both MI5 and MI6 for heads of
+  sections.
+DI (Detective Inspector) - A rank in the CID.
+Director General (DG) - The rank of the head of the MI5.
+
+Economic and Trade Security Section - Section of the DoT concerned with the
+  control of sales of sensitive commercial products to foreign powers.
+EEC (European Economic Community) - A European trading partnership of eleven
+  nations.
+Emergency Telephone Number - 999 is dialled to summon the emergency services:
+  fire, police, ambulance.
+Establishments (Estabs) - Personnel and administrative section of a
+  Government department.
+
+False Flag - Where an agent is recruited to work for a specific country which
+  he/she favours but is in fact duped since the information is passed to a
+  third power which the agent does not support. In other words, the recruiter
+  is operating under a 'false flag'.
+FBI (Federal Bureau of Investigation) - American national police force which
+  has additional responsibilities for counter-intelligence.
+'5' (Five) - Intelligence nickname for MI5.
+Flannery, Sir Martin - Cabinet Secretary.
+Flat-foot - A policeman.
+Foreign Office (FO) - (More correctly Foreign & Commonwealth Office.)
+  Government department responsible for foreign affairs, diplomacy, embassies
+  and MI6.
+Forsyth, Frederick - Born in 1938, England. Highly successful author of
+  political thrillers. Noted for the accuracy of his information. Possibly
+  has contacts within the intelligence community.
+Fox, Allen - Senior CIA liaison officer in London.
+Freedom of Information Act - Britain doesn't have one.
+Friends - MI5 jargon for MI5 personnel.
+Funnies - Civil service jargon for the intelligence service and all
+  pertaining to them.
+
+Garden Girls - The secretaries at No. 10 Downing Street (who work in a room
+  facing a garden).
+GCHQ (Government Communication Headquarters) - The electronic espionage centre
+  of the UK, based at Cheltenham, Gloucestershire.
+Glen Diamonds - Four diamonds brought back by the Earl of Margate from South
+  Africa in 1905. They were stolen along with the NATO documents.
+Gordon Street - An MI5 building in Gordon St. Preston works here.
+Grades in the Civil Service - The mainstream administrative Civil Service has
+  the following grade structure:
+  Clerical grades: Clerical Assistant (CA), Clerical Officer (CO).
+  Executive grades: Executive Officer (EO), Higher EO (HEO), Senior EO (SEO),
+    Principle (P), Senior Principle (SP).
+  Senior Grades: Assistant Secretary (AS), Under Secretary (US), Deputy
+    Secretary (DS), Permanent Secretary (PS), Cabinet Secretary (CS).
+  In addition there are a wide variety of 'specialist' grades and at the time
+  of writing (1987) the whole system is under reorganisation.
+Gun Calibres - A variety of calibres (measures in parts of an inch) are used
+  for pistols by the security services. The larger the calibre the greater
+  the stopping power of the weapon but the more difficult it is to control.
+
+Hacker - A home computer enthusiast who specialises in breaking into other
+  people's home computers over the phone lines via a modem.
+Harcourt-Smith, Brian - DDG of MI5. An ambitious and rather spiteful man.
+Health and Safety Committees - All Government departments have H&S committees
+  to monitor working conditions.
+Hemmings, Sir Bernard - DG of MI5. A very sick man, he has delegated much of
+  his authority to Harcourt-Smith.
+Hollis, Sir Roger - DG of MI5 until 1985. A 1981 statement by the PM in the
+  house of Commons stated that there was no evidence that he was a Soviet
+  agent.
+Home Office - Government department covering domestic affairs including
+  policing and MI5.
+Home Secretary - Minister in charge of the Home Office.
+Houses of Parliament - Seat of Government in the UK.
+
+Illegal - Spy using false credentials to operate illegally in a foreign
+  country.
+Interpol (International Police) - A communications network between European
+  police forces. It has no field agents.
+Ironmongers - A shop selling hardware.
+Irvine, Sir Nigel - Chief of MI6.
+
+Joe - Intelligence jargon for a suspect.
+JIC (Joint Intelligence Committee) - Large committee dealing with security
+  matters which include representatives from Australia, Canada, New Zealand
+  and the USA.
+Jones, Sir Peregrine - A senior manager in MoD.
+JPSMoDN (Joint Planning Staffs Ministry of Defence) - High-level naval
+  strategy planning section in MoD.
+Juggernaut - A large articulated lorry.
+
+K7 - Liaison office between MI5 (K branch) and MI6.
+KGB - Committee for State Security. Although this organisation carries out
+  the same duties as MI5, MI6 and Special Branch, it has far greater powers
+  and many other tasks to secure the privileges of the Soviet elite. It has
+  200,000 men under arms acting mainly as border and internal security
+  guards.
+
+Leconfield House - The old headquarters of MI5.
+
+Make - When a suspected illegal is spotted he is photographed and the results
+  compared with shots of known enemy agents in vast archives to get a 'make',
+  i.e. an identification. The USA and the USSR have giant computers to assist
+  in this task. Britain uses a more efficient system - an elderly lady called
+  Blodwyn.
+Mandarin - Civil Service jargon for one of the senior grades.
+Marlborough Street - An MI5 building in Marlborough St.
+Medical Security - A small section which advises the intelligence service on
+  medical matters, mainly psychology, and which runs a small pathology
+  laboratory.
+Member of Parliament (MP) - Person elected to the House of Commons.
+MI5 (Military Intelligence 5) - The counter-espionage department of the UK.
+  It has the following subdepartments:
+
+  A branch responsible for policy, data processing, legal advice and
+    watchers.
+  B branch responsible for recruitment, personnel, vetting and promotions.
+  C branch responsible for security in the Civil Service and military
+    services.
+  K branch responsible for countering Soviet Penetration of the UK.
+  E branch responsible for countering international communism.
+  F branch responsible for observing extreme political groups of both left
+    and right.
+
+Minister - Politician administering department of state; appointed by the
+  Prime Minister.
+Ministry of Defence (MoD) - Government department which controls the armed
+  forces and all pertaining to them.
+
+NATO - Military defensive alliance of countries bordering the North Atlantic
+  and Northern Mediterranean shore. Specifically set up to check Soviet
+  expansion.
+NFA (No Further Action) - Stamp on the front of a file at MI5 to indicate
+  that an investigation is closed.
+NIS (National Intelligence Service) - The South African intelligence service
+  which succeeded BOSS.
+No. 10 - Number 10 Downing Street. The Prime Minister's official residence
+  and office in London.
+NZSI (New Zealand Secret Intelligence Service) - The New Zealand espionage
+  agency.
+
+Official Secrets Act - A law in Britain which loosely states that everything
+  is secret unless the Government specifically states otherwise. Cynics say
+  that it is used more to protect officials from the consequences of their
+  blunders than to protect secrets.
+Old Boy Network - Informal network of personal contacts of those who attended
+  the elite public schools (expensive private schools) and Oxford and
+  Cambridge universities. Many senior people in British society could be
+  described as belonging to the 'network' or 'magic circle'.
+One Time Pad - One time pads are now in vogue as an unbreakable code in every
+  intelligence service in the world. In principle they are simple, an array
+  of letters which can be used to turn numbers into sentences. They are
+  unbreakable because each array is only used for one message. The sender
+  and receiver both have a copy of the same array (in this game the arrays
+  are used over and over again).
+Our Friend - Intelligence jargon for a suspect.
+
+Paragon - Subcommittees of the JIC concerned with tracing the source of the
+  lost documents.
+Pienaar, Henry - The General in charge of NIS.
+Plumb, Sir Anthony - Chairman of JIC and the Prime Minister's personal
+  coordinator of intelligence.
+Poem Code - In WWII British intelligence used poem codes as a way of
+  converting strings of numbers into letters, according to their position
+  in the poem. Each agent would have a personal poem either specially written
+  or a well known poem with certain changes or spelling 'errors' to confuse
+  code-crackers. Poem codes were replaced by one time pads which are less
+  easy to break because they are only used once. Nevertheless, it is usual
+  for MI5 agents to have personal poems which can be used where one time pads
+  would be clumsy or unnecessarily complicated.
+Polonium - A rare metal used in the triggers of nuclear weapons or in certain
+  medical treatments.
+Prime Minister (PM) - The leader of the party controlling the most votes in
+  the House of Commons and hence the person running the country.
+PSA (Property Service Agency) - The Government's estate agent, part of the
+  DoE.
+PTO (Professional Technical Officer) - One of the specialist grades in the
+  Civil Service.
+Pub (Public House) - An establishment licensed for the sale and consumption
+  of alcoholic beverages. In British society they are more than just bars as
+  they tend to be social centres.
+
+Safe House - An address used by an intelligence agency to hide and debrief
+  defectors, agents, etc. It is 'safe' because it is unknown to the
+  opposition.
+Saffron Walden Hotel - A hotel north of London with an excellent restaurant
+  much frequented by those in the electronics industry.
+Secret Documents - There are various levels of secrecy in the UK stamped on
+  Government papers. They are as follows: Confidential (everything),
+  Restricted Circulation, Secret, Top Secret and For Your Eyes Only.
+Secret Intelligence Service - MI6.
+Security Service - MI5.
+Sentinel House - The headquarters of MI6.
+Service, The - Civil Servants' jargon for their own particular department.
+SHAPE (Supreme Headquarters Allied Powers Europe) - NATO military HQ in
+  Europe.
+Sinclair C5 - An electrically powered tricycle. The latest bright idea of
+  Sir Clive Sinclair, inventor of the cheap home computer and designer of the
+  ubiquitous Spectrum.
+Sitrep (Situation Report) - Agents in the field such as watchers are
+  encouraged to send regular sitreps back to CENCOM.
+'6' (Six) - Intelligence nickname for MI6.
+Skinheads - A youth cult noted for shaven heads and associated with gang
+  violence.
+Special Branch (SB) - Police department dealing with security and political
+  matters. MI5 personnel have no powers of arrest so if they want a suspect
+  'picked up' it has to be carried out by Special Branch.
+StB - Czech espionage service. Largely under Soviet control this agency is
+  very useful to the Russians because Czechs have greater freedom of movement
+  in the UK than Soviet personnel.
+St James - Club frequented by senior Government officials.
+Strickland, Sir Patrick (Paddy) - A senior civil servant in the Foreign
+  Office.
+Subway - A pedestrian underpass under a busy road of leading down to a tube
+  station.
+Surete - French police organisation in charge of security.
+Sweden - In Sweden counter-espionage is the responsibility of the police.
+
+Thatcher, Margaret - Prime Minister of the UK.
+Toxin - Poison. The KGB have specialised in the use of toxins for murder.
+  Recently they have tended to use their Bulgarian stooges as middlemen.
+Tube - The underground train system in London, run by a separate authority
+  from British Rail.
+Turn - Defect.
+
+Umbrella - This innocuous British accessory is used by Bulgarian hit squads
+  to murder for the KGB.
+
+Veld - Open country in South Africa, neither cultivated nor true forest.
+Villers, Sir Herbert - A senior civil servant at the Home Office.
+
+Watchers - MI5 jargon for their surveillance agents. Normally six to a team,
+  four teams rotating every 24 hours.
+Weeding - Intelligence jargon for destroying files deemed obsolete or
+  irrelevant. Unfortunately, in British intelligence this job has often been
+  passed to enemy agents!
+Wise Man - After the Hollis affair it was decided that the DG of MI5 would
+  be appointed by outsiders rather than inherit the job in the fullness of
+  time in the usual service manner. The Wise Men include the Chairman of the
+  JIC, the Cabinet Secretary and senior civil servants from the Home Office
+  and MoD.
+
+MI5 "ONE TIME" DECODING PADS:
+In THE FOURTH PROTOCOL: The Game, a sequence of numbers will appear which
+give a secret code word. This word, crucial to the playing of the Game, can
+only be deciphered by using one of the following "one time pads" (see the
+relevant entry in the Handbook).
+
+ONE TIME DECODING PAD - 1 (S)(P)
+
+          2   3   4   5   6   7   8   9  10  11  12    
+  1   H   G   U   Q   R   A   X   J   M   C   W   P   I   13
+ 14   S   B   Y   T   F   K   Z   L   V   D   O   N   E   26
+ 27   J   E   R   A   P   G   D   I   B   T   H   N   O   39
+ 40   A   Z   I   E   S   F   C   U   O   L   Y   M   E   52
+ 53   O   A   P   H   N   C   B   R   J   O   Y   I   U   65
+ 66   M   W   D   T   K   X   G   S   V   E   U   L   F   78
+ 79   J   L   S   E   Y   K   C   U   N   T   D   R   M   91
+ 92   G   Z   V   B   X   P   O   F   W   H   Q   I   A   104
+105   L   V   G   S   N   R   B   X   I   W   H   T   A   117
+118   M   K   Z   D   U   C   O   J   Y   E   P   Q   F   130
+131   O   C   B   A   U   R   O   E   S   T   E   H   L   143
+144   I   A   O   Y   E   U   D   W   A   U   P   I   I   156
+157   U   J   S   M   V   K   X   B   Q   L   R   Y   A   169
+170   I   N   Z   W   F   O   G   T   P   H   E   C   D   182
+183   A   P   R   F   E   Q   M   V   W   C   G   O   U   195
+196   H   T   I   S   D   N   X   Z   K   B   Y   L   J   208
+209   E   U   O   G   A   U   F   M   N   B   A   E   S   221
+222   I   U   A   T   H   I   C   U   E   D   O   R   I   234
+235   C   I   Q   G   X   S   A   P   H   W   V   Z   N   247
+248   B   J   F   O   D   R   M   Y   U   E   T   L   K   260
+261   A   B   Q   P   L   X   K   W   O   V   J   R   Y   273
+274   C   S   H   Z   I   F   M   T   G   N   U   D   E   286
+287   C   Q   P   B   X   J   N   D   Y   L   U   E   V   299
+300   O   H   R   Z   I   W   S   F   G   K   T   M   A   312
+313   E   U   A   U   B   O   C   E   D   I   U   W   A   325
+326   R   N   V   E   L   O   A   M   I   S   O   T   I   338
+339   B   P   V   H   W   G   O   Z   Q   I   A   N   U   351
+352   E   Y   T   F   X   J   M   C   R   S   K   L   D   364
+365   W   M   G   V   O   B   R   W   H   K   A   T   U   377
+378   P   F   J   S   C   X   Q   I   L   D   Z   E   Y   390
+391   M   N   K   D   B   M   G   E   C   Y   T   Z   D   403
+404   P   S   N   B   W   S   E   W   G   V   P   T   Y   416
+
+ONE TIME DECODING PAD - 2 (S)(P)
+
+          2   3   4   5   6   7   8   9  10  11  12    
+  1   I   W   O   B   X   G   Y   K   Z   A   Q   P   J   13
+ 14   N   C   E   R   F   V   L   D   S   T   M   U   E   26
+ 27   B   O   I   H   N   U   Z   S   A   Y   G   M   T   39
+ 40   V   E   F   R   K   C   J   W   L   P   X   Q   D   52
+ 53   A   R   K   E   W   J   Y   D   Q   G   U   V   F   65
+ 66   Z   M   P   L   H   X   T   I   N   O   B   S   C   78
+ 79   H   O   N   T   I   B   Y   V   K   X   Z   A   U   91
+ 92   J   D   Q   C   P   L   F   W   E   R   M   G   S   104
+105   F   M   Q   A   V   D   L   U   Y   C   O   X   E   117
+118   Z   I   N   G   W   T   B   P   H   R   K   S   J   130
+131   H   U   L   B   T   I   K   S   R   C   Z   W   E   143
+144   V   J   M   D   Y   Q   G   N   X   A   O   P   F   156
+157   C   H   Q   P   Z   B   M   X   Y   R   D   I   G   169
+170   V   T   J   N   K   E   S   W   U   F   L   O   A   182
+183   L   Q   Y   R   F   M   H   S   C   T   O   Z   I   195
+196   W   D   V   E   U   N   G   X   P   J   A   K   B   208
+209   Z   E   M   D   S   V   G   P   N   K   A   Y   X   221
+222   C   J   F   L   O   H   T   I   U   B   R   W   Q   234
+235   O   A   F   Y   B   Z   L   C   J   T   Q   E   N   247
+248   H   P   X   G   U   M   I   K   W   D   V   S   R   260
+261   D   S   K   P   I   R   Z   Y   X   B   A   W   T   273
+274   F   L   C   E   V   Q   G   U   M   H   N   O   J   286
+287   P   D   R   I   X   U   A   H   Q   L   Z   V   B   299
+300   Y   E   W   J   S   T   F   M   N   G   K   O   C   312
+313   W   P   C   S   O   B   N   J   V   K   Y   Z   Q   325
+326   G   A   T   L   X   H   D   M   I   R   E   U   F   338
+339   J   G   Y   M   Z   C   R   Q   L   X   A   E   V   351
+352   K   T   O   W   B   D   N   H   S   F   P   U   I   364
+365   B   A   L   V   D   S   C   N   H   Z   G   W   M   377
+378   P   T   I   Y   O   X   E   R   Q   J   F   K   U   390
+391   E   S   D   Q   X   Z   I   P   Y   A   M   W   U   403
+404   F   L   V   G   C   J   N   R   O   T   B   K   H   416
+
+ONE TIME DECODING PAD - 3 (S)(P)
+
+          2   3   4   5   6   7   8   9  10  11  12    
+  1   B   R   Q   K   J   X   Y   Z   A   E   U   T   L   13
+ 14   S   C   F   P   M   V   G   D   N   H   O   W   I   26
+ 27   Q   G   N   C   R   K   T   W   E   J   Y   M   U   39
+ 40   Z   F   H   O   S   A   V   L   B   I   X   P   D   52
+ 53   A   P   F   J   O   C   I   U   E   X   Q   L   S   65
+ 66   V   B   Z   K   W   G   Y   R   D   T   M   H   N   78
+ 79   F   L   J   Q   I   P   X   A   Z   W   K   C   Y   91
+ 92   E   R   U   D   M   V   S   G   T   N   H   O   B   104
+105   X   E   A   D   K   R   H   Q   M   I   W   T   U   117
+118   Y   B   J   S   F   N   O   L   V   G   C   P   Z   130
+131   E   S   B   Q   A   Z   K   O   D   X   P   F   V   143
+144   L   R   H   Y   G   T   M   I   U   W   J   N   C   156
+157   L   S   I   N   C   V   H   Z   D   W   Q   M   A   169
+170   T   G   O   J   E   X   R   F   Y   B   U   P   K   182
+183   F   P   S   G   T   B   Z   M   C   K   R   N   U   195
+196   D   Y   H   L   V   A   W   O   I   Q   E   X   J   208
+209   C   P   B   K   S   F   R   O   E   Q   J   Z   I   221
+222   V   W   D   X   L   T   M   G   Y   U   A   N   H   234
+235   G   Q   R   I   W   F   L   Z   H   P   A   B   U   247
+248   Y   E   S   J   X   T   K   C   V   M   D   O   N   260
+261   I   G   Y   A   K   S   F   Z   J   B   V   O   P   273
+274   W   E   D   N   T   H   X   C   R   L   U   M   Q   286
+287   A   K   U   S   I   O   B   D   U   E   A   I   C   299
+300   E   N   Y   U   I   A   N   P   O   O   T   U   E   312
+313   N   L   V   E   K   G   J   M   Z   D   X   U   F   325
+326   W   O   H   Q   I   B   Y   S   A   R   T   C   P   338
+339   S   P   A   M   R   C   Z   B   E   K   V   N   G   351
+352   J   U   F   X   J   W   Q   D   O   Y   H   T   L   364
+365   D   Q   H   A   Y   G   W   O   P   B   V   J   T   377
+378   U   C   X   I   M   Z   E   K   R   L   N   S   F   390
+391   H   R   O   Q   A   X   J   U   B   N   D   W   P   403
+404   C   L   T   F   Y   I   S   E   Z   G   K   V   M   416

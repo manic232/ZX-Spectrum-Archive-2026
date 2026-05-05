@@ -1,0 +1,1603 @@
+                           Lancelot
+
+
+                      Setting the scene
+            PLUS A COMPLETE GUIDE FOR ADVENTURERS
+
+
+                           Contents
+
+Getting started ........................................... i
+Preface .................................................. ii
+Talking to Lancelot...................................... iii
+Hints.................................................... vii
+Official Secrets.......................................... ix
+Loading Instructions........................................x
+Background ............................................. xvii
+King Arthur and the
+ Knights of the Round Table ................................1
+
+-------------------------------------------------------------
+| Concept and game design: Pete Austin.                     |
+| Game program: Mike Austin.                                |
+| Story and final game text: Christina Erskine.             |
+| Remainder of this booklet: Pete Austin.                   |
+| Pictures: Joan Lamb, Neil Scrimgeour, Dicken Peeke,       |
+|  Nusarath Jahan.                                          |
+| Systems: Mike and Nick Austin, John Jones-Steele,         |
+|  Mike Bryant.                                             |
+| Transport to your Micro: Nick Austin and Mike Bryant.     |
+-------------------------------------------------------------
+
+
+-------------------------------------------------------------
+Getting started
+-------------------------------------------------------------
+
+If you have not played a Level 9 adventure before, please read
+all these instructions. If you are an experienced Level 9 adven-
+turer, skip to the preface and just read that.
+  Boot the disc or load the first cassette to start the game. If you
+don't know how to do this, see the loading instructions on Page
+x.
+  When the game prints "What now?" or ">", it is waiting for
+you to type a command. (The game also waits when it has more
+text to print than will fit on the screen at one time; read what's
+displayed and press either Shift or the Spacebar to continue.)
+  This game knows four types of commands:
+  Movement: Just type the direction you want to go: NORTH,
+NORTHEAST, EAST (and the other compass directions), IN,
+OUT, UP, DOWN or ACROSS. GO or RUN take you to a named
+place, for example GO TO CATHEDRAL, and FOLLOW is
+self-explanatory.
+  Actions: For example, LOOK, TAKE THE HARP, DROP IT,
+EXAMINE THE CROSS, WEAR THE HAT, DRINK THE WINE,
+or GIVE CLOTH TO SIR MELIOT.
+  System commands: EXITS, INVENTORY and SCORE give
+information; WORDS, PICTURES, BRIEF, VERBOSE, EXITS
+ON and EXITS OFF control what is output; UNDO takes you
+back a move; SAVE, RESTORE, RAM SAVE and RAM RE-
+STORE save your position or return to an earlier position, and
+QUIT stops the game. See the example game, on Page iv for
+more details of these commands.
+  Commands to others: Lancelot could command some people
+such as knights who were grateful to him for their freedom.
+Type their name followed by a command such as SIR
+GAWAIN, GO NORTH, TAKE EVERYTHING, THEN
+FOLLOW ME.
+  You can abbreviate commands such as SOUTH to S and
+SOUTHEAST to SE, and even type several commands on one
+line, like EAST, TAKE ALL, WEST. After typing a command
+(or commands) press the ENTER or RETURN key.
+
+                              i
+
+-------------------------------------------------------------
+Preface
+-------------------------------------------------------------
+
+Lancelot recreates the tales of Arthur and the Knights of the
+Round Table, as told in Sir Thomas Malory's Le Morte
+D'Arthur.
+  Parts 1 and 2 follow Lancelot's arrival at Camelot, his rise to
+become the best knight in the world, and the completion of the
+Round Table.
+  Part 3 then follows the Quest for the Holy Grail, the high
+point for Chivalry, in which the best knights came near to God,
+but which led to the destruction of the Round Table.
+
+Hints for part 1, Camelot
+
+* Lancelot must go to Camelot to be knighted by Arthur.
+* Next, he becomes the best knight by valorous deeds in
+Logris.
+* Finally, on his return, Lancelot must look to Guenever.
+
+Hints for part 2, Logris
+
+* Despite the Damosel Maledisant's manner, her quest is
+genuine.
+* You score points mainly for freeing all the captive knights,
+and Lancelot can command them.
+* Ensure Galahad can come to Camelot.
+
+Hints for part 3, The Quest for the Holy Grail
+
+* Remember that virtue is what is important, so avoid sins.
+* Galahad is the holiest knight.
+
+  If you are really stuck you can get a comprehensive free
+cluesheet with hundreds of hints, from Official Secrets (see
+Page ix ), or direct from Level 9 at PO Box 39, Weston-super-
+Mare, Avon BS24 9UR, England. You must enclose the clue
+token from the packaging and provide a large, stamped, self-
+addressed envelope (UK users), or four International Reply
+Coupons (overseas users).
+
+                              ii
+
+-------------------------------------------------------------
+Talking to the game
+-------------------------------------------------------------
+
+As you have seen, this game understands a lot of commands.
+The following list is only part of its vocabulary, but it gives an
+idea of what to try:
+  North, northeast, east (and other compass directions), up,
+down, in, out, across, climb, go, run, follow, again, attack,
+inventory, quit, save, restore, RAM save, RAM restore, undo,
+score, wait, shout, search, examine, blink, look, kneel, take,
+drop, wear, throw, give, fill, empty, open, unlock, close, eat,
+drink, light, press, wave, blow, exits, words, pictures, brief,
+verbose.
+  Many words can be abbreviated, for example: INVENTORY
+to INV.
+  The following example is not from the game but it illustrates
+how to play. The player's commands are in capitals, after each
+">" prompt, and any text in square brackets is a comment.
+
+  Lancelot woke suddenly. He had been dreaming of
+Guenever, and thought for a moment that it was she who had
+kissed him.
+> LOOK
+Lancelot was lying beside a fountain, in a glade of the Forest
+Sauvage. He could see a fair damosel.
+  The fair damosel took a step backwards and stood, peering
+timidly at Lancelot.
+> EXAMINE DAMOSEL
+She was Elaine, called at that time the Fair Maid of Astalot,
+daughter to Sir Bernard of Astalot, in whose castle Lancelot
+had recently tarried. She was holding a red sleeve.
+  Elaine cast a look of love unto Sir Lancelot and besought him
+to wear a token of hers at the jousts.
+> GO NORTH
+Elaine clutched at the bridle of Lancelot's horse and would not
+let him ride past. "Prithee, my Lord", she said, "Will you wear
+my token? Just tell me yeah or nay"
+> ELAINE, YES
+Elaine cast a look of love unto Sir Lancelot and twined the
+sleeve about his arm. Then she walked away into the forest,
+ever looking back at Lancelot until she was out of sight.
+> NORTH
+Sir Lancelot rode north and was on the edge of a great thorn
+
+                             iii
+
+thicket; the biggest that man had ever seen. He bethought
+himself to see a treasure glinting within the thicket.
+> IN
+Sir Lancelot dismounted and walked in. He was trapped by the
+thorns, completely unable to move.
+> UNDO [Take back move - available on most micros.]
+Lancelot was on the edge of a great thorn thicket; the biggest
+that man had ever seen.
+> INVENTORY
+Lancelot was wearing a red sleeve.
+Sir Lavaine entered from the south.
+> EXITS
+Exits lead east, south and in.
+Sir Lavaine stopped in front of Lancelot. "Good sir knight",
+said the youth, "Pray let me ride with you unto the tournament,
+for methinks I am of my age strong and wight. I see you wear
+my sister's sleeve and I would help her chosen champion".
+> LAVAINE, FOLLOW ME
+Sir Lavaine bowed.
+> BRIEF, WORDS, EXITS ON
+OK. OK. OK. [Locations will be described briefly, pictures
+turned off and exits reported automatically in future. To
+reverse these choices, you could use VERBOSE, PICTURES
+and EXITS OFF.]
+> E [EAST]
+Sir Lancelot rode east and was on a forest road. Exits led east
+and west. Lancelot could see a little gate across the track.
+Sir Lavaine entered from the east.
+> A [AGAIN - repeat previous command.]
+Lancelot pushed the gate halfway open. Sir Lavaine looked on
+with interest. Then the gate sprung closed, blocking the road.
+> LAVAINE, WAIT THEN PUSH THE GATE [WAIT defaults
+to WAIT 1.]
+Sir Lavaine nodded.
+> PUSH THE GATE
+Lancelot pushed the gate halfway open. Sir Lavaine pushed the
+gate the rest of the way open and it clicked in place.
+> EAST
+Sir Lancelot rode through the open gate and was at a junction
+in the road where a winding track joined it from the north.
+Exits led north, east and west. Lancelot could see a signpost.
+Sir Lavaine entered from the west.
+
+                              iv
+
+> READ SIGNPOST
+"Thou knight, which would enter into the Tower Perilous,
+beware thou be well prepared. For the fiendly dragon therein
+is proof against all weapons, save only one."
+A great roaring was heard in the distance.
+Sir Lavaine looked as if he had just remembered something.
+"Ye must hold me excused at this time", he said, "For I have
+duties elsewhere. But if God give me speed, I shall meet with
+you again at the jousts". Spurring his horse, he galloped into
+the distance.
+> SCORE
+Lancelot scored 10 out of 1000.
+> RAM SAVE
+OK. [Before facing the dragon, save the position in RAM - that
+is in the computer's memory - in case you encounter diffi-
+culties and want to return to this point, using RAM RESTORE.
+To save to disc or tape, use SAVE and RESTORE.]
+> GO TO TOWER PERILOUS [Let the computer work out the
+route. Press any key to cancel this type of "high level"
+command.]
+Sir Lancelot rode north and was deep in the forest.
+Sir Lancelot rode northeast and was on the edge of a clearing.
+Sir Lancelot rode north and was before the Tower Perilous.
+Exits led south and inside. Lancelot could see plumes of smoke
+curling from its windows. A fierce bellowing echoed from
+inside the tower.
+> EXAMINE EVERYTHING
+The sleeve was of scarlet cloth, well embroidered with great
+pearls. The bellowing grew louder.
+The plumes of smoke were flecked with glowing ash. Lancelot
+heard movement within the tower.
+> WAIT FOR DRAGON
+[Do nothing until the dragon arrives]
+Lancelot saw two great eyes within the tower.
+A great gout of flame gushed from the doorway,
+A hideous dragon entered from the north. It reared high above
+Lancelot, opening its mouth like a chasm.
+> MAKE SIGN OF THE CROSS
+A good idea but, alas, the dragon was no fiend and could not
+be banished.
+The dragon's breath scorched Lancelot's face.
+> KILL SERPENT [Strike it repeatedly]
+Lancelot's blow barely scratched the dragon's scales. The
+
+                              v
+
+dragon's breath scorched Lancelot's face.
+The dragon prepared itself for a deadly strike.
+Lancelot redoubled his efforts and slightly wounded the
+dragon. The dragon's fire belched forth again, and Lancelot felt
+himself nigh unto death.
+[This is rather one-sided, so a key is pressed to stop the
+command.]
+Did Lancelot want to continue? NO
+> RAM RESTORE [Return to position saved earlier]
+Lancelot was at a junction in the road, where a winding track
+joined it from the north. Exits led north, east and west. Lancelot
+could see a signpost.
+> EXITS OFF [Stop reporting exits]
+OK. A great roaring was heard in the distance.
+> E
+Lancelot rode east and came to the edge of a great river. Lance-
+lot could see a small boat. This fragile craft bobbed high in the
+water, rocked by every wave, its awning of white samite
+fluttering in the breeze.
+> GET INTO BOAT
+Lancelot seated himself in the boat.
+> E [To move boats, just enter the normal compass directions.]
+The boat sailed east and was at the far side of the river. Lance-
+lot could hear the sound of distant cheering, carried on the
+summer air.
+> RUN TO TOURNAMENT [Like GO TO, but without describing the moves]
+Lancelot climbed out of the boat.
+[A little time passes.]
+Lancelot was on the tournament field surrounded by milling
+crowds. He could see Sir Lavaine a priest and a great altar.
+"Hail, best of knights", said Sir Lavaine, "I have been waiting
+for you."
+> EXAMINE ALTAR
+It was a massive block of granite, carved with all manner of
+signs of the cross. A sword was sticking through the altar.
+The priest noticed Lancelot's interest. "Wit ye well", he said,
+"that the haft and pommel of this sword are made of the bones
+of divers beasts; and its virtue is that he handleth it shall never
+be weary or hurt. But it belongs only to he that shall win the
+tournament".
+[Perhaps the sword is what is needed to defeat the dragon, or
+
+                              vi
+
+perhaps it will protect Lancelot so he can lead the beast to the
+thorns, so its firey breath will burn them. In either case, Lance-
+lot must first prove victorious in the tournament...]
+
+-------------------------------------------------------------
+Hints
+-------------------------------------------------------------
+
+1. Draw a map (or a series of maps). Remember that the EXITS
+   ON command lists all the paths from each location.
+2. To make life easy for you, the objects that matter in a
+   location are normally listed in a sentence like: "You can see
+   a shopkeeper and a bunch of herbs". (Some other authors
+   mix in useful objects amidst the background scenery, but
+   Lancelot avoids this). The rest of your surroundings are
+   probably scenery, but by all means try to do things to them
+   if you like.
+3. Examine all the objects that you see and, as a rule, take
+   everything that you can. Most objects are useful in some
+   way.
+4. Use the "high level" commands, such as GO TO TOWER,
+   RUN TO ARTHUR, FOLLOW DRAGON, WAIT 5, WAIT
+   FOR ELAINE and KILL DRAGON, which take the place of
+   many individual instructions. Remember that pressing a
+   key "breaks" out of such commands.
+5. Some puzzles can only be solved with cooperation from
+   other people (especially in the later parts of the game), so get
+   used to giving orders. You can cancel orders given in error
+   by typing, for example, DAMOSEL, STOP
+6. Get used to using UNDO. If you make a mistake and get
+   "killed" or lose a vital object, the UNDO command is avail-
+   able on most micros and takes you back in time - to before
+   your previous move. On larger micros, you can use UNDO
+   many times in succession to retrace your steps a long way
+   through the game.
+7. SAVE your place occasionally, so that if you notice a mis-
+   take too late to be able to UNDO it, or if the electricity
+   flickers and your computer crashes, you can RESTORE the
+   saved position and continue from there. SAVE puts your
+   position on tape or disc (see the detailed instructions)
+   and RESTORE can retrieve it later. RAM SAVE is quicker but
+   less secure, as it saves the position in memory.
+8. Try everything you can think of - even weird or dangerous
+
+                             vii
+
+   actions sometimes provide clues, and might be fun. You can
+   use UNDO (or RESTORE if you have previously used SAVE)
+   to recover if the results are "fatal".
+9. You can word a command in many different ways. For
+   example, if there were an axe and a ball on the ground, you
+   could take the axe by typing any of the following:
+   > GET THE AXE
+   > TAKE AXE
+   > GET ALL BUT THE BALL
+   > LOOK AT THE AXE AND TAKE IT
+   If the game doesn't understand your command, try
+   rephrasing it and using synonyms. If the game still doesn't
+   understand, you are probably trying something that is not
+   important in the game.
+
+                             viii
+
+                        --------------
+                        |  OFFICIAL  |
+                        |            |
+                        |  SECRETS   |
+                        --------------
+
+               Let's face it, at some stage in
+                  this game you're going to
+                          need help.
+
+        A good move, before you start, is to send us a
+      stamped addressed envelope. Then you'll receive a
+     full set of clues before you need them, or at least
+       before you get desperate for them. But the clues
+            aren't the only thing we'll send you:
+
+          We'll tell you all about OFFICIAL SECRETS.
+        That's the club for people who want more. More
+       than what? You might ask. But we can't tell you
+       too much because we don't want to give the game
+                        away . . . yet.
+
+        Send a large Stamped Addressed Envelope or an
+              International Response Coupon to:
+
+                           Lancelot
+                       Official Secrets
+                         P.O. Box 847
+                       Harlow CM21 9PH
+
+     And in the corner of your envelope please mark which
+                  type of computer you have
+
+                              ix
+
+-------------------------------------------------------------
+Loading instructions for Lancelot
+-------------------------------------------------------------
+
+This section tells you how to run Lancelot on your computer,
+and lists the specific features of each version. Should you
+experience any loading problems, return the cassettes or disc
+without the packaging to Mandarin Software at Europa House,
+Adlington Park, Adlington, Macclesfield, Cheshire SK10 4NP.
+
+-------------------------------------------------------------
+Disc loading
+-------------------------------------------------------------
+
+Look down the alphabetical list of computer types and follow
+the instructions for your computer. The underlined text is what
+you type, and remember to press the Enter or Return key after
+each command.
+
+Amiga 500            Insert the game disc and turn on your
+                     Amiga.
+Amiga 1000/2000      Insert your Kickstart disc and turn on
+                     your Amiga. When it asks for
+                     Workbench, insert the game disc.
+Amstrad CPC 6128     Turn on your CPC (6128 or 464/664
+                     expanded to 128k) and insert the game
+                     disc. Enter RUN"MENU"
+Amstrad PCW          Insert your usual CP/M+ disc and turn
+                     on your PCW.
+                     Insert the game disc and enter MENU.
+Apple II             Insert the game disc and turn on your
+                     Apple II.
+Atari ST             Insert the game disc and turn on your
+                     Atari ST.
+Atari XE or 800XL    Remove any cartridges. Insert the game
+                     disc. While holding down Option for at
+                     least five seconds, turn the Atari on. If
+                     nothing happens, turn off the Atari for
+                     30 seconds and try again.
+BBC Master or 48k+   Turn on your BBC Micro, insert the
+                     game disc and press Shift and Break
+                     together. If this doesn't work, press
+                     Control+Shift+D and Break together.
+CBM 64 or 128 disc   Turn on your Commodore (while
+
+                              x
+
+                     holding down the Commodore key, if
+                     you have a 128). Insert the game disc
+                     and enter LOAD"*",8,1
+IBM PC and clones    Insert the normal operating system disc
+                     and turn on your IBM PC. Replace it
+                     with the game disc, and enter MENU
+Mac, Mac+            Insert the normal operating system disc
+                     and turn on your Mac. Insert the game
+                     disc and double click on the MENU
+                     icon.
+Spectrum +3          Turn on the Spectrum, insert the game
+                     disc and press Enter.
+
+-------------------------------------------------------------
+Tape loading
+-------------------------------------------------------------
+
+Put one of the game tapes in your recorder, look down the
+alphabetical list of computer types and follow the instructions
+for your computer. The underlined text is what you type, and
+remember to press the Enter or Return key after each
+command.
+  If the tape doesn't move, press Enter or Return again.
+
+Amstrad CPC tape     Turn on your CPC. If it has a disc drive,
+                     enter |TAPE Type RUN"" start the tape
+                     on play and press the Spacebar.
+Atari XE/800XL       Remove any cartridges. While holding
+                     down Start and Option for at least five
+                     seconds, turn on the Atari. Start the
+                     tape on play and press Return. If noth-
+                     ing happens, turn off the Atari for 30
+                     seconds and try again.
+CBM 64 or 128 disc   Turn on your Commodore (while
+                     holding down the Commodore key if
+                     you have a 128). Press Shift and Run/
+                     Stop together and start the tape.
+MSX 64k              Turn on your MSX, enter RUN"CAS:"
+                     and play the tape.
+Spectrum 48k         Turn on the Spectrum, type LOAD""
+                     and play the tape.
+Spectrum 128/+2      Turn on the Spectrum, press Enter and
+                     play the tape.
+
+                              xi
+
+-------------------------------------------------------------
+Saving to disc
+-------------------------------------------------------------
+
+To save game positions from the disc version of Lancelot, you
+first need a blank disc of your own.
+  Before playing Lancelot, format (initialise) this disc, using
+the ordinary software bought with your micro. (Exceptions to
+this are Apple II and Atari XE/800XL discs - Lancelot uses its
+own disc format on these computers and will initialise the disc
+itself.)
+  When playing the game, enter SAVE and follow the instruc-
+tions displayed.
+  To return to a SAVEd position, enter RESTORE and YES,
+and follow any instructions asking for one word from the story.
+When entering a filename, you can either type a short word
+such as POS1, or use the full format permitted by your par-
+ticular computer.
+
+-------------------------------------------------------------
+Saving to tape
+-------------------------------------------------------------
+
+To save game positions from a cassette version of Lancelot, you
+need a blank cassette of your own.
+  When playing the game, start a blank tape on RECORD and
+enter SAVE (if the cassette doesn't move, press Enter or Return
+again). When the game starts running again, for example to
+prompt for your next command by displaying ">" or "What
+now?", stop the tape.
+  To return to a SAVEd position, enter RESTORE and YES,
+then follow any instructions asking for one word from the
+story. Finally, rewind the tape on which the position was
+saved, and play it (if the cassette doesn't move, press Enter or
+Return again).
+
+-------------------------------------------------------------
+Save in memory
+-------------------------------------------------------------
+
+To save your game position in memory (all but the 48k Spec-
+trum, 64k Amstrad CPC and expanded BBC Micro allow this),
+enter RAM SAVE
+  To return to a SAVEd position, enter RAM RESTORE
+  Remember that saving in memory is very quick and con-
+
+                             xii
+
+venient - it is an ideal way of saving your position before
+trying something risky - but a RAM SAVEd position will be
+lost if your computer is turned off or crashes, so SAVE to disc
+or tape occasionally.
+  Note also that the UNDO command is available on all ver-
+sions which have RAM SAVE. UNDO takes you "back in time"
+to before Lancelot last moved: It's a bit like RAM RESTORE
+where the corresponding RAM SAVEs are automatic. UNDO
+can be used many times in succession on larger micros.
+
+-------------------------------------------------------------
+Additional features
+-------------------------------------------------------------
+
+The versions of Level 9 adventures on large micros often have
+more facilities than those on smaller machines. Here is a
+summary of the features available with Lancelot.
+
+AMIGA FEATURES
+--------------
+
+* Colour pictures (use the mouse, with its left button pressed,
+  to slide the picture up and down).
+* Picture cache (avoiding unnecessary disc loads).
+* Recall and editing of previous commands, by cursor keys
+  and Backspace.
+* RAM SAVE/RESTORE and UNDO.
+* README file. For more information, boot the Amiga with
+  Workbench, then insert the game disc and double click on
+  its icon and README.TXT.
+
+AMSTRAD CPC DISC FEATURES
+-------------------------
+
+* Colour pictures (use F8 and F2 to slide the picture up and
+  down). To see more pictures, wait until the game has loaded
+  and is waiting for you to type something - then flip the disc
+  over.
+* Picture cache (avoiding unnecessary disc loads).
+* Recall and editing of previous commands, by cursor keys
+  and Delete.
+* RAM SAVE/RESTORE and UNDO.
+* The Amstrad CPC disc also works on Amstrad PCW and
+  Spectrum +3.
+* README file. For more information, turn on the CPC, insert
+  the game disc and enter LOAD"README" and LIST.
+
+                             xiii
+
+AMSTRAD PCW DISC FEATURES
+-------------------------
+
+* Black-and-white pictures. To see more pictures, wait until
+  the game has loaded and is waiting for you to type
+  something - then flip the disc over.
+* Picture cache (avoiding unnecessary disc loads).
+* Recall and editing of previous commands, by cursor keys
+  and DELETE.
+* RAM SAVE/RESTORE and UNDO.
+* The Amstrad PCW disc also works on Amstrad CPC and
+  Spectrum +3.
+* README file. For more information, boot the PCW with
+  CP/M+ as usual, then insert the game disc and enter TYPE
+  README.TXT
+
+ATARI ST FEATURES
+-----------------
+
+* Pictures on colour and black-and-white displays (use the
+  mouse, with its left button pressed, to slide the picture up
+  and down).
+* Picture cache (avoiding unnecessary disc loads).
+* Recall and editing of previous commands, by cursor keys
+  and Backspace.
+* RAM SAVE/RESTORE and UNDO (several times in succession).
+* Variable text size, (experiment by pressing F1 or F2, then
+  typing a few characters). This will help television users.
+* Demonstration game. If you would like a continuous
+  demonstration of Lancelot, perhaps for use in a shop, start
+  the game and WAIT UNTIL THE FIRST PICTURE HAS
+  FINISHED LOADING and the game is waiting for a
+  command. If necessary, press the spacebar a couple of times
+  so the game can print the rest of its start-up message and
+  reach the first prompt, ">" or "What now?". Only then
+  should you press Alternate+R.
+* An interpreter which can be used with Knight Orc and
+  Gnome Ranger, letting them benefit from new features.
+  Copy the previous game to a new disc, then copy
+  GAME.PRG from the Lancelot disc, replacing the old ver-
+  sion. Hey presto! Variable text size and so on.
+* README file. For more information, start the ST with a disc
+  which does not auto-boot (for instance a blank disc). Then
+
+                             xiv
+
+  insert the game disc and double click on its icon and
+  README.TXT.
+
+BBC DISC FEATURES
+-----------------
+
+* Colour pictures on BBC Masters, B+ with additional side-
+  ways ram, or BBC B with both shadow and sideways ram.
+  (Smaller BBC Micros show a Mode 7 text-only display -
+  such as the BBC B with just sideways or shadow ram). On
+  BBC Masters you can use the cursor keys, with Shift
+  pressed, to slide the picture up and down. To see more
+  pictures, wait until the game has loaded and is waiting for
+  you to type something - then flip the disc over.
+* Recall and editing of previous commands, on BBC Micros
+  big enough to show pictures, by cursor keys, Delete and
+  Copy ("forward delete").
+* Variable text size, on BBC Micros big enough to show pic-
+  tures; press F0 and F1 to select between 40 and 80 column
+  text.
+* RAM SAVE/RESTORE and UNDO on big BBC Micros.
+* Picture cache on very big BBC Micros (avoiding unnecess-
+  ary disc loads).
+* README file. For more information, turn on the BBC
+  Micro, insert the game disc and enter *TYPE "README"
+
+COMMODORE 64/128 DISC FEATURES
+------------------------------
+
+* Colour pictures (use the cursor keys to slide the picture up
+  and down). To see more pictures, wait until the game has
+  loaded and is waiting for you to type something - then flip
+  the disc over.
+* RAM SAVE/RESTORE and UNDO.
+* Fast performance when the pictures are turned off; partly
+  because loading from disc takes a little while (even though
+  we use a good turbo) and partly because not needing to
+  maintain a moveable split screen (between the picture and
+  text) frees more processing power.
+
+IBM PC FEATURES
+---------------
+
+* Pictures in MGA and EGA modes. (The disc just contains
+  one set of pictures and converts them on output when MGA
+  is chosen).
+
+                              xv
+
+* Picture cache (avoiding unnecessary disc loads) 
+* Recall and editing of previous commands, by cursor keys
+  and Backspace.
+* RAM SAVE/RESTORE and UNDO (on machines with more
+  than 128K).
+* Demonstration game. If you would like a continuous
+  demonstration of Lancelot, perhaps for use in a shop, start
+  the game by entering MENU and waiting for it to load.
+  Then, before doing anything else, press ALT+R. Continue
+  by choosing a display format as usual.
+* An interpreter which can be used with Knight Orc and
+  Gnome Ranger, letting them benefit from new features.
+  Copy the previous game to a new disc, then copy AINT.EXE,
+  MENU.EXE and MENU.TXT from the Lancelot disc,
+  replacing the old versions.
+* README file. For more information, boot the PC from its
+  normal operating system disc, then insert the game disc and
+  enter TYPE README.TXT.
+
+MAC FEATURES
+------------
+
+* Black-and-white pictures (use the mouse, with its button
+  pressed, to slide the picture up and down).
+* Recall and editing of previous commands, by cursor keys
+  and Delete.
+* RAM SAVE/RESTORE and UNDO (several times in succession).
+
+SPECTRUM +3 DISC FEATURES
+-------------------------
+
+* Black and white pictures, tailored for TV display (use the
+  cursor keys to slide the picture up and down). To see more
+  pictures, wait until the game has loaded and is waiting for
+  you to type something - then flip the disc over.
+* Recall and editing of previous commands, by cursor keys
+  with Symb Shift pressed, and Delete.
+* RAM SAVE/RESTORE and UNDO (several times in succession).
+* The Spectrum +3 disc also works on the Amstrad CPC and
+  PCWs.
+* README file. For more information, turn on the Spectrum
+  +3, insert the game disc, select +3 Basic and enter LOAD
+  "READ.ME".
+
+                             xvi
+
+-------------------------------------------------------------
+Copyright
+-------------------------------------------------------------
+
+Please remember that Lancelot is protected by copyright and
+took a lot of research, time and trouble to produce, so make no
+more than one copy, for your own use, to keep only as long as
+you have the original game. Before copying any game you
+must check the copyright conditions in its documentation.
+
+-------------------------------------------------------------
+Background
+-------------------------------------------------------------
+
+The legends of King Arthur and the Knights of the Round
+Table are known to all, but it is a sad fact that most modern
+interpretations, whether games, films or stories, seem to owe
+nothing to the original tales.
+  You have surely seen the programs with Arthurian titles that,
+for example, turn out to involve something called "Merlin"
+jumping from platform to platform, while zapping orcs with
+fireball spells.
+  Well, we got tired of waiting for someone else to do a proper
+job, so here's our faithful interpretation of the Arthurian saga.
+And, putting this on one side, I think it's our best game to date.
+I hope you enjoy it.
+
+Lancelot is based on Sir Thomas Malory's Le Morte D'Arthur,
+published by William Caxton in 1485, as one of the first books
+to use modern printing.
+  Le Morte D'Arthur was an amalgamation of Arthurian
+stories of that time. It omits a few of the tales, and anyone who
+thinks bugs are a modern invention should consider its mul-
+tiple Elaines and wounded kings, but it is the main English
+source on King Arthur and an undoubted literary classic.
+  (If you want to read the full Arthurian legends yourself,
+however, I recommend The Once and Future King by T.H
+White. It's a fairly free adaptation, but infinitely more
+readable).
+  A much shorter version of the Arthurian legends is enclosed,
+as background to the game. We have tried, in both this and the
+game, to use modern English while keeping some of the lin-
+guistic flavour of Malory's original.
+  The adventure follows Malory's story, from the foundation
+of the Round Table to its finest hour, the finding of the Holy
+Grail. Lancelot was chosen as the hero because, while Arthur
+
+                             xvii
+
+remains passively at court, Lancelot rides out to earn the title of
+Best Knight in the World. He rescues damosels and captive
+knights, and goes on to become the only first-generation
+Round Table knight to see the Holy Grail.
+  The game starts with a new scene in which Lancelot meets
+Arthur. After this, it follows Malory pretty faithfully, but omits
+the detailed jousting results and obscure feuds, which must
+have numbed generations of English students. It also ascribes
+to Lancelot a few adventures which originally starred the likes
+of Gawain or Tristram. Apart from this, however, Lancelot
+sticks closely to the book.
+  You don't get showy magic or excessive violence. What you
+do get is a game which recreates the Arthurian world, with
+both traditional adventure puzzles and some of the ethical
+problems involved in becoming a parfait knight.
+
+The best of the books consulted were:
+Le Morte D'Arthur (two volumes)
+                          Malory, Penguin, ISBN 0-14-043043-1
+Sir Gawain and the Green Knight...  Anon/Brian Stone, Penguin
+The Once and Future King
+           T.H. White, Flamingo (Fontana), ISBN 0-00-654010-4
+The Plain Man's Guide to Ethics
+         William Barclay, Fount (Collins), ISBN 0-00-626836-6
+
+The most disappointing:
+The Book of Merlin
+            T.H. White, Flamingo(Fontana), ISBN 0-00-654045-7
+The Mists of Avalon
+                   Marion Bradley, Sphere, ISBN 0-7221-1957-7
+
+And the most peculiar:
+The Cauldron and the Grail
+  Nick Mann, Annenterprise of Glastonbury, ISBN 0-9510682-0-2
+
+The historical Arthur seems to be a mythologised composite of
+war leaders from southwest England and Wales, dating
+between the slow collapse of Roman Britain, and the Saxon
+influx from the east. But we cannot recommend any of the
+over-inflated books on the subject. By far the best works are
+tourist guides to individual sites, such as:
+
+Arthurian Sites in the West
+   Radford and Swanton, Exeter University, ISBN 0-85989-026-0
+
+                            xviii
+
+The Birth
+of a King
+
+IN the days when Uther Pendragon was King of all
+England, the mighty Duke of Tintagel stood out against
+him and for a long time held war against the king.
+  After many battles, Uther sent for the Duke, that they might
+talk of peace. But he also charged him to bring his wife,
+Igraine, for Uther had heard that she was most fair. And when
+the Duke and his wife were with Uther, the king declared his
+love to her. Igraine was much distressed and warned the Duke
+her husband that they should flee, for the king surely intended
+her dishonour.
+  After they had departed secretly, Uther was wonderly wroth,
+both for pure anger and great love of fair Igraine.
+  The Duke heard warning of this, and anon he made
+provision for a long siege. He set Igraine in Tintagel Castle, the
+which he strongly fortified, while he set out for Castle Terrabil.
+Ere long, Uther's pavilions and knights surrounded Terrabil
+and a bitter battle began.
+  But Uther was sick with his love, and remained listless in his
+tent, so that his knights were greatly worried. In hope of
+finding a cure for the king, one of his men set out to seek
+Merlin, a wizard well renowned for his knowledge of ancient
+crafts and remedies. And Merlin said that he would help Uther,
+if Uther would be sworn to reward Merlin in his turn. The
+
+                              1
+
+noble knight assented that Merlin should have whatever he
+desired if he could make Uther whole again.
+  Merlin rode to Uther's pavilion, where he told the king that
+Uther might spend the night with Igraine, for by Merlin's
+magic, he would appear to her in the likeness of her husband.
+In return, Uther must deliver any child, born of their union, for
+the magician to raise.
+  Uther could not hold his patience, and rode out with his
+party for Tintagel at once. The Duke espied Uther's knights
+riding hard, as if in retreat, and he left his Terrabil fortress to
+pursue in all haste. On the field, he met with Uther's remaining
+men, and was himself slain ere the king came to the castle of
+Tintagel. And so, as Uther lay with Igraine, she was already a
+widow.
+  Igraine thought her lover that night was her husband; but
+when she heard tell of the Duke's death she marvelled who that
+knight who lay with her might be. Even when she assented
+unto marriage with Uther, to unite their two houses, he did not
+tell her.
+  And when the child was born, Merlin came, as he had told
+Uther he would, to take the baby away, reassuring the father he
+would be well-nourished.
+  But Uther was not able to spend a long and happy life with
+Igraine. Within two years he had fallen sick of a great malady
+and died, to Igraine's great sorrow, for she had learned to love
+him.
+  The rule of the kingdom fell into jeopardy, for there was no
+known heir. Many lords made claim to the throne, and fought
+bitterly for the right to reign, but none could take the kingdom
+by just cause.
+
+The Sword in the Stone
+
+AFTER years of great feuding, Merlin went to the
+Archbishop of Canterbury and counselled him that he
+would find the right-born king. All the lords of the
+realm and all the gentlemen of arms were summoned to
+London for a New Year's Day tournament, when the new ruler
+would be revealed.
+  Sir Ector, his son Kay and his adopted son Arthur were
+among those who rode to London for the jousting, Kay making
+great excitement, for he was to be made a knight at the tourna-
+
+                              2
+
+ment. Yet, as they rode to the jousts-ward, Kay discovered with
+dismay that he had lost his sword, for he had left it at their
+lodging. He prayed young Arthur to run back to collect it.
+  Arthur found the inn empty and locked; everyone had
+already left to see the tournament. Trudging dolefully back to
+his father and brother, he went through a churchyard, where
+near the high altar, he espied, to his joy, a sword. It was stuck
+through an anvil, set upon a wide marble stone, and glittered in
+the winter sunlight.
+  "I will take that sword", Arthur decided. "My brother Sir
+Kay shall not be without a sword today of all days". He
+grasped it firmly and found that it came easily out of the anvil.
+Hurrying after his party, he never noticed the words that were
+written in gold about the sword.
+  But when Arthur delivered the sword to Kay, his brother
+turned quite pale. For Kay too had seen the sword in the stone
+in the churchyard, but he had also seen what Arthur had not,
+the lettering around it, which read, "WHO SO PULLETH OUT
+THIS SWORD OF THIS STONE AND ANVIL, IS RIGHTWISE
+KING BORN OF ALL ENGLAND".
+  A small smile appeared on Kay's face as he took the sword
+from Arthur, and so he rode to find Sir Ector. "Look, father",
+he cried. "I have the sword from the stone. I must now be King
+of all England."
+  Sir Ector was no fool. He took both Kay and Arthur back to
+the churchyard, and he made Kay swear upon a book how he
+had come by the sword.
+  Kay faltered. "My brother Arthur brought it to me", he said.
+Ector turned to his adopted son, and Arthur explained how he
+had taken it. Then Ector replaced the sword in the anvil and
+told Arthur to pull it out again.
+  "There is no great skill to it", said Arthur airily, and lifted it
+smoothly and cleanly out of the anvil.
+  Then Ector and Kay both tried pulling the sword from the
+stone for themselves, with all their might, but it would not
+move. When the two elder men learned full well that the sword
+would give only for Arthur, they both knelt down to the earth
+before him.
+  Arthur was greatly dismayed. "My own father and brother!"
+he exclaimed. "Why do ye kneel before me?"
+  "Nay, Arthur, I am not your father, nor of your blood", said
+Sir Ector gently, and for the first time he told him how Merlin
+
+                              3
+
+had delivered him to Sir Ector as a newborn baby, and charged
+him to nourish Arthur as his own.
+  At Pentecost, young Arthur was crowned at Carleon and
+took on the heavy duties of King of all England.
+
+Excalibur
+
+THE early years of Arthur's reign were not easy. Many
+lords and kings had no joy of him because of his youth
+and lowly upbringing and he spent much time in
+bloody battles, defending his right to the throne. Merlin was
+ever nearby to help him when he was on the brink of defeat,
+and after long years, Arthur finally vanquished most of the
+enemy lords.
+  Arthur fathered two children, Borre and Mordred, while still
+a young man. Mordred's mother was Margawse, wife of King
+Lot of Orkney and the daughter of Igraine and the Duke of
+Tintagel. Though none could know but Merlin, this meant she
+was Arthur's half-sister, for which Merlin blamed the king.
+  "God will not forgive your foul deed", the soothsayer
+warned. "You have lain by your sister and on her ye have
+gotten a child, born on May day, that shall destroy you and all
+the knights of your realm."
+  Sore afraid at Merlin's words, Arthur sent for all the children
+born on May day, and he set them adrift in a ship. The ship was
+wrecked and the most part of the children perished, but Mor-
+dred was washed up alive on a beach, and raised by a good
+man.
+  Arthur's battles were long and bloody and oft there was
+danger that he might be slain, so Merlin thought that Arthur
+should have his own special sword. He took Arthur on a
+journey to a wide and still lake, and, in the middle of the
+waters, an arm, clothed in rich samite silk, rose from the water.
+The hand was clasping a fair sword.
+  "This is the sword that shall be yours", Merlin told Arthur.
+"The Lady of the Lake will come to you, and ye must speak fair
+to her to get the sword. And anon indeed the Lady told Arthur
+to row out in a barge to the centre of the lake to take the sword
+and its scabbard.
+  When he returned to the shore, he looked on his new sword
+and liked it passing well. Merlin asked him, "Which do you
+like better - the sword or the scabbard?"
+
+                              4
+
+  Arthur considered. "The sword", he replied.
+  Merlin looked at him with impatience. "Ye are still so
+unwise", he said with annoyance. "The scabbard is worth ten
+of the sword. While ye have the scabbard with ye, ye will never
+lose blood however sorely wounded ye may be."
+
+Guenever
+
+WHEN Arthur first saw Guenever, daughter of King
+Leodegrance of Camelerd, he knew straightway that he
+wished to marry her. Arthur thought her the most val-
+iant and fairest lady living.
+  But, as ever in these early years of his reign, he asked for the
+counsel of Merlin, for he was still for the most part ruled much
+by the magician's words.
+  "In beauty and fairness she is above all women", Merlin
+assented. "But if your heart was not set, I could find you a
+damosel of great beauty and goodness, who would certainly
+please you. But when a man's heart is set, and there is nought
+that can make him return."
+  Merlin further advised the king against taking Guenever as
+his wife, "I warn you that she will be loved by Lancelot du
+Lake, and she will love him back."
+  But Arthur's mind was set fast on his choice, and so anon
+Merlin went forth to King Leodegrance to tell him that King
+Arthur wanted his daughter for his wife.
+
+                              5
+
+  Leodegrance, to be sure, was overjoyed. "That is the best
+tidings that ever I heard", he cried. "And I shall send Arthur a
+gift, which might please him more than lands, for he has lands
+enough. I shall give him the Table Round, which was given to
+me by Uther Pendragon. The Table will seat a hundred and
+fifty knights when it is full, and I will myself send a hundred
+good knights."
+  Leodegrance was right. The gift of a hundred knights and the
+Table Round pleased Arthur far greater than land, and he sent
+out Merlin to find fifty accomplished knights to complete the
+number, the while he made preparations for the most regal
+wedding he could devise. But Merlin could only find forty
+eight knights of enough prowess to grace the Table Round, and
+so there were two empty seats.
+  Then Merlin, by his magic craft, made each of the names of
+the knights appear in gold lettering in their places at the table,
+and in just two places was there no name.
+  As the knights came to Camelot, where the King was wedded
+unto Guenever, Arthur set out them their duties as Knights of
+the Table Round. He charged them never to commit treason or
+murder, never to be cruel, never to enter into battle for a
+wrongful reason whatsoever the reward, but ever to grant
+mercy when it was asked for, and ever to help ladies, whether
+gentlewomen or damosels, whenever succour was needed.
+And every Knight was sworn to this oath and every year at
+Pentecost they affirmed it again.
+
+Merlin and Nimue
+
+FOR all that he was a magician and a soothsayer, Merlin
+fell in love with one of the ladies of the lake, called
+Nimue. He became besotted upon her and could not
+bear to be away from her, and she kept in his company until he
+had taught her all manner of things she desired to know of his
+magic crafts.
+  Merlin also knew that despite all his magic, he would not
+live long in the earthly world, and ere he was put in the ground
+he told Arthur many prophecies that would befall the young
+king. He warned him to keep always his sword and scabbard
+with him, and he told him of the end of his reign and of the last
+days of the Table Round.
+  Soon afterward Nimue departed from the court, and Merlin
+
+                              6
+
+went with her. He followed her wheresoever she went, and
+within a while Nimue began to be weary of him.
+  Then one day Merlin showed her a rock, inside which were
+marvels wrought by enchantment. Nimue tricked Merlin by
+subtlety and made him go underneath the rock, to tell her of
+the marvels, and then, by use of the crafts which he had taught
+her, she enclosed the rock.
+  Merlin was not harmed, and spoke happily enough to pass-
+ing knights, but, no matter what charms Merlin practised to
+assay to open up the rock, he remained trapped.
+
+Sir Lancelot du Lake
+
+AS King Arthur's reign drew on, and the deeds of the
+Knights of the Table Round became ever more renow-
+ned throughout the land, so many knights came to the
+tournaments and jousts. Some knights who came oft improved
+their prowess so that they surpassed most of their fellows, but
+none more so than Lancelot du Lake. Never in any of his fights
+was he beaten, unless it were by trickery, and he was the
+knight who was admired most of all by the people after Arthur.
+And because of his excellence, Queen Guenever favoured him
+above all other knights, and he too favoured her, and many of
+his great knightly deeds were done for love of Guenever.
+  Sir Lancelot was riding in Corbin, when he saw the fairest
+tower he had ever seen. Inside was a lady, enchanted to remain
+in scalding water until the best knight in the world should take
+
+                              7
+
+her hand. Lancelot rescued her and discovered her name was
+Elaine; she thanked him and he thought she was the fairest lady
+in the world, apart from Guenever.
+  Lancelot slew a fiendly dragon nearby, then they rode to
+Carbonek, castle of Elaine's father, King Pelles.
+  At the celebratory feast, a damosel came into the hall, car-
+rying a golden vessel, which shone richly with a pure and
+dazzling light. King Pelles knelt in front of the vessel, and
+prayed devoutly before it, and all the company did the same
+after him. Lancelot marvelled much at this and asked wonder-
+ingly what this apparition meant.
+  "This vessel is the richest thing that any living man could
+have", replied Pelles. Ye must know is the Holy Grail, that was
+blessed by Our Lord at the Last Supper." And he left Lancelot
+to ponder on this marvel. Lancelot found that after the appear-
+ance of the Grail that all the wounds and bruises he had
+suffered in his joust had healed and that his flesh was smooth
+and new, and he determined to see the Grail once more before
+he died.
+  King Pelles knew it was ordained that Elaine should conce-
+ive a child by Lancelot; that the child should be named Gal-
+ahad; that he would become the best of all knights, surpassing
+even his father; and that he would be worthy of the Holy Grail.
+Yet how could it be done, fair though Elaine was, when every
+man knew that Lancelot kept himself only for love of the
+Queen Guenever?
+  Then Dame Brisen, one of the greatest enchantresses that
+lived at the time, came unto Pelles, and told him that she could
+work this thing by using her crafts.
+  Lancelot was given wine, the which had Brisen infused with
+potion to make him blinded with lust, and when he was taken
+unto Elaine's chamber, he thought that she was Guenever, and
+lay with her until morning.
+  Elaine knew well that the child she carried from that night
+was born to be the noblest knight in the world, and when he
+was born, she christened him Galahad, and kept him well and
+nourished him. But Lancelot was shamed by the trickery, and
+left the castle that same morning to continue his travels.
+  Some months after, Arthur decreed that a feast be held.
+  Elaine deemed it right that she should attend the feast and
+bring the baby Galahad with her. She came with her servant
+Dame Brisen, and a retinue of twenty knights, and was so
+
+                              8
+
+richly attired that all of Camelot agreed she was the fairest lady
+ever seen in that court. All, that is, save Lancelot, for fear of
+Guenever's fury.
+  Elaine was heavy of heart that Lancelot would not speak
+kindly to her, nor look at her, and went unto Brisen for advice.
+The enchantress assented to work her special powers so that
+Elaine might lie again with Lancelot that night.
+  When the court had retired, Guenever commanded Elaine to
+sleep in a chamber near her own, and she bade Lancelot to
+come unto her in the night. "Or else I am sure", chided
+Guenever, "ye will go to your lady Elaine's bed, for have you
+not gat a son of her?"
+  But Brisen's enchantments were stronger than Lancelot's
+promises, and she came to Lancelot in the likeness of one of
+Guenever's maidens, and led him unto Elaine's chamber
+instead of Guenever's. Lancelot thought that it was Guenever
+he held in his arms, for so Brisen had devised it.
+  Then Guenever sent her servant to summon Lancelot to her,
+but the servant came to the Queen and said that she had found
+Lancelot's bed cold and empty. The Queen went nigh out of
+her wits with wondering where he was. She was not long in
+doubt, for Lancelot had the habit of talking in his sleep, and
+anon through the walls, she could hear his voice in Elaine's
+room.
+  Then was Guenever nigh mad with anger and with pain. She
+knew not what to do, but then she coughed so loudly that
+Lancelot awoke, and he heard her cough, and wist that it was
+Guenever. Then he knew too that he lay not with his queen as
+he had thought and ran out of Elaine's chamber, only to meet a
+white-faced Guenever in the passageway.
+  "Thou false traitor knight!" she cried. "Never more wilt thou
+abide in my court; never will I let thee come into my sight
+again!"
+  Lancelot could not bear the anger of her words and, filled
+with shame and the loss of his love, he leapt from the castle
+window.
+  Lancelot ran mad in the forests, sometimes tended by her-
+mits and village folk, more often living off berries and strange
+plants. Only after many years did he return to King Arthur's
+court.
+
+                              9
+
+The Coming of the Holy Grail
+
+EACH year, the Knights of the Table Round came unto
+Camelot for the high feast of Pentecost, to relate their
+deeds and the marvels they had seen. But still the Table
+was not complete, for the last place, the Seige Perilous, was not
+filled.
+  Then one year the knights had found, according to the
+custom, that their names were written about the Table Round
+in gold lettering, but this time there were new words written
+above the empty Siege Perilous. "FOUR HUNDRED WINTERS
+AND FOUR AND FIFTY ACCOMPLISHED AFTER THE PAS-
+SION OF OUR LORD JESU CHRIST OUGHT THIS SIEGE TO
+BE FULFILLED".
+  "It seemeth me", said Sir Lancelot who had accounted the
+time between the birth of Christ unto that day itself, "This siege
+ought to be fulfilled this very day, for this is the feast of
+Pentecost after the four hundred and four and fifty year." And
+the other knights agreed, and they ordained to cover the Siege
+Perilous with a silken cloth, so that the letters could not be seen
+until the rightful knight came unto the Table.
+  As they set themselves in their own places at the table the
+next night to be served their feast, an old man accompanied by
+a young fresh-faced knight, quite unarmed, save for an empty
+scabbard at his waist, came unto the hall at Camelot.
+  And as the other knights set all eyes upon the two, the elderly
+one led the young boy right up to the Table Round, and anon
+he led him to the Siege Perilous, where beside sat Sir Lancelot.
+The old man lifted up the silken cloth, which showed that the
+words inscribed in gold had changed again. Now it read:
+"THIS IS THE SIEGE OF GALAHAD THE HAUT PRINCE".
+  The old knight set his young charge surely in that seat, and
+departed, so that the boy was in the centre of the others' looks.
+Many marvelled that one so young did dare sit in that siege, but
+Lancelot knew him as his own son, and his heart swelled up
+with pride.
+  The next day, King Arthur took Galahad to a lake near
+Camelot, where the court had found a sword set into a stone in
+a lake. This sword was inscribed with lettering, which read
+that only the best knight in the world could pull the sword
+clear.
+  Now, many thought that this knight must surely be Sir
+
+                              10
+
+Lancelot, but Lancelot had remembered the sins of his love for
+the Queen, and had said he was unworthy to try the sword. Sir
+Gawain and Sir Percival were both knights of great renown,
+but when they tried to lift the sword, it would not move. Now
+Arthur was sure that Galahad was the rightful owner of the
+sword, and so it was, for Galahad lifted it cleanly and easily,
+and it fitted perfectly into his empty scabbard.
+  Then Arthur organised a great jousting tournament, that
+Galahad might test his skill against the other knights. And
+Galahad acquitted himself superbly, and many good knights of
+the Table Round were unhorsed by the young man, save two
+whom he did not fight, Lancelot and Sir Percival.
+  That evening the knights were again come unto the hall in
+Camelot for their supper, every man in his place at the Table
+Round, and this time there were no empty seats. And scarcely
+had they sat down, when there was a great cracking and a
+crying of thunder that shook the very walls of Camelot, and in
+the midst of this clamour a great burst of light flooded into the
+hall, like a sunbeam that was seven times clearer than daylight.
+Then all the knights felt themselves to be filled with the grace
+of the Holy Ghost. They beheld one another to be fairer than
+ever they were before, and they were struck dumb by the
+brilliance of the light.
+  Then came into the hall a golden centre to this light, and it
+was the Holy Grail, covered in a cloth of white samite, so that
+none could see the vessel underneath. And with the Grail came
+all manner of meat and drink that the knights loved best.
+  As the Holy Grail crossed over the length of the hall it
+vanished as suddenly as it had come, and in the sudden empti-
+ness of the hall after its passing, the knights all burst into voice
+at once.
+  Sir Gawain, ever impetuous, leapt to his feet and spoke unto
+the company. "One thing has beguiled us this evening", he
+cried. "We could not see the Holy Grail because it was so
+preciously covered. And I will vow here and now, that tomor-
+row without delay, I will go out in quest of the Holy Grail. I
+wil labour for a year and a day, or longer if needs be, and I
+shall not rest until I have seen the Grail more openly than it has
+been seen here."
+  The other knights were greatly inspired by this and ere
+Gawain had sat down, each of them had risen and made vows
+such as he had done. And as they were rejoicing and making
+
+                              11
+
+great plans for their quest, only Arthur was still and silent.
+  For Arthur remembered the prophecies and teaching of the
+soothsayer Merlin, and he knew that many of his knights
+would never return, and the Table Round would never be
+restored.
+
+The Quest for the Holy Grail
+
+THE quest for the Holy Grail continued for many years,
+and all the knights who set out to seek the Holy vessel
+had many marvellous adventures, but none more than
+Sir Lancelot who was to see the Grail at Castle Carbonek, or
+Galahad whose destiny was to fulfil the quest.
+  Lancelot rode hard for several days, until he came unto an
+old chapel, where he thought to find himself rest. He tried to
+enter therein, but could only reach the altar, richly arrayed in
+silk and with six great candles set into a fair silver candlestick.
+He could find no entry to the chapel itself and at last, tired and
+dismayed, laid himself to sleep on his shield at a stony cross
+outside.
+  He was half wakened some time after when two fair white
+palfreys rode up to the cross. The palfreys bore a litter which
+carried a sick knight, that moaned in pain for the Holy Grail to
+come to heal him.
+  Lancelot stirred, still half asleep, for it seemed to him that he
+could not rise into wakefulness, and he espied the candlestick
+from the altar carry itself, as if floating, unto the cross. It was
+
+                              12
+
+followed by a silver table, and the shining holy vessel of the
+Holy Grail, although Lancelot could see none that was bearing
+it aloft. He heard the sick knight sit up and welcome the Holy
+Grail, and he saw kneel down to the ground to touch the vessel
+and kiss it. Then the knight rose up again whole and healed.
+The Holy Grail remained at the cross for a long while before it
+glided back into the chapel, and yet still had Lancelot no power
+to follow it.
+  After some hours Lancelot woke fully. He recalled how the
+sick knight had been healed, but it was as though it were all a
+dream. And even as he thought this, a voice came to him, and
+told him to withdraw from the holy place in which he had been
+sleeping, for he was unworthy.
+  Lancelot was sore unhappy and wept at these words, and the
+more unhappy still when he discovered that his horse and
+helm and sword had been taken away by the healed knight, yet
+he knew well the message. "My sin and wickedness have
+brought me unto great dishonour. When I sought worldly
+adventures and worldly desires, I achieved them. Now I have
+taken up a holy adventure and my old sin has come back to
+shame me, so that I have no power when holy blood appears
+before me."
+  With much sorrow, Lancelot departed from the cross on foot
+and went unto a hermitage where the hermit would hear his
+confession. The hermit counselled Lancelot that his shame in
+God's eyes had to do with his sinful love for Guenever, and that
+he should forswear his lust for her. And Lancelot fully
+repented of his earthly sins, and with the hermit's blessing set
+out to start his quest afresh.
+  After many months, Lancelot came unto the water of Mor-
+taise, where he laid down to rest and a vision came to him in
+his sleep, which told him to enter the first ship that he could
+find. Lancelot arose and went to the strand where he found a
+ship without either sail or oar and he entered and a great
+feeling of peace and joy overwhelmed him, and he remained
+with the ship for over a month.
+  Then one day, somewhat weary of the small ship, he was
+sitting on the shore when he heard a thundering of hooves, and
+a most seemly looking knight on a fair horse galloped up to the
+shore. He dismounted and taking his saddle and bridle with
+him, went straight into the ship.
+  Lancelot followed, curious about this self-assured young
+
+                              13
+
+man, and made himself known to the young man, whereupon
+the knight revealed that he was Sir Galahad, Lancelot's own
+son. There was much rejoicing between them as the two
+embraced, and told each other of their adventures.
+  Galahad had ridden from Camelot into strange lands which
+he knew not. Many adventures befell him and always he was
+successful in his endeavors and gained much in knightly
+experience. He had defeated many knights in fair combat, he
+had given support to the defenders in a great siege at a castle,
+and with their comrades Sir Bors and Sir Percival, he had been
+set adrift to sea in a boat which had beached them in the
+marshes of Scotland, there to do battle with many knights who
+had challenged them.
+  Lancelot made great joy to hear his tales. His own quest had
+been tortuous and hard, with little success and he took much
+pride in his son. For a full six months, Lancelot and Galahad
+voyaged together in that boat, encountering many perilous
+adventures.
+  But never did they come near the Holy Grail, the true nature
+of their quest and so Galahad then left the ship to seek the
+vessel as he was ordained.
+  Then did Sir Lancelot make much sorrow, for he was alone
+and downhearted, but he prayed daily to God that he might
+still see some tidings of the Holy Grail. The ship carried him
+over the sea, he knew not whereto, but trusted it to steer him
+safely.
+  After a month at sea, the ship beached at midnight beside a
+fine castle. A postern opened out towards the sea and a voice
+bade Lancelot to enter in. Anon, Lancelot armed himself and
+went to the gate, for here, so he thought, might at last be his
+adventure.
+  As he neared the castle, Lancelot saw two lions on guard. He
+drew his sword, but it was smitten from his hand and a voice
+chided his evil faith, that he put more trust in weapons than in
+his Maker.
+  He entered the castle without further challenge, but inside he
+could find no door or gate which would open. But behind one
+door he could hear sweet and reverent singing, and he knew
+full well that the Holy Grail was in that room. Lancelot fell to
+his knees and prayed to God to show him at least some part of
+the Grail.
+  He looked up from his prayers and was filled with awe to see
+
+                              14
+
+the chamber door swing slowly open. From inside shone out a
+great light, that was the clearest, purest light Lancelot had ever
+seen.
+  Lancelot looked up and into the chamber, and there was the
+silver table, and the Holy Grail covered in red samite and all
+the ornaments of an altar, and a priest who seemed to celebrate
+mass. Then Lancelot could not bear to stay outside, and taking
+a deep breath, he strode into the room where the Grail was.
+  As Lancelot reached out to touch the Grail, a scorching wind
+threw him down. His body would not move, and then he felt
+hands all about him, that carried him out of the room and left
+him in the passageway.
+  The next morning the people of the castle found Lancelot's
+body outside the chamber door. He was taken to a bedcham-
+ber, where he lay without stirring.
+  Lancelot awoke on the twenty fifth day and learned that he
+had achieved as much of the Holy Grail as he would ever see,
+and Lancelot understood and thanked God for that which he
+had been allowed.
+  Elsewhere, Galahad, since departing from the ship, had
+many further adventures before he met again with Sir Percival
+and Sir Bors. The three of them then rode together until they
+came to the Castle Carbonek. When they entered within, King
+Pelles was full glad to see them, for he knew that now the quest
+for the Grail would be achieved.
+  King Pelles, his son Eliazar and the three Grail knights sat
+down to dinner, but before they could eat, a voice came to
+them. "There are two among you that are not in the quest for
+the Holy Grail, and therefore you both should depart."
+  King Pelles stood up. The moment had come, and with a
+single look at Galahad he and his son slipped away. Scarce had
+they gone, when a man and four angels appeared before the
+knights. The angels set the man down before a table of silver
+and on the table the Holy Grail appeared. The man, who was
+dressed as a bishop, set about the ritual of the celebrating of
+mass. He kissed Galahad and bade Galahad kiss his fellow
+knights, which he did and then the bishop vanished away.
+  The three knights sat at the table in full dread of what might
+next happen. They looked up and saw a man come out of the
+holy vessel, a man with open wounds bleeding freely, as did
+those of Jesus Christ, and he offered the holy vessel to Galahad.
+Galahad knelt and received his Saviour, and Our Lord then
+
+                              15
+
+told Galahad that he must depart with Bors and Percival the
+next morning to the sea, where he would find a ship ready and
+waiting for him.
+  On the morrow, the three knights set off, and after three days
+came to a rivage where they found a ship waiting for them. On
+board the ship they found a table of silver and the Holy Grail
+covered in a cloth of red samite. The three knelt down and
+prayed with much reverence.
+  The ship took them across the water to the city of Sarras.
+They disembarked and taking the table of silver went into the
+city, where they remained for a full twelve months. On that day
+at the year's end, the man in the likeness of a bishop came to
+Galahad and Bors and Percival and he had the Holy Grail with
+him. They celebrated mass, and the man revealed himself to
+the knights as Joseph, son of Joseph of Arimathea, and now
+Galahad knew that his time on earth was near an end.
+  Galahad kneeled before the table which held the Holy vessel
+and made his prayers, and as he did so, his soul departed
+quickly and quietly to Jesus Christ. The watching Percival and
+Bors perceived a great multitude of angels take it up to heaven.
+They saw too that a great hand came down and took the Vessel
+and bore that up to heaven as well. And this was the last that
+any earthly man saw of the Holy Grail.
+
+The Death of Arthur
+
+WHEN the Holy Grail had been achieved and that part of
+the knights that still lived had come back unto the Table
+Round, it seemed that the kingdom would be as great as
+it had been before.
+  But Sir Lancelot soon forgot his repentance and his vows of
+the quest and soon he began to resort unto Queen Guenever
+again, and truly the love that was between them was so great
+that they spent many hours together privily.
+  Arthur was told, but he wished only for peace, and would
+not believe unless Sir Lancelot was taken with the deed. So
+Agravain and Mordred, who hated Lancelot, lay in wait with
+twelve knights and trapped him in the Queen's chamber.
+  Though he had none armour, shield, sword nor spear,
+Lancelot fought free and escaped, slaying all but Mordred, who
+fled to the king. Guenever was sentenced to the fire, but Lance-
+lot returned to rescue her and the twain left Logris for Lance-
+
+                              16
+
+lot's lands in France.
+  For himself, Arthur desired only peace with Lancelot, for he
+had loved him well in earlier days. But Arthur listened to the
+counsel of Gawain, who was his nephew. And Gawain was
+mad for vengeance, for Lancelot had slain his brethren in the
+rescue.
+  So Arthur took his army to France, leaving Sir Mordred to
+rule England in his absence, for Sir Mordred was his own
+natural son. And Arthur also put his wife Queen Guenever
+under Mordred's governance.
+  All the while Arthur was waging battle in France, Mordred
+made mischief at home. He forged letters the which he said had
+been sent from France, telling of Arthur's death in battle, and
+was himself crowned at Canterbury.
+  Next Mordred announced his plan to take Guenever as his
+wife. The Queen was passing heavy, but she hid her heart and
+agreed to the wedding. Mordred trusted Guenever well and
+gave her leave to go to London, to buy all manner of things for
+their wedding, whereupon she went straight to the Tower of
+London and stocked it for a long siege.
+  When Arthur heard of all these deeds, he summoned his
+knights anon, and turned for England to be avenged upon
+Mordred.
+  The battle between them was bloody and vicious, but
+Arthur's courage and his men's prowess prevailed and
+although many good knights died, Arthur's armies were victo-
+rious, though Sir Gawain was killed, and Mordred retreated to
+
+                              17
+
+Salisbury.
+  The final battle was assigned for Salisbury on the day after
+Trinity Sunday. The night before, Arthur could not sleep; his
+heart was heavy with the decline of his kingdom and the
+enmity of Lancelot. At last he fell to sleeping fitfully, and as he
+slept he dreamed, and it seemed that the ghost of Gawain
+appeared to him.
+  "I have come to warn you of your death", said the Gawain of
+Arthur's dream. "If ye fight with Mordred as ye both have
+assigned, doubt not that ye will be slain. But within the month
+Sir Lancelot and all his noble knights will come to England to
+your rescue."
+  When Arthur woke, he called his two most trusted knights
+remaining, Sir Bedevere and Sir Lucan, and charged them to
+make a truce with with Mordred. After some hours it was
+agreed, and the two leaders arranged to affirm the treaty
+betwixt their armies on Salisbury Field, and each should bring
+just fourteen knights.
+  Arthur and Mordred met, and were agreed. But it chanced
+that an adder slithered out of a heath bush, and it bit one of the
+knights on the foot. He drew his sword to kill the snake and the
+knights of the armies, that had been so wary, saw the point of
+the sword glinting in the sun and shouted, "Treachery!"
+  Suddenly all was bugles blowing and trumpeting, and the
+two hosts set upon each other in the most doleful battle of them
+all, until both armies were destroyed. Arthur slew Mordred
+and was himself wounded unto death.
+  The king turned to Bedevere, last of his knights, "I have not
+much time left", he said painfully. "Therefore, take my sword
+Excalibur and throw it into yonder lake."
+  Bedevere took the jewelled sword and went down to the
+lakeside, but he hid it behind a tree. "I have done as you ask",
+he told Arthur.
+  "What saw thou at the lake?" asked Arthur. "Sire", replied
+Bedevere, "I saw nothing but waves and the wind on the
+water."
+  "Then thou art lying", said Arthur heavily. "Go again, and
+quickly, for thy tarrying puts my life in jeopardy."
+  So Bedevere returned to the lake, and took up the sword and
+after a moment's hesitation, hurled it as far into the depths as
+he could. As he looked across the water, he saw a fair arm and
+a hand rise out of the lake and it caught the sword as it fell.
+
+                              18
+
+  Arthur was satisfied. He charged Bedevere to take him down
+to the lakeside, where a barge drew alongside the water's edge.
+  In the little barge were a number of fair ladies, all with black
+hoods, and when they saw King Arthur they wept and keened
+greatly. Bedevere placed the weakened king into the barge,
+where the ladies received him with great mourning.
+  Arthur struggled to speak. "Bedevere, I must go into the vale
+of Avalon to be healed of this wound." And Bedevere watched
+the barge as it sailed away.
+
+Epilogue
+
+WHEN Queen Guenever heard that Arthur was slain, and
+of the bloodshed on Salisbury Field, she stole away
+quietly to a nunnery at Almesbury, and spent the rest of
+her days in penance for her sins.
+  As Gawain had prophesied in Arthur's vision, Lancelot
+landed at Dover within a month, having heard of Mordred's
+treachery.
+  He was too late to save Arthur, but was determined to see his
+lady Guenever again. For seven days he was on the road and
+on the eighth he came to a nunnery. As he entered the cloister,
+a nun dressed all in black and white saw him there and
+swooned.
+  They spoke together for a short time, and when Lancelot saw
+that Guenever had taken to a life of penance, he decided that
+this should be his destiny too. He took to his horse, weeping for
+the loss of his love, and rode until he came to the hermitage at
+Glastonbury, where he took on a monk's habit.
+  Lancelot saw Guenever just once more, many years later.
+One night, a vision charged him to ride with all haste to
+Almesbury. This he did, but he was too late, Guenever was
+dead but a half hour since.
+  Without his lady, Lancelot would eat but little meat, nor
+drink, until he sickened more and more and dwindled away.
+Within six weeks he too was dead.
+  Of King Arthur there is little more to be told. Some say he
+rests in Avalon. Others say he is not dead at all, but sleeping
+and will come again, with his Knights of the Table Round,
+when the need is greatest.
+
+                              19
+
+                           MANDARIN
+                           SOFTWARE
+                Europa House, Adlington Park,
+              Adlington, Macclesfield SK10 4NP.

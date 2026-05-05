@@ -1,0 +1,40 @@
+CUSTERD'S QUEST
+===============
+
+Enter the world of the evil necromancer as a latter day Don Quixote.
+
+Hey Space Face! If you can solve this one you can compete with any adventure buff.
+
+This isn't all that serious gunge, this is a good laugh. You can beat any helicopter head 
+at his own game if you can master this.
+
+"I literally fell off my chair laughing (several times!)" Reviewed by The Adventurers Club.
+
+
+CONTROLS
+
+Usual adventure commands plus: Ramsave or Ramload - Saves/Loads to Buffer. 
+
+Graphics/Text - switches graphics on or off score.
+
+Loading: LOAD ""
+
+
+Hints & Tips Dept.
+
+This is not an ordinary adventure - Sir Coward de Custerd is not an ordinary Hero. Explore 
+and enjoy.
+
+
+PROGRAMMER PROFILE 
+
+Name: Craig Richard Davies 
+Occupation: Student 
+Previously Published Work: Murder Hunt for Bodkin Software 
+Work in Progress: Quest for the Holy Something
+
+
+©1987 The Power House 
+All rights reserved. No part of this program should be recorded, duplicated or transferred 
+in any form onto any media without prior authorisation from the owner of the work. Hiring 
+and lending the program is prohibited.

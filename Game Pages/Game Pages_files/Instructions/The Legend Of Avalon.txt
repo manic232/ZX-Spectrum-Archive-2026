@@ -1,0 +1,276 @@
+			      AVALON
+                      for the ZX Spectrum 48K
+
+
+Congratulations!
+
+You are now the proud owner of Avalon, the first in a new world of computer
+games, the Adventure Movie.
+
+			    
+			    INTRODUCTION
+
+About these Instructions
+
+Avalon introduces a number of features you will not have previously 
+encountered and though you will quickly become accustomed to them, these
+instructions are necessarily lengthy. To obtain maximum enjoyment you are
+advised to read all the instructions carefully.
+
+The controls for Avalon are very straightforward - 'UP', 'DOWN', 'LEFT',
+'RIGHT' and 'FIRE'. You are asked to select you keyboard/joystick preference 
+before the game begins.
+
+No other commands are necessary during play although the 'P' and 'O' keys
+freeze and unfreeze the game respectively and 'SAVE' and 'LOAD' keys ('S'
+and 'J') can be used to SAVE the current game and LOAD it at a later date.
+
+Loading a New Game
+
+If you have a joystick then plug it into the edge connecter at the rear of
+your Spectrum. Connect your cassette player to the Spectrum in the usual 
+way. Place the cassette in the player, rewind if necessary and press the
+'PLAY' button. Type LOAD "" on the Spectrum keyboard and press the 'ENTER'
+key. Wait a few minutes and choose the joystick or keyboard option followed
+by 'ENTER'.
+
+
+			  GETTING STARTED
+
+The First Room
+
+When Avalon has loaded and the initial screens are completed you will be
+presented with a three dimensional room with one door on the right hand 
+side, a wizard sitting crossed legged, a large scroll at the bottom of the
+screen on which "MOVE" is written five time (this is a spell) and a large
+arrow pointing to "MOVE".
+
+Press the 'FIRE' button once and the scroll changes to display "MOVE" in
+the top left of the scroll - this is the spell you have selected. Three M's
+to the right of "MOVE" tell you you have three or more uses of the spell
+xxxxxxxxxx the far right is a sxaff - this is the carrier of the "MOVE" 
+spell and you will notice that your wizard is carrying a staff in his right
+hand. Underneath is the phrase 'project thy soul' which is a clue to the
+effect of the "MOVE" spell.
+
+Across the bottom of the scroll is a flame. This is a display of the energy
+you have left. The longer the flame the more your energy.
+
+Press the 'FIRE' button again and the staff on the scroll will flash. This
+tells you that the "MOVE" spell is now activated. Pressing the 'FIRE' again
+deactivates the spell and the scroll returns. try pressing the 'FIRE' 
+button two or three times to see the different effects. When you have 
+finished make sure the staff on the scroll is flashing.
+
+You can now use the keyboard or joystick (depending on which was originally
+selected) to move the wizard round the room. Notice the wizard cannot pass
+through the walls.
+
+To open the door take Maroc (the wizard) up to the door knob and the door 
+will open. Now take Maroc through the door. This operation will take a 
+little practice but you will soon get the hang of it.
+
+Continuing Play
+
+Explore the Gatehouse Level. There are many magic items for you to collect
+by moving Maroc so that he passes over them. you will not be able to open
+all doors, chests, etc until you have collected the necessary spells, keys
+or others objects.
+
+If Maroc collects a magic item the word below the red dragon flashes. When
+this occurs, turn off the "MOVE" spell by pressing the 'FIRE' button. You
+will usually see that a new spell has been added to your Spell List. 
+Sometimes you will collect a duplicate of a spell which you already have in
+which case your Spell List will be unchanged. However you will now be able
+to use the spell more times. For example if you collect more than one copy
+of the "ENERGISE" spell you will be able to fire it more times before it
+becomes exhausted.
+
+Some useful Spells which you may collect early on are "SERVANT", 
+"ENERGISE", "FREEZE", "UNSEEN".
+
+The "SERVANT" Spell
+
+The "SERVANT" spell gives you control of a sprite who can open some doors,
+pick objects up, give them to you or to other wizards, take things from 
+your sack, throw objects, hit things with objects, etc. He is moved with 
+the control keys or joystick. He cannot release an object unless he is 
+switched off by moving him off the bottom of the screen, or unless Maroc or
+another wizard takes the object.
+
+The sack on Maroc's back can hold a small number of objects. When you have
+collected a few objects using the "SERVANT" and placed them in the sack, 
+find a quiet place and experiment taking things from the sack and replacing
+them. When taking an object from the sack steer it away from Maroc or he 
+will take it back again. You will be able to use the "SERVANT" to look
+through the objects in the sack by moving the sprite to and from the sack.
+
+Exploring Avalon
+
+As you move Maroc from room to room you will encounter a number of 
+creatures who will often attack you and drain your energy. You must learn
+how to deal with these creatures either by leaving the room and the next
+room as quickly as you can or by travelling down tunnels. You will also 
+find that some of the spells that you collect can be used against your 
+foes.
+
+Avalon is very complex. There are over 200 rooms, tunnels and caves on 
+eight levels for you to explore in your quest to banish the Lord of Chaos.
+Here are some important clues to help you:
+
+* Almost all significant objects are coloured differently from the room in 
+  which they are found.
+
+* Some doors are locked and you must find the key.
+
+* Some doors are invisible until you solve a problem.
+
+* There are some spell and objects to help you maintain your energy as you
+  penetrate deeper, and also to return you close to your previous position 
+  if you are destroyed.
+
+Making a Map
+
+If you wish to pause to make a map or for any other reason press the 'P'
+key to freeze the game and the 'O' key to unfreeze it.
+
+
+			        LEVELS
+
+Gate House Level: First line of defence (now largely xxxxed which xxxxxxx
+barracks and guard rooms.
+
+2nd Level: Caverns of Doom. Natural Limestone formations carved into 
+rooms.
+
+3rd Level: Mines of Despair. Caves cut into an iron lode which once fed 
+the forges of the Lord of Chaos.
+
+4th Level: Great Halls of the Deep. Once the living quarters of the 
+armies.
+
+5th Level: Goblin Warren. The breeding grounds of the goblins.
+
+6th Level: Labyrinth. Only the wraiths occupy the lower levels.
+
+7th Level: Catacombs of the Undead where they unlive.
+
+8th Level: The place where the Lord of Chaos hides himself.
+
+
+                            THE SPELL SCROLL
+
+The Spell List
+
+Maroc collects spells as he explores the underground complex. These are
+added to his Spell List and displayed on the Spell Scroll when no spells
+are active. The Spell Scroll is scrolled using up and down. When the 
+desired spell is indicated, activate it by pressing 'FIRE'. The scroll
+then shows information about the activated spell. To use the spell press
+'FIRE' again. A picture usually flashes whilst the spell is running. To
+return to the Spell List, press 'UP' or 'DOWN'.
+
+Spell Display
+
+At the top of the spell display is the spell name which is a clue to the
+spell's use, and a number of magic tokens. This part of the scroll is
+replaced by the name of the part of the underground citadel you have 
+reached whenever you pass into a new room.
+
+Magic Tokens
+
+The number of tokens indicates how many more times the spell may be used.
+When there are three tokens, the spell may be used three or more times 
+more. When only two tokens appear it warns that you can only use the spell
+twice more. On the spell's last use, only one token is displayed.
+
+Energy Display
+
+On the lower half of the spell display is a dragon's tongue of flame. This
+is a visual display of your remaining energy. when the flame grows short
+and disappears you will be returned to the start room. An audible beep can
+be heard every time you lose or gain energy. The higher the beep, the more 
+energy you have.
+
+
+			      ACTIVE SPELLS
+
+There are several types of spell and you must experiment to find out how
+each spell works. A general list of spell types follows:
+
+Background Spells e.g. "UNSEEN"
+
+Background spells when activated last until you switch them off. you are
+allowed to select another spell while these are running, for instance, you 
+can "MOVE" whilst "UNSEEN". When activated, the spell list is displayed. 
+The background spell name, shown on the small scroll on the bottom right of
+the screen, reminds you that you have a background spell running. energy
+used up by the spell will be deducted every few seconds. To turn background
+spells off, reselect the spell and press 'FIRE'.
+
+Foreground Spells e.g. "ENERGISE"
+
+These have an instant effect when activated after which the spell scroll is
+redisplayed.
+
+Cursor Spells e.g. "SERVANT"
+
+These display some form of object whilst active and the object can be 
+directed with the keyboard controls or  joystick. To switch the spell off,
+press 'FIRE' or move the object off the bottom of the screen.
+
+Missile Spells e.g. "MISSILE"
+
+These are rather like cursor spells. The spell energy is fired from Maroc
+to the cursor by pressing 'FIRE' and switches off automatically after 
+firing. The spell may also be switched off without firing by moving the
+cursor off the bottom of the screen.
+
+Repeat Missile Spells e.g. "FLAME"
+
+These are like Missile Spells, except that they are not switched off after
+firing until the cursor is moved off the bottom of the screen.
+
+				
+			          SCORING
+
+Every time you are returned to the first room, your current rank is
+displayed on the scroll. There are 16 main ranks which are subdivided into
+eight stages as follows:
+
+STAGES				RANKS
+
+Apprentice			Lore Seeker
+Minor				Wise One
+Lesser				Lore Keeper
+Learned				Mystic
+Master				Alchemist
+Chief				Mage
+High				Magic User
+Supreme				Conjuror
+				Magician
+				Sage
+				Lore Master
+				Warlock
+				Wizard
+				Sorceror
+				Guardian of Lore
+				Lore Lord
+
+You start the game as an Apprentice Lore Seeker and advance by penetrating 
+the dungeon, acquiring spells and defeating your enemies. If your energy 
+runs out this counts against you so that it is possible to lose rank as 
+well as gain it.
+
+
+			SAVING AND LOADING AN OLD GAME
+
+The game may be saved in its current state at any time by pressing 'P' to
+freeze the game, placing a blank cassette in your recorder and pressing 
+the 'SAVE' key. On completion, or if an error is detected or 'BREAK' is
+pressed, press 'O' to restart the game.
+
+An old game can be reloaded by first LOADing the original "Avalon" 
+cassette and then pressing the 'LOAD' key and LOADing the cassette on 
+which you saved your previous game. If an error is detected or 'BREAK' is
+pressed then the game resets for you to try to LOAD your saved game again.

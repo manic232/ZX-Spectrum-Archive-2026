@@ -1,0 +1,599 @@
+THE SPECTRUM GAMES DATABASE
+
+TIR NA NOG
+
+PUBLISHER
+Gargoyle
+
+YEAR
+1984
+
+DESCRIPTION
+Tir Na Nog is a graphic Adventure.
+
+
+INSTRUCTIONS
+The following is the complete inlay card text:
+
+What is Tir Na Nog
+
+Tir Na Nog is a Gaelic phrase meaning Land of Youth, the Celtic
+Other World. This game is about the exploits of the great Hero,
+CUCHULAINN, following his departure from the world of the Living
+and his entry into Tir Na Nog. His subsequent attempts to locate
+and re-unite the fragments of the Seal of Calum form the basis
+of a vast interactive Adventure, set in the magical landscapes
+of Celtic mythology.
+
+
+What's on the Screen
+
+The game of Tir Na Nog has been designed and executed as a
+computer movie. The main character stands 56 pixels tall and is
+controlled via the keyboard; a total of 64 frames are required
+for the complete animation of the figure. In addition, the game
+is populated with a multitude of similarly animated adversaries,
+all moving and acting independently.
+
+The action is presented as though a camera is aimed at the
+central figure, who is situated in a complex landscape. The
+detailed scenery in the fore- and middle-grounds, and the
+continuously animated scenes on the horizon, scroll past him as
+he moves left and right.
+
+The entire world scene may be viewed from all 4 directions. This
+is achieved by allowing the player to move the position of
+camera, causing the view to be re-drawn from the new angle.
+
+In addition to walking left and right, the hero can carry up to
+4 objects, which he can pick up or drop at will - his current
+inventory is shown in the status area at the bottom of the
+screen. He can also 'thrust' with any of these objects when
+engaging in combat.
+
+Also in the status area is information concerning the present
+general location in the game-world; a compass showing the current
+orientation of the camera; any information volunteered by other
+creatures in the game.
+
+
+How Tir Na Nog Works
+
+The Option Screen is presented at the start of the game or upon
+request via the keyboard; the screen offers the following
+choices:
+
+1. Enter the game.
+2. Save the current game.
+3. Restore a game.
+
+Note that returning to the option screen from a current game will
+leave the game-world intact - upon re-entry, nothing will have
+changed unless a previously saved game has been restored. This
+allows a game to be saved at a critical point without destroying
+it. The only way to completely restart the game is to reload it.
+
+When saving or restoring a game, a version number will be asked
+for - this is to ensure that the right game is restored so keep
+a note of version numbers; if you are using a Microdrive, you
+will also be asked for the drive number:
+
+The Keyboard has the following assignments:
+
+The 4 Corner keys will cause the man to 'thrust' with one of the
+objects he is carrying.
+
+Alternate keys on the bottom row will cause the man to walk left
+and right.
+
+Alternate keys on the second row up will change the camera
+position 90 degrees left or right.
+
+Alternate keys on the third row up will cause the man to pick up
+an object or drop a specific object.
+
+Keys on the top row allow the player to nominate one of the
+objects he is carrying, for dropping, thrusting etc. The
+currently nominated object is indicated by an asterisk.
+
+In addition, there are special function keys:
+
+Pressing symbol shift and 4 will enter auto-run mode until
+pressed again.
+
+Pressing symbol shift and 5 will freeze the game until pressed
+again.
+
+Pressing symbol shift and 6 will return to the options screen to
+allow a game to be saved.
+
+
+How to play Tir Na Nog
+
+There are many facets to the land of Tir Na Nog, and, likewise,
+the game can be played on many levels, and in many different
+ways. Each player will adopt the strategies and attitudes to the
+game that suit his or her temperament  - for, while there is a
+single overriding goal in Tir Na Nog, the paths to reach that
+goal may well be infinite.
+
+However, as a guide, we will describe some of the elements
+involved in Tir Na Nog, and, in the next section, give a few
+hints on play.
+
+Exploration - The land of Tir Na Nog is vast and complicated, and
+the paths, scenery and incidental landmarks are continuously
+mapped by the program. Therefore, the first major objective of
+the game is simply to find your way about. There are several
+features in the program to help you do this (as well as several
+to hinder you!), but the most invaluable aid will be a pencil and
+paper...
+
+Interaction - Throughout Tir Na Nog, you will discover a variety
+of creatures - actually, some of them will discover you! Most of
+them will not be at all friendly, but some of them can be
+persuaded, by one means or another, to help you. However, on
+occasions, it will be impossible to avoid combat, and your
+effectiveness in this area is governed by a series of combat
+rules which take into account the qualities of all the objects
+that are being carried and the object currently selected as a
+weapon - you will have to work out the rules for yourself.
+
+The Quests - The main objective of Tir Na Nog is to locate and
+re-unite (and then activate), the fragments of the Seal of Calum.
+The difficulty, however, is not simply in the locating, but in
+persuading the current owners to give them up! In addition, there
+are more than a score of secondary quests that will probably need
+to be completed in order to be in a position to solve the main
+Quest, plus some rather onerous tasks which other inhabitants may
+set on you. As you may appreciate, a complete solution may take
+months, perhaps years...
+
+Generally - As in everyday life, a host of problems must be
+overcome just to make the smallest of steps forward. So it is in
+Tir Na Nog as you will discover... many solutions will depend on
+what is currently being carried or what you have done previously
+in the game; some solutions will require a good deal of 'lateral'
+thinking and even, on a few occasions, a little research in your
+local library!
+
+
+Some Useful Information On Playing
+
+Penalties - Since the Hero Cuchulainn has already departed the
+Land of the Living, it is, of course, impossible to kill him
+(and, likewise, he has no need to eat)! However, if another
+creature in the game successfully attacks you or you perform some
+action which is harmful to yourself, the shade of the Hero will
+be dissipated (eventually) and will reform at the Gateway to Tir
+Na Nog - naturally, everything being carried will be dropped. It
+is as well to remember that, for the same reasons, no creature
+can actually be killed by you, only deterred and daunted for a
+little while...
+
+Pathways - Tir Na Nog is a jealous land and dislikes intrusion,
+even by its own inhabitants. Therefore, all mobile creatures,
+including you, are confined to the numerous paths and roads that
+criss-cross Tir Na Nog.
+
+Doorways - So many doors are there in Tir Na Nog, that it has
+often been called Tir Fosgladach, the Land of Opportunity,
+because of the number of openings that exist. Doors can lead to
+caves or tunnels; some doors will instantly transport you to
+another part of the Land; some are locked and keys are not always
+obvious; some doors are invisible but that you will see for
+yourself...
+
+Note that, to walk through a door; it must be on your pathway,
+so if you pass a likely opening, change the camera position so
+that the doorway is immediately to your left or right.
+
+Weapons, Treasures and Other Objects - The location and selection
+of objects play a major part in Tir Na Nog. Every object in the
+game (and there are hundreds) has certain attributes some are
+more powerful than others, some are apparently worthless but
+nevertheless indispensable. They can be found in a variety of
+places - lying in the road, guarded in caves, buried beneath the
+ground or in the keeping of some other creature. All objects form
+a part of the combat system but some are well worth getting rid
+of...
+
+Sidhea-Bruidhin - The Tongue of the Sidhe is the language from
+which Gaelic eventually developed - it is a mysterious speech,
+sometimes fey and harsh, sometimes melodic and seductive.
+Throughout this game, where the Sidhe names are more evocative,
+they have been used.
+
+--------------------
+
+Extracts From the Leabhar Glaodhach, the Book of Tears, being the
+History of the Seal of Calum and the fall of the Sidhe.
+
+At the end of Time, on the last Day of the Universe, the Great
+Enemy sat alone and smiled his serpentine smile. Wearing his
+satisfaction like a crown, he gazed across an Infinite night,
+watching as each bruised and battered Galaxy flickered like a
+candle flame and died.
+
+Thus another cycle was brought to a crashing close, another cycle
+dominated and tortured and fashioned in his own image, another
+cycle in an unbroken chain of cycles in which his Will had
+reigned unchallenged - and this, thought the Great Enemy, was
+Good.
+
+A final distant cluster of sad stars sighed and went out, and the
+Enemy leaned back on his ebony throne and closed his eyes.
+
+***
+
+And from the darkness spoke a voice, saying: "Master Worm, Thou
+Art Bound."
+
+Slowly, then, did the seated figure open his dark, hooded eyes,
+to see before him a tall and slender man-shape, clutching a
+bundle in his arms. "And What" said the Enemy, "Art Thou?" "We
+are Sidhe. We are the last Guard; We bring thee thy Chains..."
+and the tall Sidhe thrust the bundle towards the throne.
+
+The Great Enemy gasped as a pain travelled along his spine
+upwards to his serpents head; a vast, all-encompassing pain that
+filled his being and he recoiled to press his agony against the
+back of the seat. "Show Me" he hissed. The Sidhe removed an
+object from the bundle and held it high. It flashed and sparkled
+like a giant star; forbidding the eyes to look upon it directly. 
+
+"Behold, Calum's Seal" said the Sidhe. "Long did he toil
+fashioning this Thing in places hidden from thee and now his Seal
+binds Thee..." The Enemy slid down in his throne and curled
+himself into a tight frozen ball, imprisoned by the brilliance
+of the Seal.
+
+In the remaining seconds before the birth of the next cycle, the
+Sidhe spoke his last words to the bound Enemy. "Know this, Master
+Worm, while this Seal is intact, Thou art Chained, and know also
+that
+
+Calum's gift will never be unguarded nor allowed to gather dust
+in some dark niche nor left to the devices of thy servants, this
+at the peril of the souls of our race and so do the Sidhe make
+Oath..."
+
+And so did a new Cycle begin...
+
+***
+
+The Sidhe took the Seal of Calum and hid it deep in an ancient
+fastness, far beyond the ken of Mortal and Immortal alike.
+
+And in a far distant place, the Great Enemy writhed in helpless
+pain on his black throne, leaving a new Universe to pursue a
+happier course.
+
+Great were the civilisations that arose in that golden Cycle and
+great were their works and the Sidhe were cherished by all
+creatures. But, in time, the vigilance of the Sidhe lessened and
+the servants of the Enemy crept once again into the green fields
+and tall towers.
+
+And there came a day when Carnival was in the air and the Sidhe
+went abroad to look fondly on the celebrations. While their
+attention was away from the fortress of the Seal, a thing of the
+Enemy slid silently inside and seized Calum's gift.
+
+In that moment, the Great Enemy and the Sidhe became aware of
+this act; the Enemy sent forth all that was left of his Will to
+render what aid he could to his servant; the Sidhe sprang to
+their feet and returned with such speed as only they could
+achieve to their violated fortress.
+
+So they arrived as the thief was approaching the door of the keep
+and the Sidhe cried aloud in their anger - the thief withered and
+died in a single, sustained blast from those he had robbed. But,
+in dying, he wrought more harm than he could have dreamed, for
+the Seal was also blasted and shattered into four pieces. Thus
+was the Great Enemy loosed from his timeless bondage upon a
+Universe unguarded and ripe for Vengeance.
+
+For the Oath of the Sidhe was shattered with the Seal and they
+took the four pieces through a secret way and withdrew to their
+first kingdom, which was the Otherworld, the Land of Youth,
+called Tir Na Nog.
+
+***
+
+In vain, the Sidhe tried to re-forge the Seal, but the art of
+Calum was lost with its master when he finally passed beyond his
+Smithy to the Far Land, even though his hammer and his anvil he
+left for others to use.
+
+Then, in their shame, the Sidhe were reduced and shrunken to
+petty, dark creatures and their glory was remembered by few, even
+amongst their own kind, but rather were they thought to be of the
+Faery Folk and of little consequence.
+
+The Seal was remembered by even fewer, but, from time to time,
+a piece would emerge from Otherworld and take its place in
+Legend; and, over the ages, the fragments were shaped by the
+legends and became the legends; and this is how the parts of Seal
+of Calum were known:
+
+The first piece became Dagda's Cauldron, which was rumoured to
+be ever the provider of food.
+
+The second piece was known as the Spear of Lugh, which is said
+to ensure victory.
+
+The third piece became the Stone of Fal, which always hit any
+target at which it was thrown, and later was said to shriek in
+the presence of a lawful King.
+
+The last piece was known as Nuada's Sword, which made its bearer
+invincible, and allowed no escape to a fleeing enemy.
+
+For the fragments of the Seal were separately named in their
+re-shaping after the great of the Tuatha de Danann, the children
+of Danu, whom later men called Gods.
+
+And so the Seal, though sundered, retained its power and the
+power of the Whole was present in the parts, though they could
+not be united.
+
+***
+
+Though the worlds were plunged into torment as the Enemy was
+freed, so also in the same moment began the Age of Heroes.
+
+The names of the Heroes were many and most drifted into the mists
+of time with their mortality. Some gave their names to cities and
+mountains, and will be remembered around the fires of men till
+Cycle's End.
+
+But the greatest Hero to walk abroad is remembered for the least
+of his works, for high in honour though his earthly deeds were,
+his noblest acts were performed in places outside of the
+knowledge of the Bards and so were unrecorded.
+
+So let it be known that the name of the Greatest Hero was
+Cuchulainn, who was also called the Hound of Heaven, and in Death
+his deeds were mightier than in Life.
+
+***
+
+Many are the tales concerning the Hero Cuchulainn, though many
+are untrue. Certainly, it is well known that he was at first
+called Sedanta, but, since, as a boy, he had slain that giant
+hound that guarded the lands of Culan (with his bare hands, even,
+and then offering to take its place), he was thereafter called
+the Hound or Culan's Hound or Cuchulainn (though, in familiarity,
+he was also called Cucuc).
+
+And still, when he was but a youth, did he hear from Cathbhadh
+the druid that any mortal that took arms on a certain day would
+be a Hero and renowned forever but fated to be short-lived. And,
+on such a day, Cuchulainn had broken fifteen sets of weapons in
+their trying till he received those of the king himself, before
+departing to join his life as a Hero.
+
+But, alas, the words of the Druid were truth. For, though he
+drove back the Connachtmen and was proclaimed Champion by Cu Roi
+the Sorceror God, and though he received the Secret Signs of
+Ogham, yet, to his grief, he unknowingly killed his own son. And
+so, at last, on the feast of Samhain, at the start of Winter, did
+all his enemies bring Cuchulainn to his doom. By force of arms
+and magic, he was grievously wounded. Then did he tie himself to
+a pillar so that he might die upright as befits a warrior and a
+Hero. In his final moments, the Morrighan and her three sisters
+appeared as the Badhbh Chatha, the Battle Ravens, and landed on
+his shoulders and thus, in bitterness was Cuchulainn sent from
+the Land of the Living.
+
+***
+
+After his departure, the Hero became as a shade and wandered long
+on the borders of the Afterworld, for he was unwilling to leave
+the world of Men, still with all its troubles. So, knowing much
+of the Lore and History of Cycles, he set upon a last Quest.
+
+And the Quest of Cuchulainn was this - to bring together the
+fragments of the Seal of Calum and to re-unite them, for the
+lightening of the burdens of the world and his own lasting glory.
+So he took himself to Mound of the Sidhe, and standing before the
+Altar of the Seal, he gazed upon the gateway to Tir Na Nog...
+
+--------------------
+
+Notes taken from the Sealltuinn, which means Observations, being
+the diary of Edar Mac Eochaid, a Bard of the Sidhe.
+
+The life of a bard is far from an easy one, as I know to my
+eternal discomfort, but harsh were the fortunes Of Ruad, the Red
+Bard, who wrote part of the Leabhar Glaodhach and published the
+shame of the Sidhe. Driven from the Land, it is said he returned
+to dwell in the Plain of Lies, and became a Iore-master of hidden
+paths and secret doors.
+
+The Badbha or Battle Ravens of Badhelm are the bane of King
+Dhomnuil and all who dwell in the Castle of the Sidhe. Perhaps
+the Badbha are correct in their claims that Dhomnuil stole
+Badrig's Feather, shortly after it was removed from the dying
+warlord and cast in iron...
+
+It is my opinion, for what its worth, that, if the 4 Talismans
+were spirited from the Land, the Sidhe Lords would feel nothing
+but relief, since we are forbidden to ever use their Power so
+they remain mute symbols of the Failure of the Sidhe.
+
+I hear many stories from our folk who live in the central lands,
+but none are more intriguing than the tales of the Suil Labhairt,
+the Speaking Eye, which dwells in Cnoc Suil, and is said to give
+good advice in return for gifts - I have personally never
+encountered any Oracle whose advice was in the slightest bit
+helpful...
+
+The great Henges and Standing Stones in Tir Clachan cast
+mysterious shadows on the history of the Sidhe though they must
+be home for much that is strange and magical - I would shrink
+from passing them without all the Words of Power that our Druids
+could offer.
+
+I was today given a piece of the carapace from a Tuath da
+Nathair, one of the Children of Nathair the Fire Serpent - it is
+said to possess great power but I dislike its fiery touch.
+
+Far beneath the black peak of Dubh Sgorr, lie the catacombs
+called An Lin, the Net. I know little of this dire region except
+that the Net was wrought to protect the Heart of Dubh Sgorr...
+
+The deserted village in the Northern foothills was once inhabited
+by Sidhe so arrogant that they termed themselves the Glica na
+Bhard, meaning Wiser than the Bards! Their paintings and poetry
+were quite incomprehensible and, while some obscure works of
+theirs survived the Great Pestilence, I am glad to say that they
+themselves did not.
+
+The beautiful, but grim Cern Forest that covers the west of Tir
+Na Nog is home to a curious branch of our people. I have heard
+that they clean the forest-floor, or perform any other menial
+task, for the Great Hunter who dwells in the deep wood, in return
+for the music played upon his enchanted harp. I have also heard
+that they know a great secret, which is hidden even from the
+Hunter.
+
+That dreary bane of our Land, Olcweed, is spreading daily and
+causing much inconvenience to the poor traveller - and even
+poorer Bard!
+
+When I was young, Engos, my tutor, told of a wondrous neckband
+or Torc that, when carried by a person of honour; would allow him
+to evade the greatest dangers. Alas, it was broken and lost, and
+though I searched all morning, I never found it.
+
+I have noticed of late that a particularly noxious breed of
+cave-wight seems to have crept unnoticed into the Land. Of
+course, it is easy enough to ward them off, but anyone who has
+been trapped by one of these wights knows how irritating they are
+to decent folk...
+
+--------------------
+
+Acknowledgements
+
+The cover illustration was drawn by S.B. Graphics Limited of
+Birmingham. It shows a Celtic deity, probably Cernunnos, and is
+taken from the Gundestrup Cauldron, held in the National Museum,
+Copenhagen.
+
+The map of Tir Na Nog was specially commissioned and was painted
+by Charlie Roberts.
+
+Tir Na Nog is manufactured and marketed by Gargoyle Games, 74,
+King Street, Dudley, West Midlands.
+
+Tir Na Nog (c) 1984 Carter Follis Software Associates. All rights
+reserved world-wide.
+
+The game and name Tir Na Nog and all the associated software,
+code, listings, sound effects, visual displays, graphics,
+illustrations and text are the exclusive property and copyright
+of Carter Follis Software Associates and may not be copied,
+transmitted, transferred, reproduced, hired, lent, distributed,
+stored or modified in any form, in part or full, without the
+express written permission of Carter Follis Software Associates.
+
+
+SEQUEL/PREQUELS
+Tir Na Nog was the first in a series of 3 games.  It was followed
+by Dun Darach and Marsport.  All three were very similar games.
+
+
+CHEATS
+                          TIR NA NOG: THE SOLUTION
+                          ========================
+
+Aim: 
+---- 
+
+Find the four parts of the Great Seal - Nuada's Sword, Dagda's
+Cauldron, the Stone of Fal and Lugh's Spear - and reunite them.
+
+Nuada's Sword
+-------------
+
+1. Find some Bones. (These are in most caves).
+2. Get the Feather from Stormcave and go to Badhelm.
+3. Find the hedge with an entrance in it and go through to Dun
+Dhomnuil.
+4. Get the Honeycomb and return to Badhelm.
+5. Find the door marked with a B and enter it to go to Baldrig's
+Shrine.
+6. Drop the Feather at the Shrine to receive an Oak Leaf in
+return.
+7. Return to Dun Dhomnuil with the Bones and enter the door
+marked X.
+8. Drop the Oak Leaf in front of King Dhomnuil to get Nuada's
+Sword.
+
+
+Dagda's Cauldron
+----------------
+
+1. Get the Daisy (near the waterfall in Glasmarsh).
+2. Go to the Slige Warrens and find the invisible entrance to
+Caerdach Calum. It is on the side of the building near the
+portal.
+3. Pick up the Cauldron - with the Daisy, Nathair will not harm
+you.
+
+
+The Stone of Fal
+----------------
+
+1. Get the Book from the water cave in Glasmarsh.
+2. Get the Ice from the Ice Cave in Tir Clachan.
+3. With the Ice, go to the Slige Warrens and enter the door
+marked with a snowflake to get to An Lin.
+4. Go West and take the second turning to the North, then the
+first turning to the West, then North, then East, then North. You
+should now be in a dead end.
+5. Pick up the Halbard and go to Sgorr Brag.
+6. Once there, drop the Halbard to receive the Stone of Fal in
+return.
+
+
+Lugh's Spear
+------------
+
+1. Pick up the Ring in the Lava Flats and go to the cave marked
+with a Ring symbol.
+2. Enter this cave and take the Antlers.
+3. Go to the Forest of Cern and get the Pin.
+4. Enter Cern's cave and drop the Antlers to obtain the Harp.
+This enables you to walk through the Sidhe in the forest without
+being harmed.
+5. Follow the Sidhe until he goes through an invisible door. Make
+sure you have the Pin and go through this door.
+6. Go to the end of the tunnel and get Lugh's Spear.
+
+
+To finish the game
+------------------
+
+1. Take all the parts of the Seal to the altar at the start of
+the game.
+2. Go and find a Spade (look in Stormbase).
+3. Face the cross in Stormbase and walk North nine paces.
+4. Drop the Spade here to receive Calum's Hammer.
+5. Return to the altar. If you have dropped all the parts of the
+Seal here, you should get the message OGAM appearing on the altar
+(this is the language which you use to translate the scrolls in
+the Library).
+6. Drop Calum's Hammer on top of the parts of the Seal to
+complete the game.
+
+
+URL
+ftp.dcc.uchile.cl/pub/OS/sinclair/snapshots/t/tirnanog.zip
+
+FACTS
+
+NOTES

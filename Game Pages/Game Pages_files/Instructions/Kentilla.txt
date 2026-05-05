@@ -1,0 +1,116 @@
+KENTILLA
+(Micromega)
+
+An interactive text/graphics adventure by Derek Brewster for 48K Spectrum.
+
+
+GRAKO had grand designs in CARALAND. It could be a perfect playground
+of hate, torture, walking dead and eternal darkness. The inhabitants
+of the land, however, had other ideas. Making his castle on the
+central plains of Caraland, Grako grew in power, turning the once
+fertile plains to scorched dust. But being so far from his place of
+power he was unable to maintain his demonic influence. Grako was
+finally defeated by the great warrior ASHKA and was returned in shame
+to the tortuous fires of the Abyss.
+As the world rejoiced, other sinister plans were afoot. VELNOR - the
+evil sorcerer long-since vanquished for the black arts he practised
+(see VELNOR'S LAIR from Quicksilva) - was planning revenge. Hidden
+within the labyrinth beneath Mount Elk, Velnor had found the nefarious
+Tomes of Grako. The power of eternal life and sovereignty over all he
+hated was in his hands. Velnor could become a true demon on Earth.
+Born of Earth and not of the Abyss, his power would be supreme.
+Unknown to mortal man, this was all part of Grako's plan. The spells
+were flawed, and during metamorphosis Velnor's powers were weakened.
+His traps were cunning and his guards loyal and fierce, but a wizard
+by the name of TYLON was equal to the challenge. In a mighty battle of
+magic in the central chamber of Mount Elk, Velnor was slain and his
+soul dragged through the void to the flames of the Abyss.
+For a few faint seconds a corridor was open and Grako made good his
+escape to breathe hate once more on the free plains of Caraland. And
+now Grako's power could be supreme, for no longer did he have a rival
+and he now had within his grasp the source of all Velnor's power: the
+MOONSTONE OF ALGRATH.
+Here starts the second tale from the myths and legends of CARALAND.
+
+
+To load press J key and, holding down red SYMBOL SHIFT, press P key
+twice. Screen should show LOAD "". Press ENTER and start playing the
+cassette. KENTILLA is recorded twice on one side of the cassette only.
+KENTILLA has a sophisticated input editor to ease command entry.
+CAPS SHIFT 0 - Delete character to left of cursor.
+CAPS SHIFT 9 - Insert a space at cursor.
+CAPS SHIFT 8 - Move cursor right.
+CAPS SHIFT 5 - Move cursor left.
+CAPS SHIFT 1 - Recall last command. This must be used before any other
+input is made. It is useful for lengthy battles, correcting mistyped
+commands or conveniently altering a command (eg. after KILL URGA you
+might want to EXAMINE URGA so just recall the last command and over-
+type KILL with EXAM).
+
+
+Single word commands
+NORTH, N, etc.  Move in specified direction
+INVENTORY, I    List carried objects
+LOOK, L         Redescribe location
+SAVE            Save game present position
+LOAD            Load saved game
+QUIT            End game; start again
+SCORE           Check % progress through game
+WAIT            Do nothing
+
+The following are some of the more important verbs which are accepted.
+There are many more which you will have to find for yourself.
+
+GET         TAKE        DROP        EXAMINE
+SEARCH      KILL        ATTACK      ENTER
+LEAVE       SAY         CLIMB       TIE, UNTIE
+THROW       WEAR        REMOVE      OPEN
+UNLOCK      LOCK        GIVE        PULL
+PUSH        LOOK        EAT         LIGHT
+TURN        HIT         PUT         CAST
+EXTINGUISH
+
+ALL can be used with the verbs GET and DROP to pick up everything in a
+location or drop everything carried. It will ignore hidden objects,
+etc, and dead characters. LOOK is used for seeing into containers; eg.
+LOOK INTO CHEST. It can also be used to look at adjacent locations;
+eg. LOOK EAST will tell you what objects and creatures (except hidden
+ones) are there.
+GIVE: When giving an object to a character, it must be done in the
+form GIVE (object) TO (character); eg. GIVE SACK TO ELVA.
+
+
+Talking to other characters
+To talk to another character you must mention the character and use
+quotes; eg. SAY TO OGERON "GIVE ME SWORD". Friendly characters will
+usually cooperate if they can - others not necessarily!
+Sentences are not limited to VERB/NOUN, although this is sufficient in
+many cases; eg. GET SHIELD or GET THE LARGE SHIELD.
+In many cases longer sentences are necessary, eg. PUT SWORD INTO CHEST
+or UNLOCK RED DOOR WITH LARGE KEY.
+Many objects are described by both noun and adjective; eg. LARGE KEY
+or NASTY KNIFE. If you want to get the large key you could try GET
+LARGE, GET KEY or GET LARGE KEY. The first two might be accepted,
+unless there are other large objects or keys around - this would cause
+confusion.
+
+Abbreviations
+Most words can be abbreviated to two letters, and some to one; eg.
+OPEN DOOR can be OP D. Ambiguity can arise, though; eg. LOOK IN CHEST
+as LO CH will be taken as LOCK CHEST - LOO CH would work.
+
+HINTS
+KENTILLA is a richly devious adventure. Collecting objects is not an
+end, just a means to it. You may have to revisit some locations a
+number of times in order to make overall progress, and time may be of
+the essence. Much is hidden, and not revealed at first examination.
+The pictures might sometimes hold clues for you. You may befriend some
+enemies. Apparently useless things might have curious effects on those
+who threaten you. The very title of the game is of great importance in
+its playing ... but you will find that out ...
+
+
+Loading screen by Image Systems
+
+This programme uses a special loader. Do not be alarmed if the normal
+striped border does not appear during loading.

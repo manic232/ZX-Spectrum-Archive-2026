@@ -1,0 +1,806 @@
+THE SPECTRUM GAME DATABASE
+
+THE HOBBIT
+
+PUBLISHER
+Melbourne House
+
+AUTHOR
+Beam Software
+
+YEAR
+1982
+
+CATEGORY
+Text Adventure
+
+DESCRIPTION
+The Hobbit is a text adventure with graphics.
+
+CONTROLS
+Commands are entered using the keyboard.
+
+INSTRUCTIONS
+The objective of the game is to get the treasure form the Dragon
+and place it in the chest.  Commands can be given in normal
+English.
+
+
+INLAY CARD TEXT
+
+CONGRATULATIONS
+
+Congratulations!  You are about to play the most sophisticated
+game program yet devised for any microcomputer.
+
+Melbourne House in association with the Tolkien Estate are very
+proud to be able to present to you THE HOBBIT, an amazing program
+based on J.R.R. Tolkiens brilliant fantasy novel.
+
+In THE HOBBIT program, you take on the role of Bilbo, the hobbit.
+
+You will be able to roam freely throughout Middle Earth, explore
+and discover this wonderful enchanted land.  You will meet all
+types of creatures, some friendly, others much less so.  Your
+adventure will be dangerous and exciting - it will be up to you
+to face the challenges which confront Bilbo.
+
+If you are unfamiliar with Hobbits, you should know that hobbits
+are a little people, about half ouor height, and smaller than the
+bearded dwarves.  Hobbits have no beards.  There is little or no
+magic about them.  For a fuller description you will have to read
+THE HOBBIT, but this description should be enough for you to
+realise that most other creatures you will meet in this
+adventure, including dwarves, will be bigger and stronger than
+you.
+
+You will therefore need to exersise all your cunning and skill
+to survive.
+
+At the point where this Adventure commences Gandalf, who is a
+wizard, has talked you into entering a new and exciting adventure
+to help out Thorin, the dwarf.
+
+Your mission is to seek out the evil Dragon and return the
+treasure he hoards back to your home and place it for safe
+keeping in the chest.  As a secondary mission, you must look out
+after Thorin and protect him.  Should he be killed during the
+adventure, it is most unlikely you will be able to survive the
+dangers ahead of you on your journey!
+
+Best of luck Bilbo: may you return with wonderful tales to tell
+on a cold evening in front of a log fire.
+
+COMMUNICATING WITH THE COMPUTER
+
+The computer in this Adventure acts as a go between  for you. 
+You tell the computer inplain Inglish exactly what you want to
+do, and the computer will translate that request and execute it.
+
+The computer will also be your source of information about where
+you are, what you can see and what the other creatures in the
+adventure are doing.
+
+If the computer is not sure of something you meant, or if there
+is any ambiguity about what you said, it will come back to you
+with queries asking for clarification.
+
+The computer has a large vocabulary - it knows over 500 words,
+and it can perform over 50 different actions (made up by over 30
+verbs listed at the back of this booklet, combined with over 10
+prepositions) so it is capable of very sophisticated
+communication.  The use of plain INGLISH allows you to enter your
+instructions in normal sentences.
+
+The Screen Display
+
+The screen display has been divided into two "windows" -
+
+The bottom five lines of the screen is your "communication
+window" with the computer.  Everything you type will be shown
+here in capital letters, and this part of the screen will scroll
+independantly of the rest of the screen.  If doe some reason
+there is confusion about what you typed in, the computer will
+prompt oyu in the same "communication window" area.
+
+An obvious example is where you mistyped a word, such as DOOR -
+the computer would return with the prompt -
+   I don't understand the word "DOR".
+Other messages will also be printed here when the computer is not
+able to execute what you typed in.
+
+The rest of the screen is the "Adventure window" - this is where
+you will be able to find out what is happening in the adventure,
+what you can see, and so on.
+
+The "Adventure window" is shown on the screen in upper and lower
+case.  Every action that you take is also printed on the
+"Adventure window" (usually in more detail than what you
+entered!)
+
+Any action that takes place, whether performed by you or one of
+the other characters will be shown:
+   You take the short strong sword.
+   Thorin examines the curious map.
+
+Descriptions of the locations, objects, what is in the objects,
+and so on, is also shown on the "Adventure window".
+
+The "Adventure window" scrolls independantly of the bottom
+screen.  Usually what happens will be able to be printed on
+screen without losing anything.  Occasionally, such as if you
+have typed in many sentences at once, or if there is a lot of
+action going on, the information will take up more than one
+screen full.
+
+The screen scrolling speed is slow enough to be able to be read
+at normal reading speed.  You may however want to examine a
+particular message more carefully - holding down any key will
+stop the scrolling.  Taking your hand off the key will return to
+normal scrolling speed.
+
+GENERAL CONCEPTS FOR THE HOBBIT ADVENTURE
+
+THE HOBBIT Adventure is an adventure simulation where you have
+to instruct Bilbo on what to do in various situations.
+
+The map of WILDERLAND, where the action takes place, can be found
+in the book of THE HOBBIT, and over 50 of the locations described
+in the book are represented in this Adventure.
+
+On first entering a new location, the computer will give you a
+full description of where you are, and what the p[lace looks
+like.  You will also be given a list of the visible exits from
+where you are.  It is a good idea to draw a map of the way the
+different locations connect to each other, should you need to go
+back or if you should get lost.
+
+The second time you arrive at any location, the computer will
+give you only a short description of where you are.  If you want
+a complete description again, you can obtain it by asking the
+computer to have a look around.  It's that simple.
+
+On your adventure you will find many strange and wonderful
+objects.  Some may have magical properties, while other may not
+be what they first seem to be!  Some can be sued as weapons,
+others can be be eaten, and so on.
+
+There are however certain general laws of physics inWilderland
+that must be obeyed:
+
+* You cannot lift any object that is too heavy, or, if you are
+carrying too much, lift another object if that would mean
+carrying too heavy a load.  The same obviously applies to all
+other creatures in the adventure, but as they are likely to be
+stronger than you are, they may be able to lift things you can't.
+
+* You do not have to be carrying an object in order to be able
+to use it.  For example, if there is a sword lying on the ground,
+you can say KILL THE GOBLIN WITH THE SWORD
+The major exception is if the sword (or any other object you want
+to do something with) is carried by someone else - as everyone
+else is stronger than you, they won't let you take anything they
+are carrying.
+
+* Some objects can act as containers - for example, sacks,
+barrels, and so on.  You cannot put an object into a container
+if it's too large to fit, nor can you put in or take out any
+objects if the container is closed.
+
+* Some containers may be transparent, while others not.  You will
+be able to see the contents of any transparent container but if
+it is not transparemt, you will not be able to see inside it
+unless you open it.
+
+* Liquids behave just like liquids - this means that you can't
+carry them around without putting them in a container; if the
+container breaks the liquid spills to the ground, and so on.
+
+* Some things may be locked - doors are an obvious example, but
+so many windows, secret caches, and so on.  To unlock them you
+will need the right key.
+
+* Some things are breakable, and you must be careful in how you
+handle them.  In other cases, you may want to deliberately break
+an object.  Be careful what you try to break things with, because
+you may find that trying to break a door with a bottle, for
+example, will result in the bottle being broken instead!
+
+* Fighting makes you weaker, as it requires so much energy.  You
+will need to eat regularly to get your strength back, as
+otherwise you may find yourself too weak to lift even the
+smallest object.  Be warned though - don't be a glutton.
+
+THE RULES OF INGLISH
+
+With the help of this program, your program is now able to talk
+to you in INGLISH.  What's more, woul will be able to talk to the
+computer in INGLISH, and it will understand what you say!
+
+INGLISH is the most sophisticated natural language recognition
+program yet developed on any microcomputer, and Melbourne House
+are very proud to be able to bring this implementation to you in
+THE HOBBIT program.
+
+The rules of INGLISH are simple - you probably already know
+INGLISH without even being aware of it.
+
+* Each sentence must have a verb.
+   As a minimum sentence, you can have just the verb.
+   For example:  RUN
+                 CLIMB
+                 WAIT
+   These sentences are all fine.
+
+   The meaning of the verbs may be altered by the use of adverbs,
+such as
+           RUN QUICKLY
+        or VICIOUSLY BREAK THE DOOR
+
+* Normal grammar applies, and the order of the different parts
+of the sentence is not critical.
+
+   For example, the following two sentences are both valid, and
+both have the same meaning:
+    WITH THE SWORD CAREFULLY ATTACK THE TROLL
+    ATTACK THE TROLL CAREFULLY WITH THE SWORD.
+
+*  Adjectives which describe objects must come before the noun. 
+If it sound right, it probably is right.
+    OPEN THE GREEN DOOR is right.
+but OPEN THE DOOR GREEN is not.
+
+This is pretty obvious.  If it sounds odd to you, you can be sure
+the computer is likely to think so too.
+
+* Prepositions, such as WITH, UNDER, ON, OFF and so on, usually
+come before the noun in INGLISH:
+    ATTACK WITH THE SWORD.
+    PICK UP THE GOLD.
+
+There are some verbs where the preposition could go before or
+after, or where the more natural sounding sentence is with the
+preposition last.  For example in:
+   TURN THE LIGHT ON.
+   PICK THE GOLD UP.
+These are also acceptable.
+
+Use of AND
+
+You can use the word "AND" in all its normal meaning in INGLISH! 
+This means, among other things, that you can enter more than one
+sentence at a time.
+
+The following sentences illustrates different meanings of the
+word AND:
+   TAKE THE LAMP AND THE ROPE OUT OF THE BARREL.
+   DROP THE SHORT AND THE LONG SWORDS.
+   TAKE THE MONEY AND RUN.
+
+With the use of INGLISH, your computer will be able to understand
+all the sentences correctly.
+
+Punctuation
+
+Different sentences should be separated by some sort of
+punctuation - use AND, commas, semi-colons, and full stops as you
+normally would.
+
+The only limitation placed by the computer on how many sentences
+you can enter at one time is a total limit of 128 characters.
+
+Of course, keep in mind that each time you do something, the
+other creatures may also decide to do something and you could end
+up with some unexpected results if you enter too many commands
+at once.
+
+Using ALL, EVERYTHING and EXCEPT
+
+It may not be convenient for you to enter the description of
+every object in the room if you should wish to pick everything
+up.
+
+Therefore you can generalise by the use of ALL, EVERYTHING and
+EXCEPT, just as you normally would.
+
+You may qualify what you actually want to manipulate - in other
+words you can say ALL DWARVES, or you can say EVERYTHING EXCEPT
+GREEN BOTTLES.
+
+The following are examples of valid sentences:
+
+   EAT EVERYTHING
+   OPEN ALL EXCEPT THE GREEN BOTTLE.
+   BREAK ALL BOTTLES EXCEPT THE GREEN ONE.
+
+Limitation of INGLISH
+
+* To describe an object, you can only use the objects name and
+its adjectives (if any).  For example, if you see that there is
+some delicious foaming beer in a bottle, you could say:
+   DRINK BEER
+or DRINK DELICIOUS BEER
+or DRINK FOAMING BEER
+or DRINK DELICIOUS FOAMING BEER
+or DRINK FOAMING DELICIOUS BEER
+
+All these would result in quenching your thirst.
+You cannot use the position of an object as its description. 
+This means that a sentence such as
+   DRINK BEER IN BOTTLE
+is not acceptable.
+
+* You cannot have more than one indirect object in a sentence.
+Basically this means that you cannot specify doing one thing in
+more than one way.
+
+For example, you could say
+   PUT THE ROPE ON THE TABLE
+or you could decide to put it on the chair:
+   PUT THE ROPE ON THE CHAIR
+
+but you cannot put the rope on but the table and on the chair at
+the same time.
+
+You therefor can't say
+   PUT THE ROPE ON TABLE AND CHAIR
+
+This is a general rule, and means that you can't say things like:
+   ATTACK WOLVES WITH EVERYTHING.
+
+We feel that these limitations are fairly minor, and that you
+should be able to express yourself exactly the way you feel most
+comfortable.
+
+
+FINDING YOUR WAY IN WILDERLAND
+
+There are a number of ways you can tell the computer that you
+want to move from one location to another.
+Let's assume that you are at home (Biblo's home, that is), and
+the computer tells you:
+   You are in a comfortable tunnel like hall
+   To the east there is a green door
+   - Gandalf goes east. -
+
+You can do any of the following, all of which are valid.
+
+Using arrow keys
+
+The four arrows keys can be used for fast movements in the main
+direction: north, east, south and west.
+(You do not have to press SHIFT - just the keys 6, 6, 7, or 8 -
+and there is no need to press enter when using the arrow keys.)
+
+Note that the arrow keys can only be used as the first key of
+your command to the computer.  You may not for example, start
+entering a word, backspace to the beginning of the line and then
+press an arrow key.
+
+Note also that the arrow keys cannot move you in the other
+directions, such as southeast or up or down.
+
+Specifying the direction
+
+The eight directions of the compass (north, northeast, east
+southeast, and so on...) and up abd down can be specified either
+by their full spelling, or by abbreviation, or in a sentence.
+
+For example, E.  EAST.  GO E.
+             RUN EAST.  QUICKLY GO EAST.  are all valid.
+
+As you may enter more than one sentence at a time, you can use
+the directions as part of a longer command, such as
+   TAKE EVERYTHING AND GO EAST
+or TAKE ALL, E.
+If you are very brave, you can try:
+   E, E, SE, W
+
+Passing through entrances
+
+If you want to go through an entrance or a passageway, it is
+quite valid to say, as in this case,
+   GO THROUGH THE GREEN DOOR.
+
+You may also go through windows, or any other open passageways.
+
+An interesting point is that you can also LOOK THROUGH doors and
+windows.  This can be very useful if you want to see where you
+would get to by going in that direction, or to see who is there
+waiting for you!
+
+Entering places
+
+If you know where you are going, you can specify the location;
+as you well know, going east from your home leads you to the
+lonelands.  You may therefore say:
+   ENTER LONELANDS
+or GO INTO LONELANDS
+
+Following other people
+
+If you know, as in this case, that someone you want to talk to
+has gone out, you can follow them:
+   FOLLOW GANDALF
+
+Special crossings
+
+Crossing rivers, ravines, chasma, and so on can be both dangerous
+and difficult.
+You could try to jump across a ravine or swim across a river -
+in some cases, you may be able to use material you find to build
+a temporary bridge, or use a rope to swing across.
+
+The general instruction for such a crossing would be to secure
+your means of crossing, and then to
+   CROSS RAVINE
+
+LIGHT AND DARK
+
+In order to reach the Dragon and his treasure, you will need to
+go through caves, dungeons and other underground locations.
+
+Some places have natural light, while others are dark and
+forbidding.  It goes without saying that if you go into a
+location without a light, you won't be able to see anything.
+
+However, you are likely to be disoriented and lose your sense of
+direction - it's very dangerous to move in the dark.
+
+SEEING WHERE YOU ARE
+
+In addition to the many ground-breaking features implemented in
+THE HOBBIT, you will also be able to see the view as Bilbo would
+see it in most of the locations you take him to.
+
+As you enter the new location, a visual representation will
+appear on your Spectrum screen, and the game will pause to enable
+[you] to view the scene.  Pressing any key will also allow you
+to continue with the game.
+
+The visual representation of each location will normally only be
+shown to you the first time you enter that particular location. 
+If you wish to refresh your memory as to exactly where it is you
+are, you may enter the command LOOK.
+
+This visual image is an artists impression of the scene, and will
+not change as the game progresses.
+
+SPECIAL COMMANDS
+
+There are a number of special commands that are unique to THE
+HOBBIT Adventure.  These are:
+
+LOOK (or abbreviation L):  This gives you a full description of
+where you are, all exits, and all visible objects, except for
+what you are carrying.
+
+INVENTORY (or abbreviation I):  This gives you a description of
+everything you are carrying.
+
+EXAMINE object:  This enables you to have a closer look at any
+object you may encounter.
+
+WAIT:  This allows the passage of time.
+
+@:(Does not require ENTER key to be pressed)
+ This is an exceptionally useful key which performs the function
+of "DO LAST COMMAND AGAIN".
+ This command can only be used as the first entry for a line.
+
+PRINT:  This command turns on the ZX Printer (if you have one
+connected to your Spectrum), and sends the contents of the
+"Adventure window" to the printer as well as to the screen.  This
+is very useful in trying to solve the problems of THE HOBBIT, as
+it allows you to go over athe events of the day at your leisure. 
+The print-out of the "Adventure window" makes excellent reading
+-
+comparable to a novel, but one in which you decide on the course
+of action.
+
+NOPRINT:  This command disables the PRINT printer function.
+
+SAVE:  This command allows you to save the data about your
+Adventure thus far on to tape for later playing.  After the game
+has been saved the computer will ask you to rewind it for
+verification.  When you have finished SAVEing your progress thus
+far, the game continues normally.  The SAVE feature is very
+useful if you have progressed deep into Wilderland and don't want
+to start from the beginning again should you accidently get
+killed.
+
+LOAD:  This command loads from tape the previously saved
+Adventure.
+
+QUIT:  Restarts the game.
+
+SCORE:  Tells you how ell you are going.
+
+PAUSE:  Suspends the game until any key is pressed.
+
+
+USING ABBREVIATIONS
+
+It is possible to be extremely brief with the computer, and still
+be understood perfectly well.  Obviously, though, the briefer
+your sentence or abbreviation, the more likely the possibility
+of misinterpretation.
+
+It is also possible to type in less than a full sentence, and if
+there is no mistaking your intention, the computer will do what
+you wanted:
+
+   You are in a comfortable tunnel like hall
+   To the east there is a green door
+   You see: a wooden chest
+
+Let us assume you want to open the door, you would obviously say:
+
+   OPEN THE GREEN DOOR
+
+You could, however, also be brief and only say
+
+   OPEN.
+
+In this case, the meaning may seem obvious to you, but in fact
+the computer knows that it is also possible to open the wooden
+chest, and the computer will therefore ask you:
+   OPEN WHAT?
+
+You have a complete choice of answers here, including typing in
+a new sentence altogether, or just the object you want to open. 
+Let us assume that you answer the query with
+   OPEN WHAT? ALL
+
+The computer will now process your instructions, and you will see
+on the "Adventure window" the results of your instructions:
+   - You open the green door. -
+   - You open the wooden chest.-
+
+If you were to now again enter the command OPEN, the computer
+would tell you, very reasonably:
+   I see nothing to open.
+
+Note that if you had typed in the full sentence
+   OPEN THE DOOR
+the reply from the computer would have told you
+   The green door is open.
+There is a price to be paid for being too brief!
+
+
+ANIMACTION IS HERE
+
+Amazing as it sounds, all the other characters you will meet in
+THE HOBBIT have an independant character of their own.
+
+This is another unique feature of THE HOBBIT which distinguishes
+it from most other microcomputer games.  Each character of
+creature is capable of performing a wide range of actions and of
+making decisions based on what is happening.  Just as in real
+life, they are doing something almost all of the time - they are
+animated!
+
+Each character will follow a course of action that is in keeping
+with its character, and obviously the specific actions they take
+will be different each time you play THE HOBBIT.
+
+They will react in some way, not only to what you do, but also
+to what every other creature they come into contact with does! 
+Even when you're not around, they will go about their business.
+
+Because of this unique feature, you will find that each time you
+play THE HOBBIT things will proceed in a slightly different way,
+and the further you get into the Adventure, the more different
+it may be.  While this also means that there is no unique
+solution solving the problems in THE HOBBIT, it also means that
+you will face slightly different problems each time you play THE
+HOBBIT.
+
+This is not an Adventure that you will play only once!  Every
+time you start, you will be on a new Adventure.
+
+Time marches on
+
+THE HOBBIT is played in real time - this means that things happen
+as time goes on.  The only time the computer doesn't do something
+is when you are entering a new instruction.
+
+If you just sit and watch the screen, you will find that after
+about 30 seconds, the following message will appear:
+   - You wait. -
+   Time passes . . .
+
+And while you wait, every other creature will be doing its own
+thing.
+
+
+TALK TO THE ANIMALS
+
+THE HOBBIT features ANIMTALK, the amazing implementation that
+allows you to talk to the other creatures in the Adventure.
+
+Now, at last, you can answer questions the other creatures may
+put to you, and moreover you can say to the other creatures what
+you would like them to do.
+
+Of course, because every creature in THE HOBBIT is animated
+through ANIMACTION, they will make their own mind up and decide
+if they want to do what you suggested.
+
+The format is exceptionally simple.  You enter
+   SAY TO whomever "sentence".
+For example,
+   SAY TO GANDALF "READ MAP"
+If he wants to, he may do it, or you may see the message:
+   - Gandalf says "No!" -
+
+You must have the message you want to say between quote marks,
+and all the normal rules of INGLISH apply to what you say to the
+other creatures.
+
+Try not to say too much to one person at a time, because if you
+are long winded they will think you are a bore, and will tend not
+to agree to help you.  It is a good idea for the same reason to
+try to limit the use of ALL in commands to other creatures.
+
+You must be more careful than usual in typing what you say to the
+other creatures.  They, unlike your computer, won't tell you if
+they don't understand what you are saying to them - they'll just
+think you are a little odd.
+
+And if the other creatures think that you make little sense, they
+are unlikely to help you much.
+
+Cooperating with other creatures
+You should know that for some of the problems you will find in
+THE HOBBIT, a solution only exists if you are willing to
+cooperate with the other creatures in the Adventure.
+
+As you are only a hobbit, and have no magic, there will be many
+things other people will be able to do better than you are able
+to do, such as lifting heavy weights, fighting monsters, and so
+on.
+
+So you must be sure to stay on good terms with your friends.  Of
+course, sometimes you will be on your own, and will have to fight
+your own fights.
+
+Fighting with other creatures
+There would be no Adventure without danger, and many of the
+creatures you will meet in WILDERLAND are less than friendly.
+
+Many will attack you on sight.  Some will try to kill you, while
+others will try to capture you.  It is also safe to say that any
+creature will fight back if attacked.
+
+As you are only a hobbit,  you will need weapons to help you, but
+you will still be able to fight even without weapons.
+
+If you do not specify a weapon (even if you are carrying one) ,
+the computer will assume you wish to fight the enemy with you
+bare hands.
+
+Because of ANIMACTION, and the viciousness of some of the
+creatures, do not be surprised to find dead bodies in your
+travels - these are the results of fights going on in WILDERLAND
+
+--------------------------------------------------------------
+
+Due to the immense size and complexity of this game it is
+impossible to guarantee that it will never be completely error-
+free.
+
+A great deal of time has been spent testing this program to
+ensure it will behave as described within these instructions.
+
+If, however, any problems are found we would like to know about
+them so that future versions may be corrected.  We would also
+like to hear any comments or criticisms you may have about the
+game.
+
+--------------------------------------------------------------
+
+HINTS FOR THE HOBBIT
+
+The best hints you can get for this Adventure come from the book,
+THE HOBBIT.
+
+This Adventure follows extremely closely the plot of the book,
+and if you should find yourself stuck, the best solution is to
+carefully reread the book.
+
+Some parts of the adventure have slight departures from the book
+to make it more interesting - the riddles that Gollum may ask
+you, for example, are not the same as in the book!  That would
+be too easy!
+
+At some points in the game you may use the word "HELP" to get a
+clue to help you continue.  These clues are meant to be somewhat
+cryptic.
+
+DICTIONARY
+
+Movements:
+DOWN D  EAST E  NORTH N  NORTHEAST NE  NORTHWEST NW  SOUTH S 
+SOUTHEAST SE  SOUTHWEST SW  UP U  WEST W
+
+Special verbs:
+EXAMINE  HELP  INVENTORY I  LOAD  LOOK L  NOPRINT  PAUSE  PRINT 
+QUIT  SAVE  SCORE
+
+Action verbs:
+BREAK  CLIMB  CLOSE  CROSS  DIG  DROP  DRINK  EMPTY  ENTER  EAT 
+FILL  FOLLOW  GIVE  GO  KILL  LOCK  PICK  PUT  OPEN  RUN  SAY 
+SHOOT  SWIM  TIE  TAKE  THROW  TURN  UNLOCK  UNTIE  WEAR
+
+Prepositions:
+ACROSS  AT  FROM  IN  INTO  ON  OUT  OFF  THROUGH  TO  UP  WITH
+
+Adverbs:
+CAREFULLY  GENTLY  QUICKLY  SOFTLY  VICIOUSLY
+
+
+The plot of THE HOBBIT, the character of the Hobbit, and the
+other characters from J.R.R. Tolkien's novel are Copyright (c)
+George Allen and Unwin Publishers 1951, 1975, 1979 and 1981.
+
+The program of THE HOBBIT is copright (c) by Beam Software 1982.
+
+INGLISH, ANIMACTION and ANIMTALK are trademarks of Melbourne
+House.
+
+The program was written as a group effort by Phillip Mitchel and
+Veronika Megler, with Alfred Milgrom and Stuart Ritchie over a
+period of 18 months.
+
+The illustrations are based on drawings by Kent Rees.
+The cover drawing is by Con Aslanis.
+
+Published by Melbourne House.
+
+[end of booklet]
+
+
+SEQUELS/PREQUELS
+here were two sequels to The Hobbit released, both based on the
+sequel to the book The Hobbit, called Lord of the Rings.
+
+The Tolkien Trilogy (Beau-Jolly, 1989) contained The Hobbit, Lord
+of the Rings Part One and Shadows of Mordor. The manual, which
+was rewritten to cover all three games, was quite good by the
+standards of compilations.
+
+
+SCORES RECEIVED
+
+REVIEWS:
+The following text appeared in the Sinclair User Top 50 Spectrum
+Software Classics, of which The Hobbit was number 1:
+
+The world of computer games is divided into two types of people
+- those who have escaped from the goblins' dungeons and those who
+are still stuck there.
+  The Hobbit was ahead of it's time when it was released in 1982 
+and remains the adventure by which all others are judged.  You 
+must follow the footsteps of Tolkien's Bilbo Baggins in his quest
+for the treasure of dragon Smaug.  The game features
+illustrations, character interaction, and a text interpreter
+allowing the input of English sentences.  The plot changes each
+time you play it, and the list of possible solutions is still
+growing.
+
+URL
+ftp.dcc.uchile.cl/pub/OS/sinclair/snapshots/h/hobbit.zip
+
+
+GENERAL FACTS
+The game The Hobbit was based on a book of the same name by JRR
+Tolkien, as was the sequel.
+
+NOTES
+The Hobbit was and still is regarded as a ground-breaking
+adventure.  It was years ahead of it's time, but it does have a
+few bugs in it that show their heads periodically.
+
+It is best to play this game on the fastest speed your emulator
+allows, to speed up the parsing and drawing of pictures.

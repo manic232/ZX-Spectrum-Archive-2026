@@ -1,0 +1,419 @@
+WATERLOO
+(M.C. Lothlorien)
+
+
+About the Game
+
+	WATERLOO has been designed as a one player wargame, to
+recreate the circumstances facing Napoleon in such a way that
+you can assume his part in the battle.
+	You command the French army including six intelligent corps
+commanders.
+	Your computer opponent controls Wellington's Anglo-Dutch
+army and the Prussian allies marching to join him.
+	Your aim is to break Wellington's line and push through
+Waterloo to Brussels. Failing that, you must hold your army
+together and safeguard the supply lines in your rear; victory can
+then be achieved by destroying the Allied army as an effective
+force.
+
+	The computer opponent will vary its strategy, it will:-
+		judge when to attack, hold or retreat;
+		be tactically astute;
+		give countless varied games.
+
+	It is a fair contest because your opponent has no more
+information than is available to you and your commanders; and
+combat is not biased but depends on strength, morale, terrain and
+the random element of luck.
+	The main aim of Waterloo is to simulate the problems
+involved in commanding a Napoleonic army. This is largely
+achieved through the introduction of intelligent corps commanders.
+The player must always be aware that his corps commanders are
+capable of using their own initiative and that they are also capable
+of being confused.
+	A good example of this is when a corps fails to complete a
+move order due to involvement with the enemy. Several turns later
+when no longer close to the enemy it may complete the move order.
+	Any unit next to an enemy unit may not move directly to a
+new position that is also next to an enemy unit except as a result of
+combat.
+	The player can vary the degree of difficulty within each
+game level by imposing his own restrictions on the use of unit
+orders. For example, limiting the number of unit orders which may
+exist at any one time to three will make winning more difficult than with
+unrestricted use of unit orders.
+	It should be noted that in the interests of creating a
+challenging computer wargame based upon this actual battle
+some changes to historical reality have been forced upon us. Chief
+among these is the division of the French army into five corps of
+infantry rather than the actual four in order to more evenly balance
+numbers, and the earlier arrival of the Prussian army into the battle
+area thereby making Napoleon's task more difficult.
+
+
+The Background
+
+	It is 18th June 1815. Napoleon Bonaparte, on his 100 day spell of
+liberty after his daring escape from the Island of Elba, is once again
+installed as Emperor of France.
+	Napoleon's plan is to march to the city of Brussels and to count on
+the support of the people of Belgium. He is opposed by the armies of
+the Seventh Coalition (Great Britain, Holland, Prussia, Austria,
+Russia and Italy).
+	Near the small town of Waterloo (18 kilometres south of Brussels)
+Napoleon is confronted by an Anglo-Dutch army under the command of the
+Duke of Wellington and a Prussian army under Blucher.
+	In the preceding days Napoleon had used brilliant tactics and
+had placed his forces between the armies of Wellington and Blucher.
+Consequently Napoleon is able to do battle with the Anglo-Dutch army
+alone rather than facing the combined forces of Blucher and Wellington
+together.
+	However, Blucher is not defeated and he is rushing from the east
+to come to the aid of Wellington on the battlefield. The Duke knows that
+he has to fight a defensive battle and play for time, whilst Napoleon has
+to eliminate Wellington's army before the arrival of Blucher's
+reinforcements.
+	To Napoleon's disadvantage, heavy rain has fallen the preceding
+night, making the ground sodden and it is difficult to move artillery with
+rapidity and ease. The attack is, therefore, postponed by Napoleon until
+11:00a.m. Fate has caused valuable time to be wasted. Napoleon has to
+keep an eye on events beyond the woods to his right.
+	Wellington's position south of Waterloo was deceptively strong.
+Its backbone was a low narrow plateau running generally west-east. The
+plateau's south slope, combined with the bogging of the low ground
+caused by the rain, would help reduce the impact of the French attacks.
+Wellington had also heavily defended the two chateaux, Hougoumont
+and La Haye-Sainte, immediately in front of the centre of his line.
+	Napoleon's dispositions were such as to permit him to
+manoeuvre in any direction, yet they gave no preliminary hint as to the
+probable direction of his main effort.
+
+
+Keys, Commands and Symbols
+
+	The game provides for a wide variety of different orders to be given, as
+a result of which it has been necessary to program it for keyboard rather than
+joystick control.
+
+COMMAND                        SPECTRUM KEY    AMSTRAD KEY   CBM64 KEY
+
+Move cursor Up
+ (or scroll map)               7 (cursor key)  cursor key    cursor key
+            Down               6 (cursor key)  cursor key    cursor key
+            Left               5 (cursor key)  cursor key    cursor key
+            Right              8 (cursor key)  cursor key    cursor key
+Access Units to Start Order
+ Phase                                A             A             A
+Print details of strength and
+ morale of unit under cursor          D             D             D
+Show terrain on which unit is
+ standing                             T             T             T
+Delete unit order and return
+ Division to corps command            U             U             U
+Exit current phase                    E             F1            E
+Give order to unit                    O             O             O
+Move unit                             M             M             M
+Give full commands to corps           F             F             F
+Hold present position                 H             H             H
+Withdraw                              W             W             W
+Retreat                               R             R             R
+Engage Enemy                          E             E             E
+Select target position to
+ move to                              T             T             T
+Command end of turn
+ movement                             0             F7            COPY
+
+
+[see WATERLOO.GIF for terrain & unit symbols]
+
+
+Playing the Game
+
+A  GETTING STARTED
+After initial loading, achieved using the command LOAD "", you must first select
+the level of difficulty:
+	1. Learners Level to allow you to become accustomed to the play of the
+	   game.
+	2. The Standard Game.
+	3. A challenge tor the proficient in which the strengths and morale of
+	   some of the British divisions are increased to encourage a bolder
+	   and more vigorous challenge from your computer opponent.
+
+B  INITIAL FAMILIARISATION
+	  Using the cursor Keys scroll around the map area
+which has been carefully designed to be both as clear and as
+uncluttered as possible. All the major terrain features are
+present on the map but most of the defensible strong points are
+already occupied by British forces. For the sake of clarity the
+map is larger than a single screen yet it has been designed to
+always allow the whole width of the screen to be used for
+displaying the map. As a result all text and messages are
+shown in windows which are let into the map area when
+required. At the same time the unit symbols have been kept as
+simple as possible to allow them to quickly convey the
+maximum of relevant information to you and also to ensure that
+the map area is not so large that you cannot readily keep your
+screen centred on the area where the action is occurring.
+	Before starting to play you should use the Order and
+Terrain command keys to inspect the map and pin-point the key
+strong points which the British are holding; these can then be
+put in perspective by reference to the map in this booklet.
+
+C  OUTLINE OF PLAY
+CONTROL
+Your command of the army is achieved in one of the three following
+ways:-
+	  i) by giving units individual orders
+	 ii) by giving orders to the intelligent corps commanders
+	iii) by any combination of the two.
+Hence, six corps orders can command the whole army
+and the game can move fast.
+While deciding and giving your orders, you can:-
+	scroll the map at will;
+	obtain information on the strength and morale of your units;
+	obtain information on the strength of those enemy
+	units which are in range (you will not be told their morale);
+	examine terrain features hidden by units (it affects
+	movement and combat) and, above all, locate the
+	two chateaux.
+These can be done in any order, as you control the
+sequence, simply by using the relevant command keys.
+With your orders complete, the game goes smoothly
+through its phases:-
+	  i) commanders may ask you for urgent (Y/N(
+	     decisions; you may accept their advice or proceed
+	     with your original orders;
+	 ii) your units then move, manoeuvring as best they can;
+	iii) combat follows between units in contact, losses
+	     are reported, retreats and routs are shown;
+	 iv) the computer moves its units, followed by combat as before.
+	The game turn is over and you can survey the situation and issue new
+orders, if necessary. A result is declared when it is judged you have succeeded
+or failed in your aims - see victory conditions.
+	In reporting the casualties from combat it should be noted that
+casualties are calculated in discreet blocks of 500 men and where casualties are
+less than 500 they will be recorded as nil. If will also be seen when a unit is
+in combat with more than one enemy unit, that if it receives casualties in
+excess of 500 men from each enemy unit, then it will report two or three
+successive casualty figures during the one round. Because its own troops will be
+divided to defend against each enemy unit then the casualties it inflicts will
+be relatively light. If a unit retreats into the path of an enemy unit it will
+receive further casualties, whilst any unit that routs will be immediately
+removed from the game.
+
+D  DETAILED INFORMATION
+CURSOR CONTROL
+In all cases press A to access cursor and use the arrow keys to control its
+movement.
+UNIT DETAILS: HIDDEN TERRAIN
+Move cursor onto unit: press appropriate key and keep it pressed. If you wish to
+access the same unit immediately afterwards press Enter.
+ORDERS
+To issue an order move the cursor onto the unit. Press O.
+UNIT ORDER
+Each unit, except corps commanders, may be given a direct unit order and will
+move towards the objective position set regardless of the current corps order.
+Individual units can only be given movement orders and do not have the same
+range of options which are available when giving orders to corps commanders.
+UNIT ORDER DELETION
+Press U: unit returns to corps command.
+CORPS COMMAND UNIT
+Each unit marked with a C represents the corps command unit of that corps and if
+eliminated then the next division becomes the corps commander providing that it
+is not subject to a unit order.
+CORPS ORDERS
+Move
+Press M: move cursor to target position: press T: answer question. The corps
+commander will move towards the target position set. During normal corps
+movement the other two divisions of the corps ape the movement of the corps
+commander, unless one or other is subject to a unit command. During movement, if
+the corps command unit is within two positions of the enemy (one position =
+width of a unit) he may decide to engage the enemy units. When subject to a move
+order the corps commander may lose control of his other divisions, particularly
+if the corps command units movement is baulked by other units. If possible
+ensure that the corps commander's route is clear.
+Engage
+The corps command unit will search up to two positions distant for enemy units
+and will move next to those units if any are located, as will the other two
+divisions of the corps if they are within two positions of an enemy unit.
+Hold
+This order results in all units of a corps remaining in position. It can be used
+in conjunction with a move order coming into effect only when the move has been
+completed.
+Full Command
+The corps commander will search up to three positions distant for enemy units
+and will engage any such units.
+If a division in the corps is likely to sustain severe losses then under full
+command, unlike an engage order, that unit will not engage. Under certain
+circumstances the corps commanders may be able to make better decisions than the
+player due to direct access of all relevant data immediately prior to making
+their decisions.
+Retreat
+Press R: move cursor to target position: Press T.
+The corps will move towards what is now its new base position. Under a retreat
+order a corps commander will ignore the enemy and will not engage except by
+accident no matter how close enemy units may be.
+Withdraw
+The corps moves towards what is now its new base position at a slower speed and
+attempts to avoid enemy units during such movement.
+BASE POSITION
+A corps commander's base position is initially the position the unit starts the
+game on. While a corps command unit is on its base position the following rules
+apply:-
+	A corps commander will never search more than two positions distant
+	for engage or movement purposes.
+	Any division under corps command more than two positions from its
+	corps commander will move towards its corps command unit.
+CORPS INTEGRITY
+Units which become separated from their corps commander by more than two
+positions will move towards their corps commander if the corps as a whole is
+subject to a move order. During engage movements any division of a corps not in
+close proximity to the enemy will move towards its corps commander.
+COMBAT
+Combat occurs between all opposing units occupying adjacent positions. One unit
+attacking two enemy units with no other friendly unit adjacent attacks at half
+strength.
+MOVEMENT ALLOWANCE
+In each game turn the maximum movement allowance is:-
+	Infantry Divisions - 6 movement points
+	Cavalry Divisions - 10 movement points
+In addition, the type of terrain on which the two armies are located can both
+reduce movement and affect combat strength:-
+
+	TERRAIN	MOVEMENT COST		COMBAT ADJUSTMENT
+	Clear		2			-
+	Town		2		defender + 2
+	Stream		3 : cavalry 4	attacker - 2
+	Ridge		3		defender + 2
+	Woods		3		defender + 2
+	Chateau		2		defender + 3
+
+The governing terrain of any unit is that displayed in the top left hand corner
+as it is printed on the map.
+UNIT STRENGTHS
+The combat adjustment figures above relate to the standard strength point which
+is based upon the formula:
+	500 men = 1 strength point
+MORALE
+The morale level of a unit adds strength points to the unit as follows:-
+Excellent + 6:	Good + 4:	Low + 2:
+Very Good + 5:  Fair + 3:	Poor + 1:	Abysmal + 0
+
+E  VICTORY CONDITIONS
+	The battle is deemed over when when British army has at least 7,000
+men within two positions of the left hand map edge in the top half of the map;
+OR when the French army has at least 9,000 men in or adjacent to Waterloo;
+OR when either army is reduced to six units or less;
+OR when either army is reduced to less than 20,000 men.
+	It should be noted that the above conditions only signal the
+termination of the game; they DO NOT of themselves indicate who is the victor.
+Hence 9,000 French troops close to Waterloo will certainly bring the game to an
+end but that end may well be reported as a glorious British victory. Victory is
+determined by the strength of the two remaining armies and their respective
+military positions. A mad dash for Waterloo with 9,000 men will not ensure your
+success.
+	At the end of the battle, if you wish to play again you will have to
+reload from cassette: Press Enter and start recorder. This is due to the fact
+that there is insufficient memory to hold a copy of all initial data.
+	If you wish to continue the present battle enter Y, and fight on.
+	Because more than one check is made to determine that the battle is
+over you may have to enter Y more than once.
+
+
+[see WATERLOO.GIF for map]
+
+
+Victory Hints
+
+	Take your time to appraise yourself of the current situation and the
+locations of the main defensible points in the area.
+	When giving orders to your corps commanders or individual units, give
+regard to the strength and morale of your own unit and that of the British unit
+they will be facing. In particular seek to avoid situations which will cause you
+excessive casualties, especially in making frontal assaults on the strong points
+or in allowing a unit to be attacked by two or more enemy units.
+	Take heed of your corps commanders' advice until you know the game
+better; it should help avoid excessive casualties.
+	Remember Napoleon was seeking to defeat Wellington before the
+arrival of Blucher's Prussians; therefore, you must seek to keep the
+initiative and to clearly work out your overall objective and tactics.
+	Whilst the simulation accurately reflects the initial problems that
+faced Napoleon historically, it has been adapted to cater for divergent
+strategies both for the player and the computer opponent. In other words it is a
+simulation, not a duplication, of history.
+	In the simulation the assault on the two chateaux will generally result
+in their eventual capture but the player is warned that the losses incurred will
+normally be great enough to prevent final victory.
+	Historically the French army's greatest asset was its ability to fight a
+battle of manoeuvre and the player will find this more successful.
+	The computer opponent has four opening options, two defensive and
+two, more aggressive options. Even when choosing a defensive option the
+computer opponent will eventually take any opportunity to attack.
+	This facilitates a battle of manoeuvre and allows the player to create a
+great deal of variety between games. Simply put, the player will get out of this
+game as much as he is prepared to put in.
+	When an attack succeeds exploit that success; when in difficulty use
+defensive terrain as effectively as possible.
+	Use relatively strong units to greatest effect throughout the simulation
+by moving them from one critical point to another as quickly as possible.
+	The best strategies to use are those most readily adaptable to meet
+changing circumstances.
+
+
+Acknowledgements
+
+	Battle Game and Screen Design   Ken Wright
+	Programming                     Ken Wright
+	Wargame Series Supervised by    Lothlorien
+	Cover Illustration              The Art company
+	Marketing and Publishing        M.C. Lothlorien Limited
+	(c) Copyright 1985              M.C. Lothlorien
+
+
+Bibliography
+
+If you would like to read further about Napoleon or the composition and
+uniforms of Napoleonic armies then the following books are recommended,
+although we are unable to guarantee their current availability.
+
+TITLE                      AUTHOR                 PUBLISHER
+Napoleon                   Felix Markham          Weidenfeld & Nicolson
+A Military History of the
+Napoleonic Wars            Elting and Esposito    AMS Press, New York
+The Age of Elegance        Arthur Bryant          Collins
+1812-1822                                         (Book Club Associates
+                                                  edition available to members)
+Decisive Battles of the
+Western World
+volume II 1792-1944        J.F.C. Fuller          Paladin (paperback)
+L'Uniforme et Les Armes    L.&F. Funcken          Casterman
+des Soldats du Premier                            (English language edition
+Empire                                            is available)
+
+
+Warmaster Wargames from Lothlorien
+
+If you have enjoyed playing Waterloo and succeeded at the scene of Napoleon's
+last defeat, then you may wish to test yourself at the site of one of his great
+victories, 'Austerlitz', which is also available in this series from Lothlorien,
+again programmed by Ken Wright.
+
+Other titles available include:-
+	Confrontation
+	Confrontation Scenarios Volume I
+	Confrontation Scenarios Volume II
+	Overlords
+	Redcoats
+	*Battle Builder
+	*Arena
+	*The Bulge (The Battle for Antwerp)
+Adventure Games: Special Operations, Masters of Serebal, Time Sanctuary.
+
+
+
+If you would like further details of Lothlorien wargames or would like
+information about free membership and other benefits of the Warmaster Club, then
+please write to: Lothlorien at 56A Park Lane, Poynton, Cheshire SK12 1RE
+
+*Lothlorien games published by Argus Press Software.

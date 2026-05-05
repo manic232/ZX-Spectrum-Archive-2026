@@ -1,0 +1,424 @@
+NAPOLEON AT WAR
+===============
+
+Battle of Eylau
+
+Napoleon at War is a new wargame by the well-known wargamer Ken Wright, author of Austerlitz 
+and Waterloo. The Battle of Eylau is a fast, one player game which uses a scrolling map. The 
+player takes the role of Napoleon so put on your cocked hat, jump on your white charger and 
+join your French Army at Eylau. The computer is stuck with the Russian and Prussian armies.
+
+The game uses a high level of computer intelligence both in the attacking and defending 
+strategies of the Russian and Prussian troops and in the optional system of directing the 
+player's French troops using the Corps Commanders. The Corps Commanders of the six corps can 
+individually assess the situation in their section of the battle and can respond intelligently 
+even suggesting alternative strategies to those given to them by Napoleon and make reports on 
+the progress of the battle. Computer intelligence is also used for the Artillery Commanders 
+who can select the best targets within their range.
+
+The computer intelligence within the program results in a challenging game with the computer 
+playing a very strong game strategically with variety in which the player has the option of 
+being assisted by his Corps Commanders in winning the battle. This simulates the original 
+battle where Napoleon had to rely on his Corps Commanders making the tactical dicisions. 
+Napoleon needed a decisive victory at Eylau to crush the Russian forces once and for all. He 
+did not get it and it was four months before he was to achieve his aim at Friedland and return 
+to his beloved Josephine in Paris!
+
+
+1. LOADING INSTRUCTIONS
+
+The procedure for loading a program into your Spectrum is given in your manual. Please follow 
+these steps for loading the program.
+
+1. Connect the ear socket of the computer to the ear socket of your tape recorder.
+2. Set the volume control as per Sinclair manual.
+3. Adjust the tone control to maximum.
+4. Type LOAD "".
+5. Start the tape recorder. The program will RUN automatically once loaded.
+
+
+2. INTRODUCTION
+
+You play the role of Napoleon at the Battle of Eylau and command the French forces who are 
+shown as blue and consist of 5 Infantry Corps, 1 Cavalry Corps of 3 Divisions each and 3 
+Artillery Batteries - 21 units in all. The computer plays the Russian and Prussian commanders.
+
+You may either control the battle by issuing orders to individual units or by issuing orders 
+to your Corp Commanders who are programmed to either carry out your exact orders or, if you 
+prefer, to act on their own initiative intelligently.
+
+Each game turn has 2 main phases - the issuing of army orders and the movement and combat 
+which results from those orders. Information is available on strength and morale of your units 
+and the strength of the enemy units, if they are in range. In the combat phase losses, 
+retreats and routs for both sides are reported. Therefore, one has the benefit of computer 
+intelligence being programmed not only for the Russian forces but also for the French 
+Commanders if your require to use it.
+
+
+3. DISPLAY
+
+The display can be scrolled up and down, left or right, by using the cursor keys. The total 
+playing area is approximately 3 times the size of the screen which is displayed.
+
+The reported positions of both the French troops and the Russian troops areshown initially. 
+Each unit displays its type and the Corps number and a “C" represents the Corps command unit 
+of that Corps. A "U" shows that the unit is under direct unit command. There are 6 enemy 
+Commanders each with 3 Divisions and the first letter of their names is shown on the units 
+they command as follows:-
+
+	L = Lestocq (Prussian   ) - White units.
+	T = Tutchkow		)
+	E = Essen		)
+	O = Ostermann		) - Yellow units.
+	D = Docturow		)
+	K = Kamenski		)
+
+The terrain symbols are shown in 4:8 below.
+At the foot of the screen the menu is displayed which shows the options and instructions 
+available at each stage of each turn.
+
+
+4. SEQUENCE OF PLAY
+
+4:1. 	Game Level	
+	Select game level as follows:-
+	1 = Beginner.
+	2 = Standard.
+	3 = Advanced.
+
+4:2. 	First Menu
+	- Army order to commence or 0 to continue without giving any orders.
+	- Move cursor onto unit you wish to give orders to and the 'main menu' options will be 
+	  given.
+
+4:3. 	Main Menu
+	Order to access the order menu see 4:4., 4:5., and 4:6.below.
+	Details give number of troops in unit and their morale and number of enemy troops if 
+	within range.
+	Terrain exposes the terrain underneath a unit.
+	Unit order deletion returns the unit to Corps Command.
+	Exit allows exiting from order phase to next phase.
+
+4:4. 	Ordering a Unit
+	Each unit, except Corps Commanders may be given a direct unit order and will move 
+	towards the objective position set regardless of the current Corps order.
+	Move cursor to target position and confirm by keying Target.
+	Move cursor onto next unit which you want to move or Exit.
+
+4:5. 	Ordering a Corps
+	Move		- requests the unit to move and then the cursor must be moved to the 
+			  target position and confirmed by keying Target and then Yes if you 
+			  want the Corps to hold at this position. The other 2 Divisions of 
+			  the Corps will ape the movement of the Corps Commander.
+	Full Command 	- requests the Corps Commander to search up to 3 positions distant for 
+			  enemy units and to engage any such unit. However, if a Division 
+			  (unit) in the Corps is likely to sustain severe losses, then the 
+			  Commander will not engage.
+	Hold		- requests all the units of a Corps to remain in position.
+	Engage		- requests the Corps Command unit to search up to 2 positions distant 
+			  for enemy units (other than enemy artillery units) and to move next 
+			  to those units if located, as will the other Divisions of the Corps 
+			  if they are within 2 positions of the enemy.
+	Withdraw	- requests the Corps to move towards a new base position at a slow 
+			  speed and will avoid enemy units during such movement. New Base 
+			  Position is selected by moving cursor and confirming with Target.
+	Regroup		- requests Corps to move towards a new Base Position. In moving the 
+			  enemy will not be engaged except by accident no matter how close 
+			  the enemy units are. New Base Position is selected by moving cursor 
+			  and confirming with Target.
+
+4:6. 	Ordering Artillery Units
+	Artillery units can only be accessed via the artillery menu which is accessed after 
+	exiting from the Infantry and Cavalry ordering phase. They can only be given unit 
+	orders and are never subject to Corps command.
+	First move the cursor onto the Artillery unit which you wish to order. This results 
+	in the main menu i.e. 4:3. being accessed and the options are the same.
+	Keying Order results in the Artillery Order menu being accessed as follows:-
+
+	Movement 	- requests unit to move and the cursor must then be moved to the 
+			  target position and confirmed by keying Target.
+	Fire		- requests artillery to fire either against Artillery or Infantry. 
+			  The individual artillery Commanders will decide on the precise 
+			  target unit if more than one unit of the type in question is in 
+			  range. They have a bombardment range of 5 unit positions and may 
+			  fire only once per game turn. The particular fire order will remain 
+			  in effect until changed.
+			  Woods, towns, hills and other units block 'line of sight' and prevent 
+			  artillery bombardment. Artillery fire that does not achieve 
+			  significant results is not displayed.
+	Exit		- returns to cursor movement command or to exit to the Re-organisation 
+			  Phase.
+
+4:7. 	Re-Organisation
+	Key Re-organisation and then move cursor to relevant unit and Key R to confirm, 
+	otherwise Exit.
+	Units which have lost at least one third of their original strength may be 
+	re-organised. This simulates the rounding up of stragglers ans deserters.
+	On re-organisation a unit will have either 500 or 1,000 men returned to it. Any unit 
+	which re-organises whose morale is less than good, will have its morale restored to 
+	good. A unit can only re-organise once and must be more than 3 positions distant from 
+	an enemy unit at the moment of re-organisation.
+	Artillery units cannot be re-organised.
+
+4:8. 	Movement and Combat
+	Keying 0 in the first menu activates the Movement Phase. Six Movement points are 
+	allocated each turn for the Infantry and Artillery and ten Movement points are 
+	allocated to the Cavalry and these are used up according to the terrain which is 
+	crossed as follows:-
+
+				      Movement 		  Combat
+	Terrain		Colour		Cost		Adjustment
+
+	Clear		Green		2		None
+	Town		Black		2		Defender+2
+	Stream		Blue		3		Attacker —1
+	Hill		Black		3		Defender+2
+	Frozen lake	White		3		Attacker—2
+	Rough ground	Red		2		None
+	Woods		Red		3		Defender+2
+
+	N.B. Artillery take 2 Movement points to limber and unlimber. Infantry and Cavalry 
+	units exert a degree of control over adjacent positions. Therefore any unit next to 
+	an enemy Infantry or Cavalry unit may not move directly to a new position that is also 
+	next to an enemy unit, except as a result of combat.
+	Combat occurs between all opposing units occupying adjacent positions. Each 500 men in 
+	a unit equals one Strength Point and these are increased by level of morale. See 
+	Section 5 below. They are also adjusted as shown above, according to the terrain 
+	occupied by the attacker.
+	After French movement all French units are considered attacking units during combat. 
+	After Russian movement all French units are considered defending units during combat.
+	One unit attacking 2 enemy units with no other friendly unit adjacent, attacks at half 
+	strength.
+	An Artillery unit adjacent to at least 2 enemy Infantry/ Cavalry units, will rout.
+	If a Corps command unit is eliminated then the next Division becomes the Corps 
+	commander if it is not subject to a unit order.
+
+
+5. MORALE
+
+The morale level of a unit adds strength points to a unit as follows:-
+
+Excellent + 6 : Very Good + 5 : Good + 4 : Fair+ 3 : Low + 2 : Poor + 1	: Abysmal + 0
+
+Half of the morale factor is made up of a fatigue value, fractions rounded down.
+
+e.g. very good morale = 3 morale points + 2 fatigue points. On every third occasion a unit 
+attacks (not defends) a fatigue point is deducted thus reducing the overall morale level and 
+effectiveness of the unit.
+
+
+6. MOVEMENT RULE
+
+If the 2 positions are on the same line, column or diagonal then movement takes place along 
+a straight line between the 2 positions. If not then the following diagram shows the method 
+used.
+
+The rule that applies is that movement takes place along the diagonal until it is one line or 
+column from the line or column of the target position. It then moves along the line or column 
+with the last move along the diagonal.
+
+
+7. HIDDEN MOVEMENT
+
+Only those Russian or Prussian units whose position has been reported to you by your corps 
+commanders will appear on the map. This stimulates the difficulties of communication and means 
+that your corps commanders may react to enemy units that are not visible to you.
+
+Generally the closer enemy units are to a French unit the more likely their position will be 
+displayed.
+
+
+8. CORPS RULES 
+
+8:1. 	Base Position
+	A corps commanders base position is initially the position the unit starts the game on.
+	While a corps commander is on his base position the following rules apply :-
+		A corps commander will never search more than two positions distant for engage 
+		movement purposes. Any division under corps command more than one position from 
+		its corps commander will move towards its corps command unit.
+
+	The base position of each corps must be maintained in a sensible position throughout 
+	the game so that when a corps commander requests a retreat, he will have a realistic 
+	base to retreat to.
+
+	To change a corps base position for this purpose, issue a regroup order to the corps 
+	and then immediately issue the same corps with another type of order you wish it to 
+	carry out.
+
+8:2. 	Corps Integrity
+
+	Units which become separated from their corps commander by more than one position will 
+	move towards their corps commander if the corps as a whole is subject to a move order.
+
+	During engage movement any division of a corps not in close proximity to the enemy will 
+	move towards its corps commander.
+
+8:3. 	Artillery Attack
+
+	A corps commander will not attack an enemy artillery unit as a direct result of corps 
+	intelligence. (Full Command.) If you want a corps to attack artillery you must use a 
+	corps move order or one or more unit orders.
+
+
+9. RESERVES MARSHAL NEY 6th CORPS
+
+Initially the positions occupied by 6th corps only show where this corps will enter the map. 
+This occurs on game turn four when the letter C appears on the corps command unit.
+
+Lestocq's Prussians (white units) will therefore ignore these units until game turn four.
+
+
+10. VICTORY CONDITIONS
+
+The battle is deemed over when Russian units occupy Eylau and no French unit is on an Eylau 
+position.
+
+OR when more than 7500 French troops occupy Kutschitten (K on map) or adjacent positions.
+
+OR when either army is reduced to 6 units or less.
+
+OR when either army is reduced to less than 20000 men.
+
+It should be noted that the above conditions only signal the termination of the game, they do 
+not of themselves indicate who is the victor.
+
+At the end of the battle if you wish to play again you will have to reload from cassette.
+
+Press enter and start recorder.
+
+This is due to the fact that there is insufficient memory to hold a copy of all initial data.
+
+If you wish to continue the present battle enter Y. Because more than one check is made to 
+determine that the battle is over you may have to enter Y more than once.
+
+
+11. GENERAL NOTES
+
+Napoleon at War is designed to be both a Napoleonic simulation and a playable game: a game of 
+decision making, in which forces are balanced and the computer has no hidden advantages.
+
+The unit order allows the player total control over each of his units and whilst some people 
+express their preference for this detailed control it is not a realistic method of commanding 
+an Army. In reality no army commander had this kind of control over every individual unit.
+
+The main aim of this simulation is to provide the player with the means of command and its 
+inherent problems, that existed historically. Commanding the army via the six corps commanders 
+simulates the lack of perfect control the general experienced in reality. Minimal use of unit 
+orders alongside corps orders will produce an accurate simulation of the problems faced in 
+reality. The other significant feature of the game is the quality of your computer opponent 
+(Charlie Oscar).
+
+It is sufficiently sophisticated to present a challenge to the player's intelligence, his 
+strategic and tactical sense.
+
+It is complex enough to be largely unpredictable and to present different problems and 
+different situations, so that it remains a challenge after repeated playings.
+
+The range and flexibility of its responses will only become apparent when the player has 
+become expert in the deployment of his own forces.
+
+On a more detailed level the player must be aware of the import' ance of morale on a units 
+effectiveness.
+
+Regardless of numerical strength a unit will not perform effectively unless its morale is high.
+
+Morale is progressively reduced on an individual unit basis throughout the simulation by 
+artillery bombardment, high numerical losses, retreat as a result of combat and by fatigue. 
+It is important to remember that Charlie Oscars units suffer in exactly the same way as your 
+own, so that if, for example, you are faced with a very successful attack that may appear 
+unstoppable, fatigue alone could well ensure that the enemies units run out of steam and 
+ultimately fail.
+
+Because the emphasis has been on producing a credible opponent, ft is a game that becomes more 
+interesting as its subtleties are mastered.
+
+Historically the outcome of Eylau was very much a draw with both Napoleon and Bennigsen 
+claiming victory.
+
+The fact that Napoleon needed a significant victory, indeed the destuction of Bennigsen's army, 
+in order to end the war lends credence to Bennigsen's claim.
+
+To achieve in the simulation that which Napoleon failed to achieve in reality the player must 
+have patience.
+
+Initially a generally defensive attitude is probably best, wait for your opponent to make 
+mistakes and then exploit them.
+
+Careful analysis of Charlie Oscar's play will show a use of reserve units, committing fresh 
+troops to the front line only when necessary.
+
+The player should be aware of the effectiveness of this tactic in that fresh troops committed 
+at the right time can have a dramatic effect.
+
+In the battle itself, the initiative constantly changed hands and after early reverses, it was 
+only Napoleon's flexibility of mind that avoided defeat for the French army.
+
+In the simulation the player must be capable of constant change of strategy as the situation 
+develops. Sticking rigidly to a predetermined strategy will normally end in defeat.
+
+When in doubt remember that the mechanics of the game have been designed to give the best 
+results to the player capable of thinking about the reality of any situation he finds himself 
+in and acting in a way he thinks realistic.
+
+
+12. HISTORICAL NOTES - 8th FEBRUARY 1807
+
+After the defeat of the Prussian army at Jena and Auerstadt, the only significant force 
+opposing Napoleon was the Russian army under Bennigsen and one Prussian corps commanded by 
+Lestocq. The political situation was still fluid but Napoleon believed that a quick 
+significant victory over Bennigsen would result in the collapse of the current allied 
+coalition opposing him. What followed was a lengthy campaign throughout Poland culminating 
+in the Battle of Preussisch-Eylau. It was a campaign which taught Napoleon the difficulties 
+of conducting operations in Eastern Europe.
+
+The French army reached Eylau without having completed its concentration, so Napoleon's choice 
+of action was somewhat limited. He decided to defend Eylau while using Davout's third corps 
+and St. Hilaire's division of fourth corps to turn and roll up the Russian left flank. When 
+Ney's sixth corps arrived it could be used to protect his own left flank or against the enemy 
+rear. Whilst Davout managed to push the Russian left flank back, eventually all the way to 
+Kutschitten, elsewhere the French did not fare too well. At Eylau, Soults fourth corps came 
+under severe artillery bombardment and took considerable losses.
+
+To relieve the pressure on Soult and to attempt a quick victory Napoleon ordered Augereau's 
+seventh corps forward. Unfortunately a sudden flurry of snow obscured the position and seventh 
+corps blundered into the Russian artillery batteries and was promptly demolished. The French 
+cavalry reserve under Murat was ordered forward to extricate Augereau's shattered corps and 
+achieved this though it then required the committment of the Guard cavalry to extricate Murat.
+
+Murat's driving attack had cost the French cavalry heavily, but it had also disorganised much 
+of the Russian centre and shaken Bennigsen's nerve. Had Ney been in position Napoleon may well 
+have achieved his victory there and then. As it was, with Davout's position still fluid and 
+Lestocq's Prussians uncommitted he remained at Eylau depending on Davout to win the battle. 
+Davout eventually occupied Kutschitten but Russian reserves and part of Lestocq's corps pushed 
+him out again. Fighting continued on the Russian left flank after dark and with Ney beginning 
+to threaten his right flank. Bennigsen decided to withdraw. The fighting gradually petered out 
+with the Russians withdrawing at midnight and the Prussians at 0200.
+
+The French held the field and so claimed victory but it had resulted in very heavy losses. 
+After Austerlitz and Jena, Eylau appeared almost a French defeat and allied propaganda made 
+the most of this.
+
+Decisive victory had eluded Napoleon, reorganisation and rest were now essential. The allies 
+might take heart at this but it would also restore the morale and condition of the Grande 
+Armee. Four months later, at Friedland, victory would not elude him a second time.
+
+
+
+GUARANTEE
+
+This software is guaranteed against the tape being faulty. If it is faulty return the tape 
+only to CCS Ltd., 14 Langton Way, London SE3 7TL. TEL: 01-858 0763 and it will be replaced 
+immediately. This guarantee is in addition to any statutory rights.
+
+
+Illustration - 'Napoleon at Eylau' 1807 by Mauzaine after Gros. 
+
+Reproduced by permission of Ets. J. E. Bulloz, Paris.
+
+Published by Cases Computer Simulations Ltd.,
+
+14 Langton Way, London SE3 7TL.
+
+©1986 K. Wright. All rights reserved.
+
+Unauthorised copying, lending or resale by any means strictly prohibited.

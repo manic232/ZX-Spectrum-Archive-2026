@@ -1,0 +1,191 @@
+Enduro Racer instructions.
+Taken from original release.
+
+Converted to text by Gerard Sweeney (www.the-tipshop.co.uk) for World
+of Spectrum (www.worldofspectrum.org), 03/02/05.
+
+I do NOT give permission for this text reproduction to be used/stored
+on "commercial" or profit-making medium such as CD-ROMs. Frankly,
+we in the Speccy community are all sick of leechers making money out
+of our hard work.
+
+
+---------------------------------------------------------
+
+
+LOADING INSTRUCTIONS
+
+COMMODORE 64 CASSETTE:-
+Press 'Shift' and 'RUN/STOP' keys simultaneously and press 'PLAY' on
+your cassette recorder.
+
+COMMODORE 64 DISC:-
+Type LOAD "*",8,1 and then press 'RETURN'.
+
+SPECTRUM 48K CASSETTE:-
+Type LOAD "" and then press 'ENTER'.
+
+AMSTRAD/SCHNEIDER CASSETTE:-
+CASSETTE BASED COMPUTER (ie CPC-464) - Press 'CTRL' and the
+small 'ENTER' keys simultaneously. DISC BASED COMPUTER
+WITH ADDITIONAL CASSETTE PLAYER (ie CPC-6128) - Type
+TAPE and press 'RETURN' then press 'CTRL' and the small 'ENTER'
+keys simultaneously.
+
+AMSTRAD/SCHNEIDER DISC:-
+CASSETTE BASED COMPUTER WITH ADDITIONAL DISC
+DRIVE (ie CPC-464) - Type: DISC and press 'RETURN' then type
+RUN" DISC and press 'RETURN'. DISC BASED COMPUTER (ie
+CPC-6128) - Type RUN "DISC and press 'RETURN'. All programs will
+RUN automatically after LOADING is complete
+
+In case of LOADING difficulties please refer to the chapter on
+LOADING and SAVING programs in your computer's User Manual.
+
+
+GAME INSTRUCTIONS
+Once Enduro Racer has loaded press any key to display the menu
+screen.
+
+START GAME
+ONE PLAYER
+CHANGE CONTROL MODE
+DEFINE KEYS
+
+These will let you set up the game to suit you. One of these will be lit up,
+you can change the choice that is lit up by pressing any key (except the
+Space key)
+
+To select one of these choices you should press the Space key or Fire
+button.
+
+START GAME: If this is lit up and you press Space then the game will
+            start.
+            If you are using a joystick then press the Fire Button to
+            begin.
+
+
+ONE PLAYER:
+If you press the Space Bar when this is lit then it will change between
+ONE and TWO PLAYER mode. If you are playing a two player game
+then '1 UP' will appear in the bottom right of the screen while player 1 is
+playing, '2 UP' will appear in the bottom right while player 2 is playing.
+Control will switch between players when one of them crashes or when
+their time runs out.
+
+---------------------------------------------------------
+
+CHANGE CONTROL MODE:
+This allows you to select different joysticks or the computer keyboard to
+control your Bike. If you press the Space Bar with this lit you will get the
+following list:
+
+KEYBOARD
+KEMPSTON
+SINCLAIR LEFT
+SINCLAIR RIGHT
+CURSOR
+
+Kempston, Sinclair Left, Sinclair Right or Cursor may be selected if you
+are using a Joystick. You may select the one that matches your joystick
+by pressing any key to move through the list and the space key to select
+one of the options.
+
+DEFINE KEYS:
+This option allows you to choose different keys to control your Bike. The
+preset controls are given below.
+
+CONTROLS:
+
+KEY		EFFECT
+
+Q		Increase Throttle
+A		Pull a Wheelie
+O		Turn Left
+P		Turn Right
+Space Key	Apply Breaks
+
+H		Pause Game
+R		Reset Game
+
+If you are using a Joystick then the controls are:
+Throttle
+
+                         Throttle
+                             |
+Left-------------------------|--------------------------Right
+                             |
+                          Wheelie
+
+Fire Button: Breaks.
+
+
+SCREEN DISPLAY:
+
+The top of the screen looks something like this:
+
+TOP		1000000		TIME		SCORE	970034
+STAGE		   1		 54		SPEED	161 Km/Hr
+
+
+TOP gives the top score.
+
+---------------------------------------------------------
+
+TIME gives the time you have left (in seconds) to complete the current
+stage.
+
+SCORE gives your score.
+
+STAGE tells you which of the 5 stages you are on.
+
+SPEED gives your speed in Kilometers per Hour.
+
+
+HINTS AND TIPS
+
+Avoid other riders, jeeps, rocks, trees, water etc.
+
+Remain on the road (in stage 3 there is water to either side of the road) in
+order to maintain maximum speed.
+
+When you go over the jumps you will lose speed unless you pull a
+wheelie before reaching the jump. You may also go round the sides of
+the jumps, though this may slow you down.
+
+There are 5 Stages taking you through 5 different landscapes.
+
+
+END OF GAME AND HIGH SCORE:
+
+At the end of a game the following will appear on screen:
+
+				RECORD			PLAYER
+
+				1 0 47 27		0 50 27
+				2 0 55 00		  62
+				3 0 59 99
+				4 0 59 99
+				5 0 59 99
+
+TOTAL				 4 42 24		0 50 27
+
+
+In the RECORD column the number of the stage is given followed by
+the fastest time for that stage.
+
+In the PLAYER column your times for the stages are given. For the final
+stage that you were unable to complete a percentage is given showing
+how far you got through that stage.
+
+If you get onto the High Score Table then you will be able to enter your
+name by using the Keyboard or Joystick. You may move the cursor up,
+down, left and right using the following controls:
+
+UP		THROTTLE
+DOWN		WHEELIE
+LEFT		LEFT
+RIGHT		RIGHT
+
+Fire or space will select the letter that is currently highlighted.
+Select E/D when you have finished entering your name.
