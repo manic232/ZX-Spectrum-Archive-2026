@@ -7,22 +7,37 @@ Year
 1984
 
 ARCADE STYLE GAME
-Who'd have thought a country farmyard could be so stressful? You must collect
-the eggs before the nasties get out and eat up all your corn. Watch out for the
-crazy duck - if she gets out of the cage, you're in real trouble!
+This eggcellent game is guaranteed to be salmonella 
+free on your machines. It will give hours of entertainment 
+and no matter how many times you unwrap the cassette and 
+sample the goodies it will neither make you fat nor rot your teeth!
+
+Who'd have thought a country farmyard could be so stressful? 
+You must collect the eggs before the nasties get out and eat 
+up all your corn. Watch out for the crazy duck — if she gets 
+out of the cage, you're in real trouble! You must collect 
+all the eggs to proceed to the next screen.
 
 CONTROLS
-Select your own keys or joystick.
+Select your own keys. Not compatible with Kempston joystick. 
+Other joysticks may be used by selecting the redefine keys 
+option and moving the joystick in the appropriate direction 
+when asked. Full instructions included in the program.
 
 PLAYERS
 Up to 4 players can compete against one another.
 
 LOADING
-To load the program use:- LOAD""
+To load the program use: LOAD"" Should you have any problems 
+loading the tape, rewind and adjust the volume/tone controls 
+before trying again.
 
 INSTRUCTIONS
-Full instructions are included within the program.
+The game plays over 4 groups each of 8 screens which become 
+progressively more difficult. Survive all 32 screens and the 
+speed then increases to present even greater challenges. 
+The game will play an indefinite number of levels. There is 
+no limit to the high score table!
 
 
-
-Typed by Mike Winn, Jan 2003.
+Updated by Michael Winn May 2026.

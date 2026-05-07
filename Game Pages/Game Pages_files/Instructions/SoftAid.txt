@@ -1,0 +1,278 @@
+SOFTAID
+-------
+
+The organisers wish to thank the
+following companies and the authors of the
+titles included in this compilation.
+
+A'n'F           Ocean
+Activision      Psion
+Beyond          Quicksilva
+Bug-Byte        Realtime
+The Edge        Taskset
+Elite           Thor
+Fantasy         Virgin
+Interceptor     US Gold
+Melbourne House
+
+Argus Press Group
+East Midlands Allied Press
+Home Computer Trade Weekly
+IPC Business Press
+Your Computer Magazine
+Sunshine Publications
+
+Duplication by: Ablex Audio-Video Ltd.
+Distributed by: Microdealer U.K. Ltd.
+Artwork: David John Rowe
+Graphics: Peter Young Graphic Design
+PR: Meridian Public Relations
+Printing: Beshara Press
+Photography: Gordon Hammond
+Proceeds to: The Bob Geldof Band-Aid
+     Ethiopian Appeal Fund
+
+The offers of support from Artic, Llamasoft,
+Micromega, PSS, Softek, Software
+Projects, are also appreciated.
+
+The efforts of all contributors to the
+appeal are gratefully acknowledged.
+
+SOFTAID - Feed The World
+
+If you have a tape counter on your cassette
+recorder, set it to zero after rewinding the
+cassette. This will enable you to select the
+appropriate program by fast-forwarding to
+the corresponding number.
+
+LOADING THE PROGRAM
+The procedure for loading a program is
+given in the Spectrum Manual, chapter 20.
+The steps are as follows:
+1. Connect the ear socket of your Spectrum
+   to the ear socket of your cassette
+   recorder.
+2. Run the tape to the beginning of the
+   program that you wish to load.
+3. Set the volume control to a suitable level.
+4. Type LOAD"" and press the ENTER key.
+5. Start the cassette recorder.
+The program will RUN itself once loaded.
+
+(C)Please do not make unauthorised copies
+of this tape. It is an attempt by those
+involved to help the Bob Geldof Band Aid
+Ethiopian Appeal Fund alleviate one of the
+world's worst natural disasters. Each tape
+sold will feed the hungry, so if you want a
+copy, GO OUT AND BUY ONE.
+
+SIDE ONE
+
+0000    Do they know it's Christmas? -
+        Band Aid
+
+0054	Spellbound — Beyond
+
+You have been captured and turned into a
+toad by Griselda and her pet spider,
+Manfred. You must escape from the
+pyramid by treading on every one of the
+pyramid steps. You get Three lives in each
+level and there are twelve levels in all and
+in each level Griselda sends different
+demons, ghosts, skeletons, spells etc. after
+you.
+
+Joystick or keyboard control. Keys are: Q
+for Up/Left, P for Up/Right, Z for
+Down/Left and M for Down/Right. S to
+start again.
+
+
+0126	Starbike — The Edge
+
+Your task is to rescue the Orola who
+escaped by retreat pod when their planet
+was blown to pieces and who were flung to
+the far corners of the galaxy.
+
+When the game starts, you will be
+presented with an opportunity to alter the
+settings of sound, speech and control as
+signified by three pictures.
+
+Pressing A-G alters the options. Pressing
+Q-T selects a choice of these options. You
+should then select 'game controls' first.
+
+Keyboard controls are: Q-T for Thrust, (A-G
+Select) Alternate keys from B-SPACE for
+Left and Right, P to Start/Stop the game,
+CAPS/SPACE to exit training mode.
+
+
+0154	Kokotoni Wilf - Elite
+
+The Great Magician Ulrich discovered that
+there had once existed a legendary Dragon
+Amulet which had been shattered and the
+fragments scattered through time. Being
+too ancient to recover the fragments
+himself, Ulrich commanded his athletic
+protege, Kokotoni Wilf, to undertake the
+task. Ulrich provided him with a set of
+wings to aid him. After all the segments
+had been gathered from each time period,
+Ulrich provided a glowing time-gate to
+enable travel to the next Time Period.
+
+Play using a Kempston Joystick interface,
+Interface 2, any programmable joystick or
+the keyboard. Control keys are: Z, M, or 5
+for Left, X, SYMBOL SHIFT OR 8 for Right,
+O or I to Fly and SPACE for Music On/Off.
+
+
+0202	The Pyramid - Fantasy
+
+The Pyramid contains 120 chambers on 15
+levels. In order to get from one chamber to
+another you must fight off the indigenous
+aliens to collect an energised crystal which
+will neutralize the force field guarding the
+two exits. The Pyramid is inhabited by a
+total of 60 weird and exotic alien types.
+Apart from going for a high score the
+Pyramid contains a number puzzle to solve,
+the more chambers successfully visited,
+the more information is gathered to enable
+you to solve the puzzle of the Pyramid.
+
+Joystick options are: Fuller, Kempston,
+AGF/Protek or Mikrogen. Keyboard options
+are displayed once the game has loaded.
+
+
+0257	Horace Goes Ski-ing
+	Melbourne House/Psion
+
+Help Horace to slalom down the mountain
+course between the flags and avoiding the
+trees ? but first he must cross the busy
+roads to get to the ski slopes. He starts the
+game with $40. Ski hire is $10 and if he is
+knocked down ambulance fees are $10. A
+bonus of $10 is given for every 1000 pts.
+The controls are: Q for Up, Z for Down, I for
+Left, and P for Right. S pauses the game
+and any key on the bottom row to restart. A
+game can be aborted and a new game
+started by pressing the G and H keys
+together.
+
+
+
+SIDE TWO
+
+0000	Gilligan's Gold - Ocean
+
+Place the bags of gold in your wheelbarrow
+before the time runs out. Each bag
+increases your time and score, but beware,
+the outlaws are after you - and the gold.
+You can escape by jumping on the trucks
+(by hanging on the hooks) or via the
+ladders and lifts, but watch out for the
+deadly, deep mine-shafts. The outlaws can
+be stunned by dropping the bags of gold on
+them.
+
+Joystick or keyboard control (see screen
+instructions). Keys are: P for Up, ENTER
+for Down, Q for Left, W for Right and Space
+for Action.
+
+
+0054	Ant Attack - Quicksilva
+
+Battle the ants in the 3D walled city of
+Antescher and rescue the girl (or boy).
+0, P, ENTER and SPACE give the four view
+angles. SYMBOL SHIFT to rotate clockwise,
+M to rotate anti-clockwise, V to move
+forwards, C to jump, S D F G to throw
+grenades short to long distances, 1 is to be
+used as a last resort, it returns you to the
+city gate. To climb onto walls or buildings,
+press 'move' and 'jump' together. The scan
+indicates which direction to take in order
+to reach the girl or boy.
+
+
+0158	3D Tank Duel - Real-Time
+
+The object of the game is to destroy all the
+enemy tanks, but beware! The tank
+commanders improve their tactics as you
+destroy more of them. Shoot UFO's for
+bonus points and either dodge or shoot the
+missiles.
+
+Joystick options are: Sinclair, Kempston or
+cursor. Keyboard controls are: CAPS SHIFT
+to B to move left track backwards, A to G to
+move left track forwards, B to SPACE to
+move right track backwards, H to Enter to
+move right track forwards, Q to P for FIRE,
+1 pauses the game, 2 resumes it, 1 and 4
+prints the screen picture. To play a new
+game press the P key or the joystick FIRE
+button.
+
+
+0237	Jack and the Beanstalk - Thor
+
+As Jack you have to search for the castle's
+riches, being careful not to wake the giant
+sleeping in the parlour. For each task you
+must collect the specific item and escape
+deeper into the giant's castle, fighting off
+creatures and being very careful where
+you tread!
+
+Joystick or keyboard options. The keys are:
+Q for Jump, W for Left, E for Right, P for
+Fire, O for Up and K for Down.
+
+
+0327	Sorcery - Virgin
+
+The evil Necromancer and his demonic
+servants have conquered the Earth,
+enslaving it's people. You are the last of the
+great sorcerers and you must travel to
+Stonehenge where your three fellow
+sorcerers are held captive. The
+Necromancer has sent his servants after
+you, and time is running out. Can you save
+them before they are turned to stone and
+the Earth is plunged into eternal darkness?
+On many of the screens you will find
+objects which may or may not be of use to
+you. One of the objects, when placed on
+the altar at Stonehenge will destroy the
+Necromancer. The wrong one will kill you.
+
+Keyboard controls: Q for Left, A for Right
+and 0 for Fly.
+
+
+
+
+BAND-AID TRUST
+c/o Stoy Hayward
+8, Baker St.
+LONDON W1.
