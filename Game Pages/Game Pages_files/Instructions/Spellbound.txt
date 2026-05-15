@@ -1,53 +1,36 @@
+ MAD GAMES PRESENTS "SPELLBOUND"
 
+The first in a new generation of arcade adventure style game using a unique
+window menu system
+All command choices can be made by moving a pointing finger to the
+required choice on a menu, then selecting it by pressing space or fire. In this
+way quite complex commands can be built up easily using only three keys.
+When this program loads it is set up for keyboard use. To use a joystick
+change this using A and Z to move the finger and press space when it points
+to the joystick that you wish to use. The fire button can then be used to
+select your menu choice
 
-SPELLBOUND DIZZY
+KEYS
+A           - Finger up/Player jump
+Z           - Finger down
+N           - Player left
+M          - Player right
+SPACE  - Command menu/Choose option
+FIRE      - Same as space when a joystick is used
+BREAK  - Return to main menu
 
-The BIGGEST and BEST Dizzy game yet! Over 100 AMAZING screens of
-cartoon FUN! Go SCUBA DIVING! Take a WILD RIDE underground! Save the
-YOLK FOLK!
+You are a Magic Kinght, the hero of Finders Keepers. Your tutor Gimbal the
+Wizard has been trying out some very old spells to make his rice pudding
+taste nicer, unfortunately the scribes who translated the spells from very
+ancient english to slightly ancient english made some mistakes with the
+wording and gimbal is in trouble.
+The spell sent Gimbal to the mythical castle of Karn and dragged seven
+other people with him. As gimbal becomes trapped he projects a last faint
+message back to you across the time stream. I've taught you enough to
+rescur us all. Magic Knight, you are our only hope!!
+  Clue: Red Herrings may be useful.
 
-Trouble's afoot for Dizzy in his BIGGEST and BEST adventure yet! Meet
-Dizzy's magical chum THEO, the wizard with a plethora of POWERFUL
-POTIONS! Dozy, Dylan, Dora, Daisy and Grand Dizzy - the YOLK FOLK -
-are all here too and they're in HOT WATER this time! Help Dizzy SAVE
-THEIR SHELLS before they end up HARD BOILED!
+ LOADING INSTRUCTIONS
+ Load""  ENTER
 
-Dizzy's been visiting his local friendly Wizard Theo. Now Theo, who
-may be a dab hand in the waving of wands area, is not much cop at the
-"filing things away neatly" department and he's left his book of
-Really Powerful Spells lying round in his laboratory. What's more, the
-book's been left open at the page headed A Really, Really, Powerful
-Spell That Shouldn't Be Read Out Loud!. Whether Dizzy actually read
-the heading is not known but - yikes! - he said the spell and it's
-caused a catastrophe: Dizzy's spirited all his Yolk Folk chums and
-Wizard Theo into the underworld! Cripes! There's only one course of
-action open to the brave little hero: read the spell again and spirit
-himself into the underworld to save his rotund group of pals!
-
-CONTROLS
-ACTION		JOYSTICK	KEYS
-Move Left	Left		Z
-Move Right	Right		X
-Jump		Fire		SPACE
-Pick Up/Use	Up		ENTER
-
-Press Q to quit game.
-Press Shift to pause.
-
-DOING THE BIZ WITH DIZ
-* Dizzy has to collect five rotating stars and a special object to 
-  release each of the Yolk Folk from the underworld!
-* Check out all the objects and discover if they can help Dizzy - 
-  some may enable Dizzy to swim underwater while others help him have
-  a speedy journey through a mine shaft (and some are really tasty!).
-* Don't miss out on the mushrooms - they can send Dizzy flying high!
-* Don't leave any of the Yolk Folk or Wizard Theo behind!
-* More than 100 - 100! - different locations await!
-* Try dropping the Rocks on the Clouds.
-
-CREDITS
-Design			BIG RED SOFTWARE
-Program			FRED WILLIAMS AND ANDY TORKINGTON
-Graphics		PETE RANSON & CHRIS GRAHAM & JONOTHAN SMYTH
-Project Director	PAUL RANSON
-Production		STEWART REGAN & SHAUN SAVAGE
+    Mastertronic Limited 1985
