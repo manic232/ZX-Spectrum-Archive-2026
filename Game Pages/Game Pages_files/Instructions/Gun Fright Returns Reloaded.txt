@@ -1,0 +1,324 @@
+Gun Fright Returns - Reloaded
+
+(с) 1985 Ashby Computers & Graphics Ltd. (Ultimate)
+(c) 2017 TomCat (remix: 128k and 2 players fixes, 
+map generator, extended options and gameplay enhancements)
+(с) 2017 GoodBoy (AY music & sound FX import from 
+Amstrad version, intro music import)
+(c) 2017 Tiboh (intro special effects)
+(с) 2017 panda (loading picture)
+
+thanks to:
+Slider  (this text corrections)
+
+I. Game hints
+
+
+- in intro - game options are selected with numeric 
+keys, mouse is enabled
+or disabled with M and J keys; if memory is enough, 
+new sounds background,
+old sounds or mute mode are selected with A, B and 
+N keys; other keys start game
+
+
+- select Kempston, this allows to aim with mouse, 
+which is much more efficient and
+fun. Without mouse aiming at the enemies running 
+far away is fair only at first -
+then the opponent will fire before the aim reaches 
+him at the least. If the aim behaves
+frantically, try disabling it in intro (J key)
+
+
+- in order to avoid nasty mouseplay surprises in, 
+let's say, Unreal Speccy, do not
+forget to click it once in the window after save/load, 
+so that the window "locks" it,
+or you may lose precious time in duels
+
+
+- after game start the seriff gets 6 bullets and 2 
+and a half hundred,
+and gets into shooting gallery, where 2 thousand 
+could be raised. Then the game
+proceeds into the town, and seriff goes in for a 
+record of over 10 thousand
+
+
+- any town, Blackstone likewise, has a main street, 
+bank and saloons at it, usually
+several squares and many other buildings. If view 
+town map mode is enabled, a quick
+glance at it may reveal the main street crossing 
+the town north to south, big white bank
+and little white jail (along with sheriff's office) 
+in southwest
+
+
+- heading west from the jail turn south to find the 
+cactus, turn north to find the horse
+
+
+- in town, almost anything poses danger, except 
+maybe walls, stones under your feet, money
+bags and figure of a strange animal (it's really 
+a horse for rent)
+
+
+- but objects like boys and cacti doesn't move 
+much, thus they are not that dangerous, unless
+you run into them
+
+
+- townsfolk walk or run in panic all over the 
+town. In Townsfolk Vindictive mode
+(if someone has been hurt by you already) or 
+Mean mode (all the time) you could shoot
+to avoid bumping into them. Otherwise - just dodge!
+
+
+- if sheriff walks so that he would cross someone 
+steps, better stop or turn
+
+
+- if it comes so that sheriff walks along someone 
+in the same direction,
+turn quick, or else they would, usually - not the 
+way you like it, so that
+it is back to start
+
+
+- near the door, when you do not know, what awaits 
+at the other side, press Symbol Shift, and the
+camera would switch so that, you could decide, 
+whether to enter
+
+
+- it also works with building corners. Generally, 
+it is better not to walk along any wall, but
+to move a little away from the wall, for many things 
+run along the walls beside you,
+including mounted bandits
+
+
+- have to walk the town seraching the boys, who 
+have seen the bandit. They would start jumping
+the moment they see you. They would point you 
+where you have to go to
+
+
+- if the sheriff goes poor, the 1 hundred money 
+bags could be found near the boys helping you.
+Later in the game, tumbleweed can also be found 
+near
+
+
+- when you find a bandit, do not bump into him - 
+otherwise he would walk (or ride) right on,
+but the sheriff won't. Start firing and scratch 
+him. Then the duel begins
+
+
+- one moment is quite inevedent and was more than 
+once covered wrong in reviews - the
+duel is made quite accurately. If you let go 
+controls before the duel, the opponent usually
+doesn't hurry too. He will try to distract you, 
+moving here and there, then he stops and starts
+to draw his gun slowly (the red hint 'Draw' 
+will appear below). From this moment on, if you
+start to aim, the enemy wouldn't jump away and 
+wouldn't go faster, so you can perfectly bring
+him down with a single bullet. And besides, 
+while he walks so without shooting, empty gun
+can be easily reloaded. Sometimes, however, 
+the opponent doesn't walk but draws at once,
+so it's better to attack him in town with full gun. 
+Certainly, everyone has his style, you could
+attack first, but the enemy will then quickly jump 
+somewhere away and quickly starts shooting
+(the 'Draw' hint below would be yellow then). Just 
+be quicker then. And dallying is good only
+in first duels, then the bandits start drawing so 
+quick, that you'd better draw first - at least you
+would have more time then, while they are still moving
+
+
+- Caps Shift puts the game into pause in any place, 
+including duels. If the bandits go too mean,
+you can use this way
+
+
+- cacti can wither, if the seriff is too poor to 
+water them. The suspicion has it this is only
+true for the cactus image, while they are still in 
+place. Be carful searching for the money bags
+
+
+- the further, the bigger the prices, and more 
+mounted bandits are met. If you are stuck without
+a horse, it sometimes pays to shoot all the way 
+along his path - there is a chance he turns and
+catches the bullet. Of course, if prices, fines 
+and wrong prey do not frighten you
+_______________________________________________
+
+
+II. Comments for recommended difficulty mode (Medium)
+
+
+- "vindictive" townsfolk mode allows not to lose 
+the lives in ordinary bumps, you simply
+get fined and go to start. In 1 player mode the 
+bandit will remain somewhere near where he was
+before. If you were not lost yourself, you can walk 
+straight there. Try not to shoot until you
+get a good aim at him, and carefully avoid townsfolk 
+while riding a horse. Remember - the fine
+will be still, but the life wouldn't be taken, unless 
+there was a kill you are responsible for
+(the townsfolk can still kill themselves against your 
+standing horse, and that'd be you fault)
+
+
+- "simulating" tumbleweed mode allows not to lose the 
+life hitting it, besides they often stop,
+while there is no wind. They go spinning in place 
+before starting to move 
+
+
+- "poisonous" cactus mode remains. Cacti doesn't 
+attack you in first place. Second, it allows
+to lose the life quickly, if you need
+
+
+-------------------------------------------------------------------------------
+
+
+III. Useful trainer menu options
+
+
+0. Difficulty - several presets for other options
+- Easy - immune version
+- Medium - recommended balanced preset
+- Hard - ye old good preset. To make it harder, 
+add Bandits Mad and Head Prices Poor modes
+
+
+1. Town - the starting town. Besides Blackstone 
+there is a hundred towns westward, or you can
+try a random town of many thousands. Each player 
+would have his own then!
+
+
+2. View new town map - new town map would be shown 
+for a short while before the sheriff enters it
+
+
+3. Bandits - the danger they pose to sheriff
+- Jokers - bandit doesn't kill anybody, but you 
+get back to start
+- Mean - bandits are dangerous, just like in the 
+original game
+- Mad - bandit kills if you meet them in town, 
+but if the sheriff dares scratch him and loses the duel,
+the bandit would kill and then would go straight 
+into his office and make a (censored). Very tough
+somewhere after 7-8 bandits!
+
+
+4. Head prices
+- High - original game awards
+- Moderate - awards are somewhat less
+- Poor - awards are ludicrous, you'd have to 
+run for the salary at first, which can be found near the
+boys helping you in money bags (after the 
+sheriff is down to 1 hundred)
+
+
+5. Cacti - the danger they pose to sheriff
+- Flowers - go to starts, life is kept
+- Poisonous - dangerous like in original game
+
+
+6. Tumbleweed - its danger
+- Absent - tumbleweed won't appear at all, even 
+after 8 bandits killed
+- Sim - tumbleweed would stop now and then, as in 
+gusty wind. It can't be hit, bumping in it is start
+place again, keeping your life
+- Windy - once appeared, the unstoppable tumbleweed 
+would roll around the town. It doesn't take
+your life.
+- Poisonous - tumbleweed would be as dangerous, as 
+the original one. Be careful if you see the boy,
+the tumbleweed would be near
+
+
+7. Townsfolk - the danger boys and women pose
+- Scared - women run around the town in panic, boys 
+show you the way to go to meet the bandit.
+Bumping into them is fined just like shooting them. 
+The life is not taken. If you bumped while
+walking around - go to start
+- Vindictive - tricky mode. Townsfolk aren't dangerous 
+like in Scared mode, unless sheriff shoots
+or hits them with a horse. For he would become a criminal 
+himself (indicated by the red colour of
+BOUNTY message below), and all the other trainers 
+keeping his life go off. That is until
+the sheriff either hits another bandit or falls 
+himself. For even bumping into a tumbleweed wouldn't
+help to evade being hanged. This way you could play 
+a good boy, avoiding to kill innocent and
+upholding the law, or play hard, getting anything 
+out of your way and quickly getting the bad guys.
+Or just going from one to another after some bad 
+accident, or fortunate duel
+- Mean - townsfolk are dangerous like in original 
+game
+
+
+8. Extra guns - bonus lives
+- No - like in original game, it's just the 
+sheriff and his 2 accomplices
+- After each gang - after 4 bandits go down, 
+expect reinforcement. Of course, if the life was lost
+before, so that not to overman - no more than 
+2 accomplices plus sheriff
+- each gang after 4th - 16 infamous bandits 
+must be killed, then some unnamed rascals would go,
+and you can expect reinforcements then
+
+
+9. Travel west
+- No - as in original game, sheriff works in 
+his home town
+- After each gang - after each 4 bandits are 
+neutralized, sheriff starts for a journey
+- each gang after 4th - after killing 16 бандитов, 
+sheriff goes adventuring. Another gang awaits
+him in each new town
+
+
+M. Mouse enabled - use mouse aiming if Kempston 
+is selected
+
+
+J. Mouse disabled - if no mouse detected or if 
+it hinders the game
+
+
+A. AY+Beeper - many sound effects would be played 
+with co-processor
+
+
+B. Beeper only - if no co-processor, or not enough 
+memory, or just for original sound effects
+
+
+N. None - quiet, muted mode with no sound
+--------------------------------------------------
+Hi to all Speccy fans
+Hi to all who love every bit of these 8 :)

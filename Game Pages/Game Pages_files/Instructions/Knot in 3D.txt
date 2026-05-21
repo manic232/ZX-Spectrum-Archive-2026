@@ -1,0 +1,77 @@
+Knot in 3D (c) 1983 New Generation Software  
+-------------------------------------------
+
+INTRODUCTION
+
+The aim of the game is to avoid collision with you own green
+or yellow trail, and those of up to four chasers (red/blue),
+as you rush through an empty 3 dimensional space. As more
+trails are laid it becomes increasingly difficult to thread
+you way through the KNOTs created.
+
+LOADING
+
+Use filename "KNOT". The program will load in two parts. If
+any difficulty is experienced consult your Spectrum manual.
+
+THE GAME
+
+On loading, the configuration of the controls and modes of
+play are set up by questions and answers. Exit from
+demonstration is via BREAK. The keyboard controls used are
+the CURSOR keys. A short press will turn you in the
+appropriate direction. A longer press will turn you once
+more. You must release the key before you can turn in that
+direction again, A hold facility is available; H holds, and
+S restarts.
+
+The score panel below the screen indiactes:
+
+(a) Your Score   : One point for each move forward. As the
+                   markers are passed a new phase is
+                   entered; the space is cleared and another
+                   chaser introduced.
+(b) Density      : Indicates how dense the space is with
+                   tracks and therefore whether large voids
+                   are still available.
+(c) Faults       : A fault is indicated whenever you pass
+                   through a track. They are continuously
+                   collected if you travel along the
+                   existing path.
+(d) Phase Number : On the left hand side, indicates the
+                   number of chasers.
+
+TACTICS
+
+As the space begins to fill, there may be times of apparent
+inactivity, but it is at this time that the style of game is
+created. Continuous travel in one direction generates an
+impenetrable wall that makes the game more difficult later.
+
+
+(c) Copyright 1983 New Generation Software
+All rights reserved, not for hire, unauthorised duplication
+or resale.
+
+cover artwork by Rob Pengilley, Bath.
+
+------------------------------------------------------------
+
+The New Generation range of 3D games include:
+
+Corridors of Genon     48K Spectrum
+Knot in 3D             48K Spectrum
+3D Tunnel           16/48K Spectrum
+Escape                 48K Spectrum
+3D Monster Maze        48K Spectrum
+3D Defender            48K Spectrum
+
+Available from: W.H. Smith, Boots, Menzies, H.M.V, Spectrum
+computer centres, and leading department a computer stores. 
+
+Or direct from New Generation Software Ltd., Freepost,
+Bath BA2 4TD.
+
+------------------------------------------------------------
+
+Complete Instructions typed in by Paul Thompson, April 2003

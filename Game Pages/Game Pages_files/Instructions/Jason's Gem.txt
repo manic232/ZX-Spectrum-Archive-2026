@@ -1,0 +1,49 @@
+JASON'S GEM
+-----------
+Strategy arcade game involving skillful control of your spacecraft through
+five screens, then jump climb and manoeuvre your way through the other 10.
+
+The Aim of the Game
+-------------------
+
+The epitaph inscribed on poor Jason's tomb,
+Does not speak of his eventful life,
+But of his careless doom,
+
+'On embarking on his mission he was given chances four, but the gem was
+undisturbed, (For he needed somewhat morer!)'
+
+How sad a tale of failure for one so close to glory,
+But you could yet rewrite the history of this story ...
+
+Guide Jason, in his spaceship, onto the teleport platform. Once you have
+landed successfully you will gain bonus points because you will
+automatically pick up the cargo aboard the platform.
+
+You must then shoot your way through the five caves that lead to the lower
+platform where you must again land safety. Once you land you will be able to
+carry on from here on foot and search through the many caverns ahead for
+your lost gem.
+
+Controls
+1. Keyboard: Z - Left: X - Right
+   SPACE - FIRE/JUMP; Q - Quit
+2. Kempston Joystick.
+3. Protek Joystick.
+4. Interface 2.
+Hint - avoid frustration, keep left at Exit of first cave.
+
+LOADING INSTRUCTIONS
+Type LOAD "" (press ENTER.)
+
+The program code, graphic representation and artwork are the copyright of
+Mastertronic and may not be reproduced, stored, hired or broadcast in any
+form whatsoever without the written permission of Mastertronic. All rights
+reserved.
+
+Written by Simon White
+(C)Mastertronic Limited 1985
+Made In Great Britain
+Design & Artwork: Words & Pictures Ltd., London.
+
+(Transcribed by Robin Stuart)

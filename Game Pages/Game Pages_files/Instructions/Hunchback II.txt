@@ -1,0 +1,54 @@
+Hunchback II - Quasimodo's Revenge
+----------------------------------
+
+The return of your favourite bell ringer, the all conquering Quasimodo,
+brings moving platforms, cog wheels, hooks, pullies, ropes and of course -
+the BELLS! Every screen brings a new challenge and tons of fun.
+
+The program runs on the 48K Spectrum and ZX Spectrum +
+
+
+PLAYING
+
+QUASIMODO must reach Esmarelda imprisoned in the castle stronghold. During
+each of the first six screens he must collect bonus bells, or push bells to
+the top of the rope (screen 6 only), to reach the giant bell in order to go
+on to the next, more difficult screen which will bring him nearer to
+achieving his ultimate goal (on screen 7 by collecting all bonus bells), -
+to rescue the beautiful Esmarelda. The sinister castle stronghold is fraught
+with danger and menacing creatures such as fireballs, arrows, bats and birds
+and more! After rescuing Esmarelda you can continue playing from screen
+one but on an ever increasing level of difficulty but keep you chin up,
+Quasi can do it if you can!
+
+
+CONTROLS
+
+The game is keyboard or joystick controlled.
+The key controls are redefinable as shown on MENU.
+Joystick option: KEMPSTON, INTERFACE 2, PROTEC.
+
+
+MENU
+
+Control options
+Demonstration Mode
+Redefine keys
+
+
+SCORING and STATUS
+
+Points are awarded for collecting bonus bells and completing each screen.
+On screen shows current score and number of lives remaining. There is also
+a separate High Score table.
+
+
+HUNCHBACK II
+
+Written by Paul Owens is one of many exciting games from Ocean Software.
+Ocean Software Limited, Central Street, Manchester
+PRODUCED BY D.C. WARD
+(C) 1984 Ocean Software Limited.
+Made in the U.K.
+
+(Transcribed by Robin Stuart)

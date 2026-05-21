@@ -11,12 +11,6 @@ Fast-forward to April 2026, and I finally decided to finish what I’d started a
 
 But I didn’t just finish it — I updated it.
 
-In January 2003 I stopped working on this site. I’d grown bored of the tedious process of completing the  CRASH Smash section — sourcing instructions for each game, creating a page for it, and repeating that cycle endlessly. I stopped at Popeye, and for the next 23 years… that’s where it stayed.
-
-Fast-forward to April 2026, and I finally decided to finish what I’d started all those years ago. Back then I was using Windows XP and building these pages in FrontPage 2000. Amazingly, it still runs on Windows 11, which meant I could complete the site using the exact same software I began with.
-
-But I didn’t just finish it — I updated it.
-
 In 2001, the main purpose of this site was to accompany a folder I’d built full of Spectrum ROMs, box art, and other bits, all neatly organised into directories that matched the games listed here. Those lists originally pointed to the instructions for each game, but the folder itself is long gone now. So for the 2026 reboot, I decided the best approach was to integrate the box art, instructions, and a playable game link directly into each game’s page, rather than relying on external folders.
 
 Because of this, I chose to link the game lists to magazine reviews — mainly from CRASH Online — rather than to the instructions. Each game page now has its own dedicated instructions link anyway, so having them link to the instructions makes no sense now.
@@ -37,7 +31,7 @@ For the most authentic and consistent experience, I recommend viewing the site w
 
 Navigating the Site:
 ━━━━━━━━━━━━━━━━━━━
-The area at the top of the page is the main navigation menu, that takes you to the primary sections of the site. (See  About for more details.)
+The area at the top of the page is the main navigation menu, that takes you to the primary sections of the site. (See  About for more details).
 
 The left pane changes depending on where you are. In most sections it contains links to the relevant game review pages. In the Archive Home area, it shows various Spectrum-related web links — including several new ones added in 2026.
 
@@ -47,10 +41,12 @@ At the bottom of each main section you’ll find links to additional material su
 
 All game review pages now include box art, which you can click to enlarge and click again to return.
 
+POKE commands used to be used to unlock hidden rooms.
+
 
 Playing the Games:
 ━━━━━━━━━━━━━━━━━
-Each game page includes a LOAD " " option that opens the ROM in your default Spectrum emulator. I use Spectaculator, but any emulator should work as long as you’ve associated TZX, TAP, DSK, and Z80 files with it. Most ROMs here are in TZX format, with a handful in the others. You’ll also find a link to the game's instructions. These are external TXT or PDF files, and the quality varies wildly — many are a gold mine of spectacular spelling errors and questionable formatting — but they’re worth including.
+Each game page includes a LOAD " " option that opens the ROM in your default Spectrum emulator. I use Spectaculator, but any emulator should work as long as you’ve associated TZX, TAP, DSK, Z80 and ROM files with it. Most ROMs here are in TZX format, with a handful in the others. You’ll also find a link to the game's instructions. These are external TXT or PDF files, and the quality varies wildly — many are a gold mine of spectacular spelling errors and questionable formatting — but they’re worth including.
 
 Spectrum games — especially later releases — often came on multiple cassette sides. You’d sometimes have to flip the tape, load a second side, or choose between 48K and 128K versions. Because of this, ROM sets can include several files: Side A, Side B, Tape 1, Tape 2, etc.
 

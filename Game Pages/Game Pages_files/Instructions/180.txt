@@ -1,0 +1,292 @@
+THE SPECTRUM GAMES DATABASE
+
+180
+
+PUBLISHER
+Mastertronic
+
+AUTHOR
+
+YEAR
+1986
+
+CATEGORY
+Arcade sports
+
+CONTROLS
+Keyboard, Kempston, Cursor.
+The keys are redefinable.
+
+DESCRIPTION
+180 is a darts simulator.
+
+INSTRUCTIONS
+INLAY TEXT FOR 180:
+
+The Game:
+You are now the proud owner of the one and only REAL darts game around. 180
+has eight different opponents waiting to take you on, a two player option for
+when your friends want to join in and a practice game to help you win when
+they do!
+   Against the computer you'll play in a Championship knockout (coming in at
+quater final stage) and to carry off the tournament you have to beat three
+opponents. The game selects who you'll play and in what order at random
+each time so that every game is different. Regardless of which of the eight
+characters appear and when, they will get better as you progress towards the
+final. Each of the players has his own style of play, with "favourite"
+doubles and finishing technique. Working this out early in a match can often
+help you win through.
+   The practice game, which we suggest you try out first, is there to help
+you become more skillful at throwing the darts. There is (very) little luck
+in 180. To win you need to have a good eye and complete mastery of the
+throw. Practice is against the clock. You have to hit each number in
+sequence, from 20 to 1, in a limited time. Easy it is not, but it is a lot
+of fun and it will develop your skills for the big match!
+
+501 And All That:
+The main game is "standard" matchplay darts, where the two players compete
+to see who can score 501 first, on a best out of three basis (called sets).
+You can throw at any part of the board you like but you must finish by
+hitting a double, ie. if you need 4 to win, you aim for double two, not
+single four. The bullseye in the centre of the board counts as "double 25"
+and is thus a legal finishing shot.
+   With the maximum possible score being the (infamous) 180 (three treble 20
+hits) it follows that the highest number you can finish from is 170 (two
+treble 20, bullseye) and there are "preferred" (ie. easier) ways to score
+most of the possible winning combinations below that. To save you have to
+work them out in the middle of a game, we list here one such set of
+'finishes'. There are, of course, alternatives to many of the suggestions,
+but this is how most of the professionals play it (see table).
+   In real life, the players in a match take turns throwing first - it is
+called "having the darts" - and thus the advantage is shared equally between
+them. The player who throws first should also be first to go for the winning
+double, all else being equal. However, in 180 you will always get the darts
+first - don't waste them!
+
+Controlling The Throw:
+Joystick is the recommended method of taking your shots, but if you use the
+keyboard follow the on screen instructions to define your own choice of keys,
+and with regard to which joystick interfaces are supported.
+   Push up to start "your" hand into motion. You'll notice very quickly that
+up, down, left and right don't work! Only diagonal movements are responded
+to, in order to simulate the difficulty of lining up and successfully hitting
+the dartboard from nearly eight feet away. Push FIRE to throw. The control
+system feels a little odd at first, but you'll soon get used to it. Practice
+will make (nearly) perfect - honest!
+   Play the tune-up game a few times!
+
+Screening And Throwing:
+Whilst you are taking your turn at the board, the screen shows the hand
+holding your dart, the board itself and the automatic blackboard. Make your
+three shots and the score is automatically chalked up for you. At the bottom
+of the board is shown your opponents score.
+   Once you've played, the screen will switch to an animated sequence as
+your opponent tries to defeat you! (Look out for happenings in the
+background!) Just as in the real world, there is nothing you can do here
+except watch and weep as all your well laid plans are shot to pieces...
+
+The Magnificent Eight:
+So that you will know what, or who, to expect here is the list of experts
+you might be called upon to play against in 180. Depending on what stage of
+the competition you meet them their rating could be anything from fantastic
+upwards, although some are always better and play differently. But we're not
+going to tell you any more than that - there have to be some surprises in
+life after all:-
+
+Quater and semi finals: Mega Mick, Belly Bill, Delboy Des, Devious Dave, Sure
+Shot Sidney, Limp Wrist Larry, Tactical Tel.
+
+Final: Jammy Jim, World Champion and ace dart player. To beat him you have to
+be more than just amazing.
+
+Finishing Combinations:
+
+No. Wanted      Dart 1  Dart 2  Dart 3
+170             T20     T20     BULL
+167             T20     T19     BULL
+164             T20     T18     BULL
+161             T20     T17     BULL
+160             T20     T20     D20
+158             T20     T20     D19
+157             T10     T20     D20
+156             T20     T20     D18
+155             T20     T19     D19
+154             T18     T20     D20
+153             T20     T19     D18
+152             T20     T20     D16
+151             T17     T20     D17
+150             T20     T18     D18
+149             T20     T19     D16
+148             T20     T16     D20
+147             T20     T17     D18
+146             T18     T20     D16
+145             T15     T20     D20
+144             T20     T20     D12
+143             T17     T20     D16
+142             T20     T14     D20
+141             T19     T20     D12
+140             T20     T20     D10
+139             T20     T13     D20
+138             T18     T20     D12
+137             T19     T16     S16
+136             T20     T20     D8
+135             T20     T15     D15
+134             T20     T14     D16
+133             T20     T19     D8
+132             T20     T16     D12
+131             T13     T20     D16
+130             T20     T18     D8
+129             T11     T20     D18
+128             T20     T20     D4
+127             T20     T17     D8
+126             T19     T11     D18
+125             T19     T20     D4
+124             T20     T16     D8
+123             T13     T20     D12
+122             T18     D18     D16
+121             T19     T16     D8
+120             T20     S20     D20
+119             T19     T10     D16
+118             T20     S18     D20
+117             T19     S20     D20
+116             T20     S20     D18
+115             T20     S15     D20
+114             T20     S14     D20
+113             T20     S13     D20
+112             T20     D12     D20
+111             T17     S20     D20
+110             T20     S18     D16
+109             T20     S15     D16
+108             T20     S16     D16
+107             T19     S10     D20
+106             T20     S14     D16
+105             T20     S13     D16
+104             T18     S18     D16
+103             T17     S20     D16
+102             T20     S10     D16
+101             T17     S10     D20
+100             T20     D20     -
+ 99             T19     S10     D16
+ 98             T20     D19     -
+ 97             T19     D20     -
+ 96             T20     D18     -
+ 95             T19     D19     -
+ 94             T18     D20     -
+ 93             T19     D18     -
+ 92             T20     D16     -
+ 91             T17     D20     -
+ 90             T18     D18     -
+ 89             T19     D16     -
+ 88             T16     D20     -
+ 87             T17     D18     -
+ 86             T18     D16     -
+ 85             T15     D20     -
+ 84             T20     D12     -
+ 83             T17     D16     -
+ 82             BULL    D16     -
+ 81             T19     D12     -
+ 80             T20     D10     -
+ 79             T13     D20     -
+ 78             T18     D12     -
+ 77             T15     D16     -
+ 76             T20     D8      -
+ 75             T13     D18     -
+ 74             T14     D16     -
+ 73             T19     D8      -
+ 72             T16     D12     -
+ 71             T13     D16     -
+ 70             T10     D20     -
+ 69             T11     D18     -
+ 68             T20     D4      -
+ 67             T17     D8      -
+ 66             T10     D18     -
+ 65             T19     D4      -
+ 64             T16     D8      -
+ 63             T13     D12     -
+ 62             T14     D10     -
+ 61             T15     D8      -
+ 60             S20     D20     -
+ 59             S19     D20     -
+ 58             S18     D20     -
+ 57             S17     D20     -
+ 56             S16     D20     -
+ 55             S15     D20     -
+ 54             S14     D20     -
+ 53             S12     D20     -
+ 52             S20     D16     -
+ 51             S19     D16     -
+ 50             S18     D16     -
+ 49             S17     D16     -
+ 48             S16     D16     -
+ 47             S15     D16     -
+ 46             S14     D16     -
+ 45             S13     D16     -
+ 44             S12     D16     -
+ 43             S11     D16     -
+ 42             S10     D16     -
+ 41             S9      D16     -
+ 40             D20     -       -
+ 39             S7      D16     -
+ 38             D14     -       -
+ 37             S5      D16     -
+ 36             D18     -       -
+ 35             S3      D16     -
+ 34             D17     -       -
+ 33             S1      D16     -
+ 32             D16     -       -
+ 31             S15     D8      -
+ 30             D15     -       -
+ 29             S13     D8      -
+ 28             D14     -       -
+ 27             S11     D8      -
+ 26             D13     -       -
+ 25             S9      D8      -
+ 24             D14     -       -
+ 23             S7      D8      -
+ 22             D11     -       -
+ 21             S5      D8      -
+ 20             D10     -       -
+ 19             S3      D8      -
+ 18             D9      -       -
+ 17             S1      D8      -
+ 16             D8      -       -
+ 15             S7      D4      -
+ 14             D7      -       -
+ 13             S5      D4      -
+ 12             D6      -       -
+ 11             S3      D4      -
+ 10             D5      -       -
+  9             S1      D4      -
+  8             D4      -       -
+  7             S3      D2      -
+  6             D3      -       -
+  5             S1      D2      -
+  4             D2      -       -
+  3             S1      D1      -
+  2             D1      -       -
+  1             BUST!
+
+T = Treble
+D = Double
+S = Single
+
+Loading Instructions:
+Type "LOAD" then ENTER
+
+The program code, graphic representation and artwork are the copyright of
+Mastertronic. All rights reserved.
+(C) Mastertronic Limited 1986
+Made in Great Britain
+
+CHEATS
+
+SEQUELS/PREQUELS
+None.
+
+SCORES RECEIVED
+Crash: "The best ever darts game." 72% (CRASH #35, December 1986)
+
+NOTES
+Curiously enough, there have been almost no darts games since 180
+and certainly none as good. So the verdict still stands: it is
+still probably the best darts game around.

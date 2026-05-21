@@ -1,0 +1,121 @@
+========
+Horizons
+========
+Document created by rstuart@ukonline.co.uk on 23rd Dec 99 for
+World of Spectrum: http://www.void.demon.nl/spectrum.html
+
+Sinclair ZX Spectrum
+Psion Horizons Software starter pack (C2)
+
+An introductory software cassette for the ZX Spectrum. Includes a
+comprehensive keyboard trainer and an entertaining and illuminating range
+of programs.
+
+Loading Instructions
+--------------------
+1. Connect the power supply lead to the 9 volt input supply at the back of
+the Spectrum. Connect the aerial lead from the TV UHF socket at the back of
+the Spectrum to the aerial input jack of your colour T.V. Switch on the
+power of the TV and of the power supply. Tune your television to channel 36
+until you see the Sinclair sign appear at the bottom of your screen.
+
+2. Insert the Horizons cassette into your tape recorder with side A on the
+top. Connect the ear-phone cable from the ear-phone socket of your tape
+recorder to the earphone socket at the back of the Spectrum. Adjust the
+volume and tone controls of your cassette so that they are roughly in the
+middle to upper-end of their range.
+
+3. With the cursor on the TV screen showing a flashing K press key J on your
+Spectrum. The command LOAD will now appear at the bottom of the screen. With
+the symbol shift key pressed down press key P to give " after the instruction
+LOAD. Now type the letters sidea followed by " (symbol shift held down then
+press P). The line you have just entered should appear at the bottom of the
+screen as: LOAD "sidea". Now press the Enter key to give this instruction to
+the Spectrum. The Spectrum will respond with a blank screen on the
+television. Start the tape recorder and press any key. After a short time
+fluctuating lines will appear in the border region of your screen. If a
+short message appears entitled Program:sidea do not adjust anything and
+thereafter follow the instructions that the Spectrum gives you. If no message
+appears after 30 seconds change the volume setting on your tape recorder and
+wait for a further 15 seconds. Continue this procedure until a message
+appears on the screen. If nothing has appeared after 2 minutes, re-wind the
+cassette and repeat the above procedure with a different volume setting.
+Thereafter follow the instructions the Spectrum gives you. Load and run Side
+B by typing LOAD "sideb" followed by ENTER key.
+
+Horizons from Psion
+-------------------
+Horizons is a large introductory software cassette which contains many
+programs. It has been designed to introduce you to the Spectrum, to describe
+some of the hardware and systems features of the Spectrum, to teach you how
+to use keyboard of the Spectrum and to entertain, amuse and enlighten you to
+the possibilities of the use of your personal microcomputer. Side A includes
+a sample interactive description of the Spectrum and an interesting
+sequence of lessons to enable you to get used to the complex features of the
+Spectrum's keyboard. Side B contains a range of interactive programs
+including games, numerical experiments, the use of the Spectrum for
+draughtsmanship, programs to illustrate sorting and filing and utility
+routines which you may find useful later in writing your own programs.
+
+Side A
+------
+Load and run by typing LOAD "sidea"
+1. INTRODUCTION and simple explanation of the hardware components of the ZX
+Spectrum.
+2. KEYBOARD TRAINER - LESSON 1. The typewriter mode of the Spectrum
+illustrating lower case and upper case letters and including tests.
+3. KEYBOARD TRAINER - LESSON 2. Describes the use of Sinclair keywords
+whereby commands are entered with one key stroke.
+4. KEYBOARD TRAINER - LESSON 3. The cursor modes of the Spectrum keyboard
+are demonstrated. Shows how to obtain different modes and apply them for
+different purposes.
+5. KEYBOARD TRAINER - LESSON 4. Extended memory entry is illustrated followed
+by a comprehensive overall text.
+6. KEYWORD DICTIONARY. A small call-up database containing all the Spectrum
+keywords, their meanings and applications.
+
+Side B  Load and run by typing LOAD "sideb"
+------
+1. THRO' THE WALL The classic game using bat and ball. Try and knock the
+coloured bricks out of the wall to gain maximum points. An interactive
+real-time program which demonstrates the speed, colour and graphics
+capability of the Spectrum. This program is written in simple BASIC and
+illustrates how you can write your own games.
+
+2. BUBBLESORT This program illustrates how a computer can sequence or sort a
+randomly ordered set of objects. In this interesting and amusing example a
+bridge hand of 13 playing cards is dealt on to a green blaise table. The
+program demonstrates how, by considering pairs of cards, it gradually orders
+the hands according to number and suit.
+
+3. EVOLUTION or Foxes and Rabbits This program shows in simple BASIC how
+complex mathematical differential equations can be solved on even a
+microcomputer like the Spectrum. Such non-linear equations apply to many
+problems in science and engineering. In this example equations are introduced
+for an ecological balance between two species of animals in the same
+environment. Numerical solutions are obtained and shown graphically
+demonstrating the high resolution of the Spectrum.
+
+4. LIFE A machine code program giving fascinating and amusing patterns in
+time and describing the growth and evolution of an imaginary colony of
+beings.
+
+5. DRAW A substantial program which shows the graphics capability of the
+Spectrum. With the aid of a cursor and a simple set of commands this program
+allows you to draw and paint complicated diagrams and figures in different
+colours.
+
+6. MONTE CARLO illustrates the study of how stochastic or statistical events
+can be recorded and demonstrated on a computer. The program builds a bar
+chart or histogram for the distribution of throws of a pair of dice. What are
+your chances of throwing a 12 or a 7?
+
+7. CHARACTER GENERATOR One of the unusual and powerful features of the
+Spectrum is to allow the user to define his own characters or symbols. This
+small program sets up a large grid of pixels on the screen and with the aid
+of a cursor allows the user to easily generate his own characters.
+
+8. WAVES Demonstrates the phenomena of "beating" in music and elsewhere.
+
+(c) 1982 Psion Ltd.
+Made in U.K.

@@ -1,0 +1,167 @@
+THE SPECTRUM GAME DATABASE
+
+JET SET WILLY 2 - THE FINAL FRONTIER
+
+PUBLISHER
+Software Projects
+
+AUTHOR
+Derrick Rowson
+
+YEAR
+1985
+
+DESCRIPTION
+A multi screen platform game.  Jet Set Willy 2 is a near
+identical copy of Jet Set Willy 1, but with more rooms and
+slightly different colours.
+
+CONTROLS
+Q E T U O         - Left
+W R Y I P         - Right
+<Caps> - <Space>  - Jump
+
+INSTRUCTIONS
+Using the keys, the aim is to collect all of the flashing objects
+and then make your way back to The Master Bedroom.
+
+CHEATS
+The poke is: 7543,FF or 7A16,C3 (does the same).  In JSW2 the
+player has in the beginning 8 lives.  The lives are stored in a
+interesting way I have seen that somewhere before (may be too a
+M.Smith game).  As a byte has 8 bits, it's used here.  When you
+fill a memory address with 11111110b and then everytime when
+loosing a life you shift the byte left through CARRY, the 8th
+time you get in CARRY flag 0.  1111110b = FEh, if you write FFh
+instead, you never get 0 in CY.  The second way is to make the
+conditional jump unconditional, instead of JP C,XX can be used
+JP XX. That's the second poke.
+
+Poke 31254,195 lives
+30019,255      Infinite lives.
+31224,201      Invulnerability
+32261,201      Monsters harmless
+34686,n        Objects to collect (1-174)
+30027,n        Start room number (0-134)
+31657,n        Max monsters per room (1-15)
+
+
+SEQUELS/PREQUELS
+Jet Set Willy 2 is the sequel to Jet Set Willy 1, and is
+basically just a bigger version.  There are many other versions
+floating about, most of them hacked versions of this game and the
+original.
+
+
+INLAY CARD TEXT
+
+Whilst recovering in hospital from a severe fall down some stairs,
+Willy called in the builders. He thought it odd that they had green
+skin, but needing the work done in a hurry he asked them to remove
+the offending edges from his stairs. Trouble was, they did far more
+work than asked, adding several rooms to his mansion and then
+refusing to charge him!! 
+
+Maria is demanding that Willy clears up the mess and he hasn't even
+found all the rooms yet. Who were these strange people? Why did they
+need to add a Rocket Room to Willy's already substantial house? 
+
+Much patience and stamina is required to explore the extended house
+and NASA's "Guide to Simple Space Travel" is recommended reading for
+those foolhardy enough to help Willy clear up the mess. Be careful
+in the sewers and watch out for the bell ringer in the Belfry!!
+Good Luck!! 
+
+This game is for all teh people who wished
+that Jet Set Willy was bigger and better,
+some of the rooms may be familiar and those
+who played the origina Jet Set Willy will
+have a head start with this very extended
+over 100 room game.
+
+
+SCORES RECEIVED
+"Very good... but not much progress." 61% (CRASH #19, August
+1985)
+
+URL
+ftp.dcc.uchile.cl/pub/OS/sinclair/snapshots/j/jetset2.zip
+
+GENERAL FACTS
+JetSet Willy was converted to the Amstrad CPC range of computers
+in 1985.  During the translation, it gained a few new rooms, (a
+mere 76!) and Software Projects deemed it worthy to translate
+*back* to the Spectrum.  This they did...  The story this time
+is that Willy fell down the stairs, and whilst recovering in
+hospital, called in the builders to take off all the sharp edges
+on the stairway.  They did far more than this...  Willy thought
+it odd that they had green skin, but needed the work done
+quickly, so thought no more about it.  The NASA guide to easy
+Space travel is recommended for playing this game!
+  
+JSW2 has 131 rooms, which fill out the gaps in the original map,
+a room which is supposed to be only accessable by cheating, a
+real deserted isle, 175 objects (don't panic - you only need to
+collect 150 of them!) and no Attic Bug.
+  
+To find out why Willy needs a Space suit, you'd better take a
+look at the Watch Tower, and there's a surprise new ending too!
+There's also the final room - "Oh $#!+ - The Central Cavern!"
+which is a playable room, but inaccessable.
+
+What's the function of "Trip Switch"?  Go into the room Trip
+Switch and jump at the switch in the top left-hand corner.  A
+message will appear at the top of the screen saying 'Trip Switch
+On'. It will remain on until you lose a life (and you will, you
+will).  The idea is to navigate all thirty-odd rooms between
+there and the Yacht (or maybe the Bow); when you get there, the
+yacht should start moving and dump you on the Deserted Isle.
+Here, you collect the object and walk/jump about a bit (I can't
+remember exactly what) until a counter appears saying 'Time to
+rescue 999'. When this reaches 000, the right-hand tree will
+fall. Walk to the right; before you reach the water you will be 
+teleported to the Teleport room (the one with four platforms in
+an X).  The reason for this was a hoax in Your Spectrum issue 7
+claiming that  you could do this with the boat in the original
+Jet Set Willy.
+
+(Deserted Isle came about from a joke letter being printed in
+CRASH, stating that if you waited on "The Bow" until Midnight,
+a raft floated on-screen, and took you to a screen called "Secret
+Isle"  The catch [apart from it not existing!] was that JSW
+paused after a minute if you didn't press a key.  I got round
+this by leaving a book pressed on a jump key!
+
+The room 'cheat' can only be reached by cheating, hence the name;
+it lies between the Bow and the Deserted Isle, and if you cheat
+to walk on water, you don't need to go through the rigmarole
+described above.
+
+It's not only possible to enter the room "Secret Passage", it's
+necessary to go there to get the objects in the Hole With No
+Name.  Jump against the top right-hand part of the wall in "The
+Hole With No Name".  This should let you enter the Secret Passage
+from the left-hand side. Walk through it; you will appear on the
+left-hand side on the HWNN (honestly) and can collect the objects
+there.  I think you then have to go back the other way.
+
+Is it possible to get into " Star Drive - The Early Brick Version
+" WITHOUT killing yourself walking across a machine in " Banned
+"?  Yes - But only just...  You need to be pixel-perfect!  Stand
+on the very edge of the furthermost right section of the funny
+"S" shaped walk-through blocks.  As the periscope comes towards
+you, jump at and over it.  You only have two pixels of free space
+to play with - so you need to be damn sharp on the keyboard!
+
+JSW2 also plays "Moonlight Sonata" in attract mode, (for want of
+a better phrase) and plays Edward Grieg's (1843-1907) "The Hall 
+of the mountain king" as in-game music.
+
+NOTES
+'Dumb waiter' and 'Macaroni Ted';  Those two were in-jokes at the
+time.  Just as in Manic Miner, MS had a go at Eugene Evans with
+'Eugenes Lair', Derrick had another go at him with Dumb Waiter. 
+Eugene also wrote a game called 'Wacky Waiters' for the Vic20. 
+(In 1983!) It was dire, to say the least...  And Macaroni Ted was
+a go at the two blokes who wrote Technician Ted.  They worked for
+the electronics firm Marconi...

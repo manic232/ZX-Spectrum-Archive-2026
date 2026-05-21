@@ -1,0 +1,47 @@
+OOZE
+
+After years of experimentation at the hands of the machine your
+containment unit has malfunctioned.
+
+you are free.
+
+Using the floors and ceilings explore the vast complex avoid toxic
+slugs and gas, dodge lethal traps and robots and deactivate the
+various force fields to find your way out.
+
+Who knows what awaits you outside the walls of the high security
+research complex compound.
+
+In order to break free completely you must find and install the
+four coloured code keys that will enable you to pass their respective
+force fields and finally reach the exit.
+
+With each code key found and installed you will be able to proceed
+a little deeper into the facility in your search for the others.
+Make sure that you install each code key once you find it as without
+doing so you will not be able to proceed with your escape and will
+be forever condemned to roam within the metal cage that is this
+secret facility.
+
+Control ooze using either the keyboard or joystick your control
+method can be decided at the main menu reversing gravity will instantly
+fit you from the game menu.
+
+The controls are simple.
+
+O = Left
+P = Right
+Space = Reverse gravity
+M = Turn music on/off (at main menu screen)
+
+Reversing gravity will instantly flip you from the floor to the
+ceiling. This enables you to avoid the many automated patrol droids
+and other hazards you will find in the facility, as well as allowing
+you to navigate the entire area successfully.
+
+Your escape was not anticipated so measures have not been taken
+to secure the facility against such a situation. Use this to your
+advantage if you cannot pass an area by the ground use the ceiling.
+Ooze is weak to biological containments and you will die upon contact
+with them or any of the electrical security devices. Be careful
+with luck and skill you shall escape.

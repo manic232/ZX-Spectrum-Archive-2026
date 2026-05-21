@@ -1,0 +1,367 @@
+SCRABBLE
+
+
+LETTER DISTRIBUTION
+
+            Quantity                 Quantity
+Letters     in Game      Letters     in Game
+
+   A            9           N           6
+   B            2           0           8
+   C            2           P           2
+   D            4           Q           1
+   E           12           R           6
+   F            2           S           4
+   G            3           T           6
+   H            2           U           4
+   I            9           V           2
+   J            1           W           2
+   K            1           X           1
+   L            4           Y           2
+   M            2           Z           1
+ Blank          2
+
+
+INTRODUCTION
+
+This booklet is split into two sections: the first describes the game SCRABBLE®
+and sets out the rules; the second contains instructions on how to play Computer
+SCRABBLE® on your ZX Spectrum Computer.
+
+
+A. RULES FOR PLAYING SCRABBLE®
+
+SCRABBLE® is a word game for one to four players. The play consists of forming
+interlocking words, cross-word fashion, on the SCRABBLE® playing board using
+letter tiles with various score values.
+
+Each player competes for a high score by using his letters in combinations and
+locations that take best advantage of letter values and premium squares on the
+board. The combined total score for a game may range from about 500 points to
+700 or more depending on the skill of the players.
+
+
+THE PLAY
+
+Each player has seven letters in his rack at the start of the game, and after
+each play draws enough new letters to maintain this total.
+
+ 1. The first player combines two or more of his letters to form a word and
+    places them on the board to read either across or down with one letter
+    on the centre square. Diagonal words are not permitted.
+
+ 2. A player completes his turn by counting and announcing his score for
+    the turn. He then draws as many new letters as he has played, thus
+    always keeping seven letters in his rack.
+
+ 3. The second player, and then each in turn, adds one or more letters to
+    those already played so as to form new words. All letters played in
+    any one turn must be placed in one row across or down the board. They
+    must form one complete word and if, at the same time, they touch other
+    letters in adjacent rows, they must form complete words, cross-word
+    fashion, with all such letters. The player gets full credit for all
+    words formed or modified by his play.
+
+ 4. New words may be formed by:
+
+    a. Adding one or more letters to a word or letters already on the board.
+
+    b. Placing a word at right angles to a word already on the board. The
+       new word must use one of the letters of a word already on the board
+       or must add a letter to it.
+
+    c. Placing a complete word parallel to a word already played so that
+       adjoining letters also form complete words.
+
+ 5. No letter may be moved after it has been played.
+
+ 6. The two blank tiles may be used as any letter desired. When playing a
+    blank the player must indicate what letter it represents, after which
+    it cannot be changed during the game.
+
+ 7. Any player may use his turn to replace any or all of the letters on his
+    rack. After discarding them he draws the same number of new letters and
+    his discarded ones are then mixed with those remaining in the pool. He
+    then awaits his next turn to play.
+
+ 8. Any words found in a standard dictionary are permitted except proper
+    names, etc., usually commencing with a capital letter, those designated
+    as foreign words, abbreviations and words requiring apostrophes or
+    hyphens. Consult a dictionary only to check spelling or usage. Any word
+    may be challenged before the next player starts his turn. If the word
+    challenged is unacceptable, the player takes back his tiles and loses
+    his turn.
+
+ 9. Play continues until all tiles have been drawn and one of the players
+    has used all of the letters in his rack or until all possible plays
+    have been made.
+
+
+SCORING
+
+10. The score value of each letter is indicated in the table at the end of
+    this booklet, with the letter distribution at the front. Note that the
+    value of a blank is zero.
+
+11. The score for each turn is the sum of the score values of all the
+    letters in each word formed or modified in the play plus the premium
+    values resulting from placing letters on premium squares.
+
+12. Premium Letter Squares: A light blue square doubles the score of a
+    letter placed on it; a dark blue square trebles the letter score.
+
+13. Premium Word Squares: The score for an entire word is doubled when one
+    of its letters is placed on a green square; it is trebled when a
+    letter is placed on a red square. Include premiums for double or
+    triple letter values, if any, before doubling or tripling the word
+    score. If a word is formed that covers two premium word squares, the
+    score is doubled and then redoubled (4 times letter count), or trebled
+    and re-trebled (9 times letter count) as the case may be. Note that
+    the centre square is a green square and therefore doubles the score
+    for the first word.
+
+14. The above letter and word premiums apply only in the turn in which
+    they are first played. In subsequent turns letters count at face
+    value.
+
+15. When a blank letter tile falls upon a premium word square the sum of
+    letters in the word is doubled or trebled even though the blank
+    itself has no score value.
+
+16. When two or more words are formed in the same play, each is scored.
+    The common letter is counted (with full premium value, if any) in
+    the score for each word.
+
+17. Any player who plays all seven of his letters in a single turn
+    scores a premium of 50 points in addition to his regular score for
+    the play.
+
+18. At the end of the game each player's score is reduced by the sum of
+    his unplayed letters, and, if one player has used all of his letters,
+    his score is increased by the sum of the unplayed letters of all the
+    other players.
+
+
+B. PLAYING COMPUTER SCRABBLE
+
+Load and run the program by typing LOAD "scrabble".
+
+If you are unfamiliar with the rules of SCRABBLE®, read the preceding sections
+of this booklet - but don't worry, the computer will not allow you to make an
+illegal move.
+
+After loading the program you will be asked a few questions to determine various
+parameters such as how many players you wish etc.. These questions and the
+required responses are listed below:
+
+   1. Is your television colour or black and white: press C for colour
+      or B for black and white.
+
+   2. Do you wish to load a previously saved game: press Y for Yes or
+      N for No.
+
+   3. Select total number of players: press 1 to 4.
+
+   For each player in turn:
+
+   4. Do you wish the spectrum to play as this player: press Y or N.
+
+   5. If yes then at what level do you wish the computer to play:
+      press 1 to 4 where 4 is the hardest level.
+
+   6. The name of the player: type the name then press ENTER (a
+      maximum of 8 letters for human players and 7 for any computer
+      players).
+
+   Finally,
+
+   7. Do you wish to see the computer thinking: press Y or N.
+      Selecting N means you don't see any computer players trying
+      words on the board, nor is the computer's letter rack
+      displayed on the screen during the move.
+
+   8. Do you want the computer to wait between its moves: press Y
+      or N.
+
+The computer will then randomly choose who is to play first, draw the SCRABBLE®
+board and load the letter racks with the letters - again selected completely at
+random. You can trust it not to cheat!
+
+The screen will then show the SCRABBLE® board with a panel to the right
+displaying the players' names and scores, along with a list of options. There is
+also a full size display of the current player's letter tiles, and his name will
+be flashing. A description of the options available is given below:
+
+
+OPTIONS
+
+The various options are selected by pressing SYMBOL SHIFT and the option letter
+e.g. The option "VIEW RACKS" is selected by typing SYMBOL SHIFT and V together.
+The options can be selected at any time during the game, except when the
+computer is taking its turn.
+
+   The options are:
+
+V - VIEW RACKS this option displays the letters of all players in the side
+    panel. Restore the OPTIONS panel by pressing SYMBOL SHIFT and O.
+
+S - SYMBOLS this option calls up another display that indicates the premium
+    value squares. Return to the OPTIONS panel by pressing SYMBOL SHIFT and O.
+
+R - REARRANGE allows the current player to rearrange his letter tiles on the
+    racks. Having selected this option simply type your letters in the order you
+    wish to see them.
+
+C - CHANGE if desperate you can change any or all of your letter tiles, but this
+    uses up your turn. Having selected this option you are prompted to simply
+    type the letters you wish to change. If you make a mistake use the DELETE
+    key. When satisfied press ENTER. If you wish to PASS just press enter
+    without having typed any letters.
+
+J - JUGGLE instructs the computer to rearrange the current player's letter tiles
+    in a random manner.
+
+T - TILE VALUES displays the alphabet with corresponding scoring values. Return
+    to the OPTIONS panel with SYMBOL SHIFT and O, or view the letter
+    DISTRIBUTION with option D (SYMBOL SHIFT and D).
+
+D - DISTRIBUTION displays the number of tiles of each letter that are available
+    at the start of the game.
+
+Q - QUIT abandons the game and allows you to either start another or save the
+    current game on a separate blank cassette for completion at a later date.
+
+
+MAKING A MOVE
+
+Once you have thought of a word you wish to play you need to show the computer
+where to place the word. Move the cursor with the keys 5 to 8 to where you want
+the word to start and press A or D to indicate whether the word is to run Across
+or Down the board.
+
+You are now ready to play your word by simply typing it and pressing ENTER when
+you've finished (you don't need to type any letters that are already on the
+board, the computer will do it for you).
+
+Assuming that you haven't tried an illegal move the computer will then score the
+move and ask you if you want to accept it or try another: press Y for Yes or N
+to have another attempt. Once you are happy with your move and have answered Yes
+the computer will move your letters from the large rack on to the board and
+refill your rack. After a brief pause to let you see your new letters the
+computer will move on to the next player, but remember you can still view your
+rack in the side panel by asking the next player to select option V.
+
+PLAYING A BLANK - when it comes to playing a blank letter the procedure is
+slightly different. To play the blank letter press the SPACE key once and the
+cursor will not move. Then type the letter you wish the blank to represent and
+continue with the rest of the word as normal. You will see that the blank tile
+displays the letter you have nominated, but in inverse video to indicate that it
+is a blank (with zero scoring value).
+
+ILLEGAL MOVES - the computer will not let you use letters that are not on your
+rack, so you can't cheat. Similarly it will not accept words that are placed on
+the wrong part of the board and will allow you to try again.
+
+CHALLENGING - once you have made your move the computer will search its
+vocabulary of over 11,000 words. If it can't find the word, or any of the new
+words formed by the move, it will ask you to confirm that the words are legal.
+Being a trusting computer it will accept the word if you type Y, and reject it
+if you type N. In the latter case you score nothing and lose your turn, as per
+the rules.
+
+This facility allows for challenges by other human players who must not let the
+computer player type Y until the challenge is settled! The computer itself
+cannot be challenged but it can only play words that have been stored in its
+memory, and these have been carefully checked for legality by a SCRABBLE®
+expert.
+
+FINISHING - at the end of the game the computer will reduce each player's score
+by the sum of his unplayed letters, and if one player has used all his letters
+his score will be increased by the sum of the unplayed letters of the other
+players.
+
+SAVING - a partly played game can be saved on a separate blank cassette for
+completion later. Take the QUIT option and then follow the instructions offered
+on the screen. Remember to use a separate blank cassette - only a datafile will
+be saved, not the entire program.
+
+RELOADING - a partly played game can only be reloaded from within the main
+program so make sure you have loaded Computer SCRABBLE® from the original
+cassette first. Then take the QUIT option, from where you can choose to reload
+an old game. This facility is also available at the start of the program. You
+will be prompted to enter the file name of your saved datafile, then press ENTER
+and start your tape running.
+
+STRATEGY - the computer has an element of strategy programmed into it, so even
+at the hardest level (4) it may not place the highest scoring word it can,
+perhaps hoarding a useful letter like an S for a more profitable move. However
+it does not play a negative strategy such as avoiding opening up a premium score
+square to an opponent - it can beat you without adopting tactics like that.
+
+VOCABULARY - the computer's vocabulary contains over 11,000 words, an
+unprecedented achievement on a relatively small computer. In order to ensure
+that the computer could play a sufficient number of high scoring words some
+simple words in everyday use have been omitted - so if the computer challenges
+you and you are sure it is a permitted word, just answer Yes when it asks if the
+word is acceptable. And remember, the computer's vocabulary has been carefully
+checked by a SCRABBLE® expert, so it can't play any illegal words itself.
+
+
+C. LOADING THE PROGRAM
+
+The procedure for loading a program is described in chapter 20 of the Spectrum
+manual. The steps are summarised below.
+
+1. Connect the ear socket on your Spectrum to the ear socket on your cassette
+   recorder.
+
+2. Position the tape before the beginning of the program that you wish to load.
+
+3. Turn the volume control to ¾ maximum or to a level which you have found to
+   be reliable on your recorder.
+
+4. Type LOAD "scrabble" and press the ENTER key.
+
+5. Start the cassette recorder playing.
+
+Psion cassettes for the Sinclair ZX Spectrum are designed to load over a very
+wide range of volume and tone settings on your tape recorder. If you have any
+difficulty, ensure that the head and pinch-roller of your tape recorder are
+quite clean. Cleaning kits for this purpose are widely available.
+
+
+LETTER VALUES
+
+Letter     Score     Letter     Score
+   A         1          N          1
+   B         3          O          1
+   C         3          P          3
+   D         2          Q         10
+   E         1          R          1
+   F         4          S          1
+   G         2          T          1
+   H         4          U          1
+   I         1          V          4
+   J         8          W          4
+   K         5          X          8
+   L         1          Y          4
+   M         3          Z         10
+ Blank       0
+
+
+
+
+PSION acknowledges the contribution of Peter Turcan who has worked with PSION
+and whose analysis of SCRABBLE® forms the basis of this program.
+
+Computer SCRABBLE® for the Spectrum has been written by PSION under licence from
+LITTLE GENIUS Ltd (the exclusive licensees for computer programs).
+
+SCRABBLE® trademark and copyright licensed by Scrabble Schutzrechte und Handels
+Gmbh (a J.W. Spear and Sons PLC subsidiary).
+
+©Copyright 1983 PSION Ltd. All rights reserved. No part of this program,
+packaging or documentation may be reproduced in any form. Unauthorised copying,
+hiring, lending or sale and repurchase prohibited.
+
+MADE IN UNITED KINGDOM

@@ -1,0 +1,62 @@
+HORACE TO THE RESCUE (Codenamed “Horace 5”) – Instructions:
+
+Horace is once again playing the hero in this next 
+instalment of Horace to the Rescue. You must pick 
+up all the golden coins to allow Horace to enter 
+the next level by guiding Horace to the bell before 
+his time runs out. When all the golden coins are 
+collected, jump Horace into the bell to get to the 
+next level. Horace must avoid the arrows and the 
+nasty heads.
+
+Horace must complete all of the levels to rescue 
+the princess on the last level.
+
+TIPS:
+You can stand on top of arrows, nasty heads and 
+golden coins. Watch out when on the nasty heads and 
+arrows though!
+
+Some hidden screen locations also pick up a coin 
+without being near it.
+
+You can see Time remaining, Lives remaining, Score 
+and High score at the top of the screen. When time runs 
+out, you lose a life.
+
+KEYS:
+SHIFT - Jump
+O - Left
+P - Right
+
+
+GAME REQUIREMENTS:
+This game plays on the 48K spectrum. Issue 3 keyboard 
+should be selected in some emulators for the controls to work correctly.
+
+GAME BACKGROUND:
+I started to write software again for the ZX Spectrum 
+in 2013 as it takes my mind off the day to day stresses, 
+it keeps the mind running and is quite rewarding and relaxing. 
+
+I am a great fan of retro games and before programming 
+sessions, I like to listen to 80’s music to get me 
+into the right mood, especially music from 1982/83.
+
+I wanted to create a version of My Rendition of Horace 
+to the Rescue to fill that unreleased game gap. I 
+managed to find some time to write this game. I 
+kept all the old ingredients such as the start 
+screen, graphics and sound. The game had to be 
+simple and easy, but not too easy.
+
+The whole game was written using Spectaculator 
+Spectrum emulator. http://www.spectaculator.com/
+
+Hopefully I have succeeded in keeping the 
+traditional Horace gameplay and appeal.
+
+I hope you have fun with this game as I 
+did writing it.
+
+Steve Broad October 2013 – Email: stevebroad@yahoo.com

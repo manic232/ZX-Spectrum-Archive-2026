@@ -1,0 +1,54 @@
+IMPOSSABALL
+
+By John Phillips
+
+Do you have the nerve and skill to guide your bouncing Impossaball
+through the corridor of doom? Time is running out.
+
+Bounce onto a spike and Impossaball is obliterated. Touch a column and
+Impossaball rebounds at electric speeds. Against a constantly moving
+background of death dealing obstacles you must squash all the cylinders
+to complete the game.
+
+Are you good enough?
+
+CONTROLS
+
+The game can be controlled using either one or two keyboard options or a
+joystick. Make your selection by pressing the appropriate fire key or
+FIRE button after the game has loaded. The Spectrum program
+automatically distinguishes between Kempston, Cursor and Sinclair
+joystick standards.
+
+KEYBOARD        KEYBOARD        JOYSTICK        EFFECT
+OPTION 1        OPTION 2
+
+X               M               FIRE button     Press to bounce higher
+Q               O               LEFT            Move left
+W               P               RIGHT           Move right
+P               Q               UP              Move into screen
+L               S               DOWN            Move out of screen
+
+ENTER or RETURN key as appropriate - Pause. Press FIRE to restart.
+
+BREAK or ESC key as appropriate - Reset to beginning of game.
+
+PLAYING THE GAME
+
+Race against the clock to bounce the Impossaball from the start to the
+finish line squashing all the cylinders and avoiding the spikes, plasma
+fields and fire bolts on the way. The first time you hit a magic ring
+you gain extra time, but do so twice and you lose a life. You've got
+four lives to start with and gain an extra life every 5000 points.
+
+TECHNICAL FEATURES
+
+Fast, variable speed scrolling with inertial control.
+
+True perspective with precise curved-surface collision detection.
+
+Eight levels of play.
+
+Automatic joystick mode detection (Spectrum version only).
+
+Three voice sound effects (Amstrad version only).

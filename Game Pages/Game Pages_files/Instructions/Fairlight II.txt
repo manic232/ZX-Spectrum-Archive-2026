@@ -1,0 +1,157 @@
+Fairlight II: A Trail of Darkness  (c) 1986 The Edge Software
+-------------------------------------------------------------
+
+Being the second part of thr Chronicles of the Land of Fairlight
+
+AN INTRODUCTION
+
+If yoy have played Fairlight 1 (The Light Revealed) then you will need
+little or no introduction to the magical 3-dimensional world of Fairlight.
+In this, the second part of the Cronicles, Bo Jangeborg has developed an
+even more impressive version of the 3-D Worldmaker Technique allowing even
+more surprised in your exploration of the land.
+
+Playing Part 1 of these Chronicles is not essential before playing Trial of
+Drakness, but you will certainly have a greater chance of understanding how
+Isvar is to complete his tasks... This game begins exactly where the first
+part ended, so if you played Fairlight 1 be prepared for an even larger,
+even more complex game ahead of you!
+
+If you have not played Fairlight 1 then note that objects and characters
+that you meet in this game will tend to have 'real world' features such as
+weight, momentum, inertia, and sometimes a degree of independent
+intelligence too. Although, for instance, you (as Isvar) can carry up to 5
+things, what you can actually carry will depend to some extent upon the
+weigth of objects. Pushing a lightweight object will cause it to move more
+freely than pushing a large heavy one foe example.
+
+This revolutionary technique (which remains unrivalled more than a year
+after its initial appearance on home micros!) allows you a fantastic degree
+of detail in the 3D rooms and locations, and there are even outdoor
+locations in this game - something that other games have steered clear of
+before. Feel free to move objects as you might in the real world, or to
+interact with them, stack them or use them as you might see fit. Youll be
+surprised at the flexibility you are allows,
+
+This game may take many months to solve, so don't expect to sit down and
+complete it in the first evening! This is probably the first true 128K game
+for the ZX Spectrum, which is twice the size of Fairlight 1.
+
+Good luck!
+
+The Edge
+London 1986
+
+LOADING & PLAYING FAIRLIGHT
+
+To load this game simply enter Load "" and press ENTER. The game will load
+and run automatically.
+
+This game is effectively in two parts. On the 128K Spectrum these parts
+are loaded all at once and you can play the full extended game to its
+conclusion without the need of re-loading additional game data. However,
+the 48K version loads the game in two sections: but to load part 2 you will
+have to complete part 1. The game will automatically require you to play
+your tape recorder in order to load the second part when you have completed
+the first. You will also be prompted to re-load the first part should you
+be lucky enough to get into the second, but unlucky in completing the game.
+
+Trial of Darkness also features 'save game and 'load game' facilities. 
+ 
+Controls:
+
+Keys           Function
+Y-P            UP & RIGHT
+G-L            DOWN & LEFT
+Q-T            UP & LEFT
+A-G            DOWN & RIGHT
+SYM/SPACE      JUMP
+B-M            FIGHT
+X-V            PICK UP
+CAPS-Z         DROP
+1-5            SELECT OBJECTS (5 'pockets')
+6/7            USE SELECTED OBJECT
+SYM+SPACE      PAUSE GAME
+
+Whilst Paused:
+
+Press 'S' to SAVE game (have recorder recording before pressing the key)
+Press 'L' to LOAD a previously saved game.
+Press 'O' to re-start the game.
+
+Joystick: You can use the Kempston joystick. Pressing the fire button allows
+Isvar to fight,  and all other functions other than Isvar's movement are
+still under keyboard control.
+
+CRONICLES OF THE LAND OF FAIRLIGHT
+
+2. Trial of Darkness
+
+The Undoing
+The land had been dying by degrees over the millenia. The Light and Magic
+that had once made the beauteous land of Fairlight a joy to behold had
+gradually faded. It is known in the Lore of the Land that one day a wizard
+will be born who will be called by the Elders to free the land again of the
+dark grip that holds it. But has that time yet come?
+
+Isvar, you have seemed to be called. You have been drawn by magic powers
+into the castle of Avars, to the very place where the King of Avars was
+slain. You had you thought been called by the kindly wizard Segar who legend
+tells was entrapped in a tower within the castle. Knowing no better, you
+heard the call of Segar and followed his plea to find the fabled book of
+Light within the castle's depths, and have returned the book to your bidder.
+
+But Isvar, you were decieved: for it was not Segar the Immortal in that
+tower but the Dark Lord himself. And in taking the Book of Light to him you
+have potentially sealed the fate of the Land of Fairlight...
+
+A Meeting
+I am free, but free from what? Surely it is true that I have escaped from
+within the castle's forbidding confines, but at what price have I earnt this
+freedom? Readily did I give the Book, the so precious Book, to the Lord of
+Darkness thinking him to be Segar. Oh how foolish you are Isar! Was there
+ever such a fool as you?!
+
+But wait, what mists surround me by this gateway? Does his magic call within
+again? Has it been but an illusion that I have escaped? Does he plan that I
+take his place, to be trapped in that toqwer for all my days??
+
+No... these mists... they are forming... forming into the figure of a man.
+It is him! Again I see the image of Segar! But not this time evil Lord, you
+will not fool me twice!
+
+'Isvar', came a deep resounding voice as if from the heavens, 'are you yet
+more foolish than even you look? Do not feel that you had any choice but to
+give the sacred Book to our evil brother. It was written Isvar that you
+would come; that you would find the Book again and that upon your actions
+would lie the future of Fairlight.
+
+Despair not, for in your despair id the Dark Lord's hope. You could not stop
+him from gaining the Book, but now he must rely upon your inaction if he is
+to achieve his ultimate goal of darkness in the Land. He is hidden, oh
+Isvar, where you cannot yet know. But markyou this that you must seek him
+within the Land and without it. Seek him where he lies for there he must be
+at his weakest so that his power can turn that of the Book to his own ends.
+
+'Go now Isvar. Turn not to look behind but rather go with all speed to the
+length and breadth of this land. Search well Isvar or all is lost...
+
+The mists fade, and I have this feeling of having been here before. Was that
+indeed Segar? Am I being duped again? Can I even trust my own senses
+anymore!
+
+'But somewhere in the still silence of my inner heart I can hear a softly
+spoken voice that I cannot shut out, saying: 'What you seek cannot be found,
+but what you find cannot be lost...'
+
+----------------------------------------------------------------------------
+
+(c) 1986 Bo Jangeborg. All rights reserved by Softek International Ltd. This
+computer program and leaflet are protected by the international laws of
+copyright. No part of this manual or the accompanying game may be hired,
+lent, or by any means whether electronic, magnetic or mechanical without the
+express written permission of the publishers, Softek International.
+
+The Edge, 36/38 Southampton Street, Covent Garden, London WC2E &HE, England. 
+
+Complete Instructions typed in by Paul Thompson, March 2003

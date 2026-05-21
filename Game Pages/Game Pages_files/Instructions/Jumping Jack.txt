@@ -1,0 +1,87 @@
+Jumping Jack knows a rhyme, a four verse limerick.
+Unfortunately he is unwilling to recite it unless you help
+him scale the levels to the top of the screen. Only by
+helping him through all twenty screens will you learn the
+entire rhyme. For each screen completed he will tell you
+two lines.
+
+Jack is faced with eight layers initially containing only two
+moving gaps, the gap moving leftwards travels upwards
+whilst the gap moving to the right travels downwards.
+Jack must jump through the gaps above him whilst
+avoiding falling through the gaps below.
+Jack can only move upwards by jumping through the
+gap above but he can also move left and right. Should he
+run off the edge of the screen he will wrap around to the
+other edge. Should he fall down a layer he will bang his
+head and remain unconscious for a period of time during
+which he cannot move. Every time he arrives at the
+bottom of the screen unconscious he loses a life.
+At each successful jump a new gap appears at random -
+the first three new gaps descend then the next three
+ascend - up to a maximum of eight gaps. On making a
+successful jump at the top layer the 'next level' sequence
+is entered, and the next part of the rhyme is given.
+Hazards will begin to appear after the first level - one
+initially, then two right up to a maximum of twenty, one
+for each level completed. They all ascend and if Jack
+collides with a hazard he will be knocked unconscious.
+
+Please turn over
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCORING: After each completion of each verse of the
+poem (a four verse limerick) a new life is awarded.
+Scoring is by successful jumps and progressively more
+points are awarded at each new level.
+HOW TO MOVE JACK:
+Jump           CAPS SHIFT
+Left           SYMBOL SHIFT
+Right          SPACE
+Hold           'Z' KEY
+JUMPING JACK will work with any ZX SPECTRUM.
+LOADING: Place the cassette into your tape recorder
+with the printed side facing upwards. Ensure that a lead
+goes from the ear socket on the SPECTRUM to the EAR
+socket on the recorder and that the MIC socket is
+disconnected. Rewind the tape to the beginning. Type
+one of the following LOAD""<ENTER>
+The word LOAD is obtained by depressing the J key, and
+the quotes by depressing the SYMBOLIC SHIFT and P
+keys simultaneously. <ENTER> means to press the key
+marked ENTER.
+Also note that there is no space between the two quotes
+in this method. Press play on the recorder. If loading is
+successful a flashing message will appear on the screen
+after several seconds. The process is entirely automatic
+from there on. If problems are experienced adjust your
+volume control and try again or re-read chapter six of
+your introductory manual.
+
+PROGRAM CODING by Albert Ball
+GRAPHIC DESIGN & ILLUSTRATION by Steve Blower
+
+Jumping Jack (C) 1983 by Imagine Software. The game Jumping Jack, its program code, game
+mechanics, audio-visual presentation and documentation are protected by National and International
+copyright laws. The distribution and sale of this product are intended for the use of the original
+purchase only and for use only on the computer system specified. Lawful users of this program are
+hereby licensed only to read the program from its medium into memory of the computer for the
+purpose of executing the program. This product may not be stored, translated, transmitted,
+reproduced or distributed in any form or by any means or offered for hire or for sale on any optional
+buy back basis without the express written permission of Imagine Software. All rights of author and
+owner reserved worldwide. Jumping Jack is a registered trademark of Imagine Software.
+--------------------------------------------------------------------------------
+Original transcribed by Robin Stuart.
+Edited with original ZX Spectrum instructions by Frode Tennebø, 20090107.
