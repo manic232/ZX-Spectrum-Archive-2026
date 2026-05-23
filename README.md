@@ -21,6 +21,26 @@ Much of the material on this site was written by me, with additional information
 
 The site is intentionally a full-on Web 1.0 throwback — frames and all. I could have rebuilt it as a slick modern site, but honestly… why would I? I miss the early internet, and the simple, nostalgic feel suits the Speccy perfectly.
 
+Changes Made in the 2026 Reboot
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ * Completed the CRASH Smashes section after 23 years.
+ * Changed all game links to magazine reviews from CRASH Online and other sources.
+ * Added box art, manuals and a playable game button to all game review pages.
+ * Box art is now clickable: click to expand, click again to return.
+ * Removed all greyed-out entries — every game now links to a magazine review.
+ * Removed Offline WOS archive, FAQ section, Pokes, and CRASH Scores pages.
+ * Removed all references to my old ROM and box-art folders.
+ * Removed most mentions of ZX32 — it’s outdated and better emulators now exist.
+ * Reformatted the About and Help sections for consistency with the rest of the main sections.
+ * Updated and expanded the bookmarks on the home page, and removed dead links.
+ * removed most external links across the site — only the home page now includes them.
+ * Renamed “My Games” to “The Toy Box” and added several more games.
+ * Fixed typos and polished the wording, bringing my slightly juvenile original writing up to date.
+ * Brought the site up to date to include information on newer hardware and software where appropriate.
+ * Updated or replaced several images, including swapping out some low-resolution ones.
+ * Re-created all the animated GIF images myself from scratch.
+ * Added mini-game, can you find a hidden room?
+
 
 Help Using this Site:
 ━━━━━━━━━━━━━━━━━━━━
@@ -41,7 +61,7 @@ At the bottom of each main section you’ll find links to additional material su
 
 All game review pages now include box art, which you can click to enlarge and click again to return.
 
-POKE commands used to be used to unlock hidden rooms.
+See if the animated game characters have anything to say about a hidden area!
 
 
 Playing the Games:

@@ -12,19 +12,47 @@
 <body bgcolor="#000000" text="#FFFFFF" link="#FFFFFF" vlink="#FFFFFF" alink="#FFFFFF">
 
 <p align="left">
-  <a href="Game Pages/imageviewer.html#../ZX%20Spectrum%20Archive_files/R%20Tape%20Loading%20Error.jpg">
-    <img border="0" 
-         src="ZX%20Spectrum%20Archive_files/Load%20Toy%20Box.jpg" 
+
+  <a id="toyboxLink" 
+     href="Game Pages/imageviewer.html#../ZX%20Spectrum%20Archive_files/R%20Tape%20Loading%20Error.jpg"
+     onclick="return swapToyboxImage();">
+
+    <img id="toyboxImage"
+         border="0"
+         src="ZX%20Spectrum%20Archive_files/Load%20Toy%20Box.jpg"
          width="350" height="285"
-         alt="The Dining Room, Christmas night, about to load Horace Goes Skiing..."
          align="right" hspace="5">
   </a>
 
   <img border="0" 
        src="ZX%20Spectrum%20Archive_files/Rainbow.png"
        align="left" hspace="2" width="100" height="64">
+
 </p>
 
+<script type="text/javascript">
+function swapToyboxImage() {
+
+  var img = document.getElementById('toyboxImage');
+  var link = document.getElementById('toyboxLink');
+
+  // Use indexOf instead of includes (IE5/6 safe)
+  var original = "Load%20Toy%20Box.jpg";
+  var alternate = "R%20Tape%20Loading%20Error.jpg";
+
+  // img.src becomes an absolute URL in old browsers, so we search for the filename
+  if (img.src.indexOf(original) != -1) {
+    img.src = "ZX%20Spectrum%20Archive_files/" + alternate;
+    link.href = "Game Pages/imageviewer.html#../ZX%20Spectrum%20Archive_files/" + alternate;
+  } else {
+    img.src = "ZX%20Spectrum%20Archive_files/" + original;
+    link.href = "Game Pages/imageviewer.html#../ZX%20Spectrum%20Archive_files/" + original;
+  }
+
+  // Returning false stops the link from opening immediately (IE5/6 compatible)
+  return false;
+}
+</script>
 
 <p align="left"><br>
 </p>
@@ -56,7 +84,7 @@ few I’ve forgotten over the years.</b></font></p>
 CRASH reviews. If no CRASH review exists, I’ve sourced them from other
 magazines including <i>Sinclair User</i> or <i> Your Sinclair</i>.</b></font></p>
 
-<p align="center"><img border="0" src="ZX%20Spectrum%20Archive_files/Horace.gif" alt="You pay $10 for these crappy Skis that break after hitting one tree!" width="40" height="44"></p>
+<p align="center"><a href="Game%20Pages/Horace%20Goes%20Skiing.html"><img border="0" src="ZX%20Spectrum%20Archive_files/Horace.gif" alt="You didn't think clicking on us was the secret did you? that wound be too easy." title="You didn't think clicking on us was the secret did you? that wound be too easy." width="40" height="44"></a></p>
 
 <p align="left"><b><font face="Verdana" size="3">My Memories</font></b></p>
 
