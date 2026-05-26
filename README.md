@@ -3,67 +3,69 @@ ZX Spectrum Archive: 2026 Web 1.0 Reboot Edition!
 Welcome to the 2026 reboot of my ZX Spectrum Archive web page.
 
 
-## About this Site:
-In January 2003 I stopped working on this site. I’d grown bored of the tedious process of completing the  CRASH Smash section — sourcing instructions for each game, creating a page for it, and repeating that cycle endlessly. I stopped at Popeye, and for the next 23 years… that’s where it stayed.
+## About The Archive:
+In January 2003 I stopped working on this. I’d grown bored of the tedious process of completing the  CRASH Smash section — sourcing instructions for each game, creating a page for it, and repeating that cycle endlessly. I stopped at Popeye, and for the next 23 years… that’s where it stayed.
 
-Fast-forward to April 2026, and I finally decided to finish what I’d started all those years ago. Back then I was using Windows XP and building these pages in FrontPage 2000. Amazingly, it still runs on Windows 11, which meant I could complete the site using the exact same software I began with.
+Fast-forward to April 2026, and I finally decided to finish what I’d started all those years ago.  My initial goal was simply to complete the CRASH Smash section and leave it at that. However, as I started working, I got so many different ideas about how to update and fine tune things.  I started thinking about what functionally I would have wanted back in 2001 that was not achievable at that time, but may be easer now.  There is not one section that I have not amended, updated or altered in some form or another. Read on to see what has changed since the very early naughties!
 
-But I didn’t just finish it — I updated it.
-
-In 2001, the main purpose of this site was to accompany a folder I’d built full of Spectrum ROMs, box art, and other bits, all neatly organised into directories that matched the games listed here. Those lists originally pointed to the instructions for each game, but the folder itself is long gone now. So for the 2026 reboot, I decided the best approach was to integrate the box art, instructions, and a playable game link directly into each game’s page, rather than relying on external folders.
+In 2001, the main purpose of all this was to accompany a folder I’d built full of Spectrum ROMs, box art, and other bits, all neatly organised into directories that matched the games listed here. Those lists originally pointed to the instructions for each game, but the folder itself is long gone now. So for the 2026 reboot, I decided the best approach was to integrate the box art, instructions, and a playable game link directly into each game’s page, rather than relying on external folders.
 
 Because of this, I chose to link the game lists to magazine reviews — mainly from CRASH Online — rather than to the instructions. Each game page now has its own dedicated instructions link anyway, so having them link to the instructions makes no sense now.
 
-I would have loved this functionality back in 2001 when I started this site, but I simply didn’t have the patience to manually add the links to the ROMs, box art and Instructions to every single page. The only reason I’ve managed it now is largely thanks to AI. Copilot has been an essential tool throughout this reboot — helping me generate PowerShell scripts to automate huge chunks of repetitive work, and tackle tasks that would have been too time consuming — not to mention soul-destroying —  to do manually.
+It would have been great to have all this functionality back in 2001 when I started the project, but I simply didn’t have the time or patience to carry out all the laborious work.  The only reason I’ve managed it now is largely thanks to AI. Copilot has been an essential tool throughout this reboot — helping me generate PowerShell scripts to automate huge chunks of repetitive work, and tackle tasks that would have been too time consuming — not to mention soul-destroying —  to do manually.
 
-Much of the material on this site was written by me, with additional information originally sourced from places like World of Spectrum, Rebelstar, and the now-obsolete WOS CD-ROM. For the 2026 reboot, I used CRASH Online as the primary source for the game reviews. Some early games were released too early on to have been reviewed in CRASH, and CRASH Online mainly covers the more popular games or those that received a CRASH Smash, so for any reviews I couldn’t source from there, I created them myself using the OCR’d CRASH PDF issues available from the RetroPDF website. Alternatively, I sourced a them from other magazines, such as Your Sinclair or Sinclair User.
+Much of the material was written by me, with additional information originally sourced from places like World of Spectrum, Rebelstar, and the now-obsolete WOS CD-ROM. For the 2026 reboot, I used CRASH Online as the primary source for the game reviews. Some early games were released too early on to have been reviewed in CRASH, and CRASH Online mainly covers the more popular games or those that received a CRASH Smash, so for any reviews I couldn’t source from there, I created them myself using the OCR’d CRASH PDF issues available from the RetroPDF website. Alternatively, I sourced a them from other magazines, such as Your Sinclair or Sinclair User.
 
-The site is intentionally a full-on Web 1.0 throwback — frames and all. I could have rebuilt it as a slick modern site, but honestly… why would I? I miss the early internet, and the simple, nostalgic feel suits the Speccy perfectly.
+The site is intentionally a full-on Web 1.0 throwback — frames and all!  I could have rebuilt it, all slick and modern, but… nah! why would I want to go and do something like that?  I miss the early internet, and I'm not a fan of the look and feel of the modern internet. Anyway, the simple, nostalgic aesthetic suits the Speccy perfectly.
 
 ## Changes Made in the 2026 Reboot
- * Completed the CRASH Smashes section after 23 years.
- * Changed all game links to magazine reviews from CRASH Online and other sources.
+ * Completed the  CRASH Smashes section after 23 years.
+ * Changed all game links to magazine reviews, mainly from CRASH Online.
  * Added box art, manuals and a playable game button to all game review pages.
  * Box art is now clickable: click to expand, click again to return.
  * Removed all greyed-out entries — every game now links to a magazine review.
  * Removed Offline WOS archive, FAQ section, Pokes, and CRASH Scores pages.
  * Removed all references to my old ROM and box-art folders.
  * Removed most mentions of ZX32 — it’s outdated and better emulators now exist.
- * Reformatted the About and Help sections for consistency with the rest of the main sections.
+ * Reformatted the About, Help and further reading sections for consistency.
+ * Added images where appropriate to the Further Reading sections.
  * Updated and expanded the bookmarks on the home page, and removed dead links.
  * removed most external links across the site — only the home page now includes them.
  * Renamed “My Games” to “The Toy Box” and added several more games.
- * Fixed typos and polished the wording, bringing my slightly juvenile original writing up to date.
+ * Fixed typos and polished dialog, bringing my slightly juvenile writing style up to date.
  * Brought the site up to date to include information on newer hardware and software where appropriate.
  * Updated or replaced several images, including swapping out some low-resolution ones.
  * Re-created all the animated GIF images myself from scratch.
- * Added mini-game, can you find a hidden room?
+ * Added internet connection check for external web links.
+ * Added mini-game, can you find the legendary hidden room?
 
 
-## Help Using this Site:
-I originally designed this site to be viewed in Internet Explorer on Windows 98 or XP. The layout looks best at 1024x768 or higher, and while the site will display in modern browsers, a few formatting quirks do appear here and there.
+## Help Using the Archive:
+I originally designed this to be viewed in Internet Explorer on Windows 98 or XP. The layout looks best at 1024x768 or higher, and while it will display in modern browsers, a few formatting quirks do appear here and there.
 
-For the most authentic and consistent experience, I recommend viewing the site with RetroZilla. It runs flawlessly on modern versions of Windows as well as Windows 98, and the site looks exactly as intended when using it. On Windows 98 you can still use IE5 (IE6 works too, though with a few minor issues), but RetroZilla remains the best choice for consistency across operating systems.
+For the most authentic and consistent experience, I recommend viewing the site with RetroZilla. It runs flawlessly on modern versions of Windows as well as Windows 98, and it looks exactly as intended when using this browser. On Windows 98 you can still use IE5 (IE6 works too, though with a few minor issues), but RetroZilla remains the best choice for consistency across operating systems.
 
 
-## Navigating the Site:
+## Finding your Way Around:
 The area at the top of the page is the main navigation menu, that takes you to the primary sections of the site. (See  About for more details).
 
 The left pane changes depending on where you are. In most sections it contains links to the relevant game review pages. In the Archive Home area, it shows various Spectrum-related web links — including several new ones added in 2026.
 
-I’ve tried to keep things consistent throughout the site. Regular internal links are white and underlined, and those pages include a Back button at the bottom to return to the previous level. External links are Cyan and open in a new window.
+I’ve tried to keep things consistent throughout. Regular internal links are white and underlined, and those pages include a Back button at the bottom to return to the previous level. External links are Cyan and open in a new window.
 
 At the bottom of each main section you’ll find links to additional material such as interviews, history, and more.
 
 All game review pages now include box art, which you can click to enlarge and click again to return.
 
-See if the animated game characters have anything to say about a hidden area!
+See what the so called GIF elders have to say about this "legendary hidden room", personally I think it's a load of fuss about nothing but you never know!
 
 
 ## Playing the Games:
-Each game page includes a LOAD " " option that opens the ROM in your default Spectrum emulator. I use Spectaculator, but any emulator should work as long as you’ve associated TZX, TAP, DSK, Z80 and ROM files with it. Most ROMs here are in TZX format, with a handful in the others. You’ll also find a link to the game's instructions. These are external TXT or PDF files, and the quality varies wildly — many are a gold mine of spectacular spelling errors and questionable formatting — but they’re worth including.
+As well as including links to the game's original instructions in TXT or PDF format, game review pages also include a LOAD " " option that opens the ROM in your default Spectrum emulator. I used to use ZX32 back in the day, now I use Spectaculator or Retro Virtual Machine, but most emulators should work as long as you’ve associated TZX, TAP, DSK, Z80 and ROM files with it.  Of course, ZX32 will still work if you’re playing the games on a Windows 98 PC or 86Box, but compatibility isn’t as strong.
 
-Spectrum games — especially later releases — often came on multiple cassette sides. You’d sometimes have to flip the tape, load a second side, or choose between 48K and 128K versions. Because of this, ROM sets can include several files: Side A, Side B, Tape 1, Tape 2, etc.
+Most of the ROMs here are TZX files, with only a handful in other formats.
+
+Spectrum games — especially later releases — often came on multiple cassette tapes. You’d sometimes need to flip the tape or load a second side to load a different section to the game or choose between 48K and 128K versions. Because of this, ROM sets can include several files: Side A, Side B, Tape 1, Tape 2, etc.
 
 For games with more than one side, you’ll see a separate page where you can choose which side to load. Just be aware that some B sides weren’t meant to load from cold — they were designed to be loaded from within the game at a specific point. So if Side 2/B refuses to start on its own, don’t worry — that’s normal behaviour for those titles.
 
@@ -71,7 +73,7 @@ Many of the games listed — particularly in the CRASH Smash section — are 128
 
 A good number of games also include a .pok cheat file alongside the ROM. Not every game has pokes, but if it does, you can open the cheat options in Spectaculator (CTRL+H) and select the poke you want.
 
-If you’re viewing this site on a Windows 98 PC or 86Box, Spectaculator won’t run. You can use ZX32 of course, but compatibility is hit-and-miss: some games work, some don’t, and DSK images won’t load at all. If you want to play the games, best to use Spectaculator on a modern OS.
+If you’re viewing this on a Windows 98 PC or 86Box, Spectaculator won’t run. You can use ZX32 of course, but compatibility is hit-and-miss: some games work, some don’t, and DSK images won’t load at all. If you want to play the games, best to use Spectaculator on a modern OS.
 
 I’ve tested all ROMs to ensure they’re the correct games and that they load. I haven’t played them to completion — can you imagine how long that would take — but all games should at least start and get to the title screen. A handful still have copy protection, and I couldn’t find clean alternatives, but thankfully it’s only one or two.
 
@@ -79,6 +81,6 @@ I’ve tested all ROMs to ensure they’re the correct games and that they load.
 ## Notes:
 There is some character weirdness going on in many areas when viewing online.  This is because these old pages are encoded as Windows-1252 (ANSI), but GitHub Pages serves everything as UTF-8. You can kind of fix it in RetroZilla, by clicking View/Character Encoding and change to Western (Windows-1252). The issue is that when you click on another link it reverts back. I guess I could convert all pages to UTF-8 but that breaks everything when viewing offline.
 
-For this reason I would recommend downloading the whole site from releases and viewing offline with RetroZilla, There are no formatting issues when viewing this way.
+For this reason I would recommend downloading the whole thing from releases and viewing offline with RetroZilla, There are no formatting issues when viewing this way.
 
-I very much doubt that this web site will have any interest to anyone but me, It's just here for my own backup purposes and I don't expect anyone will look at it, but the URL is https://manic232.github.io/ZX-Spectrum-Archive-2026/
+I very much doubt that this will have any interest to anyone but me, It's just here for my own backup purposes and I don't expect anyone will look at it, but the URL is https://manic232.github.io/ZX-Spectrum-Archive-2026/
