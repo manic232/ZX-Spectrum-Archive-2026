@@ -18,13 +18,15 @@ FIREBIRD
 
 
 
-CAUTION: This cassette contains five of the most uninspired games ever to disgrace the 48K Spectrum:
+CAUTION: This cassette contains five of the most uninspired games ever
+to disgrace the 48K Spectrum:
 RACE ACE - High speed motor racing action.
 FIDO 1 - Supermutt versus the moles and the birdies.
 WEASEL WILLY - Brilliant in its concept, unoriginal in its conception.
 FIDO 2 - Puppy problems cause a right mess.
 FRUIT MACHINE - Superb, original idea.
-This is probably the beginning of the end of games as you have know them. YOU HAVE BEEN WARNED!
+This is probably the beginning of the end of games as you have know them.
+YOU HAVE BEEN WARNED!
 
 5 012439 000402
 
@@ -36,7 +38,9 @@ DON'T BUY THIS
 
 THE GAMES
 
-The five games are recorded in the following order on the UP side of the cassette: Race Ace, Fido 1, Weasel Willy, Fido 2 and Fruit Machine, and in reverse order on the DOWN side.
+The five games are recorded in the following order on the UP side of the
+cassette: Race Ace, Fido 1, Weasel Willy, Fido 2 and Fruit Machine, and
+in reverse order on the DOWN side.
 
 
 RACE ACE = LOAD "race ace"
@@ -51,25 +55,38 @@ CONTROL keys:
 	BRAKE = X
 	RESTART (remember this one) = Q
 
-To increase playability, left is left when the kart goes up but right when the kart comes down. Left is down when travelling left and left is up when travelling right. The reverse applies when turning right. The kart will go backwards if you are going the wrong way.
+To increase playability, left is left when the kart goes up but right when
+the kart comes down. Left is down when travelling left and left is up when
+travelling right. The reverse applies when turning right. The kart will
+go backwards if you are going the wrong way.
 
-The maximum score is 250 (almost impossible). If you take the lead the race will automatically end. After being awarded the Ace trophy you can sit back and enjoy the lap of honour.
+The maximum score is 250 (almost impossible). If you take the lead the
+race will automatically end. After being awarded the Ace trophy you can
+sit back and enjoy the lap of honour.
 
-Points are awarded on a quasi-intelligent, speed, lap and position bias, and the multifunction score indication display is self-renewing.
+Points are awarded on a quasi-intelligent, speed, lap and position bias,
+and the multifunction score indication display is self-renewing.
 
 
 FIDO 1 = LOAD "fido 1"
 
 Follow screen prompts.
 
-Fido needs regular nourishment to keep up strength. Strength is used to wag the tail and the tail is used to stop the moles from digging holes. Simply bash the moles on the head with the tail when sitting down. Fido grows in size when seated and is therefore vulnerable to attack by low flying birds. Duck by standing up.
+Fido needs regular nourishment to keep up strength. Strength is used to
+wag the tail and the tail is used to stop the moles from digging holes.
+Simply bash the moles on the head with the tail when sitting down. Fido
+grows in size when seated and is therefore vulnerable to attack by low
+flying birds. Duck by standing up.
 
 
 WEASEL WILLY = LOAD "weasel"
 
 This games includes a redefine keys/joystick option.
 
-The keys are not preset when the game is first loaded. To set the keys, select the required option and follow the screen prompts, pressing a key for each of the four directions. Similarly, moving the joystick up, down, left and right will (in most cases) register the keys.
+The keys are not preset when the game is first loaded. To set the keys,
+select the required option and follow the screen prompts, pressing a key
+for each of the four directions. Similarly, moving the joystick up, down,
+left and right will (in most cases) register the keys.
 
 N.B. Playing the game is much easier than setting the keys.
 
@@ -81,25 +98,36 @@ Woof Woof. (Press D during play.)
 
 FRUIT MACHINE = load "fruity"
 
-This mysterious, original new game requires skill, timing, nerve and absolute concentration. Packed with high drama, Fruit Machine should be reserved for that part of the day when time is not important (such as 4 o'clock in the morning while you are sleeping).
+This mysterious, original new game requires skill, timing, nerve and absolute
+concentration. Packed with high drama, Fruit Machine should be reserved
+for that part of the day when time is not important (such as 4 o'clock
+in the morning while you are sleeping).
 
 
 LOADING
-1. Connect the EAR socket of your Spectrum to the EAR socket of your tape recorder.
+1. Connect the EAR socket of your Spectrum to the EAR socket of your tape
+recorder.
 2. Place the tape in the tape recorder and rewind to the beginning.
-3. Type LOAD "" (appropriate name - see above) and press ENTER on your Spectrum.
+3. Type LOAD "" (appropriate name - see above) and press ENTER on your
+Spectrum.
 4. Press PLAY/LOAD on your tape recorder.
 
 NOTE: Full loading instructions can be found in your Spectrum manual.
 
 
 
-WARNING: Approach this tape with caution. Firebird Software does not accept any liability arising from misuse of this cassette.
+WARNING: Approach this tape with caution. Firebird Software does not accept
+any liability arising from misuse of this cassette.
 
-Firebird disowns all copyright in this product. It may be copied, lent, hired or transmitted at will. If the programme is faulty please place sticky tape over the lug holes and use as a blank tape. This offer does not affect your statutory consumer rights.
+Firebird disowns all copyright in this product. It may be copied, lent,
+hired or transmitted at will. If the programme is faulty please place sticky
+tape over the lug holes and use as a blank tape. This offer does not affect
+your statutory consumer rights.
 
 
-Firebird Software is compiling a special library of complaints regarding the low quality of the games included in DON'T BUY THIS! Please send your observations on a clean sheet of paper to:
+Firebird Software is compiling a special library of complaints regarding
+the low quality of the games included in DON'T BUY THIS! Please send your
+observations on a clean sheet of paper to:
 
 I DIDN'T BUY THIS!
 Firebird Software
@@ -107,8 +135,11 @@ Wellington House
 Upper St Martin's Lane
 London WC2H 9DL
 
-If we really like your complaint (please keep it clean), we will award you with a super I DIDN'T BUY THIS! badge or sticker depending on what we have in stock at the time.
+If we really like your complaint (please keep it clean), we will award
+you with a super I DIDN'T BUY THIS! badge or sticker depending on what
+we have in stock at the time.
 
-Firebird and the Firebird logo are trademarks of British Telecommunications plc.
+Firebird and the Firebird logo are trademarks of British Telecommunications
+plc.
 
 FIREBIRD

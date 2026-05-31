@@ -7,10 +7,26 @@ SPECTRUM 48/128/+2/+3
 LOADING
 48K Users - Type LOAD"" (ENTER) 128K Users - use loader.
 GAME PLAY
-Real Ghostbusters is a one or two player multi-level game in which the players control members of the Ghostbusters team. The objective of the game is to fight your way through each of 10 levels, capturing and storing ghosts on the way. The end of each level features one or more guardians who, when defeated, will yield a key allowing the player(s) to exit that level. The characters are armed with both guns and Proton Beams. Creatures can be shot with either weapon to transform them into ghosts. The ghosts can then be zapped with the proton beam to store them in the player's backpack. Ammunition for the gun is un-limited; the proton beam has a limited charge which is displayed at the top of the screen. Also displayed are the number of lives remaining and the number of ghosts collected. On reaching the end of a level there is a short graphic sequence in which collected ghosts are beamed into ghost storage. A bonus is awarded for each ghost. Some creatures and objects (e.g. oildrums, wheel-barrows) also award the player with bonuses: BEAM ENERGY UP
+Real Ghostbusters is a one or two player multi-level game in which the
+players control members of the Ghostbusters team. The objective of the
+game is to fight your way through each of 10 levels, capturing and storing
+ghosts on the way. The end of each level features one or more guardians
+who, when defeated, will yield a key allowing the player(s) to exit that
+level. The characters are armed with both guns and Proton Beams. Creatures
+can be shot with either weapon to transform them into ghosts. The ghosts
+can then be zapped with the proton beam to store them in the player's backpack.
+Ammunition for the gun is un-limited; the proton beam has a limited charge
+which is displayed at the top of the screen. Also displayed are the number
+of lives remaining and the number of ghosts collected. On reaching the
+end of a level there is a short graphic sequence in which collected ghosts
+are beamed into ghost storage. A bonus is awarded for each ghost. Some
+creatures and objects (e.g. oildrums, wheel-barrows) also award the player
+with bonuses: BEAM ENERGY UP
 SHOT POWER UP
 AURA POWER - providing a shield for a limited time.
-SLIMER - the friendly ghost who will hover around the player, acting as a shield and zapping any creatures he touches. (The latter two bonuses will be lost if the player loses a life).
+SLIMER - the friendly ghost who will hover around the player, acting as
+a shield and zapping any creatures he touches. (The latter two bonuses
+will be lost if the player loses a life).
 CONTROL KEYS
 	Player 1	Player 2
 UP 	  Q 		  P
@@ -33,4 +49,5 @@ The Hit Squad, RO. Box 350, Manchester. M60 2LX
 
 CRAZY ACTION
 CHART HIT
-“A brilliantly playable game…graphically it couldn’t be better…this is a compulsory purchase! Crash Smash”
+“A brilliantly playable game…graphically it couldn’t be better…this is
+a compulsory purchase! Crash Smash”

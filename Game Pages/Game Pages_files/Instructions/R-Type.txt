@@ -1,14 +1,27 @@
 R-TYPE
 
-A desperate battle is being fought out in the limitless and unknown dimensions of space which have been contaminated and corrupted by an evil power. The evil power is the Bydo Empire, which is determined to subjugate the world. It is inhabited by weird creatures, whose very sight inspires fear. But Mankind is fighting back, and sends you into battle in an incredibly sophisticated plane, the R-9 fighter. Behind the control panel of this fantastic fighting machine, you are Mankind’s only defence against the enemy.
+A desperate battle is being fought out in the limitless and unknown dimensions
+of space which have been contaminated and corrupted by an evil power. The
+evil power is the Bydo Empire, which is determined to subjugate the world.
+It is inhabited by weird creatures, whose very sight inspires fear. But
+Mankind is fighting back, and sends you into battle in an incredibly sophisticated
+plane, the R-9 fighter. Behind the control panel of this fantastic fighting
+machine, you are Mankind’s only defence against the enemy.
 
 LOADING
 ZX Spectrum, Spectrum +, Spectrum 48K, Spectrum 128K, Spectrum +2.
 Type LOAD"" and then hit the ENTER key.
 
 MULTI-LOAD INSTRUCTIONS
-R-Type is a multi-load game. Each level will be loaded as you complete the previous one. This means that to enjoy continuous play you MUST keep your R-Type cassette in your data cassette player.
-The movements of the R9 fighter are controlled by standard up, down, and left and right keys or by joystick. The weapons are controlled by the fire button; holding down fire will build up the strength of firepower until the button or key is released. Weapons are increased or modified by shooting one of the enemy craft which reveals jewels. Collecting a jewel is rewarded by the addition of one of the following weapons:
+R-Type is a multi-load game. Each level will be loaded as you complete
+the previous one. This means that to enjoy continuous play you MUST keep
+your R-Type cassette in your data cassette player.
+The movements of the R9 fighter are controlled by standard up, down, and
+left and right keys or by joystick. The weapons are controlled by the fire
+button; holding down fire will build up the strength of firepower until
+the button or key is released. Weapons are increased or modified by shooting
+one of the enemy craft which reveals jewels. Collecting a jewel is rewarded
+by the addition of one of the following weapons:
 
 REFLECTION LASER
 ANTI AIRCRAFT LASER
@@ -17,10 +30,16 @@ HOMING MISSILES
 EXTRA SPEED
 SHIELD ORBS
 
-The first jewel collected also releases a special weapon, the Force, which can be attached to the front or rear of the F9 fighter, sent ahead to clear a path, or behind as a rearguard. The Force is equipped with its own lasers. A key will be used to release this weapon, whether keyboard or joystick, control has been selected.
+The first jewel collected also releases a special weapon, the Force, which
+can be attached to the front or rear of the F9 fighter, sent ahead to clear
+a path, or behind as a rearguard. The Force is equipped with its own lasers.
+A key will be used to release this weapon, whether keyboard or joystick,
+control has been selected.
 
 KEYBOARD CONTROLS
-The game may be paused by pressing CAPSHIFT and 1 simultaneously, and restarted by pressing CAPSHIFT and 2. When joystick control is selected the SPACE bar is used to detach the Force.
+The game may be paused by pressing CAPSHIFT and 1 simultaneously, and restarted
+by pressing CAPSHIFT and 2. When joystick control is selected the SPACE
+bar is used to detach the Force.
 
 © 1987 REM Corporation
 The Hit Squad,

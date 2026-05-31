@@ -37,7 +37,7 @@ The site is intentionally a full-on Web 1.0 throwback — frames and all!  I cou
  * Updated or replaced several images, including swapping out some low-resolution ones.
  * Re-created all the animated GIF images myself from scratch.
  * Added internet connection check for external web links.
- * Added mini-game, can you find the legendary hidden room?
+ * Added mini-game, can you find the legendary hidden clearing?
 
 
 ## Help Using the Archive:
@@ -57,7 +57,7 @@ At the bottom of each main section you’ll find links to additional material su
 
 All game review pages now include box art, which you can click to enlarge and click again to return.
 
-See what the so called GIF elders have to say about this "legendary hidden room", personally I think it's a load of fuss about nothing but you never know!
+The so called GIF Elders that for some reason feel the need to be here, have been going on about some kind of "legendary hidden clearing", they've appointed themselves the guardians to it's location, and only offer meaningless cryptic clues to it's whereabouts. What a load of bunkum!
 
 
 ## Playing the Games:

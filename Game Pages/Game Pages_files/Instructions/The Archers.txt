@@ -1,35 +1,63 @@
 INTRODUCTION 
 
-As a trainee scriptwriter on the Archers radio programme, you must make plot decisions for four major characters: Jack Woolley, Elizabeth Archer, Eddie Grundy and Nelson Gabriel. But beware, the plot has its own momentum, and events can easily get out of hand. 
- When you have loaded the first part of the game, following the instructions below (under the heading Using the Program) you will see the beginnings of a plot for the first character to be played. As you progress through the story you will be asked to make editorial decisions. Press a number from 1-3 to choose one of the options suggested. Pressing key number 4 will display the command and help system menu. This gives a list of additional features in the game and full instructions on how to use them. 
+As a trainee scriptwriter on the Archers radio programme, you must make
+plot decisions for four major characters: Jack Woolley, Elizabeth Archer,
+Eddie Grundy and Nelson Gabriel. But beware, the plot has its own momentum,
+and events can easily get out of hand. 
+ When you have loaded the first part of the game, following the instructions
+below (under the heading Using the Program) you will see the beginnings
+of a plot for the first character to be played. As you progress through
+the story you will be asked to make editorial decisions. Press a number
+from 1-3 to choose one of the options suggested. Pressing key number 4
+will display the command and help system menu. This gives a list of additional
+features in the game and full instructions on how to use them. 
 
 THE GAME 
 
-The aim of the game is to keep up the audience figures and hope for a record number of listeners. At regular points in the game you will be shown the audience figures to indiciate how well you are doing. Memos from the Controller Radio 4 will also help alert you to possibly dubious plot lines! 
+The aim of the game is to keep up the audience figures and hope for a record
+number of listeners. At regular points in the game you will be shown the
+audience figures to indiciate how well you are doing. Memos from the Controller
+Radio 4 will also help alert you to possibly dubious plot lines! 
 
-There are a number of random elements in the game and the same plot lines may not appear every time you play.
+There are a number of random elements in the game and the same plot lines
+may not appear every time you play.
 
-If you are already an Archers fan, you will be familiar with the population of Ambridge. Others will find biographical details of the main characters below and overleaf. 
+If you are already an Archers fan, you will be familiar with the population
+of Ambridge. Others will find biographical details of the main characters
+below and overleaf. 
 
 USING THE PROGRAM 
 
-The game consists of a number of separate programs. For some computer versions the whole game is recorded twice, once on each side of the cassette. For other computer versions the first half of the game is recorded on side 1 of the cassette and the second half on side 2. Details are given on the cassette label. Each program deals with one of the four main characters. When playing the game. press SHIFT (or RETURN on an Atari) to continue when the game pauses. 
+The game consists of a number of separate programs. For some computer versions
+the whole game is recorded twice, once on each side of the cassette. For
+other computer versions the first half of the game is recorded on side
+1 of the cassette and the second half on side 2. Details are given on the
+cassette label. Each program deals with one of the four main characters.
+When playing the game. press SHIFT (or RETURN on an Atari) to continue
+when the game pauses. 
 
 Loadlng the game 
 
-To load and start the cassette version of the game, insert the cassette in the recorder and ensure that it is fully rewound. Set the tape counter to zero if your recorder has one. Then follow the instructions below for your type of computer. The words that you type are those in bold print (remember to press RETURN or ENTER after each command you type). 
+To load and start the cassette version of the game, insert the cassette
+in the recorder and ensure that it is fully rewound. Set the tape counter
+to zero if your recorder has one. Then follow the instructions below for
+your type of computer. The words that you type are those in bold print
+(remember to press RETURN or ENTER after each command you type). 
 
 Amstrad 464/664/6128 
-Type RUN"" and start the tape. If you have a disc drive fitted type ITAPE (for I press SHIFT and @) then RUN"" and start the tape. 
+Type RUN"" and start the tape. If you have a disc drive fitted type ITAPE
+(for I press SHIFT and @) then RUN"" and start the tape. 
 
 Atari XL/XE 
-Remove any cartridges. Hold down START and OPTION while you switch on the Atari, then start the tape and press RETURN. 
+Remove any cartridges. Hold down START and OPTION while you switch on the
+Atari, then start the tape and press RETURN. 
 
 BBC Micro B 
 Type *TAPE then CHAIN"" and start the tape. 
 
 CBM 64/128 
-Press SHIFT and RUN/STOP together, then start the tape. (If you have a CBM 128, remember to first type GO 64 Or switch on in CBM 64 mode). 
+Press SHIFT and RUN/STOP together, then start the tape. (If you have a
+CBM 128, remember to first type GO 64 Or switch on in CBM 64 mode). 
 
 MSX64K 
 Type RUN"CAS:" and start the tape. 
@@ -37,47 +65,82 @@ Type RUN"CAS:" and start the tape.
 Spectrum 48/128 
 Type LOAD"" and start the tape. 
 
-WHEN THE GAME STARTS, STOP THE TAPE AND DO NOT REWIND IT. The next program follows this one fairly closely, and you don't want the tape to play on past it. 
- When you reach the end of a program, a message on the screen will ask you if you want to go on to the next programo Type YES and press ENTER or RETURN. Start the tape on PLAY and press ENTER or RETURN twice. The next program loads in the same way as the first one. Remember to stop the tape when the game starts again. 
- So playing through the entire game is simple. Load it as above, stop the tape when each program has loaded and restart it when it is time to load the next program.
- If you have a tape counter on your recorder, make a note of the reading at the end of each program. This will be useful if you want to start in the middle of a game. If you know the tape counter reading, wind the cassette until the tape counter is at the readíng you want and continue as if you were loading the first part of the game. 
+WHEN THE GAME STARTS, STOP THE TAPE AND DO NOT REWIND IT. The next program
+follows this one fairly closely, and you don't want the tape to play on
+past it. 
+ When you reach the end of a program, a message on the screen will ask
+you if you want to go on to the next programo Type YES and press ENTER
+or RETURN. Start the tape on PLAY and press ENTER or RETURN twice. The
+next program loads in the same way as the first one. Remember to stop the
+tape when the game starts again. 
+ So playing through the entire game is simple. Load it as above, stop the
+tape when each program has loaded and restart it when it is time to load
+the next program.
+ If you have a tape counter on your recorder, make a note of the reading
+at the end of each program. This will be useful if you want to start in
+the middle of a game. If you know the tape counter reading, wind the cassette
+until the tape counter is at the readíng you want and continue as if you
+were loading the first part of the game. 
 
 Loading advice 
 
-The cassettes are tested thoroughly and you shouldn't have any problem in loading this game. If you do have difficulties, the following may help: 
-
+The cassettes are tested thoroughly and you shouldn't have any problem
+in loading this game. If you do have difficulties, the following may help:
 • Try the other side of the cassette. 
-• Load another game from cassette to check everything is connected properly. 
-• Vary the volume and tone settings on the recorder if you can (fairly loud and fairly 'high' should work best). 
-• Clean and demagnetise the recorder (following the manufacturer's instructions). 
+• Load another game from cassette to check everything is connected properly.
+• Vary the volume and tone settings on the recorder if you can (fairly
+loud and fairly 'high' should work best). 
+• Clean and demagnetise the recorder (following the manufacturer's instructions).
 • If you can, try another recorder. 
 
 Saving the game positlon 
 
-While playing the game you can save your current position (so that you can turn the computer off, yet return later to the same stage in the game). To do this, insert a spare, blank cassette in the recorder. 
- Type 4 instead of 1-3 when asked to make a decision . This will display the command and help system on the screen. Press the RECORD buttons on the recorder, type SAVE and press ENTER or RETURN. (if the program asks for a "file name", type any short word and press ENTER or RETURN.) If the tape doesn't move press ENTER or RETURN again. When a messagee appears on the screen to tell you the save is completed, stop the recorder.
+While playing the game you can save your current position (so that you
+can turn the computer off, yet return later to the same stage in the game).
+To do this, insert a spare, blank cassette in the recorder. 
+ Type 4 instead of 1-3 when asked to make a decision . This will display
+the command and help system on the screen. Press the RECORD buttons on
+the recorder, type SAVE and press ENTER or RETURN. (if the program asks
+for a "file name", type any short word and press ENTER or RETURN.) If the
+tape doesn't move press ENTER or RETURN again. When a messagee appears
+on the screen to tell you the save is completed, stop the recorder.
 
 Loading a saved game position
 
-To load a saved game position you must be playing the same program of the game that you were playing when you saved the game (ie. that program must be loaded). Remove the game cassette from the recorder and replace it with the one used to save the position earlier. 
- Type 4 instead of 1-3 when asked to make a decision to display the command and help system on the screen. Type LOAD and press ENTER or RETURN. (If the program asks for a "file name", type whatever name you used to save the position and press ENTER or RETURN.) Rewind the cassette on which the position was saved and press the PLAY button on the recorder. Press ENTER or RETURN. 
- When a message appears on the screen to tell you the load is completed, stop the recorder. The saved game position will reappear on the screen.
-
-
-The Archers -- The Computer Game first published in Great Britain 1986 by Mosaic Publishing Ltd, 187 Upper Street, London N1 1RQ 
+To load a saved game position you must be playing the same program of the
+game that you were playing when you saved the game (ie. that program must
+be loaded). Remove the game cassette from the recorder and replace it with
+the one used to save the position earlier. 
+ Type 4 instead of 1-3 when asked to make a decision to display the command
+and help system on the screen. Type LOAD and press ENTER or RETURN. (If
+the program asks for a "file name", type whatever name you used to save
+the position and press ENTER or RETURN.) Rewind the cassette on which the
+position was saved and press the PLAY button on the recorder. Press ENTER
+or RETURN. 
+ When a message appears on the screen to tell you the load is completed,
+stop the recorder. The saved game position will reappear on the screen.
+The Archers -- The Computer Game first published in Great Britain 1986
+by Mosaic Publishing Ltd, 187 Upper Street, London N1 1RQ 
 
 Game Design: Pete Austin
 Programmed by: Pete Austin
 Pictures: Joan Lamb
-Transport to your computer, adventure system and graphics system: Mice & Nick Austin
+Transport to your computer, adventure system and graphics system: Mice
+& Nick Austin
 
 Program Copyright © Level 9 Computing 1986
-The Archers series Copyright © The British Broadcasting Corporation 1986
+The Archers series Copyright © The British Broadcasting Corporation 1986
 By arrangement with the BBC 
 Mosaic signature tune Copyright © David Stoll 1984 
 Archers theme by Arthur Wood © Boosey & Hawkes (not on all versions) 
 
-No part of this software may be reprodueed in any form or by any means by any persons or institutions without the prior written permission of the publishers, Mosaic Publishing Limited. This software is sold subject to the condition that it shall not, by way of trade or otherwise, be re-sold, lent or hired out without Mosaic Publishing Limited's prior written consent and, in the case of re-sale, without a similar condition being imposed on the subsequent purchaser. 
+No part of this software may be reprodueed in any form or by any means
+by any persons or institutions without the prior written permission of
+the publishers, Mosaic Publishing Limited. This software is sold subject
+to the condition that it shall not, by way of trade or otherwise, be re-sold,
+lent or hired out without Mosaic Publishing Limited's prior written consent
+and, in the case of re-sale, without a similar condition being imposed
+on the subsequent purchaser. 
 
 Production Services by Cosprint Ltd 
 Printed in Great Britain
@@ -86,139 +149,243 @@ Printed in Great Britain
 NOTES ON MAIN CHARACTERS FOR SCRIPTWRITERS
 
 RACHELADAMSON 
-Daughter of the vicar, Richard Adamson and his wife, Dorothy. She is considered to be fairly sensible, but possibly just beginning to blossom in terms of looks. 
+Daughter of the vicar, Richard Adamson and his wife, Dorothy. She is considered
+to be fairly sensible, but possibly just beginning to blossom in terms
+of looks. 
 
 BRIAN ALDRIDGE 
-Married to Jennifer. For the last year or so he has been having an afair with Caroline Bone and is considered to be a capitalist, unthinking, male chauvinist. He owns and runs Home Farm and is very rich. 
+Married to Jennifer. For the last year or so he has been having an afair
+with Caroline Bone and is considered to be a capitalist, unthinking, male
+chauvinist. He owns and runs Home Farm and is very rich. 
 
 MARJORIE ANTROBUS 
-Still carries around with her memories of her days in the Raj--when her husband cut such a dashing figure in his khaki shorts. Mrs Antrobus is now a widow but lives happily with her Afghan hounds at Nightingale Farm. The Over Sixties are perpetually afraid that she might offer to come and speak to them again about Afghans at one of their meetings. 
+Still carries around with her memories of her days in the Raj--when her
+husband cut such a dashing figure in his khaki shorts. Mrs Antrobus is
+now a widow but lives happily with her Afghan hounds at Nightingale Farm.
+The Over Sixties are perpetually afraid that she might offer to come and
+speak to them again about Afghans at one of their meetings. 
 
 DAN ARCHER 
 Sadly, passed away recently. 
 
 DAVID ARCHER 
-Brother of Elizabeth and Shula, he is very hard-working. Recently engaged to Sophie Barlow. He is kind to Elizabeth but gets fed up with her selfishness. 
-
+Brother of Elizabeth and Shula, he is very hard-working. Recently engaged
+to Sophie Barlow. He is kind to Elizabeth but gets fed up with her selfishness.
 ELIZABETH ARCHER 
-Youngest child of Phil and Jill and rather unhappy. She is madly in love with Tim Beecham, who is not interested, and has been relentlessly pursued in the past by Nigel Pargetter. She enjoys a hectic social life--going to parties, pubs and wine bars whenever the opportunity arises, although she considers Nelson's wine bar rather boring. She is also very good at spending money--and borrowing it.
+Youngest child of Phil and Jill and rather unhappy. She is madly in love
+with Tim Beecham, who is not interested, and has been relentlessly pursued
+in the past by Nigel Pargetter. She enjoys a hectic social life--going
+to parties, pubs and wine bars whenever the opportunity arises, although
+she considers Nelson's wine bar rather boring. She is also very good at
+spending money--and borrowing it.
 
 JILL ARCHER 
-Elizabeth's mother. She is warm and understanding, but finds her daughter a handful. 
+Elizabeth's mother. She is warm and understanding, but finds her daughter
+a handful. 
 
 PAT ARCHER 
-Married to Tony and lives at Bridge Farm. Became hooked on feminism several years ago and has read 'The Guardian' ever since. Attends evening classes with a certain political slant at the Tech. 
+Married to Tony and lives at Bridge Farm. Became hooked on feminism several
+years ago and has read 'The Guardian' ever since. Attends evening classes
+with a certain political slant at the Tech. 
 
 PEGGY ARCHER 
-Elizabeth's aunt. She was married to Jack Archer who died of an alcohol-related illness. She owns The Bull in Ambridge and keeps an eye on the Bellamy estate, as her daughter, Lilian, the owner, is away in Guernsey, and that means keeping an eye on the Grundys. In the early seventies Jack Woolley proposed to her but she turned him down. She lives in Blossom Hill Cottage with her cat, Sammy.
+Elizabeth's aunt. She was married to Jack Archer who died of an alcohol-related
+illness. She owns The Bull in Ambridge and keeps an eye on the Bellamy
+estate, as her daughter, Lilian, the owner, is away in Guernsey, and that
+means keeping an eye on the Grundys. In the early seventies Jack Woolley
+proposed to her but she turned him down. She lives in Blossom Hill Cottage
+with her cat, Sammy.
 
 PHIL ARCHER 
-Elizabeth's long-suffering father. He is a successful and hard-working farmer at Brookfield Farm who stands no nonsense except, perhaps, where Elizabeth is concerned. 
+Elizabeth's long-suffering father. He is a successful and hard-working
+farmer at Brookfield Farm who stands no nonsense except, perhaps, where
+Elizabeth is concerned. 
 
 CHRISTINE BARFORD 
-Elizabeth Archer's aunt. She works at the Riding Stables and is married to George, gamekeeper at Grey Gables. 
+Elizabeth Archer's aunt. She works at the Riding Stables and is married
+to George, gamekeeper at Grey Gables. 
 
 SOPHIE BARLOW 
-Red-haired, muddle-headed fiancée of David Archer. She appears to be very stupid on the surface but perceives some things that others miss. She is kind, warm and adores David but she is adamantly opposed to sex belore marriage!
+Red-haired, muddle-headed fiancée of David Archer. She appears to be very
+stupid on the surface but perceives some things that others miss. She is
+kind, warm and adores David but she is adamantly opposed to sex belore
+marriage!
 
 DAVID BARRY
-Detective-sergeant with the Borsetshire Constabulary, stationed at Borchester police station. He is going out with Kathy Holland. the teacher who lives at Penny Hassett, but is generally considered to be rather unattractive, with a tendency to wear flared trousers! He has recently failed his inspector's exams
+Detective-sergeant with the Borsetshire Constabulary, stationed at Borchester
+police station. He is going out with Kathy Holland. the teacher who lives
+at Penny Hassett, but is generally considered to be rather unattractive,
+with a tendency to wear flared trousers! He has recently failed his inspector's
+exams
 
 TIM BEECHAM
-Sloane Ranger, but of a meaner variety than Nigel Pargetter. Elizabeth is in love with him, partly, one  suspects, because he pays her little notice.In fact he is quite nasty to her and once spray painted 'Elizabeth Archer wears thermal vests and ...' on a wall in Borchester. He has also nick-named her 'The Lizard'.
+Sloane Ranger, but of a meaner variety than Nigel Pargetter. Elizabeth
+is in love with him, partly, one  suspects, because he pays her little
+notice.In fact he is quite nasty to her and once spray painted 'Elizabeth
+Archer wears thermal vests and ...' on a wall in Borchester. He has also
+nick-named her 'The Lizard'.
 
 LILIAN BELLAMY 
-Younger daughter of Jack and Peggy Archer. She inherited the Bellamy estate from her husband Ralph who died of a heart attack. Her tenants include her brother, Tony Archer, and the Grundys. She lives in Guernsey with her son James. 
+Younger daughter of Jack and Peggy Archer. She inherited the Bellamy estate
+from her husband Ralph who died of a heart attack. Her tenants include
+her brother, Tony Archer, and the Grundys. She lives in Guernsey with her
+son James. 
 
 CAROLINE BONE 
-Belongs to the ancient Bohun family of Darrington Manor. She is distantly related to the Duke of Westminster. After Cheltenham College she did a hotel management and cookery course in Lausanne. In 1980 she moved to Grey Gables as Jack Woolley's personal assistant and has since introduced nouvelle cuisine to the restaurant.
+Belongs to the ancient Bohun family of Darrington Manor. She is distantly
+related to the Duke of Westminster. After Cheltenham College she did a
+hotel management and cookery course in Lausanne. In 1980 she moved to Grey
+Gables as Jack Woolley's personal assistant and has since introduced nouvelle
+cuisine to the restaurant.
 
 SUSAN CARTER (née Horobin) 
-Married to Neil Carter, who works part-time at Brookfield, part-time on a pig unit with Bill Insley, and part-time on his battery hens. She is quiet and sensitive and quite different from the rest of the Horobin family. She once won a pig, which she called Pinky, at the Ambridge fete. 
+Married to Neil Carter, who works part-time at Brookfield, part-time on
+a pig unit with Bill Insley, and part-time on his battery hens. She is
+quiet and sensitive and quite different from the rest of the Horobin family.
+She once won a pig, which she called Pinky, at the Ambridge fete. 
 
 MAGNUS FISHER 
-Friend of Elizabeth Archer. Was keen on her until he found himself a fiancée. 
-
+Friend of Elizabeth Archer. Was keen on her until he found himself a fiancée.
 PRU FORREST 
 A shy, retiring woman who spends all her time making chutney. 
 
 TOM FORREST 
-Married to Pru, Tom has been gamekeeper at Grey Gables time out of mind (as they say in Borsetshire). He is Elizabeth Archer's great-uncle. Once he shot and killed Bob Larkin and was acquitted on a manslaughter charge. Otherwise he has not had an eventful life.
+Married to Pru, Tom has been gamekeeper at Grey Gables time out of mind
+(as they say in Borsetshire). He is Elizabeth Archer's great-uncle. Once
+he shot and killed Bob Larkin and was acquitted on a manslaughter charge.
+Otherwise he has not had an eventful life.
 
 SNATCH FOSTER
-Friend of Eddie Grundy and fellow frequenter of the Cat and Fiddle. He has a brutish nature and an unpleasant appearance.
+Friend of Eddie Grundy and fellow frequenter of the Cat and Fiddle. He
+has a brutish nature and an unpleasant appearance.
 
 NELSON GABRIEL
-Runs the wine bar in Borchester called Nelson's. He takes pains to conceal his dubious past, but in his late fifties would like to think of himsel as a suave, sophisticated swinger--au fait with everything that's tasteful and of quality, and still attractive to women. He buys and sells antiques and is not averse to making a fat profit out of his friends-but underneath it all he has a heart of gold.
+Runs the wine bar in Borchester called Nelson's. He takes pains to conceal
+his dubious past, but in his late fifties would like to think of himsel
+as a suave, sophisticated swinger--au fait with everything that's tasteful
+and of quality, and still attractive to women. He buys and sells antiques
+and is not averse to making a fat profit out of his friends-but underneath
+it all he has a heart of gold.
 
 WALTER GABRIEL
-At 89 he is the oldest inhabitant of Ambridge village. He used to be a wicked rogue, but is now a lovable old man, with a twinkle in his eye, living alone in his cottage and seeking entertainment from the Over Sixties Club. His fondest wish is that Nelson should settle down and have some children.
+At 89 he is the oldest inhabitant of Ambridge village. He used to be a
+wicked rogue, but is now a lovable old man, with a twinkle in his eye,
+living alone in his cottage and seeking entertainment from the Over Sixties
+Club. His fondest wish is that Nelson should settle down and have some
+children.
 
 ALF GRUNDY 
-Eddie's brother. He has been in Gloucestershire prison for many years and has a dark past concerned with scrap-metal dealing. 
+Eddie's brother. He has been in Gloucestershire prison for many years and
+has a dark past concerned with scrap-metal dealing. 
 
 CLARRIE GRUNDY 
-Eddie's wife, she is long-suffering and good-natured. She is a good wife and mother but no great beauty or intellectual by all accounts. She would love to have a nicer home than Grange Farm but is resigned to her lot and regards herself as unbelievably lucky to be married to a Country and Western singing star. 
+Eddie's wife, she is long-suffering and good-natured. She is a good wife
+and mother but no great beauty or intellectual by all accounts. She would
+love to have a nicer home than Grange Farm but is resigned to her lot and
+regards herself as unbelievably lucky to be married to a Country and Western
+singing star. 
 
 EDDIE GRUNDY 
-Son of a poor tenant farmer, Joe Grundy, Eddie is married to Clarrie and has two young sons, William and Edward. Eddie is 35 years old and still aspires to be a famous Country and Western singer. His other hobbies include drinking at the Cat and Fiddle, keeping ferrets and making the occasional friendly pass at any female who happens to be around. ALL in all, though, he is loyal to Clarrie, and is hard-working in his attempt to make something out of the rammshackle Grange Farm. 
+Son of a poor tenant farmer, Joe Grundy, Eddie is married to Clarrie and
+has two young sons, William and Edward. Eddie is 35 years old and still
+aspires to be a famous Country and Western singer. His other hobbies include
+drinking at the Cat and Fiddle, keeping ferrets and making the occasional
+friendly pass at any female who happens to be around. ALL in all, though,
+he is loyal to Clarrie, and is hard-working in his attempt to make something
+out of the rammshackle Grange Farm. 
 
 JOE GRUNDY 
-Miserable, pessimistic and lazy, he constantly complains of Farmers' Lung when there is any work to be done.
+Miserable, pessimistic and lazy, he constantly complains of Farmers' Lung
+when there is any work to be done.
 
 SHULA HEBDEN (née Archer) 
-Elizabeth's sister, she is married to Mark, a solicitor, and lives in a flat in Borchester. She works at an Estate Agent's and is very sensible nowadays.
+Elizabeth's sister, she is married to Mark, a solicitor, and lives in a
+flat in Borchester. She works at an Estate Agent's and is very sensible
+nowadays.
 
 HIGGS
-The Grey Gables handyman and gardener, he lives alone in a flat over the coach house. He is surly and unloved (except by his friend, the widow woman from Hollerton) but he is wonderful when it comes to growing Chrysanthemums, including the famous 'Woolley's Wonder' that has triumphed many times at the Borchester Show. 
+The Grey Gables handyman and gardener, he lives alone in a flat over the
+coach house. He is surly and unloved (except by his friend, the widow woman
+from Hollerton) but he is wonderful when it comes to growing Chrysanthemums,
+including the famous 'Woolley's Wonder' that has triumphed many times at
+the Borchester Show. 
 
 CLIVE HOROBIN 
-About 13 years of age and a member of the huge Horobin family who live at No. 6 The Green (the council estate). The Horobins are all rogues and he is no exception--he will do almost anything for an extra bit of pocket-money. 
-
+About 13 years of age and a member of the huge Horobin family who live
+at No. 6 The Green (the council estate). The Horobins are all rogues and
+he is no exception--he will do almost anything for an extra bit of pocket-money.
 JEAN-PAUL 
-The temperamental chef at Grey Gables who is famous for his little French tartlets.
+The temperamental chef at Grey Gables who is famous for his little French
+tartlets.
 
 MARTIN LAMBERT 
-Ambridge's local vet. He used to go out with Shula Archer but she told him to keep his hands off. He has a rather flat personality.
+Ambridge's local vet. He used to go out with Shula Archer but she told
+him to keep his hands off. He has a rather flat personality.
 
 NIGEL PARGETIER 
-Borchester's lovable Sloane Ranger. He used to go out with Shula but is now madly in love with Elizabeth Archer. He proposed to her once but she declined his hand, and has been spurning him ever since. He tries very hard to stay employed but has had a succession of unusual jobs--including a summer as 'Mr Snowy', selling ice-cream.
+Borchester's lovable Sloane Ranger. He used to go out with Shula but is
+now madly in love with Elizabeth Archer. He proposed to her once but she
+declined his hand, and has been spurning him ever since. He tries very
+hard to stay employed but has had a succession of unusual jobs--including
+a summer as 'Mr Snowy', selling ice-cream.
 
 MRS PERKINS 
-Peggy Archer's mother. She lives in an old folks bungalow in Manorfield Close. She is an occupational pessimist and laves to exercise her nagging on poor Walter Gabriel who has been in amorous pursuit for some decades (these days more as a matter of form).
+Peggy Archer's mother. She lives in an old folks bungalow in Manorfield
+Close. She is an occupational pessimist and laves to exercise her nagging
+on poor Walter Gabriel who has been in amorous pursuit for some decades
+(these days more as a matter of form).
 
 SID PERKS 
-Barman and licensee of The Bull. He is friendly and well-disposed to most--but has banned Eddie Grundy from the pub in the past. 
+Barman and licensee of The Bull. He is friendly and well-disposed to most--but
+has banned Eddie Grundy from the pub in the past. 
 
 TRUDY PORTER 
-A rather attractive waitress, long the apple of Higg's eye, who also bakes lovely pastries. 
+A rather attractive waitress, long the apple of Higg's eye, who also bakes
+lovely pastries. 
 
 MRS POTTER 
-Lives in Manorfield Close, in one of the old people's bungalows. Despite the fact that she has to struggle around on her walking frame, she is a keen attender of the Ambridge Over Sixties Club. 
+Lives in Manorfield Close, in one of the old people's bungalows. Despite
+the fact that she has to struggle around on her walking frame, she is a
+keen attender of the Ambridge Over Sixties Club. 
 
 ROGER 
-Was Pat Archer's friend/lover--we were never quite sure how much they became involved. He is a lecturer at Borchester Tech.
+Was Pat Archer's friend/lover--we were never quite sure how much they became
+involved. He is a lecturer at Borchester Tech.
 
 JOLENE ROGERS 
-Otherwise known as the 'Lily of Layton Cross'. She used to sing with Eddie Grundy in his Country and Western numbers, but was always very fond of Wayne Tucson (sometimes friend, sometimes rival of Eddie's) whom she has married. She now lives on a modern estate with their baby daughter, Fallon. 
-
+Otherwise known as the 'Lily of Layton Cross'. She used to sing with Eddie
+Grundy in his Country and Western numbers, but was always very fond of
+Wayne Tucson (sometimes friend, sometimes rival of Eddie's) whom she has
+married. She now lives on a modern estate with their baby daughter, Fallon.
 ROSIE 
-Clarrie Grundy's sister. She lives in Great Yarmouth and is married to Dennis. They have two children. 
+Clarrie Grundy's sister. She lives in Great Yarmouth and is married to
+Dennis. They have two children. 
 
 SHANE 
-Barman and cook at Nelson's wine bar. He is glad to be gay but in rural Borsetshire this is probably very difficult.
+Barman and cook at Nelson's wine bar. He is glad to be gay but in rural
+Borsetshire this is probably very difficult.
 
 DOLLY TREADGOLD 
-Once engaged to Eddie Grundy but he broke it off. She is not the most sophisticated of women. 
+Once engaged to Eddie Grundy but he broke it off. She is not the most sophisticated
+of women. 
 
 VERA 
-Joe Grundy's lady friend, a Methodist from Edgeley. Joe never quite hits it off completely with her. 
+Joe Grundy's lady friend, a Methodist from Edgeley. Joe never quite hits
+it off completely with her. 
 
 MARTHA WOOOFORO 
-Runs the village shop for Jack Woolley and spends her time gossiping and tinkling around the country lanes on her bicycle. Her husband, Joby, a woodman, died in 1983. 
+Runs the village shop for Jack Woolley and spends her time gossiping and
+tinkling around the country lanes on her bicycle. Her husband, Joby, a
+woodman, died in 1983. 
 
 HAZEL WOOLLEY 
-Jack Woolley's obnoxious, adopted daughter who, to Jack's disappointment, hardly ever comes to visit him. 
+Jack Woolley's obnoxious, adopted daughter who, to Jack's disappointment,
+hardly ever comes to visit him. 
 
 JACK WOOLLEY 
-Bought Grey Gables Country Club in 1962. A selffmade man from Stirchley, Birmingham. he has one adopted daughter, Hazel, who 'works in films' in London and does not love him as she ought. Fortunately he has a faithful, if fat, Staffordshire bull terrier called Captain. Grey Gables is now a fine country house hotel, and the estate includes a shoot, a country park and a golf course. Jack also owns the village shop and the Borchester Echo.
+Bought Grey Gables Country Club in 1962. A selffmade man from Stirchley,
+Birmingham. he has one adopted daughter, Hazel, who 'works in films' in
+London and does not love him as she ought. Fortunately he has a faithful,
+if fat, Staffordshire bull terrier called Captain. Grey Gables is now a
+fine country house hotel, and the estate includes a shoot, a country park
+and a golf course. Jack also owns the village shop and the Borchester Echo.
