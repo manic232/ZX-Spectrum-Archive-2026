@@ -2,6 +2,8 @@ ZX Spectrum Archive: 2026 Web 1.0 Reboot Edition!
 
 Welcome to the 2026 reboot of my ZX Spectrum Archive web page.
 
+Please make sure you are using RetroVilla to view this web 1.0 throwback web site.
+
 
 ## About The Archive:
 In January 2003 I stopped working on this.  I’d grown bored of the tedious process of completing the  CRASH Smash section — sourcing instructions for each game, creating a page for it, and repeating that cycle endlessly. I stopped at Popeye, and for the next 23 years… that’s where it stayed.
