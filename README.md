@@ -2,7 +2,7 @@ ZX Spectrum Archive: 2026 Web 1.0 Reboot Edition!
 
 Welcome to the 2026 reboot of my ZX Spectrum Archive web page.
 
-Please make sure you are using RetroVilla to view this web 1.0 throwback web site.
+Please make sure you are using RetroZilla to view this web 1.0 throwback web site!
 
 
 ## About The Archive:
