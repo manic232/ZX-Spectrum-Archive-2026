@@ -78,6 +78,4 @@ Many of the games listed — particularly in the CRASH Smash section — are 128
 
 A good number of games also include a .pok cheat file alongside the ROM. Not every game has pokes, but if it does, you can open the cheat options in Spectaculator (CTRL+H) and select the poke you want.
 
-If you’re viewing this on a Windows 98 PC or 86Box, Spectaculator won’t run. You can use ZX32 of course, but compatibility is hit-and-miss: some games work, some don’t, and DSK images won’t load at all. If you want to play the games, best to use Spectaculator on a modern OS.
-
 I’ve tested all ROMs to ensure they’re the correct games and that they load. I haven’t played them to completion — can you imagine how long that would take — but all games should at least start and get to the title screen. A handful still have copy protection, and I couldn’t find clean alternatives, but thankfully it’s only one or two.
