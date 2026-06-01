@@ -2,7 +2,17 @@ ZX Spectrum Archive: 2026 Web 1.0 Reboot Edition!
 
 Welcome to the 2026 reboot of my ZX Spectrum Archive web page.
 
-Please make sure you are using RetroZilla to view this web 1.0 throwback web site!
+https://manic232.github.io/ZX-Spectrum-Archive-2026/
+
+
+##Important Note Before Viewing Online:
+I originally designed these pages to be viewed at 1024x768 in  Internet Explorer on  Windows 98 or XP, but the Internet has moved on!
+
+There’s a fair bit of text corruption when viewing the site online through GitHub Pages. That’s because the old HTML/HTM files are encoded in Windows-1252, while GitHub Pages serves everything as UTF-8, and the two don’t always get along.
+
+I did try converting the whole site to UTF-8, and although it improved things a little, there were still corrupted characters scattered around. I simply don’t have the technical know-how (or patience) to troubleshoot all these issues, so I abandoned that idea and restored everything back to Windows-1252.
+
+The good news is that everything looks perfect when viewed offline in RetroZilla. So if you want to browse this site properly, I strongly recommend downloading the full release from GitHub and viewing it locally. You'll find links on the home page.
 
 
 ## About The Archive:
@@ -78,9 +88,3 @@ A good number of games also include a .pok cheat file alongside the ROM. Not eve
 If you’re viewing this on a Windows 98 PC or 86Box, Spectaculator won’t run. You can use ZX32 of course, but compatibility is hit-and-miss: some games work, some don’t, and DSK images won’t load at all. If you want to play the games, best to use Spectaculator on a modern OS.
 
 I’ve tested all ROMs to ensure they’re the correct games and that they load. I haven’t played them to completion — can you imagine how long that would take — but all games should at least start and get to the title screen. A handful still have copy protection, and I couldn’t find clean alternatives, but thankfully it’s only one or two.
-
-
-## Notes:
-There was some character weirdness going on in many areas when viewing online.  This was because these old pages are encoded as Windows-1252 (ANSI), but GitHub Pages serves everything as UTF-8. You could kind of fix it in RetroZilla, by clicking View/Character Encoding and change to Western (Windows-1252). The issue was that when you clicked on another link it reverted back. I have now converted all .html and .htm in the repro (but not the release) to UFT-8, so when viewing online (with RetroZilla of course) everything should look OK.
-
-I very much doubt that this will have any interest to anyone but me, It's just here for my own backup purposes and I don't expect anyone will look at it, but the URL is https://manic232.github.io/ZX-Spectrum-Archive-2026/
