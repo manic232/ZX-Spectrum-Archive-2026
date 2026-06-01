@@ -5,10 +5,9 @@ Welcome to the 2026 reboot of my ZX Spectrum Archive web page.
 https://manic232.github.io/ZX-Spectrum-Archive-2026/
 
 
-##Important Note Before Viewing Online:
-I originally designed these pages to be viewed at 1024x768 in  Internet Explorer on  Windows 98 or XP, but the Internet has moved on!
-
-There’s a fair bit of text corruption when viewing the site online through GitHub Pages. That’s because the old HTML/HTM files are encoded in Windows-1252, while GitHub Pages serves everything as UTF-8, and the two don’t always get along.
+## Important Note Before Viewing Online:
+I originally designed these pages to be viewed at 1024x768 in Internet Explorer on Windows 98 or XP, but the World has moved on! These days, by far the best way to experience this web 1.0 wonder, is to use RetroZilla. Modern browsers to not render this old HTML code correctly.
+Even using RetroZilla, there’s a fair bit of text corruption when viewing the site online through GitHub Pages. That’s because the old HTML/HTM files are encoded in Windows-1252, while GitHub Pages serves everything as UTF-8, and the two don’t always get along.
 
 I did try converting the whole site to UTF-8, and although it improved things a little, there were still corrupted characters scattered around. I simply don’t have the technical know-how (or patience) to troubleshoot all these issues, so I abandoned that idea and restored everything back to Windows-1252.
 
@@ -50,12 +49,6 @@ The site is intentionally a full-on Web 1.0 throwback — frames and all!  I cou
 * Re-created all the animated GIF images myself from scratch.
 * Added internet connection check for external web links.
 * Added mini-game, can you find the legendary hidden clearing?
-
-
-## Help Using the Archive:
-I originally designed this to be viewed in  Internet Explorer on  Windows 98 or XP. The layout looks best at 1024x768 or higher, and while it will display in modern browsers, a few formatting quirks do appear here and there.
-
-For the most authentic and consistent experience, I recommend viewing the site with RetroZilla. It runs flawlessly on modern versions of Windows as well as Windows 98, and it looks exactly as intended when using this browser. On Windows 98 you can still use IE5 (IE6 works too, though with a few minor issues), but RetroZilla remains the best choice for consistency across operating systems.
 
 
 ## Finding your Way Around:
