@@ -7,6 +7,7 @@ https://manic232.github.io/ZX-Spectrum-Archive-2026/
 
 ## Important Note Before Viewing Online:
 I originally designed these pages to be viewed at 1024x768 in Internet Explorer on Windows 98 or XP, but the World has moved on! These days, by far the best way to experience this web 1.0 wonder, is to use RetroZilla. Modern browsers to not render this old HTML code correctly.
+
 Even using RetroZilla, there’s a fair bit of text corruption when viewing the site online through GitHub Pages. That’s because the old HTML/HTM files are encoded in Windows-1252, while GitHub Pages serves everything as UTF-8, and the two don’t always get along.
 
 I did try converting the whole site to UTF-8, and although it improved things a little, there were still corrupted characters scattered around. I simply don’t have the technical know-how (or patience) to troubleshoot all these issues, so I abandoned that idea and restored everything back to Windows-1252.
