@@ -6,13 +6,9 @@ https://manic232.github.io/ZX-Spectrum-Archive-2026/
 
 
 ## Important Note Before Viewing Online:
-I originally designed these pages to be viewed at 1024x768 in Internet Explorer on Windows 98 or XP, but the World has moved on! These days, by far the best way to experience this web 1.0 wonder, is to use RetroZilla. Modern browsers to not render this old HTML code correctly.
+I originally designed these pages to be viewed at 1024×768 in  Internet Explorer on  Windows 98 or XP, but the world has moved on. These days, the best way to experience this little slice of Web 1.0 is to use  RetroZilla. Modern browsers simply don’t render this old HTML the way it was intended.
 
-Even using RetroZilla, there’s a fair bit of text corruption when viewing the site online through GitHub Pages. That’s because the old HTML/HTM files are encoded in Windows-1252, while GitHub Pages serves everything as UTF-8, and the two don’t always get along.
-
-I did try converting the whole site to UTF-8, and although it improved things a little, there were still corrupted characters scattered around. I simply don’t have the technical know-how (or patience) to troubleshoot all these issues, so I abandoned that idea and restored everything back to Windows-1252.
-
-The good news is that everything looks perfect when viewed offline in RetroZilla. So if you want to browse this site properly, I strongly recommend downloading the full release from GitHub and viewing it locally. You'll find links on the home page.
+If you’re a vintage computer geek like me, you might be tempted to view the site on a real Windows 98 machine. And yes — that is possible. However, even on genuine Win98 hardware I’d still recommend using RetroZilla, because it renders these old pages far better than ancient Internet Explorer ever will.
 
 
 ## About The Archive:
@@ -28,10 +24,15 @@ It would have been great to have all this functionality back in 2001 when I star
 
 Much of the material was written by me, with additional information originally sourced from places like World of Spectrum, Rebelstar, and the now-obsolete WOS CD-ROM. For the 2026 reboot, I used CRASH Online as the primary source for the game reviews. Some early games were released too early on to have been reviewed in CRASH, and CRASH Online mainly covers the more popular games or those that received a CRASH Smash, so for any reviews I couldn’t source from there, I created them myself using the OCR’d CRASH PDF issues available from the RetroPDF website. Additionally, I used other magazines, such as Your Sinclair or Sinclair User.
 
+A big milestone for me was finally getting the site online through GitHub Pages. It wasn’t something I ever planned — not back in 2001, and not even when I started the 2026 update — but it ended up being the logical next step.
+
+I did run into encoding issues at first: FrontPage saves everything as Windows‑1252, while GitHub Pages serves files as UTF‑8. It took a few attempts to convert everything properly, but I eventually got it working.
+
 The site is intentionally a full-on Web 1.0 throwback — frames and all!  I could have rebuilt it, all slick and modern, but… nah! why would I want to go and do something like that?  I miss the early internet, and I'm not a fan of the look and feel of the modern internet. Anyway, the simple, nostalgic aesthetic suits the Speccy better I think.
 
 ## Changes Made in the 2026 Reboot
 * Completed the  CRASH Smashes section after 23 years.
+* The site is now viewable online via GitHub Pages. Links on the  home page.
 * Changed all game links to magazine reviews, mainly from CRASH Online.
 * Added box art, manuals and a playable game button to all game review pages.
 * Box art is now clickable: click to expand, click again to return.
@@ -59,7 +60,7 @@ The left pane changes depending on where you are. In most sections it contains l
 
 I’ve tried to keep things consistent throughout. Regular internal links are white and underlined, and those pages include a Back button at the bottom to return to the previous level. External links are Cyan and open in a new window.
 
-At the bottom of each main section you’ll find links to additional material such as interviews, history, and more.
+At the bottom of each main section you’ll find additional material (further reading) such as interviews, history, and more.
 
 All game review pages now include box art, which you can click to enlarge and click again to return.
 
@@ -67,7 +68,7 @@ The so called GIF Elders that for some reason feel the need to be here, have bee
 
 
 ## Playing the Games:
-As well as including original instructions in TXT or PDF format, game review pages also include a LOAD " " option that opens the ROM in your default Spectrum emulator. I used to use ZX32 back in the day, now I use Spectaculator or  Retro Virtual Machine, but most emulators should work as long as you’ve associated TZX, TAP, DSK, Z80 and ROM files with it.  Of course, ZX32 will still work if you’re playing the games on a Windows 98 PC or 86Box, but compatibility isn’t as strong.
+As well as including original instructions in TXT or PDF format, game review pages also include a LOAD " " option that opens the ROM in your default Spectrum emulator. I used to use ZX32 back in the day, now I use Spectaculator or  Retro Virtual Machine, but most emulators should work as long as you’ve associated TZX, TAP, DSK, Z80 and ROM files with it.
 
 Most of the ROMs here are TZX files, with only a handful in other formats.
 
