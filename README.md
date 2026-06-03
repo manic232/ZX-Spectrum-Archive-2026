@@ -6,9 +6,9 @@ https://manic232.github.io/ZX-Spectrum-Archive-2026/
 
 
 ## Important Note Before Viewing Online:
-I originally designed these pages to be viewed at 1024×768 in  Internet Explorer on  Windows 98 or XP, but the world has moved on. These days, the best way to experience this little slice of Web 1.0 is to use  RetroZilla. Modern browsers simply don’t render this old HTML the way it was intended.
+I originally designed these pages with FrontPage 2000 on a Windows 98 or XP PC, aiming for a 1024×768 screen resolution in Internet Explorer. But the world has moved on. These days, the best way to experience this little slice of Web 1.0 is with RetroZilla. Modern browsers simply don’t render this old HTML the way it was intended.
 
-If you’re a vintage computer geek like me, you might be tempted to view the site on a real Windows 98 machine. And yes — that is possible. However, even on genuine Win98 hardware I’d still recommend using RetroZilla, because it renders these old pages far better than ancient Internet Explorer ever will.
+If you’re a vintage‑computer geek like me, you might be tempted to view the site on a real Windows 98 machine. And yes — that works. But during the 2026 reboot I tested everything far more thoroughly in RetroZilla than I ever did in Internet Explorer, and as a result the pages simply look and behave better in RetroZilla, even on genuine Win98 hardware.
 
 
 ## About The Archive:
@@ -26,7 +26,7 @@ Much of the material was written by me, with additional information originally s
 
 A big milestone for me was finally getting the site online through GitHub Pages. It wasn’t something I ever planned — not back in 2001, and not even when I started the 2026 update — but it ended up being the logical next step.
 
-I did run into encoding issues at first: FrontPage saves everything as Windows‑1252, while GitHub Pages serves files as UTF‑8. It took a few attempts to convert everything properly, but I eventually got it working.
+I did run into encoding issues at first. I’d originally built the project in FrontPage 2000, which saves everything as Windows-1252, while GitHub Pages serves files as UTF-8. This mismatch caused odd characters to appear when viewing the site online, even though everything looked fine locally. It took a few attempts to convert the whole lot to UTF-8 successfully, but I eventually got it working.
 
 The site is intentionally a full-on Web 1.0 throwback — frames and all!  I could have rebuilt it, all slick and modern, but… nah! why would I want to go and do something like that?  I miss the early internet, and I'm not a fan of the look and feel of the modern internet. Anyway, the simple, nostalgic aesthetic suits the Speccy better I think.
 
