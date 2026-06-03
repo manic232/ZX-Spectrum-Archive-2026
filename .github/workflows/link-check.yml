@@ -1,0 +1,19 @@
+name: One-off Link Check
+
+on:
+  workflow_dispatch:
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+      - uses: actions/checkout@v3
+
+      - name: Run Lychee link checker
+        uses: lycheeverse/lychee-action@v1.8.0
+        with:
+          args: >
+            --verbose
+            --no-progress
+            https://manic232.github.io/ZX-Spectrum-Archive-2026/
