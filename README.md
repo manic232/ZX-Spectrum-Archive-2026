@@ -6,9 +6,9 @@ https://manic232.github.io/ZX-Spectrum-Archive-2026/
 
 
 ## Important Note Before Viewing Online:
-I originally designed these pages with FrontPage 2000 on a Windows 98 or XP PC, aiming for a 1024×768 screen resolution in Internet Explorer. But the world has moved on. These days, the best way to experience this little slice of Web 1.0 is with RetroZilla. Modern browsers simply don’t render this old HTML the way it was intended.
+I originally worked on this project back in 2001 with FrontPage 2000 on a Windows 98 or XP PC, aiming for a 1024×768 screen resolution in Internet Explorer. But the world has moved on, and modern browsers simply don’t render this old HTML the way it was intended. That’s why, despite being an old, outdated browser, RetroZilla actually gives the most accurate experience — it understands the quirks of early 2000s code far better than today’s browsers do. It’s therefore the browser I recommend you use to view this site. I know it’s a bit quirky and an unusual requirement, but it really is the best way to see the pages as they were meant to look.
 
-If you’re a vintage‑computer geek like me, you might be tempted to view the site on a real Windows 98 machine. And yes — that works. But during the 2026 reboot I tested everything far more thoroughly in RetroZilla than I ever did in Internet Explorer, and as a result the pages simply look and behave better in RetroZilla, even on genuine Win98 hardware.
+If you’re a vintage computer geek like me, you might be tempted to view the site on a real Windows 98 machine. And yes — that works. But during the 2026 reboot I tested everything far more thoroughly in RetroZilla than I ever did in Internet Explorer, and the pages simply look and behave better in RetroZilla, even on genuine Win98 hardware. The bonus is that RetroZilla also runs perfectly on modern Windows, so you get the same accurate, early 2000s rendering whether you’re using a real retro PC or a current one.
 
 
 ## About The Archive:
