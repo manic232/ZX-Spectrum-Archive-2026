@@ -32,7 +32,7 @@ The site is intentionally a full-on Web 1.0 throwback — frames and all!  I cou
 
 ## Changes Made in the 2026 Reboot
 * Completed the  CRASH Smashes section after 23 years.
-* The site is now viewable online via GitHub Pages. Links on the  home page.
+* The site is now viewable online via GitHub Pages. Links on the home page.
 * Changed all game links to magazine reviews, mainly from CRASH Online.
 * Added box art, manuals and a playable game button to all game review pages.
 * Box art is now clickable: click to expand, click again to return.
