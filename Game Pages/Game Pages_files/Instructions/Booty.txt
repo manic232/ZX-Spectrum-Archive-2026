@@ -46,27 +46,3 @@ URL
 NOTES
 Classic Game, just as fun today.  One annoying bug occurs when
 Jim falls of a ledge and the game can sometime freeze up.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

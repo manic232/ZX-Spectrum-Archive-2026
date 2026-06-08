@@ -88,5 +88,3 @@ scenario". 93% (CRASH #28, March 1986)
 GENERAL FACTS
 
 NOTES
-
-
