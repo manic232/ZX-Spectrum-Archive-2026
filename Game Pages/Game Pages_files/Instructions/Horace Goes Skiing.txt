@@ -1,9 +1,9 @@
-                                               Sinclair Spectrum 16K or 48K RAM
         HORACE GOES SKIING
         ------------------
 
         from PSION
         with MELBOURNE HOUSE
+		Sinclair Spectrum 16K or 48K RAM
 
 
 HORACE GOES SKIING is a sequel to the very successful HUNGRY HORACE. The HORACE

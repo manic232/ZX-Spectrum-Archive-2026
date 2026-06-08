@@ -1,11 +1,3 @@
-===
-APB
-===
-Document created by rstuart@ukonline.co.uk on 10th Jan 00 for
-World Of Spectrum: http://www.void.demon.nl/spectrum.html
-
-Taken from the Tangen/Domark compilation 'TNT'.
-
 APB
 ---
 A wacky game of cops and robbers... High speed chases, dangerous arrests

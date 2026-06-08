@@ -1,5 +1,4 @@
-****************CODENAME MAT by DEREK 
-BREWSTER**********************************************
+****************CODENAME MAT by DEREK BREWSTER****************
 
 
 Codename MAT - MISSION: ALIEN TERMINATION - the desparate plan to place in 
@@ -15,7 +14,7 @@ beyond any normal human...MAT is created.
 Now your mind is MAT's mind. Take control of the Centurion and blast off on 
 the greatest adventure of them all...
 
---------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------
 
 
 To load, press 'J' key and holding down red symbol shift, press 'P' key 
@@ -220,6 +219,3 @@ The display will flash below 1000 units.
 		This program is protected by copyright. Unauthorised
 		      copying, lending or hiring is prohibited.
 		 Micromega, 230-236 Lavender Hill, London SW11 1LE
-
-
-

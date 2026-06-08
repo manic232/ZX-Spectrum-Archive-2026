@@ -1,39 +1,14 @@
 THE BEAST
 (Zenobi Software)
+
+Spectrum 128K+2
 
-Spectrum 128K+2
+As a junior reporter for the LOWSEA GAZETTE, life was one continual round of jumblesales and church bazaars, with the occasional vicarage tea party to liven up theweek. But now with both the senior reporter and the photographer away on holiday,you sense the chance to hit the "Big-Time" ... if only there was a half-decent storyfor you to report.
 
+See if you can discover the "Scoop" you have been dreaming of, and if you do, will yoube able to follow it up and make the headlines you so long for, or are you destinedto spend the rest of your days covering nothing more exciting than the local "BouncingBaby" competition.
+NOTES:
+This game will accept all the "normal" commands along with the following additions:SAVE and LOAD to store a "position" to TAPE.RAMSAVE and RAMLOAD to store a "position" to MEMORY.LOOK IN or LOOK AT to learn more about objects and people.GET ALLDROP ALLVOCAB to list some useful words and phrases.X or EXAMINE to learn more about people, objects and places.I or INVENTORY to list all objects either carried or worn.
 
-As a junior reporter for the LOWSEA GAZETTE, life was one continual round of jumble
-sales and church bazaars, with the occasional vicarage tea party to liven up the
-week. But now with both the senior reporter and the photographer away on holiday,
-you sense the chance to hit the "Big-Time" ... if only there was a half-decent story
-for you to report.
-
-See if you can discover the "Scoop" you have been dreaming of, and if you do, will you
-be able to follow it up and make the headlines you so long for, or are you destined
-to spend the rest of your days covering nothing more exciting than the local "Bouncing
-Baby" competition.
-
-
-NOTES:
-
-This game will accept all the "normal" commands along with the following additions:
-SAVE and LOAD to store a "position" to TAPE.
-RAMSAVE and RAMLOAD to store a "position" to MEMORY.
-LOOK IN or LOOK AT to learn more about objects and people.
-GET ALL
-DROP ALL
-VOCAB to list some useful words and phrases.
-X or EXAMINE to learn more about people, objects and places.
-I or INVENTORY to list all objects either carried or worn.
-
-To remove an object from a container, simply type GET PEN or GET APPLE and, provided
-that the object is in a container that is either being held or worn by you, or is at
-the same location you are at, then that object will be removed from that container.
-
-This game can handle such complex commands as ... HIT THE DOOR WITH THE HAMMER or
-GIVE THE BREAD TO THE SWAN, but the normal VERB/NOUN input will suffice in most cases.
-
-It is also possible to link commands with the words AND or THEN ... eg. GO UP AND
-GET BOX THEN DROP BAG.
+To remove an object from a container, simply type GET PEN or GET APPLE and, providedthat the object is in a container that is either being held or worn by you, or is atthe same location you are at, then that object will be removed from that container.
+This game can handle such complex commands as ... HIT THE DOOR WITH THE HAMMER orGIVE THE BREAD TO THE SWAN, but the normal VERB/NOUN input will suffice in most cases.
+It is also possible to link commands with the words AND or THEN ... eg. GO UP ANDGET BOX THEN DROP BAG.

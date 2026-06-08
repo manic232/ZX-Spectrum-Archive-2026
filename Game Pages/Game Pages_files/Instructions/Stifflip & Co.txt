@@ -1,4 +1,5 @@
-*********
+STIFFLIP & CO.
+A Binary Vision Game
 
 The Project 64 etext of the Stifflip & Co. manual. Converted to etext
 by Andrew Williams, <awilliams@daikin.com.au>.
@@ -9,10 +10,6 @@ Readapted for the Spectrum in 2000 AD by
 Alessandro "Gazzosa" Grussu
 http://members.nbci.com/gazzosa
 
-*********
-
-STIFFLIP & CO.
-A Binary Vision Game
 
 Back cover blurb:
 

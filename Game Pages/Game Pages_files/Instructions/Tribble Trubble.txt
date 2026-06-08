@@ -1,8 +1,6 @@
 Tribble Trouble (c) 1984 Software Projects Ltd 
-----------------------------------------------
-
-INTRODUCTION
-
+----------------------------------------------
+INTRODUCTION
 Brian Skywalker is a tribble farmer on the planet Noom. When
 on a mission to round up wild tribbles to increase his
 stock, his Noomrover runs out of fuel and Brian is forced to

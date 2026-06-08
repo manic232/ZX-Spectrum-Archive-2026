@@ -1,75 +1,59 @@
 Manic Miner (c) 1983 Bug-Byte Software Ltd 
 ------------------------------------------
-
 INSTRUCTIONS FOR MANIC MINER
-
 Author: Mathew Smith
-
 MANIC MINER will run on any 48K Spectrum
 To load MANIC MINER, simply enter:
 LOAD ""
-
 - then hit the ENTER key and follow the computer's prompts.
 Leave the tape running until the game starts up.
-
 THE GAME
-
-Miner Willy, while prospecting down Surbiton way, stumbles
-upon an ancient, long forgotten mine-shaft. On further
-exploration, he finds evidence of a lost civilisation far
-superior to our own, which used automatons to dig beep into
-the Earth's core to supply the essential raw materials for
-their advanced industry. After centuries of peace and
-prosperity, the civilisation was torn apart by war, and
-lapsed into a long dark age, abandoning their industry and
-machines. Nobody, however, thought to tell the mine robots
-to stop working, and through countless aeons they had
-steadily accumulated a hugh stockpile of valuable metals
-and minerals, and Miner Willy realises that he now has the
-opportunity to make his fortune by finding the underground
-store. Can YOU take the challenge and guide Willy through
-the undergraound caverns to the surface and riches. In
-order to move to the next chamber, you must collect all the
-flashing keys in the room while avoiding nasties like
-POISONOUS PANSIES and SPIDERS and SLIME and worst of all,
-MANIC MINING ROBOTS. When you have all the keys, you can
-enter the portal which will now be flashing. The game ends
+Miner Willy, while prospecting down Surbiton way, stumbles
+upon an ancient, long forgotten mine-shaft. On further
+exploration, he finds evidence of a lost civilisation far
+superior to our own, which used automatons to dig beep into
+the Earth's core to supply the essential raw materials for
+their advanced industry. After centuries of peace and
+prosperity, the civilisation was torn apart by war, and
+lapsed into a long dark age, abandoning their industry and
+machines. Nobody, however, thought to tell the mine robots
+to stop working, and through countless aeons they had
+steadily accumulated a hugh stockpile of valuable metals
+and minerals, and Miner Willy realises that he now has the
+opportunity to make his fortune by finding the underground
+store. Can YOU take the challenge and guide Willy through
+the undergraound caverns to the surface and riches. In
+order to move to the next chamber, you must collect all the
+flashing keys in the room while avoiding nasties like
+POISONOUS PANSIES and SPIDERS and SLIME and worst of all,
+MANIC MINING ROBOTS. When you have all the keys, you can
+enter the portal which will now be flashing. The game ends
 when you have been 'got' or fallen heavily three times.
-
+
 GAME CONTROL
-
 Three keys are used to control the game:
-
-Q,E,T,U or O   - Move left
-W,R,Y,I or P   - Move right
+Q,E,T,U or O   - Move left
+W,R,Y,I or P   - Move right
 Shift to space - Jump
-
 AlSO KEMPSTON JOYSTICK COMPATIBLE
-
-If you enjoy this game, look out for other Bug-Byte programs
-at you local computer shop, branches of BOOTS, W.H. Smiths,
+If you enjoy this game, look out for other Bug-Byte programs
+at you local computer shop, branches of BOOTS, W.H. Smiths,
 or in our advertising in the computer press and elsewhere.
-
-Think you can write a better game than this? We'd love to
+Think you can write a better game than this? We'd love to
 see it. Send a copy n cassette to:
-
-The Programming Department, Bug-Byte,
+The Programming Department, Bug-Byte,
 Mulberry ouse, Canning Place, Liverpool, L1 8JB
-
-For free appraisal of its worth, without any obligation to
-donate the program to our range. Or simply send a A.A.E. for
+For free appraisal of its worth, without any obligation to
+donate the program to our range. Or simply send a A.A.E. for
 details of our terms for contributed programs.
-
+
 (c) Bug-Byte 1983
 ------------------------------------------------------------
-
-The program "MANIC MINER" its documentation and artwork are
-strictly the copyright of Bug-Byte. It is illegal to make a
-copy of MANIC MINER without authorisation from Bug-Byte and
-legal action will be taken against anyone found doing so. It
-is also illegal, and expressly forbidden, to lend or hire
+The program "MANIC MINER" its documentation and artwork are
+strictly the copyright of Bug-Byte. It is illegal to make a
+copy of MANIC MINER without authorisation from Bug-Byte and
+legal action will be taken against anyone found doing so. It
+is also illegal, and expressly forbidden, to lend or hire
 out the program by way of trade.
-
 ------------------------------------------------------------
-
 Complete Instructions typed in by Paul Thompson, April 2003

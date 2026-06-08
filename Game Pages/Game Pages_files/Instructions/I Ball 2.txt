@@ -1,4 +1,4 @@
-*********
+I BALL II
 
 The Project 64 etext of the I, Ball II (The Quest for the Past)
 manual, by Firebird. Converted to etext by Peter Karlsson
@@ -9,7 +9,6 @@ IBALL210.TXT, April 1997, etext #189.
 Readapted for the Spectrum in 2001 AD by Alessandro Grussu
 http://www.ag-online.da.ru
 
-*********
 
 *** MANUAL
 

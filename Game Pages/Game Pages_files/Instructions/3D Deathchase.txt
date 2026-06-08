@@ -1,4 +1,4 @@
-DEATHCHASE by M J Estcourt
+3D DEATHCHASE by M J Estcourt
 
 To load press 'J' key and, holding down red symbol shift, press 'P' key 
 twice. Screen should show LOAD "". Press ENTER key and start tape - let

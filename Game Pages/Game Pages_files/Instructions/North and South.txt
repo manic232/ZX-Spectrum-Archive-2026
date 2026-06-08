@@ -1,4 +1,4 @@
-*********
+North and South
 
 The Project 64 etext of the ~North South manual~, converted to etext
 by Martin Brunner <martinb@finwds01.tu-graz.ac.at>.
@@ -8,7 +8,6 @@ NORSOU10.TXT, April 1997, etext #229#
 Readapted for the Spectrum in 2001 AD by Alessandro Grussu
 http://www.ag-online.da.ru
 
-*********
 
 With the famous comic strip heroes from 'LES TUNIQUES BLEUES' (The
 Blue Jackets), imagined by LAMBIL, designed by CAUVIN and published by

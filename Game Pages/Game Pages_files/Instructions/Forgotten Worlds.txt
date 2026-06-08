@@ -1,4 +1,4 @@
-*********
+Forgotten Worlds
 
 The Project 64 etext of the ~Forgotten Worlds manual~, converted to
 etext by Robert Schultz <bert@ncinter.net>.
@@ -8,7 +8,6 @@ FORWOR10.TXT, November 1997, etext #319#
 Readapted for the Spectrum in 2001 AD by Alessandro Grussu
 http://www.ag-online.da.ru
 
-*********
 
 The Forgotten Worlds Story
 

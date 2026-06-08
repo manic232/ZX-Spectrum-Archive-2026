@@ -1,4 +1,5 @@
 MYTH - History in the Making
+
 (c)1989 System 3
 Programming: Peter Baron 
 Graphics: Bob Stevenson 
@@ -250,12 +251,12 @@ Status area definitions
 For Spectrum and Amstrad owners
 
 		      Status area
-зддддддддддддддд©  зддддддддддддддд©  зддддддддддддддд©
-ЁScore          Ё  ЁAmount         Ё  ЁEnergy         Ё
-юддддддддддддддды  юддддддддддддддды  юддддддддддддддды
-зддддддддддддддд©  зддддддддддддддд©  зддддддддддддддд©
-ЁLives          Ё  ЁCollected itemsЁ  ЁTeleport cons  Ё
-юддддддддддддддды  юддддддддддддддды  юддддддддддддддды
+зддддддддддддддд? зддддддддддддддд? зддддддддддддддд?
+?core          ? ?mount         ? ?nergy         ?
+юддддддддддддддд? юддддддддддддддд? юддддддддддддддд?
+зддддддддддддддд? зддддддддддддддд? зддддддддддддддд?
+?ives          ? ?ollected items? ?eleport cons  ?
+юддддддддддддддд? юддддддддддддддд? юддддддддддддддд?
 
 Lives		- Ammount of lives (up to six)
 Score		- Current score

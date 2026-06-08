@@ -1,4 +1,4 @@
-Enduro Racer instructions.
+Enduro Racer
 Taken from original release.
 
 Converted to text by Gerard Sweeney (www.the-tipshop.co.uk) for World

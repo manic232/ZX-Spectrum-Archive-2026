@@ -1,4 +1,5 @@
 MERCENARY: A FLIGHT SIMULATOR ADVENTURE
+
 1st City: ESCAPE FROM TARG
 (c)1987 Novagen Software Ltd
 AUTHOR: Paul Woakes (Spectrum version by David Aubrey Jones)

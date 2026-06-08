@@ -1,3 +1,5 @@
+KLAX
+
 The concept is simple - catch the different coloured tiles as they advance
 towards you and flip each tile into one of five bins.  The object is to make
 Klaxes: these are same coloured stacks or tiles, Horizontals, Diagonals and Rows

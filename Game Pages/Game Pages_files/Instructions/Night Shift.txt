@@ -1,4 +1,4 @@
-*********
+NIGHT SHIFT
 
 The Project 64 etext of the ~Nightshift manual~, converted to etext by
 Dohi <hosza@szabinet.hu>.
@@ -9,7 +9,6 @@ Taken from Project 64 with additional material by Cristian Secara.
 Readapted for the Spectrum in 2001 AD by Alessandro Grussu
 http://www.ag-online.da.ru
 
-*********
 
 NIGHT SHIFT(tm)
 

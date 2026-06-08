@@ -1,4 +1,4 @@
-*********
+NAVY SEALS
 
 The Project 64 etext of the Navy Seals manual.  Converted to etext
 by "Frank" Jeno E. Kontros <jeno@kontr.uzhgorod.ua>, the Non Stop
@@ -9,7 +9,6 @@ NAVYSE10.TXT, September 1996, etext #80.
 Readapted for the Spectrum in 2001 AD by Alessandro Grussu
 http://www.ag-online.da.ru
 
-*********
 
 NAVY SEALS  (c) 1990 ORION PICTURES CORP. ALL RIGHTS RESERVED.
 

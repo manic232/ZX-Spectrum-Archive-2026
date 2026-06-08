@@ -1,10 +1,10 @@
-Sinclair
-Spectrum
-16K or 48K RAM
-
 HUNGRY HORACE
 from PSION
 with MELBOURNE HOUSE
+
+Sinclair
+Spectrum
+16K or 48K RAM
 
 Load and run by typing LOAD "HORACE"
 

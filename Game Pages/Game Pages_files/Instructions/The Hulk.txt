@@ -1,37 +1,28 @@
-[INCOMPLETE INSTRUCTIONS]
-                               SCOTT ADAMS
+The HULK
+SCOTT ADAMS
 
-				 presents
+presents
+A MARVEL COMICS ADVENTURE	 
+THE QUESTPROBE SERIES
 
-			A MARVEL COMICS ADVENTURE
+#1 THE INCREDIBLE HULK (TM)
+by SCOTT ADAMS
 
-			  
-			  THE QUESTPROBE SERIES
+Published by
+Adventure International
+A Division of Scott Adams, Inc.
 
-		       #1 THE INCREDIBLE HULK (TM)
+ADVENTURE INTERNATIONAL U.K.
+119 John Bright Street, Birmingham B1 1BE
 
-                              by SCOTT ADAMS
-
-
-                               Published by
-                         Adventure International
-                     A Division of Scott Adams, Inc.
-
-                        ADVENTURE INTERNATIONAL U.K.
-                119 John Bright Street, Birmingham B1 1BE
-
-               Copyright May, 1984, Adventure International
-                            ALL RIGHTS RESERVED
-
+Copyright May, 1984, Adventure International
+ALL RIGHTS RESERVED
 
 The Hulk, Ant-Man, Doctor Strange, Ultron, Nightmare, and the Chief Examiner
 and the distinctive likenesses thereof are trademarks of the Marvel Comics
 Group and are used with permission. The characters are copyright 1984, Marvel
 Comics Group, a division of Cadence Industries Corporation.
                             ALL RIGHTS RESERVED
-
-
-
 ..........................................................................
 
 Climb	Examine	  Leave	  Move	Quit	Say

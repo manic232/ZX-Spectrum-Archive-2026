@@ -1,6 +1,4 @@
-THE SPECTRUM GAMES DATABASE
-
-ALIEN8
+ALIEN 8
 
 PUBLISHER
 Ultimate Play The Game (ACG)
@@ -215,26 +213,3 @@ engine".
 
 NOTES
 Alien 8 features a very amusing "Re-programing" animation!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
