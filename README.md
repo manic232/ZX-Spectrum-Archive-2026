@@ -1,10 +1,10 @@
 ZX Spectrum Archive: 2026 Web 1.0 Reboot Edition!
 
-The site is best viewed with [RetroZilla](/https://rn10950.github.io/RetroZillaWeb/)
+The site is best viewed with [RetroZilla](https://rn10950.github.io/RetroZillaWeb/)
 
 https://manic232.github.io/ZX-Spectrum-Archive-2026/
 
-If you spot anything wrong like typos, inaccurate information, missing images or errors of any kind, please do let me know in [issues](/https://github.com/manic232/ZX-Spectrum-Archive-2026/issues).
+If you spot anything wrong like typos, inaccurate information, missing images or errors of any kind, please do let me know in issues.
 
 
 ## Important Note Before Viewing Online:
