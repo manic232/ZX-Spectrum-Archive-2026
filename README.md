@@ -1,14 +1,16 @@
 ZX Spectrum Archive: 2026 Web 1.0 Reboot Edition!
 
-Welcome to the 2026 reboot of my ZX Spectrum Archive web page.
+The site is best viewed with [RetroZilla](/https://rn10950.github.io/RetroZillaWeb/)
 
 https://manic232.github.io/ZX-Spectrum-Archive-2026/
 
+If you spot anything wrong like typos, inaccurate information, missing images or errors of any kind, please do let me know in [issues](/https://github.com/manic232/ZX-Spectrum-Archive-2026/issues).
+
 
 ## Important Note Before Viewing Online:
-I originally worked on this project back in 2001 with FrontPage 2000 on a Windows 98 or XP PC, aiming for a 1024×768 screen resolution in Internet Explorer. But the world has moved on, and modern browsers simply don’t render this old HTML the way it was intended. That’s why, despite being an old, outdated browser, RetroZilla actually gives the most accurate experience — it understands the quirks of early 2000s code far better than today’s browsers do. It’s therefore the browser I recommend you use to view this site. I know it’s a bit quirky and an unusual requirement, but it really is the best way to see the pages as they were meant to look.
+I originally worked on this project back in 2001 with FrontPage 2000 on a Windows 98 or XP PC, aiming for a 1024×768 screen resolution in Internet Explorer. But the world has moved on, and modern browsers simply don’t render this old HTML the way it was intended. That’s why [RetroZilla](/https://rn10950.github.io/RetroZillaWeb/). actually gives the most accurate experience — it understands the quirks of early-2000s code far better than today’s web browsers do. And while its main purpose is to improve web compatibility on older operating systems, RetroZilla actually runs fine on modern Windows too. It’s therefore the browser I recommend you use to view this site. I know it’s a bit quirky and an unusual requirement, but it really is the best way to see the pages as they were meant to look.
 
-If you’re a vintage computer geek like me, you might be tempted to view the site on a real Windows 98 machine. And yes — that works. But during the 2026 reboot I tested everything far more thoroughly in RetroZilla than I ever did in Internet Explorer, and the pages simply look and behave better in RetroZilla, even on genuine Win98 hardware. The bonus is that RetroZilla also runs perfectly on modern Windows, so you get the same accurate, early 2000s rendering whether you’re using a real retro PC or a current one.
+If you’re a vintage computer geek like me, you might be tempted to view the site on a real Windows 98 or XP machine. And yes — that works. But during the 2026 reboot I tested everything far more thoroughly in RetroZilla than I did in Internet Explorer, and the pages simply look and behave better in RetroZilla, even on genuine Win98 hardware. The bonus, as mentioned is that RetroZilla also runs well on modern Windows, so you get the same accurate, early 2000s rendering whether you’re using a real retro PC or a current one.
 
 
 ## About The Archive:
@@ -28,7 +30,7 @@ A big milestone for me was finally getting the site online through GitHub Pages.
 
 I did run into encoding issues at first. I’d originally built the project in FrontPage 2000, which saves everything as Windows-1252, while GitHub Pages serves files as UTF-8. This mismatch caused odd characters to appear when viewing the site online, even though everything looked fine locally. It took a few attempts to convert the whole lot to UTF-8 successfully, but I eventually got it working.
 
-The site is intentionally a full-on Web 1.0 throwback — frames and all!  I could have rebuilt it, all slick and modern, but… nah! why would I want to go and do something like that?  I miss the early internet, and I'm not a fan of the look and feel of the modern internet. Anyway, the simple, nostalgic aesthetic suits the Speccy better I think.
+The site is intentionally a full-on Web 1.0 throwback — yes, including actual frames and animated GIFs. I could have rebuilt it into something slick and modern, but why ruin the vibe? I miss the early web, and I’ve never been a fan of today’s overly polished, cookie-cutter design trends. The Speccy belongs in a world of simple layouts and charmingly clunky design, not in a glossy, minimalist template.
 
 ## Changes Made in the 2026 Reboot
 * Completed the  CRASH Smashes section after 23 years.
