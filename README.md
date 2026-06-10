@@ -4,7 +4,7 @@ The site is best viewed with [RetroZilla](https://rn10950.github.io/RetroZillaWe
 
 https://manic232.github.io/ZX-Spectrum-Archive-2026/
 
-If you spot anything wrong like typos, inaccurate information, missing images or errors of any kind, please let me know in issues.
+If you spot anything wrong, such as typos, inaccurate information, missing images or errors of any kind, please let me know in issues.
 
 ## Important Note Before Viewing Online:
 I originally worked on this project back in 2001 with FrontPage 2000 on a Windows 98 or XP PC, aiming for a 1024×768 screen resolution in Internet Explorer. But the world has moved on, and modern browsers simply don’t render this old HTML the way it was intended. That’s why [RetroZilla](https://rn10950.github.io/RetroZillaWeb/). actually gives the most accurate experience — it understands the quirks of early-2000s code far better than today’s web browsers do. And while its main purpose is to improve web compatibility on older operating systems, RetroZilla actually runs fine on modern Windows too. It’s therefore the browser I recommend you use to view this site. I know it’s a bit quirky and an unusual requirement, but it really is the best way to see the pages as they were meant to look.
