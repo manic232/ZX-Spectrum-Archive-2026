@@ -4,7 +4,7 @@ The site is best viewed with [RetroZilla](https://rn10950.github.io/RetroZillaWe
 
 https://manic232.github.io/ZX-Spectrum-Archive-2026/
 
-If you spot anything wrong like typos, inaccurate information, missing images or errors of any kind, please do let me know in issues.
+If you spot anything wrong like typos, inaccurate information, missing images or errors of any kind, please let me know in issues.
 
 
 ## Important Note Before Viewing Online:
