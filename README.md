@@ -6,8 +6,8 @@ https://manic232.github.io/ZX-Spectrum-Archive-2026/
 
 If you spot anything wrong, such as typos, inaccurate information, missing images or errors of any kind, please let me know in issues.
 
-## Important Note Before Viewing Online:
-I originally worked on this project back in 2001 with FrontPage 2000 on a Windows 98 or XP PC, aiming for a 1024×768 screen resolution in Internet Explorer. But the world has moved on, and modern browsers simply don’t render this old HTML correctly. That’s why RetroZilla actually gives the most accurate experience — it understands the quirks of early-2000s code far better than today’s web browsers do. And while its main purpose is to improve modern web compatibility for older operating systems, RetroZilla actually runs fine on modern Windows too. It’s therefore the browser I recommend you use to view this site. I know it’s a bit quirky and an unusual requirement, but it really is the best way to experience this web site as I originally intended.
+## Important Note Before Loading:
+I originally worked on this project back in 2001 with FrontPage 2000, most likely on a Windows 98 or XP PC, aiming for a 1024×768 screen resolution in Internet Explorer. But the world has moved on, and modern browsers simply can’t render this old HTML correctly. That’s why RetroZilla actually gives the most accurate experience — it understands the quirks of early-2000s code far better than today’s web browsers do. And while it’s main purpose is to bring better web compatibility to older operating systems, RetroZilla runs perfectly well on modern Windows. It’s therefore the browser I recommend you use to view this site. I know it’s a bit quirky and an unusual requirement, but it really is the best way to experience this web site as I originally intended.
 
 If you’re a vintage computer geek like me, you might be tempted to view the site on a real Windows 98 or XP machine. And yes — that works. But during the reboot process, I tested everything far more thoroughly in RetroZilla than I did in Internet Explorer, and the pages simply look and behave better in RetroZilla, even on genuine Win98 hardware. The bonus, as mentioned is that RetroZilla also runs well on modern Windows, so you get the same accurate, early 2000s rendering whether you’re using a real retro PC or a current one.
 
@@ -73,7 +73,7 @@ As well as including original instructions in TXT or PDF format, game review pag
 
 Most of the ROMs here are TZX files, with only a handful in other formats.
 
-Spectrum games — especially later releases — often came on multiple cassette tapes. You’d sometimes need to flip the tape or load a second side to load a different section to the game or choose between 48K and 128K versions. Because of this, ROM sets can include several files: Side A, Side B, Tape 1, Tape 2, etc.
+Spectrum games — especially later releases — often came on multiple cassette tapes, or included extra levels and alternate versions on side B. You’d sometimes have to flip the tape or load a second one to access another part of the game, or to choose between 48K and 128K versions. Because of this, ROM sets can contain several files: Side A, Side B, Tape 1, Tape 2, and so on.
 
 For games with more than one side, you’ll see a separate page where you can choose which side to load. Just be aware that some B sides weren’t meant to load from cold — they were designed to be loaded from within the game at a specific point. So if Side 2/B refuses to start on its own, don’t worry — that’s normal behaviour for those titles.
 
