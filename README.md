@@ -1,4 +1,4 @@
-ZX Spectrum Archive: 2026 Web 1.0 Reboot Edition!
+ZX Spectrum Archive: 2026 Web 1.0 Reboot Edition!!
 
 The site is best viewed with [RetroZilla](https://rn10950.github.io/RetroZillaWeb/)
 
