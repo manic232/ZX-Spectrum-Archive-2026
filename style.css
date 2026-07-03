@@ -4,10 +4,10 @@
    Affects EVERYTHING unless overridden.
    ============================================================ */
 body {
-    background: #000;                 /* Page background colour */
-    color: #fff;                      /* Default text colour across site */
-    font-family: Verdana, Arial, sans-serif; /* Global font stack */
-    margin: 20px;                     /* Outer margin around the whole page */
+    background: #000;                          /* Page background colour */
+    color: #fff;                               /* Default text colour across site */
+    font-family: Verdana, Arial, sans-serif;   /* Global font stack */
+    margin: 20px;                              /* Outer margin around the whole page */
 }
 
 .redirect-msg {
@@ -22,15 +22,15 @@ body {
    One floats left, one floats right.
    ============================================================ */
 .header-left {
-    float: left;                      /* Positions left header image at top-left */
-    margin-right: 10px;               /* Space between left image and the <h1> */
-    margin-bottom: 50px;              /* Vertical gap between left image and Page Title */
+    float: left;                               /* Positions left header image at top-left */
+    margin-right: 10px;                        /* Space between left image and the <h1> */
+    margin-bottom: 50px;                       /* Vertical gap between left image and Page Title */
 }
 
 .header-right {
-    float: right;                     /* Positions right header image at top-right */
-    margin-left: 10px;                /* Space between right image and the text beside it */
-	margin-bottom: 10px;              /* Space between the bottom of the image and text beneath it */
+    float: right;                              /* Positions right header image at top-right */
+    margin-left: 10px;                         /* Space between right image and the text beside it */
+	margin-bottom: 10px;                       /* Space between the bottom of the image and text beneath it */
 }
 
 /* ============================================================
@@ -42,29 +42,29 @@ body {
    <h4> sub heading, same as h2 but with a bigger bottom margin
    ============================================================ */
 h1 {
-    clear: left;                      /* Forces <h1> below ONLY the left header image */
-    font-size: 32px;                  /* Main page title size */
-    margin-top: 10px;                 /* Space above the main heading */
-	margin-bottom: 35px;              /* Space below main heading */
+    clear: left;                               /* Forces <h1> below ONLY the left header image */
+    font-size: 32px;                           /* Main page title size */
+    margin-top: 10px;                          /* Space above the main heading */
+	margin-bottom: 35px;                       /* Space below main heading */
 }
 
 h2 {
-    font-size: 18px;                  /* Subheading size for each section */
-    margin-top: 0;                    /* Keeps <h2> tight to the section GIF above it */
-    margin-bottom: 10px;              /* Space between <h2> and the paragraph below */
+    font-size: 18px;                           /* Subheading size for each section */
+    margin-top: 0;                             /* Keeps <h2> tight to the section GIF above it */
+    margin-bottom: 10px;                       /* Space between <h2> and the paragraph below */
 }
 
 h3 {
-    clear: left;                      /* Forces <h1> below ONLY the left header image */
-    font-size: 32px;                  /* Main page title size */
-    margin-top: 10px;                 /* Space above and below the main heading */
-	margin-bottom: 5px;              /* Space below h3 and smaller sub heading */
+    clear: left;                               /* Forces <h1> below ONLY the left header image */
+    font-size: 32px;                           /* Main page title size */
+    margin-top: 10px;                          /* Space above and below the main heading */
+	margin-bottom: 5px;                        /* Space below h3 and smaller sub heading */
 }
 
 h4 {
-    font-size: 18px;                  /* Subheading size for each section */
-    margin-top: 0;                    /* Keeps <h4> tight to the section GIF above it */
-    margin-bottom: 38px;              /* Space between <h4> and the paragraph below */
+    font-size: 18px;                           /* Subheading size for each section */
+    margin-top: 0;                             /* Keeps <h4> tight to the section GIF above it */
+    margin-bottom: 38px;                       /* Space between <h4> and the paragraph below */
 }
 
 /* ============================================================
@@ -73,7 +73,7 @@ h4 {
    Used for the bold opening paragraph under the header.
    ============================================================ */
 .intro p {
-    font-weight: bold;                /* Makes intro text bold */
+    font-weight: bold;                         /* Makes intro text bold */
 }
 
 /* ============================================================
@@ -81,8 +81,8 @@ h4 {
    Controls all <p> text throughout the site.
    ============================================================ */
 p {
-    font-size: 14px;                  /* Standard paragraph text size */
-    line-height: 1.4;                 /* Line spacing for readability */
+    font-size: 14px;                           /* Standard paragraph text size */
+    line-height: 1.4;                          /* Line spacing for readability */
 }
 
 /* ============================================================
@@ -91,24 +91,34 @@ p {
    ============================================================ */
 a:link,
 a:visited {
-    color: #fff;                      /* White link colour */
-    text-decoration: underline;       /* Retro underline style */
+    color: #fff;                               /* White link colour */
+    text-decoration: none;                     /* Underline style */
+	font-weight: bold;
+}
+a:hover {
+    text-decoration: underline;                /* Adds hover effect */
 }
 
 /* ============================================================
    GAME LIST LINKS in FRAMES
-   Styles the retro game list links and frame-body pages.
+   Styles the game list links and frame-body pages.
    ============================================================ */
 a.game {
-    text-decoration: none;            /* Removes underline from game links */
-    font-family: Verdana;             /* Verdana for classic ZXSA look */
-    font-size: 11px;                  /* Small retro link size */
-    font-weight: bold;                /* Bold game titles */
-    color: #FFFFFF;                   /* White text */
+    text-decoration: none;                     /* Removes underline from game links */
+    font-family: Verdana, Arial, sans-serif;   /* Verdana for classic ZXSA look */
+    font-size: 11px;                           /* Font size */
+    font-weight: bold;                         /* Bold game titles */
+    color: #FFFFFF;                            /* White text */
+}
+a.game:visited {
+    text-decoration: none;                     /* Stop IE5/IE6 from underlining visited links */
+}
+a.game:hover {
+    text-decoration: underline;                /* Adds hover effect */
 }
 
 .frame-body {
-    margin: 10px 0 0 10px;            /* Frame page margins: top, right, bottom, left */
+    margin: 10px 0 0 10px;                     /* Frame page margins: top, right, bottom, left */
 }
 
 /* ============================================================
@@ -118,7 +128,7 @@ a.game {
    Example: '1986 - blah' needs to be '1986- blah' to look right
    ============================================================ */
 .link-list a {
-    margin-right: 5px;   /* adjust spacing between links here */
+    margin-right: 5px;                         /* adjust spacing between links here */
 }
 
 /* ============================================================
@@ -126,20 +136,20 @@ a.game {
    Can be any image on the page, photos or gif elders.
    ============================================================ */
 .float-left {
-    float: left;                      /* Positions GIF to the left of its section text */
-    margin-right: 20px;               /* Space between GIF and the text to its right */
-    margin-bottom: 10px;              /* Space below GIF before the next line of text */
-    border: 0px solid transparent;    /* Invisible border to stabilise layout */
-    padding-top: 6px;                 /* Aligns GIF vertically with the <h2> beside it */
+    float: left;                               /* Positions GIF to the left of its section text */
+    margin-right: 20px;                        /* Space between GIF and the text to its right */
+    margin-bottom: 10px;                       /* Space below GIF before the next line of text */
+    border: 0px solid transparent;             /* Invisible border to stabilise layout */
+    padding-top: 6px;                          /* Aligns GIF vertically with the <h2> beside it */
 }
 
 .float-right {
-    float: right;                     /* Positions GIF to the right of its section text */
-	margin-left: 10px;                /* Space between GIF and the text to its left */
-    margin-right: 0px;                /* Space between GIF and the text to its right */
-    margin-bottom: 0px;               /* Space below GIF before the next line of text */
-    border: 0px solid transparent;    /* Invisible border to stabilise layout */
-    padding-top: 0px;                 /* Aligns GIF vertically with the <h2> beside it */
+    float: right;                              /* Positions GIF to the right of its section text */
+	margin-left: 10px;                         /* Space between GIF and the text to its left */
+    margin-right: 0px;                         /* Space between GIF and the text to its right */
+    margin-bottom: 0px;                        /* Space below GIF before the next line of text */
+    border: 0px solid transparent;             /* Invisible border to stabilise layout */
+    padding-top: 0px;                          /* Aligns GIF vertically with the <h2> beside it */
 }
 
 /* ============================================================
@@ -149,7 +159,7 @@ a.game {
    Does NOT affect the first section under the header.
    ============================================================ */
 .section + .section {
-    margin-top: 40px;                 /* Gap ABOVE each new section (GIF + H2 block) */
+    margin-top: 40px;                          /* Gap ABOVE each new section (GIF + H2 block) */
 }
 
 /* ============================================================
@@ -158,7 +168,7 @@ a.game {
    Used only when you need to force content below floats.
    ============================================================ */
 .clear {
-    clear: both;                      /* Pushes next element below ALL floats */
+    clear: both;                               /* Pushes next element below ALL floats */
 }
 
 /* ============================================================
@@ -166,10 +176,10 @@ a.game {
    Styles the small “Created by…” footer at the bottom.
    ============================================================ */
 .footer {
-    text-align: right;                /* Aligns footer text to the right edge */
-    font-size: 10px;                  /* Small retro footer text */
-    margin-top: 40px;                 /* Space above the footer area */
-    opacity: 0.8;                     /* Slight transparency for subtle look */
+    text-align: right;                         /* Aligns footer text to the right edge */
+    font-size: 10px;                           /* Footer text size */
+    margin-top: 40px;                          /* Space above the footer area */
+    opacity: 0.8;                              /* Slight transparency for subtle look */
 }
 
 /* ============================================================
@@ -179,9 +189,9 @@ a.game {
 .back-link {
     margin: 0;
     padding: 0;
-	margin-top: 30px;                 /* adjust to taste */
-    font-size: 12px;                  /* replaces size="2" */
-	font-weight: bold;                /* Bold game titles */
+	margin-top: 30px;                          /* adjust to taste */
+    font-size: 12px;                           /* replaces size="2" */
+	font-weight: bold;                         /* Bold game titles */
     font-family: Verdana, Arial, sans-serif;
 }
 
@@ -193,31 +203,31 @@ a.game {
    Use photo-block-center for center justification
    ============================================================ */
 .photo-block-left {
-    float: left;                      /* keeps your original float behaviour */
-    margin-right: 10px;               /* optional spacing */
-    text-align: center;               /* centres caption under the image */
+    float: left;                               /* keeps your original float behaviour */
+    margin-right: 10px;                        /* optional spacing */
+    text-align: center;                        /* centres caption under the image */
 }
 
 .photo-block-right {
-    float: right;                     /* keeps your original float behaviour */
-    margin-right: 10px;               /* optional spacing */
-	margin-left: 10px;                /* optional spacing */
-    text-align: center;               /* centres caption under the image */
+    float: right;                              /* keeps your original float behaviour */
+    margin-right: 10px;                        /* optional spacing */
+	margin-left: 10px;                         /* optional spacing */
+    text-align: center;                        /* centres caption under the image */
 }
 
 .photo-block-center {
-    float: center;                    /* keeps your original float behaviour */
-    margin-right: 10px;               /* optional spacing */
-	margin-left: 10px;                /* optional spacing */
-    text-align: center;               /* centres caption under the image */
+    float: center;                             /* keeps your original float behaviour */
+    margin-right: 10px;                        /* optional spacing */
+	margin-left: 10px;                         /* optional spacing */
+    text-align: center;                        /* centres caption under the image */
 }
 
 .caption {
-    font-size: 10px;                  /* sets font size */
-    line-height: 1.3;                 /* sets line height */
-    margin-top: 5px;                  /* sets top margin */
-    color: #fff;                      /* sets colour */
-    font-family: Verdana, Arial, sans-serif; /* sets font */
+    font-size: 10px;                           /* sets font size */
+    line-height: 1.3;                          /* sets line height */
+    margin-top: 5px;                           /* sets top margin */
+    color: #fff;                               /* sets colour */
+    font-family: Verdana, Arial, sans-serif;   /* sets font */
 }
 
 /* ============================================================
