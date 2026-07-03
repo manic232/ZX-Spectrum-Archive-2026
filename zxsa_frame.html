@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<title>ZX Spectrum Archive - 2026 Reboot</title>
+<body class="frame-body">
+<base target="rbottom">
+<link rel="stylesheet" href="style.css">
+
+<!-- Offline detection: intercept external links when viewed locally -->
+<script>
+window.onload = function() {
+
+    var links = document.getElementsByTagName("a");
+
+    for (var i = 0; i < links.length; i++) {
+
+        // Only intercept external links
+        if (links[i].href.indexOf("http") === 0) {
+
+            links[i].onclick = function(e) {
+
+                var url = this.href;
+
+                // If viewing online (http/https), allow normally
+                if (location.protocol.indexOf("http") === 0) {
+                    return true;
+                }
+
+                // If viewing locally (file://), test internet
+                if (location.protocol === "file:") {
+
+                    if (e) {
+                        if (e.preventDefault) e.preventDefault();
+                        else e.returnValue = false;
+                    }
+
+                    var img = new Image();
+
+                    img.onload = function() {
+                        window.open(url, "_blank");
+                    };
+
+                    img.onerror = function() {
+                        window.open("offline.html", "Offline",
+                            "width=400,height=200,resizable=no");
+                    };
+
+                    img.src = "https://www.google.com/favicon.ico?" + Math.random();
+
+                    return false;
+                }
+
+                return true;
+            };
+        }
+    }
+};
+</script>
+
+</head>
+
+<body class="frame-body">
+
+<!-- Bookmarks Heading -->
+<p><a class="game" href="zxsa.html" target="_top"><span style="font-size: 20px;">Bookmarks</span></a></p>
+
+<!-- Bookmarks -->
+<p><br><a class="game" href="http://github.com/ladyeklipse/all-tipshop-pokes">All Tipshop Pokes</a></p>
+<p><a class="game" href="http://www.crashonline.org.uk/">CRASH Online</a></p>
+<p><a class="game" href="http://www.esp32rainbow.com/games/letter/A?page=1">Play Online</a></p>
+<p><a class="game" href="http://www.retrovirtualmachine.org/">RVM Emulator</a></p>
+<p><a class="game" href="http://www.rebelstar.co.uk/index.html">RebelStar</a></p>
+<p><a class="game" href="http://sinclairlair.co.uk">Sinclair Lair</a></p>
+<p><a class="game" href="https://sinclairuser.com/">Sinclair User</a></p>
+<p><a class="game" href="https://www.speccy.cz/">Speccy CZ</a></p>
+<p><a class="game" href="http://www.spectaculator.com/">Spectaculator Emulator</a></p>
+<p><a class="game" href="https://spectrumcomputing.co.uk/">Spectrum Computing</a></p>
+<p><a class="game" href="https://www.zxgoldenyears.org/">Spectrum Golden Years</a></p>
+<p><a class="game" href="http://www.worldofspectrum.org/hardware/">Spectrum Hardware</a></p>
+<p><a class="game" href="http://www.specnext.com/">Spectrum Next</a></p>
+<p><a class="game" href="https://www.spectrumforeveryone.com/">Spectrum for Everyone</a></p>
+<p><a class="game" href="https://tzxvault.org/">TZX Vault</a></p>
+<p><a class="game" href="http://en.wikipedia.org/wiki/ZX_Spectrum">Wikipedia Page</a></p>
+<p><a class="game" href="https://worldofspectrum.org/">World of Spectrum</a></p>
+<p><a class="game" href="https://www.yoursinclair.co.uk">Your Sinclair</a></p>
+<p><a class="game" href="https://rn10950.github.io/RetroZillaWeb/"><br>RetroZilla Download</a></p>
+<p><a class="game" href="https://github.com/manic232/ZX-Spectrum-Archive-2026">ZXSA GitHub Repo</a></p>
+
+</body>
+
+</html>
