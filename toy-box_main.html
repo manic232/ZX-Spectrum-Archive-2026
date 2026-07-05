@@ -9,11 +9,13 @@
 
 <body>
 
-<!-- Header Images -->
-<img src="zxsa_files/images/rainbow.png" class="header-left">
+<div class="page">
 
-<a id="toyboxLink" href="game-pages/imageviewer.html#../zxsa_files/images/toybox.jpg" onclick="return swapToyboxImage()">
-    <img id="toyboxImage" src="zxsa_files/images/toybox.jpg" class="header-right" alt="toybox.jpg" border="0">
+<!-- Header Images -->
+<img src="zxsa_files/images-main/rainbow.png" class="header-left">
+
+<a id="toyboxLink" href="imageviewer.html#zxsa_files/images-main/toybox.png" onclick="return swapToyboxImage()">
+    <img id="toyboxImage" src="zxsa_files/images-main/toybox.png" class="header-right" alt="toybox.png" border="0">
 </a>
 
 <!-- Heading (clears ONLY the left image) -->
@@ -35,7 +37,7 @@
 <!-- My Memories -->
 <div class="section">
 
-    <img src="zxsa_files/images/horace.gif" class="float-left" alt="horace.gif" title="The path be short, the prize unclear, an Amulet so dark, may yet be here">
+    <img src="zxsa_files/images-main/horace.gif" class="float-left" alt="horace.gif" title="The path be short, the prize unclear, an Amulet so dark, may yet be here">
 
     <h2>My Memories</h2>
 	
@@ -61,8 +63,8 @@
 
 <!-- Created by Michael Winn -->
 <div class="footer">
-    <div><i>Created by Michael Winn</i></div>
-    <div><i>Last Update: Jul 2026</i></div>
+    <div>Created by Michael Winn</div>
+    <div>Last Update: Jul 2026</div>
 </div>
 
 <!-- Image Swap Script -->
@@ -72,20 +74,22 @@ function swapToyboxImage() {
   var img = document.getElementById('toyboxImage');
   var link = document.getElementById('toyboxLink');
 
-  var original = "toybox.jpg";
-  var alternate = "error1.jpg";
+  var original = "toybox.png";
+  var alternate = "r-tape-load-error.png";
 
   if (img.src.indexOf(original) != -1) {
-    img.src = "zxsa_files/images/" + alternate;
-    link.href = "game-pages/imageviewer.html#../zxsa_files/images/" + alternate;
+    img.src = "zxsa_files/images-main/" + alternate;
+    link.href = "imageviewer.html#zxsa_files/images-main/" + alternate;
   } else {
-    img.src = "zxsa_files/images/" + original;
-    link.href = "game-pages/imageviewer.html#../zxsa_files/images/" + original;
+    img.src = "zxsa_files/images-main/" + original;
+    link.href = "imageviewer.html#zxsa_files/images-main/" + original;
   }
 
   return false;
 }
 </script>
+
+</div>
 
 </body>
 

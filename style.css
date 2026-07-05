@@ -7,13 +7,22 @@ body {
     background: #000;                          /* Page background colour */
     color: #fff;                               /* Default text colour across site */
     font-family: Verdana, Arial, sans-serif;   /* Global font stack */
-    margin: 20px;                              /* Outer margin around the whole page */
+	font-size: 15px;                           /* Global default font size */
+    margin: 2px 20px 20px 20px;                /* Outer margin around the whole page */
 }
 
 .redirect-msg {
-    font-family: Verdana, Arial, sans-serif;
-    font-size: 14px;
     font-weight: bold;
+}
+
+.page {
+    max-width: 960px;                          /* Limit the box width so it stays centred and readable */
+    margin: 0 auto;                            /* Centre the box horizontally on the page */
+    padding: 20px;                             /* Add space inside the box around the content */
+    background-color: #111;                    /* Dark grey background for the content box */
+    border: 1px solid #333;                    /* Thin darker border to frame the box */
+    border-radius: 10px;                        /* Slightly rounded corners for a softer look */
+    box-shadow: 0 0 10px #000;                 /* Subtle outer shadow to lift the box off the page */
 }
 
 /* ============================================================
@@ -43,7 +52,7 @@ body {
    ============================================================ */
 h1 {
     clear: left;                               /* Forces <h1> below ONLY the left header image */
-    font-size: 32px;                           /* Main page title size */
+    font-size: 34px;                           /* Main page title size */
     margin-top: 10px;                          /* Space above the main heading */
 	margin-bottom: 35px;                       /* Space below main heading */
 }
@@ -55,8 +64,8 @@ h2 {
 }
 
 h3 {
-    clear: left;                               /* Forces <h1> below ONLY the left header image */
-    font-size: 32px;                           /* Main page title size */
+    clear: left;                               /* Forces <h3> below ONLY the left header image */
+    font-size: 34px;                           /* Main page title size */
     margin-top: 10px;                          /* Space above and below the main heading */
 	margin-bottom: 5px;                        /* Space below h3 and smaller sub heading */
 }
@@ -81,7 +90,6 @@ h4 {
    Controls all <p> text throughout the site.
    ============================================================ */
 p {
-    font-size: 14px;                           /* Standard paragraph text size */
     line-height: 1.4;                          /* Line spacing for readability */
 }
 
@@ -105,8 +113,7 @@ a:hover {
    ============================================================ */
 a.game {
     text-decoration: none;                     /* Removes underline from game links */
-    font-family: Verdana, Arial, sans-serif;   /* Verdana for classic ZXSA look */
-    font-size: 11px;                           /* Font size */
+    font-size: 12px;                           /* Font size */
     font-weight: bold;                         /* Bold game titles */
     color: #FFFFFF;                            /* White text */
 }
@@ -116,9 +123,21 @@ a.game:visited {
 a.game:hover {
     text-decoration: underline;                /* Adds hover effect */
 }
-
 .frame-body {
-    margin: 10px 0 0 10px;                     /* Frame page margins: top, right, bottom, left */
+	scroll-behavior: smooth;
+}
+.frame-body::-webkit-scrollbar {
+    width: 8px;                                /* Scrollbar base */
+}
+.frame-body::-webkit-scrollbar-track {
+    background: #111;                          /* Track (background) */
+}
+.frame-body::-webkit-scrollbar-thumb {
+    background: #444;                          /* Thumb (the draggable bit) */
+    border-radius: 6px;
+}
+.frame-body::-webkit-scrollbar-thumb:hover {
+    background: #666;                          /* Thumb hover */
 }
 
 /* ============================================================
@@ -177,9 +196,9 @@ a.game:hover {
    ============================================================ */
 .footer {
     text-align: right;                         /* Aligns footer text to the right edge */
-    font-size: 10px;                           /* Footer text size */
-    margin-top: 40px;                          /* Space above the footer area */
-    opacity: 0.8;                              /* Slight transparency for subtle look */
+    font-size: 12px;                           /* Footer text size */
+    margin-top: 80px;                          /* Space above the footer area */
+    opacity: 1.0;                              /* Optional transparency, set to 1.0 for none */
 }
 
 /* ============================================================
@@ -190,9 +209,7 @@ a.game:hover {
     margin: 0;
     padding: 0;
 	margin-top: 30px;                          /* adjust to taste */
-    font-size: 12px;                           /* replaces size="2" */
 	font-weight: bold;                         /* Bold game titles */
-    font-family: Verdana, Arial, sans-serif;
 }
 
 /* ============================================================
@@ -200,7 +217,6 @@ a.game:hover {
    Styles the captions under photos.
    Use photo-block for left justification
    Use photo-block-right for right justification
-   Use photo-block-center for center justification
    ============================================================ */
 .photo-block-left {
     float: left;                               /* keeps your original float behaviour */
@@ -212,14 +228,8 @@ a.game:hover {
     float: right;                              /* keeps your original float behaviour */
     margin-right: 10px;                        /* optional spacing */
 	margin-left: 10px;                         /* optional spacing */
-    text-align: center;                        /* centres caption under the image */
-}
-
-.photo-block-center {
-    float: center;                             /* keeps your original float behaviour */
-    margin-right: 10px;                        /* optional spacing */
-	margin-left: 10px;                         /* optional spacing */
-    text-align: center;                        /* centres caption under the image */
+    text-align: center;                        /* Sets left margin */
+                                               /* centres caption under the image */
 }
 
 .caption {
@@ -227,7 +237,6 @@ a.game:hover {
     line-height: 1.3;                          /* sets line height */
     margin-top: 5px;                           /* sets top margin */
     color: #fff;                               /* sets colour */
-    font-family: Verdana, Arial, sans-serif;   /* sets font */
 }
 
 /* ============================================================
@@ -238,8 +247,6 @@ a.game:hover {
 .section ul {
     list-style-type: none;
     padding-left: 0;
-    font-family: Verdana, Arial, sans-serif;
-    font-size: 14px;
 }
 .section ul.bold-list li {
     font-weight: bold;
