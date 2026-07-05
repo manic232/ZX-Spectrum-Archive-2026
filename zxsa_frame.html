@@ -4,7 +4,6 @@
 <head>
 <title>ZX Spectrum Archive - 2026 Reboot</title>
 <body class="frame-body">
-<base target="rbottom">
 <link rel="stylesheet" href="style.css">
 
 <!-- Offline detection: intercept external links when viewed locally -->
@@ -43,7 +42,7 @@ window.onload = function() {
 
                     img.onerror = function() {
                         window.open("offline.html", "Offline",
-                            "width=400,height=200,resizable=no");
+                            "width=850,height=375,left=100,top=100");
                     };
 
                     img.src = "https://www.google.com/favicon.ico?" + Math.random();
