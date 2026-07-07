@@ -1,255 +1,275 @@
-/* ============================================================
+/* ======================================================================
    GLOBAL OPTIONS
    These rules apply to the entire HTML document unless overridden.
-   ============================================================ */
+   ====================================================================== */
 body {
-    background: #000;              /* Sets the entire page background to black */
-    color: #fff;                   /* Sets default text colour to white for all elements */
-    font-family: Verdana, Arial, sans-serif; /* Sets the global font stack */
-    font-size: 15px;               /* Sets the default font size for all text */
-    margin: 2px 20px 20px 20px;    /* Adds outer spacing around the whole page */
+    background: #000;              /* Sets the entire site background colour */
+    color: #fff;                   /* Sets default text colour */
+    font-family: Verdana, Arial, sans-serif; /* Sets the global font */
+    font-size: 15px;               /* Sets the font size for all text, unless overruled below */
+    margin: 2px 20px 20px 20px;    /* Adds spacing around whole site - top, left, bottom, right */
 }
-
 .redirect-msg {
-    font-weight: bold;             /* Makes redirect messages bold */
+    font-weight: bold;             /* Sets font weight for redirect messages in index.html */
 }
-
 .page {
-    max-width: 960px;              /* Limits content width for readability */
+    max-width: 960px;              /* Limits page content width */
     margin: 0 auto;                /* Horizontally centres the content box */
     padding: 20px;                 /* Adds inner spacing inside the content box */
-    background-color: #111;        /* Dark grey background for the content box */
-    border: 1px solid #333;        /* Thin border around the content box */
-    border-radius: 10px;           /* Slightly rounded corners */
-    box-shadow: 0 0 10px #000;     /* Subtle shadow to lift the box visually */
+    background-color: #111;        /* Sets background colour for the content box */
+    border: 1px solid #333;        /* Creates border and sets colour around content box */
+    border-radius: 10px;           /* Slightly rounded corners around content box */
+    box-shadow: 0 0 10px #000;     /* Creates subtle shadow to lift the content box visually */
+	overflow: auto                  /* THIS makes .page wrap around floats */
 }
-
-/* ============================================================
-   HEADER IMAGES
-   These float at the top of each page.
-   ============================================================ */
+/* ======================================================================
+   MAIN SITE & FURTHER READING HEADER IMAGES
+   Left and right image at the top of main, and further reading pages.
+   ====================================================================== */
 .header-left {
     float: left;                   /* Positions the image on the left side */
-    margin-right: 10px;            /* Space between image and heading */
+    margin-right: 10px;            /* Vertical gap between image and heading */
     margin-bottom: 50px;           /* Vertical gap below the image */
 }
-
 .header-right {
     float: right;                  /* Positions the image on the right side */
-    margin-left: 10px;             /* Space between image and text */
+    margin-left: 10px;             /* Space between left side of image and text */
     margin-bottom: 10px;           /* Vertical gap below the image */
 }
-
-/* ============================================================
+/* ======================================================================
+   HEADER IMAGES & GAME TITLE FOR GAME REVIEW PAGES ONLY
+   The tape image & text, instructions image & text, box art and title.
+   ====================================================================== */
+.game-header-left {
+    float: left;                    /* Positions tape and instructions on the left side */
+    text-align: center;             /* Centres images and text inside this block */
+}
+.game-header-right {
+    float: right;                   /* Positions box art on the right side */
+    margin-left: 20px;              /* Gap between image and text */
+    margin-bottom: 10px;            /* Gap below the image */
+	height: 350px;                  /* Box art height */
+	border: 0px solid #fff;			/* Optional border round box art */
+}
+.game-header-right-load {
+    float: right;                   /* Positions load page box art on the right side */
+	height: 350px;                  /* Load page box art height */
+	border: 0px solid #fff;			/* Optional border round load page box art */
+}
+/* TAPE IMAGE */
+.game-header-left .tape-img {
+    display: block;                 /* Makes the tape image behave like a block element */
+    margin-bottom: 6px;             /* Adjustable gap between tape image and title */
+}
+.game-header-left .tape-label {
+    font-size: 12px;                /* Font size of tape image text */
+    display: block;                 /* Forces the text onto its own line */
+    margin-bottom: 20px;            /* Adjustable gap between tape image label and instructions images */
+}
+.game-header-left .tape-label::after {
+    content: 'Load Game';           /* Sets the label for the tape image */
+}
+/* INSTRUCTIONS IMAGE */
+.game-header-left .instructions-img {
+    display: block;                 /* Makes the instructions image behave like a block element */
+    margin-bottom: 4px;             /* Adjustable gap between instructions image and title */
+}
+.game-header-left .instructions-label {
+    font-size: 12px;                /* Font size of instructions image text */
+    display: block;                 /* Forces the text onto its own line */
+    margin-bottom: 50px;            /* Adjustable gap below Instructions label and intro section under it */
+}
+.game-header-left .instructions-label::after {
+    content: 'Instructions';        /* Sets the label for the instructions image */
+}
+/* GAME TITLE & HEADER INFO TABLE */
+.game-title {
+    display: inline-block;			/* De-fuckupifier for heading! */
+    margin-top: 0;					/* Margin above the title */
+    margin-bottom: 20px;			/* Margin below the title */
+	padding-left: 54px;             /* Left/right position of game title */
+}
+.game-title-load {
+    display: inline-block;			/* De-fuckupifier for load page heading! */
+    margin-top: 0;					/* Margin above the title */
+    margin-bottom: 20px;			/* Margin below the title */
+}
+.info-header {
+	padding-left: 50px;             /* Left/right position of header info table */
+}
+/* ======================================================================
    HEADINGS
    Controls spacing and size of all heading levels.
-   ============================================================ */
+   h1 and h2 for normal use
+   h3 and h4 for headings with sub heading directly underneath.
+   ====================================================================== */
 h1 {
     clear: left;                   /* Forces h1 below the left-floating header image */
-    font-size: 34px;               /* Large main title */
-    margin-top: 10px;              /* Space above the h1 */
-    margin-bottom: 35px;           /* Space below the h1 */
+    font-size: 34px;               /* Font size for all main headings */
+    margin-top: 10px;              /* Space above h1 */
+    margin-bottom: 35px;           /* Space below h1 */
 }
-
 h2 {
-    font-size: 18px;               /* Section subheading size */
+    font-size: 18px;               /* Section subheading font size */
     margin-top: 0;                 /* Keeps h2 tight to the GIF above it */
     margin-bottom: 10px;           /* Space below h2 */
 }
-
 h3 {
     clear: left;                   /* Same float-clearing behaviour as h1 */
     font-size: 34px;               /* Same size as h1 (intentional) */
     margin-top: 10px;              /* Space above h3 */
     margin-bottom: 5px;            /* Smaller gap below h3 */
 }
-
 h4 {
     font-size: 18px;               /* Same size as h2 */
     margin-top: 0;                 /* Tight to GIF above */
     margin-bottom: 38px;           /* Larger gap below h4 */
 }
-
-/* ============================================================
+/* ======================================================================
    INTRO PARAGRAPH
    Boldens only the intro section paragraphs.
-   ============================================================ */
+   ====================================================================== */
 .intro p {
-    font-weight: bold;             /* Makes intro text bold */
+    font-weight: bold;             /* Makes intro section bold */
 }
-
-/* ============================================================
+/* ======================================================================
    PARAGRAPHS (normal pages)
-   ============================================================ */
+   ====================================================================== */
 p {
     line-height: 1.4;              /* Comfortable spacing for main content */
 }
-
-/* ============================================================
+/* ======================================================================
    LINKS
    Applies to all standard hyperlinks.
-   ============================================================ */
+   ====================================================================== */
 a:link,
 a:visited {
     color: #fff;                   /* White links */
     text-decoration: none;         /* Removes underline */
     font-weight: bold;             /* Bold links */
 }
-
 a:hover {
     text-decoration: underline;    /* Underline on hover */
 }
-
-/* ============================================================
-   GAME LIST LINKS (frames)
-   These appear inside the left-hand game list frame.
-   ============================================================ */
 a.game {
-    text-decoration: none;         /* Removes underline */
-    font-size: 12px;               /* Small font size for game list */
-    font-weight: bold;             /* Bold game names */
-    color: #fff;                   /* White text */
+    font-size: 12px;               /* Sets size of fonts in left frames */
 }
-
-a.game:visited {
-    text-decoration: none;         /* Prevents underline in old browsers */
+.link-list a {
+    margin-right: 4px;             /* Space between inline links */
 }
-
-a.game:hover {
-    text-decoration: underline;    /* Hover underline */
-}
-
-/* ============================================================
-   FRAME BODY (scroll + spacing)
-   These rules apply ONLY inside framed pages.
-   ============================================================ */
+/* ======================================================================
+   FRAME BODY DARK THEME
+   Dark theme for frame scroll bars
+   ====================================================================== */
 .frame-body,
 .frame-body p,
 .frame-body li {
     line-height: 1.0;              /* Tight line spacing inside frames only */
 }
-
 .frame-body {
     scroll-behavior: smooth;       /* Smooth scrolling inside frames */
 }
-
-/* Custom scrollbars (WebKit only) */
+/* Custom scrollbars (WebKit only — Chrome, Edge, Brave, Opera) */
+/* Scrollbar container (track area) */
 .frame-body::-webkit-scrollbar {
     width: 8px;                    /* Scrollbar width */
+    background-color: #000;        /* Black track so it blends into the page */
 }
-
-.frame-body::-webkit-scrollbar-track {
-    background: #111;              /* Track background */
-}
-
+/* Scrollbar thumb (the draggable part) */
 .frame-body::-webkit-scrollbar-thumb {
-    background: #444;              /* Scrollbar thumb colour */
-    border-radius: 6px;            /* Rounded thumb */
+    background-color: #000;        /* Black thumb so it is invisible when not hovered */
 }
-
+/* Reveal scrollbar track when the user hovers the frame */
+.frame-body:hover::-webkit-scrollbar {
+    background-color: #111;        /* Track background on hover */
+}
+/* Reveal scrollbar thumb when the user hovers the frame */
+.frame-body:hover::-webkit-scrollbar-thumb {
+    background-color: #444;        /* Thumb colour on hover */
+}
+/* Thumb hover effect (applies once visible) */
 .frame-body::-webkit-scrollbar-thumb:hover {
-    background: #666;              /* Hover colour */
+    background: #666;              /* Lighter thumb when hovered */
 }
-
-/* ============================================================
-   HORIZONTAL LINK SPACING
-   Used in LOAD "Further Reading" sections.
-   ============================================================ */
-.link-list a {
-    margin-right: 5px;             /* Space between inline links */
-}
-
-/* ============================================================
+/* ======================================================================
    FLOATING IMAGES
-   Used for GIF Elders and photos.
-   ============================================================ */
+   Used for GIF Elders and screenshots/photos etc.
+   ====================================================================== */
 .float-left {
     float: left;                   /* Floats image left */
-    margin-right: 20px;            /* Space between image and text */
+    margin-right: 15px;            /* Space between image and text */
     margin-bottom: 10px;           /* Space below image */
     border: 0px solid transparent; /* Stabilises layout */
-    padding-top: 6px;              /* Aligns image with heading */
+    padding-top: 0px;              /* space above the image */
 }
-
 .float-right {
     float: right;                  /* Floats image right */
     margin-left: 10px;             /* Space between image and text */
-    margin-right: 0px;             /* No right margin */
-    margin-bottom: 0px;            /* No bottom margin */
     border: 0px solid transparent; /* Stabilises layout */
-    padding-top: 0px;              /* Aligns image with heading */
+    padding-top: 0px;              /* space above the image */
 }
-
-/* ============================================================
+/* ======================================================================
    SECTION WRAPPERS
    Adds spacing between sections.
-   ============================================================ */
+   ====================================================================== */
 .section + .section {
     margin-top: 40px;              /* Gap above each new section */
 }
-
-/* ============================================================
+/* ======================================================================
    UTILITIES
-   ============================================================ */
+   ====================================================================== */
 .clear {
     clear: both;                   /* Forces next element below floats */
 }
-
-/* ============================================================
+/* ======================================================================
    FOOTER
-   ============================================================ */
+   ====================================================================== */
 .footer {
     text-align: right;             /* Aligns footer text right */
-    font-size: 12px;               /* Small footer text */
+    font-size: 12px;               /* Footer text size */
     margin-top: 80px;              /* Space above footer */
-    opacity: 1.0;                  /* No transparency */
+    opacity: 1.0;                  /* Optional transparency, 1.0 is none */
 }
-
-/* ============================================================
+/* ======================================================================
    BACK LINK
-   ============================================================ */
+   ====================================================================== */
 .back-link {
     margin: 0;                     /* Removes default margins */
     padding: 0;                    /* Removes default padding */
     margin-top: 30px;              /* Space above back link */
     font-weight: bold;             /* Bold text */
 }
-
-/* ============================================================
-   PHOTO CAPTIONS
-   ============================================================ */
+.back-link a::after {
+    content: "Return";             /* Changes label for back link on some pages */
+}
+/* ======================================================================
+   IMAGES WITH CAPTIONS
+   ====================================================================== */
 .photo-block-left {
     float: left;                   /* Floats photo left */
     margin-right: 10px;            /* Space between photo and text */
-    text-align: center;            /* Centres caption */
+    text-align: left;              /* Text alignment */
 }
-
 .photo-block-right {
     float: right;                  /* Floats photo right */
-    margin-right: 10px;            /* Right margin */
     margin-left: 10px;             /* Left margin */
-    text-align: center;            /* Centres caption */
+    text-align: right;             /* Text alignment */
 }
-
 .caption {
-    font-size: 10px;               /* Small caption text */
+    font-size: 10px;               /* Caption text size */
     line-height: 1.3;              /* Caption spacing */
     margin-top: 5px;               /* Space above caption */
-    color: #fff;                   /* White caption text */
 }
-
-/* ============================================================
+/* ======================================================================
    LIST STYLES
-   ============================================================ */
+   ====================================================================== */
 .section ul {
     list-style-type: none;         /* Removes default bullets */
     padding-left: 0;               /* Removes default indent */
 }
-
 .section ul.bold-list li {
     font-weight: bold;             /* Bold list items */
 }
-
 .section li::before {
     content: "• ";                 /* Inserts custom bullet */
 }
