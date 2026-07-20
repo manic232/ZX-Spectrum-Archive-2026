@@ -56,6 +56,13 @@ body {
 	height: 350px;                  /* Load page box art height */
 	border: 0px solid #fff;			/* Optional border round load page box art */
 }
+.game-header-right-smaller {
+    float: right;                   /* Positions box art on the right side */
+    margin-left: 20px;              /* Gap between image and text */
+    margin-bottom: 10px;            /* Gap below the image */
+	height: 250px;                  /* Use for games without box art that use load screen */
+	border: 0px solid #fff;			/* Optional border round box art */
+}
 /* TAPE IMAGE */
 .game-header-left .tape-img {
     display: block;                 /* Makes the tape image behave like a block element */
@@ -105,7 +112,7 @@ body {
    ====================================================================== */
 h1 {
     clear: left;                   /* Forces h1 below the left-floating header image */
-    font-size: 34px;               /* Font size for all main headings */
+    font-size: 26px;               /* Font size for all main headings */
     margin-top: 10px;              /* Space above h1 */
     margin-bottom: 35px;           /* Space below h1 */
 }
@@ -210,10 +217,41 @@ a.game {
 }
 /* ======================================================================
    SECTION WRAPPERS
-   Adds spacing between sections.
+   Adds spacing between sections and draws a divider between them.
+   To change gap between sections you need to adjust
+   margin-top (both) and top: calc to the same number.
+   To remove, keep margin-top: ??px; and remove everything else.
+   Section2 is for pages where you don't want the divider.
    ====================================================================== */
 .section + .section {
-    margin-top: 40px;              /* Gap above each new section */
+    margin-top: 50px;              /* Gap above each new section */
+    position: relative;            /* Allows the fade line to be positioned inside this gap */
+}
+/* This draws the fade line BETWEEN sections, centred horizontally.
+   The line sits halfway inside the margin gap above. */
+.section + .section::before {
+    content: "";                   /* Creates the divider element */
+    position: absolute;            /* Positions it relative to the section gap */
+    top: calc(-50px / 2);          /* Places the line exactly in the middle of the gap */
+    height: 2px;                   /* Thickness of the divider */
+
+    width: 60%;                    /* Divider length (adjust as needed) */
+    margin: 0 auto;                /* Centres the divider horizontally */
+
+    left: 0;                       /* Ensures centring works inside the section width */
+    right: 0;
+
+/* Fading line effect: transparent → light grey → transparent */
+    background: linear-gradient(
+        to right,
+        transparent,
+        #e0e0e0,
+        transparent
+    );
+}
+/* For pages with no divider required */
+.section2 + .section2 {
+    margin-top: 50px;              /* Gap above each new section */
 }
 /* ======================================================================
    UTILITIES
@@ -256,20 +294,39 @@ a.game {
     text-align: right;             /* Text alignment */
 }
 .caption {
-    font-size: 10px;               /* Caption text size */
+    font-size: 12px;               /* Caption text size */
     line-height: 1.3;              /* Caption spacing */
     margin-top: 5px;               /* Space above caption */
+	margin-bottom: 5px;            /* Space below caption */
 }
 /* ======================================================================
    LIST STYLES
    ====================================================================== */
 .section ul {
-    list-style-type: none;         /* Removes default bullets */
+    list-style: none;              /* Removes default bullets */
     padding-left: 0;               /* Removes default indent */
 }
-.section ul.bold-list li {
-    font-weight: bold;             /* Bold list items */
+
+.section li {
+    position: relative;            /* allows absolute bullet positioning */
+    padding-left: 1.2em;           /* indent text so wrapped lines align */
 }
+
 .section li::before {
-    content: "• ";                 /* Inserts custom bullet */
+    content: "•";                  /* Inserts custom bullet */
+    position: absolute;            /* bullet should not push the text around */
+    left: 0;                       /* bullet sits at the left edge */
+	top: 0;                        /* bullet sits at the top edge */
+}
+/* ======================================================================
+   Side Panel
+   ====================================================================== */
+.side-panel {
+	font-size: 11px;				/* Font size for side panel */
+    float: right;					/* Float right */
+    width: 250px;					/* Width of the side panel */
+    padding: 15px;					/* Space round the inside of panel */
+    background: #222;				/* Background colour */
+    border-radius: 6px;				/* Corner radius */
+    margin: 0 0 15px 15px;			/* Space between page text and panel */
 }
