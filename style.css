@@ -2,6 +2,10 @@
    GLOBAL OPTIONS
    These rules apply to the entire HTML document unless overridden.
    ====================================================================== */
+html {
+    color-scheme: light dark;
+	-webkit-font-smoothing: antialiased;
+}
 body {
     background: #000;              /* Sets the entire site background colour */
     color: #fff;                   /* Sets default text colour */
@@ -165,40 +169,6 @@ a.game {
     margin-right: 4px;             /* Space between inline links */
 }
 /* ======================================================================
-   FRAME BODY DARK THEME
-   Dark theme for frame scroll bars
-   ====================================================================== */
-.frame-body,
-.frame-body p,
-.frame-body li {
-    line-height: 1.0;              /* Tight line spacing inside frames only */
-}
-.frame-body {
-    scroll-behavior: smooth;       /* Smooth scrolling inside frames */
-}
-/* Custom scrollbars (WebKit only — Chrome, Edge, Brave, Opera) */
-/* Scrollbar container (track area) */
-.frame-body::-webkit-scrollbar {
-    width: 8px;                    /* Scrollbar width */
-    background-color: #000;        /* Black track so it blends into the page */
-}
-/* Scrollbar thumb (the draggable part) */
-.frame-body::-webkit-scrollbar-thumb {
-    background-color: #000;        /* Black thumb so it is invisible when not hovered */
-}
-/* Reveal scrollbar track when the user hovers the frame */
-.frame-body:hover::-webkit-scrollbar {
-    background-color: #111;        /* Track background on hover */
-}
-/* Reveal scrollbar thumb when the user hovers the frame */
-.frame-body:hover::-webkit-scrollbar-thumb {
-    background-color: #444;        /* Thumb colour on hover */
-}
-/* Thumb hover effect (applies once visible) */
-.frame-body::-webkit-scrollbar-thumb:hover {
-    background: #666;              /* Lighter thumb when hovered */
-}
-/* ======================================================================
    FLOATING IMAGES
    Used for GIF Elders and screenshots/photos etc.
    ====================================================================== */
@@ -319,7 +289,7 @@ a.game {
 	top: 0;                        /* bullet sits at the top edge */
 }
 /* ======================================================================
-   Side Panel
+   SIDE PANEL - NOT CURRENTLY IN USE
    ====================================================================== */
 .side-panel {
 	font-size: 11px;				/* Font size for side panel */
