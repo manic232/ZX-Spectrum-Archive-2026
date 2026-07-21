@@ -126,12 +126,12 @@ h2 {
 }
 h3 {
     clear: left;                   /* Same float-clearing behaviour as h1 */
-    font-size: 34px;               /* Same size as h1 (intentional) */
+    font-size: 26px;               /* Same size as h1 (intentional) */
     margin-top: 10px;              /* Space above h3 */
     margin-bottom: 5px;            /* Smaller gap below h3 */
 }
 h4 {
-    font-size: 18px;               /* Same size as h2 */
+    font-size: 14px;               /* Same size as h2 */
     margin-top: 0;                 /* Tight to GIF above */
     margin-bottom: 38px;           /* Larger gap below h4 */
 }
