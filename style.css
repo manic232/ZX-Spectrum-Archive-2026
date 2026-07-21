@@ -4,7 +4,6 @@
    ====================================================================== */
 html {
     color-scheme: light dark;
-	-webkit-font-smoothing: antialiased;
 }
 body {
     background: #000;              /* Sets the entire site background colour */
