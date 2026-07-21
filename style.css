@@ -88,7 +88,7 @@ body {
 .game-header-left .instructions-label {
     font-size: 12px;                /* Font size of instructions image text */
     display: block;                 /* Forces the text onto its own line */
-    margin-bottom: 50px;            /* Adjustable gap below Instructions label and intro section under it */
+    margin-bottom: 30px;            /* Adjustable gap below Instructions label and intro section under it */
 }
 .game-header-left .instructions-label::after {
     content: 'Instructions';        /* Sets the label for the instructions image */
@@ -98,7 +98,7 @@ body {
     display: inline-block;			/* De-fuckupifier for heading! */
     margin-top: 0;					/* Margin above the title */
     margin-bottom: 20px;			/* Margin below the title */
-	padding-left: 54px;             /* Left/right position of game title */
+	padding-left: 61px;             /* Left/right position of game title */
 }
 .game-title-load {
     display: inline-block;			/* De-fuckupifier for load page heading! */
@@ -106,7 +106,7 @@ body {
     margin-bottom: 20px;			/* Margin below the title */
 }
 .info-header {
-	padding-left: 50px;             /* Left/right position of header info table */
+	padding-left: 57px;             /* Left/right position of header info table */
 }
 /* ======================================================================
    HEADINGS
@@ -147,7 +147,7 @@ h4 {
    PARAGRAPHS (normal pages)
    ====================================================================== */
 p {
-    line-height: 1.4;              /* Comfortable spacing for main content */
+    line-height: 21px;              /* Comfortable spacing for main content */
 }
 /* ======================================================================
    LINKS
@@ -167,6 +167,15 @@ a.game {
 }
 .link-list a {
     margin-right: 4px;             /* Space between inline links */
+}
+/* ======================================================================
+   FRAME LINE HEIGHT
+   Adjust line spacing inside frames
+   ====================================================================== */
+.frame-body,
+.frame-body p,
+.frame-body li {
+    line-height: 18px;              /* Line spacing inside frames */
 }
 /* ======================================================================
    FLOATING IMAGES
@@ -265,7 +274,7 @@ a.game {
 }
 .caption {
     font-size: 12px;               /* Caption text size */
-    line-height: 1.3;              /* Caption spacing */
+    line-height: 18px;              /* Caption spacing */
     margin-top: 5px;               /* Space above caption */
 	margin-bottom: 5px;            /* Space below caption */
 }
