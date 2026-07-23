@@ -70,6 +70,7 @@ body {
 .game-header-left .tape-img {
     display: block;                 /* Makes the tape image behave like a block element */
     margin-bottom: 6px;             /* Adjustable gap between tape image and title */
+	border: 0px;                    /* prevents white border on older browsers */
 }
 .game-header-left .tape-label {
     font-size: 12px;                /* Font size of tape image text */
@@ -83,6 +84,7 @@ body {
 .game-header-left .instructions-img {
     display: block;                 /* Makes the instructions image behave like a block element */
     margin-bottom: 4px;             /* Adjustable gap between instructions image and title */
+	border: 0px;                    /* prevents white border on older browsers */
 }
 .game-header-left .instructions-label {
     font-size: 12px;                /* Font size of instructions image text */
