@@ -309,10 +309,7 @@ body.zxsa-layout {
 /* Outer wrapper: fixed-width block, centred, full height */
 .zxsa-wrapper {
     width: 1254px;						/* Total width: 230px left + 1024px main */
-	height: 100svh;          /* modern mobile browsers */
-	height: 100dvh;          /* dynamic viewport height */
-	height: 100vh;           /* fallback */
-
+    height: 100vh;						/* Full viewport height */
     margin: 0 auto;						/* Centre horizontally */
     display: flex;						/* Left + main area side-by-side */
     flex-direction: row;				/* Horizontal layout */
@@ -321,20 +318,14 @@ body.zxsa-layout {
 /* Left navigation iframe */
 .zxsa-left {
     width: 230px;						/* Fixed width for left navigation */
-	height: 100svh;          /* modern mobile browsers */
-	height: 100dvh;          /* dynamic viewport height */
-	height: 100vh;           /* fallback */
-
+    height: 100vh;						/* Full height */
     border: none;						/* Remove iframe border */
     overflow: hidden;					/* Prevent scrollbars inside left frame */
 }
 /* Main area: top + bottom stacked */
 .zxsa-main {
     width: 1024px;						/* Fixed width for main content area */
-	height: 100svh;          /* modern mobile browsers */
-	height: 100dvh;          /* dynamic viewport height */
-	height: 100vh;           /* fallback */
-
+    height: 100vh;						/* Full height */
     display: flex;						/* Stack top + bottom vertically */
     flex-direction: column;
     overflow: hidden;					/* Prevent scrollbars on container */
