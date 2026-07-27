@@ -259,5 +259,3 @@ Manual Text by Nik Wild
 Printed by Hesketh Data
 
 COPYRIGHT (C) 1991 by PSYGNOSIS LTD.
-
-

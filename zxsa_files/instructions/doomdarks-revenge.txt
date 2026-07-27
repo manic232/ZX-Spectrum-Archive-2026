@@ -1027,26 +1027,3 @@ NOTES
 When you are playing Doomdark on an emulator it helps if you set
 it to a high speed setting to speed up the drawing of landscapes
 and especially to make the nights shorter.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

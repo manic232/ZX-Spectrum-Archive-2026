@@ -241,4 +241,3 @@ Press 'CAPS' & 'SPACE' to abort a game.
 Use joystick or keyboard control. Pull joystick down to SELECT.
 
 Keys (redefinable): Q - Up, A - Down, O - Left, P - Right, M - Fire
-

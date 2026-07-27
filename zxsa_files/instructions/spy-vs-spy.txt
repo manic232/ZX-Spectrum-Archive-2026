@@ -388,4 +388,3 @@ RANKING:
 At the conclusion of each game, players will be awarded the title or
 rank they have earned. Bonus points and time penalties are 
 calculated by the computer.
-
