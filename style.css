@@ -299,25 +299,12 @@ a.game {
 	top: 0;								/* bullet sits at the top edge */
 }
 /* ======================================================================
-   SIDE PANEL - NOT CURRENTLY IN USE
-   ====================================================================== */
-.side-panel {
-	font-size: 11px;					/* Font size for side panel */
-    float: right;						/* Float right */
-    width: 250px;						/* Width of the side panel */
-    padding: 15px;						/* Space round the inside of panel */
-    background: #222;					/* Background colour */
-    border-radius: 6px;					/* Corner radius */
-    margin: 0 0 15px 15px;				/* Space between page text and panel */
-}
-/* ======================================================================
    ZXSA MODERN LAYOUT (REPLACES FRAMESET)
    ====================================================================== */
 /* Remove body margins ONLY on the new layout page */
 body.zxsa-layout {
     margin: 0;							/* Remove browser default margins */
     padding: 0;							/* Remove browser default padding */
-    background: #000;					/* Retro black background for the whole layout */
 }
 /* Outer wrapper: fixed-width block, centred, full height */
 .zxsa-wrapper {
@@ -326,7 +313,6 @@ body.zxsa-layout {
     margin: 0 auto;						/* Centre horizontally */
     display: flex;						/* Left + main area side-by-side */
     flex-direction: row;				/* Horizontal layout */
-    background: #000;					/* Black background behind frames */
     overflow: hidden;					/* Prevent scrollbars on wrapper */
 }
 /* Left navigation iframe */
@@ -384,7 +370,6 @@ body.zxsa-topframe {
     margin: 0 !important;				/* Remove global body margins */
     padding: 0 !important;				/* Remove global body padding */
     overflow: hidden !important;		/* Prevent scrollbars */
-    background: #000;					/* Match site background */
 }
 /* Remove margins/padding from everything inside the top frame */
 body.zxsa-topframe * {
