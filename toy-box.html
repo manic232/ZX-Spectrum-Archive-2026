@@ -5,15 +5,24 @@
 <meta charset="UTF-8">
 <title>The Toy Box</title>
 <link rel="icon" type="image/x-icon" href="favicon.ico">
+<link rel="stylesheet" href="style.css">
 </head>
 
-<frameset cols="230,*" framespacing="0" border="0" frameborder="0">
-  <frame name="left" src="toy-box_frame.html" scrolling="auto">
+<body class="zxsa-layout">
 
-  <frameset rows="50,*" framespacing="0" border="0" frameborder="0">
-    <frame name="rtop" src="zxsa_frame_top.html" scrolling="no">
-    <frame name="rbottom" src="toy-box_main.html" scrolling="auto">
-  </frameset>
-</frameset>
+<div class="zxsa-wrapper">
+
+    <!-- Left navigation -->
+    <iframe class="zxsa-left" src="toy-box_frame.html"></iframe>
+
+    <!-- Main content area -->
+    <div class="zxsa-main">
+        <iframe class="zxsa-top" src="zxsa_frame_top.html"></iframe>
+        <iframe class="zxsa-bottom" name="rbottom" src="toy-box_main.html"></iframe>
+    </div>
+
+</div>
+
+</body>
 
 </html>

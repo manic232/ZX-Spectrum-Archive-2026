@@ -5,25 +5,24 @@
 <meta charset="UTF-8">
 <title>ZX Spectrum Archive - 2026 Reboot</title>
 <link rel="icon" type="image/x-icon" href="favicon.ico">
-
-<script>
-var ua = navigator.userAgent;
-
-// IE4/5/6/7/8 all contain "MSIE"
-if (ua.indexOf("MSIE") != -1) {
-    alert("This site doesn’t display images correctly in Internet Explorer.");
-}
-</script>
-
+<link rel="stylesheet" href="style.css">
 </head>
 
-<frameset cols="230,*" framespacing="0" border="0" frameborder="0">
-  <frame name="left" src="zxsa_frame.html" scrolling="auto">
+<body class="zxsa-layout">
 
-  <frameset rows="50,*" framespacing="0" border="0" frameborder="0">
-    <frame name="rtop" src="zxsa_frame_top.html" scrolling="no">
-    <frame name="rbottom" src="zxsa_main.html" scrolling="auto">
-  </frameset>
-</frameset>
+<div class="zxsa-wrapper">
+
+    <!-- Left navigation -->
+    <iframe class="zxsa-left" src="zxsa_frame.html"></iframe>
+
+    <!-- Main content area -->
+    <div class="zxsa-main">
+        <iframe class="zxsa-top" src="zxsa_frame_top.html"></iframe>
+        <iframe class="zxsa-bottom" name="rbottom" src="zxsa_main.html"></iframe>
+    </div>
+
+</div>
+
+</body>
 
 </html>
