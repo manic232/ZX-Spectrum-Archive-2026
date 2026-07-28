@@ -23,7 +23,7 @@ body {
     border: 1px solid #333;				/* Creates border and sets colour around content box */
     border-radius: 10px;				/* Slightly rounded corners around content box */
     box-shadow: 0 0 10px #000;			/* Creates subtle shadow to lift the content box visually */
-	overflow: auto						/* THIS makes .page wrap around floats */
+	overflow: auto;						/* THIS makes .page wrap around floats */
 }
 /* ======================================================================
    MAIN SITE & FURTHER READING HEADER IMAGES
