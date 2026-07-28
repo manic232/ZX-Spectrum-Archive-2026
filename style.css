@@ -164,7 +164,7 @@ a:hover {
     text-decoration: underline;			/* Underline on hover */
 }
 a.game {
-    font-size: 12px;					/* Sets size of fonts in left frames */
+    font-size: 12px;					/* Sets size of fonts in iframes */
 }
 .link-list a {
     margin-right: 4px;					/* Space between inline links */
@@ -214,13 +214,10 @@ a.game {
     position: absolute;					/* Positions it relative to the section gap */
     top: calc(-50px / 2);				/* Places the line exactly in the middle of the gap */
     height: 2px;						/* Thickness of the divider */
-
     width: 60%;							/* Divider length (adjust as needed) */
     margin: 0 auto;						/* Centres the divider horizontally */
-
     left: 0;							/* Ensures centring works inside the section width */
     right: 0;
-
 /* Fading line effect: transparent → light grey → transparent */
     background: linear-gradient(
         to right,
@@ -286,12 +283,10 @@ a.game {
     list-style: none;					/* Removes default bullets */
     padding-left: 0;					/* Removes default indent */
 }
-
 .section li {
     position: relative;					/* allows absolute bullet positioning */
     padding-left: 1.2em;				/* indent text so wrapped lines align */
 }
-
 .section li::before {
     content: "•";						/* Inserts custom bullet */
     position: absolute;					/* bullet should not push the text around */
@@ -312,15 +307,15 @@ body.zxsa-layout {
     height: 100vh;						/* Full viewport height */
     margin: 0 auto;						/* Centre horizontally */
     display: flex;						/* Left + main area side-by-side */
-    flex-direction: row;				/* Horizontal layout */
+    flex-direction: row-reverse;		/* row-reverse: iframe right, row: iframe left */
     overflow: hidden;					/* Prevent scrollbars on wrapper */
 }
-/* Left navigation iframe */
-.zxsa-left {
-    width: 230px;						/* Fixed width for left navigation */
+/* navigation iframe */
+.zxsa-frame {
+    width: 230px;						/* Fixed width for navigation iframe*/
     height: 100vh;						/* Full height */
     border: none;						/* Remove iframe border */
-    overflow: hidden;					/* Prevent scrollbars inside left frame */
+    overflow: hidden;					/* Prevent scrollbars inside iframe */
 }
 /* Main area: top + bottom stacked */
 .zxsa-main {
@@ -334,7 +329,7 @@ body.zxsa-layout {
 .zxsa-top {
     height: 50px;						/* Fixed height for top navigation bar */
     border: none;						/* Remove iframe border */
-    overflow: hidden;					/* Prevent scrollbars inside top frame */
+    overflow: hidden;					/* Prevent scrollbars inside top iframe */
 }
 /* Main content iframe container */
 .zxsa-bottom {
@@ -371,9 +366,9 @@ body.zxsa-topframe {
     padding: 0 !important;				/* Remove global body padding */
     overflow: hidden !important;		/* Prevent scrollbars */
 }
-/* Remove margins/padding from everything inside the top frame */
+/* Remove margins/padding from everything inside the top iframe */
 body.zxsa-topframe * {
     margin: 0 !important;				/* Remove element margins */
     padding: 0 !important;				/* Remove element padding */
-    line-height: 50px;					/* Vertically centre text inside 50px frame */
+    line-height: 50px;					/* Vertically centre text inside 50px iframe */
 }
