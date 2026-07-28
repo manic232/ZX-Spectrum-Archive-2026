@@ -295,6 +295,8 @@ a.game {
 }
 /* ======================================================================
    ZXSA MODERN LAYOUT (REPLACES FRAMESET)
+   zxsa-wrapper width should equal equal zxsa-frame & zxsa-main width
+   unless you want to offset the page layout for better centreing.
    ====================================================================== */
 /* Remove body margins ONLY on the new layout page */
 body.zxsa-layout {
@@ -303,11 +305,11 @@ body.zxsa-layout {
 }
 /* Outer wrapper: fixed-width block, centred, full height */
 .zxsa-wrapper {
-    width: 1444px;						/* Total width: 230px left + 1024px main */
+    width: 1444px;						/* Should equal zxsa-frame & zxsa-main width */
     height: 100vh;						/* Full viewport height */
     margin: 0 auto;						/* Centre horizontally */
     display: flex;						/* Left + main area side-by-side */
-    flex-direction: row-reverse;		/* row-reverse: iframe right, row: iframe left */
+    flex-direction: row-reverse;		/* row-reverse=iframe right, row=iframe left */
     overflow: hidden;					/* Prevent scrollbars on wrapper */
 }
 /* navigation iframe */
