@@ -1,0 +1,604 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Instructions</title>
+<link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+
+<div class="page">
+<pre class="instruction-text">          ===============================================
+          |   Manic Mixup: The 2018 Manic Miner Remix   |
+          |                                             |
+          |  Game Builders: Andy Ford &amp; Ian Rushforth   |
+          |                                             |
+          |     Technical Development: Ian Rushforth    |
+          |                                             |
+          |                (jswmm.co.uk)                |
+          ===============================================
+
+
+"Times are tough for poor old Willy. Decades of excessive partying
+have taken their toll on his finances. Despite already having downsized
+his mansion in 'Jet Set Mini', he is finding it increasingly difficult
+to afford the cost of maintaining his home, and keeping his formidable
+housekeeper Maria in the style to which she has become accustomed!
+And so, after dusting down his trusty hard hat, Miner Willy descends
+back into the subterranean realm where he first made his fortune
+35 years ago. Emerging into the Central Cavern, he soon notices
+that things have changed somewhat since the last time he ventured
+down here..."
+
+***********************************
+
+'Manic Mixup' is a remix of Matthew Smith's classic ZX Spectrum
+48K game 'Manic Miner', and is released in 2018, 35 years after
+the original game. It can be played on a real Spectrum, on the Sinclair
+ZX Spectrum Vega/Vega+ or on a computer, games console or another
+device using a ZX Spectrum emulator.
+
+The starting point for 'Manic Mixup' was an amalgamation of two
+projects by Dr Andrew Broad: his laterally-inverted version of 'Manic
+Miner' ('reniM cinaM') and Andrew's 2008 remix of 'Manic Miner'.
+Into this melting pot was poured a cluster of newly-designed special
+features, making 'Manic Mixup' quite unique amongst games based
+on the MM game engine.
+
+Thematically, 'Manic Mixup' is a sequel to the authors' previous
+game 'Jet Set Mini', which was a modified version of 'Jet Set Willy'
+- that in itself being Matthew Smith's sequel to 'Manic Miner'.
+What a mixup!
+
+All of the original caverns (and their perilous occupants) have
+had an overhaul in 'Manic Mixup', and the in-game music has been
+significantly enhanced. Furthermore, nearly all of the routines
+in the 'Manic Miner' game engine have been rewritten or redesigned
+for this project, for various reasons: to provide additional functionality
+(such as new sound and visual effects, and additional gameplay elements
+- including putting Willy's hard hat to good use!); to increase
+the efficiency of the code; and to fix various bugs in the original
+game engine.
+
+However, the essence of this 8-bit, 48K game will be very familiar
+to devotees of 'Manic Miner'. We hope it gives you 'unalloyed pleasure'!
+Contents
+
+I. Acknowledgements and thanks
+
+II. Instructions
+
+III. The in-game music
+
+IV. Speed of the game engine
+
+V. Technical notes
+
+VI. The legal bit
+
+VII. Closing remarks
+
+
+----------------------------------------------------------------------
+I. Acknowledgements and thanks
+
+The authors would like to express their gratitude to:
+
+- Matthew Smith, creator of the original 'Manic Miner' and 'Jet
+Set Willy'. Some sprites and cell graphics from 'Jet Set Willy'
+were used in 'Manic Mixup'.
+
+- Dr Andrew Broad, for the laterally-inverted version of 'Manic
+Miner', titled 'reniM cinaM' (from his 'Party Willy' box-set), and
+for Andrew's 2008 remix of 'Manic Miner' (released as a bonus with
+the JSW64 game engine project 'Flash Manic Miner'). Both of the
+aforementioned Broadsoft MM games were blended to form the starting
+point for the development of 'Manic Mixup'. Andrew's 2008 MM Remix
+was inspired by an interview with Matthew Smith in the Load 48 issue
+of 'Retro Gamer' magazine (published in February 2008), and that
+interview also provided a source of inspiration for the further
+evolution of Matthew's original game into 'Manic Mixup'. Thanks
+also to Andrew Broad for his published technical documents (http://www.oocities.org/andrewbroad/spectrum/willy/),
+particularly his 'Manic Miner Room-Format', and for establishing
+and managing the Manic Miner &amp; Jet Set Willy Yahoo! Group (https://groups.yahoo.com/neo/groups/manicminerandjetsetwilly/info).
+- Norman Sword, a regular contributor at jswmm.co.uk, for various
+pieces of code which were used or adapted for 'Manic Mixup': in
+particular his work on implementing the 'headbutt' feature (a concept
+originally conceived by Ian Rushforth); the 'sapping' sound effect
+which occurs when Willy is hit by a solar beam (Ian later added
+the unique border effect, which causes the border to fluctuate randomly
+through all the colours of the Spectrum); Norman's efficient rewrite
+of the routine which moves Willy sideways (so that common code is
+now used for both left and right movement); a similar efficiency
+to handle the animation of conveyors leftwards/rightwards using
+common code; Norman's work on fixing the 'Jagged Finger' and 'Delayed
+Attribute' visual flaws in the original MM game engine; and his
+method for speeding up the game engine, by replacing the original
+LDIR method of copying the screen buffers with a subroutine containing
+a sequence of 32 consecutive LDI instructions, which is called once
+for each time that a raster line/character row is copied.
+
+- John Elliott, for his excellent JSW Editor (JSWED, http://www.seasip.info/Jsw/jswed.html),
+which was the main tool used to create the game, and for JSWED's
+accompanying documentation.
+
+- Richard Hallas, for his document 'A Miner Triad' (http://hallas.net/Software/music.htm),
+a guide to creating music for MM/JSW games which was extremely useful
+- especially the tone chart which assigns a byte value (in decimal
+and hexadecimal) corresponding to the pitch of each note. Thanks
+also to Richard for providing valuable feedback on the in-game,
+portal and 'Game Over' tunes in 'Manic Mixup', and for proofreading
+the Music section of this Readme file and giving some insightful
+suggestions regarding musical terminology.
+
+- Richard Dymond ('SkoolKid'), for his complete Manic Miner disassembly
+(http://skoolkid.github.io/manicminer/), which was instrumental
+to the implementation of numerous code modifications and optimisations
+in 'Manic Mixup'.
+
+- Daniel Gromann, for carrying out extensive playtesting of 'Manic
+Mixup' prior to the release of the game, making suggestions for
+some of the new cavern names, and for providing useful feedback
+on the project. Daniel's JSW Central website (www.jswcentral.org)
+is a rich source of information on MM &amp; JSW games.
+
+- Stuart Brady for his Cell-Graphics Bug Fix for the 'Manic Miner'
+game engine.
+
+- Jonathan Graham Harston, for his 'Full Z80 Opcode List Including
+Undocumented Opcodes' (http://www.z80.info/z80oplist.txt).
+
+- James Moxham, for his 'ZINT Z80 Interpreter' (http://www.z80.info/z80code.htm),
+which is a highly informative introduction to the Z80 instruction
+set.
+
+- John F. Cain, for his 'Booty' sprite from the game of the same
+name.
+
+- Steve Marsden and David Cooke, for a few sprites from their game
+'Technician Ted' (some of which are used here in a slightly modified
+form).
+
+- K. Maddocks, for the '20 Character Set Fonts' utility (also known
+as 'Character Set Collection', Sigmasoft, 1985), from which the
+character font used in 'Manic Mixup' was sourced.
+
+- The ZX Spin team, for their ZX Spin emulator (http://www.zophar.net/sinclair/zx-spin.html),
+which was used by Daniel Gromann in playtesting.
+
+- Jan Bobrowski, for his Qaop/JS HTML5 ZX Spectrum emulator (http://torinak.com/qaop),
+which was used by Ian Rushforth in playtesting.
+
+- Claus Jahn, for his ZX-Modules (http://www.zx-modules.de), particularly
+ZX-Paintbrush, ZX-Blockeditor and ZX-Editor which were used by Andy
+Ford during the creation of the loading and title screens.
+
+- The authors of Binary Hex Converter (http://www.binaryhexconverter.com/)
+which was the standard tool used to convert values back and forth
+between the decimal, binary and hexadecimal systems. The Bitwise
+Calculator at http://www.miniwebtool.com/bitwise-calculator/ was
+also a useful tool.
+
+
+----------------------------------------------------------------------
+II. Instructions
+
+The objective of the game is to guide Willy through a range of subterranean
+caverns, collecting all of the flashing items within each cavern,
+and then making his way to the exit 'portal' before the air supply
+in the cavern runs out. Willy must avoid contact with the moving
+guardians and the stationary nasties which will kill him (as will
+falling from an excessive height).
+
+There are twenty caverns in the game, but each one has two variants:
+an Easy and a Hard version. Once Willy has made his way through
+all twenty caverns the first time around - in Easy Mode - a subroutine
+is called which edits various parts of the game code (64 addresses
+in total), in order to increase the difficulty level throughout
+the game. The program then remains in Hard Mode through subsequent
+sets of caverns, until the current game comes to an end (at which
+point the routine which draws the title screen calls up the same
+subroutine, with a different entry point, to edit the 64 addresses
+back to their original values, thus restoring the difficulty level
+back to Easy before the start of a new game).
+
+So in order to be able to say that you have completed 'Manic Mixup',
+you need to work your way through all twenty caverns TWICE during
+the course of the same game, completing both Easy and Hard versions
+of each cavern!
+
+Keyboard controls:
+Use O-Left, P-Right (or a combination of keys from the top row of
+letters) and SPACE or any of the letters from the bottom row to
+jump.
+A-G pauses the game; any other key unpauses it.
+H-ENTER/RETURN toggle the music ON/OFF.
+Pressing SHIFT+SPACE together at the same time abandons the current
+game.
+
+Unlike in the original 'Manic Miner', extra lives are not awarded
+for each 10000 points accrued. Instead, Willy is allocated a variable
+number of lives for each cavern (commensurate with the difficulty
+level of the cavern), which is specified by using a spare 'offset
+byte' in the cavern definitions.
+
+The Cheat Mode which allows Miner Willy to teleport between caverns
+is still present, but the sequence of keypresses which must be entered
+to activate the Cheat Mode has been reversed from the familiar '6031769',
+so that it is now '9671306'.
+
+Furthermore, there is a penalty for using the teleport feature -
+after using it, Willy will be left with NO spare lives in the destination
+cavern (regardless of which cavern it is), although if the player
+manages to complete that cavern and reach the next one, then normal
+service will resume (i.e. with a number of spare lives allocated
+according to the degree of difficulty of the cavern).
+
+Note that playing in Cheat Mode does NOT prevent the transition
+from the Easy to the Hard caverns, once Willy has passed through
+the 'Final Barrier' cavern the first time around. So if you want
+to 'fast forward' to the Hard set of caverns, you may simply teleport
+into the 'Final Barrier' (teleport code 1256 as per usual, and it's
+a relatively simple cavern 'by tradition'), and then complete it!
+'Manic Mixup' has been fully playtested and it is possible to complete
+the game without losing a single life.
+
+
+----------------------------------------------------------------------
+III. The in-game music
+
+The original 'Manic Miner' game had, as its theme tune during gameplay,
+a rather crude rendition of Edvard Grieg's 1875 composition 'In
+the Hall of the Mountain King', consisting of 64 notes played in
+a loop.
+
+The in-game tune in 'Manic Mixup' is an attempt at a much more faithful
+rendition of 'In the Hall of the Mountain King'. (Dr Andrew Broad
+made an earlier attempt to hone the piece for the 2003 Special Edition
+of his game 'Manic Miner 4', but that was effectively limited to
+a cycle of 32 notes.)
+
+Grieg's 'In the Hall of the Mountain King' is comprised of two alternating
+phrases, repeatedly played on alternating instruments. The tune
+is grouped into cycles of six phrases - the first phrase is played
+on strings and repeated on a woodwind instrument, then the second
+phrase is performed likewise, and then there is a reprise of the
+first pair of phrases, with the repetition of this phrase (forming
+the sixth and final phrase in the cycle) varying slightly towards
+the end in order to bring the cycle to a close with the tonic note
+of the piece. The overall pace of the piece increases as it progresses
+through several six-phrase cycles towards a finishing flourish.
+In order to encapsulate as much of the original composition as possible,
+the game engine in 'Manic Mixup' has been edited to allow for a
+128 note in-game tune (as opposed to 64 notes in the original game
+engine). 192 notes would be required to cover each six-phrase cycle,
+and so the tune is truncated somewhat - the first three-and-a-half
+phrases of the piece are followed by the latter half of the sixth
+phrase of the cycle. (The parts that have been excised are essentially
+repetitions of earlier phrases, so this seems to be a reasonable
+compromise within the constraints of the system.)
+
+The alternating of instruments in Grieg's original piece (between
+string/woodwind) is simulated by shifting the pitch up or down an
+octave in between phrases (i.e. every 32 notes).
+
+If Willy's air supply reaches the 'red' zone, the pace of the in-game
+tune doubles, the timbre of the tune is altered, and a minor third
+gets raised in pitch to a major third. These changes replicate the
+increased sense of urgency as 'In the Hall of the Mountain King'
+approaches its finale, and they serve as a warning to the player
+that air/time is running out in the cavern!
+
+Once Willy enters the portal after completing a cavern, there is
+an additional 16-note 'celebratory coda', which has been implemented
+by tapping into Matthew Smith's original code that causes the screen
+to cycle through every permutation of PAPER and INK colour upon
+completion of a cavern. This tune represents the finishing flourish
+of 'In the Hall of the Mountain King'.
+
+Finally, when Willy has lost all his lives, bringing the current
+game to an end, there is a short rendition of an excerpt from Chopin's
+Piano Sonata No. 2 in B-flat minor.
+
+
+----------------------------------------------------------------------
+IV. Speed of the game engine
+
+Towards the end of the development of 'Manic Mixup', some changes
+to the game engine (credited to Norman Sword) were implemented in
+order to speed up the running of the game engine.
+
+However, whilst this improved the overall gameplay, the authors
+felt that these changes had a slightly detrimental effect on the
+character of the newly-enhanced in-game music. Regular jswmm.co.uk
+contributor Daniel Gromann put it best, when he described the in-game
+tune as having a "cavernous, haunting quality" when played through
+the slower game engine, but that this was diminished when using
+the faster engine.
+
+As a result of these deliberations, it was decided to give the player
+the option of choosing between a 'Slow' or a 'Fast' game engine.
+The speed selection is made during the loading process, with the
+options displayed on the loading screen and a keypress ('S' or 'F')
+being detected by the BASIC loader. The game engine speed is then
+implemented by the loader and is subsequently fixed for the duration
+of play (unless the game file is reloaded from scratch).
+
+
+----------------------------------------------------------------------
+V. Technical notes
+
+Most of the routines in 'Manic Mixup' have been rewritten or redesigned
+to some extent, in order to provide enhanced functionality, optimise
+the code, and fix various bugs and imperfections that were present
+in the original 'Manic Miner' game engine.
+
+However, as a general rule, the entry points to the rewritten routines
+have been retained at their original locations in the code. For
+instance, all of the pre-existing routines CALLed from the game's
+Main Loop are located at their original addresses (although they
+are not necessarily called up in the same order - for example, the
+collectable items in a cavern are now drawn after the portal, rather
+than before). This 'familiar' arrangement of the game engine is
+designed to ensure that, if you have a good disassembly of the original
+MM game engine (such as Skoolkid's) to hand, then you should find
+it relatively easy to navigate your way through the 'Manic Mixup'
+code.
+
+A notable exception to the above rule is that the routine which
+draws the title screen, which is executed as soon as the game is
+loaded, commences a single byte later at #85CD instead of at #85CC.
+This change was necessary in order to fit a 65-byte subroutine which
+is used to implement the 'Fast' game engine (comprised of 32 x 2-byte
+LDI operations followed by a RETurn command), into the space where
+Matthew Smith's original (now-defunct) 64-byte in-game tune used
+to sit (#858C to #85CB).
+
+The new, improved and extended rendition of 'In the Hall of the
+Mountain King' is now located at addresses #9C80 to #9CFF, and at
+#9B50 to #9B5F. Other significant examples of relocated data are
+the 'Skylab' sprite, which is now hardwired into page #94 of the
+code, and the 'Booty' graphic, which assumes the former role of
+the 'Kong Beast' and which occupies addresses #9B80 to #9BBF. (These
+changes permit an independent eight-frame horizontal guardian to
+be present in the 'Skylab' cavern, and a four-frame vertical guardian
+in the 'Kong' caverns, respectively.) The new tune which accompanies
+the 'Game Over' sequence is located at #9BC0 to #9BF0.
+
+It is worth mentioning that the entirety of the huge chunk of unused
+addresses in the original MM game engine at #934C to #9CFF inclusive
+(occupied in the original 'Manic Miner' game code by source code
+remnants) has been recycled for more useful purposes in 'Manic Mixup'.
+It should also be noted that in 'Manic Miner' the end of that same
+chunk of unused addresses was allocated as the base of the program's
+stack. However, in 'Manic Mixup' the stack pointer is diverted to
+the end of the unused page #5B of the code (the page of code designated
+as the ZX Spectrum's printer buffer, and which is utilised as the
+stack by the JSW game engine).
+
+The cavern layout data in the original 'Manic Miner' caverns are
+not arranged as efficiently as they could be. For instance, each
+collectable item is defined using five bytes, of which one is always
+unused. By redefining the items in 'Manic Mixup' more efficiently,
+using four bytes per item, it is now possible to insert up to six
+items into each cavern (the maximum limit in 'Manic Miner' was five
+items per cavern). A side-effect of this change is that the JSWED
+editor doesn't recognise the new item definitions, and so the items
+don't display properly in JSWED's Graphical User Interface during
+editing (items must therefore be inserted into each cavern manually
+via the Hex Editor).
+
+Within the original 'Manic Miner' cavern data, there was a repetition
+of an entire page (256 bytes) of the code to define identical guardian
+graphics for both 'Kong' caverns. This inefficiency has been resolved
+in 'Manic Mixup' by making an intervention in the 'Cavern set-up'
+routine, whenever Willy enters the second 'Kong' cavern, in order
+to copy the guardian graphics from the first 'Kong' cavern's data
+into the cavern buffer (i.e. from page #CF to page #81).
+
+That in turn freed up the entirety of page #DF of the code, which
+was subsequently utilised as a look-up table for the subroutine
+that implements the Easy Mode/Hard Mode regime (as described in
+the 'Instructions' section of this Readme file). The look-up table
+is populated by 64 entries consisting of four bytes each: a single
+byte value for Easy Mode, another byte for Hard Mode, and a two-byte
+word specifying the address to be POKEd by one of those two values
+at the appropriate time. The subroutine itself which looks up values
+from the table is located at #BA90 to #BAAF (with a late entry point
+at #BA92 used to revert the game back to Easy Mode).
+
+Other efficiencies in the code that have been implemented in 'Manic
+Mixup' include: horizontal guardians are now moved and drawn by
+the same routine, instead of by two separate routines individually
+called from the Main Loop; common code is used for both leftwards
+and rightwards movement of horizontal guardians, for the animation
+of conveyors, and for horizontal movement of Willy (Norman Sword's
+code to implement the latter two optimisations inspired Ian Rushforth
+to devise a similar solution for horizontal guardians); and a shared
+subroutine is called up to draw both vertical guardians and 'Skylabs'
+(with a variable being defined beforehand, so that the sprite-drawing
+subroutine copies the pixel-pattern across from the appropriate
+page of the code: either the generic guardian sprite buffer at page
+#81, or the hardwired 'Skylab' sprite at page #94).
+
+Nearly all known bugs that were present in the original MM game
+engine have been fixed in 'Manic Mixup', including:
+
+- The Cell-Graphics Bug has been eliminated. The effects of this
+bug cannot be seen in the original 'Manic Miner', but it was present
+in the game engine and could manifest itself during cavern editing
+(in fact, it occurs in Andrew Broad's laterally-inverted version
+of the game, 'reniM cinaM'). During the process of drawing the current
+cavern, a cell's bitmap can become corrupted if that cell's colour-attribute
+byte matches with a graphic-data byte which precedes it in the cavern
+data. The fix for this bug means that any new cell graphics that
+have been created are immune from the effects of the bug.
+
+- The initial air supply in a cavern can now be set to ANY value
+within the range covered by the air supply bar. (In the original
+MM game engine, certain values will cause a visual glitch, or can
+even cause the machine to lock up.) The air bar also displays the
+precise amount of air supply (in pixels) at the instant that Willy
+enters a cavern (whereas in 'Manic Miner', the initial air supply
+is 'rounded up' to the nearest full character on the air bar, which
+can cause an instantaneous flicker upon the first pass through the
+Main Loop).
+
+- There is no momentary flickering of '000000' in the 'Score' and
+'High Score' fields on the status bar, when Willy enters a new cavern.
+- Willy can no longer jump into/through wall blocks which are supposed
+to be solid.
+
+- Crumbly blocks may now contain intermediate blank pixel-rows,
+without leaving 'ghosts' (errant infilled pixels within newly-created
+air cells) after Willy has stood on them. Crumbly blocks located
+in the top two cell-rows will also crumble in the proper manner
+(whereas in the original 'Manic Miner', a quirky effect causes blocks
+that are located eight rows beneath to crumble instead!).
+
+- In 'Manic Mixup' it is possible to create a cavern without any
+conveyor animation at all. (Some caverns in 'Manic Miner' rely upon
+a 'hidden' animation embedded in a non-conveyor cell, in order to
+prevent the screen corruption that would otherwise occur in a cavern
+where the conveyor length is defined as zero). A further amendment
+to the relevant routine allows the additional functionality that
+the depth of the lower moving pixel-row within a conveyor block
+can be varied.
+
+- A horizontal guardian can now straddle three cell-rows on the
+screen, and both its pixel pattern and colour attribute will be
+drawn across all three rows. (In the original game engine, the third
+cell-row down in such circumstances is updated with the horizontal
+guardian's pixels, but not its colour.)
+
+- At times when a guardian is cell-aligned, its colour attribute
+will only be drawn across two cell-rows. (In contrast, in 'Manic
+Miner' when a 'Skylab' crashes, its colour 'bleeds over' into the
+platform below.)
+
+- A vertical guardian can now pass through a collectable item without
+causing a fatal collision. It is also now possible to insert a 'blank'
+vertical guardian into the guardian list (by using an attribute
+value of #00), without preventing all subsequent guardians in the
+list from being moved or drawn.
+
+- When a guardian collides with Willy, the whole of that guardian
+(its pixel-pattern and its colour-attribute) is drawn before the
+collision is acted upon (rather than just the upper rows of the
+guardian's pixels, down to the point of collision).
+
+- It is now possible to have one black 'Kong' cavern and another
+'Kong' cavern with a non-black background within the same game,
+without a 'shadow' appearing in one of the two caverns (around the
+'Kong on its perch') that doesn't conform with the surrounding background
+colour.
+
+- The laterally-inverted behaviour of the switches in the 'Kong'
+caverns has been properly executed, so that a switch is always flipped
+when Willy touches it. (In 'reniM cinaM', Willy has to make contact
+with a switch with the top-right part of his sprite; the switch
+is NOT flipped if the top-left part of his sprite touches it. That
+would make 'Manic Mixup' uncompletable if the proper fix for this
+wasn't in place.)
+
+- The opening wall in the 'Kong' caverns may contain intermediate
+blank pixel-rows, without leaving a 'ghost' after Willy flicks the
+switch that causes the wall to open. (In 'Manic Miner', attempting
+to have a blank pixel-row in the middle of an opening wall block
+will cause such a 'ghost' to be left in the gap where the wall used
+to be; and furthermore the adjacent horizontal guardian - whose
+range gets edited at that point to allow it to move through the
+gap - will collide with the errant pixels, killing Willy in the
+process!)
+
+- The new game engine ensures that a solar beam kills Willy as soon
+as the air supply runs out. (In the original 'Manic Miner', the
+final character of air supply sometimes gets replenished if Willy
+is within the solar beam at the time.)
+
+- An item is properly removed from the screen, if it is collected
+immediately before Willy enters the portal. (For instance, if Willy
+falls through the portal in the sixteenth cavern and collects the
+item located below the portal last; in the original 'Manic Miner'
+that item remains printed on the screen, even though it has been
+collected and 100 points accrued for it.)
+
+- The lower half of Willy's sprite is properly erased from underneath
+the portal in the 'Final Barrier' cavern, after he has entered the
+portal. (In 'Manic Miner', Willy's legs can still be seen under
+the portal whilst the remaining air supply is being counted down.)
+- Some visual imperfections (which can be referred to as 'Jagged
+Finger'/'Delayed Attributes' effects) have been diminished. These
+flaws are caused by the fact that the copying of the pixel and attribute
+buffers to the pixel and attribute display files can instantaneously
+fall 'out of sync' with the physical updating of the screen's 'raster'
+scan lines and the colour attributes printed across each character
+row. As a result, moving sprites can momentarily break up and flicker,
+and can partially be rendered in the wrong colour attribute for
+a brief but perceptible moment. By changing the sequence in which
+elements of the display and attribute buffers are copied across,
+these effects can be greatly reduced or eliminated.
+
+- Various 'edge of screen conditions' have been resolved (including
+preventing the potential corruption of the layout data for cavern
+number 7).
+
+- A hypothetical bug fix: if a Score of one million is accrued,
+then the High Score will be registered as 999999 rather than 000000
+(although it is extremely unlikely that anyone will ever get that
+far!)
+
+- One logical flaw/inefficiency in the original 'Manic Miner' code
+that hasn't been fixed here is the fact that, when Willy enters
+the Final Barrier, the top half of the cavern gets drawn more than
+once. The existing check of the current cavern number at the end
+of the cavern-drawing routine, made in order to draw the Final Barrier
+differently, is now also used to implement some special effects
+upon Willy's entry to other caverns in 'Manic Mixup', so the (originally
+slightly illogical) architecture of this routine was left in place
+and utilised for other purposes. So the top half of the Final Barrier
+is still drawn more than once, but this is a relatively harmless
+imperfection; it isn't visible to the player and it doesn't slow
+down the execution of the Main Loop.
+
+There are many more additional features implemented that haven't
+been listed here - to find out more, you'll just have to play 'Manic
+Mixup' for yourself and see them in action! (Or, in some cases,
+hear them in action - you'll miss a few tricks if you play with
+your machine on mute!)
+
+
+----------------------------------------------------------------------
+VI. The legal bit
+
+'Manic Mixup' is freeware, and all of its innovative elements may
+freely be reused in other projects. If you do so, please acknowledge
+their authorship.
+
+
+----------------------------------------------------------------------
+VII. Closing remarks
+
+We hope you enjoy playing 'Manic Mixup' as much as we did writing
+it! Please also check out its prequel, 'Jet Set Mini', an updated
+Special Edition of which is released on the same day as 'Manic Mixup'.
+If you have any queries, comments or general feedback, please contact
+us on the email address below, or come and visit our Jet Set Willy
+&amp; Manic Miner Community at jswmm.co.uk to join in with Willy-based
+discussion, game development and fun!
+
+
+Ian Rushforth &amp; Andy Ford, 26th October 2018
+projects@jswmm.co.uk
+
+</pre>
+
+<!-- Back -->
+<p class="bodytext back-link">
+    <a href="javascript:history.back()"></a>
+</p>
+
+</div>
+
+</body>
+</html>
