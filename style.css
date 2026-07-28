@@ -303,7 +303,7 @@ body.zxsa-layout {
 }
 /* Outer wrapper: fixed-width block, centred, full height */
 .zxsa-wrapper {
-    width: 1254px;						/* Total width: 230px left + 1024px main */
+    width: 1444px;						/* Total width: 230px left + 1024px main */
     height: 100vh;						/* Full viewport height */
     margin: 0 auto;						/* Centre horizontally */
     display: flex;						/* Left + main area side-by-side */
@@ -312,14 +312,14 @@ body.zxsa-layout {
 }
 /* navigation iframe */
 .zxsa-frame {
-    width: 230px;						/* Fixed width for navigation iframe*/
+    width: 280px;						/* Fixed width for navigation iframe*/
     height: 100vh;						/* Full height */
     border: none;						/* Remove iframe border */
     overflow: hidden;					/* Prevent scrollbars inside iframe */
 }
 /* Main area: top + bottom stacked */
 .zxsa-main {
-    width: 1024px;						/* Fixed width for main content area */
+    width: 1064px;						/* Fixed width for main content area */
     height: 100vh;						/* Full height */
     display: flex;						/* Stack top + bottom vertically */
     flex-direction: column;
