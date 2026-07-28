@@ -248,3 +248,4 @@ can merge the basic loader and place the following program.
 NOTES
 Julian Gollop, as well as the sequels to Rebelstar, has also
 written Nebula.
+

@@ -801,4 +801,5 @@ adventure.  It was years ahead of it's time, but it does have a
 few bugs in it that show their heads periodically.
 
 It is best to play this game on the fastest speed your emulator
-allows, to speed up the parsing and drawing of pictures.
+allows, to speed up the parsing and drawing of pictures. poo
+

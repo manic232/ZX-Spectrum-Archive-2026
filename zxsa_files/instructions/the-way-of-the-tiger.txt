@@ -198,3 +198,4 @@ prove dangerous or maybe even fatal!
 If you wish to return to the menu screen at any time, use these keys:
 MSX       Stop key                SPECTRUM  Cap Shift & Space keys
 AMSTRAD   Control & Escape keys   CBM64/128 Restore key
+

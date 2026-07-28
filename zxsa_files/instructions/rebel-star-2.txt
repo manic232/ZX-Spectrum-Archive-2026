@@ -129,3 +129,4 @@ The Raiders' escape shuttle will land at the end of game turn 15 close to the
 alien fortress. The Raiders must attempt to board the shuttle by the end of
 game turn 26 when the shuttle is due to take off. The game ends if all the
 Raiders are eliminated, or if 26 game turns have elapsed.
+

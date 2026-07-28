@@ -45,3 +45,4 @@ Note 128k users must select 48k mode before loading this game otherwise it
 won't work.
 
 Typed by Simon Rooney 2003
+

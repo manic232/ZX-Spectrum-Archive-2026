@@ -368,3 +368,4 @@ The enclosed software is copyrighted. It is illegal to copy, reproduce, hire, re
 machine-readable form any part of the enclosed software for any purpose.
 
 Copyright by Rainbow Arts Software GmbH, 1989.
+

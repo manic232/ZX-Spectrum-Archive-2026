@@ -98,3 +98,4 @@ HINTS: Beware of the fruit!
 
 COMMENTS : "A novel and humourous approach to the Ultimate style of game."
 RATING : 95% (CRASH 25#, February 1986)
+

@@ -179,3 +179,4 @@ The main aim of the game is to recover the Red Moon Crystal, and you
 score points for making progress towards this goal. In addition, you
 score 50 points for collecting each of 9 treasures which you should
 find along the way. Naturally, you should avoid getting killed.
+

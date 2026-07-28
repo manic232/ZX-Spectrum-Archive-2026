@@ -69,3 +69,4 @@ next hit will be fatal - losing you a life. You start with 4 lives! Good Luck!
 PLEASE NOTE This program uses every possible memory location, so do not connect
 microdrive or interface when wanting to play the program, otherwise the program
 will not run.
+

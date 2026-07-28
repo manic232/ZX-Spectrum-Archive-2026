@@ -1215,3 +1215,4 @@ NOTE:
   problems, just try varying the number of times you WAIT in each place until
   you find the correct sequence to enable you to pass over the bridge in 
   safety.
+

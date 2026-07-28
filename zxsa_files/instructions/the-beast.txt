@@ -12,3 +12,4 @@ This game will accept all the "normal" commands along with the following additio
 To remove an object from a container, simply type GET PEN or GET APPLE and, providedthat the object is in a container that is either being held or worn by you, or is atthe same location you are at, then that object will be removed from that container.
 This game can handle such complex commands as ... HIT THE DOOR WITH THE HAMMER orGIVE THE BREAD TO THE SWAN, but the normal VERB/NOUN input will suffice in most cases.
 It is also possible to link commands with the words AND or THEN ... eg. GO UP ANDGET BOX THEN DROP BAG.
+

@@ -235,3 +235,4 @@ NOTABLE FEATURES
 This was the first game to use 'Landscaping' to generate the view
 of the world of Midnight from the perspective each of the
 characters under your control. 
+

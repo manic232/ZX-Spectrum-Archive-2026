@@ -147,3 +147,4 @@ necting the MIC socket on your Spectrum to the MIC socket on
 your recorder. Disconnect the EAR lead, remove the cassette
 tape from the recorder and press the PLAY button, the sound 
 may be amplified throught the loudspeaker of the recorder.
+

@@ -24,3 +24,4 @@ operation (most joysticks supported); a demonstration mode, and some of the best
 graphics you're ever likely to see on a Spectrum!
 
 Full playing instructions are given in the game.
+

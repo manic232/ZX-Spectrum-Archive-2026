@@ -40,3 +40,4 @@ SET19	 €	Character set 19: "Small"
 SET20	 €	Character set 20: "Eaten"
 SET21	 €	Character set 21: "Bold"
 SET22	 €	Character set 22: "Dots"
+

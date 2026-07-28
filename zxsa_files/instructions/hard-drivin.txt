@@ -102,3 +102,4 @@ drive attached type | TAPE first (| is obtained by pressing Shift and @ key
 together).
 Spectrum 48K: Type LOAD"" and press ENTER.
 Spectrum 128K: Use LOADER Option.
+

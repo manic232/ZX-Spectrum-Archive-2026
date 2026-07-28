@@ -58,3 +58,4 @@ To climb or descend stairs, two keys have to be pressed together to
 get the required diagonal movement (eg. up and right).
 To catch onto a swinging rope, stand on one of the flashing blue
 squares and press the 'up' key to jump.
+

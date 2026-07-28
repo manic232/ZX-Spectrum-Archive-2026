@@ -413,3 +413,4 @@ Mikkel Hastrup <rkufm5@algonet.se>.
 
 TAIPAN10.TXT, May 1997, etext #231#
 *********
+

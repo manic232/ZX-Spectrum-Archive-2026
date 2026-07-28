@@ -119,3 +119,4 @@ of a cursor allows the user to easily generate his own characters.
 
 (c) 1982 Psion Ltd.
 Made in U.K.
+

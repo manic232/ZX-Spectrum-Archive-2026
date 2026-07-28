@@ -458,3 +458,4 @@ Centering
 This option allows you to define the way in which the cross-hair sight auto-centres.
 If both is selected, the sight will move towards the middle of the screen. If Y Axis
 or X Axis are selected, the sight will only be centred along that axis.
+

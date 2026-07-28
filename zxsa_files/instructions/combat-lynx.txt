@@ -359,3 +359,4 @@ Note
 In this version of COMBAT LYNX you will find that a limited supply of fuel
 and weapons will be available to you at all the bases except base 0 which has
 an unlimited supply. This is an additional feature and is not a bug.
+

@@ -27,3 +27,4 @@ Right - W
 Jump  - SYMBOL SHIFT
 
 Follow screen menu for demonstration or type of Joystick interface.
+

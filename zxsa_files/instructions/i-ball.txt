@@ -48,3 +48,4 @@ These keys may only be used if you have collected the relevant piece
 of weaponry:-
 	Space=Smart Missile  M=Molecule Bomb
 Alternatively, use Kempston, Cursor or Interface II joysticks.
+

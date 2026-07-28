@@ -432,3 +432,4 @@ NOTES
 A very difficult game at first, but gets much easier with
 practice.  Brilliant "twin player" mode which lets you and a
 friend play together against the computer.
+

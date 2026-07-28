@@ -179,3 +179,4 @@ Load up the game, select your joystick and the screen will say...
 Press G and O at the same time and the border will go cyan for a couple of
 seconds. Carry on as normal, but when playing the game press Enter to skip the
 current level.
+

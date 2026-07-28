@@ -48,3 +48,4 @@ O       Move left       Space bar      Flip tile into bin
 P       Move right      M              Pause
 Q       Throw tile      S              Sound on/off
 A       Speed up
+

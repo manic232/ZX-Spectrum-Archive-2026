@@ -256,3 +256,4 @@ ATT= shows 'quality', ATT*STR= potential dammage to enemy.
 
 - If you will not manage to carry out successfully operation, choose 
 a 'problematic' level and traine it. 
+

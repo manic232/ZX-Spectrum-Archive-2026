@@ -59,3 +59,4 @@ ftp://ftp.dcc.uchile.cl/pub/OS/sinclair/snapshots/e/eagle.zip
 NOTES
 An enjoyable blast with surprisingly good graphics for a
 Spectrum.  There are enhanced effects in 128k mode (Music, etc.)
+

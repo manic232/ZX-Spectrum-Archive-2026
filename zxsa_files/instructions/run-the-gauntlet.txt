@@ -100,3 +100,4 @@ RIGHT/LEFT/DOWN/UP
 
 (c) 1989 Ocean Software Limited
 (c) Creative Action Limited
+

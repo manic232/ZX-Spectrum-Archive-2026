@@ -67,3 +67,4 @@ The Score Line displays:
 One player and two player scores.
 One player and two player lives left.
 Highest score obtained.
+

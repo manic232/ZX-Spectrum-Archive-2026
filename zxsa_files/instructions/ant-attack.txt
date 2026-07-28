@@ -52,3 +52,4 @@ Short-long           distances
 
 To climb onto something, press "move" and "jump" together. Scan
 indicates which direction to take to reach the girl or boy.
+

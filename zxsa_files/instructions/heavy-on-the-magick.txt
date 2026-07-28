@@ -436,3 +436,4 @@ caution Apex will give you clues that are vital to solving the puzzles.
  Locked doors with tables by them need keys. Locked doors with ornate pillars
 need passwords. For a door with a toll sign by it (ask apex) a bag of gold is 
 the key (put it on the table).
+

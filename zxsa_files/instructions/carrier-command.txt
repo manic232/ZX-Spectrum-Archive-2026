@@ -1482,3 +1482,4 @@ develops a fuel leak, in which case you have approximately two minutes to land
 on the Carrier for repairs before the Manta runs out of fuel and crashes. If
 the repair state becomes too low for the Manta's structure to contain, it will
 explode.
+

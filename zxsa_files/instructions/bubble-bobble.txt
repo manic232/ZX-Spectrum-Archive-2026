@@ -71,3 +71,4 @@ NOTES
 This is one of the best 2 player games for the spectrum, although
 playing 2 player on 2 sinclair joysticks on a +2 or +3 caused
 some control problems for player 2.
+

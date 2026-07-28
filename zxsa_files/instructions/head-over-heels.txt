@@ -510,3 +510,4 @@ Commodore Coding by Colin Porch. Music by Peter Clarke.
 This software product has been carefully developed and manufactured to the
 highest quality standards. Please read carefully the instructions for
 loading.
+

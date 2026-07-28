@@ -274,3 +274,4 @@ HINT
 Every time you pick up a speed log, the train bumps as it picks up speed. Be
 careful you don't get knocked off when this happens, and look out too for the
 smoke and cinders that can confuse Marty and cause him to fall off.
+

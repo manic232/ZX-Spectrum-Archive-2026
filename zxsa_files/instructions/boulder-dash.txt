@@ -163,3 +163,4 @@ the Exit is revealed. At this time you should decide whether to go for bonus
 Jewels (at a higher value) or to exit for the time bonus points (1 for each
 second remaining). Make sure you know the location of the escape door and that
 you can get to it before time runs out.
+

@@ -274,3 +274,4 @@ An old game can be reloaded by first LOADing the original "Avalon"
 cassette and then pressing the 'LOAD' key and LOADing the cassette on 
 which you saved your previous game. If an error is detected or 'BREAK' is
 pressed then the game resets for you to try to LOAD your saved game again.
+

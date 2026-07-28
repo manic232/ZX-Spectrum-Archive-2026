@@ -125,3 +125,4 @@ alien hit, and the number of aliens already destroyed.
 
 Bonus points will be awarded on your CMC screen for the total number of
 aliens destroyed on completion of a zone.
+

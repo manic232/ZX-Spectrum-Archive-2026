@@ -69,3 +69,4 @@ On entering each zone you are given the opportunity of altering the balance of
 fuel, missiles and shield energy for your ship. While in the zone, press BREAK
 will pause the game and allow you to abandon the zone (losing your score in that
 zone) or abandon the whole game.
+

@@ -106,3 +106,4 @@ option to return to screen 1 or redefine the maze. The number of monsters
 has to be defined with two figures, e.g. 09, etc.
 
 Quicksilva Ltd., 13 Palmerston Rd., Southampton, SO1 1LL
+

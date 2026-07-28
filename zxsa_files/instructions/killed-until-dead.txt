@@ -263,3 +263,4 @@ To delete clues, select DELETE by:
 3.  Scroll up or down until the clue you want to delete is highlighted and
     press the firebutton (C64). Move the bar up and down to select the clue to
     delete. Then press fire button (Spectrum/Amstrad).
+

@@ -81,3 +81,4 @@ Move through the rooms until you reach the end and drop into Das Boat. Collect
 all the objects, go to the bottom left-hand side of the boat and collect the
 key. Now move to the top left-hand side of the boat and you will see a flashing
 square. Jump onto this to finish the game.
+

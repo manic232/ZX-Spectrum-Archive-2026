@@ -122,3 +122,4 @@ DOWN (to counter REVERSE GRAVITY) - press a Secondary Key and DOWN.
 DOCK (return to Mother Ship) - press a Secondary Key and FIRE.
 
 Secondary Key - any key from CAPS SHIFT to V.
+

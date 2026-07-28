@@ -391,3 +391,4 @@ HINTS AND TIPS
 6. Collect plenty of Krusty faces, weapons and coins.
 7. There are warp zones, so try to discover them. Keep in mind that
    Bart can only warp to another place in the same level.
+

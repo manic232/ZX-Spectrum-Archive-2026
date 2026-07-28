@@ -189,3 +189,4 @@ RIGHT		RIGHT
 
 Fire or space will select the letter that is currently highlighted.
 Select E/D when you have finished entering your name.
+

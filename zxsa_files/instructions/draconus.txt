@@ -78,3 +78,4 @@ can pick up Flasks of Flame Fluid, with each flask holding enough for
 10 good blasts, and Energy Packets, which will put your energy right
 back up depending on whether you are Frognum or Draconewt. If Frognum
 falls too far he will loose energy and may be killed.
+

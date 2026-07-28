@@ -315,3 +315,4 @@ written by Andrew Braybrook, also of Graftgold.
 
 NOTES
 Look out for the programmer's own "pet" droid, the A-B Andrewoid.
+

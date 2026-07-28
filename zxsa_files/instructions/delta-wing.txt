@@ -115,3 +115,4 @@ Load the program as follows:
 2) On the Spectrum without the tape recorder type:- LOAD*"n";1 (then press
    ENTER).
 3) On the spectrum with the tape recorder type:- LOAD"" (press ENTER).
+

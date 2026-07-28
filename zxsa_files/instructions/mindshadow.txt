@@ -79,3 +79,4 @@ reference. Several can be abbreviated as noted.
 (W)est       (R)ight       Get        Turn
 (F)orward    (I)nventory   Talk       Go
 (B)ackward   Examine       Drop
+

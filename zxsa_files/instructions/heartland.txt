@@ -72,3 +72,4 @@ Enemies
 Wizards : Touching these sap your will, they also fire at it.
 Gooch   : Killing thes is only an ephemeral solution.
 Spacemen: Do Not Touch.
+
