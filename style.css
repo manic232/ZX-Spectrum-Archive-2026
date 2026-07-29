@@ -204,7 +204,7 @@ a.game {
    Section2 is for pages where you don't want the divider.
    ====================================================================== */
 .section + .section {
-    margin-top: 50px;					/* Gap above each new section */
+    margin-top: 80px;					/* Gap above each new section */
     position: relative;					/* Allows the fade line to be positioned inside this gap */
 }
 /* This draws the fade line BETWEEN sections, centred horizontally.
@@ -212,9 +212,9 @@ a.game {
 .section + .section::before {
     content: "";						/* Creates the divider element */
     position: absolute;					/* Positions it relative to the section gap */
-    top: calc(-50px / 2);				/* Places the line exactly in the middle of the gap */
+    top: calc(-80px / 2);				/* Places the line exactly in the middle of the gap */
     height: 2px;						/* Thickness of the divider */
-    width: 60%;							/* Divider length (adjust as needed) */
+    width: 80%;							/* Divider length (adjust as needed) */
     margin: 0 auto;						/* Centres the divider horizontally */
     left: 0;							/* Ensures centring works inside the section width */
     right: 0;
@@ -228,7 +228,7 @@ a.game {
 }
 /* For pages with no divider required */
 .section2 + .section2 {
-    margin-top: 50px;					/* Gap above each new section */
+    margin-top: 60px;					/* Gap above each new section */
 }
 /* ======================================================================
    UTILITIES
