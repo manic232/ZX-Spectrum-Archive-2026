@@ -35,6 +35,8 @@ body {
     margin-bottom: 110px;				/* Vertical gap below the image */
 }
 .header-right {
+	max-width: 100%;					/* Sets max width for right hand image for mobile */
+    height: auto;						/* Sets auto height for mobile */
     float: right;						/* Positions the image on the right side */
     margin-left: 10px;					/* Space between left side of image and text */
     margin-bottom: 10px;				/* Vertical gap below the image */
