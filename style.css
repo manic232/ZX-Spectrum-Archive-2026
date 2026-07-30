@@ -35,8 +35,6 @@ body {
     margin-bottom: 110px;				/* Vertical gap below the image */
 }
 .header-right {
-	max-width: 50%;					/* Sets max width for right hand image for mobile */
-    height: auto;						/* Sets auto height for mobile */
     float: right;						/* Positions the image on the right side */
     margin-left: 10px;					/* Space between left side of image and text */
     margin-bottom: 10px;				/* Vertical gap below the image */
@@ -53,8 +51,7 @@ body {
     float: right;						/* Positions box art on the right side */
     margin-left: 20px;					/* Gap between image and text */
     margin-bottom: 10px;				/* Gap below the image */
-	max-width: 25%;
-	max-height: auto;						/* Box art height */
+	height: 350px;						/* Box art height */
 	border: 0px solid #fff;				/* Optional border round box art */
 }
 .game-header-right-load {
