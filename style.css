@@ -255,11 +255,11 @@ a.game {
 .back-link {
     margin: 0;							/* Removes default margins */
     padding: 0;							/* Removes default padding */
-    margin-top: 30px;					/* Space above back link */
+    margin-top: 60px;					/* Space above back link */
     font-weight: bold;					/* Bold text */
 }
 .back-link a::after {
-    content: "Return";					/* Changes label for back link on some pages */
+    content: "Go Back";					/* Changes label for back link on some pages */
 }
 /* ======================================================================
    IMAGES WITH CAPTIONS
