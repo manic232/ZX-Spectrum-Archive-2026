@@ -3,7 +3,7 @@
    These rules apply to the entire HTML document unless overridden.
    ====================================================================== */
 html {
-    color-scheme: light dark;
+    color-scheme: dark;
 }
 body {
     background: #000;					/* Sets the entire site background colour */
