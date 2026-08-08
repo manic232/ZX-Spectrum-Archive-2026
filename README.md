@@ -1,6 +1,6 @@
 ZX Spectrum Archive: 2026 Web 1.5 Reboot Edition!
 
-https://manic232.github.io/ZX-Spectrum-Archive-2026/
+https://www.zxsa.co.uk
 
 If you spot anything wrong, such as typos, inaccurate information, missing images or errors of any kind, please let me know in issues.
 
