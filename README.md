@@ -1,8 +1,6 @@
-ZX Spectrum Archive: 2026 Web 1.5 Reboot Edition!
+ZX Spectrum Archive: 2026 Web 1.5 Reboot Edition: https://www.zxsa.co.uk
 
-https://www.zxsa.co.uk
-
-If you spot anything wrong, such as typos, inaccurate information, missing images or errors of any kind, please let me know in issues.
+*If you spot anything wrong, such as typos, inaccurate information, missing images, or if I have used content that you would like removed, please let me know in <a href="https://github.com/manic232/ZX-Spectrum-Archive-2026/issues" target="_blank">issues</a> and I will act swiftly.*
 
 ## About The Archive:
 
@@ -24,7 +22,7 @@ The final milestone was publishing the site through GitHub Pages. It wasn’t pa
 
 ## Changes Made in the 2026 Reboot
 * Rebuilt the entire site using modern HTML and CSS.
-* The site is now viewable online via GitHub Pages. Links on the home page.
+* The site is now online via GitHub Pages, and even has a domain name.
 * Changed all game links to magazine reviews, mainly from CRASH Online.
 * Added box art, manuals and a playable game button to all game review pages.
 * Box art is now clickable: click to expand, click again to return.
