@@ -1,76 +1,28 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
 <meta charset="UTF-8">
-<title>Help Using the Archive</title>
+<title>Help</title>
+<link rel="icon" type="image/x-icon" href="favicon.ico">
 <link rel="stylesheet" href="style.css">
 </head>
 
-<body>
+<body class="zxsa-layout">
 
-<div class="page">
+<div class="zxsa-wrapper">
 
-<!-- Header Images -->
-<img src="zxsa_files/images-main/rainbow.png" class="header-left">
-<img src="zxsa_files/images-main/cassette-deck.png" class="header-right">
+    <!-- navigation iframe-->
+    <iframe class="zxsa-frame" src="zxsa_frame.html"></iframe>
 
-<!-- Heading (clears ONLY the left image) -->
-<h1>Help Using the Archive</h1>
-
-<!-- Top Section (Bold) -->
-<div class="section intro">
-
-    <p>This is a quick overview of how the site is laid out, how to navigate the various sections, unravel the dubious clues of the GIF Elders, and how to play some classic Speccy games. You’ll learn how to navigate the site’s frames, panels, menus, and other relics of a bygone era, all lovingly restored for modern browsers that barely remember what an animated GIF is!. Whether you’re here for nostalgia, curiosity, or to relive the glory days of waiting ten minutes for a game to crash... sorry load, this guide should help you find your way around.</p>
-</div>
-
-<!-- Finding your Way Around -->
-<div class="section">
-    <img src="zxsa_files/images-main/robbie.gif" class="float-left" alt="robbie.gif" title="The beast it howls, and lies in wait...">
-
-    <h2>Finding your Way Around</h2>
-	
-    <p>The area at the top of the page is the main navigation menu, which takes you to the primary sections of the site. (See <a href="about.html">About</a> for more details).</p>
-	
-    <p>The left pane changes depending on where you are. In most sections it contains links to the relevant game reviews. In the Archive Home area, it shows various Spectrum related web links — including several new ones added in 2026.</p>
-	
-    <p>At the bottom of each main section you’ll find additional material (Further Reading) such as interviews, history, and more.</p>
-	
-    <p>All game review pages now include box art, which you can click to enlarge and click again to return.</p>
-	
-    <p>The GIF Elders — ancient, mysterious, and totally pointless — keep whispering about a "legendary hidden clearing". They claim to guard its location, though their clues are nothing but riddles, half-truths, and gibberish. Apparently you have to hover your mouse cursor over them to hear what they're saying. I don't know, utter nonsense if you ask me!</p>
-</div>
-
-<!--  Playing the Games -->
-<div class="section">
-
-    <img src="zxsa_files/images-main/bugr.gif" class="float-left" alt="bugr.gif" title="...its sharpened teeth, to seal your fate">
-
-    <h2>Playing the Games</h2>
-	
-    <p>As well as including original instructions, game review pages also include a 'Load Game' option that opens the ROM in your default Spectrum emulator. I used to use ZX32 back in the day. Now I use Spectaculator or Retro Virtual Machine, but most emulators should work as long as you’ve associated TZX, TAP, DSK, Z80 and ROM files with it.</p>
-	
-    <p>Most of the ROMs here are TZX files, with only a handful in other formats.</p>
-	
-    <p>Spectrum games — especially later releases — often came on multiple cassette tapes, or included extra levels and alternate versions on side B. You’d sometimes have to flip the tape or load a second one to access another part of the game, or to choose between 48K and 128K versions. Because of this, ROM sets can contain several files: Side A, Side B, Tape 1, Tape 2, and so on.</p>
-	
-    <p>For games with more than one side, you’ll see a separate page where you can choose which side to load. Just be aware that some B sides weren’t meant to load from cold — they were designed to be loaded from within the game at a specific point. So if Side 2/B refuses to start on its own, don’t worry — that’s normal behaviour for those titles.</p>
-	
-    <p>Many of the games listed — particularly in the CRASH Smash section — are 128K titles. Spectaculator remembers the last model you selected, so if a game refuses to load, try switching between 48K and 128K modes and reloading.</p>
-	
-    <p>I’ve tested all ROMs to ensure they’re the correct games and that they load. I haven’t played them to completion — can you imagine how long that would take — but all games should at least start and get to the title screen. A handful still have copy protection, and I couldn’t find clean alternatives, but thankfully it’s only one or two.</p>
-	
-	<p>Most of the game instructions are converted to HTML from the original text files found across various sources on the web, with a smaller number kept in their original PDF format. The text based ones look a little rough around the edges, but that’s just the way it has to be. Many of them include charts, diagrams, or carefully arranged layouts that tend to break if you try to “pretty them up” with CSS or additional formatting. To preserve their original structure, the instructions are presented much as they were in their source form. I have, however, gone through and corrected a large number of spelling errors to improve readability.</p>
-</div>
-
-<!-- Created by Michael Winn -->
-<div class="footer">
-    <div class="footer-meta">Michael Winn</div>
-</div>
+    <!-- Main content area -->
+    <div class="zxsa-main">
+        <iframe class="zxsa-top" src="zxsa_frame_top.html"></iframe>
+        <iframe class="zxsa-bottom" name="rbottom" src="help_main.html"></iframe>
+    </div>
 
 </div>
 
 </body>
 
 </html>
-
