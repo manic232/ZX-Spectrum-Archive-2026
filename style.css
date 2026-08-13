@@ -32,12 +32,12 @@ body {
 .header-left {
     float: left;						/* Positions the image on the left side */
     margin-right: 10px;					/* Vertical gap between image and heading */
-    margin-bottom: 110px;				/* Vertical gap below the image */
+    margin-bottom: 150px;				/* Vertical gap below the image */
 }
 .header-right {
     float: right;						/* Positions the image on the right side */
     margin-left: 10px;					/* Space between left side of image and text */
-    margin-bottom: 10px;				/* Vertical gap below the image */
+    margin-bottom: 30px;				/* Vertical gap below the image */
 }
 /* ======================================================================
    HEADER IMAGES & GAME TITLE FOR GAME REVIEW PAGES ONLY
@@ -306,6 +306,14 @@ a.game {
 body.zxsa-layout {
     margin: 0;							/* Remove browser default margins */
     padding: 0;							/* Remove browser default padding */
+    background-color: #000;				/* Fallback colour while image loads */
+    background-image:					/* Dimming layer sits above the schematic */
+        linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+        url("zxsa_files/images-main/background.png");
+    background-repeat: no-repeat;		/* Single image, no tiling */
+    background-position: center center;	/* Centres the schematic in the viewport */
+    background-size: cover;				/* Fills the area, cropping as needed */
+    background-attachment: fixed;		/* Image stays put, doesn't scroll */
 }
 /* Outer wrapper: fixed-width block, centred, full height */
 .zxsa-wrapper {
