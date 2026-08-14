@@ -249,7 +249,7 @@ a.game {
    FOOTER
    ====================================================================== */
 .footer {
-    text-align: right;					/* Aligns footer text right */
+    text-align: left;					/* Aligns footer text right */
     font-size: 12px;					/* Footer text size */
     margin-top: 80px;					/* Space above footer */
 	color: #888;						/* Colour of footer text */
