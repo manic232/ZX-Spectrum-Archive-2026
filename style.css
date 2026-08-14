@@ -4,6 +4,15 @@
    ====================================================================== */
 html {
     color-scheme: dark;
+/* Stops mobile browsers inflating text on their own. Firefox for Android
+   enlarges text in documents it judges not mobile-friendly, and a viewport
+   meta tag does NOT switch that off inside an iframe (viewport applies to
+   the top-level document only), which made the framed content read far too
+   large there while Chromium looked correct. 100% means "use the size I
+   asked for". Prefixes included because support varies by engine. */
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    text-size-adjust: 100%;
 }
 body {
     background: #000;					/* Sets the entire site background colour */
@@ -319,6 +328,7 @@ body.zxsa-layout {
 .zxsa-wrapper {
     max-width: 1284px;						/* Should equal zxsa-frame & zxsa-main width */
     height: 100vh;						/* Full viewport height */
+    height: 100dvh;						/* Modern mobile-safe viewport height */
     margin: 0 auto;						/* Centre horizontally */
     display: flex;						/* Left + main area side-by-side */
     flex-direction: row;				/* row-reverse=iframe right, row=iframe left */
@@ -328,6 +338,7 @@ body.zxsa-layout {
 .zxsa-frame {
     width: 220px;						/* Fixed width for navigation iframe*/
     height: 100vh;						/* Full height */
+    height: 100dvh;						/* Modern mobile-safe viewport height */
     border: none;						/* Remove iframe border */
     overflow: hidden;					/* Prevent scrollbars inside iframe */
 }
@@ -335,6 +346,7 @@ body.zxsa-layout {
 .zxsa-main {
     width: 1064px;						/* Main area width, must be 40px over what you require */
     height: 100vh;						/* Full height */
+    height: 100dvh;						/* Modern mobile-safe viewport height */
     display: flex;						/* Stack top + bottom vertically */
     flex-direction: column;
     overflow: hidden;					/* Prevent scrollbars on container */
@@ -356,6 +368,11 @@ iframe {
     height: 100%;						/* Fill container height */
     border: none;						/* Remove borders */
     overflow: hidden;					/* Default: no scrollbars */
+/* An iframe with no background of its own paints as the browser's default
+   canvas - white - until the document inside it has loaded and applied this
+   stylesheet. With three iframes that showed as a brief pale flash on every
+   page load. Painting the iframe box black means the gap is invisible. */
+    background-color: #000;				/* Prevents a white flash before load */
 }
 /* Only the main content iframe scrolls */
 .zxsa-bottom iframe {
@@ -385,4 +402,298 @@ body.zxsa-topframe * {
     margin: 0 !important;				/* Remove element margins */
     padding: 0 !important;				/* Remove element padding */
     line-height: 50px;					/* Vertically centre text inside 50px iframe */
+}
+
+/* ======================================================================
+   BOOKMARKS PANEL CONTROLS - HIDDEN BY DEFAULT
+   mobile-frames.js creates a floating button and a dim backdrop on every
+   wrapper page. Both are hidden here unconditionally and only revealed
+   inside the mobile media query below, so they can never appear on a
+   desktop screen even though the script always builds them.
+   ====================================================================== */
+.zxsa-nav-toggle,
+.zxsa-nav-backdrop {
+    display: none;						/* Revealed only on small screens */
+}
+
+/* ======================================================================
+   BOOKMARK LINKS INSIDE THE SLIDE-OUT PANEL
+   Enlarges the 28 bookmark links into proper tap targets.
+
+   These rules are deliberately OUTSIDE any media query and keyed only to
+   .zxsa-mobile-nav, a class the script puts on that iframe's own <body>
+   when the screen is narrow. Width cannot be used to decide this: the
+   iframe evaluates media queries against its own width, and on desktop it
+   is only 220px wide, so a max-width:900px query matches inside it too.
+   Gating on the class alone means the desktop sidebar is unaffected no
+   matter what the outer window is doing.
+   ====================================================================== */
+body.frame-body.zxsa-mobile-nav {
+    margin: 0;							/* The panel supplies its own spacing */
+    padding: 6px 12px 28px 12px;
+}
+body.frame-body.zxsa-mobile-nav p {
+    margin: 0;							/* Rows are spaced by link padding */
+}
+body.frame-body.zxsa-mobile-nav a.game {
+    display: block;						/* Whole row is tappable, not just the text */
+    font-size: 16px;					/* Up from the 12px desktop size */
+    line-height: 20px;
+    padding: 12px 4px;					/* Makes each row about 44px tall */
+    border-bottom: 1px solid #262626;	/* Separates the rows */
+}
+
+/* ======================================================================
+   MOBILE LAYOUT (screens up to 900px wide)
+   Collapses the three-iframe desktop layout into one scrolling column.
+   Desktop rendering above 900px is left completely unchanged.
+
+   IMPORTANT: every iframe loads this same stylesheet, and each one
+   evaluates these media queries against ITS OWN width, not the screen's.
+   The desktop navigation iframe is only 220px wide, so it always matches
+   the query below. Any rule that targets something existing inside that
+   frame (body.frame-body) is therefore excluded on purpose, otherwise
+   the desktop sidebar would pick up phone styling.
+
+   Frame heights below are viewport-relative fallbacks that work with no
+   JavaScript at all (each frame scrolls internally). mobile-frames.js
+   then replaces them with exact content heights so the PAGE scrolls
+   instead - nicer on touch, but purely an enhancement. Chrome blocks
+   reading iframe contents on file:// URLs, so the fallback matters.
+   ====================================================================== */
+@media (max-width: 900px) {
+
+/* ----- Outer shell: wrapper pages only (index, about, help, etc.) -----
+   The content fills the full screen width on a phone, so the outer area
+   the schematic occupies does not exist here and the image can never be
+   seen. Dropping it saves the visitor a ~900KB download on mobile data.
+   (It also sidesteps iOS handling fixed backgrounds badly.) */
+    body.zxsa-layout {
+        background-image: none;			/* Never downloaded on small screens */
+        background-color: #000;			/* Plain black behind the content */
+    }
+    .zxsa-wrapper {
+        max-width: none;				/* Use the full screen width */
+        height: auto;					/* Height follows content, not viewport */
+        flex-direction: column;			/* Stack the frames instead of a row */
+        overflow: visible;				/* Stop clipping the main content area */
+    }
+/* Content first, bookmarks last - overrides the HTML source order */
+    .zxsa-main {
+        order: 1;						/* Content sits above the bookmarks */
+        width: 100%;					/* Full width instead of fixed 1064px */
+        height: auto;					/* Sized by mobile-frames.js */
+        overflow: visible;				/* Never clip stacked content */
+    }
+/* --fit-h is the measured content height published by mobile-frames.js.
+   It is read ONLY inside this media query, so a value measured at phone
+   width can never affect the desktop layout. The second value in each
+   var() is the no-JavaScript fallback, where the frame scrolls itself. */
+    .zxsa-frame {
+        order: 2;						/* Bookmarks list drops to the bottom */
+        width: 100%;					/* Full width instead of fixed 220px */
+        height: var(--fit-h, 60vh);		/* Measured height, else 60vh */
+        height: var(--fit-h, 60dvh);	/* Modern mobile-safe equivalent */
+        border-top: 1px solid #333;		/* Divider above the bookmarks */
+    }
+/* ----- BOOKMARKS SLIDE-OUT PANEL -----
+   Applies only when mobile-frames.js is running, which adds
+   .zxsa-has-panel to the body and builds the button. With no JavaScript
+   there would be no button to press, so the rule above stands instead
+   and the bookmarks stay listed at the foot of the page as before.
+
+   Being position:fixed takes the frame out of the stacked column, so
+   nothing sits below the main content any more. */
+    .zxsa-has-panel .zxsa-frame {
+        position: fixed;
+        top: 0;
+        right: 0;						/* Swap to left: 0 to slide in from the left */
+        width: 82%;						/* Leaves a strip of backdrop to tap */
+        max-width: 330px;				/* Never absurdly wide on a tablet */
+        height: 100vh;					/* Full height panel */
+        height: 100dvh;					/* Modern mobile-safe equivalent */
+        z-index: 1001;					/* Above the backdrop */
+        transform: translateX(103%);	/* Parked just off the right edge */
+        border-top: none;				/* Not a divider any more */
+        border-left: 1px solid #333;	/* Panel edge */
+        box-shadow: -6px 0 20px rgba(0, 0, 0, 0.7);
+        background-color: #111;			/* Matches the content box */
+    }
+    .zxsa-has-panel.zxsa-nav-open .zxsa-frame {
+        transform: translateX(0);		/* Slid into view */
+    }
+/* Sliding is enabled one frame AFTER the panel is positioned, by the script
+   adding .zxsa-anim. Without this the panel would animate from its stacked
+   position out to the right edge on every page load - a visible flash of
+   the bookmarks list before it slid away. */
+    .zxsa-anim .zxsa-frame {
+        transition: transform 0.25s ease-out;
+    }
+/* The floating button that opens the panel */
+    .zxsa-nav-toggle {
+        display: block;					/* Overrides the hidden default above */
+        position: fixed;
+        right: 14px;
+        bottom: 14px;
+        bottom: calc(14px + env(safe-area-inset-bottom));	/* Clear of the iPhone home bar */
+        z-index: 1002;					/* Above the panel itself */
+        min-height: 46px;				/* Comfortable tap target */
+        padding: 12px 16px;
+        font-family: Verdana, Arial, sans-serif;
+        font-size: 14px;
+        font-weight: bold;
+        color: #fff;
+        background-color: #1a1a1a;
+        border: 1px solid #444;
+        border-radius: 24px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.6);
+        cursor: pointer;
+        -webkit-tap-highlight-color: transparent;
+    }
+/* Dim layer behind the panel - tapping it closes the panel */
+    .zxsa-nav-backdrop {
+        display: block;					/* Overrides the hidden default above */
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 1000;
+        background-color: rgba(0, 0, 0, 0.6);
+        opacity: 0;						/* Invisible and inert while closed */
+        pointer-events: none;
+        transition: opacity 0.25s ease-out;
+    }
+    .zxsa-nav-open .zxsa-nav-backdrop {
+        opacity: 1;						/* Visible and tappable while open */
+        pointer-events: auto;
+    }
+    .zxsa-top {
+        height: var(--fit-h, 120px);	/* Measured height, else room for links */
+        min-height: 44px;				/* Keeps a comfortable tap target */
+    }
+    .zxsa-bottom {
+        flex: none;						/* No flex growth in a stacked layout */
+        height: var(--fit-h, 85vh);		/* Measured height, else 85vh */
+        height: var(--fit-h, 85dvh);	/* Modern mobile-safe equivalent */
+        overflow: visible;				/* Page scrolls once the script sizes it */
+    }
+/* ----- Top navigation bar (inside zxsa_frame_top.html) -----
+   Safe on desktop: that frame is 1064px wide so this never matches there */
+    body.zxsa-topframe {
+        overflow: visible !important;	/* Allow the wrapped link row to show */
+    }
+    body.zxsa-topframe * {
+        line-height: 30px !important;	/* Replaces the 50px single-line height */
+    }
+    body.zxsa-topframe p {
+        padding: 8px 10px !important;	/* Breathing room around wrapped links */
+    }
+/* Enlarge the nav links into usable tap targets (12px text is too small
+   to hit reliably on a touch screen) */
+    body.zxsa-topframe a.game {
+        font-size: 15px !important;		/* Up from the 12px desktop size */
+        display: inline-block !important;
+        padding: 5px 3px !important;	/* Grows the tappable area */
+    }
+/* ----- Content pages (inside the bottom iframe) -----
+   The :not() guards keep the 220px desktop sidebar and the wrapper
+   pages from picking up these margins */
+    body:not(.frame-body):not(.zxsa-topframe):not(.zxsa-layout) {
+        margin: 2px 8px 8px 8px;		/* Trim side margins to gain text width */
+    }
+    .page {
+        padding: 12px;					/* Less inner padding on a small screen */
+        border-radius: 6px;				/* Slightly tighter corners */
+    }
+/* No image may exceed its column width.
+   Deliberately NO height:auto here - many images are sized by an HTML
+   height attribute (the 44px GIFs), and height:auto would override it and
+   shrink them to their natural size. Width-capping alone keeps the aspect
+   ratio correct for images that have no explicit height. */
+    .page img {
+        max-width: 100%;				/* Scale down oversized images */
+    }
+/* ----- Header images at the top of main and further-reading pages -----
+   .header-left is the rainbow graphic (used in 52 pages, and it is always
+   the rainbow). It reads as clutter on a narrow screen, so it is hidden
+   here; the logo on the right is kept and simply unfloated. */
+    .header-left {
+        display: none;					/* Rainbow hidden on small screens only */
+    }
+    .header-right {
+        float: none;					/* Stack instead of floating */
+        display: block;					/* Own line */
+        margin: 0 auto 15px auto;		/* auto sides centre it in the column */
+    }
+/* ----- Game review pages: unfloat tape, instructions and box art -----
+   Prefixed with .page so these beat the ".page img" rule above on
+   specificity - without the prefix max-width:100% would win */
+    .page .game-header-right,
+    .page .game-header-right-load,
+    .page .game-header-right-smaller {
+        float: none;					/* Box art on its own line */
+        height: auto;					/* Drop the fixed 350px height */
+        max-width: 60%;					/* Keep box art a sensible size */
+        margin: 0 0 15px 0;				/* Replaces desktop margins */
+    }
+    .game-header-left {
+        float: none;					/* No longer floated left */
+        display: flex;					/* Tape and instructions side by side */
+        align-items: flex-end;			/* See note below - lines the pair up */
+        gap: 25px;						/* Space between the two icons */
+        margin: 0 0 15px 0;				/* Replaces desktop margins */
+    }
+/* tape.png is 80x58 but instructions.png is 80x71, so with the two side by
+   side and aligned at the top, the instructions graphic hung 13px lower and
+   its caption sat 11px below the other one. Aligning on flex-end instead sits
+   both graphics on a common bottom edge and puts the two captions in a neat
+   row. Stacked vertically on desktop the size difference never showed, which
+   is why this only needs correcting here. */
+    .game-header-left .tape-img,
+    .game-header-left .instructions-img {
+        margin-bottom: 6px;				/* Equal gap under both, was 6px vs 4px */
+    }
+    .game-header-left .tape-label,
+    .game-header-left .instructions-label {
+        margin-bottom: 0;				/* Removes the 20px/50px desktop gaps */
+    }
+/* Remove left padding that aligned titles against the floated art */
+    .game-title,
+    .info-header {
+        padding-left: 0;				/* Reclaim the 61px/57px indent */
+    }
+/* Header info table: use the available width, ignore fixed column widths */
+    table.info-header {
+        width: 100%;					/* Fill the content column */
+    }
+    table.info-header col {
+        width: auto !important;			/* Override inline col widths */
+    }
+/* Floated content images: allowed inline, but never more than half.
+   Also .page-prefixed to outrank the ".page img" rule above */
+    .page .float-left,
+    .page .float-right,
+    .page .photo-block-left,
+    .page .photo-block-right {
+        max-width: 45%;					/* Leaves a readable text column */
+    }
+/* ----- Tighten the large desktop vertical rhythm -----
+   margin-top and the ::before offset must stay in sync (see SECTION
+   WRAPPERS above): the divider sits at exactly half the gap */
+    .section + .section {
+        margin-top: 50px;				/* Was 80px on desktop */
+    }
+    .section + .section::before {
+        top: -25px;						/* Half of the 50px gap above */
+    }
+    .section2 + .section2 {
+        margin-top: 40px;				/* Was 60px on desktop */
+    }
+    .footer {
+        margin-top: 40px;				/* Was 80px on desktop */
+    }
+    .back-link {
+        margin-top: 40px;				/* Was 60px on desktop */
+    }
 }

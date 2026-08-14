@@ -1,6 +1,6 @@
 ZX Spectrum Archive: 2026 Web 1.5 Reboot Edition: https://www.zxsa.co.uk
 
-*If you spot anything wrong, such as typos, inaccurate information, missing images, or if I have used content that you would like removed, please let me know in <a href="https://github.com/manic232/ZX-Spectrum-Archive-2026/issues" target="_blank">issues</a> and I will act swiftly.*
+*If you spot anything wrong, such as layout bugs, typos, inaccurate information and missing images, or if I have used content that you would like removed, please let me know in <a href="https://github.com/manic232/ZX-Spectrum-Archive-2026/issues" target="_blank">issues</a> and I will act swiftly.*
 
 ## About The Archive:
 
@@ -19,6 +19,8 @@ Because of this change, the game lists now point to magazine reviews rather than
 Much of the written content remains my own, with additional information originally sourced from places like World of Spectrum, Rebelstar, and the now-obsolete WOS CD-ROM. The difference today is that I finally had the tools to complete the project properly. Copilot proved invaluable — generating PowerShell scripts, automating repetitive tasks, and handling work that would have been far too time-consuming (and soul-destroying) to do manually.
 
 The final milestone was publishing the site through GitHub Pages. It wasn’t part of the original plan — not in 2001, and not even when I began the 2026 update — but it turned out to be the natural next step. After more than two decades, the project is no longer abandoned. It’s finally complete, modernised, and online.
+
+I also wanted to get the site looking great on mobile devices, a goal I have now achieved — with a little help from Claude Code, I must confess.
 
 ## Changes Made in the 2026 Reboot
 * Rebuilt the entire site using modern HTML and CSS.
