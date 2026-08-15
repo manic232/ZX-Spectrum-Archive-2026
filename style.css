@@ -662,10 +662,18 @@ body.frame-body.zxsa-mobile-nav a.game {
     .header-left {
         display: none;					/* Rainbow hidden on small screens only */
     }
+/* 35px below the image, matching the gap the title itself leaves before
+   the content beneath it - h1's own margin-bottom is 35px, and on the
+   pages titled with h3+h4 instead, h4's 38px is the real "before the rest
+   of the site" gap (h3's own 5px just holds it close to that h4 subtitle
+   directly under it). 35px sits close enough to both that one value reads
+   as consistent either way. Previously 15px, which read as a much smaller
+   gap than the one below the title, making the image look like it wasn't
+   center to any consistent rhythm. */
     .header-right {
         float: none;					/* Stack instead of floating */
         display: block;					/* Own line */
-        margin: 0 auto 15px auto;		/* auto sides centre it in the column */
+        margin: 0 auto 35px auto;		/* auto sides centre it in the column */
     }
 /* ----- Game review pages: box art centre stage, icons in a row beneath -----
    Box art is centred like .header-right on other pages, but capped at 60% -
