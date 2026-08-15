@@ -626,44 +626,74 @@ body.frame-body.zxsa-mobile-nav a.game {
         display: block;					/* Own line */
         margin: 0 auto 15px auto;		/* auto sides centre it in the column */
     }
-/* ----- Game review pages: unfloat tape, instructions and box art -----
-   Prefixed with .page so these beat the ".page img" rule above on
-   specificity - without the prefix max-width:100% would win */
+/* ----- Game review pages: box art centre stage, icons in a row beneath -----
+   Box art is centred like .header-right on other pages, but capped at 60% -
+   most box art is a tall portrait cover, and at the full page width (as
+   .header-right allows) it towered over everything else on the page. Tape
+   and instructions sit centred as a pair underneath it. Prefixed with .page
+   so these beat the ".page img" rule above on specificity - without the
+   prefix max-width:100% would win. */
     .page .game-header-right,
     .page .game-header-right-load,
     .page .game-header-right-smaller {
-        float: none;					/* Box art on its own line */
+        float: none;					/* No longer floated - a centred block, like .header-right */
+        display: block;					/* Own line */
         height: auto;					/* Drop the fixed 350px height */
-        max-width: 60%;					/* Keep box art a sensible size */
-        margin: 0 0 15px 0;				/* Replaces desktop margins */
+        max-width: 60%;					/* Prominent, but not the full width - see note above */
+        margin: 0 auto 15px auto;		/* auto sides centre it, matching .header-right */
     }
+/* Box art comes AFTER the tape/instructions block in the HTML, but the
+   request was for it to appear ABOVE them - "centre stage", with the icons
+   reading as a caption underneath. Reordering the markup itself would touch
+   every game page, so instead .page becomes a flex column here and just
+   these two pieces are given an explicit order; every other child of .page
+   (the info table, review text, back link, ...) is left at the default
+   order of 0, and a flex column's default sort is stable, so their relative
+   order among themselves is untouched - only the header pair moves.
+
+   Scoped with :has(> .game-header-left) so this affects ONLY pages that
+   have that block - .page is the shared wrapper for every page on the
+   site, including ones with a totally different header (the main page,
+   further reading articles), and this must never reach those. */
+    .page:has(> .game-header-left) {
+        display: flex;
+        flex-direction: column;
+    }
+    .page:has(> .game-header-left) > .game-title {
+        order: -2;						/* Stays first */
+    }
+    .page:has(> .game-header-left) > a {
+        order: -1;						/* The box art link - moves above the icon row */
+    }
+/* Tape and instructions: a centred row instead of a floated column. */
     .game-header-left {
-        float: none;					/* No longer floated left */
-        display: flex;					/* Tape and instructions side by side */
-        align-items: flex-end;			/* See note below - lines the pair up */
+        float: none;
+        display: flex;
+        justify-content: center;		/* Centres the pair as a group */
+        align-items: flex-end;			/* tape.png (58px) and instructions.png (71px) differ in
+                                           height; this lines up their bottom edges instead of
+                                           their tops, so the two captions sit in a level row */
         gap: 25px;						/* Space between the two icons */
         margin: 0 0 15px 0;				/* Replaces desktop margins */
     }
-/* tape.png is 80x58 but instructions.png is 80x71, so with the two side by
-   side and aligned at the top, the instructions graphic hung 13px lower and
-   its caption sat 11px below the other one. Aligning on flex-end instead sits
-   both graphics on a common bottom edge and puts the two captions in a neat
-   row. Stacked vertically on desktop the size difference never showed, which
-   is why this only needs correcting here. */
     .game-header-left .tape-img,
     .game-header-left .instructions-img {
-        margin-bottom: 6px;				/* Equal gap under both, was 6px vs 4px */
+        margin-bottom: 6px;				/* Equal gap under both, was 6px vs 4px on desktop */
     }
     .game-header-left .tape-label,
     .game-header-left .instructions-label {
-        margin-bottom: 0;				/* Removes the 20px/50px desktop gaps */
+        margin-bottom: 0;				/* Removes the 20px/50px desktop gaps, sized for a 3rd column */
     }
 /* Remove left padding that aligned titles against the floated art */
     .game-title,
     .info-header {
         padding-left: 0;				/* Reclaim the 61px/57px indent */
     }
-/* Header info table: use the available width, ignore fixed column widths */
+    .game-title {
+        text-align: center;				/* Centred, to match the centred images below it */
+    }
+/* Header info table: default order (0) keeps it after the reordered pair
+   above, in its normal place relative to the review text that follows it. */
     table.info-header {
         width: 100%;					/* Fill the content column */
     }
