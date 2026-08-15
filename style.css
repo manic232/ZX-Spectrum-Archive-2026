@@ -774,6 +774,39 @@ body.frame-body.zxsa-mobile-nav a.game {
     .page .photo-block-right img {
         height: auto;
     }
+/* Same squash as me.jpg, on 11 more images across .float-left, .float-
+   right, .header-right and a couple with no class at all - each has an
+   HTML height attribute and no width, and each one's natural width, once
+   scaled to that height, is wider than its mobile column, so the column
+   was squashing it down without adjusting the height to match.
+
+   Targeted by filename rather than by class. Checked every image using
+   these three classes site-wide (520 instances): three GIF elders
+   (willy1r.gif, willy2r.gif, mariar.gif) and two others (prize.gif,
+   clive1.png) ALSO have a height attribute with no width, but their
+   natural width already fits their column at the specified height, so
+   they are not squashed today - and a class-wide height:auto would
+   change them anyway, by handing their size to the width cap instead of
+   the deliberately-chosen height (prize.gif would render about a third
+   larger; clive1.png nearly double). Naming each broken file individually
+   fixes exactly the ones that need it and leaves everything else, correct
+   or not, untouched. */
+    .page img[src*="wizards.gif"],
+    .page img[src*="collected-works.jpg"],
+    .page img[src*="the-collected-works-map.jpg"],
+    .page img[src*="the-collected-works-ad.jpg"],
+    .page img[src*="spec48.png"],
+    .page img[src*="crash1.jpg"],
+    .page img[src*="qlscrean.gif"],
+    .page img[src*="crashteam.jpg"],
+    .page img[src*="clive6.jpg"],
+    .page img[src*="specplus2.png"],
+    .page img[src*="unclearhumour1.jpg"],
+    .page img[src*="unclearhumour2.jpg"],
+    .page img[src*="unclearhumour3.jpg"],
+    .page img[src*="unclearhumour4.jpg"] {
+        height: auto;
+    }
 /* me.jpg's block centred, rather than left-floated as on desktop.
    Scoped with :has() to just this one image, not the class generally -
    .photo-block-left/-right is also used for hundreds of captioned game
