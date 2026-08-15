@@ -606,6 +606,21 @@ body.frame-body.zxsa-mobile-nav a.game {
         padding: 12px;					/* Less inner padding on a small screen */
         border-radius: 6px;				/* Slightly tighter corners */
     }
+/* Headings read better centred on a narrow screen, site-wide.
+   clear:both matters here: h2/h4 don't clear floats at all normally (by
+   design - on desktop they often share a row with a floated "GIF elder"
+   icon beside them), and even h1/h3's existing clear:left wouldn't help
+   against a right float. Without clearing, a heading that follows a still-
+   active float renders its first line inside the float-narrowed space, so
+   text-align:center centres it within that reduced width rather than the
+   page - the text looks off-centre despite the rule being applied. Clearing
+   first drops the heading below the image instead of beside it, then
+   centres across the full width. 17 pages have this exact float-then-
+   heading pattern, so it is a real case, not a hypothetical one. */
+    h1, h2, h3, h4 {
+        clear: both;
+        text-align: center;
+    }
 /* No image may exceed its column width.
    Deliberately NO height:auto here - many images are sized by an HTML
    height attribute (the 44px GIFs), and height:auto would override it and
@@ -687,13 +702,12 @@ body.frame-body.zxsa-mobile-nav a.game {
     .game-header-left .instructions-label {
         margin-bottom: 0;				/* Removes the 20px/50px desktop gaps, sized for a 3rd column */
     }
-/* Remove left padding that aligned titles against the floated art */
+/* Remove left padding that aligned titles against the floated art.
+   No text-align:center needed here any more - the site-wide h1-h4 rule
+   above already covers .game-title, since it's an h1. */
     .game-title,
     .info-header {
         padding-left: 0;				/* Reclaim the 61px/57px indent */
-    }
-    .game-title {
-        text-align: center;				/* Centred, to match the centred images below it */
     }
 /* Header info table: now sits between the title and the box art (see the
    order rule above), a new neighbour it did not have before, so it needs
