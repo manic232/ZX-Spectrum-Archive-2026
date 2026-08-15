@@ -642,14 +642,14 @@ body.frame-body.zxsa-mobile-nav a.game {
         max-width: 60%;					/* Prominent, but not the full width - see note above */
         margin: 0 auto 15px auto;		/* auto sides centre it, matching .header-right */
     }
-/* Box art comes AFTER the tape/instructions block in the HTML, but the
-   request was for it to appear ABOVE them - "centre stage", with the icons
-   reading as a caption underneath. Reordering the markup itself would touch
-   every game page, so instead .page becomes a flex column here and just
-   these two pieces are given an explicit order; every other child of .page
-   (the info table, review text, back link, ...) is left at the default
-   order of 0, and a flex column's default sort is stable, so their relative
-   order among themselves is untouched - only the header pair moves.
+/* The HTML order is title, tape/instructions, box art, info table, review
+   text - but the wanted READING order is title, info table, box art,
+   tape/instructions, [50px gap], review text. Reordering the markup itself
+   would touch every game page, so instead .page becomes a flex column here
+   and the four header pieces are each given an explicit order; everything
+   after them (review text, back link, ...) is left at the default order of
+   0, and a flex column's default sort is stable, so their relative order
+   among themselves is untouched - only the header block above them moves.
 
    Scoped with :has(> .game-header-left) so this affects ONLY pages that
    have that block - .page is the shared wrapper for every page on the
@@ -660,7 +660,10 @@ body.frame-body.zxsa-mobile-nav a.game {
         flex-direction: column;
     }
     .page:has(> .game-header-left) > .game-title {
-        order: -2;						/* Stays first */
+        order: -3;						/* Stays first */
+    }
+    .page:has(> .game-header-left) > table.info-header {
+        order: -2;						/* Moves up, above the box art */
     }
     .page:has(> .game-header-left) > a {
         order: -1;						/* The box art link - moves above the icon row */
@@ -674,7 +677,7 @@ body.frame-body.zxsa-mobile-nav a.game {
                                            height; this lines up their bottom edges instead of
                                            their tops, so the two captions sit in a level row */
         gap: 25px;						/* Space between the two icons */
-        margin: 0 0 15px 0;				/* Replaces desktop margins */
+        margin: 0 0 50px 0;				/* The requested gap before the review text below */
     }
     .game-header-left .tape-img,
     .game-header-left .instructions-img {
@@ -692,10 +695,20 @@ body.frame-body.zxsa-mobile-nav a.game {
     .game-title {
         text-align: center;				/* Centred, to match the centred images below it */
     }
-/* Header info table: default order (0) keeps it after the reordered pair
-   above, in its normal place relative to the review text that follows it. */
+/* Header info table: now sits between the title and the box art (see the
+   order rule above), a new neighbour it did not have before, so it needs
+   its own bottom margin to match the 15px gap used elsewhere in this
+   header block - previously it butted straight up against the review text,
+   which supplied its own top spacing instead.
+
+   width:auto (rather than 100%) lets it size to its own content instead of
+   stretching full width, so margin:auto has something to centre it within -
+   the table as a whole shifts to sit centrally on the page. Deliberately no
+   text-align here: the label/value text inside stays exactly as it always
+   was, left-aligned within each cell - only the table's own position moves. */
     table.info-header {
-        width: 100%;					/* Fill the content column */
+        width: auto;					/* Sized to content, not stretched full width */
+        margin: 0 auto 15px auto;		/* Centred as a block */
     }
     table.info-header col {
         width: auto !important;			/* Override inline col widths */
