@@ -741,17 +741,52 @@ body.frame-body.zxsa-mobile-nav a.game {
    header block - previously it butted straight up against the review text,
    which supplied its own top spacing instead.
 
-   width:auto (rather than 100%) lets it size to its own content instead of
-   stretching full width, so margin:auto has something to centre it within -
-   the table as a whole shifts to sit centrally on the page. Deliberately no
-   text-align here: the label/value text inside stays exactly as it always
-   was, left-aligned within each cell - only the table's own position moves. */
+   A normal table shares ONE width per column across every row - the label
+   column sizes to fit its widest label, the value column to fit its widest
+   value, and every row uses those same two widths. So the table's outer
+   box centres correctly, but each row's text is still left-aligned within
+   its own cell - a short row like "Year: 1983" doesn't stretch to fill
+   that centred box, it just sits flush against its left edge, leaving an
+   empty gap on the right. The box looks centred; most of the actual lines
+   inside it don't.
+
+   Fixing this needs each row centred as its own independent unit, sized to
+   its own content, rather than sharing column widths with every other row
+   - which native table layout cannot do, so the table is taken out of
+   table layout entirely here (display:block, and each row becomes its own
+   flex row) rather than trying to centre text within the existing column
+   model. col's width is irrelevant once the table is no longer laid out
+   as a table, so that rule is left in place but is now inert rather than
+   removed - harmless, and one less thing to touch. */
     table.info-header {
-        width: auto;					/* Sized to content, not stretched full width */
+        display: block;
+        width: auto;
         margin: 0 auto 15px auto;		/* Centred as a block */
     }
-    table.info-header col {
-        width: auto !important;			/* Override inline col widths */
+/* The HTML has no explicit <tbody> - the browser inserts one implicitly,
+   and it keeps its own default display:table-row-group unless told
+   otherwise. Left alone, that anonymous box still sizes itself using the
+   table's content-based width algorithm and passes a shrunk width down to
+   the rows, which is exactly what stopped the fix below from working the
+   first time - each row was still being squeezed to the widest row's
+   content width before justify-content ever got a chance to act. */
+    table.info-header tbody {
+        display: block;
+    }
+    table.info-header tr {
+        display: flex;
+        justify-content: center;		/* Centres THIS row's label+value as a unit */
+        gap: 6px;						/* Replaces cellspacing, which has no effect once the row isn't a table row */
+        margin-bottom: 5px;				/* Replaces cellspacing's vertical gap between rows */
+    }
+    table.info-header tr:last-child {
+        margin-bottom: 0;
+    }
+    table.info-header td {
+        display: block;
+        min-width: 0;					/* Lets a long value (e.g. Elite's 649-character control list) shrink
+                                           and wrap instead of refusing to shrink and overflowing - flex items
+                                           default to min-width:auto, which would otherwise block this. */
     }
 /* Floated content images: allowed inline, but never more than half.
    Also .page-prefixed to outrank the ".page img" rule above */
