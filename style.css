@@ -621,6 +621,32 @@ body.frame-body.zxsa-mobile-nav a.game {
         clear: both;
         text-align: center;
     }
+/* The "GIF elder" icon that clears before a heading (above) was still
+   floated to the page's edge, while the heading below it is centred - so
+   the two sit on different axes and look disconnected rather than paired.
+   Centring the icon too puts both on the same vertical line.
+
+   Scoped to only the specific icon immediately before a heading via
+   :has() - unlike the icon+heading work reverted earlier, this does NOT
+   touch the section's own display mode, so it cannot affect any other,
+   unrelated floated image later in the same section (e.g. a review
+   screenshot meant to float beside a paragraph). Nothing here can repeat
+   that regression, because nothing about the container changes at all.
+
+   clear:both matters on ref12_main.html specifically: sabremans.gif sits
+   right after a much taller floated photo block (me.jpg's .photo-block-
+   left), and without clearing, margin:auto centres it in whatever space
+   is left beside that still-active float rather than the full page width -
+   the same class of bug the heading rule above already had to solve. */
+    .section > img.float-left:has(+ :is(h1, h2, h3, h4)),
+    .section > img.float-right:has(+ :is(h1, h2, h3, h4)),
+    .section2 > img.float-left:has(+ :is(h1, h2, h3, h4)),
+    .section2 > img.float-right:has(+ :is(h1, h2, h3, h4)) {
+        clear: both;
+        float: none;
+        display: block;
+        margin: 0 auto 10px auto;		/* Centred, same 10px gap as before */
+    }
 /* No image may exceed its column width.
    Deliberately NO height:auto here - many images are sized by an HTML
    height attribute (the 44px GIFs), and height:auto would override it and
@@ -734,6 +760,29 @@ body.frame-body.zxsa-mobile-nav a.game {
     .page .photo-block-left,
     .page .photo-block-right {
         max-width: 45%;					/* Leaves a readable text column */
+    }
+/* me.jpg on ref12_main.html has an explicit height="240" HTML attribute
+   and no width, so as its column shrinks below that height's implied
+   width the image squashes rather than scaling proportionally - the same
+   issue the site avoids everywhere else by leaving height unset on
+   images with an HTML height attribute (see the ".page img" rule above).
+   Checked every other .photo-block-left/-right image on the site (several
+   hundred, across the game pages) - none of the others has a height
+   attribute at all, so this is safe: it can only ever affect that one
+   photo, never quietly reintroduce the GIF-squashing problem elsewhere. */
+    .page .photo-block-left img,
+    .page .photo-block-right img {
+        height: auto;
+    }
+/* me.jpg's block centred, rather than left-floated as on desktop.
+   Scoped with :has() to just this one image, not the class generally -
+   .photo-block-left/-right is also used for hundreds of captioned game
+   screenshots sitewide, which are meant to sit beside review text and
+   should keep floating there; only this specific instance changes. */
+    .page .photo-block-left:has(img[src*="me.jpg"]) {
+        float: none;
+        margin: 0 auto 15px auto;		/* Centred, max-width:45% from above still applies */
+        text-align: center;				/* Centres the caption underneath too */
     }
 /* ----- Tighten the large desktop vertical rhythm -----
    margin-top and the ::before offset must stay in sync (see SECTION
