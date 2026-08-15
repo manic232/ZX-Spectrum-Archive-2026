@@ -27,7 +27,7 @@ body {
 .page {
     max-width: 1064px;					/* Limits page content width */
     margin: 0 auto;						/* Horizontally centres the content box */
-    padding: 20px;						/* Adds inner spacing inside the content box */
+    padding: 28px;						/* Adds inner spacing inside the content box */
     background-color: #111;				/* Sets background colour for the content box */
     border: 1px solid #333;				/* Creates border and sets colour around content box */
     border-radius: 10px;				/* Slightly rounded corners around content box */
@@ -603,7 +603,7 @@ body.frame-body.zxsa-mobile-nav a.game {
         margin: 2px 8px 8px 8px;		/* Trim side margins to gain text width */
     }
     .page {
-        padding: 12px;					/* Less inner padding on a small screen */
+        padding: 28px;					/* Gap between content and the box edge - was 12px, +10px as requested */
         border-radius: 6px;				/* Slightly tighter corners */
     }
 /* Headings read better centred on a narrow screen, site-wide.
