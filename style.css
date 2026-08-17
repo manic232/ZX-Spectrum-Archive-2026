@@ -165,12 +165,15 @@ p {
    ====================================================================== */
 a:link,
 a:visited {
-    color: #fff;						/* White links */
+    color: #bbb;						/* Slightly dimmed links, so one inside bold text still stands out */
     text-decoration: none;				/* Removes underline */
     font-weight: bold;					/* Bold links */
+    transition: color 0.15s ease, text-shadow 0.15s ease;	/* Smooths the hover glow below */
 }
 a:hover {
+    color: #fff;						/* Brightens to white on hover */
     text-decoration: underline;			/* Underline on hover */
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.7);		/* Slight glow on hover */
 }
 a.game {
     font-size: 12px;					/* Sets size of fonts in iframes */

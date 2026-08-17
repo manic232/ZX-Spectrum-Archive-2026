@@ -7,58 +7,6 @@
 <meta name="color-scheme" content="dark">
 <title>About The Archive</title>
 <link rel="stylesheet" href="style.css">
-
-<!-- Offline detection: intercept external links when viewed locally -->
-<script>
-window.onload = function() {
-
-    var links = document.getElementsByTagName("a");
-
-    for (var i = 0; i < links.length; i++) {
-
-        // Only intercept external links
-        if (links[i].href.indexOf("http") === 0) {
-
-            links[i].onclick = function(e) {
-
-                var url = this.href;
-
-                // If viewing online (http/http), allow normally
-                if (location.protocol.indexOf("http") === 0) {
-                    return true;
-                }
-
-                // If viewing locally (file://), test internet
-                if (location.protocol === "file:") {
-
-                    if (e) {
-                        if (e.preventDefault) e.preventDefault();
-                        else e.returnValue = false;
-                    }
-
-                    var img = new Image();
-
-                    img.onload = function() {
-                        window.open(url, "_blank");
-                    };
-
-                    img.onerror = function() {
-                        window.open("offline.html", "Offline",
-                            "width=850,height=324,left=100,top=100");
-                    };
-
-                    img.src = "http://www.google.com/favicon.ico?" + Math.random();
-
-                    return false;
-                }
-
-                return true;
-            };
-        }
-    }
-};
-</script>
-
 </head>
 
 <body>
@@ -79,19 +27,19 @@ window.onload = function() {
 
 	<p>The Sinclair ZX Spectrum was an important part of my childhood, and in 2001 I set out to build a website dedicated to the machine and the games I grew up with. The project was ambitious, but after two years of slow, laborious progress, I abandoned it. For the next 23 years it remained that way — a relic of early-2000s web design — until one day in April 2026, when I decided it was finally time to finish what I had started.</p>
 
-	<p>My original intention for the reboot was modest: complete the <a href="crash-smashes.html" target="_top">CRASH Smash</a> section and call it a day. But once I began working, it became clear the site needed far more than a few updates. I had built the original pages using FrontPage 2000 on Windows 98 (or possibly XP), targeting a 1024×768 display and Internet Explorer 5/6. The HTML was a chaotic mess — font tags everywhere, random line breaks, and a structure that looked like it had been written as a practical joke. The web has changed dramatically since those days, and this project needed to change with it.</p>
+	<p>My original intention for the reboot was modest: complete the <a href="crash-smashes.html" target="_top">CRASH Smash</a> section and call it a day. But once I began working, it became clear the site needed far more than a few updates. I had built the original pages using <a href="https://en.wikipedia.org/wiki/Microsoft_FrontPage" target="_blank">FrontPage 2000</a> on <a href="https://en.wikipedia.org/wiki/Windows_98" target="_blank">Windows 98</a> (or possibly <a href="https://en.wikipedia.org/wiki/Windows_XP" target="_blank">Windows XP</a>), targeting a 1024×768 display and <a href="https://en.wikipedia.org/wiki/Internet_Explorer" target="_blank">Internet Explorer 5/6</a>. The HTML was a chaotic mess — font tags everywhere, random line breaks, and a structure that looked like it had been written as a practical joke. The web has changed dramatically since those days, and this project needed to change with it.</p>
 
-	<p>So I rebuilt the entire site from the ground up using modern HTML and CSS. Every page has been rebuilt manually in Notepad++, with a cleaner structure and a more maintainable layout. I’ll admit that I used AI for guidance at the start — I had never touched CSS before — but with a bit of Copilot coaching I quickly found my footing.</p>
+	<p>So I rebuilt the entire site from the ground up using modern HTML and CSS. Every page has been rebuilt manually in <a href="https://notepad-plus-plus.org/" target="_blank">Notepad++</a>, with a cleaner structure and a more maintainable layout. I’ll admit that I used AI for guidance at the start — I had never touched CSS before — but with a bit of Copilot coaching I quickly found my footing.</p>
 
 	<p>Although the site has been modernised, it intentionally preserves a late 90s, early 2000s feel — what I like to call “Web 1.5”. The layout now uses modern iframes instead of legacy framesets, but the multi-pane structure lives on as a tribute to the classic web. It’s a hybrid approach: contemporary HTML and CSS under the hood, with a Web 1.0 nostalgic skin that echoes the early days of the internet.</p>
 
 	<p>Back in 2001, the site existed mainly to accompany a folder I’d created containing ROMs, box art, instructions, and other stuff, all neatly organised to match the game lists on this site. Those lists originally linked to the instructions for the games stored in that folder — but the folder itself is now long gone. So, for this 2026 reboot, I decided to integrate everything directly into the site: box art, instructions, and even the ROMs themselves now live within each game page.</p>
 
-	<p>Because of this change, the game lists now point to magazine reviews rather than instructions. Each game page includes its own dedicated instructions anyway, so linking to them from the lists no longer made sense. CRASH Online became my primary source for reviews, though some titles are not covered there. For those, I created new reviews using OCR’d CRASH PDFs from RetroPDF, supplemented with material from Your Sinclair and Sinclair User.</p>
+	<p>Because of this change, the game lists now point to magazine reviews rather than instructions. Each game page includes its own dedicated instructions anyway, so linking to them from the lists no longer made sense. <a href="https://www.crashonline.org.uk" target="_blank">CRASH Online</a> became my primary source for reviews, though some titles are not covered there. For those, I created new reviews using OCR’d CRASH PDFs from <a href="https://retropdfs.wordpress.com/" target="_blank">RetroPDF</a>, supplemented with material from <a href="https://www.yoursinclair.co.uk" target="_blank">Your Sinclair</a> and <a href="https://sinclairuser.com/" target="_blank">Sinclair User</a>.</p>
 
-	<p>Much of the written content remains my own, with additional information originally sourced from places like World of Spectrum, Rebelstar, and the now-obsolete WOS CD-ROM. The difference today is that I finally had the tools to complete the project properly. Copilot proved invaluable — generating PowerShell scripts, automating repetitive tasks, and handling work that would have been far too time-consuming (and soul-destroying) to do manually.</p>
+	<p>Much of the written content remains my own, with additional information originally sourced from places like <a href="https://worldofspectrum.org" target="_blank">World of Spectrum</a>, <a href="http://www.rebelstar.co.uk" target="_blank">Rebelstar</a>, and the now-obsolete WOS CD-ROM. The difference today is that I finally had the tools to complete the project properly. Copilot proved invaluable — generating PowerShell scripts, automating repetitive tasks, and handling work that would have been far too time-consuming (and soul-destroying) to do manually.</p>
 
-	<p>The final milestone was publishing the site through GitHub Pages. It wasn’t part of the original plan — not in 2001, and not even when I began the 2026 update — but it turned out to be the natural next step. After more than two decades, the project is no longer abandoned. It’s finally complete, modernised, and online.</p>
+	<p>The final milestone was publishing the site through <a href="https://pages.github.com" target="_blank">GitHub Pages</a>. It wasn’t part of the original plan — not in 2001, and not even when I began the 2026 update — but it turned out to be the natural next step. After more than two decades, the project is no longer abandoned. It’s finally complete, modernised, and online.</p>
 	
 	<p>I also wanted to get the site looking great on mobile devices, a goal I have now achieved — with a lot of help from Claude Code, I must confess.</p>
 </div>
@@ -104,8 +52,8 @@ window.onload = function() {
     <h2>Changes Made in the 2026 Reboot</h2>
 	
 	&bull; Rebuilt the entire site using modern HTML and CSS.<br>
-	&bull; The site is now online via GitHub Pages, and even has a domain name.<br>
-	&bull; Changed all game links to magazine reviews, mainly from CRASH Online.<br>
+	&bull; The site is now online via <a href="https://pages.github.com" target="_blank">GitHub Pages</a>, and even has a domain name.<br>
+	&bull; Changed all game links to magazine reviews, mainly from <a href="https://www.crashonline.org.uk" target="_blank">CRASH Online</a>.<br>
 	&bull; Added box art, manuals and a playable game button to all game review pages.<br>
 	&bull; Box art is now clickable: click to expand, click again to return.<br>
 	&bull; Removed all greyed-out entries — every game now links to a magazine review.<br>
@@ -115,13 +63,11 @@ window.onload = function() {
 	&bull; Reformatted the <a href="about.html" target="_top">About</a>, <a href="help.html" target="_top">Help</a> and further reading sections for consistency.<br>
 	&bull; Added images where appropriate to the Further Reading sections.<br>
 	&bull; Updated and expanded the bookmarks on the home page, and removed dead links.<br>
-	&bull; Removed most external links across the site — only the home page now includes them.<br>
 	&bull; Renamed “My Games” to “<a href="toy-box.html" target="_top">The Toy Box</a>” and added several more games.<br>
 	&bull; Fixed typos and polished dialogue, bringing my slightly juvenile writing style up to date.<br>
 	&bull; Now includes information on newer hardware and software where appropriate.<br>
 	&bull; Updated or replaced several images, including swapping out some low-resolution ones.<br>
 	&bull; Re-created all the animated GIF images myself from scratch.<br>
-	&bull; Added internet connection check for external web links.<br>
 	&bull; Added a mini-game — can you find the legendary hidden clearing?
 </div>
 

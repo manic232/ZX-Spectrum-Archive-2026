@@ -99,7 +99,8 @@ precisely on it.
 | Same, on mobile | `Gap between content and the box edge` | Mobile |
 | Rounded corners on the content box | `Slightly rounded corners around content box` | Desktop |
 | Heading sizes | `Font size for all main headings` (h1), and similar for h2/h3/h4 | Desktop (shared) |
-| Link colour | `White links` | Everywhere |
+| Link colour (resting) | `Slightly dimmed links` | Everywhere |
+| Link colour/glow (on hover) | `Slight glow on hover` | Everywhere |
 | Section divider line | `Fading line effect` | Desktop; mobile gap is `Was 80px on desktop` |
 | Footer text | `.footer {` | Desktop (shared) |
 | "Go Back" link text | `Changes label for back link` | Everywhere |
@@ -203,18 +204,44 @@ Search for `LINKS` (section banner).
 
 ```css
 a:link, a:visited {
-    color: #fff;              /* white */
-    text-decoration: none;    /* no underline normally */
+    color: #bbb;               /* dimmed grey at rest, so a link inside */
+    text-decoration: none;     /* bold text (like .intro) still stands out */
     font-weight: bold;
+    transition: color 0.15s ease, text-shadow 0.15s ease;
 }
 a:hover {
-    text-decoration: underline;  /* underline appears on hover/tap */
+    color: #fff;                                    /* brightens to white */
+    text-decoration: underline;                      /* underline appears */
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.7);    /* soft glow */
 }
 ```
 
+Links sit at a dimmed grey (`#bbb`) normally, then on hover/tap brighten to
+white, gain an underline, and get a soft glow. The dimming is what makes a
+link visible when it falls inside already-bold text, since bold-on-bold
+with no colour difference is invisible until you hover.
+
+To change it:
+- **Resting colour** — edit the `color: #bbb;` in `a:link, a:visited`.
+  Lower values (`#999`) dim it more; higher values (`#ddd`, `#fff`) dim it
+  less or remove the effect entirely.
+- **Hover colour** — edit the `color: #fff;` in `a:hover`.
+- **Glow strength** — edit the `text-shadow` line in `a:hover`. The first
+  number (`5px`) is the blur spread — bigger softens/widens the glow. The
+  last number (`0.7`) is opacity from 0 (invisible) to 1 (solid) — this is
+  the one to raise or lower for a stronger/weaker glow. You can stack a
+  second shadow (comma-separated) for a brighter core plus a wider halo,
+  e.g. `0 0 4px rgba(255,255,255,0.85), 0 0 10px rgba(255,255,255,0.5)` —
+  but a single shadow reads as more subtle if that's what you want.
+- **Remove the glow entirely** — delete the `text-shadow` line, or set its
+  opacity to `0`.
+- **Remove the fade between states** — delete the `transition` line; the
+  colour/glow will then snap instantly on hover instead of easing in.
+
 `a.game` (font-size 12px) is specifically for links inside the navigation
 frames — changing it affects the sidebar/bookmarks list, not body text
-links.
+links. It shares the same colour/hover rules above, since both link types
+are plain `a` elements.
 
 ---
 

@@ -6,7 +6,7 @@ ZX Spectrum Archive: 2026 Web 1.5 Reboot Edition: https://www.zxsa.co.uk
 
 The Sinclair ZX Spectrum was an important part of my childhood, and in 2001 I set out to build a website dedicated to the machine and the games I grew up with. The project was ambitious, but after two years of slow, laborious progress, I abandoned it. For the next 23 years it remained that way — a relic of early-2000s web design — until one day in April 2026, when I decided it was finally time to finish what I had started.
 
-My original intention for the reboot was modest: complete the CRASH Smash section and call it a day. But once I began working, it became clear the site needed far more than a few updates. I had built the original pages using FrontPage 2000 on Windows 98 (or possibly XP), targeting a 1024×768 display and Internet Explorer 5/6. The HTML was a chaotic mess — font tags everywhere, random line breaks, and a structure that looked like it had been written as a practical joke. The web has changed dramatically since those days, and this project needed to change with it.
+My original intention for the reboot was modest: complete the CRASH Smash section and call it a day. But once I began working, it became clear the site needed far more than a few updates. I had built the original pages using FrontPage 2000 on Windows 98 (or possibly Windows XP), targeting a 1024×768 display and Internet Explorer 5/6. The HTML was a chaotic mess — font tags everywhere, random line breaks, and a structure that looked like it had been written as a practical joke. The web has changed dramatically since those days, and this project needed to change with it.
 
 So I rebuilt the entire site from the ground up using modern HTML and CSS. Every page has been rebuilt manually in Notepad++, with a cleaner structure and a more maintainable layout. I’ll admit that I used AI for guidance at the start — I had never touched CSS before — but with a bit of Copilot coaching I quickly found my footing.
 
@@ -20,7 +20,7 @@ Much of the written content remains my own, with additional information original
 
 The final milestone was publishing the site through GitHub Pages. It wasn’t part of the original plan — not in 2001, and not even when I began the 2026 update — but it turned out to be the natural next step. After more than two decades, the project is no longer abandoned. It’s finally complete, modernised, and online.
 
-I also wanted to get the site looking great on mobile devices, a goal I have now achieved — with a little help from Claude Code, I must confess.
+I also wanted to get the site looking great on mobile devices, a goal I have now achieved — with a lot of help from Claude Code, I must confess.
 
 ## Changes Made in the 2026 Reboot
 * Rebuilt the entire site using modern HTML and CSS.
@@ -35,11 +35,9 @@ I also wanted to get the site looking great on mobile devices, a goal I have now
 * Reformatted the About, Help and further reading sections for consistency.
 * Added images where appropriate to the Further Reading sections.
 * Updated and expanded the bookmarks on the home page, and removed dead links.
-* Removed most external links across the site — only the home page now includes them.
 * Renamed “My Games” to “The Toy Box” and added several more games.
 * Fixed typos and polished dialogue, bringing my slightly juvenile writing style up to date.
 * Now includes information on newer hardware and software where appropriate.
 * Updated or replaced several images, including swapping out some low-resolution ones.
 * Re-created all the animated GIF images myself from scratch.
-* Added internet connection check for external web links.
-* Added a mini-game — can you find the legendary hidden clearing?
+* Added a mini-game — can you find the legendary hidden clearing? 

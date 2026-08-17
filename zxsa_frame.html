@@ -15,58 +15,6 @@
         text-align: left;
     }
 </style>
-
-<!-- Offline detection: intercept external links when viewed locally -->
-<script>
-window.onload = function() {
-
-    var links = document.getElementsByTagName("a");
-
-    for (var i = 0; i < links.length; i++) {
-
-        // Only intercept external links
-        if (links[i].href.indexOf("http") === 0) {
-
-            links[i].onclick = function(e) {
-
-                var url = this.href;
-
-                // If viewing online (http/http), allow normally
-                if (location.protocol.indexOf("http") === 0) {
-                    return true;
-                }
-
-                // If viewing locally (file://), test internet
-                if (location.protocol === "file:") {
-
-                    if (e) {
-                        if (e.preventDefault) e.preventDefault();
-                        else e.returnValue = false;
-                    }
-
-                    var img = new Image();
-
-                    img.onload = function() {
-                        window.open(url, "_blank");
-                    };
-
-                    img.onerror = function() {
-                        window.open("offline.html", "Offline",
-                            "width=850,height=324,left=100,top=100");
-                    };
-
-                    img.src = "http://www.google.com/favicon.ico?" + Math.random();
-
-                    return false;
-                }
-
-                return true;
-            };
-        }
-    }
-};
-</script>
-
 </head>
 
 <body class="frame-body">
