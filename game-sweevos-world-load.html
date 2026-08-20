@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -7,6 +7,7 @@
 <meta name="color-scheme" content="dark">
 <title>Sweevo's World</title>
 <link rel="stylesheet" href="style.css">
+<script src="zxsa_files/play-launcher.js"></script>
 </head>
 
 <body>
@@ -26,8 +27,8 @@
 
 	<h2>Select Tape/Side to Load</h2>
 	<div style="height:20px;"></div>
-<a href="zxsa_files/roms/sweevos-world.tzx">LOAD "48K Version"</a><br>
-<a href="zxsa_files/roms/sweevos-whirled-128k.tzx">LOAD "128K Version"</a><br>
+<a href="zxsa_files/roms/sweevos-world.tzx" onclick="return playGameRaze(this.href, 'Sweevo\'s World (48K Version)')">LOAD "48K Version"</a><br>
+<a href="zxsa_files/roms/sweevos-whirled-128k.tzx" onclick="return playGameRaze(this.href, 'Sweevo\'s World (128K Version)', '128')">LOAD "128K Version"</a><br>
 
 </div>
 

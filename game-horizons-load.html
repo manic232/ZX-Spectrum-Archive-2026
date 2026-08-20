@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -7,6 +7,7 @@
 <meta name="color-scheme" content="dark">
 <title>Horizons</title>
 <link rel="stylesheet" href="style.css">
+<script src="zxsa_files/play-launcher.js"></script>
 </head>
 
 <body>
@@ -26,10 +27,10 @@
 
 	<h2>Select Tape/Side to Load</h2>
 	<div style="height:20px;"></div>
-<a href="zxsa_files/roms/horizons-side-a.tzx">LOAD "Side A"</a><br>
-<a href="zxsa_files/roms/horizons-side-b.tzx">LOAD "Side B"</a><br>
-<a href="zxsa_files/roms/character-generator.tap">LOAD "Character Generator"</a><br>
-<a href="zxsa_files/roms/thro-the-wall.tap">LOAD "Thro' The Wall"</a><br>
+<a href="zxsa_files/roms/horizons-side-a.tzx" onclick="return playGameRaze(this.href, 'Horizons (Side A)')">LOAD "Side A"</a><br>
+<a href="zxsa_files/roms/horizons-side-b.tzx" onclick="return playGameRaze(this.href, 'Horizons (Side B)')">LOAD "Side B"</a><br>
+<a href="zxsa_files/roms/character-generator.tap" onclick="return playGameRaze(this.href, 'Horizons (Character Generator)')">LOAD "Character Generator"</a><br>
+<a href="zxsa_files/roms/thro-the-wall.tap" onclick="return playGameRaze(this.href, 'Horizons (Thro\' The Wall)')">LOAD "Thro' The Wall"</a><br>
 <p><i>Note: There are other programs on this tape, <br>but they are not available as separate tape images.</i></p>
 
 </div>
