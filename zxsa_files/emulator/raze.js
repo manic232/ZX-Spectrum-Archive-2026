@@ -295,6 +295,25 @@ async function onDocumentLoad() {
         keyboard.addEventListener('touchend', ev => {
             ev.preventDefault();
         }, false);
+
+        //on wider touch devices (tablets, unfolded foldables) the emulated
+        //screen + controls + keyboard + joystick stacked together can be
+        //taller than the viewport, pushing the controls off-screen below
+        //the fold -- regular phones don't hit this because they're already
+        //viewport-zoomed out enough to fit everything. Shrink the whole
+        //layout just enough to fit, computed from the actual measured
+        //height rather than a fixed screen-size breakpoint, so a phone
+        //where everything already fits computes a ratio of ~1 (no change).
+        //IMPORTANT: the trigger check below uses the true, unmargined ratio,
+        //so a phone that already fits is never touched at all -- the 10%
+        //safety margin only applies to *how much* to shrink once shrinking
+        //has already been decided to be necessary (fitting exactly flush to
+        //the edge still left the gamepad buttons slightly clipped in
+        //practice on a real device, hence the deliberate extra margin).
+        let naturalFit = window.innerHeight / document.documentElement.scrollHeight;
+        if (naturalFit < 0.99) {
+            document.body.style.zoom = naturalFit * 0.90;
+        }
     } else {
         let keys = document.getElementsByClassName('key');
         for (let i = 0; i < keys.length; ++i) {

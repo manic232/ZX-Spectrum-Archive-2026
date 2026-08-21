@@ -104,7 +104,7 @@ precisely on it.
 | Section divider line | `Fading line effect` | Desktop; mobile gap is `Was 80px on desktop` |
 | Footer text | `.footer {` | Desktop (shared) |
 | "Go Back" link text | `Changes label for back link` | Everywhere |
-| Box art size on game pages (mobile) | `Prominent, but not the full width` | Mobile |
+| Box art size on game pages (mobile) | `Prominent on phones, capped on tablets` | Mobile |
 | Gap under tape/instructions row (mobile) | `The requested gap before the review text below` | Mobile |
 | The floating bookmarks button | `The floating button that opens the panel` | Mobile |
 | Desktop background schematic image | `Fallback colour while image loads` | Desktop |
@@ -299,9 +299,18 @@ the single most fragile part of the whole stylesheet, in the sense that it's
 easy to accidentally break something *else* while adjusting it.
 
 Sizes and gaps you can safely tweak directly:
-- Box art width: `max-width: 60%` — search `Prominent, but not the full width`
+- Box art width: `max-width: min(60%, 260px)` — search `Prominent on phones, capped on tablets`
 - Gap between tape and instructions: `gap: 25px` — search `Space between the two icons`
 - Gap before the review text starts: `margin: 0 0 50px 0` — search `The requested gap before the review text below`
+
+The box art width isn't a plain percentage — this mobile media query covers
+everything from small phones up to 900px wide (which includes tablets and
+unfolded fold-phones), and 60% of a screen that wide would be huge. `min(60%,
+260px)` says "whichever of these is smaller": on a narrow phone, 60% is
+already under 260px so that's what applies (unchanged from before); on a
+wider mobile-range screen, the 260px cap takes over instead, so the box art
+never balloons past a sensible size. To make it bigger or smaller everywhere,
+change the `260px` figure — the `60%` only matters on the narrowest phones.
 
 ### The info table
 

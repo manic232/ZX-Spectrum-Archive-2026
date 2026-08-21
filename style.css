@@ -684,14 +684,20 @@ body.frame-body.zxsa-mobile-nav a.game {
    .header-right allows) it towered over everything else on the page. Tape
    and instructions sit centred as a pair underneath it. Prefixed with .page
    so these beat the ".page img" rule above on specificity - without the
-   prefix max-width:100% would win. */
+   prefix max-width:100% would win.
+
+   The 60% is also capped at 260px with min() - this mobile media query
+   covers everything from small phones up to 900px wide (tablets, and
+   unfolded fold-phones), and 60% of a screen that wide is oversized. On a
+   narrow phone the 60% figure is already under 260px, so nothing changes
+   there; on a tablet-width screen the 260px cap takes over instead. */
     .page .game-header-right,
     .page .game-header-right-load,
     .page .game-header-right-smaller {
         float: none;					/* No longer floated - a centred block, like .header-right */
         display: block;					/* Own line */
         height: auto;					/* Drop the fixed 350px height */
-        max-width: 60%;					/* Prominent, but not the full width - see note above */
+        max-width: min(60%, 260px);		/* Prominent on phones, capped on tablets - see note above */
         margin: 0 auto 15px auto;		/* auto sides centre it, matching .header-right */
     }
 /* ----- Load pages: title and tape/side links centred -----
