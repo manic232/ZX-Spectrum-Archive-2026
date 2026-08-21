@@ -105,8 +105,32 @@
 
 <script type="module" src="./raze.js"></script>
 <script>
-    var titleParam = new URLSearchParams(window.location.search).get('title');
-    if (titleParam) { document.title = titleParam + ' - RAZE'; }
+    // Title shows "<game> - 48K Spectrum" / "- 128K Spectrum", tracking
+    // whichever memory model is actually loaded. Mirrors raze.js's own
+    // boolURLParamDef() logic to read the initial machine from ?48k=, then
+    // the Reset 128k/48k buttons (existing DOM elements, so no need to wait
+    // on raze.js's own listener setup) keep it in sync if switched manually.
+    (function () {
+        var urlParams = new URLSearchParams(window.location.search);
+        var titleParam = urlParams.get('title');
+        if (!titleParam) { return; }
+
+        function boolParam(name, def) {
+            if (!urlParams.has(name)) { return def; }
+            var v = (urlParams.get(name) || '').toLowerCase();
+            if (v === '') { return true; }
+            var c = v[0];
+            return !(c === '0' || c === 'n' || c === 'f');
+        }
+
+        function setTitle(is128k) {
+            document.title = titleParam + ' - ' + (is128k ? '128K' : '48K') + ' Spectrum';
+        }
+
+        setTitle(!boolParam('48k', false));
+        document.getElementById('reset_128k').addEventListener('click', function () { setTitle(true); });
+        document.getElementById('reset_48k').addEventListener('click', function () { setTitle(false); });
+    })();
 
     // NOTE: auto-engaging RAZE's Turbo mode during tape loading was tried
     // and reverted (2026-08-20) -- it causes RAZE's tape mechanism to hit a

@@ -265,6 +265,11 @@ async function onDocumentLoad() {
         //joystick
         let joystick = document.getElementById('joystick')
         joystick.style.display = 'grid';
+
+        //show the on-screen keyboard by default on touch devices only --
+        //desktop keeps it hidden until the Keyboard (F7) button is pressed
+        keyboard.style.display = 'block';
+        document.getElementById('toggle_kbd').classList.add('active');
         joyBtns.addEventListener('touchstart', onOSJoyDown.bind(joyBtnsCtx), false);
         joyBtns.addEventListener('touchmove', onOSJoyDown.bind(joyBtnsCtx), false);
         joyBtns.addEventListener('touchend', onOSJoyUp.bind(joyBtnsCtx), false);
