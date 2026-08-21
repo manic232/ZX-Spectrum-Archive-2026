@@ -149,6 +149,18 @@ select {
     border: 1px solid #fff;
     box-shadow: 0 0 5px rgba(255, 255, 255, 0.6);		/* Same glow style as button.active above */
 }
+/* Bigger, easier-to-tap controls on touch devices only (raze.js adds
+   .touch-device to <body> when it detects touch support). Desktop keeps
+   the smaller default sizing above untouched. */
+.touch-device #buttons button,
+.touch-device #buttons select,
+.touch-device #buttons input {
+    font-size: 16px;
+    padding: 10px 12px;
+}
+.touch-device #buttons label {
+    font-size: 16px;
+}
 #keyboard {
     display: none;
 }

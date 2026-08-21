@@ -270,6 +270,10 @@ async function onDocumentLoad() {
         //desktop keeps it hidden until the Keyboard (F7) button is pressed
         keyboard.style.display = 'block';
         document.getElementById('toggle_kbd').classList.add('active');
+
+        //marks the page as touch-only so raze.css can enlarge the button
+        //row (Reset/Turbo/etc) for easier tapping, without affecting desktop
+        document.body.classList.add('touch-device');
         joyBtns.addEventListener('touchstart', onOSJoyDown.bind(joyBtnsCtx), false);
         joyBtns.addEventListener('touchmove', onOSJoyDown.bind(joyBtnsCtx), false);
         joyBtns.addEventListener('touchend', onOSJoyUp.bind(joyBtnsCtx), false);
@@ -307,8 +311,8 @@ function drawJoystickBtns(ctx, t, l, r, b) {
     let rad = 0.45 * Math.min(w, h);
     ctx.lineWidth = 5;
     let grd = ctx.createRadialGradient(w/2, h/2, 0, w/2, h/2, rad);
-    grd.addColorStop(0, 'red');
-    grd.addColorStop(1, 'black');
+    grd.addColorStop(0, '#ddd');			/* Was 'red' -- slightly off-white "pressed" highlight instead */
+    grd.addColorStop(1, '#333');			/* Was 'black' -- matches the resting fill colour for a softer falloff */
 
     for (let i = 0; i < 4; ++i) {
         ctx.beginPath();
@@ -321,12 +325,20 @@ function drawJoystickBtns(ctx, t, l, r, b) {
         case 2: x = t; break;
         case 3: x = r; break;
         }
-        ctx.fillStyle = x ? grd : 'white';
+        ctx.fillStyle = x ? grd : '#333';		/* Was 'white' -- matches site's dark button colour */
         ctx.fill();
     }
+    ctx.strokeStyle = '#888';				/* Outline needs to be lighter than the fill to stay visible against the black page background */
     ctx.beginPath();
     ctx.arc(w/2, h/2, rad, 0, 2 * Math.PI);
     ctx.stroke();
+
+    ctx.fillStyle = '#fff';
+    ctx.font = 'bold 24px monospace';
+    ctx.textAlign = 'center';
+    ctx.textBaseline = 'middle';
+    ctx.fillText('Joystick', w/2, h/2 - 14);
+    ctx.fillText('Button', w/2, h/2 + 14);
 }
 function drawJoystickFire(ctx, f) {
     let w = ctx.canvas.width;
@@ -336,17 +348,25 @@ function drawJoystickFire(ctx, f) {
 
     if (f) {
         let grd = ctx.createRadialGradient(w/2, h/2, 0, w/2, h/2, rad);
-        grd.addColorStop(0, 'red');
-        grd.addColorStop(1, 'black');
+        grd.addColorStop(0, '#ddd');		/* Was 'red' -- slightly off-white "pressed" highlight instead */
+        grd.addColorStop(1, '#333');		/* Was 'black' -- matches the resting fill colour for a softer falloff */
         ctx.fillStyle = grd;
     } else {
-        ctx.fillStyle = 'white';
+        ctx.fillStyle = '#333';			/* Was 'white' -- matches site's dark button colour */
     }
+    ctx.strokeStyle = '#888';				/* Outline needs to be lighter than the fill to stay visible against the black page background */
 
     ctx.beginPath();
     ctx.arc(w/2, h/2, rad, 0, 2*Math.PI);
     ctx.fill();
     ctx.stroke();
+
+    ctx.fillStyle = '#fff';
+    ctx.font = 'bold 22px monospace';
+    ctx.textAlign = 'center';
+    ctx.textBaseline = 'middle';
+    ctx.fillText('Fire', w/2, h/2 - 13);
+    ctx.fillText('Button', w/2, h/2 + 13);
 }
 
 
