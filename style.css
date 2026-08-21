@@ -694,6 +694,17 @@ body.frame-body.zxsa-mobile-nav a.game {
         max-width: 60%;					/* Prominent, but not the full width - see note above */
         margin: 0 auto 15px auto;		/* auto sides centre it, matching .header-right */
     }
+/* ----- Load pages: title and tape/side links centred -----
+   Scoped to .page:has(> .game-title-load) so this only reaches game-*-load
+   pages, not the .section2 blocks used elsewhere on the site. */
+    .game-title-load {
+        display: block;					/* Was inline-block - needed so margin auto can centre it */
+        width: fit-content;
+        margin: 0 auto 20px auto;		/* Centred, same 20px gap as before */
+    }
+    .page:has(> .game-title-load) .section2 {
+        text-align: center;				/* Centres the heading and each LOAD link below it */
+    }
 /* The HTML order is title, tape/instructions, box art, info table, review
    text - but the wanted READING order is title, info table, box art,
    tape/instructions, [50px gap], review text. Reordering the markup itself
