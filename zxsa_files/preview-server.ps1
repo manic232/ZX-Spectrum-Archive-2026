@@ -17,10 +17,36 @@ $mime = @{
     ".txt" = "text/plain"; ".md" = "text/plain"
 }
 
-Start-Process "http://localhost:$Port/index.html"
+Write-Host "Hit any key to close and stop local server."
 
+# GetContext() blocks until a request arrives, which would leave no chance to
+# check for a keypress in between -- GetContextAsync() + a short Wait()
+# timeout lets the loop poll for both a pending request AND a keypress every
+# 200ms instead, so pressing a key can break out and stop the server cleanly.
+$contextTask = $null
+$canCheckKeys = $true
 while ($listener.IsListening) {
-    $context = $listener.GetContext()
+    if ($canCheckKeys) {
+        try {
+            if ([Console]::KeyAvailable) {
+                [Console]::ReadKey($true) | Out-Null
+                break
+            }
+        } catch {
+            # Console input isn't available (e.g. redirected/non-interactive
+            # session) -- keep serving, just without the quit-on-keypress
+            # feature, instead of spamming this error every poll.
+            $canCheckKeys = $false
+        }
+    }
+    if ($null -eq $contextTask) {
+        $contextTask = $listener.GetContextAsync()
+    }
+    if (-not $contextTask.Wait(200)) {
+        continue
+    }
+    $context = $contextTask.Result
+    $contextTask = $null
     $req = $context.Request
     $res = $context.Response
     try {
@@ -48,3 +74,6 @@ while ($listener.IsListening) {
         $res.Close()
     }
 }
+
+$listener.Stop()
+Write-Host "Server stopped."

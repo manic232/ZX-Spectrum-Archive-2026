@@ -274,6 +274,12 @@ async function onDocumentLoad() {
         //marks the page as touch-only so raze.css can enlarge the button
         //row (Reset/Turbo/etc) for easier tapping, without affecting desktop
         document.body.classList.add('touch-device');
+
+        //closing a popup is obvious on desktop, less so on mobile -- show a
+        //dedicated close button, touch-only, that just closes this window
+        let closeBtn = document.getElementById('close_emulator');
+        closeBtn.style.display = 'block';
+        closeBtn.addEventListener('click', () => { window.close(); }, false);
         joyBtns.addEventListener('touchstart', onOSJoyDown.bind(joyBtnsCtx), false);
         joyBtns.addEventListener('touchmove', onOSJoyDown.bind(joyBtnsCtx), false);
         joyBtns.addEventListener('touchend', onOSJoyUp.bind(joyBtnsCtx), false);

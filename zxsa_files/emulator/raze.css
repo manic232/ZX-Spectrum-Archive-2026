@@ -161,6 +161,16 @@ select {
 .touch-device #buttons label {
     font-size: 16px;
 }
+/* Hidden by default (desktop) -- raze.js only reveals this on touch
+   devices, where closing the popup isn't as obvious as it is on desktop. */
+#close_emulator {
+    display: none;
+    width: fit-content;
+    margin: 20px auto 0;
+    padding: 16px 28px;
+    font-size: 20px;
+    font-weight: bold;
+}
 #keyboard {
     display: none;
 }
