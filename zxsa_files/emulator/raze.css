@@ -1,13 +1,13 @@
 body {
-    background: #000;					/* Matches style.css's site-wide background */
-    color: #fff;						/* Matches style.css's default text colour */
+    background: #000;
+    color: #fff;
 }
 * {
     font-family: monospace;
 }
 a:link,
 a:visited {
-    color: #bbb;						/* Matches style.css's dimmed link colour */
+    color: #bbb;
     text-decoration: none;
     font-weight: bold;
     transition: color 0.15s ease, text-shadow 0.15s ease;
@@ -15,7 +15,7 @@ a:visited {
 a:hover {
     color: #fff;
     text-decoration: underline;
-    text-shadow: 0 0 5px rgba(255, 255, 255, 0.7);		/* Same hover glow as style.css */
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.7);
 }
 h1 {
    text-align: center;
@@ -25,20 +25,20 @@ h1 span.version {
     font-size: 15px;
 }
 #stage {
-    width: 798px;
-    height: 600px;
+    width: 960px;
     position: relative;
     margin: 0 auto;
+    border: 2px solid #333;
 }
 #controls {
-    width: 798px;
+    width: 960px;
     position: relative;
     margin: 0 auto;
 }
 #buttons {
     display: grid;
     grid-gap: 5px;
-    grid-template-columns: repeat(4, 1fr);		/* Was "25% 25% 25% 25%" -- percentage columns summing to 100% don't leave room for grid-gap, which adds on top and pushed every row 15px past the screen's right edge. fr units subtract gap space automatically. */
+    grid-template-columns: repeat(4, 1fr);		/* Was "25% 25% 25% 25%" -- percentage columns summing to 100% don't leave room for grid-gap, which adds on top and pushes content past the container's right edge. Still present upstream as of v2.0. */
 }
 #buttons span {
     text-align: center;
@@ -81,8 +81,12 @@ h1 span.version {
     grid-column-end: 5;
     text-align: end;
 }
-#load_tape {
+#load_media {
     grid-column: 1;
+
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: repeat(auto-fit, minmax(0, 1fr));
 }
 #pause {
     grid-column: 2;
@@ -93,11 +97,39 @@ h1 span.version {
     text-align: end;
 }
 
-#stage canvas {
-    width: 798px;
-    height: 600px;
-    border: 2px solid #333;				/* Was black-on-black (invisible); now matches style.css's .page border */
+#canvases {
+    width: 100%;
     cursor: none;
+}
+
+#canvases canvas {
+    width: 100%;
+    display: block;
+}
+
+#start-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#start-overlay button {
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    background: #1a1a1a;		/* Was #4f46e5 (indigo) -- matches the site's other buttons instead of standing out as an unrelated accent colour */
+    color: #fff;
+    border: 1px solid #444;
+}
+#start-overlay button:hover {
+    background: #2a2a2a;
+    border-color: #666;
 }
 
 canvas.pixelated {
@@ -107,13 +139,13 @@ canvas.pixelated {
     image-rendering: crisp-edges;
 }
 #tape button {
-    border: 1px solid #444;				/* Was black-on-black (invisible) */
+    border: 1px solid #444;
     padding: 2px;
     margin: 2px;
     font-size: small;
 }
 button {
-    background: #1a1a1a;				/* Matches style.css's mobile-nav-toggle button colour */
+    background: #1a1a1a;
     color: #fff;
     border: 1px solid #444;
     padding: 5px 10px;
@@ -125,7 +157,7 @@ button:hover {
 button.active {
     background: #333;
     border: 1px solid #fff;
-    box-shadow: 0 0 5px rgba(255, 255, 255, 0.6);		/* Same glow style as style.css's a:hover */
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.6);
 }
 button:hover.active {
     background: #3a3a3a;
@@ -137,7 +169,7 @@ label, input {
     vertical-align: middle;
 }
 input, select {
-    background: #111;					/* Matches style.css's .page background */
+    background: #111;
     color: #fff;
     border: 1px solid #333;
 }
@@ -147,7 +179,7 @@ select {
 #tape button.selected {
     background: #333;
     border: 1px solid #fff;
-    box-shadow: 0 0 5px rgba(255, 255, 255, 0.6);		/* Same glow style as button.active above */
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.6);
 }
 /* Bigger, easier-to-tap controls on touch devices only (raze.js adds
    .touch-device to <body> when it detects touch support). Desktop keeps
@@ -160,16 +192,6 @@ select {
 }
 .touch-device #buttons label {
     font-size: 16px;
-}
-/* Hidden by default (desktop) -- raze.js only reveals this on touch
-   devices, where closing the popup isn't as obvious as it is on desktop. */
-#close_emulator {
-    display: none;
-    width: fit-content;
-    margin: 20px auto 0;
-    padding: 16px 28px;
-    font-size: 20px;
-    font-weight: bold;
 }
 #keyboard {
     display: none;

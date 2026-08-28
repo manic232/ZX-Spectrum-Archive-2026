@@ -7,6 +7,7 @@
 <meta name="color-scheme" content="dark">
 <title>Fish!</title>
 <link rel="stylesheet" href="style.css">
+<script src="zxsa_files/play-launcher.js"></script>
 </head>
 
 <body>
@@ -16,12 +17,12 @@
 <!-- Game title -->
 <h1 class="game-title">Fish!</h1>
 
-<!-- Tape image -->
+<!-- Disk image -->
 <div class="game-header-left">
 
-<a href="zxsa_files/roms/fish.dsk">
-    <img src="zxsa_files/images-game/tape.png"
-    alt="tape.png"
+<a href="zxsa_files/roms/fish.dsk" onclick="return playGameRazeDisk(this.href, 'Fish!')">
+    <img src="zxsa_files/images-game/disk.png"
+    alt="disk.png"
     class="tape-img">
     <span class="tape-label"></span>
 </a>

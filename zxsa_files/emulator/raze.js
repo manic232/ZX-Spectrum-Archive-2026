@@ -2,8 +2,13 @@
 import raze_init, * as wasm_bindgen from "./pkg/raze_web.js";
 import * as base64 from "./base64.js";
 
-let g_game;
-let g_is128k;
+
+const SPEC48K = 0;
+const SPEC128K = 1;
+const PLUS3 = 2;
+
+let g_game = null;
+let g_border = { x: 5, y: 4 };
 let g_actx = new (window.AudioContext || window.webkitAudioContext)();
 let g_audio_next = 0;
 let g_turbo = false;
@@ -18,11 +23,50 @@ let g_gamepad = null;
 let g_gamepadStatus = { fire: false, x: 0, y: 0 };
 let g_cursorKeys = null;
 
-function ensureAudioRunning() {
-    //autoplay policy in chrome requires this
+// Options:
+// * snapshot: Uint8Array
+// * model: number
+function createGame(options = {}) {
+    let builder = wasm_bindgen.wasm_builder_new();
+
+    // fixed options
+    wasm_bindgen.wasm_builder_set_border(builder, g_border.x, g_border.y);
+
+    // variable options
+    if (options.snapshot !== undefined) {
+        wasm_bindgen.wasm_builder_set_snapshot(builder, options.snapshot);
+    } else if (options.model !== undefined) {
+        wasm_bindgen.wasm_builder_set_model(builder, options.model);
+    }
+
+    let new_game = wasm_bindgen.wasm_builder_build(builder);
+    if (!new_game)
+        return;
+
+    if (g_game)
+        wasm_bindgen.wasm_game_drop(g_game);
+
+    g_game = new_game;
+    g_delayed_funcs = null;
+    resetTape();
+    resetDisk();
+
+    // Lets the page's own title-tracking script (see index.html) know the
+    // *actual* machine model -- important because a loaded snapshot/ROM can
+    // silently pick its own model (e.g. a ROM always forces 48K) regardless
+    // of what was requested via options.model, so options.model alone isn't
+    // reliable here. wasm_game_model() reports the ground truth.
+    window.dispatchEvent(new CustomEvent('razeModelChanged', { detail: { model: wasm_bindgen.wasm_game_model(g_game) } }));
+}
+
+async function ensureAudioRunning() {
+    //autoplay policy requires this
     if (g_actx.state == "suspended") {
         console.log("Resume AutoPlay");
-        g_actx.resume();
+        await g_actx.resume();
+        if (g_actx.state != "suspended") {
+            document.getElementById('start-overlay').style.display = "none";
+        }
     }
 }
 
@@ -124,13 +168,34 @@ export function putImageData(w, h, data) {
     }
 }
 
+function parse2Ints(str) {
+    if (!str)
+        return null;
+    const [x, y] = str.split(',').map(x => parseInt(x));
+    if (isNaN(x))
+        return null;
+    if (isNaN(y))
+        return { x, y: x };
+    return { x, y };
+}
+
 async function onDocumentLoad() {
 
     let urlParams = new URLSearchParams(window.location.search);
-    let webgl = boolURLParamDef(urlParams, 'webgl', true)
+    let webgl = boolURLParamDef(urlParams, 'webgl', true);
+    let dither = boolURLParamDef(urlParams, 'dither', false);
+    let border = parse2Ints(urlParams.get("border"));
+    if (border)
+        g_border = border;
+
+    let screen_width = 2 * g_border.x + 256;
+    let screen_height = 2 * g_border.y + 192;
 
     let canvas3d = document.getElementById('game-layer-3d');
     let canvas = document.getElementById('game-layer');
+
+    canvas3d.width = canvas.width = screen_width;
+    canvas3d.height = canvas.height = screen_height;
 
     if (webgl) {
         g_gl = canvas3d.getContext('webgl');
@@ -138,6 +203,7 @@ async function onDocumentLoad() {
 
     if (g_gl && initMyGL(g_gl)) {
         console.log("using webgl rendering");
+        canvas.style.display = 'none';
         g_realCanvas = canvas3d;
     } else {
         if (webgl)
@@ -146,7 +212,6 @@ async function onDocumentLoad() {
             console.log("webgl initialization skipped, falling back to canvas");
         g_gl = null;
         canvas3d.style.display = 'none';
-        canvas.style.display = '';
 
         g_ctx = canvas.getContext('2d');
         g_ctx.imageSmoothingEnabled = false;
@@ -154,9 +219,21 @@ async function onDocumentLoad() {
     }
 
     await raze_init();
+    wasm_bindgen.wasm_main();
 
-    g_is128k = !boolURLParamDef(urlParams, '48k', false)
-    g_game = wasm_bindgen.wasm_main(g_is128k);
+    let gameOpts = { };
+    if (boolURLParamDef(urlParams, '48k', false))
+        gameOpts.model = SPEC48K;
+    else if (boolURLParamDef(urlParams, 'plus3', false))
+        gameOpts.model = PLUS3;
+    else if (urlParams.has("disk"))
+        // disk drive only in plus3, so if there is disk= but no model=, assume +3
+        gameOpts.model = PLUS3;
+    else
+        gameOpts.model = SPEC128K;
+
+    console.log("Spec model", gameOpts.model);
+
 
     let snapshot = urlParams.get("snapshot");
     if (snapshot) {
@@ -164,7 +241,10 @@ async function onDocumentLoad() {
         await fetch_with_cors_if_needed(snapshot,
             bytes => {
                 saveLastSnapshot(new Uint8Array(bytes));
-                handleLoadLastSnapshot();
+                gameOpts.snapshot = g_lastSnapshot;
+                // If there is a snapshot ignore the selected model, this will disable the autotype if a tape/disk is autoloaded.
+                // The autotype is only useful if the system is reset.
+                delete gameOpts.model;
             },
             error => {
                 alert("Cannot download file " + snapshot);
@@ -172,19 +252,19 @@ async function onDocumentLoad() {
         );
     }
 
+    createGame(gameOpts);
+
+    // Load tape/disk. If there is no snapshot type the initial sequence to start the load procedure
     let tape = urlParams.get("tape");
+    let disk = urlParams.get("disk");
     if (tape) {
         console.log("TAPE=", tape);
         await fetch_with_cors_if_needed(tape,
             bytes => {
                 if (bytes) {
-                    if (g_is128k) {
-                        call_with_delay(1500, 100, [
-                            () => wasm_bindgen.wasm_key_down(g_game, 0x60), //ENTER
-                            () => wasm_bindgen.wasm_key_up(g_game, 0x60), //ENTER
-                            () => onLoadTape(bytes),
-                        ]);
-                    } else {
+                    switch (gameOpts.model) {
+                    case SPEC48K:
+                        // 48K loading sequence: typìng LOAD ""
                         call_with_delay(2000, 100, [
                             () => wasm_bindgen.wasm_key_down(g_game, 0x63), //J (LOAD)
                             () => wasm_bindgen.wasm_key_up(g_game, 0x63),
@@ -198,6 +278,21 @@ async function onDocumentLoad() {
                             () => wasm_bindgen.wasm_key_up(g_game, 0x60), //ENTER
                             () => onLoadTape(bytes),
                         ]);
+                        break;
+                    case SPEC128K:
+                    case PLUS3:
+                        // 128K loading sequence: enter in the load menu
+                        // +3 loading sequence: same as 128K but a slightly longer delay because of the floppy
+                        call_with_delay(gameOpts.model == PLUS3 ? 2000 : 1500, 100, [
+                            () => wasm_bindgen.wasm_key_down(g_game, 0x60), //ENTER
+                            () => wasm_bindgen.wasm_key_up(g_game, 0x60), //ENTER
+                            () => onLoadTape(bytes),
+                        ]);
+                        break;
+                    case undefined:
+                        onLoadTape(bytes);
+                        break;
+
                     }
                 }
             },
@@ -205,7 +300,27 @@ async function onDocumentLoad() {
                 alert("Cannot download file " + tape);
             }
         );
+    } else if (disk) {
+        console.log("DISK=", disk);
+        await fetch_with_cors_if_needed(disk,
+            bytes => {
+                // Contrary to tapes, the disk is best loaded first, and then press enter, else
+                // the floppy may not be detected and the system will default to loading the tape.
+                if (onLoadDisk(bytes)) {
+                    if (gameOpts.model == PLUS3) {
+                        call_with_delay(2000, 100, [
+                            () => wasm_bindgen.wasm_key_down(g_game, 0x60), //ENTER
+                            () => wasm_bindgen.wasm_key_up(g_game, 0x60), //ENTER
+                        ]);
+                    }
+                }
+            },
+            error => {
+                alert("Cannot download file " + disk);
+            }
+        );
     }
+
     window.addEventListener('keydown', onKeyDown)
     window.addEventListener('keyup', onKeyUp)
     window.addEventListener('focus', onFocus)
@@ -216,14 +331,20 @@ async function onDocumentLoad() {
     if (document.hasFocus())
         onFocus();
 
+    if (g_actx.state == "suspended") {
+        document.getElementById('start-overlay').style.display = null;
+    }
+
     document.querySelector('body').addEventListener('mousedown', ensureAudioRunning, false);
-    document.getElementById('reset_48k').addEventListener('click', handleReset48k, false);
-    document.getElementById('reset_128k').addEventListener('click', handleReset128k, false);
+    document.getElementById('reset_48k').addEventListener('click', e => handleReset(e, SPEC48K), false);
+    document.getElementById('reset_128k').addEventListener('click', e => handleReset(e, SPEC128K), false);
+    document.getElementById('reset_plus3').addEventListener('click', e => handleReset(e, PLUS3), false);
     document.getElementById('load_tape').addEventListener('click', handleLoadTape, false);
     document.getElementById('stop_tape').addEventListener('click', handleStopTape, false);
     document.getElementById('snapshot').addEventListener('click', handleSnapshot, false);
     document.getElementById('load_snapshot').addEventListener('click', handleLoadSnapshot, false);
     document.getElementById('load_last_snapshot').addEventListener('click', handleLoadLastSnapshot, false);
+    document.getElementById('load_disk').addEventListener('click', handleLoadDisk, false);
     document.getElementById('fullscreen').addEventListener('click', handleFullscreen, false);
     document.getElementById('rzx_replay').addEventListener('click', handleRZXReplay, false);
     document.getElementById('turbo').addEventListener('click', e => handleTurbo(e, false), false);
@@ -231,20 +352,24 @@ async function onDocumentLoad() {
     document.getElementById('poke').addEventListener('click', handlePoke, false);
     document.getElementById('peek').addEventListener('click', handlePeek, false);
     document.getElementById('toggle_kbd').addEventListener('click', handleToggleKbd, false);
-    document.getElementById('dither').addEventListener('click', handleDither, false);
-    let ditherOn = boolURLParamDef(urlParams, 'dither', false);
-    setDither(ditherOn, g_gl);
-    if (ditherOn) {
-        document.getElementById('dither').classList.add('active');
+    let btnDither = document.getElementById('dither');
+    btnDither.addEventListener('click', handleDither, false);
+
+    if (dither) {
+        btnDither.classList.add('active');
     }
+    setDither(dither, g_gl);
 
     let cursorKeys = document.getElementById('cursor_keys');
     cursorKeys.addEventListener('change', handleCursorKeys, false);
-    if (window.localStorage) {
-        let cursorSel = parseInt(window.localStorage.getItem("cursorKeys"));
-        if (!isNaN(cursorSel))
-            cursorKeys.selectedIndex = cursorSel;
+    let cursorSel = parseInt(urlParams.get('cursorKeys'));
+    if (isNaN(cursorSel)) {
+        if (window.localStorage) {
+            cursorSel = parseInt(window.localStorage.getItem("cursorKeys"));
+        }
     }
+    if (!isNaN(cursorSel))
+        cursorKeys.selectedIndex = cursorSel;
     handleCursorKeys.call(cursorKeys, null);
 
     let keyboard = document.getElementById('keyboard');
@@ -275,22 +400,21 @@ async function onDocumentLoad() {
         //row (Reset/Turbo/etc) for easier tapping, without affecting desktop
         document.body.classList.add('touch-device');
 
-        //closing a popup is obvious on desktop, less so on mobile -- show a
-        //dedicated close button, touch-only, that just closes this window
-        let closeBtn = document.getElementById('close_emulator');
-        closeBtn.style.display = 'block';
-        closeBtn.addEventListener('click', () => { window.close(); }, false);
         joyBtns.addEventListener('touchstart', onOSJoyDown.bind(joyBtnsCtx), false);
         joyBtns.addEventListener('touchmove', onOSJoyDown.bind(joyBtnsCtx), false);
         joyBtns.addEventListener('touchend', onOSJoyUp.bind(joyBtnsCtx), false);
         //joystick fire
         joyFire.addEventListener('touchstart', ev => {
             ev.preventDefault();
+            if (g_delayed_funcs)
+                return;
             drawJoystickFire(joyFireCtx, true);
             wasm_bindgen.wasm_key_down(g_game, g_cursorKeys[4]);
         }, false);
         joyFire.addEventListener('touchend', ev => {
             ev.preventDefault();
+            if (g_delayed_funcs)
+                return;
             drawJoystickFire(joyFireCtx, false);
             wasm_bindgen.wasm_key_up(g_game, g_cursorKeys[4]);
         }, false);
@@ -304,21 +428,27 @@ async function onDocumentLoad() {
 
         //on wider touch devices (tablets, unfolded foldables) the emulated
         //screen + controls + keyboard + joystick stacked together can be
-        //taller than the viewport, pushing the controls off-screen below
-        //the fold -- regular phones don't hit this because they're already
-        //viewport-zoomed out enough to fit everything. Shrink the whole
-        //layout just enough to fit, computed from the actual measured
-        //height rather than a fixed screen-size breakpoint, so a phone
-        //where everything already fits computes a ratio of ~1 (no change).
-        //IMPORTANT: the trigger check below uses the true, unmargined ratio,
-        //so a phone that already fits is never touched at all -- the 10%
-        //safety margin only applies to *how much* to shrink once shrinking
-        //has already been decided to be necessary (fitting exactly flush to
-        //the edge still left the gamepad buttons slightly clipped in
-        //practice on a real device, hence the deliberate extra margin).
+        //much taller than the viewport, pushing the controls way off-screen
+        //below the fold. Shrink the whole layout just enough to fit,
+        //computed from the actual measured height rather than a fixed
+        //screen-size breakpoint. Confirmed working on Michael's real
+        //Fold 7 / Tab S9 (the 10% safety margin below is tuned from that
+        //real-device feedback -- fitting exactly flush to the edge still
+        //left the gamepad buttons slightly clipped in practice).
         let naturalFit = window.innerHeight / document.documentElement.scrollHeight;
-        if (naturalFit < 0.99) {
+        if (naturalFit < 0.75) {
             document.body.style.zoom = naturalFit * 0.90;
+        } else {
+            //Regular phones -- with border=32 there's essentially no spare
+            //vertical headroom left even on a normal phone (measured
+            //naturalFit=0.983 on Michael's own phone, i.e. already almost
+            //exactly full height with zero zoom applied), so *any* zoom-in
+            //here means the page becomes a little taller than the screen.
+            //Michael's explicit choice (2026-08-28): always zoom in by a
+            //fixed, modest amount regardless, accepting a small scroll to
+            //reach the button row below the keyboard/joystick, in exchange
+            //for a visibly bigger game screen that better fills the width.
+            document.body.style.zoom = 1.08;
         }
     } else {
         let keys = document.getElementsByClassName('key');
@@ -336,8 +466,8 @@ function drawJoystickBtns(ctx, t, l, r, b) {
     let rad = 0.45 * Math.min(w, h);
     ctx.lineWidth = 5;
     let grd = ctx.createRadialGradient(w/2, h/2, 0, w/2, h/2, rad);
-    grd.addColorStop(0, '#ddd');			/* Was 'red' -- slightly off-white "pressed" highlight instead */
-    grd.addColorStop(1, '#333');			/* Was 'black' -- matches the resting fill colour for a softer falloff */
+    grd.addColorStop(0, '#ddd');
+    grd.addColorStop(1, '#333');
 
     for (let i = 0; i < 4; ++i) {
         ctx.beginPath();
@@ -350,10 +480,10 @@ function drawJoystickBtns(ctx, t, l, r, b) {
         case 2: x = t; break;
         case 3: x = r; break;
         }
-        ctx.fillStyle = x ? grd : '#333';		/* Was 'white' -- matches site's dark button colour */
+        ctx.fillStyle = x ? grd : '#333';
         ctx.fill();
     }
-    ctx.strokeStyle = '#888';				/* Outline needs to be lighter than the fill to stay visible against the black page background */
+    ctx.strokeStyle = '#888';
     ctx.beginPath();
     ctx.arc(w/2, h/2, rad, 0, 2 * Math.PI);
     ctx.stroke();
@@ -362,8 +492,7 @@ function drawJoystickBtns(ctx, t, l, r, b) {
     ctx.font = 'bold 24px monospace';
     ctx.textAlign = 'center';
     ctx.textBaseline = 'middle';
-    ctx.fillText('Joystick', w/2, h/2 - 14);
-    ctx.fillText('Button', w/2, h/2 + 14);
+    ctx.fillText('Joystick', w/2, h/2);
 }
 function drawJoystickFire(ctx, f) {
     let w = ctx.canvas.width;
@@ -373,13 +502,13 @@ function drawJoystickFire(ctx, f) {
 
     if (f) {
         let grd = ctx.createRadialGradient(w/2, h/2, 0, w/2, h/2, rad);
-        grd.addColorStop(0, '#ddd');		/* Was 'red' -- slightly off-white "pressed" highlight instead */
-        grd.addColorStop(1, '#333');		/* Was 'black' -- matches the resting fill colour for a softer falloff */
+        grd.addColorStop(0, '#ddd');
+        grd.addColorStop(1, '#333');
         ctx.fillStyle = grd;
     } else {
-        ctx.fillStyle = '#333';			/* Was 'white' -- matches site's dark button colour */
+        ctx.fillStyle = '#333';
     }
-    ctx.strokeStyle = '#888';				/* Outline needs to be lighter than the fill to stay visible against the black page background */
+    ctx.strokeStyle = '#888';
 
     ctx.beginPath();
     ctx.arc(w/2, h/2, rad, 0, 2*Math.PI);
@@ -397,6 +526,9 @@ function drawJoystickFire(ctx, f) {
 
 function onOSJoyDown(ev) {
     ev.preventDefault();
+    if (g_delayed_funcs)
+        return;
+
     let t = null;
     for (let i = 0; i < ev.changedTouches.length; ++i)
         if (g_joyTouchIdentifier == null || g_joyTouchIdentifier == ev.changedTouches[i].identifier) {
@@ -455,6 +587,9 @@ function onOSJoyDown(ev) {
 
 function onOSJoyUp(ev) {
     ev.preventDefault();
+    if (g_delayed_funcs)
+        return;
+
     let t = null;
     for (let i = 0; i < ev.changedTouches.length; ++i)
         if (g_joyTouchIdentifier == ev.changedTouches[i].identifier) {
@@ -472,9 +607,12 @@ function onOSJoyUp(ev) {
 }
 
 function onOSKeyDown(ev) {
+    ev.preventDefault();
+    if (g_delayed_funcs)
+        return;
+
     //mouse events obey sticky keys, touch events do not
     let key = parseInt(this.dataset.code);
-    ev.preventDefault();
     if (!this.classList.contains('pressed2') && !this.classList.contains('pressed')) {
         this.classList.add('pressed');
         wasm_bindgen.wasm_key_down(g_game, key);
@@ -531,7 +669,8 @@ function onKeyDown(ev) {
         ev.preventDefault();
         return;
     case "F10":
-        setTurbo(true, false);
+        if (!g_delayed_funcs)
+            setTurbo(true, false);
         ev.preventDefault();
         return;
     case "F11":
@@ -548,9 +687,13 @@ function onKeyDown(ev) {
     let key = getKeyCode(ev);
     if (key == undefined)
         return;
-    wasm_bindgen.wasm_key_down(g_game, key);
     ev.preventDefault();
+    if (g_delayed_funcs)
+        return;
+
+    wasm_bindgen.wasm_key_down(g_game, key);
 }
+
 function onKeyUp(ev) {
     switch (ev.code) {
     case "F10":
@@ -562,8 +705,12 @@ function onKeyUp(ev) {
     let key = getKeyCode(ev);
     if (key == undefined)
         return;
-    wasm_bindgen.wasm_key_up(g_game, key);
+
     ev.preventDefault();
+    if (g_delayed_funcs)
+        return;
+
+    wasm_bindgen.wasm_key_up(g_game, key);
 }
 
 function onFocus(ev) {
@@ -571,6 +718,8 @@ function onFocus(ev) {
         wasm_bindgen.wasm_reset_input(g_game);
     if (g_interval === null) {
         g_interval = setInterval(function(){
+            if (g_actx.state == "suspended")
+                return;
             inputGamepad();
             if (g_turbo) {
                 wasm_bindgen.wasm_draw_frame(g_game, true);
@@ -591,6 +740,7 @@ function onFocus(ev) {
         }, 0);
     }
 }
+
 function onBlur(ev) {
     if (!g_delayed_funcs)
         wasm_bindgen.wasm_reset_input(g_game);
@@ -599,7 +749,6 @@ function onBlur(ev) {
         g_interval = null;
     }
 }
-
 
 function onGamepadConnected(ev, connecting) {
     if (!g_gamepad) {
@@ -615,6 +764,9 @@ function onGamepadDisconnected(ev) {
 }
 
 function inputGamepad() {
+    if (g_delayed_funcs != null)
+        return;
+
     if (g_gamepad === null)
         return;
     let gamepad = navigator.getGamepads()[g_gamepad];
@@ -769,7 +921,7 @@ function resetTape() {
 }
 
 function onLoadTape(data) {
-    let tape_len = wasm_bindgen.wasm_load_tape(g_game, new Uint8Array(data));
+    let tape_len = wasm_bindgen.wasm_tape_load(g_game, new Uint8Array(data));
     let xTape = resetTape();
 
     for (let i = 0; i < tape_len; ++i) {
@@ -803,18 +955,39 @@ function handleTapeBlock(evt) {
     wasm_bindgen.wasm_tape_seek(g_game, index);
 }
 
-function handleReset48k(evt) {
-    resetTape();
-    wasm_bindgen.wasm_drop(g_game);
-    g_is128k = false;
-    g_game = wasm_bindgen.wasm_main(g_is128k);
+function resetDisk() {
+    let disk = document.getElementById("load_disk");
+    // show the disk as not-inserted
+    disk.classList.remove('active');
+
+    // but the button may not be visible
+    let model = wasm_bindgen.wasm_game_model(g_game);
+    if (model == PLUS3) {
+        disk.style.display = null;
+    } else {
+        disk.style.display = 'none'
+    }
 }
 
-function handleReset128k(evt) {
-    resetTape();
-    wasm_bindgen.wasm_drop(g_game);
-    g_is128k = true;
-    g_game = wasm_bindgen.wasm_main(g_is128k);
+function onLoadDisk(data) {
+    if (!wasm_bindgen.wasm_disk_load(g_game, new Uint8Array(data))) {
+        return false;
+    }
+    let disk = document.getElementById('load_disk');
+    disk.classList.add('active');
+    return true;
+}
+
+function handleDiskSelect(evt) {
+    let f = evt.target.files[0];
+    console.log("reading " + f.name);
+    let reader = new FileReader();
+    reader.onload = function(e) { onLoadDisk(this.result); };
+    reader.readAsArrayBuffer(f);
+}
+
+function handleReset(evt, model) {
+    createGame({ model: model });
 }
 
 function handleLoadTape(evt) {
@@ -827,6 +1000,20 @@ function handleLoadTape(evt) {
 
 function handleStopTape(evt) {
     wasm_bindgen.wasm_tape_stop(g_game);
+}
+
+function handleLoadDisk(evt) {
+    if (this.classList.contains('active')) {
+        wasm_bindgen.wasm_disk_eject(g_game);
+        this.classList.remove('active');
+        return;
+    }
+
+    let x = document.createElement("input");
+    x.type = "file";
+    x.accept = [".dsk", ".zip"];
+    x.addEventListener('change', handleDiskSelect, false);
+    x.click();
 }
 
 function handleLoadSnapshotSelect(evt) {
@@ -843,7 +1030,7 @@ function handleLoadSnapshotSelect(evt) {
 function handleLoadSnapshot(evt) {
     let x = document.createElement("input");
     x.type = "file";
-    x.accept = [".z80", ".rzx", ".zip"];
+    x.accept = [".z80", ".rzx", ".zip", ".bin"];
     x.addEventListener('change', handleLoadSnapshotSelect, false);
     x.click();
 }
@@ -858,7 +1045,7 @@ function saveLastSnapshot(data) {
 function handleLoadLastSnapshot(evt) {
     if (!g_lastSnapshot)
         return;
-    g_is128k = wasm_bindgen.wasm_load_snapshot(g_game, g_lastSnapshot);
+    createGame({ snapshot: g_lastSnapshot })
 }
 
 function handleSnapshot(evt) {
@@ -957,16 +1144,14 @@ function handleDither(evt) {
 
 function setDither(dither, gl) {
     if (dither) {
+        g_realCanvas.classList.remove('pixelated');
         if (gl) {
             gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.LINEAR);
-        } else {
-            document.getElementById('game-layer').classList.remove('pixelated');
         }
     } else {
+        g_realCanvas.classList.add('pixelated');
         if (gl) {
             gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
-        } else {
-            document.getElementById('game-layer').classList.add('pixelated');
         }
     }
 }

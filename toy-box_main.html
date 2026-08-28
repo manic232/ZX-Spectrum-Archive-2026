@@ -16,8 +16,8 @@
 <!-- Header Images -->
 <img src="zxsa_files/images-main/rainbow.png" class="header-left">
 
-<a id="toyboxLink" href="imageviewer.html#zxsa_files/images-main/toybox.png" onclick="return swapToyboxImage()">
-    <img id="toyboxImage" src="zxsa_files/images-main/toybox.png" class="header-right" alt="toybox.png" border="0">
+<a id="toyboxLink" href="imageviewer.html#zxsa_files/images-main/toybox-games.png" onclick="return swapToyboxImage()">
+    <img id="toyboxImage" src="zxsa_files/images-main/toybox-games.png" class="header-right" alt="toybox-games.png" border="0">
 </a>
 
 <!-- Heading (clears ONLY the left image) -->
@@ -28,7 +28,7 @@
 
     <p>A hand-picked selection of the games I grew up with — the ones that defined my childhood in the 1980s, made those years magical, and sparked my lifelong love of the Spectrum.</p>
 	
-    <p>The Toy Box is an old wooden box my Grandpa made for me when I was very young. I probably kept toys in it at some point, but by the time I had my Spectrum in the 80s it had a far more important job: it became the platform where my Spectrum tapes lived — including the ones I’d copied using my Dad’s hi-fi system. They would sit on top of the box, lined up and waiting to be played. I still have the Toy Box today.</p>
+    <p>The Toy Box is an old wooden box my Grandpa made for me when I was very young. I probably kept toys in it at some point, but by the time I had my Spectrum in the 80s it had a far more important job: it became the platform where my Spectrum tapes lived — including the ones I’d copied using my Dad’s hi-fi system. They would sit on top of the box, lined up and waiting to be played. I still own the Toy Box today and is featured as the main header image for this section.</p>
 	
     <p>I had a <a href="info-16-48.html">48K Spectrum</a> back then, so there are no 128K titles here. These versions were essentially the same games with little or no noticeable graphical enhancements. They did however have better music and effects thanks to the <a href="https://en.wikipedia.org/wiki/General_Instrument_AY-3-8910" target="_blank">AY-3-8912</a> sound chip.</p>
 	
@@ -75,8 +75,8 @@ function swapToyboxImage() {
   var img = document.getElementById('toyboxImage');
   var link = document.getElementById('toyboxLink');
 
-  var original = "toybox.png";
-  var alternate = "r-tape-load-error.png";
+  var original = "toybox-games.png";
+  var alternate = "toybox-empty.png";
 
   if (img.src.indexOf(original) != -1) {
     img.src = "zxsa_files/images-main/" + alternate;
