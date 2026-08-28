@@ -10,6 +10,7 @@ function playGameRaze(romUrl, title, machine) {
         + '&webgl=N' // 2D canvas is more reliable than WebGL across browsers (e.g. Brave's shields)
         + '&dither=Y' // Smooths the scaled-up Spectrum display instead of showing hard pixel edges
         + '&border=32' // Bigger, more authentic border than RAZE's tiny 5,4 default -- confirmed pixel-perfect against the matching 960px #stage/#controls width in emulator/raze.css
+        + '&cursorKeys=1' // Kempston. Explicit param instead of relying on the <select>'s markup default -- RAZE remembers the player's last choice in localStorage and checks that BEFORE the markup default, so without this, switching control schemes on one game silently carries over and overrides the intended default on every other game afterwards
         + (machine === '128' ? '' : '&48k=Y');
 
     // window.open has no "centre" option -- left/top have to be computed by
@@ -46,7 +47,8 @@ function playGameRazeDisk(romUrl, title) {
         + '&title=' + encodeURIComponent(title || '')
         + '&webgl=N'
         + '&dither=Y'
-        + '&border=32';
+        + '&border=32'
+        + '&cursorKeys=1'; // Kempston -- see playGameRaze() for why this must be explicit rather than relying on the markup default
 
     var popupWidth = 980, popupHeight = 988;
     var left = Math.max(0, Math.round(window.screenX + (window.outerWidth - popupWidth) / 2));
@@ -75,7 +77,8 @@ function playGameRazeRom(romUrl, title) {
         + '&title=' + encodeURIComponent(title || '')
         + '&webgl=N'
         + '&dither=Y'
-        + '&border=32';
+        + '&border=32'
+        + '&cursorKeys=1'; // Kempston -- see playGameRaze() for why this must be explicit rather than relying on the markup default
 
     var popupWidth = 980, popupHeight = 988;
     var left = Math.max(0, Math.round(window.screenX + (window.outerWidth - popupWidth) / 2));

@@ -28,7 +28,7 @@ The final milestone for me was getting the site online through GitHub Pages. It 
 * Box art is now clickable: click to expand, click again to return.
 * Removed all greyed-out entries — every game now links to a magazine review.
 * Removed Offline WOS archive, FAQ section, Pokes, and CRASH Scores pages.
-* Removed all references to my old ROM and box-art folders.
+* Games are now playable right in the browser, no external game folders to be seen!.
 * Removed most mentions of ZX32 — it’s outdated and better emulators now exist.
 * Reformatted the About, Help and further reading sections for consistency.
 * Added images where appropriate to the Further Reading sections.
