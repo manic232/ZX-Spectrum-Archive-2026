@@ -1,16 +1,53 @@
+// ============================================================================
+// WHAT THIS FILE IS
+// ============================================================================
+// This is the "glue" between a game page and the RAZE emulator. Every game's
+// play link on the site calls one of the three functions below instead of
+// just downloading the file -- that's what makes clicking a tape/disk/ROM
+// icon open the game running live in a popup, instead of saving a file.
+//
+// The three functions, one per type of game file:
+//   playGameRaze(...)     - cassette tape games (.tzx / .tap) -- almost all games
+//   playGameRazeDisk(...) - floppy disk games (.dsk) -- a handful of Spectrum +3 titles
+//   playGameRazeRom(...)  - ROM cartridge / save-snapshot games (.rom / .z80)
+//
+// CHANGING THE JOYSTICK TYPE FOR ONE GAME
+// ----------------------------------------------------------------------------
+// Every game defaults to the Kempston joystick, since that's what most games
+// expect. If a specific game only works with a different control scheme
+// (e.g. some ROM-cartridge games only support Sinclair, not Kempston), you
+// can override it just for that one game by adding an extra value on the end
+// of its onclick in the game's .html page. For example, to make Jetpac's ROM
+// version use Sinclair instead of the default Kempston, change:
+//
+//   onclick="return playGameRazeRom(this.href, 'Jetpac (ROM Version)')"
+//
+// to:
+//
+//   onclick="return playGameRazeRom(this.href, 'Jetpac (ROM Version)', '2')"
+//
+// The numbers are: '0' Cursor keys, '1' Kempston, '2' Sinclair, '3' Protek/Cursor.
+// Leave the extra value off entirely and a game just gets the normal Kempston
+// default -- nothing changes for any game unless you deliberately add one of
+// these numbers to its own link.
+// ============================================================================
+
 // Opens a ROM in the RAZE in-browser emulator via a popup window.
 // romUrl: relative path to the .tzx/.tap file (e.g. "zxsa_files/roms/alien.tzx")
 // title: game title, shown in the popup window title bar
 // machine: optional, pass '128' to boot as a 128K Spectrum instead of the default 48K
 //          (most games are 48K; some only run correctly on a 128 though)
-function playGameRaze(romUrl, title, machine) {
+// cursorKeys: optional, overrides the default control scheme for games that
+//             need something other than Kempston -- '0' Cursor keys, '1'
+//             Kempston (default), '2' Sinclair, '3' Protek/Cursor
+function playGameRaze(romUrl, title, machine, cursorKeys) {
     var playerUrl = 'zxsa_files/emulator/index.html'
         + '?tape=' + encodeURIComponent(romUrl)
         + '&title=' + encodeURIComponent(title || '')
         + '&webgl=N' // 2D canvas is more reliable than WebGL across browsers (e.g. Brave's shields)
         + '&dither=Y' // Smooths the scaled-up Spectrum display instead of showing hard pixel edges
         + '&border=32' // Bigger, more authentic border than RAZE's tiny 5,4 default -- confirmed pixel-perfect against the matching 960px #stage/#controls width in emulator/raze.css
-        + '&cursorKeys=1' // Kempston. Explicit param instead of relying on the <select>'s markup default -- RAZE remembers the player's last choice in localStorage and checks that BEFORE the markup default, so without this, switching control schemes on one game silently carries over and overrides the intended default on every other game afterwards
+        + '&cursorKeys=' + (cursorKeys || '1') // Kempston by default. Explicit param instead of relying on the <select>'s markup default -- RAZE remembers the player's last choice in localStorage and checks that BEFORE the markup default, so without this, switching control schemes on one game silently carries over and overrides the intended default on every other game afterwards
         + (machine === '128' ? '' : '&48k=Y');
 
     // window.open has no "centre" option -- left/top have to be computed by
@@ -41,14 +78,15 @@ function playGameRaze(romUrl, title, machine) {
 // entirely), and if both &tape= and &disk= were ever present tape always
 // wins in raze.js's own if/else, silently ignoring the disk.
 // romUrl: relative path to the .dsk file. title: game title.
-function playGameRazeDisk(romUrl, title) {
+// cursorKeys: optional override -- see playGameRaze() for the value meanings.
+function playGameRazeDisk(romUrl, title, cursorKeys) {
     var playerUrl = 'zxsa_files/emulator/index.html'
         + '?disk=' + encodeURIComponent(romUrl)
         + '&title=' + encodeURIComponent(title || '')
         + '&webgl=N'
         + '&dither=Y'
         + '&border=32'
-        + '&cursorKeys=1'; // Kempston -- see playGameRaze() for why this must be explicit rather than relying on the markup default
+        + '&cursorKeys=' + (cursorKeys || '1'); // Kempston by default -- see playGameRaze() for why this must be explicit rather than relying on the markup default
 
     var popupWidth = 980, popupHeight = 988;
     var left = Math.max(0, Math.round(window.screenX + (window.outerWidth - popupWidth) / 2));
@@ -71,14 +109,15 @@ function playGameRazeDisk(romUrl, title) {
 // romUrl-specific param, and a ROM always boots as a 48K system regardless
 // of any machine-mode param, so none is passed here. romUrl: relative path
 // to the .rom/.z80 file. title: game title.
-function playGameRazeRom(romUrl, title) {
+// cursorKeys: optional override -- see playGameRaze() for the value meanings.
+function playGameRazeRom(romUrl, title, cursorKeys) {
     var playerUrl = 'zxsa_files/emulator/index.html'
         + '?snapshot=' + encodeURIComponent(romUrl)
         + '&title=' + encodeURIComponent(title || '')
         + '&webgl=N'
         + '&dither=Y'
         + '&border=32'
-        + '&cursorKeys=1'; // Kempston -- see playGameRaze() for why this must be explicit rather than relying on the markup default
+        + '&cursorKeys=' + (cursorKeys || '1'); // Kempston by default -- see playGameRaze() for why this must be explicit rather than relying on the markup default
 
     var popupWidth = 980, popupHeight = 988;
     var left = Math.max(0, Math.round(window.screenX + (window.outerWidth - popupWidth) / 2));
