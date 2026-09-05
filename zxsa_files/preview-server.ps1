@@ -1,9 +1,36 @@
 $Root = $PSScriptRoot | Split-Path -Parent
 $Port = 8791
 
+# Same LAN IP the "Repo Sync O-Matic" tool already uses for its own mobile
+# preview -- hardcoded to match that existing setup rather than detected
+# dynamically, since this PC has multiple network adapters (VPN/virtual
+# ones included) and an automatic "192.168.*" match could easily grab the
+# wrong one. If this machine's LAN IP ever changes, update it here.
+$LanIp = "192.168.50.207"
+
+# Binding the LAN address requires a one-time admin setup (URL ACL +
+# firewall rule) that may not have been done -- if it hasn't, adding this
+# prefix and calling Start() would throw and take the *whole* listener down
+# with it, breaking the desktop preview too. Try LAN first; if it fails,
+# drop back to localhost-only so the basic preview always still works.
+# IMPORTANT: build a *fresh* HttpListener for the fallback attempt rather
+# than reusing the one whose Start() just failed -- reusing it left the
+# object in a state where even a successful-looking second Start() call
+# never actually served requests (confirmed by testing: window opened fine,
+# but localhost stopped responding entirely).
+$lanEnabled = $true
 $listener = New-Object System.Net.HttpListener
 $listener.Prefixes.Add("http://localhost:$Port/")
-$listener.Start()
+try {
+    $listener.Prefixes.Add("http://$($LanIp):$Port/")
+    $listener.Start()
+} catch {
+    $lanEnabled = $false
+    try { $listener.Close() } catch {}
+    $listener = New-Object System.Net.HttpListener
+    $listener.Prefixes.Add("http://localhost:$Port/")
+    $listener.Start()
+}
 
 $mime = @{
     ".html" = "text/html"; ".htm" = "text/html"; ".css" = "text/css"
@@ -92,7 +119,8 @@ if ($isLightMode) {
 
 $form = New-Object System.Windows.Forms.Form
 $form.Text = "ZXSA Local Preview"
-$form.Size = New-Object System.Drawing.Size(600, 215)
+$formHeight = if ($lanEnabled) { 250 } else { 215 }		# Taller when showing both the desktop and mobile URLs; unchanged from before otherwise.
+$form.Size = New-Object System.Drawing.Size(600, $formHeight)
 $form.FormBorderStyle = 'FixedToolWindow'
 $form.MaximizeBox = $false
 $form.MinimizeBox = $false
@@ -121,8 +149,17 @@ $stopButton.TabStop = $false						# It's the only control on the form, so it aut
 # Bottom-docked one -- added the other way around first, which visually put
 # the button on top of/overlapping the label's own bottom edge instead of
 # being excluded from its area.
-$urlText = "http://localhost:$Port/"
-$labelText = "ZXSA local preview is running.`n`n$urlText"
+$localUrlText = "http://localhost:$Port/"
+$lanUrlText = "http://$($LanIp):$Port/"
+
+if ($lanEnabled) {
+    $labelText = "ZXSA local preview is running.`n`nThis PC: $localUrlText`nMobile (same Wi-Fi): $lanUrlText"
+} else {
+    # LAN binding failed (one-time admin setup not done yet, most likely) --
+    # same single-URL layout as before, no mobile line shown at all.
+    $labelText = "ZXSA local preview is running.`n`n$localUrlText"
+}
+
 $label = New-Object System.Windows.Forms.LinkLabel
 $label.Text = $labelText
 $label.Dock = 'Fill'
@@ -132,8 +169,15 @@ $label.ForeColor = $fgColor
 $label.BackColor = $bgColor
 $label.LinkColor = [System.Drawing.Color]::FromArgb(90, 160, 255)
 $label.LinkBehavior = 'HoverUnderline'
-$label.LinkArea = New-Object System.Windows.Forms.LinkArea($labelText.IndexOf($urlText), $urlText.Length)
-$label.Add_LinkClicked({ try { Start-Process $urlText } catch {} })
+# Links.Add() (rather than the simpler single-region LinkArea property) is
+# needed here because there can be two separate clickable URLs in the same
+# text -- each Link's LinkData carries the actual URL to open, so one
+# shared LinkClicked handler below can open whichever one was clicked.
+[void]$label.Links.Add($labelText.IndexOf($localUrlText), $localUrlText.Length, $localUrlText)
+if ($lanEnabled) {
+    [void]$label.Links.Add($labelText.IndexOf($lanUrlText), $lanUrlText.Length, $lanUrlText)
+}
+$label.Add_LinkClicked({ param($linkSender, $linkEv) try { Start-Process $linkEv.Link.LinkData } catch {} })
 $form.Controls.Add($label)
 $form.Controls.Add($stopButton)
 

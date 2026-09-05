@@ -55,7 +55,7 @@ function playGameRaze(romUrl, title, machine, cursorKeys) {
     // screen), so the popup opens near where you're already looking rather
     // than jumping to screen-centre on a different monitor.
     // Sized to fit the wider 960px stage the border=32 above produces.
-    var popupWidth = 980, popupHeight = 988;
+    var popupWidth = 987, popupHeight = 995;
     var left = Math.max(0, Math.round(window.screenX + (window.outerWidth - popupWidth) / 2));
     var top = Math.max(0, Math.round(window.screenY + (window.outerHeight - popupHeight) / 2));
 
@@ -88,7 +88,7 @@ function playGameRazeDisk(romUrl, title, cursorKeys) {
         + '&border=32'
         + '&cursorKeys=' + (cursorKeys || '1'); // Kempston by default -- see playGameRaze() for why this must be explicit rather than relying on the markup default
 
-    var popupWidth = 980, popupHeight = 988;
+    var popupWidth = 987, popupHeight = 995;
     var left = Math.max(0, Math.round(window.screenX + (window.outerWidth - popupWidth) / 2));
     var top = Math.max(0, Math.round(window.screenY + (window.outerHeight - popupHeight) / 2));
 
@@ -119,7 +119,7 @@ function playGameRazeRom(romUrl, title, cursorKeys) {
         + '&border=32'
         + '&cursorKeys=' + (cursorKeys || '1'); // Kempston by default -- see playGameRaze() for why this must be explicit rather than relying on the markup default
 
-    var popupWidth = 980, popupHeight = 988;
+    var popupWidth = 987, popupHeight = 995;
     var left = Math.max(0, Math.round(window.screenX + (window.outerWidth - popupWidth) / 2));
     var top = Math.max(0, Math.round(window.screenY + (window.outerHeight - popupHeight) / 2));
 
