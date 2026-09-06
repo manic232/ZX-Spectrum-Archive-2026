@@ -1,6 +1,6 @@
 ZX Spectrum Archive: 2026 Web 1.5 Reboot Edition: https://www.zxsa.co.uk
 
-*If you spot anything wrong, such as layout bugs, typos, inaccurate information or missing images, or if I have used content that you would like removed, please let me know in <a href="https://github.com/manic232/ZX-Spectrum-Archive-2026/issues" target="_blank">issues</a> and I will act swiftly.*
+*If you spot anything wrong, such as layout bugs, broken links, typos, inaccurate information, a game not working, or if I have used content that you would like removed, please let me know in <a href="https://github.com/manic232/ZX-Spectrum-Archive-2026/issues" target="_blank">issues</a> on my GitHub Repo and I will act swiftly.*
 
 ## About The Archive:
 
