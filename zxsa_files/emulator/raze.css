@@ -292,8 +292,7 @@ select {
 }
 
 #keyboard #keys {
-  width: 798px;						/* Keeps the keyboard at the dev's original width even though #controls is wider (960px) -- the #ribbon decoration below is positioned with a hardcoded pixel value tuned for exactly this width, and doesn't need to stretch edge-to-edge with the rest of the popup */
-  margin: var(--gap-md) auto;		/* Was "var(--gap-md) 0" -- auto centers the now-narrower keyboard within the wider #controls */
+  margin: var(--gap-md) 0;
   padding: var(--gap-sm);
   background-color: var(--color-black);
   position: relative;
@@ -304,8 +303,8 @@ select {
   position: absolute;
   width: 60px;
   height: 100%;
-  left: 760px;
-  top: 35px;
+  right: -18px;
+  bottom: -33px;
   rotate: 22deg;
 }
 
