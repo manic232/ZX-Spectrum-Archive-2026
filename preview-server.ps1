@@ -1,4 +1,4 @@
-$Root = $PSScriptRoot | Split-Path -Parent
+$Root = Join-Path $PSScriptRoot "docs"
 $Port = 8791
 
 # Same LAN IP the "Repo Sync O-Matic" tool already uses for its own mobile
