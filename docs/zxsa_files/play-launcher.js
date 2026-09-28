@@ -1,4 +1,4 @@
-// ============================================================================
+﻿// ============================================================================
 // WHAT THIS FILE IS
 // ============================================================================
 // This is the "glue" between a game page and the RAZE emulator. Every game's
@@ -30,6 +30,19 @@
 // Leave the extra value off entirely and a game just gets the normal Kempston
 // default -- nothing changes for any game unless you deliberately add one of
 // these numbers to its own link.
+//
+// ADDING CHEATS (POKES) FOR ONE GAME
+// ----------------------------------------------------------------------------
+// If a .pok file exists for a game (zxsa_files/roms/<name>.pok, same base
+// name as the tape/disk/rom file), pass its path as the LAST argument and
+// RAZE shows a "Pokes" button with the cheats from that file. cursorKeys (and
+// machine, for playGameRaze) must still be given a value first -- use
+// `undefined` as a placeholder for any you're not overriding. For example:
+//
+//   onclick="return playGameRaze(this.href, 'Alien', undefined, undefined, 'zxsa_files/roms/alien.pok')"
+//
+// Leave it off entirely (or pass undefined/null/'') and the game just has no
+// Pokes button, same as before this feature existed.
 // ============================================================================
 
 // Opens a ROM in the RAZE in-browser emulator via a popup window.
@@ -40,7 +53,9 @@
 // cursorKeys: optional, overrides the default control scheme for games that
 //             need something other than Kempston -- '0' Cursor keys, '1'
 //             Kempston (default), '2' Sinclair, '3' Protek/Cursor
-function playGameRaze(romUrl, title, machine, cursorKeys) {
+// pokeUrl: optional, relative path to a .pok cheat file for this game (e.g.
+//          "zxsa_files/roms/alien.pok") -- shows a Pokes button in RAZE if given
+function playGameRaze(romUrl, title, machine, cursorKeys, pokeUrl) {
     var playerUrl = 'zxsa_files/emulator/index.html'
         + '?tape=' + encodeURIComponent(romUrl)
         + '&title=' + encodeURIComponent(title || '')
@@ -48,7 +63,14 @@ function playGameRaze(romUrl, title, machine, cursorKeys) {
         + '&dither=Y' // Smooths the scaled-up Spectrum display instead of showing hard pixel edges
         + '&border=32' // Bigger, more authentic border than RAZE's tiny 5,4 default -- confirmed pixel-perfect against the matching 960px #stage/#controls width in emulator/raze.css
         + '&cursorKeys=' + (cursorKeys || '1') // Kempston by default. Explicit param instead of relying on the <select>'s markup default -- RAZE remembers the player's last choice in localStorage and checks that BEFORE the markup default, so without this, switching control schemes on one game silently carries over and overrides the intended default on every other game afterwards
-        + (machine === '128' ? '' : '&48k=Y');
+        + (machine === '128' ? '' : '&48k=Y')
+        // Resolved to an absolute URL before encoding -- unlike romUrl (which
+        // comes from an <a href> the browser already resolves absolutely via
+        // this.href), pokeUrl arrives as a bare relative string. Left as-is,
+        // it would be resolved relative to playerUrl's own folder once inside
+        // the emulator popup (one level deeper than the site root), not
+        // relative to the game page it was written for -- 404ing every time.
+        + (pokeUrl ? '&poke=' + encodeURIComponent(new URL(pokeUrl, window.location.href).href) : '');
 
     // window.open has no "centre" option -- left/top have to be computed by
     // hand, positioned relative to the current browser window (not the raw
@@ -79,14 +101,22 @@ function playGameRaze(romUrl, title, machine, cursorKeys) {
 // wins in raze.js's own if/else, silently ignoring the disk.
 // romUrl: relative path to the .dsk file. title: game title.
 // cursorKeys: optional override -- see playGameRaze() for the value meanings.
-function playGameRazeDisk(romUrl, title, cursorKeys) {
+// pokeUrl: optional .pok cheat file path -- see playGameRaze() for details.
+function playGameRazeDisk(romUrl, title, cursorKeys, pokeUrl) {
     var playerUrl = 'zxsa_files/emulator/index.html'
         + '?disk=' + encodeURIComponent(romUrl)
         + '&title=' + encodeURIComponent(title || '')
         + '&webgl=N'
         + '&dither=Y'
         + '&border=32'
-        + '&cursorKeys=' + (cursorKeys || '1'); // Kempston by default -- see playGameRaze() for why this must be explicit rather than relying on the markup default
+        + '&cursorKeys=' + (cursorKeys || '1') // Kempston by default -- see playGameRaze() for why this must be explicit rather than relying on the markup default
+        // Resolved to an absolute URL before encoding -- unlike romUrl (which
+        // comes from an <a href> the browser already resolves absolutely via
+        // this.href), pokeUrl arrives as a bare relative string. Left as-is,
+        // it would be resolved relative to playerUrl's own folder once inside
+        // the emulator popup (one level deeper than the site root), not
+        // relative to the game page it was written for -- 404ing every time.
+        + (pokeUrl ? '&poke=' + encodeURIComponent(new URL(pokeUrl, window.location.href).href) : '');
 
     var popupWidth = 987, popupHeight = 995;
     var left = Math.max(0, Math.round(window.screenX + (window.outerWidth - popupWidth) / 2));
@@ -110,14 +140,22 @@ function playGameRazeDisk(romUrl, title, cursorKeys) {
 // of any machine-mode param, so none is passed here. romUrl: relative path
 // to the .rom/.z80 file. title: game title.
 // cursorKeys: optional override -- see playGameRaze() for the value meanings.
-function playGameRazeRom(romUrl, title, cursorKeys) {
+// pokeUrl: optional .pok cheat file path -- see playGameRaze() for details.
+function playGameRazeRom(romUrl, title, cursorKeys, pokeUrl) {
     var playerUrl = 'zxsa_files/emulator/index.html'
         + '?snapshot=' + encodeURIComponent(romUrl)
         + '&title=' + encodeURIComponent(title || '')
         + '&webgl=N'
         + '&dither=Y'
         + '&border=32'
-        + '&cursorKeys=' + (cursorKeys || '1'); // Kempston by default -- see playGameRaze() for why this must be explicit rather than relying on the markup default
+        + '&cursorKeys=' + (cursorKeys || '1') // Kempston by default -- see playGameRaze() for why this must be explicit rather than relying on the markup default
+        // Resolved to an absolute URL before encoding -- unlike romUrl (which
+        // comes from an <a href> the browser already resolves absolutely via
+        // this.href), pokeUrl arrives as a bare relative string. Left as-is,
+        // it would be resolved relative to playerUrl's own folder once inside
+        // the emulator popup (one level deeper than the site root), not
+        // relative to the game page it was written for -- 404ing every time.
+        + (pokeUrl ? '&poke=' + encodeURIComponent(new URL(pokeUrl, window.location.href).href) : '');
 
     var popupWidth = 987, popupHeight = 995;
     var left = Math.max(0, Math.round(window.screenX + (window.outerWidth - popupWidth) / 2));
@@ -132,3 +170,4 @@ function playGameRazeRom(romUrl, title, cursorKeys) {
 
     return false;
 }
+
