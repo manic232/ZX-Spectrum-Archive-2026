@@ -1,5 +1,6 @@
 # --- Repo Sync O-MATIC: ignored files (managed here - edit the list in the app, not this file) ---
 preview-server.ps1
 preview-site.bat
+preview-site-orig.bat
 style-guide.md
 # --- end Repo Sync O-MATIC ---
