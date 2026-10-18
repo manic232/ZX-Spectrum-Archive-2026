@@ -316,6 +316,72 @@
         }
     }
 
+    /* ---------- scroll position on Back ----------
+       Clicking a screenshot or box art opens an image viewer in the content
+       frame, and clicking the image goes Back. On a narrow screen the PAGE
+       scrolls, and the load handler below sends every new document to the
+       top - which a return via Back also counts as, so the reader lost their
+       place. So remember where they were as each document leaves the frame,
+       and put them back there when Back brings that document back.
+
+       Kept per tab in sessionStorage, keyed by the document's URL. Desktop
+       browsers already restore the frame's own scroll on Back; it is only
+       re-applied there if the browser did not. */
+    var SCROLL_KEY = "zxsa-scroll";
+
+    function readScrolls() {
+        try {
+            return JSON.parse(window.sessionStorage.getItem(SCROLL_KEY)) || {};
+        } catch (e) {
+            return {};                  /* Storage blocked or empty */
+        }
+    }
+
+    function rememberScroll(frame) {
+        try {
+            var win = frame.contentWindow;
+            var url = win.location.href;
+
+            win.addEventListener("pagehide", function () {
+                var all = readScrolls();
+                all[url] = { page: window.pageYOffset, frame: win.pageYOffset };
+                window.sessionStorage.setItem(SCROLL_KEY, JSON.stringify(all));
+            });
+        } catch (e) {
+            /* file:// or storage blocked - Back simply starts at the top */
+        }
+    }
+
+    /* True when the frame's document arrived by Back/Forward rather than by
+       following a link */
+    function cameBack(frame) {
+        try {
+            var perf = frame.contentWindow.performance;
+            var nav = perf.getEntriesByType ? perf.getEntriesByType("navigation")[0] : null;
+            if (nav) return nav.type === "back_forward";
+            return perf.navigation && perf.navigation.type === 2;   /* Older browsers */
+        } catch (e) {
+            return false;
+        }
+    }
+
+    /* Returns true if a saved position was found and restored */
+    function restoreScroll(frame) {
+        try {
+            var saved = readScrolls()[frame.contentWindow.location.href];
+            if (!saved) return false;
+
+            if (isNarrow()) {
+                window.scrollTo(0, saved.page);
+            } else if (frame.contentWindow.pageYOffset === 0 && saved.frame > 0) {
+                frame.contentWindow.scrollTo(0, saved.frame);
+            }
+            return true;
+        } catch (e) {
+            return false;
+        }
+    }
+
     /* ---------- wiring ---------- */
 
     function bind() {
@@ -337,12 +403,18 @@
                    and resets itself on navigation.
 
                    Only the content frame, and never its first load, so a browser
-                   restoring the scroll position on refresh is left alone. */
+                   restoring the scroll position on refresh is left alone. A
+                   document returned to by Back goes back to where the reader
+                   left it instead (see "scroll position on Back" above). */
                 if (this === document.querySelector(".zxsa-bottom")) {
-                    if (this.getAttribute("data-zxsa-loaded") && isNarrow()) {
-                        window.scrollTo(0, 0);
+                    if (this.getAttribute("data-zxsa-loaded")) {
+                        var restored = cameBack(this) && restoreScroll(this);
+                        if (!restored && isNarrow()) {
+                            window.scrollTo(0, 0);
+                        }
                     }
                     this.setAttribute("data-zxsa-loaded", "1");
+                    rememberScroll(this);
                 }
             });
 

@@ -18,11 +18,14 @@
         }
 		
 		body {
+			height: auto;				/* Grows with a tall image so it scrolls from the top... */
+			min-height: 100%;			/* ...but still centres one that fits the frame */
 			display: flex;
-			justify-content: center;	/* center horizontally */
-			align-items: center;		/* center vertically */
+			flex-direction: column;		/* Image above, return text below */
+			justify-content: center;	/* center vertically */
+			align-items: center;		/* center horizontally */
 		}
-		
+
         #viewerImage {
             width: 100%;
 			max-width: 940px;
@@ -32,6 +35,14 @@
             padding: 0;
             cursor: pointer;			/* Hand cursor on hover */
         }
+
+		.return-hint {
+			color: #bbb;				/* Same dimmed grey as site links */
+			font-family: Verdana, Arial, sans-serif;
+			font-size: 12px;			/* Same size as captions */
+			margin-top: 10px;
+			margin-bottom: 18px;		/* One line gap below, so it doesn't sit on the page edge */
+		}
     </style>
 
     <script type="text/javascript">
@@ -75,5 +86,6 @@
 
 <body>
     <img id="viewerImage" onclick="history.back();">
+    <div class="return-hint">Click image to return</div>
 </body>
 </html>

@@ -259,7 +259,7 @@ a.game {
     opacity: 1.0;						/* Optional transparency, 1.0 is none */
 }
 .footer-meta::after {					/* Alter last updated date */
-    content: " | Updated Sep 2026";
+    content: " | Updated Oct 2026";
 }
 /* ======================================================================
    BACK LINK
@@ -640,11 +640,18 @@ body.frame-body.zxsa-mobile-nav a.game {
    right after a much taller floated photo block (me.jpg's .photo-block-
    left), and without clearing, margin:auto centres it in whatever space
    is left beside that still-active float rather than the full page width -
-   the same class of bug the heading rule above already had to solve. */
+   the same class of bug the heading rule above already had to solve.
+
+   The a > img variants cover 256x192 screenshots, which are wrapped in a
+   link to imageviewer-ss.html - the <a> is then the heading's sibling. */
     .section > img.float-left:has(+ :is(h1, h2, h3, h4)),
     .section > img.float-right:has(+ :is(h1, h2, h3, h4)),
     .section2 > img.float-left:has(+ :is(h1, h2, h3, h4)),
-    .section2 > img.float-right:has(+ :is(h1, h2, h3, h4)) {
+    .section2 > img.float-right:has(+ :is(h1, h2, h3, h4)),
+    .section > a:has(+ :is(h1, h2, h3, h4)) > img.float-left,
+    .section > a:has(+ :is(h1, h2, h3, h4)) > img.float-right,
+    .section2 > a:has(+ :is(h1, h2, h3, h4)) > img.float-left,
+    .section2 > a:has(+ :is(h1, h2, h3, h4)) > img.float-right {
         clear: both;
         float: none;
         display: block;
