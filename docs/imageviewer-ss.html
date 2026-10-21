@@ -1,4 +1,4 @@
-<!-- This image viewer is for game screenshots - shows them at 2x (256x192 becomes 512x384) -->
+<!-- This image viewer is for game screenshots - shows them at 2x their own size (256x192 becomes 512x384) -->
 
 <!DOCTYPE html>
 <html>
@@ -24,10 +24,7 @@
 		}
 
 		#viewerImage {
-			width: 512px;				/* 2x the 256x192 screenshot */
-			height: 384px;
-			width: min(512px, 100vw, calc((100vh - 40px) * 4 / 3));	/* Shrinks to fit a small frame (leaving room for the return text), keeping 4:3 */
-			height: auto;
+			/* Width and height are set by sizeImage() below */
 			image-rendering: pixelated;	/* Crisp Spectrum pixels, no blur when scaled */
 			border: 0;
 			margin: 0;
@@ -56,8 +53,24 @@
             } catch (e) {}
 
             var img = document.getElementById("viewerImage");
+            img.onload = sizeImage;
             img.src = imgPath;
         }
+    }
+
+    // Show the image at 2x its own size, shrunk if needed to fit the frame
+    // (leaving room for the return text below it). Works for any size of
+    // image, not just 256x192, and keeps its shape.
+    function sizeImage() {
+        var img = document.getElementById("viewerImage");
+        if (!img.naturalWidth) return;
+
+        var scale = Math.min(2,
+            window.innerWidth / img.naturalWidth,
+            (window.innerHeight - 40) / img.naturalHeight);
+
+        img.style.width = Math.floor(img.naturalWidth * scale) + "px";
+        img.style.height = Math.floor(img.naturalHeight * scale) + "px";
     }
 
     function keyHandler(e) {
@@ -72,6 +85,10 @@
 
     window.onload = function() {
         loadImage();
+
+        // Re-fit when the frame changes size (e.g. on phones, where the
+        // frame is resized to the screen after this page loads)
+        window.onresize = sizeImage;
 
         if (document.addEventListener) {
             document.addEventListener("keydown", keyHandler, false);
