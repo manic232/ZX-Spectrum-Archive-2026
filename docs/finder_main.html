@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark">
+<meta name="description" content="Search every ZX Spectrum game reviewed on the ZX Spectrum Archive by title, publisher, year or CRASH score.">
+<title>Find a Game</title>
+<link rel="stylesheet" href="style.css">
+<script src="zxsa_files/frames.js" data-section="finder.html"></script>
+
+<!-- The list of games. Built by tools\build-game-index.ps1 - run it after adding a game -->
+<script src="zxsa_files/games.js" charset="UTF-8"></script>
+
+<style>
+/* ======================================================================
+   FIND A GAME - page-only styles
+   ====================================================================== */
+.finder-controls {
+    display: flex;
+    flex-wrap: wrap;					/* Drops onto extra rows on narrow screens */
+    gap: 12px 16px;						/* Row gap, column gap */
+    align-items: flex-end;
+    margin-bottom: 18px;
+}
+.finder-field {
+    display: flex;
+    flex-direction: column;				/* Label above its box */
+    font-size: 12px;
+    color: #bbb;
+}
+.finder-field label {
+    margin-bottom: 4px;
+    font-weight: bold;
+}
+.finder-search {
+    flex: 1 1 260px;					/* Search box takes the spare width */
+}
+.finder-controls input,
+.finder-controls select {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 14px;
+    color: #fff;
+    background-color: #000;
+    border: 1px solid #444;
+    border-radius: 4px;
+    padding: 7px 8px;
+    min-height: 36px;					/* Comfortable tap target */
+    box-sizing: border-box;
+}
+.finder-controls input:focus,
+.finder-controls select:focus {
+    outline: none;
+    border-color: #bbb;
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.4);
+}
+.finder-controls input {
+    width: 100%;
+}
+.finder-random {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #1a1a1a;
+    border: 1px solid #444;
+    border-radius: 4px;
+    padding: 7px 14px;
+    min-height: 36px;
+    cursor: pointer;
+}
+.finder-random:hover {
+    border-color: #bbb;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.7);
+}
+/* Spectrum rainbow stripe under the controls */
+.finder-stripe {
+    height: 4px;
+    margin: 0 0 14px 0;
+    background: linear-gradient(to right,
+        #d70000 0 25%, #d7d700 25% 50%, #00d700 50% 75%, #00d7d7 75% 100%);
+    border-radius: 2px;
+    max-width: 240px;
+}
+.finder-presets {
+    font-size: 13px;
+    margin: 0 0 6px 0;
+}
+.finder-presets a {
+    margin-right: 14px;
+    white-space: nowrap;
+}
+.finder-count {
+    font-size: 12px;
+    color: #888;
+    margin: 0 0 10px 0;
+}
+.finder-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+}
+.finder-table th {
+    text-align: left;
+    font-size: 12px;
+    color: #888;
+    font-weight: bold;
+    padding: 6px 8px;
+    border-bottom: 1px solid #333;
+}
+.finder-table td {
+    padding: 6px 8px;
+    border-bottom: 1px solid #1e1e1e;
+    vertical-align: top;
+}
+.finder-table tr:hover td {
+    background-color: #181818;
+}
+.finder-table .col-rank,
+.finder-table .col-year,
+.finder-table .col-score {
+    white-space: nowrap;
+}
+.finder-table .col-rank {
+    color: #888;
+    width: 1%;
+}
+.finder-table .col-score {
+    text-align: right;
+}
+.finder-table .no-score {
+    color: #555;
+}
+.finder-pub-small {
+    display: none;						/* Only shown on phones, see below */
+    font-size: 12px;
+    color: #888;
+    margin-top: 2px;
+}
+.finder-empty {
+    color: #bbb;
+    padding: 20px 0;
+}
+/* Phones: drop the Publisher column and show it under the title instead */
+@media (max-width: 600px) {
+    .finder-table .col-pub {
+        display: none;
+    }
+    .finder-pub-small {
+        display: block;
+    }
+    .finder-table td,
+    .finder-table th {
+        padding: 6px 4px;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<div class="page">
+
+<!-- Header Images -->
+<img src="zxsa_files/images-main/rainbow.png" class="header-left">
+<img src="zxsa_files/images-main/find-game.png" class="header-right">
+
+<!-- Heading (clears ONLY the left image) -->
+<h1>Find a Game</h1>
+
+<!-- Top Section (Bold) -->
+<div class="section intro">
+    <p>Here you can search all <span id="totalCount">the</span> reviewed games in this web site by title or publisher, or narrow things down by year and section. Can't decide what to play? hit the Random Game button and Let the ZXSA Archive pick one for you.</p>
+</div>
+
+<div class="section2">
+
+<!-- Search and filters -->
+<div class="finder-controls">
+    <div class="finder-field finder-search">
+        <label for="q">Search</label>
+        <input type="search" id="q" placeholder="Title or publisher, e.g. Ocean" autocomplete="off">
+    </div>
+    <div class="finder-field">
+        <label for="pub">Publisher</label>
+        <select id="pub"><option value="">All publishers</option></select>
+    </div>
+    <div class="finder-field">
+        <label for="yr">Year</label>
+        <select id="yr"><option value="">All years</option></select>
+    </div>
+    <div class="finder-field">
+        <label for="sec">Section</label>
+        <select id="sec">
+            <option value="">All sections</option>
+            <option value="crash">CRASH Smash</option>
+            <option value="ultimate">Ultimate</option>
+            <option value="toybox">Toy Box</option>
+        </select>
+    </div>
+    <div class="finder-field">
+        <label for="sort">Sort by</label>
+        <select id="sort">
+            <option value="title">Title A-Z</option>
+            <option value="score">Highest score</option>
+            <option value="year">Oldest first</option>
+            <option value="newest">Newest first</option>
+            <option value="pub">Publisher</option>
+        </select>
+    </div>
+    <div class="finder-field">
+        <button type="button" class="finder-random" id="randomBtn" title="Picks a game at random from the list below">Random Game</button>
+    </div>
+</div>
+
+<div class="finder-stripe"></div>
+
+<!-- Ready-made lists -->
+<p class="finder-presets">
+    <a href="#sort=score">Highest rated</a>
+    <a href="#yr=1984&amp;sort=score">Class of '84</a>
+    <a href="#sec=ultimate&amp;sort=year">Ultimate's back catalogue</a>
+    <a href="#pub=Ocean&amp;sort=year">Everything by Ocean</a>
+    <a href="#">Show everything</a>
+</p>
+
+<p class="finder-count" id="count"></p>
+
+<table class="finder-table">
+    <thead>
+        <tr>
+            <th class="col-rank" id="rankHead"></th>
+            <th>Game</th>
+            <th class="col-pub">Publisher</th>
+            <th class="col-year">Year</th>
+            <th class="col-score">Score</th>
+        </tr>
+    </thead>
+    <tbody id="results"></tbody>
+</table>
+
+<noscript><p class="finder-empty">The search needs JavaScript switched on. The game lists in each section's menu still work without it.</p></noscript>
+
+</div>
+
+<!-- Created by Michael Winn -->
+<div class="footer">
+    <div class="footer-meta">Michael Winn</div>
+</div>
+
+</div>
+
+<script>
+(function () {
+
+    var games = window.ZXSA_GAMES || [];
+
+    var SECTION_NAMES = { crash: "CRASH Smash", ultimate: "Ultimate", toybox: "Toy Box" };
+
+    var q = document.getElementById("q");
+    var pub = document.getElementById("pub");
+    var yr = document.getElementById("yr");
+    var sec = document.getElementById("sec");
+    var sort = document.getElementById("sort");
+    var results = document.getElementById("results");
+    var count = document.getElementById("count");
+    var rankHead = document.getElementById("rankHead");
+
+    var current = [];                   /* Games currently listed - Random picks from these */
+
+    function esc(s) {
+        return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+    }
+
+    /* "The Hobbit" files under H, like the section menus do */
+    function titleKey(g) {
+        return g.t.toLowerCase().replace(/^the\s+/, "");
+    }
+
+    function yearNum(g) {
+        var n = parseInt(g.y, 10);
+        return isNaN(n) ? 9999 : n;
+    }
+
+    /* ---------- Fill the Publisher and Year dropdowns from the data ---------- */
+
+    function fillSelect(select, counts, order) {
+        var keys = [];
+        for (var k in counts) if (counts.hasOwnProperty(k)) keys.push(k);
+        keys.sort(order);
+        for (var i = 0; i < keys.length; i++) {
+            var o = document.createElement("option");
+            o.value = keys[i];
+            o.text = keys[i] + " (" + counts[keys[i]] + ")";
+            select.appendChild(o);
+        }
+    }
+
+    var pubCounts = {}, yearCounts = {};
+    for (var i = 0; i < games.length; i++) {
+        if (games[i].p) pubCounts[games[i].p] = (pubCounts[games[i].p] || 0) + 1;
+        if (games[i].y) yearCounts[games[i].y] = (yearCounts[games[i].y] || 0) + 1;
+    }
+    fillSelect(pub, pubCounts, function (a, b) { return a.toLowerCase() < b.toLowerCase() ? -1 : 1; });
+    fillSelect(yr, yearCounts, function (a, b) {
+        var x = parseInt(a, 10), y = parseInt(b, 10);
+        if (isNaN(x)) return 1;
+        if (isNaN(y)) return -1;
+        return x - y;
+    });
+
+    document.getElementById("totalCount").innerHTML = games.length;
+
+    /* ---------- Filtering and sorting ---------- */
+
+    function render() {
+        var words = q.value.toLowerCase().replace(/^\s+|\s+$/g, "").split(/\s+/);
+        if (words.length === 1 && words[0] === "") words = [];
+
+        current = [];
+        for (var i = 0; i < games.length; i++) {
+            var g = games[i];
+            if (pub.value && g.p !== pub.value) continue;
+            if (yr.value && g.y !== yr.value) continue;
+            if (sec.value && g.c.indexOf(sec.value) === -1) continue;
+
+            /* Every word typed must appear in the title or publisher */
+            var hay = (g.t + " " + g.p).toLowerCase();
+            var ok = true;
+            for (var w = 0; w < words.length; w++) {
+                if (hay.indexOf(words[w]) === -1) { ok = false; break; }
+            }
+            if (ok) current.push(g);
+        }
+
+        var s = sort.value;
+        current.sort(function (a, b) {
+            var d = 0;
+            if (s === "score") d = b.n - a.n;
+            else if (s === "year") d = yearNum(a) - yearNum(b);
+            else if (s === "newest") d = yearNum(b) - yearNum(a);
+            else if (s === "pub") d = (a.p || "~").toLowerCase() < (b.p || "~").toLowerCase() ? -1 : ((a.p || "~").toLowerCase() > (b.p || "~").toLowerCase() ? 1 : 0);
+            if (d !== 0) return d;
+            return titleKey(a) < titleKey(b) ? -1 : (titleKey(a) > titleKey(b) ? 1 : 0);
+        });
+
+        var ranked = (s === "score");
+        rankHead.innerHTML = ranked ? "#" : "";
+
+        var html = "";
+        for (var j = 0; j < current.length; j++) {
+            var c = current[j];
+            var secNames = [];
+            for (var k = 0; k < c.c.length; k++) secNames.push(SECTION_NAMES[c.c[k]] || c.c[k]);
+            html += "<tr>" +
+                "<td class=\"col-rank\">" + (ranked && c.n >= 0 ? (j + 1) : "") + "</td>" +
+                "<td><a href=\"" + esc(c.f) + "\" title=\"" + esc(secNames.join(", ")) + "\">" + esc(c.t) + "</a>" +
+                    (c.p ? "<div class=\"finder-pub-small\">" + esc(c.p) + "</div>" : "") + "</td>" +
+                "<td class=\"col-pub\">" + esc(c.p) + "</td>" +
+                "<td class=\"col-year\">" + esc(c.y) + "</td>" +
+                "<td class=\"col-score\">" + (c.s ? esc(c.s) : "<span class=\"no-score\">-</span>") + "</td>" +
+                "</tr>";
+        }
+        if (!current.length) {
+            html = "<tr><td colspan=\"5\" class=\"finder-empty\">R Tape loading error, 0:1 &mdash; no games match that. Try fewer words, or <a href=\"#\">show everything</a>.</td></tr>";
+        }
+        results.innerHTML = html;
+
+        count.innerHTML = current.length === games.length
+            ? "Showing all " + games.length + " games"
+            : "Showing " + current.length + " of " + games.length + " games";
+
+        saveState();
+    }
+
+    /* ---------- Remember the search in the address (#...) ----------
+       So that "Go Back" from a game page returns to the same list, and the
+       ready-made links above can simply be #yr=1984&sort=score etc. */
+
+    var applying = false;
+
+    function saveState() {
+        if (applying) return;
+        var parts = [];
+        if (q.value) parts.push("q=" + encodeURIComponent(q.value));
+        if (pub.value) parts.push("pub=" + encodeURIComponent(pub.value));
+        if (yr.value) parts.push("yr=" + encodeURIComponent(yr.value));
+        if (sec.value) parts.push("sec=" + encodeURIComponent(sec.value));
+        if (sort.value !== "title") parts.push("sort=" + encodeURIComponent(sort.value));
+        var hash = parts.length ? "#" + parts.join("&") : "";
+        if (window.history && history.replaceState) {
+            history.replaceState(null, "", location.pathname + location.search + hash);
+        }
+    }
+
+    function setSelect(select, value) {
+        select.value = value || "";
+        if (select.value !== (value || "")) select.value = "";   /* Unknown value - fall back to All */
+    }
+
+    function loadState() {
+        var h = location.hash.replace(/^#/, "");
+        var st = {};
+        var bits = h ? h.split("&") : [];
+        for (var i = 0; i < bits.length; i++) {
+            var kv = bits[i].split("=");
+            try { st[kv[0]] = decodeURIComponent((kv[1] || "").replace(/\+/g, " ")); } catch (e) {}
+        }
+        applying = true;
+        q.value = st.q || "";
+        setSelect(pub, st.pub);
+        setSelect(yr, st.yr);
+        setSelect(sec, st.sec);
+        sort.value = st.sort || "title";
+        if (!sort.value) sort.value = "title";
+        applying = false;
+        render();
+    }
+
+    /* ---------- Random game ---------- */
+
+    function randomGame() {
+        var pool = current.length ? current : games;
+        if (!pool.length) return;
+        var g = pool[Math.floor(Math.random() * pool.length)];
+        location.href = g.f;
+    }
+
+    /* ---------- Wire it all up ---------- */
+
+    q.oninput = render;
+    q.onkeyup = render;                 /* Older browsers without oninput */
+    pub.onchange = render;
+    yr.onchange = render;
+    sec.onchange = render;
+    sort.onchange = render;
+    document.getElementById("randomBtn").onclick = randomGame;
+
+    /* Enter in the search box opens the first game in the list */
+    q.onkeydown = function (e) {
+        e = e || window.event;
+        if ((e.keyCode || e.which) === 13 && current.length) {
+            location.href = current[0].f;
+            return false;
+        }
+    };
+
+    window.onhashchange = loadState;    /* The ready-made list links */
+
+    if (!games.length) {
+        results.innerHTML = "<tr><td colspan=\"5\" class=\"finder-empty\">The game list (zxsa_files/games.js) didn't load.</td></tr>";
+        return;
+    }
+
+    loadState();
+
+})();
+</script>
+
+</body>
+
+</html>

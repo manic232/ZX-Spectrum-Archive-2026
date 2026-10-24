@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark">
+<meta name="robots" content="noindex">
+<title>Random Game</title>
+<link rel="stylesheet" href="style.css">
+<!-- The list of games. Built by tools\build-game-index.ps1 -->
+<script src="zxsa_files/games.js" charset="UTF-8"></script>
+</head>
+
+<body>
+
+<!-- Loaded by the "Random Game" link in the top menu. Picks one game and
+     swaps itself for that game's page straight away. location.replace()
+     means this page never appears in the history, so "Go Back" on the game
+     page returns to wherever you were before. -->
+
+<div class="page">
+    <p id="msg">Rewinding the tape...</p>
+    <p><a href="finder.html" target="_top">Find a Game</a></p>
+</div>
+
+<script>
+(function () {
+    var games = window.ZXSA_GAMES || [];
+    if (!games.length) {
+        document.getElementById("msg").innerHTML = "R Tape loading error, 0:1 &mdash; the game list didn't load.";
+        return;
+    }
+    var g = games[Math.floor(Math.random() * games.length)];
+    location.replace(g.f);
+})();
+</script>
+
+</body>
+
+</html>

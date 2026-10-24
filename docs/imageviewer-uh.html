@@ -1,12 +1,12 @@
+<!DOCTYPE html>
+
 <!-- This image viewer is for the unclear-humour.html page only -->
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="color-scheme" content="dark">
-    <meta http-equiv="Content-Type" content="text/html; charset="UTF-8">
     <title>Image Viewer</title>
 
     <style type="text/css">
@@ -66,9 +66,9 @@
         e = e || window.event;
         var key = e.keyCode || e.which;
 
-        // ESC closes the window/tab
+        // ESC returns to the previous page (same as clicking the image)
         if (key == 27) {
-            window.close();
+            history.back();
         }
     }
 
@@ -86,6 +86,6 @@
 
 <body>
     <img id="viewerImage" onclick="history.back();">
-    <div class="return-hint">Click image to return</div>
+    <div class="return-hint">Click image or hit ESC to return</div>
 </body>
 </html>
