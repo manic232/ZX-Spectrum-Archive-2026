@@ -2,7 +2,7 @@
 # BUILD GAME INDEX
 # ============================================================================
 # Reads every game review page listed in the three section menus
-#   crash-smashes_frame.html, ultimate-ptg_frame.html, toy-box_frame.html
+#   crash-smash_frame.html, ultimate_frame.html, toy-box_frame.html
 # and writes docs\zxsa_files\games.js - the list that powers the
 # Find a Game page (finder_main.html) and the Random Game link.
 #
@@ -26,7 +26,7 @@ $ErrorActionPreference = 'Stop'
 
 # The docs folder sits next to this tools folder
 $docs = Join-Path (Split-Path -Parent $PSScriptRoot) 'docs'
-if (-not (Test-Path (Join-Path $docs 'crash-smashes_frame.html'))) {
+if (-not (Test-Path (Join-Path $docs 'crash-smash_frame.html'))) {
     # Also allow the script to live inside docs\..\ or be run from docs
     $docs = (Get-Location).Path
 }
@@ -69,8 +69,8 @@ $publisherAliases = @{
 
 # The three section menus, and the short code each one gets in games.js
 $sections = [ordered]@{
-    'crash'    = 'crash-smashes_frame.html'
-    'ultimate' = 'ultimate-ptg_frame.html'
+    'crash'    = 'crash-smash_frame.html'
+    'ultimate' = 'ultimate_frame.html'
     'toybox'   = 'toy-box_frame.html'
 }
 
