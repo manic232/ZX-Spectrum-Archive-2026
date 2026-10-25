@@ -2,21 +2,16 @@
 <html lang="en">
 
 <!-- ======================================================================
-     404 PAGE - "R Tape loading error, 0:1"
-     GitHub Pages shows this file automatically for any address that does
-     not exist on the site. It is shown AT the broken address (e.g.
-     zxsa.co.uk/some/old/page.html), so every link and file below uses an
-     absolute path starting with "/" - relative links would break.
+     404 PAGE
+     GitHub Pages shows this file for any address that doesn't exist.
+     It runs RAZE with zxsa_files/roms/404.tzx - a tiny BASIC program called
+     "404" that auto-runs and prints "R Web loading error, 404":
 
-     What it does:
-       1. Plays a fake tape load in the border: red/cyan pilot tone, a
-          "Program:" header named after the missing page, then blue/yellow
-          data stripes... which end in the classic loading error.
-       2. Offers keys 1-3 (or clicks/taps): Home, Find a Game, Random Game.
-       3. Looks the missing page name up in zxsa_files/games.js and offers
-          "Did you mean...?" links to the closest games.
-     Visitors who prefer reduced motion skip straight to the error.
-     Click, tap or press a key during the load to skip it.
+         10 PRINT #0;"R Web loading error, 404";
+         20 GO TO 20
+
+     It's shown AT the broken address (e.g. zxsa.co.uk/some/old/page.html),
+     so every path below starts with "/" - relative paths would break.
      ====================================================================== -->
 
 <head>
@@ -24,322 +19,68 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="color-scheme" content="dark">
 <meta name="robots" content="noindex">
-<title>R Tape loading error, 0:1</title>
+<title>R Web loading error, 404</title>
 <link rel="icon" type="image/x-icon" href="/favicon.ico">
 
-<!-- Game list, used for the "Did you mean...?" suggestions and Random Game -->
-<script src="/zxsa_files/games.js" charset="UTF-8"></script>
-
 <style>
-/* Spectrum colours (bright set) */
-:root {
-    --zx-black:  #000000;
-    --zx-blue:   #0000d7;
-    --zx-red:    #d70000;
-    --zx-cyan:   #00d7d7;
-    --zx-yellow: #d7d700;
-    --zx-white:  #d7d7d7;
-}
-html, body {
-    margin: 0;
-    padding: 0;
-    height: 100%;
-    background: #000;
-}
-body {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-family: "Courier New", Courier, monospace;
-    -webkit-text-size-adjust: 100%;
-    text-size-adjust: 100%;
-}
-
-/* ---- The "TV": border round a 4:3 paper area ---- */
-.tv {
-    width: min(94vw, 125vh);			/* Keeps 4:3 and fits any screen */
-    aspect-ratio: 4 / 3;
-    padding: 6%;						/* The border */
-    box-sizing: border-box;
-    background: var(--zx-white);		/* Border colour when idle */
-    border-radius: 14px;
-    box-shadow: 0 0 40px rgba(255, 255, 255, 0.08);
-    cursor: pointer;
-}
-.tv.pilot {
-    background: repeating-linear-gradient(to bottom,
-        var(--zx-red) 0 22px, var(--zx-cyan) 22px 44px);
-    background-size: 100% 44px;
-    animation: scroll-pilot 0.9s linear infinite;
-}
-.tv.data {
-    background: repeating-linear-gradient(to bottom,
-        var(--zx-blue) 0 5px, var(--zx-yellow) 5px 9px,
-        var(--zx-blue) 9px 12px, var(--zx-yellow) 12px 18px);
-    background-size: 100% 18px;
-    animation: scroll-data 0.35s linear infinite;
-}
-@keyframes scroll-pilot { to { background-position: 0 44px; } }
-@keyframes scroll-data  { to { background-position: 0 18px; } }
-
-.paper {
-    position: relative;
-    width: 100%;
-    height: 100%;
-    background: var(--zx-white);		/* Spectrum white paper */
-    color: var(--zx-black);				/* Black ink */
-    font-size: clamp(11px, 2.3vw, 22px);
-    line-height: 1.35;
-    overflow: hidden;
-}
-.screen {
-    position: absolute;
-    inset: 0;
-    padding: 3% 3.5%;
-    overflow-y: auto;
-}
-.line {
-    margin: 0;
-    white-space: pre-wrap;
-    word-break: break-word;
-}
-.gap { height: 1em; }
-.hidden { display: none; }
-
-/* Report line, pinned to the bottom like the real thing */
-.report {
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    padding: 0 3.5% 2%;
-    background: var(--zx-white);
-}
-.inverse {
-    background: var(--zx-black);
-    color: var(--zx-white);
-    padding: 0 0.3em;
-}
-.cursor {
-    display: inline-block;
-    background: var(--zx-black);
-    color: var(--zx-white);
-    padding: 0 0.15em;
-    animation: blink 0.64s steps(1) infinite;	/* The Spectrum's 32-frame FLASH */
-}
-@keyframes blink { 50% { background: var(--zx-white); color: var(--zx-black); } }
-
-.screen a {
-    color: var(--zx-blue);
-    font-weight: bold;
-    text-decoration: none;
-}
-.screen a:hover,
-.screen a:focus {
-    background: var(--zx-blue);
-    color: var(--zx-white);
-    outline: none;
-}
-.key {
-    display: inline-block;
-    min-width: 1.4em;
-}
-
-/* Visitors who ask for less motion: no scrolling stripes, no blinking */
-@media (prefers-reduced-motion: reduce) {
-    .tv.pilot, .tv.data, .cursor { animation: none; }
-}
+    html, body {
+        margin: 0;
+        height: 100%;
+        background: #000;
+    }
+    body {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        font-family: Verdana, Arial, sans-serif;
+        font-size: 13px;
+        color: #888;
+    }
+    /* The Spectrum screen: 256x192 plus RAZE's 32-pixel border = 5:4 */
+    #spectrum {
+        width: min(94vw, 110vh);
+        aspect-ratio: 5 / 4;
+        border: 0;
+        display: block;
+        background: #000;
+    }
+    p {
+        margin: 14px 0 0;
+    }
+    a:link, a:visited {
+        color: #bbb;
+        font-weight: bold;
+        text-decoration: none;
+    }
+    a:hover {
+        color: #fff;
+        text-decoration: underline;
+    }
 </style>
 </head>
 
 <body>
 
-<div class="tv" id="tv" title="Click to skip the loading">
-    <div class="paper">
+<iframe id="spectrum" title="ZX Spectrum loading a tape"
+    src="/zxsa_files/emulator/index.html?tape=/zxsa_files/roms/404.tzx&amp;48k=Y&amp;webgl=N&amp;dither=Y&amp;border=32"></iframe>
 
-        <div class="screen" id="screen">
-            <p class="line hidden" id="header">Program: <span id="progName"></span></p>
-
-            <div class="hidden" id="menu">
-                <div class="gap"></div>
-                <p class="line">Sorry, that page isn't on this tape.</p>
-                <div class="gap"></div>
-                <p class="line"><a href="/index.html"><span class="key">1</span>LOAD "Home"</a></p>
-                <p class="line"><a href="/finder.html" id="findLink"><span class="key">2</span>LOAD "Find a Game"</a></p>
-                <p class="line"><a href="/index.html" id="randomLink"><span class="key">3</span>LOAD "Random Game"</a></p>
-                <div id="suggest" class="hidden">
-                    <div class="gap"></div>
-                    <p class="line">Did you mean...</p>
-                    <div id="suggestList"></div>
-                </div>
-            </div>
-        </div>
-
-        <p class="line report hidden" id="report"><span class="inverse">R Tape loading error, 0:1</span> <span class="cursor">K</span></p>
-
-    </div>
-</div>
-
-<noscript>
-    <p style="color:#d7d7d7; text-align:center;">R Tape loading error, 0:1 &mdash; page not found. <a href="/index.html" style="color:#00d7d7;">Go to the ZX Spectrum Archive</a></p>
-</noscript>
+<p>That page isn't on this tape. <a href="/index.html">Back to the ZX Spectrum Archive</a></p>
 
 <script>
-(function () {
-
-    var games = window.ZXSA_GAMES || [];
-
-    var tv = document.getElementById("tv");
-    var header = document.getElementById("header");
-    var menu = document.getElementById("menu");
-    var report = document.getElementById("report");
-
-    var SECTION_PAGE = { ultimate: "/ultimate.html", crash: "/crash-smash.html", toybox: "/toy-box.html" };
-
-    /* ---------- What did they ask for? ---------- */
-
-    var path = decodeURIComponent(location.pathname || "");
-    var asked = path.replace(/\/+$/, "").split("/").pop() || "";
-    asked = asked.replace(/\.html?$/i, "");
-
-    /* Spectrum tape names are 10 characters, so the header is too */
-    var tapeName = asked.replace(/^game-/i, "").replace(/-load$/i, "") || "404";
-    document.getElementById("progName").appendChild(
-        document.createTextNode(tapeName.substring(0, 10)));
-
-    /* Words to look for: "game-jet-set-wily-load" -> jet, set, wily */
-    var words = asked.toLowerCase()
-        .replace(/^game-/, "").replace(/-load$/, "")
-        .split(/[^a-z0-9]+/)
-        .filter(function (w) { return w.length > 1 && w !== "the" && w !== "and" && w !== "of"; });
-
-    /* ---------- Links ---------- */
-
-    /* Open a game inside its section, the same way shared links do */
-    function gameLink(g) {
-        var wrapper = "/index.html";
-        for (var i = 0; i < g.c.length; i++) {
-            if (SECTION_PAGE[g.c[i]]) { wrapper = SECTION_PAGE[g.c[i]]; break; }
-        }
-        return wrapper + "#" + g.f;
-    }
-
-    /* Only search Find a Game for words that are actually in some title,
-       so a typo doesn't leave the visitor staring at an empty list */
-    var allTitles = " " + games.map(function (g) { return g.t.toLowerCase(); }).join(" ") + " ";
-    var searchWords = words.filter(function (w) { return allTitles.indexOf(w) !== -1; });
-    if (searchWords.length) {
-        document.getElementById("findLink").href =
-            "/finder.html#finder_main.html#q=" + encodeURIComponent(searchWords.join(" "));
-    }
-
-    var randomLink = document.getElementById("randomLink");
-    function pickRandom() {
-        if (games.length) {
-            randomLink.href = gameLink(games[Math.floor(Math.random() * games.length)]);
-        }
-    }
-    pickRandom();
-
-    /* ---------- Did you mean...? ---------- */
-
-    function squash(s) { return s.toLowerCase().replace(/[^a-z0-9]/g, ""); }
-
-    /* Close enough for a typo: same length give or take one letter, and at
-       most one letter different (Levenshtein distance of 1) */
-    function nearly(a, b) {
-        if (Math.abs(a.length - b.length) > 1 || a.length < 4) return false;
-        var i = 0, j = 0, edits = 0;
-        while (i < a.length && j < b.length) {
-            if (a.charAt(i) === b.charAt(j)) { i++; j++; continue; }
-            if (++edits > 1) return false;
-            if (a.length > b.length) i++;
-            else if (b.length > a.length) j++;
-            else { i++; j++; }
-        }
-        return edits + (a.length - i) + (b.length - j) <= 1;
-    }
-
-    var scored = [];
-    if (words.length) {
-        for (var g = 0; g < games.length; g++) {
-            var titleWords = games[g].t.toLowerCase().split(/[^a-z0-9]+/);
-            var score = 0;
-            for (var w = 0; w < words.length; w++) {
-                for (var t = 0; t < titleWords.length; t++) {
-                    if (titleWords[t] === words[w]) { score += 3; break; }
-                    if (nearly(titleWords[t], words[w])) { score += 2; break; }
-                    if (words[w].length > 3 && titleWords[t].indexOf(words[w]) === 0) { score += 1; break; }
-                }
-            }
-            /* Bonus when the whole thing matches, e.g. "jetsetwilly" */
-            if (squash(games[g].t) === squash(words.join(""))) score += 10;
-            if (score > 0) scored.push({ g: games[g], s: score });
-        }
-        scored.sort(function (a, b) { return b.s - a.s || (a.g.t < b.g.t ? -1 : 1); });
-    }
-
-    if (scored.length) {
-        var list = document.getElementById("suggestList");
-        var best = scored[0].s;
-        for (var k = 0; k < scored.length && k < 3; k++) {
-            if (scored[k].s < best / 2) break;      /* Only the strong matches */
-            var p = document.createElement("p");
-            p.className = "line";
-            var a = document.createElement("a");
-            a.href = gameLink(scored[k].g);
-            a.appendChild(document.createTextNode("  " + scored[k].g.t));
-            p.appendChild(a);
-            list.appendChild(p);
-        }
-        document.getElementById("suggest").className = "";
-    }
-
-    /* ---------- The fake tape load ---------- */
-
-    var timers = [];
-    var finished = false;
-
-    function show(el) { el.className = el.className.replace(/\s*hidden/, ""); }
-
-    function finish() {
-        if (finished) return;
-        finished = true;
-        for (var i = 0; i < timers.length; i++) clearTimeout(timers[i]);
-        tv.className = "tv";
-        tv.removeAttribute("title");
-        show(header);
-        show(menu);
-        show(report);
-    }
-
-    var reduceMotion = window.matchMedia &&
-        window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-
-    if (reduceMotion) {
-        finish();
-    } else {
-        tv.className = "tv pilot";                                          /* Pilot tone */
-        timers.push(setTimeout(function () { show(header); }, 1600));      /* Header block loaded */
-        timers.push(setTimeout(function () { tv.className = "tv data"; }, 2400));   /* Data... */
-        timers.push(setTimeout(finish, 3900));                              /* ...and it fails */
-    }
-
-    /* Click or tap the screen to skip the load */
-    tv.addEventListener("click", function (e) {
-        if (!finished) { e.preventDefault(); finish(); }
-    });
-
-    /* ---------- Keys: 1, 2, 3 (any other key skips the load) ---------- */
-
-    document.addEventListener("keydown", function (e) {
-        if (e.ctrlKey || e.altKey || e.metaKey) return;
-        if (!finished) { finish(); return; }
-        var links = { "1": "/index.html", "2": document.getElementById("findLink").href, "3": randomLink.href };
-        if (links[e.key]) location.href = links[e.key];
-    });
-
-})();
+/* Show just the Spectrum's screen - hide RAZE's title, buttons and keyboard */
+document.getElementById("spectrum").addEventListener("load", function () {
+    try {
+        var doc = this.contentDocument;
+        var style = doc.createElement("style");
+        style.textContent =
+            "html, body { margin: 0; background: #000; overflow: hidden; }" +
+            "h1, #controls { display: none !important; }" +
+            "#stage { width: 100%; border: 0; margin: 0; }" +
+            "#canvases { cursor: default; }";
+        doc.head.appendChild(style);
+    } catch (e) { /* Can't reach inside (shouldn't happen on the same site) - shows the full emulator instead */ }
+});
 </script>
 
 </body>
