@@ -158,4 +158,43 @@
         });
     })();
 </script>
+<script>
+    // play-launcher.js asks window.open() for a 987x995 popup. Firefox/Edge
+    // treat that as the usable CONTENT area, but Vivaldi (and possibly other
+    // Chromium forks with a visible toolbar) treat it as the whole OUTER
+    // window, so the title bar/address bar eat into it and the controls get
+    // cut off with scrollbars. Rather than guess a bigger size per browser,
+    // measure the real overflow and grow the window by exactly that much.
+    // It only ever grows, so browsers where it already fits are untouched.
+    (function () {
+        if (!window.opener) { return; }   // only for windows opened by play-launcher.js
+        function fitWindowToContent() {
+            var de = document.documentElement;
+            var growW = de.scrollWidth - window.innerWidth;
+            var growH = de.scrollHeight - window.innerHeight;
+            if (growW > 0 || growH > 0) {
+                try { window.resizeBy(Math.max(growW, 0) + 10, Math.max(growH, 0)); } catch (e) {}
+            }
+        }
+        window.addEventListener('load', function () {
+            fitWindowToContent();
+            // The tape block list ("Program: ...", "Bytes: ...") and the Pokes
+            // button appear at unpredictable moments after load and add
+            // height (as does toggling the on-screen keyboard), so re-check
+            // whenever the page's own height changes. Deliberately keyed to
+            // the page's height rather than the window's, so it never fights
+            // someone who resizes the window by hand. A plain timer rather
+            // than ResizeObserver: it doesn't depend on the page rendering.
+            var lastHeight = -1;
+            function checkForGrowth() {
+                var h = document.body.offsetHeight;
+                if (h === lastHeight) { return; }
+                lastHeight = h;
+                fitWindowToContent();
+            }
+            checkForGrowth();
+            setInterval(checkForGrowth, 500);
+        });
+    })();
+</script>
 </body>
