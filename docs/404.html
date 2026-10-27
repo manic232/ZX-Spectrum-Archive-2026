@@ -5,10 +5,20 @@
      404 PAGE
      GitHub Pages shows this file for any address that doesn't exist.
      It runs RAZE with zxsa_files/roms/404.tzx - a tiny BASIC program called
-     "404" that auto-runs and prints "R Web loading error, 404":
+     "404" that auto-runs, prints the error, waits 4 seconds, then adds a
+     second message underneath it:
 
-         10 PRINT #0;"R Web loading error, 404";
-         20 GO TO 20
+         10 PRINT #0;AT 0,0;"R Web loading error, 404";
+         20 PAUSE 200
+         30 PRINT #0;AT 1,0;"Page not found on this tape";
+         40 GO TO 40
+
+     If a broken link is clicked INSIDE the site, this page loads into the
+     content frame - the script at the top of <head> then takes over the
+     whole browser window, so the Spectrum is always centred on screen.
+
+     "Click here to return" goes back to the page the visitor was on, or to
+     Home in a fresh tab that hasn't been on the archive yet.
 
      It's shown AT the broken address (e.g. zxsa.co.uk/some/old/page.html),
      so every path below starts with "/" - relative paths would break.
@@ -21,6 +31,57 @@
 <meta name="robots" content="noindex">
 <title>R Web loading error, 404</title>
 <link rel="icon" type="image/x-icon" href="/favicon.ico">
+
+<script>
+(function () {
+
+    /* "Click here to return" leaves a note saying when it was clicked.
+       If going back lands on this broken page again - which happens when
+       the bad address was typed after the # in the address bar, as that
+       saves its own history entry - keep going back until we're past it.
+       The note only counts for 5 seconds, so it can't affect later visits. */
+    function returning() {
+        try {
+            var t = +sessionStorage.getItem("zxsa404back");
+            if (t && Date.now() - t < 5000) {
+                sessionStorage.setItem("zxsa404back", Date.now());
+                return true;
+            }
+        } catch (e) { }
+        return false;
+    }
+
+    if (returning()) {
+        window.history.back();
+
+        /* Going back to a section's front page only removes the # from the
+           address, which doesn't reload the content frame - so if this page
+           is still sitting in the frame, put the front page back ourselves */
+        if (window.top !== window.self) {
+            var me = location.pathname.substring(location.pathname.lastIndexOf("/") + 1);
+            setTimeout(function () {
+                try {
+                    var h = decodeURI(window.top.location.hash.replace(/^#/, ""));
+                    var frame = window.parent.document.querySelector("iframe.zxsa-bottom");
+                    if (frame && (h === "" || h === me)) location.replace(frame.src);
+                } catch (e) { }
+            }, 600);
+        }
+        return;
+    }
+    window.addEventListener("pageshow", function (e) {
+        if (e.persisted && returning()) window.history.back();   /* Shown from the browser's page cache */
+    });
+
+    /* Inside the site's frames? Take over the whole window instead.
+       replace() swaps out the current history entry, so Back returns to the
+       page the visitor was on before the broken link. */
+    if (window.top !== window.self) {
+        try { window.top.location.replace(window.location.href); } catch (e) { }
+    }
+
+})();
+</script>
 
 <style>
     html, body {
@@ -65,7 +126,25 @@
 <iframe id="spectrum" title="ZX Spectrum loading a tape"
     src="/zxsa_files/emulator/index.html?tape=/zxsa_files/roms/404.tzx&amp;48k=Y&amp;webgl=N&amp;dither=Y&amp;border=32"></iframe>
 
-<p>That page isn't on this tape. <a href="/index.html">Back to the ZX Spectrum Archive</a></p>
+<p><a href="/index.html" id="goBack">Click here to return</a></p>
+
+<script>
+/* "Click here to return" goes back to wherever the visitor was before the
+   broken link (a page on this site, or the site/search that sent them),
+   including when the bad address was typed over an archive page.
+   In a fresh tab that has never been on the archive (address typed in or
+   bookmarked) it goes to the Home page instead of back to a blank tab.
+   frames.js marks the tab as "been on the archive". */
+document.getElementById("goBack").addEventListener("click", function (e) {
+    var visited = false;
+    try { visited = !!sessionStorage.getItem("zxsaVisited"); } catch (err) { }
+    if ((document.referrer || visited) && window.history.length > 1) {
+        e.preventDefault();
+        try { sessionStorage.setItem("zxsa404back", Date.now()); } catch (err) { }
+        window.history.back();
+    }
+});
+</script>
 
 <script>
 /* Show just the Spectrum's screen - hide RAZE's title, buttons and keyboard */

@@ -34,6 +34,10 @@
    ====================================================================== */
 (function () {
 
+    /* Note that this browser tab has been on the archive, so the 404 page's
+       "Click here to return" knows it can go back rather than to Home */
+    try { sessionStorage.setItem("zxsaVisited", "1"); } catch (e) { }
+
     /* Remember our own <script> tag now - currentScript is only set while
        the script is first running */
     var me = document.currentScript;
