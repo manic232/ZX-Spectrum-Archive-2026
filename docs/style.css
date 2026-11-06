@@ -259,7 +259,7 @@ a.game {
     opacity: 1.0;						/* Optional transparency, 1.0 is none */
 }
 .footer-meta::after {					/* Alter last updated date */
-    content: " | Updated Oct 2026";
+    content: " | Updated Nov 2026";
 }
 /* ======================================================================
    BACK LINK
