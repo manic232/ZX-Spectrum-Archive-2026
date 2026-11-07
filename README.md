@@ -23,23 +23,23 @@ The final milestone for me was getting the site online through GitHub Pages. It 
 For anyone curious, you can view the original 2003 version of the site <a href="https://manic232.github.io/ZX-Spectrum-Archive-2003/" target="_blank">here</a>. It’s packed with dead links, cringeworthy text, and the unmistakable fingerprints of FrontPage 2000, but it offers an interesting glimpse into how the archive began and how far it has come.
 
 ## Changes Made in the 2026 Reboot
-• Rebuilt the entire site using modern HTML and CSS.
-• The site is now online via GitHub Pages, and even has a domain name.
-• Changed all game links to magazine reviews, mainly from CRASH Online.
-• Added box art, manuals and a playable game to all game review pages.
-• Added a Find Game and Random Game section to make it easier to find your next game to play.
-• Added What's New to keep track of site updates.
-• Box art and screenshots are now clickable: click to enlarge, and again to go back.
-• Removed all greyed-out entries — every game now links to a magazine review.
-• Removed Offline WOS archive, FAQ section, Pokes, and CRASH Scores pages.
-• Games are now playable right in the browser, no external game folders to be seen!.
-• Removed most mentions of ZX32 — it’s outdated and better emulators now exist.
-• Reformatted the About, Help and further reading sections for consistency.
-• Added images where appropriate to the Further Reading sections.
-• Updated and expanded the bookmarks on the home page, and removed dead links.
-• Renamed “My Games” to “Toy Box” and added several more games.
-• Fixed typos and polished dialogue, bringing my slightly juvenile writing style up to date.
-• Now includes information on newer hardware and software where appropriate.
-• Updated or replaced several images, including swapping out some low-resolution ones.
-• Re-created all the animated GIF images myself from scratch.
-• Added a mini-game — can you find the legendary hidden clearing? 
+* Rebuilt the entire site using modern HTML and CSS.
+* The site is now online via GitHub Pages, and even has a domain name.
+* Changed all game links to magazine reviews, mainly from CRASH Online.
+* Added box art, manuals and a playable game to all game review pages.
+* Added a Find Game and Random Game section to make it easier to find your next game to play.
+* Added What's New to keep track of site updates.
+* Box art and screenshots are now clickable: click to enlarge, and again to go back.
+* Removed all greyed-out entries — every game now links to a magazine review.
+* Removed Offline WOS archive, FAQ section, Pokes, and CRASH Scores pages.
+* Games are now playable right in the browser, no external game folders to be seen!.
+* Removed most mentions of ZX32 — it’s outdated and better emulators now exist.
+* Reformatted the About, Help and further reading sections for consistency.
+* Added images where appropriate to the Further Reading sections.
+* Updated and expanded the bookmarks on the home page, and removed dead links.
+* Renamed “My Games” to “Toy Box” and added several more games.
+* Fixed typos and polished dialogue, bringing my slightly juvenile writing style up to date.
+* Now includes information on newer hardware and software where appropriate.
+* Updated or replaced several images, including swapping out some low-resolution ones.
+* Re-created all the animated GIF images myself from scratch.
+* Added a mini-game — can you find the legendary hidden clearing? 
