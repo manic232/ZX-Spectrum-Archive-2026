@@ -242,6 +242,18 @@ a.game {
 .section2 + .section2 {
     margin-top: 60px;					/* Gap above each new section */
 }
+/* Game pages: the bold Top Review Section always fully contains its
+   floated smash.png. Without this, a short intro lets smash.png hang down
+   into the Lower Review Section and push its first screenshot sideways.
+   The gap below then always starts from the bottom of smash.png (or the
+   text, whichever is lower). */
+.section2.intro {
+    display: flow-root;					/* Contains the floated image */
+}
+/* Game pages: a little extra room after the bold Top Review Section */
+.section2.intro + .section2 {
+    margin-top: 90px;					/* Gap below the bold intro */
+}
 /* ======================================================================
    UTILITIES
    ====================================================================== */
@@ -898,6 +910,9 @@ body.frame-body.zxsa-mobile-nav a.game {
     }
     .section2 + .section2 {
         margin-top: 40px;				/* Was 60px on desktop */
+    }
+    .section2.intro + .section2 {
+        margin-top: 60px;				/* Was 95px on desktop - keeps phones as they were */
     }
     .footer {
         margin-top: 40px;				/* Was 80px on desktop */
