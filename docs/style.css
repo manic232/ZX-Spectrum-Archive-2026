@@ -899,6 +899,26 @@ body.frame-body.zxsa-mobile-nav a.game {
         margin: 0 auto 15px auto;		/* Centred, max-width:45% from above still applies */
         text-align: center;				/* Centres the caption underneath too */
     }
+/* ----- Game pages: first screenshot lines up with the top of its text -----
+   On desktop the first paragraph's 15px top margin merges with the gap
+   above the section, so the text starts level with the floated screenshot.
+   On a game page .page becomes a flex column (see above), and each section
+   inside a flex container keeps its first paragraph's margin to itself, so
+   the text started 15px lower than the screenshot. Removing that margin
+   only when the paragraph directly follows a floated screenshot that opens
+   the section puts them level again. Paragraph gaps elsewhere (and under
+   headings) are untouched. The bold .intro section is left as it was. */
+    .page:has(> .game-header-left) .section2:not(.intro) > :is(.photo-block-left, .photo-block-right, img.float-left, img.float-right, a:has(> img.float-left), a:has(> img.float-right)):first-child + p {
+        margin-top: 0;
+    }
+/* ----- Game pages: score tables keep their labels on one line -----
+   The label column (Use of computer:, Getting started: ...) was being
+   squeezed so narrow that labels wrapped onto two lines while the value
+   column beside them (a short "80%") sat mostly empty. Not letting the
+   label wrap hands the column the width it needs; the values take the rest. */
+    .page:has(> .game-header-left) .section2 > table:not(.info-header) td:first-child {
+        white-space: nowrap;
+    }
 /* ----- Tighten the large desktop vertical rhythm -----
    margin-top and the ::before offset must stay in sync (see SECTION
    WRAPPERS above): the divider sits at exactly half the gap */
