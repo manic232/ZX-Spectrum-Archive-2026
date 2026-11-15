@@ -1,10 +1,10 @@
-ZX Spectrum Archive: 2026 Web 1.5 Reboot Edition: https://www.zxsa.co.uk
+*ZX Spectrum Archive: 2026 Web 1.5 Reboot Edition: https://www.zxsa.co.uk
 
 *If you spot anything wrong, such as layout bugs, broken links, typos, inaccurate information, a game not working, or if I have used content that you would like removed, please let me know in <a href="https://github.com/manic232/ZX-Spectrum-Archive-2026/issues" target="_blank">issues</a> on my GitHub Repo and I will act swiftly.*
 
-## About The Archive:
+## The ZX Spectrum Archive Web Site:
 
-dedicated to the machine and the games I grew up with. The project was ambitious, but after two years of slow, laborious progress, I abandoned it. For the next 23 years it remained that way — a relic of early-2000s web design — until one day in April 2026, when I decided it was finally time to finish what I had started all those years ago.
+The Sinclair ZX Spectrum was an important part of my childhood, so in 2001 I set out to build a website dedicated to the machine and the games I grew up with. The project was ambitious, but after two years of slow, laborious progress, I abandoned it. For the next 23 years it remained that way — a relic of early-2000s web design — until one day in April 2026, when I decided it was finally time to finish what I had started all those years ago.
 
 My original intention for the reboot was modest: complete the CRASH Smash section and call it a day. But once I began working, it became clear the site needed far more than a bit of finishing off. I had built the original pages using FrontPage 2000 on Windows 98 (or possibly Windows XP), targeting a 1024×768 display and Internet Explorer 5/6. The HTML was a chaotic mess — with font tags everywhere, and random line breaks. The whole thing looked like it had been written as a practical joke. The web has changed dramatically since those days, and this project needed to change with it.
 
@@ -22,7 +22,7 @@ The final milestone for me was getting the site online through GitHub Pages. It 
 
 For anyone curious, you can view the original 2003 version of the site <a href="https://manic232.github.io/ZX-Spectrum-Archive-2003/" target="_blank">here</a>. It’s packed with dead links, cringeworthy text, and the unmistakable fingerprints of FrontPage 2000, but it offers an interesting glimpse into how the archive began and how far it has come.
 
-## Changes Made in the 2026 Reboot
+## The main changes Made in the 2026 Reboot since 2003 include the following...
 * Rebuilt the entire site using modern HTML and CSS.
 * The site is now online via GitHub Pages, and even has a domain name.
 * Changed all game links to magazine reviews, mainly from CRASH Online.
@@ -42,4 +42,4 @@ For anyone curious, you can view the original 2003 version of the site <a href="
 * Now includes information on newer hardware and software where appropriate.
 * Updated or replaced several images, including swapping out some low-resolution ones.
 * Re-created all the animated GIF images myself from scratch.
-* Added a mini-game — can you find the legendary hidden clearing? 
+* Added a mini-game — can you find the legendary hidden clearing?
