@@ -178,6 +178,21 @@ a:hover {
 a.game {
     font-size: 12px;					/* Sets size of fonts in iframes */
 }
+/* Invisible link: looks exactly like the text around it. The :hover line is
+   needed as well, otherwise the normal hover colour/glow would give it away. */
+a.secret-link,
+a.secret-link:link,
+a.secret-link:visited,
+a.secret-link:hover,
+a.secret-link:focus {
+    color: inherit;						/* Same colour as the surrounding text */
+    font-weight: inherit;				/* Same weight as the surrounding text */
+    text-decoration: none;				/* No underline, even on hover */
+    text-shadow: none;					/* No glow on hover */
+    transition: none;					/* No fade */
+    cursor: inherit;					/* Keeps the normal text cursor instead of a hand */
+    outline: none;						/* No focus box */
+}
 .link-list a {
     margin-right: 4px;					/* Space between inline links */
 }
@@ -302,7 +317,7 @@ a.game {
     font-size: 12px;					/* Caption text size */
     line-height: 18px;					/* Caption spacing */
     margin-top: 5px;					/* Space above caption */
-	margin-bottom: 5px;					/* Space below caption */
+	margin-bottom: 12px;					/* Space below caption */
 }
 /* ======================================================================
    LIST STYLES
@@ -405,7 +420,7 @@ body.zxsa-layout .page {
     overflow: visible !important;		/* Prevent .page from forcing scrollbars */
 }
 /* ======================================================================
-   TOP FRAME FIX — prevents scrollbars in zxsa_frame_top.html
+   TOP FRAME FIX — prevents scrollbars in top_frame.html
    ====================================================================== */
 body.zxsa-topframe {
     margin: 0 !important;				/* Remove global body margins */
@@ -593,7 +608,7 @@ body.frame-body.zxsa-mobile-nav a.game {
         height: var(--fit-h, 85dvh);	/* Modern mobile-safe equivalent */
         overflow: visible;				/* Page scrolls once the script sizes it */
     }
-/* ----- Top navigation bar (inside zxsa_frame_top.html) -----
+/* ----- Top navigation bar (inside top_frame.html) -----
    Safe on desktop: that frame is 1064px wide so this never matches there */
     body.zxsa-topframe {
         overflow: visible !important;	/* Allow the wrapped link row to show */
