@@ -178,21 +178,6 @@ a:hover {
 a.game {
     font-size: 12px;					/* Sets size of fonts in iframes */
 }
-/* Invisible link: looks exactly like the text around it. The :hover line is
-   needed as well, otherwise the normal hover colour/glow would give it away. */
-a.secret-link,
-a.secret-link:link,
-a.secret-link:visited,
-a.secret-link:hover,
-a.secret-link:focus {
-    color: inherit;						/* Same colour as the surrounding text */
-    font-weight: inherit;				/* Same weight as the surrounding text */
-    text-decoration: none;				/* No underline, even on hover */
-    text-shadow: none;					/* No glow on hover */
-    transition: none;					/* No fade */
-    cursor: inherit;					/* Keeps the normal text cursor instead of a hand */
-    outline: none;						/* No focus box */
-}
 .link-list a {
     margin-right: 4px;					/* Space between inline links */
 }
